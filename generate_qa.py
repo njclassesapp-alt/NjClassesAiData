@@ -14,41 +14,36 @@ chapter = tracker['current_chapter']
 
 print(f"Generating {marks} Marks questions for Std {std} {subject} Chapter {chapter}...")
 
+# નવો પ્રોમ્પ્ટ: જે બરાબર તમારા જૂના ફોર્મેટ મુજબ જ ડેટા બનાવશે
 prompt = f"""
-તમે ગુજરાત બોર્ડ (GSEB) ના એક્સપર્ટ શિક્ષક છો. આજનું વર્ષ 2026 છે.
-તમારે ફરજિયાતપણે 2024 પછીના નવા ઘટાડેલા NCERT/GSEB સિલેબસ મુજબ જ ડેટા બનાવવાનો છે. જૂના સિલેબસના રદ થયેલા ટોપિક બિલકુલ લેવાના નથી.
+તમે ગુજરાત બોર્ડ (GSEB) ના એક્સપર્ટ શિક્ષક છો. 
+તમારે 2024 પછીના નવા ઘટાડેલા NCERT સિલેબસ મુજબ ધોરણ {std}, વિષય: {subject}, પ્રકરણ: {chapter} માંથી {marks} ગુણના ઓછામાં ઓછા 10 અગત્યના પ્રશ્નો બનાવવાના છે.
 
-ધોરણ {std}, વિષય: {subject}, પ્રકરણ: {chapter} માંથી {marks} ગુણના ઓછામાં ઓછા 10 અગત્યના પ્રશ્નો બનાવો (જો શક્ય હોય તો).
+કડક નિયમો (STRICT RULES):
+- આઉટપુટમાં કોઈ પણ પ્રકારનો વેરીએબલ (var, let, const) બનાવવાનો નથી.
+- કોઈ પણ પ્રકારની કોમેન્ટ (// કે /** */) લખવાની નથી.
+- શોર્ટકટ ટ્રીક અને Reference ને અલગથી રાખવાની જગ્યાએ 'answer' ના HTML કોડની અંદર જ સૌથી નીચે ઉમેરી દેવાના છે.
+- માત્ર ને માત્ર નીચે આપેલા JSON Array ફોર્મેટમાં જ ડેટા આપવો.
 
-ખાસ શરત (બ્લુપ્રિન્ટ અને બેઝિક/સ્ટાન્ડર્ડ ગણિત):
-- પ્રશ્નો બનાવતા પહેલા ઓનલાઈન લેટેસ્ટ બ્લુપ્રિન્ટનું એનાલિસિસ કરો કે આ પ્રકરણમાંથી {marks} ગુણના પ્રશ્નો પૂછાય છે કે નહિ.
-- પ્રાથમિકતા 'બેઝિક ગણિત' ને આપવી. 
-- જો {marks} ગુણનો પ્રશ્ન બેઝિકમાં ન પૂછાતો હોય પણ 'સ્ટાન્ડર્ડ ગણિત' માં પૂછાતો હોય, તો પ્રશ્ન બનાવવો પણ reference માં "For Standard Maths" એવું ખાસ લખવું.
+ફોર્મેટ (આ જ માળખું વાપરવું):
+[
+  {{
+    "questionNumber": "પ્રશ્ન 1",
+    "marks": {marks},
+    "question": "અહીં પ્રશ્ન લખવો...",
+    "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં સંપૂર્ણ ઉકેલના સ્ટેપ્સ લખવા (જરૂર પડે ત્યાં આકૃતિ માટે SVG વાપરવું).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અહીં શોર્ટકટ ટ્રીક લખવી...</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+  }}
+]
 
-પ્રશ્નોનો ક્રમ આ મુજબ જ હોવો જોઈએ:
-1. સ્વાધ્યાયના પ્રશ્નો
-2. ઉદાહરણના પ્રશ્નો
-3. અગાઉ બોર્ડમાં પૂછાયેલા પ્રશ્નો (નવા સિલેબસને અનુરૂપ હોય તેવા જ, વર્ષ સાથે)
-4. એક્સ્ટ્રા IMP પ્રશ્નો
-
-કડક નિયમો:
-- ક્યાંય પણ 'ગાલા', 'નવનીત' કે અન્ય પ્રાઇવેટ પબ્લિકેશનનું નામ આવવું જોઈએ નહિ. 
-- રેફરન્સ તરીકે માત્ર "NJ Classes IMP" કે "GSEB Board" લખવું.
-- દરેક જવાબના અંતે "💡 નિતેશ સરની શોર્ટકટ ટ્રીક:" હેડિંગ સાથે દાખલો જલ્દી યાદ રાખવાની ટ્રીક આપવી.
-- આકૃતિની જરૂર હોય ત્યાં HTML/SVG કોડ વાપરવો.
-
-આઉટપુટ માત્ર JavaScript ફોર્મેટમાં આપવું. 
-પ્રશ્નના div નો કલર '#1a237e' અને જવાબના div નો કલર '#f5f7fa', બોર્ડર '#2196f3' રાખવી.
+ફક્ત આ જ ફોર્મેટમાં પ્રશ્નો કોમા (,) થી અલગ પાડીને આપવા. શરૂઆતમાં કે અંતમાં કોઈ વધારાનું લખાણ ન હોવું જોઈએ.
 """
 
-# જે ઓટોમેટિક સિસ્ટમ પહેલા પરફેક્ટ ચાલી હતી, તે જ ફરીથી મૂકી છે (કડક ફિલ્ટર સાથે)
 print("Searching for live text models from your API account...")
 valid_models = []
 try:
     for model in client.models.list():
         if hasattr(model, 'supported_actions') and "generateContent" in model.supported_actions:
             name = model.name.lower()
-            # ખરાબ મોડલ્સ (Audio, Video, TTS, Image, Exp) ને લિસ્ટમાંથી કાઢી નાખવા
             invalid_words = ['video', 'audio', 'tts', 'vision', 'image', 'exp', 'learnlm', 'embedding', 'aqa']
             if not any(word in name for word in invalid_words):
                 valid_models.append(model.name)
@@ -59,10 +54,7 @@ if not valid_models:
     print("Error: No valid text models found in this account.")
     exit(1)
 
-# સૌથી સારા 'flash' મોડલને સૌથી ઉપર લાવવા
 valid_models.sort(key=lambda x: ('flash' not in x.lower(), x))
-print(f"Perfect models found for your account: {valid_models[:3]}")
-
 output_data = ""
 
 # ડેટા જનરેટ કરવો
@@ -73,14 +65,25 @@ for m in valid_models[:3]:
             model=m,
             contents=prompt,
         )
-        output_data = response.text.replace("```javascript", "").replace("```", "").strip()
+        
+        raw_output = response.text.strip()
+        
+        # AI જો ભૂલથી વેરીએબલનું નામ (દા.ત. const data =) લખી દે, તો તેને જાતે જ કાપી નાખવા માટેનું ફિલ્ટર
+        if "[" in raw_output and "]" in raw_output:
+            raw_output = raw_output[raw_output.find("[") : raw_output.rfind("]") + 1]
+            
+        if raw_output.startswith("[") and raw_output.endswith("]"):
+            output_data = raw_output[1:-1].strip() # માત્ર અંદરના objects જ રાખશે, જેથી સિંગલ વેરીએબલ જળવાઈ રહે
+        else:
+            output_data = raw_output
+            
         print(f"✅ Success! Data generated using {m}")
         break
     except Exception as e:
         print(f"❌ Failed with {m}. Error: {e}")
 
 if not output_data:
-    print("Error: બધી જ ટ્રાય ફેલ ગઈ છે. API Key ચકાસો.")
+    print("Error: બધી જ ટ્રાય ફેલ ગઈ છે.")
     exit(1)
 
 # ડેટા સેવ કરવો
@@ -92,11 +95,15 @@ mode = 'a' if os.path.exists(file_path) else 'w'
 with open(file_path, mode, encoding='utf-8') as f:
     if mode == 'w':
         f.write(f"var Std{std}_{subject}_{marks}Marks = [\n")
-    f.write(output_data + ",\n")
+    if not output_data.endswith(","):
+        output_data += ",\n"
+    else:
+        output_data += "\n"
+    f.write(output_data)
 
 # ટ્રેકર અપડેટ કરવું
 tracker['current_chapter'] += 1 
 with open('system/progress_tracker.json', 'w') as f:
     json.dump(tracker, f, indent=4)
 
-print("Task Completed Successfully! Data Saved for NJ Classes.")
+print("Task Completed Successfully! Perfect Single Variable Format Applied.")
