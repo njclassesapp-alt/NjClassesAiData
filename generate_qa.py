@@ -1,9 +1,7 @@
 import os
 import json
-import google.generativeai as genai
-
-# જૂની અને સ્ટેબલ સિસ્ટમનું સેટઅપ
-genai.configure(api_key=os.environ["GEMINI_API_KEY"])
+import urllib.request
+import urllib.error
 
 with open('system/progress_tracker.json', 'r') as f:
     tracker = json.load(f)
@@ -42,15 +40,30 @@ prompt = f"""
 પ્રશ્નના div નો કલર '#1a237e' અને જવાબના div નો કલર '#f5f7fa', બોર્ડર '#2196f3' રાખવી.
 """
 
-# સૌથી સ્ટેબલ 1.5-flash મોડલ 
-model = genai.GenerativeModel('gemini-1.5-flash')
+api_key = os.environ.get("GEMINI_API_KEY")
 
+# ડાયરેક્ટ ગુગલ એપીઆઈ (Direct REST API API) કનેક્શન
+url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
+headers = {'Content-Type': 'application/json'}
+data = json.dumps({
+    "contents": [{"parts": [{"text": prompt}]}]
+}).encode('utf-8')
+
+print("Connecting directly to Google API (Bypassing libraries)...")
 try:
-    response = model.generate_content(prompt)
-    output_data = response.text.replace("```javascript", "").replace("```", "").strip()
-    print("✅ Success! Data generated using gemini-1.5-flash")
+    req = urllib.request.Request(url, data=data, headers=headers)
+    with urllib.request.urlopen(req) as response:
+        result = json.loads(response.read().decode('utf-8'))
+        output_data = result['candidates'][0]['content']['parts'][0]['text']
+        output_data = output_data.replace("```javascript", "").replace("```", "").strip()
+        print("✅ Success! Data generated using direct connection.")
+except urllib.error.HTTPError as e:
+    error_body = e.read().decode('utf-8')
+    print(f"❌ API Error: HTTP {e.code}")
+    print(f"Error Details: {error_body}")
+    exit(1)
 except Exception as e:
-    print(f"Error generating data: {e}")
+    print(f"❌ Connection Error: {str(e)}")
     exit(1)
 
 folder_path = f"Std{std}/{subject}"
