@@ -14,10 +14,15 @@ chapter = tracker['current_chapter']
 
 print(f"Generating {marks} Marks questions for Std {std} {subject} Chapter {chapter}...")
 
-# નવો પ્રોમ્પ્ટ: જે બરાબર તમારા જૂના ફોર્મેટ મુજબ જ ડેટા બનાવશે
+# નવો પ્રોમ્પ્ટ: જેમાં 'સ્માર્ટ વર્ક' અને 'પ્રશ્નની લંબાઈ' ના કડક નિયમો ઉમેર્યા છે
 prompt = f"""
 તમે ગુજરાત બોર્ડ (GSEB) ના એક્સપર્ટ શિક્ષક છો. 
 તમારે 2024 પછીના નવા ઘટાડેલા NCERT સિલેબસ મુજબ ધોરણ {std}, વિષય: {subject}, પ્રકરણ: {chapter} માંથી {marks} ગુણના ઓછામાં ઓછા 10 અગત્યના પ્રશ્નો બનાવવાના છે.
+
+પ્રશ્નોના લેવલ અને માર્ક્સ માટેના ખાસ નિયમો (SMART WORK):
+1. લંબાઈ અને કાઠિન્ય: પ્રશ્નોનું લેવલ બોર્ડના પેપરો અને ગાલા અસાઇનમેન્ટ (Gala Assignment) ના સ્ટાન્ડર્ડ મુજબનું રાખવું. {marks} ગુણના પ્રશ્નની લંબાઈ અને ગણતરી બરાબર {marks} ગુણ જેટલી જ હોવી જોઈએ.
+2. સ્માર્ટ વર્ક (પ્રશ્નો ભેગા કરવા): જો આ પ્રકરણમાંથી {marks} ગુણનો કોઈ સીધો મોટો પ્રશ્ન ન બની શકતો હોય (દા.ત. પ્રકરણ નાના પ્રશ્નો વાળું હોય), તો 2-2 ગુણના બે પ્રશ્નોને (i) અને (ii) તરીકે ભેગા કરીને એક મોટો {marks} ગુણનો પ્રશ્ન બનાવવો. 
+3. પ્રેક્ટિસ માટે ફરજિયાત: બ્લુપ્રિન્ટમાં {marks} ગુણનો પ્રશ્ન ન હોય તો પણ, વિદ્યાર્થીઓની પ્રેક્ટિસ માટે 'સ્માર્ટ વર્ક' વાળી પદ્ધતિથી પ્રશ્નો ફરજિયાત બનાવવા.
 
 કડક નિયમો (STRICT RULES):
 - આઉટપુટમાં કોઈ પણ પ્રકારનો વેરીએબલ (var, let, const) બનાવવાનો નથી.
@@ -68,12 +73,11 @@ for m in valid_models[:3]:
         
         raw_output = response.text.strip()
         
-        # AI જો ભૂલથી વેરીએબલનું નામ (દા.ત. const data =) લખી દે, તો તેને જાતે જ કાપી નાખવા માટેનું ફિલ્ટર
         if "[" in raw_output and "]" in raw_output:
             raw_output = raw_output[raw_output.find("[") : raw_output.rfind("]") + 1]
             
         if raw_output.startswith("[") and raw_output.endswith("]"):
-            output_data = raw_output[1:-1].strip() # માત્ર અંદરના objects જ રાખશે, જેથી સિંગલ વેરીએબલ જળવાઈ રહે
+            output_data = raw_output[1:-1].strip() 
         else:
             output_data = raw_output
             
@@ -106,4 +110,4 @@ tracker['current_chapter'] += 1
 with open('system/progress_tracker.json', 'w') as f:
     json.dump(tracker, f, indent=4)
 
-print("Task Completed Successfully! Perfect Single Variable Format Applied.")
+print("Task Completed Successfully! Smart Work Logic Applied.")
