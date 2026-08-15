@@ -1,19 +1,19 @@
 name: NJ Classes Daily AI Data Generator
 
 on:
-    schedule:
-    - cron: '30 2,10,18 * * *' # દરરોજ ભારતીય સમય મુજબ સવારે 8:00, સાંજે 4:00 અને રાત્રે 12:00 વાગ્યે ચાલશે
-  workflow_dispatch: # આનાથી તમે જાતે બટન દબાવીને પણ ટેસ્ટિંગ કરી શકશો
+  schedule:
+    - cron: '30 2,10,18 * * *' # ભારતીય સમય મુજબ દરરોજ સવારે 8:00, સાંજે 4:00 અને રાત્રે 12:00 વાગ્યે
+  workflow_dispatch: # મેન્યુઅલ ટેસ્ટિંગ માટેનું બટન
 
 jobs:
   generate-data:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
