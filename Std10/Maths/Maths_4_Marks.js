@@ -473,3 +473,70 @@ var Std10_Maths_4Marks = [
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "ત્રિકોણમિતિનો પરિચય",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 4,
+      "question": "સાબિત કરો કે: (sin A + cosec A)² + (cos A + sec A)² = 7 + tan² A + cot² A",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ડા.બા. = (sin A + cosec A)² + (cos A + sec A)²</p><p>વિસ્તરણ કરતા:</p><p>= (sin² A + 2 sin A cosec A + cosec² A) + (cos² A + 2 cos A sec A + sec² A)</p><p>આપણને ખબર છે કે sin A · cosec A = 1 અને cos A · sec A = 1</p><p>= sin² A + 2(1) + cosec² A + cos² A + 2(1) + sec² A</p><p>= (sin² A + cos² A) + 2 + 2 + cosec² A + sec² A</p><p>= 1 + 4 + (1 + cot² A) + (1 + tan² A)  [∵ sin²A + cos²A = 1, cosec²A = 1+cot²A, sec²A = 1+tan²A]</p><p>= 7 + tan² A + cot² A = જ.બા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હંમેશા યાદ રાખો કે sin-cosec અને cos-sec એકબીજાના વ્યસ્ત છે, તેથી તેમના ગુણાકારવાળા પદો 2 જ બનશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise 8.3 / GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 4,
+      "question": "સાબિત કરો કે: (i) √[(1 + sin A) / (1 - sin A)] = sec A + tan A  (ii) (cosec θ - cot θ)² = (1 - cos θ) / (1 + cos θ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>(i)</strong> ડા.બા. = √[(1 + sin A) / (1 - sin A)]</p><p>અંશ અને છેદને (1 + sin A) વડે ગુણતા:</p><p>= √[(1 + sin A)² / (1 - sin² A)] = √[(1 + sin A)² / cos² A]</p><p>= (1 + sin A) / cos A = 1/cos A + sin A/cos A = <strong>sec A + tan A</strong></p><p><strong>(ii)</strong> ડા.બા. = (cosec θ - cot θ)²</p><p>= (1/sin θ - cos θ/sin θ)² = [(1 - cos θ) / sin θ]²</p><p>= (1 - cos θ)² / sin² θ = (1 - cos θ)² / (1 - cos² θ)</p><p>= (1 - cos θ)(1 - cos θ) / [(1 - cos θ)(1 + cos θ)] = <strong>(1 - cos θ) / (1 + cos θ)</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે વર્ગમૂળવાળો દાખલો હોય ત્યારે છેદની અનુબદ્ધ કરણી (Conjugate) વડે ગુણાકાર કરવો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Series</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 4,
+      "question": "સાબિત કરો કે: (sin θ - 2 sin³ θ) / (2 cos³ θ - cos θ) = tan θ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ડા.બા. = (sin θ - 2 sin³ θ) / (2 cos³ θ - cos θ)</p><p>અંશમાંથી sin θ અને છેદમાંથી cos θ સામાન્ય લેતા:</p><p>= [sin θ (1 - 2 sin² θ)] / [cos θ (2 cos² θ - 1)]</p><p>= (sin θ / cos θ) × [ (1 - 2(1 - cos² θ)) / (2 cos² θ - 1) ]  [∵ sin² θ = 1 - cos² θ]</p><p>= tan θ × [ (1 - 2 + 2 cos² θ) / (2 cos² θ - 1) ]</p><p>= tan θ × [ (2 cos² θ - 1) / (2 cos² θ - 1) ]</p><p>= tan θ × 1 = tan θ = જ.બા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંશ અને છેદમાં cos 2θ નું સૂત્ર બને છે, પણ ધોરણ 10 મુજબ પદોને સમાન બનાવીને ઉડાડી દેવા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exemplar</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 4,
+      "question": "સાબિત કરો કે: cos A / (1 + sin A) + (1 + sin A) / cos A = 2 sec A",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ડા.બા. = [cos² A + (1 + sin A)²] / [cos A (1 + sin A)]</p><p>= [cos² A + 1 + 2 sin A + sin² A] / [cos A (1 + sin A)]</p><p>= [(sin² A + cos² A) + 1 + 2 sin A] / [cos A (1 + sin A)]</p><p>= [1 + 1 + 2 sin A] / [cos A (1 + sin A)]</p><p>= [2 + 2 sin A] / [cos A (1 + sin A)]</p><p>= 2(1 + sin A) / [cos A (1 + sin A)]</p><p>= 2 / cos A = 2 sec A = જ.બા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લસાઅ લીધા પછી (sin² A + cos² A) ને 1 મૂકવાનું ભૂલશો નહીં.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Past Year Paper</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 4,
+      "question": "કિંમત શોધો: (i) (5 cos² 60° + 4 sec² 30° - tan² 45°) / (sin² 30° + cos² 30°) (ii) જો tan(A + B) = √3 અને tan(A - B) = 1/√3, 0° < A + B ≤ 90°; A > B હોય, તો A અને B શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>(i)</strong> છેદમાં sin² 30° + cos² 30° = 1 થાય.</p><p>અંશ = 5(1/2)² + 4(2/√3)² - (1)² = 5(1/4) + 4(4/3) - 1</p><p>= 5/4 + 16/3 - 1 = (15 + 64 - 12) / 12 = <strong>67/12</strong></p><p><strong>(ii)</strong> tan(A+B) = √3 ⇒ A+B = 60° --- (1)</p><p>tan(A-B) = 1/√3 ⇒ A-B = 30° --- (2)</p><p>(1) અને (2) નો સરવાળો કરતા: 2A = 90° ⇒ <strong>A = 45°</strong></p><p>સમીકરણ (1) માં કિંમત મુકતા: 45° + B = 60° ⇒ <strong>B = 15°</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોષ્ટકની કિંમતો ચોકસાઈથી મુકવી, ખાસ કરીને વર્ગ કરવામાં ભૂલ ન કરવી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Ex 8.2</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 4,
+      "question": "સાબિત કરો કે: (cos A - sin A + 1) / (cos A + sin A - 1) = cosec A + cot A",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ડાબા બાજુના અંશ અને છેદને sin A વડે ભાગતા:</p><p>= (cot A - 1 + cosec A) / (cot A + 1 - cosec A)</p><p>= [ (cot A + cosec A) - (cosec² A - cot² A) ] / (cot A - cosec A + 1)  [∵ 1 = cosec² A - cot² A]</p><p>= [ (cosec A + cot A) - (cosec A - cot A)(cosec A + cot A) ] / (cot A - cosec A + 1)</p><p>= (cosec A + cot A) [ 1 - (cosec A - cot A) ] / (cot A - cosec A + 1)</p><p>= (cosec A + cot A) [ 1 - cosec A + cot A ] / (1 - cosec A + cot A)</p><p>= cosec A + cot A = જ.બા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 ની જગ્યાએ નિત્યસમ મૂકવો એ આ દાખલાનો 'ટર્નિંગ પોઈન્ટ' છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Most Important for Board Exam</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 4,
+      "question": "સાબિત કરો કે: tan θ / (1 - cot θ) + cot θ / (1 - tan θ) = 1 + sec θ cosec θ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>બધા પદોને sin અને cos માં ફેરવતા:</p><p>ડા.બા. = (sin θ/cos θ) / (1 - cos θ/sin θ) + (cos θ/sin θ) / (1 - sin θ/cos θ)</p><p>= [sin² θ / cos θ(sin θ - cos θ)] + [cos² θ / sin θ(cos θ - sin θ)]</p><p>= [sin² θ / cos θ(sin θ - cos θ)] - [cos² θ / sin θ(sin θ - cos θ)]</p><p>= (sin³ θ - cos³ θ) / [sin θ cos θ (sin θ - cos θ)]</p><p>= [(sin θ - cos θ)(sin² θ + sin θ cos θ + cos² θ)] / [sin θ cos θ (sin θ - cos θ)]</p><p>= (1 + sin θ cos θ) / (sin θ cos θ) = 1/(sin θ cos θ) + 1</p><p>= cosec θ sec θ + 1 = જ.બા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: a³ - b³ = (a-b)(a²+ab+b²) ના અવયવનો ઉપયોગ કરો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise 8.3 Q5(iii)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 4,
+      "question": "સાબિત કરો કે: (1 + tan² A) / (1 + cot² A) = [ (1 - tan A) / (1 - cot A) ]² = tan² A",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>પાર્ટ 1:</strong> (1 + tan² A) / (1 + cot² A) = sec² A / cosec² A</p><p>= (1/cos² A) / (1/sin² A) = sin² A / cos² A = <strong>tan² A</strong></p><p><strong>પાર્ટ 2:</strong> [ (1 - tan A) / (1 - cot A) ]²</p><p>= [ (1 - tan A) / (1 - 1/tan A) ]² = [ (1 - tan A) / ((tan A - 1)/tan A) ]²</p><p>= [ (1 - tan A) × tan A / -(1 - tan A) ]²</p><p>= [ -tan A ]² = <strong>tan² A</strong></p><p>આમ, બંને બાજુ tan² A સાબિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: cot A ને 1/tan A માં ફેરવવાથી દાખલો ખૂબ જ સરળ બની જશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Gala Assignment IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 4,
+      "question": "જો sin θ + cos θ = √3 હોય, તો સાબિત કરો કે tan θ + cot θ = 1.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>આપેલ છે: sin θ + cos θ = √3</p><p>બંને બાજુ વર્ગ કરતા:</p><p>(sin θ + cos θ)² = (√3)²</p><p>sin² θ + cos² θ + 2 sin θ cos θ = 3</p><p>1 + 2 sin θ cos θ = 3 ⇒ 2 sin θ cos θ = 2 ⇒ sin θ cos θ = 1</p><p>હવે, સાબિત કરવાનું છે: tan θ + cot θ = 1</p><p>ડા.બા. = sin θ/cos θ + cos θ/sin θ</p><p>= (sin² θ + cos² θ) / (sin θ cos θ)</p><p>= 1 / (sin θ cos θ)</p><p>અગાઉ મેળવેલ કિંમત sin θ cos θ = 1 મુકતા:</p><p>= 1 / 1 = 1 = જ.બા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જયારે sin + cos આપેલ હોય ત્યારે વર્ગ કરવો એ સૌથી બેસ્ટ રસ્તો છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Higher Order Thinking Skills (HOTS)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 4,
+      "question": "સાબિત કરો કે: (cosec A - sin A)(sec A - cos A) = 1 / (tan A + cot A)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ડા.બા. = (1/sin A - sin A)(1/cos A - cos A)</p><p>= [(1 - sin² A) / sin A] × [(1 - cos² A) / cos A]</p><p>= [cos² A / sin A] × [sin² A / cos A] = <strong>sin A cos A</strong></p><p>જ.બા. = 1 / (tan A + cot A) = 1 / (sin A/cos A + cos A/sin A)</p><p>= 1 / [(sin² A + cos² A) / (sin A cos A)]</p><p>= 1 / [1 / (sin A cos A)] = <strong>sin A cos A</strong></p><p>ડા.બા. = જ.બા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘણીવાર ડાબી બાજુ અને જમણી બાજુ બંનેને અલગ-અલગ સાદું રૂપ આપવું વધુ સરળ પડે છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise 8.3 Q5(ix)</p></div>"
+    }
+  ]
+}
