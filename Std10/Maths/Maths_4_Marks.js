@@ -1,4 +1,8 @@
 var Std10_Maths_4Marks = [
+"1": {
+  "chapterName": "પ્રકરણ 1",
+  "chapterTitle": "વાસ્તવિક સંખ્યાઓ",
+  "qa_list": [
 {
     "questionNumber": "પ્રશ્ન 1",
     "marks": 4,
@@ -58,7 +62,14 @@ var Std10_Maths_4Marks = [
     "marks": 4,
     "question": "સાબિત કરો કે 1 / √2 અસંમેય છે.",
     "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે 1 / √2 સંમેય છે.<br>1 / √2 = a / b (જ્યાં a, b પૂર્ણાંક, b ≠ 0 અને ગુ.સા.અ. (a, b) = 1)<br>√2 = b / a<br>અહીં b / a સંમેય છે, તેથી √2 પણ સંમેય હોવી જોઈએ.<br>પરંતુ આપણે જાણીએ છીએ કે √2 અસંમેય છે.<br>જે વિરોધાભાસ છે. તેથી આપણી ધારણા ખોટી છે.<br>માટે, 1 / √2 અસંમેય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદનું સંમેયીકરણ (Rationalization) કરીને પણ આ સાબિત કરી શકાય છે: √2 / 2 = a / b.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
-  },
+      }
+  ]
+},
+
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "બહુપદીઓ",
+  "qa_list": [
 {
     "questionNumber": "પ્રશ્ન 1",
     "marks": 4,
@@ -118,8 +129,10 @@ var Std10_Maths_4Marks = [
     "marks": 4,
     "question": "(i) દ્વિઘાત બહુપદી x² + 9x + 20 ના શૂન્યો શોધો અને સંબંધ ચકાસો.\n(ii) જો α અને β એ x² - 4x + 3 ના શૂન્યો હોય, તો α⁴β³ + α³β⁴ ની કિંમત શોધો.",
     "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>(i) x² + 9x + 20 માટે:</strong><br>x² + 5x + 4x + 20 = 0 => (x + 5)(x + 4) = 0<br>શૂન્યો: -5, -4<br>સરવાળો = -9 = -b/a, ગુણાકાર = 20 = c/a</p><p><strong>(ii) α⁴β³ + α³β⁴ માટે:</strong><br>સામાન્ય કાઢતા: α³β³ (α + β) = (αβ)³ (α + β)<br>અહીં α + β = 4 અને αβ = 3<br>કિંમત = (3)³ * (4) = 27 * 4 = 108</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અઘરા દેખાતા સમીકરણોમાં હંમેશા પદ સામાન્ય (Common) કાઢવાથી ઉકેલ સરળ બની જાય છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+      }
+   ]
   },
-,
+
 "3": {
   "chapterName": "પ્રકરણ 3",
   "chapterTitle": "દ્વિચલ સુરેખ સમીકરણ યુગ્મ",
@@ -185,8 +198,8 @@ var Std10_Maths_4Marks = [
       "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે આવક 9x અને 7x છે. ખર્ચ 4y અને 3y છે. (આવક - ખર્ચ = બચત)</p><p>વ્યક્તિ 1: 9x - 4y = 2000 --- (1)<br>વ્યક્તિ 2: 7x - 3y = 2000 --- (2)</p><p>સમીકરણ (1) ને 3 વડે અને (2) ને 4 વડે ગુણી બાદબાકી કરતા:<br>(27x - 12y) - (28x - 12y) = 6000 - 8000<br>-x = -2000 => <b>x = 2000</b></p><p>આવક: 9(2000) = <b>₹18,000</b> અને 7(2000) = <b>₹14,000</b>.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણોત્તરવાળા દાખલામાં 'x' ચલ લઈને સીધા સમીકરણ બનાવી શકાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Example / Gala Assignment</p></div>"
     }
   ]
-}
-,
+},
+
 "4": {
   "chapterName": "પ્રકરણ 4",
   "chapterTitle": "દ્વિઘાત સમીકરણ",
