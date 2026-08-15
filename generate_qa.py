@@ -2,10 +2,8 @@ import os
 import json
 from google import genai
 
-# 1. નવી Google GenAI સિસ્ટમનું સેટઅપ
 client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 
-# 2. ટ્રેકર ફાઈલ વાંચવી 
 with open('system/progress_tracker.json', 'r') as f:
     tracker = json.load(f)
 
@@ -16,7 +14,6 @@ chapter = tracker['current_chapter']
 
 print(f"Generating {marks} Marks questions for Std {std} {subject} Chapter {chapter}...")
 
-# 3. કડક નિયમો સાથેનો AI પ્રોમ્પ્ટ
 prompt = f"""
 તમે ગુજરાત બોર્ડ (GSEB) ના એક્સપર્ટ શિક્ષક છો. 
 ધોરણ {std}, વિષય: {subject}, પ્રકરણ: {chapter} માંથી {marks} ગુણના અગત્યના પ્રશ્નો બનાવો.
@@ -32,7 +29,6 @@ prompt = f"""
 પ્રશ્નના div નો કલર '#1a237e' અને જવાબના div નો કલર '#f5f7fa', બોર્ડર '#2196f3' રાખવી.
 """
 
-# 4. Auto-Detect Models (જે મોડેલ ચાલુ હશે તે જાતે શોધી લેશે)
 models_to_try = ['gemini-2.0-flash', 'gemini-1.5-flash', 'gemini-1.5-flash-8b', 'gemini-pro']
 output_data = ""
 
@@ -47,13 +43,12 @@ for m in models_to_try:
         print(f"✅ Success! Data generated using {m}")
         break
     except Exception as e:
-        print(f"❌ Failed with {m}")
+        print(f"❌ Failed with {m}. Error message: {e}")
 
 if not output_data:
     print("Error: બધી જ ટ્રાય ફેલ ગઈ છે. કૃપા કરીને API Key ચેક કરો.")
     exit(1)
 
-# 5. ડેટાને ફાઇલમાં સેવ કરવો
 folder_path = f"Std{std}/{subject}"
 os.makedirs(folder_path, exist_ok=True)
 file_path = f"{folder_path}/{subject}_{marks}_Marks.js"
@@ -64,7 +59,6 @@ with open(file_path, mode, encoding='utf-8') as f:
         f.write(f"var Std{std}_{subject}_{marks}Marks = [\n")
     f.write(output_data + ",\n")
 
-# 6. ટ્રેકર અપડેટ કરવું
 tracker['current_chapter'] += 1 
 with open('system/progress_tracker.json', 'w') as f:
     json.dump(tracker, f, indent=4)
