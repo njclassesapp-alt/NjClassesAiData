@@ -401,3 +401,139 @@ const gsebMathsData = {
 };
 
 console.log("GSEB 2026 IMP Questions Loaded Successfully.");,
+/**
+ * GSEB Std 10 Maths - Chapter 3 (દ્વિચલ રેખિક સમીકરણ યુગ્મ) 
+ * Target Year: 2026 (Based on 2024+ Rationalized Syllabus)
+ * Expert: NJ Classes (નિતેશ સર)
+ */
+
+const importantQuestions = [
+  {
+    category: "સ્વાધ્યાયના પ્રશ્નો",
+    standard: "Basic/Standard",
+    question: "પાંચ વર્ષ પછી જેકબની ઉંમર તેના પુત્રની ઉંમર કરતાં ત્રણ ગણી હશે અને પાંચ વર્ષ પહેલાં જેકબની ઉંમર તેના પુત્રની ઉંમર કરતાં સાત ગણી હોય, તો તેમની વર્તમાન ઉંમર શોધો. (આદેશની રીતે ઉકેલો)",
+    reference: "GSEB Board (Ex 3.2)",
+    solution: "ધારો કે જેકબની વર્તમાન ઉંમર x વર્ષ અને પુત્રની ઉંમર y વર્ષ છે.<br>5 વર્ષ પછી: x + 5 = 3(y + 5) => x - 3y = 10 ---(1)<br>5 વર્ષ પહેલાં: x - 5 = 7(y - 5) => x - 7y = -30 ---(2)<br>સમીકરણ (1) માંથી x = 3y + 10 ને (2) માં મૂકતા:<br>3y + 10 - 7y = -30 => -4y = -40 => y = 10.<br>તેથી x = 3(10) + 10 = 40.<br>જવાબ: જેકબની ઉંમર 40 વર્ષ અને પુત્રની ઉંમર 10 વર્ષ.",
+    shortcut: "💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉંમરના દાખલામાં હંમેશા 'વર્તમાન ઉંમર' ધારો. 'પછી' હોય તો (+) કરો અને 'પહેલા' હોય તો (-) કરો. સમીકરણ હંમેશા (મોટું = ગુણ્યા * નાનું) ના ફોર્મેટમાં બનાવો."
+  },
+  {
+    category: "સ્વાધ્યાયના પ્રશ્નો",
+    standard: "Basic/Standard",
+    question: "એક અપૂર્ણાંકના અંશમાં 1 ઉમેરતા અને છેદમાંથી 1 બાદ કરતા અપૂર્ણાંકની કિંમત 1 બને છે. જો માત્ર છેદમાં 1 ઉમેરતા અપૂર્ણાંકનું અતિસંક્ષિપ્ત રૂપ 1/2 બને, તો તે અપૂર્ણાંક શોધો.",
+    reference: "NJ Classes IMP (Ex 3.3)",
+    solution: "ધારો કે અપૂર્ણાંક x/y છે.<br>શરત 1: (x+1)/(y-1) = 1 => x - y = -2 ---(1)<br>શરત 2: x/(y+1) = 1/2 => 2x - y = 1 ---(2)<br>લોપની રીતે: (2) માંથી (1) બાદ કરતા, x = 3.<br>x ની કિંમત (1) માં મૂકતા, 3 - y = -2 => y = 5.<br>જવાબ: અપૂર્ણાંક 3/5 છે.",
+    shortcut: "💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અપૂર્ણાંકના દાખલામાં અંશને x અને છેદને y ધારી સીધા શરત મુજબ સમીકરણ બનાવો. લોપની રીત અહીં સૌથી ઝડપી બને છે."
+  },
+  {
+    category: "સ્વાધ્યાયના પ્રશ્નો",
+    standard: "Standard Maths",
+    question: "બે અંકોની એક સંખ્યાના અંકોનો સરવાળો 9 છે. વળી સંખ્યાના 9 ગણા એ અંકોની અદલાબદલી કરતા મળતી સંખ્યા કરતા બે ગણા છે. તે સંખ્યા શોધો.",
+    reference: "GSEB Board (Ex 3.3)",
+    solution: "એકમનો અંક x અને દશકનો અંક y ધારો. મૂળ સંખ્યા = 10y + x.<br>શરત 1: x + y = 9 ---(1)<br>શરત 2: 9(10y + x) = 2(10x + y)<br>90y + 9x = 20x + 2y => 88y - 11x = 0 => 8y - x = 0 ---(2)<br>(1) અને (2) નો સરવાળો કરતા: 9y = 9 => y = 1.<br>y = 1 તો x = 8. સંખ્યા = 10(1) + 8 = 18.",
+    shortcut: "💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંકોની અદલાબદલીમાં 'મૂળ સંખ્યા = 10 * દશક + એકમ' અને 'નવી સંખ્યા = 10 * એકમ + દશક' સૂત્ર ફિક્સ યાદ રાખો."
+  },
+  {
+    category: "ઉદાહરણના પ્રશ્નો",
+    standard: "Basic/Standard",
+    question: "એક ટેક્સીનું ભાડું નિશ્ચિત ભાડું અને અંતરના પ્રમાણમાં સંયુક્ત રીતે લેવાય છે. 10 કિમી અંતર માટે ₹ 105 અને 15 કિમી માટે ₹ 155 ની ચુકવણી કરવી પડે છે, તો નિશ્ચિત ભાડું અને પ્રતિ કિમી દર શોધો. 25 કિમીની મુસાફરી માટે કેટલું ભાડું ચૂકવવું પડે?",
+    reference: "GSEB Board (Example)",
+    solution: "ધારો કે નિશ્ચિત ભાડું x અને દર y પ્રતિ કિમી છે.<br>x + 10y = 105 ---(1)<br>x + 15y = 155 ---(2)<br>બાદબાકી કરતા: 5y = 50 => y = 10.<br>x + 10(10) = 105 => x = 5.<br>25 કિમી માટે: 5 + 25(10) = 5 + 250 = ₹ 255.",
+    shortcut: "💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવા દાખલામાં નિશ્ચિત ભાડું (x) હંમેશા એક જ વાર આવે, જ્યારે અંતર સાથે દર (y) ગુણાય છે."
+  },
+  {
+    category: "ઉદાહરણના પ્રશ્નો",
+    standard: "Standard Maths",
+    question: "બે વ્યક્તિઓની માસિક આવકનો ગુણોત્તર 9:7 છે અને તેમના ખર્ચનો ગુણોત્તર 4:3 છે. જો દરેક વ્યક્તિ માસિક ₹ 2000 ની બચત કરે, તો તેમની માસિક આવક શોધો.",
+    reference: "NJ Classes IMP (Example)",
+    solution: "આવક 9x અને 7x ધારો. ખર્ચ 4y અને 3y ધારો.<br>9x - 4y = 2000 ---(1)<br>7x - 3y = 2000 ---(2)<br>સમીકરણ (1) ને 3 વડે અને (2) ને 4 વડે ગુણી લોપ કરતા:<br>27x - 12y = 6000<br>28x - 12y = 8000<br>બાદબાકી કરતા: x = 2000.<br>આવક: 9(2000) = 18000 અને 7(2000) = 14000.",
+    shortcut: "💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બચત = આવક - ખર્ચ. ગુણોત્તર આપ્યો હોય ત્યારે ચલ (x અથવા y) સાથે ગુણીને સમીકરણ બનાવો."
+  },
+  {
+    category: "અગાઉ બોર્ડમાં પૂછાયેલા પ્રશ્નો",
+    standard: "Basic Maths",
+    question: "નીચેના સમીકરણ યુગ્મનો ઉકેલ લોપની રીતે શોધો: 3x + 4y = 10 અને 2x - 2y = 2. (માર્ચ-2024 જેવો)",
+    reference: "GSEB Board 2024",
+    solution: "3x + 4y = 10 ---(1)<br>2x - 2y = 2 ---(2)<br>સમીકરણ (2) ને 2 વડે ગુણતા: 4x - 4y = 4 ---(3)<br>(1) અને (3) નો સરવાળો કરતા: 7x = 14 => x = 2.<br>x = 2 સમીકરણ (2) માં મૂકતા: 2(2) - 2y = 2 => 4 - 2y = 2 => 2 = 2y => y = 1.<br>જવાબ: (x, y) = (2, 1).",
+    shortcut: "💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોપની રીતમાં જે ચલના સહગુણક સમાન કરવા સરળ હોય (અહીં y ને 2 વડે ગુણતા 4 થઈ જાય છે) તેને જ પસંદ કરવા."
+  },
+  {
+    category: "અગાઉ બોર્ડમાં પૂછાયેલા પ્રશ્નો",
+    standard: "Standard Maths",
+    question: "એક લંબચોરસની લંબાઈમાં 5 એકમ ઘટાડો થાય અને પહોળાઈમાં 3 એકમ વધારો થાય, તો ક્ષેત્રફળ 9 ચોરસ એકમ ઘટે છે. જો લંબાઈમાં 3 અને પહોળાઈમાં 2 એકમ વધારીએ, તો ક્ષેત્રફળ 67 વધે છે. લંબચોરસના પરિમાણ શોધો.",
+    reference: "GSEB Board (Standard Style)",
+    solution: "લંબાઈ x, પહોળાઈ y. ક્ષેત્રફળ xy.<br>(x-5)(y+3) = xy - 9 => 3x - 5y = 6 ---(1)<br>(x+3)(y+2) = xy + 67 => 2x + 3y = 61 ---(2)<br>સમીકરણ ઉકેલતા: x = 17, y = 9.<br>લંબાઈ 17 એકમ, પહોળાઈ 9 એકમ.",
+    shortcut: "💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (x+a)(y+b) નું વિસ્તરણ કરતી વખતે xy હંમેશા સામસામે ઉડી જશે, એટલે માત્ર ચલવાળા પદો પર ધ્યાન આપો."
+  },
+  {
+    category: "એક્સ્ટ્રા IMP પ્રશ્નો",
+    standard: "Basic/Standard",
+    question: "5 પેન્સિલ અને 7 પેનની કુલ કિંમત ₹ 50 છે અને તે જ કિંમતવાળી 7 પેન્સિલ તથા 5 પેનની કુલ કિંમત ₹ 46 છે. એક પેન્સિલ અને એક પેનની કિંમત શોધો.",
+    reference: "NJ Classes IMP",
+    solution: "પેન્સિલ x, પેન y.<br>5x + 7y = 50 ---(1)<br>7x + 5y = 46 ---(2)<br>એકવાર સરવાળો: 12x + 12y = 96 => x + y = 8 ---(3)<br>એકવાર બાદબાકી: -2x + 2y = 4 => -x + y = 2 ---(4)<br>(3) અને (4) પરથી: 2y = 10 => y = 5. x = 3.<br>પેન્સિલ ₹ 3, પેન ₹ 5.",
+    shortcut: "💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે સહગુણકોની અદલાબદલી હોય (5,7 અને 7,5), ત્યારે એકવાર સરવાળો અને એકવાર બાદબાકી કરવાથી ખૂબ નાના સમીકરણો મળે છે."
+  },
+  {
+    category: "એક્સ્ટ્રા IMP પ્રશ્નો",
+    standard: "Standard Maths",
+    question: "નીચેના સમીકરણોને આલેખની રીતે ઉકેલો: x - y + 1 = 0 અને 3x + 2y - 12 = 0. આ રેખાઓ અને x-અક્ષ દ્વારા બનેલા ત્રિકોણના શિરોબિંદુઓ મેળવો.",
+    reference: "GSEB Board",
+    solution: "સમીકરણ 1: x-y = -1 => બિંદુઓ (0,1), (-1,0), (2,3).<br>સમીકરણ 2: 3x+2y = 12 => બિંદુઓ (4,0), (0,6), (2,3).<br>બંને રેખાઓ (2,3) માં છેદે છે.<br>x-અક્ષ પરના બિંદુઓ: (-1,0) અને (4,0).<br>શિરોબિંદુઓ: (2,3), (-1,0), (4,0).",
+    shortcut: "💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x-અક્ષ પરના બિંદુ શોધવા y=0 મૂકો અને y-અક્ષ માટે x=0 મૂકો. છેદબિંદુ એ જ ઉકેલ છે."
+  },
+  {
+    category: "એક્સ્ટ્રા IMP પ્રશ્નો",
+    standard: "Basic Maths",
+    question: "એક હોસ્ટેલના વિદ્યાર્થીઓનું ભોજન ખર્ચ અંશતઃ અચળ અને અંશતઃ વિદ્યાર્થીઓએ કેટલા દિવસ ભોજન લીધું તેના પર આધારિત છે. વિદ્યાર્થી A 20 દિવસ ભોજન લે છે અને ₹ 1000 ચૂકવે છે. વિદ્યાર્થી B 26 દિવસ ભોજન લે છે અને ₹ 1180 ચૂકવે છે. નિશ્ચિત ખર્ચ અને દૈનિક ખર્ચ શોધો.",
+    reference: "NJ Classes IMP",
+    solution: "નિશ્ચિત ખર્ચ x, દૈનિક ખર્ચ y.<br>x + 20y = 1000 ---(1)<br>x + 26y = 1180 ---(2)<br>બાદબાકી કરતા: 6y = 180 => y = 30.<br>x + 20(30) = 1000 => x + 600 = 1000 => x = 400.<br>નિશ્ચિત ખર્ચ ₹ 400 અને દૈનિક ખર્ચ ₹ 30.",
+    shortcut: "💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ ટેક્સીવાળા દાખલા જેવો જ છે. x હંમેશા એકલો રહેશે અને દિવસોની સંખ્યા y સાથે ગુણાશે."
+  }
+];
+
+// Function to render the UI
+function renderIMPQuestions() {
+  const container = document.createElement('div');
+  container.style.fontFamily = 'Arial, sans-serif';
+  container.style.padding = '20px';
+  container.style.backgroundColor = '#e0e0e0';
+
+  importantQuestions.forEach((item, index) => {
+    const qDiv = document.createElement('div');
+    qDiv.style.backgroundColor = '#1a237e';
+    qDiv.style.color = 'white';
+    qDiv.style.padding = '15px';
+    qDiv.style.marginTop = '20px';
+    qDiv.style.borderRadius = '8px 8px 0 0';
+    qDiv.style.borderLeft = '5px solid #2196f3';
+    qDiv.innerHTML = `<strong>પ્રશ્ન ${index + 1} [${item.category}]</strong> <span style="float:right; font-size: 0.8em; background:#ffeb3b; color:black; padding:2px 5px; border-radius:4px;">${item.standard}</span><br><br>${item.question}`;
+
+    const aDiv = document.createElement('div');
+    aDiv.style.backgroundColor = '#f5f7fa';
+    aDiv.style.color = '#333';
+    aDiv.style.padding = '15px';
+    aDiv.style.border = '1px solid #2196f3';
+    aDiv.style.borderTop = 'none';
+    aDiv.style.borderRadius = '0 0 8px 8px';
+    aDiv.innerHTML = `<strong>ઉકેલ:</strong><p>${item.solution}</p>
+                      <p style="color: #d32f2f; font-weight: bold;">${item.shortcut}</p>
+                      <hr><small>Reference: ${item.reference}</small>`;
+
+    container.appendChild(qDiv);
+    container.appendChild(aDiv);
+  });
+
+  document.body.appendChild(container);
+}
+
+// Visualizing the graph axis with SVG for graphical method context (Optional display)
+const graphIcon = `
+<svg width="100" height="100" viewBox="0 0 100 100" style="background: white; border:1px solid #ccc; margin-top:10px;">
+  <line x1="10" y1="50" x2="90" y2="50" stroke="black" stroke-width="1" />
+  <line x1="50" y1="10" x2="50" y2="90" stroke="black" stroke-width="1" />
+  <line x1="20" y1="80" x2="80" y2="20" stroke="blue" stroke-width="2" />
+  <line x1="20" y1="20" x2="80" y2="80" stroke="red" stroke-width="2" />
+  <circle cx="50" cy="50" r="3" fill="green" />
+</svg>`;
+
+renderIMPQuestions();
+console.log("NJ Classes - Std 10 Maths Ch 3 IMP Questions Loaded Successfully.");,
