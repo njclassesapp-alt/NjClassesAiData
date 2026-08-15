@@ -1,8 +1,9 @@
 import os
 import json
-from google import genai
+import google.generativeai as genai
 
-client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+# જૂની અને સ્ટેબલ સિસ્ટમનું સેટઅપ
+genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 
 with open('system/progress_tracker.json', 'r') as f:
     tracker = json.load(f)
@@ -41,25 +42,15 @@ prompt = f"""
 પ્રશ્નના div નો કલર '#1a237e' અને જવાબના div નો કલર '#f5f7fa', બોર્ડર '#2196f3' રાખવી.
 """
 
-# લેટેસ્ટ અને સ્ટેબલ મોડેલ્સનું લિસ્ટ (સૌથી પહેલા લેટેસ્ટ 2.0 ટ્રાય કરશે)
-models_to_try = ['gemini-2.0-flash', 'gemini-1.5-flash', 'gemini-1.5-pro']
-output_data = ""
+# સૌથી સ્ટેબલ 1.5-flash મોડલ 
+model = genai.GenerativeModel('gemini-1.5-flash')
 
-for m in models_to_try:
-    try:
-        print(f"Trying to generate data using model: {m}...")
-        response = client.models.generate_content(
-            model=m,
-            contents=prompt,
-        )
-        output_data = response.text.replace("```javascript", "").replace("```", "").strip()
-        print(f"✅ Success! Data generated using {m}")
-        break
-    except Exception as e:
-        print(f"❌ Failed with {m}. Error: {e}")
-
-if not output_data:
-    print("Error: બધી જ ટ્રાય ફેલ ગઈ છે. API Key ચકાસો.")
+try:
+    response = model.generate_content(prompt)
+    output_data = response.text.replace("```javascript", "").replace("```", "").strip()
+    print("✅ Success! Data generated using gemini-1.5-flash")
+except Exception as e:
+    print(f"Error generating data: {e}")
     exit(1)
 
 folder_path = f"Std{std}/{subject}"
