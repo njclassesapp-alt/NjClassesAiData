@@ -14,10 +14,9 @@ chapter = tracker['current_chapter']
 
 print(f"Generating {marks} Marks questions for Std {std} {subject} Chapter {chapter}...")
 
-# નવો, પાવરફુલ અને સિલેબસ-આધારિત પ્રોમ્પ્ટ
 prompt = f"""
 તમે ગુજરાત બોર્ડ (GSEB) ના એક્સપર્ટ શિક્ષક છો. આજનું વર્ષ 2026 છે.
-તમારે ફરજિયાતપણે 2024 પછીના નવા ઘટાડેલા NCERT/GSEB સિલેબસ મુજબ જ ડેટા બનાવવાનો છે. જૂના સિલેબસના રદ થયેલા ટોપિક (જેમ કે યુક્લિડની ભાગ પ્રવિધિ વગેરે) બિલકુલ લેવાના નથી.
+તમારે ફરજિયાતપણે 2024 પછીના નવા ઘટાડેલા NCERT/GSEB સિલેબસ મુજબ જ ડેટા બનાવવાનો છે. જૂના સિલેબસના રદ થયેલા ટોપિક બિલકુલ લેવાના નથી.
 
 ધોરણ {std}, વિષય: {subject}, પ્રકરણ: {chapter} માંથી {marks} ગુણના ઓછામાં ઓછા 10 અગત્યના પ્રશ્નો બનાવો (જો શક્ય હોય તો).
 
@@ -42,37 +41,25 @@ prompt = f"""
 પ્રશ્નના div નો કલર '#1a237e' અને જવાબના div નો કલર '#f5f7fa', બોર્ડર '#2196f3' રાખવી.
 """
 
-print("Searching for live available AI models...")
-available_models = []
-try:
-    for model in client.models.list():
-        if hasattr(model, 'supported_actions') and "generateContent" in model.supported_actions:
-            available_models.append(model.name)
-except Exception as e:
-    available_models = ['models/gemini-1.5-flash-latest', 'gemini-1.5-flash', 'models/gemini-pro']
-
-if not available_models:
-    print("Error: એકાઉન્ટમાં કોઈ મોડેલ ઉપલબ્ધ નથી.")
-    exit(1)
-
-available_models.sort(key=lambda x: 'flash' not in x.lower())
+# લેટેસ્ટ અને સ્ટેબલ મોડેલ્સનું લિસ્ટ (સૌથી પહેલા લેટેસ્ટ 2.0 ટ્રાય કરશે)
+models_to_try = ['gemini-2.0-flash', 'gemini-1.5-flash', 'gemini-1.5-pro']
 output_data = ""
 
-for m in available_models[:3]: 
+for m in models_to_try:
     try:
-        print(f"Trying model: {m}...")
+        print(f"Trying to generate data using model: {m}...")
         response = client.models.generate_content(
             model=m,
             contents=prompt,
         )
         output_data = response.text.replace("```javascript", "").replace("```", "").strip()
-        print(f"✅ Success! Data generated.")
+        print(f"✅ Success! Data generated using {m}")
         break
     except Exception as e:
-        print(f"❌ Failed with {m}")
+        print(f"❌ Failed with {m}. Error: {e}")
 
 if not output_data:
-    print("Error: બધી ટ્રાય ફેલ ગઈ.")
+    print("Error: બધી જ ટ્રાય ફેલ ગઈ છે. API Key ચકાસો.")
     exit(1)
 
 folder_path = f"Std{std}/{subject}"
@@ -89,4 +76,4 @@ tracker['current_chapter'] += 1
 with open('system/progress_tracker.json', 'w') as f:
     json.dump(tracker, f, indent=4)
 
-print("Task Completed Successfully!")
+print("Task Completed Successfully! Data Saved for NJ Classes.")
