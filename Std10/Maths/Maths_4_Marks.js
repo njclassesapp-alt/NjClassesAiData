@@ -272,3 +272,70 @@ var Std10_Maths_4Marks = [
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "સમાંતર શ્રેણી",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 4,
+      "question": "એક ટીવી સેટના ઉત્પાદકે ત્રીજા વર્ષે 600 ટીવી અને સાતમા વર્ષે 700 ટીવી બનાવ્યા છે. તે માને છે કે દરેક વર્ષે ઉત્પાદિત ટીવીની સંખ્યામાં સમાન વધારો થાય છે, તો: (i) પ્રથમ વર્ષનું ઉત્પાદન શોધો. (ii) 10 મા વર્ષનું ઉત્પાદન શોધો. (iii) પ્રથમ 7 વર્ષમાં કુલ ઉત્પાદિત ટીવીની સંખ્યા શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે પ્રથમ વર્ષનું ઉત્પાદન 'a' છે અને વાર્ષિક વધારો 'd' છે.</p><p>અહીં, a₃ = 600 અને a₇ = 700 આપેલ છે.</p><p>સૂત્ર aₙ = a + (n - 1)d મુજબ:<br>a + 2d = 600 ---(1)<br>a + 6d = 700 ---(2)</p><p>સમીકરણ (2) માંથી (1) બાદ કરતા:<br>4d = 100 => <strong>d = 25</strong></p><p>d ની કિંમત (1) માં મૂકતા:<br>a + 2(25) = 600 => a + 50 = 600 => <strong>a = 550</strong></p><p><strong>(i) પ્રથમ વર્ષનું ઉત્પાદન = 550 ટીવી.</strong></p><p><strong>(ii) 10 મા વર્ષનું ઉત્પાદન (a₁₀):</strong><br>a₁₀ = a + 9d = 550 + 9(25) = 550 + 225 = <strong>775 ટીવી.</strong></p><p><strong>(iii) પ્રથમ 7 વર્ષનું કુલ ઉત્પાદન (S₇):</strong><br>S₇ = (7/2) [2(550) + (7-1)25]<br>S₇ = (7/2) [1100 + 150] = (7/2) [1250] = 7 × 625 = <strong>4375 ટીવી.</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે d શોધવો હોય ત્યારે d = (aₘ - aₙ) / (m - n) વાપરવું. અહીં d = (700-600)/(7-3) = 100/4 = 25.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Example / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 4,
+      "question": "લાકડાના 200 ભારીઓ (logs) નીચે પ્રમાણે ગોઠવવામાં આવ્યા છે: સૌથી નીચેની હારમાં 20 ભારી, તેની ઉપરની હારમાં 19 ભારી, તેની ઉપરની હારમાં 18 ભારી અને તે રીતે આગળ... આ 200 ભારીઓ કુલ કેટલી હારમાં ગોઠવાયેલ હશે? અને સૌથી ઉપરની હારમાં કેટલી ભારીઓ હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં શ્રેણી: 20, 19, 18, ... છે. <br>જ્યાં a = 20, d = 19 - 20 = -1 અને કુલ સરવાળો Sₙ = 200 છે.</p><p>Sₙ = (n/2) [2a + (n - 1)d]<br>200 = (n/2) [2(20) + (n - 1)(-1)]<br>400 = n [40 - n + 1]<br>400 = n [41 - n]<br>400 = 41n - n²<br>n² - 41n + 400 = 0</p><p>અવયવીકરણ: n² - 16n - 25n + 400 = 0<br>(n - 16)(n - 25) = 0<br>તેથી, n = 16 અથવા n = 25</p><p>જો n = 25 લઈએ, તો a₂₅ = a + 24d = 20 + 24(-1) = -4 (જે શક્ય નથી).<br>તેથી, <strong>n = 16</strong> હાર હશે.</p><p>સૌથી ઉપરની (16મી) હારમાં ભારીઓ: <br>a₁₆ = a + 15d = 20 + 15(-1) = 20 - 15 = <strong>5 ભારીઓ.</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: n ની બે કિંમતો મળે ત્યારે હારમાં ભારીની સંખ્યા (aₙ) શોધી જોવી, તે ક્યારેય ઋણ ન હોઈ શકે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Ex 5.3 Q.19</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 4,
+      "question": "એક બટાકા ઉપાડવાની હરીફાઈમાં (Potato Race), પ્રારંભિક બિંદુ પર એક ડોલ રાખેલ છે અને તે પ્રથમ બટાકાથી 5 મીટર દૂર છે. ત્યારબાદ બાકીના બટાકા સીધી રેખામાં એકબીજાથી 3 મીટર દૂર મૂકેલા છે. આવા 10 બટાકા રેખા પર છે. દરેક હરીફે ડોલ પાસેથી દોડી નજીકનું બટાકું ઉપાડી પાછા આવી ડોલમાં નાખવાનું છે. આ જ રીતે છેલ્લું બટાકું ડોલમાં નંખાય ત્યાં સુધી દોડવાનું છે. હરીફે કુલ કેટલું અંતર દોડવું પડશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પ્રથમ બટાકા માટે કાપેલું અંતર = 2 × 5 = 10 મીટર.<br>બીજા બટાકા માટે કાપેલું અંતર = 2 × (5 + 3) = 16 મીટર.<br>ત્રીજા બટાકા માટે કાપેલું અંતર = 2 × (5 + 3 + 3) = 22 મીટર.</p><p>આમ, સમાંતર શ્રેણી: 10, 16, 22, ... <br>અહીં a = 10, d = 16 - 10 = 6 અને n = 10 (બટાકાની સંખ્યા).</p><p>કુલ અંતર S₁₀ = (n/2) [2a + (n - 1)d]<br>S₁₀ = (10/2) [2(10) + (10 - 1)6]<br>S₁₀ = 5 [20 + 9(6)]<br>S₁₀ = 5 [20 + 54]<br>S₁₀ = 5 [74]<br>S₁₀ = <strong>370 મીટર.</strong></p><p>હરીફે કુલ 370 મીટર અંતર દોડવું પડશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતર હંમેશા બમણું (જવા-આવવાનું) લેવું તે ભૂલતા નહીં!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise 5.3 Q.20</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 4,
+      "question": "સમાંતર શ્રેણીના ચોથા અને આઠમા પદનો સરવાળો 24 છે અને છઠ્ઠા તથા દસમા પદનો સરવાળો 44 છે. આ સમાંતર શ્રેણીના પ્રથમ ત્રણ પદ શોધો અને પ્રથમ 10 પદોનો સરવાળો શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>શરત 1: a₄ + a₈ = 24<br>(a + 3d) + (a + 7d) = 24 => 2a + 10d = 24 => <strong>a + 5d = 12</strong> ---(1)</p><p>શરત 2: a₆ + a₁₀ = 44<br>(a + 5d) + (a + 9d) = 44 => 2a + 14d = 44 => <strong>a + 7d = 22</strong> ---(2)</p><p>સમીકરણ (2) માંથી (1) બાદ કરતા:<br>2d = 10 => <strong>d = 5</strong></p><p>d ની કિંમત (1) માં મૂકતા:<br>a + 5(5) = 12 => a + 25 = 12 => <strong>a = -13</strong></p><p>પ્રથમ ત્રણ પદ: a, a+d, a+2d<br>-13, -13+5, -13+10 એટલે કે <strong>-13, -8, -3.</strong></p><p>હવે S₁₀ શોધવા:<br>S₁₀ = (10/2) [2(-13) + 9(5)] = 5 [-26 + 45] = 5 [19] = <strong>95</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમીકરણોને સાદા રૂપમાં ફેરવી લોપની રીતનો ઉપયોગ કરવો સૌથી સરળ રહેશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP / NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 4,
+      "question": "કેન્દ્ર A થી શરૂઆત કરી, વારાફરતી કેન્દ્ર A અને B લઈ અર્ધવર્તુળોની મદદથી એક કુંતલ (Spiral) બનાવેલ છે. તેની ત્રિજ્યા 0.5 સેમી, 1.0 સેમી, 1.5 સેમી, 2.0 સેમી... છે. આવા 13 ક્રમિક અર્ધવર્તુળોથી બનતા કુંતલની કુલ લંબાઈ શોધો. (π = 22/7 લો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અર્ધવર્તુળની લંબાઈ (પરિઘ/2) = πr</p><p>l₁ = π(0.5), l₂ = π(1.0), l₃ = π(1.5), ..., l₁₃ = π(6.5)</p><p>કુલ લંબાઈ L = l₁ + l₂ + l₃ + ... + l₁₃<br>L = π(0.5 + 1.0 + 1.5 + ... + 6.5)<br>આ શ્રેણીમાં a = 0.5, d = 0.5, n = 13.</p><p>કૌંસમાં રહેલી શ્રેણીનો સરવાળો S₁₃ = (13/2) [2(0.5) + (13-1)0.5]<br>S₁₃ = (13/2) [1 + 12(0.5)] = (13/2) [1 + 6] = (13/2) × 7 = 91/2 = 45.5</p><p>હવે, કુલ લંબાઈ L = π × 45.5 = (22/7) × (91/2)<br>L = 11 × 13 = <strong>143 સેમી.</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: π ને છેલ્લે સુધી સામાન્ય રાખવો જેથી ગણતરીમાં ભૂલ ન પડે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise 5.3 Q.18</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 4,
+      "question": "(i) 10 અને 250 વચ્ચે 4 ના કેટલા ગુણિતો હશે? (ii) તે તમામ ગુણિતોનો સરવાળો શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>(i) ગુણિતોની સંખ્યા શોધવી:</strong><br>10 પછી 4 નો પ્રથમ ગુણિત 12 છે. 250 પહેલા 4 નો અંતિમ ગુણિત 248 છે.<br>શ્રેણી: 12, 16, 20, ..., 248.<br>અહીં a = 12, d = 4, aₙ = 248.</p><p>aₙ = a + (n - 1)d<br>248 = 12 + (n - 1)4<br>236 = (n - 1)4 => n - 1 = 59 => <strong>n = 60</strong></p><p><strong>(ii) તમામ ગુણિતોનો સરવાળો (S₆₀):</strong><br>Sₙ = (n/2) (a + l)<br>S₆₀ = (60/2) (12 + 248)<br>S₆₀ = 30 (260) = <strong>7800.</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે છેલ્લું પદ (l) ખબર હોય, ત્યારે હંમેશા ટૂંકું સૂત્ર Sₙ = (n/2)(a+l) જ વાપરવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB IMP 2024</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 4,
+      "question": "સમાંતર શ્રેણીના પ્રથમ n પદોનો સરવાળો Sₙ = 3n² + n છે. (i) તેનું 20 મું પદ શોધો. (ii) આ શ્રેણીનું વ્યાપક પદ (aₙ) શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં Sₙ = 3n² + n આપેલ છે.</p><p>n = 1 મુકતા: S₁ = 3(1)² + 1 = 4. તેથી a₁ = 4.<br>n = 2 મુકતા: S₂ = 3(2)² + 2 = 12 + 2 = 14.<br>તેથી a₂ = S₂ - S₁ = 14 - 4 = 10.</p><p>સામાન્ય તફાવત d = a₂ - a₁ = 10 - 4 = 6.</p><p><strong>(ii) વ્યાપક પદ aₙ:</strong><br>aₙ = a + (n - 1)d = 4 + (n - 1)6 = 4 + 6n - 6 = <strong>6n - 2.</strong></p><p><strong>(i) 20 મું પદ a₂₀:</strong><br>રીત 1: aₙ માં n = 20 મુકતા: a₂₀ = 6(20) - 2 = 120 - 2 = <strong>118.</strong><br>રીત 2: a₂₀ = S₂₀ - S₁₉ ગણી શકાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: aₙ = Sₙ - Sₙ₋₁ સૂત્ર હંમેશા કામ લાગે છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exemplar</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 4,
+      "question": "એક ફૂલોની ક્યારીમાં પ્રથમ હારમાં 23 ગુલાબના છોડ, બીજી હારમાં 21, ત્રીજીમાં 19 અને તે જ પ્રમાણે આગળ છે. તેની છેલ્લી હારમાં 5 ગુલાબના છોડ છે. (i) ક્યારીમાં કુલ કેટલી હાર હશે? (ii) ક્યારીમાં કુલ કેટલા ગુલાબના છોડ હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>શ્રેણી: 23, 21, 19, ..., 5.<br>અહીં a = 23, d = 21 - 23 = -2, aₙ = 5.</p><p><strong>(i) હારની સંખ્યા (n):</strong><br>aₙ = a + (n - 1)d<br>5 = 23 + (n - 1)(-2)<br>5 - 23 = -2(n - 1)<br>-18 = -2(n - 1) => n - 1 = 9 => <strong>n = 10.</strong></p><p><strong>(ii) કુલ છોડ (S₁₀):</strong><br>S₁₀ = (10/2) [a + l]<br>S₁₀ = 5 [23 + 5]<br>S₁₀ = 5 [28] = <strong>140.</strong></p><p>કુલ 10 હાર હશે અને તેમાં કુલ 140 ગુલાબના છોડ હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: n હંમેશા ધન પૂર્ણાંક જ આવે, જો અપૂર્ણાંક આવે તો ગણતરી ફરી ચેક કરવી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Exercise 5.2 Q.20 modified</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 4,
+      "question": "જો સમાંતર શ્રેણીના પ્રથમ 7 પદોનો સરવાળો 49 હોય અને 17 પદોનો સરવાળો 289 હોય, તો પ્રથમ n પદોનો સરવાળો શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>S₇ = 49 => (7/2)[2a + 6d] = 49 => 7(a + 3d) = 49 => <strong>a + 3d = 7</strong> ---(1)</p><p>S₁₇ = 289 => (17/2)[2a + 16d] = 289 => 17(a + 8d) = 289 => <strong>a + 8d = 17</strong> ---(2)</p><p>સમીકરણ (2) માંથી (1) બાદ કરતા:<br>5d = 10 => <strong>d = 2</strong></p><p>d = 2 ને (1) માં મૂકતા:<br>a + 3(2) = 7 => a + 6 = 7 => <strong>a = 1</strong></p><p>હવે n પદોનો સરવાળો Sₙ:<br>Sₙ = (n/2) [2(1) + (n - 1)2]<br>Sₙ = (n/2) [2 + 2n - 2] = (n/2) [2n] = <strong>n².</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તમે નોંધ્યું? 7 નો વર્ગ 49 છે અને 17 નો વર્ગ 289 છે. આથી n પદોનો સરવાળો સીધો n² થશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise 5.3 Q.9</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 4,
+      "question": "સુબ્બા રાવે 1995 માં ₹ 5000 ના વાર્ષિક વેતનથી કામ શરૂ કર્યું અને તેમને દર વર્ષે ₹ 200 ની વેતન વૃદ્ધિ મળે છે. (i) કયા વર્ષે તેમનું વેતન ₹ 7000 થશે? (ii) પ્રથમ વર્ષથી તે વર્ષ સુધીમાં તેમણે મેળવેલ કુલ વેતન શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં a = 5000, d = 200, aₙ = 7000.</p><p><strong>(i) વર્ષની સંખ્યા શોધવી (n):</strong><br>aₙ = a + (n - 1)d<br>7000 = 5000 + (n - 1)200<br>2000 = (n - 1)200<br>10 = n - 1 => <strong>n = 11.</strong><br>1995 થી 11 મું વર્ષ એટલે કે <strong>2005</strong> ના વર્ષમાં વેતન ₹ 7000 થશે.</p><p><strong>(ii) કુલ મેળવેલ વેતન (S₁₁):</strong><br>S₁₁ = (11/2) [5000 + 7000]<br>S₁₁ = (11/2) [12000] = 11 × 6000 = <strong>₹ 66,000.</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્ષ ગણતી વખતે 'n' ની કિંમત ઉમેરીને એક બાદ ન કરતા સાવચેતી રાખવી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise 5.2 Q.19 + Sum Extension</p></div>"
+    }
+  ]
+}
