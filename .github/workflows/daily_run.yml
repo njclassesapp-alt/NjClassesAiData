@@ -1,0 +1,35 @@
+name: NJ Classes Daily AI Data Generator
+
+on:
+  schedule:
+    - cron: '30 20 * * *' # ભારતીય સમય મુજબ દરરોજ રાત્રે 2:00 વાગ્યે ચાલશે
+  workflow_dispatch: # આનાથી તમે જાતે બટન દબાવીને પણ ટેસ્ટિંગ કરી શકશો
+
+jobs:
+  generate-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install AI Libraries
+        run: pip install google-generativeai
+
+      - name: Run NJ Classes AI Script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python generate_qa.py
+
+      - name: Save Generated Data to Database
+        run: |
+          git config --global user.name "NJ-AI-Bot"
+          git config --global user.email "bot@njclasses"
+          git add .
+          git commit -m "Auto-generated daily data" || echo "No changes to commit"
+          git push
+          
