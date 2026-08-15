@@ -41,11 +41,32 @@ prompt = f"""
 પ્રશ્નના div નો કલર '#1a237e' અને જવાબના div નો કલર '#f5f7fa', બોર્ડર '#2196f3' રાખવી.
 """
 
-# હવે આપણે માત્ર '-latest' ટેગ વાળા મોડલ જ વાપરીશું જે Google ક્યારેય બ્લોક નથી કરતું
-models_to_try = ['gemini-1.5-flash-latest', 'gemini-1.5-flash-8b-latest', 'gemini-2.0-flash-exp']
+# જે ઓટોમેટિક સિસ્ટમ પહેલા પરફેક્ટ ચાલી હતી, તે જ ફરીથી મૂકી છે (કડક ફિલ્ટર સાથે)
+print("Searching for live text models from your API account...")
+valid_models = []
+try:
+    for model in client.models.list():
+        if hasattr(model, 'supported_actions') and "generateContent" in model.supported_actions:
+            name = model.name.lower()
+            # ખરાબ મોડલ્સ (Audio, Video, TTS, Image, Exp) ને લિસ્ટમાંથી કાઢી નાખવા
+            invalid_words = ['video', 'audio', 'tts', 'vision', 'image', 'exp', 'learnlm', 'embedding', 'aqa']
+            if not any(word in name for word in invalid_words):
+                valid_models.append(model.name)
+except Exception as e:
+    print(f"Error fetching models: {e}")
+
+if not valid_models:
+    print("Error: No valid text models found in this account.")
+    exit(1)
+
+# સૌથી સારા 'flash' મોડલને સૌથી ઉપર લાવવા
+valid_models.sort(key=lambda x: ('flash' not in x.lower(), x))
+print(f"Perfect models found for your account: {valid_models[:3]}")
+
 output_data = ""
 
-for m in models_to_try:
+# ડેટા જનરેટ કરવો
+for m in valid_models[:3]:
     try:
         print(f"Trying to generate data using model: {m}...")
         response = client.models.generate_content(
@@ -62,6 +83,7 @@ if not output_data:
     print("Error: બધી જ ટ્રાય ફેલ ગઈ છે. API Key ચકાસો.")
     exit(1)
 
+# ડેટા સેવ કરવો
 folder_path = f"Std{std}/{subject}"
 os.makedirs(folder_path, exist_ok=True)
 file_path = f"{folder_path}/{subject}_{marks}_Marks.js"
@@ -72,6 +94,7 @@ with open(file_path, mode, encoding='utf-8') as f:
         f.write(f"var Std{std}_{subject}_{marks}Marks = [\n")
     f.write(output_data + ",\n")
 
+# ટ્રેકર અપડેટ કરવું
 tracker['current_chapter'] += 1 
 with open('system/progress_tracker.json', 'w') as f:
     json.dump(tracker, f, indent=4)
