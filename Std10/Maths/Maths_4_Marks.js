@@ -59,3 +59,63 @@ var Std10_Maths_4Marks = [
     "question": "સાબિત કરો કે 1 / √2 અસંમેય છે.",
     "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે 1 / √2 સંમેય છે.<br>1 / √2 = a / b (જ્યાં a, b પૂર્ણાંક, b ≠ 0 અને ગુ.સા.અ. (a, b) = 1)<br>√2 = b / a<br>અહીં b / a સંમેય છે, તેથી √2 પણ સંમેય હોવી જોઈએ.<br>પરંતુ આપણે જાણીએ છીએ કે √2 અસંમેય છે.<br>જે વિરોધાભાસ છે. તેથી આપણી ધારણા ખોટી છે.<br>માટે, 1 / √2 અસંમેય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદનું સંમેયીકરણ (Rationalization) કરીને પણ આ સાબિત કરી શકાય છે: √2 / 2 = a / b.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
   },
+{
+    "questionNumber": "પ્રશ્ન 1",
+    "marks": 4,
+    "question": "(i) દ્વિઘાત બહુપદી x² - 2x - 8 નાં શૂન્યો શોધો તથા તેમના શૂન્યો અને સહગુણકો વચ્ચેનો સંબંધ ચકાસો. \n(ii) જેમના શૂન્યોનો સરવાળો અને ગુણાકાર અનુક્રમે 4 અને 1 હોય તેવી દ્વિઘાત બહુપદી મેળવો.",
+    "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>(i) x² - 2x - 8 ના શૂન્યો માટે:</strong><br>x² - 4x + 2x - 8 = 0<br>x(x - 4) + 2(x - 4) = 0<br>(x - 4)(x + 2) = 0<br>તેથી, શૂન્યો α = 4 અને β = -2 છે.<br><strong>સંબંધની ચકાસણી:</strong><br>શૂન્યોનો સરવાળો (α + β) = 4 + (-2) = 2 = -(-2)/1 = -b/a<br>શૂન્યોનો ગુણાકાર (αβ) = 4 × (-2) = -8 = -8/1 = c/a</p><p><strong>(ii) બહુપદી મેળવવા માટે:</strong><br>ધારો કે શૂન્યોનો સરવાળો S = 4 અને ગુણાકાર P = 1 છે.<br>માંગેલ બહુપદી p(x) = k[x² - (S)x + P]<br>p(x) = k[x² - 4x + 1], જ્યાં k ≠ 0.<br>જવાબ: x² - 4x + 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્યોનો સંબંધ ચકાસતી વખતે હંમેશા -b/a અને c/a ના સૂત્રો બાજુમાં લખી રાખવા જેથી ભૂલ ન પડે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+  },
+  {
+    "questionNumber": "પ્રશ્ન 2",
+    "marks": 4,
+    "question": "(i) દ્વિઘાત બહુપદી 6x² - 3 - 7x નાં શૂન્યો શોધો અને સહગુણકો વચ્ચેનો સંબંધ ચકાસો.\n(ii) એક દ્વિઘાત બહુપદીના શૂન્યોનો સરવાળો અને ગુણાકાર અનુક્રમે 0 અને √5 હોય, તો તે બહુપદી શોધો.",
+    "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>(i) 6x² - 7x - 3 માટે:</strong><br>પદ ગોઠવતા: 6x² - 9x + 2x - 3 = 0<br>3x(2x - 3) + 1(2x - 3) = 0<br>(2x - 3)(3x + 1) = 0<br>શૂન્યો: x = 3/2 અને x = -1/3<br>સરવાળો = 3/2 - 1/3 = (9-2)/6 = 7/6 (જે -b/a છે)<br>ગુણાકાર = (3/2) * (-1/3) = -3/6 = -1/2 (જે c/a છે)</p><p><strong>(ii) બહુપદી:</strong><br>S = 0, P = √5<br>p(x) = x² - (0)x + √5 = x² + √5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહુપદીને હંમેશા પ્રમાણિત સ્વરૂપ ax² + bx + c માં ગોઠવ્યા પછી જ અવયવ પાડવા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+  },
+  {
+    "questionNumber": "પ્રશ્ન 3",
+    "marks": 4,
+    "question": "(i) બહુપદી 4s² - 4s + 1 નાં શૂન્યો શોધો અને તેના શૂન્યો અને સહગુણકો વચ્ચેનો સંબંધ ચકાસો.\n(ii) જો α અને β એ બહુપદી p(x) = kx² + 4x + 4 નાં શૂન્યો હોય અને α² + β² = 24 હોય, તો k ની કિંમત શોધો.",
+    "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>(i) 4s² - 4s + 1 માટે:</strong><br>(2s - 1)² = 0 => s = 1/2, 1/2<br>સરવાળો = 1/2 + 1/2 = 1 = -(-4)/4 = -b/a<br>ગુણાકાર = 1/2 * 1/2 = 1/4 = c/a</p><p><strong>(ii) k ની કિંમત માટે:</strong><br>α + β = -4/k, αβ = 4/k<br>α² + β² = (α + β)² - 2αβ = 24<br>(-4/k)² - 2(4/k) = 24<br>16/k² - 8/k = 24 => 16 - 8k = 24k²<br>3k² + k - 2 = 0<br>(3k - 2)(k + 1) = 0 => k = 2/3 અથવા k = -1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: α² + β² = (α + β)² - 2αβ સૂત્ર 4 ગુણના દાખલા માટે અત્યંત મહત્વનું છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+  },
+  {
+    "questionNumber": "પ્રશ્ન 4",
+    "marks": 4,
+    "question": "(i) બહુપદી 4u² + 8u ના શૂન્યો શોધો અને સંબંધ ચકાસો.\n(ii) જેમના શૂન્યો 3 + √2 અને 3 - √2 હોય તેવી દ્વિઘાત બહુપદી શોધો.",
+    "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>(i) 4u² + 8u માટે:</strong><br>4u(u + 2) = 0 => u = 0 અથવા u = -2<br>સરવાળો = 0 + (-2) = -2 = -8/4 = -b/a<br>ગુણાકાર = 0 * (-2) = 0 = 0/4 = c/a</p><p><strong>(ii) બહુપદી માટે:</strong><br>સરવાળો S = (3 + √2) + (3 - √2) = 6<br>ગુણાકાર P = (3 + √2)(3 - √2) = 3² - (√2)² = 9 - 2 = 7<br>બહુપદી: x² - 6x + 7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે પદ 'c' ગેરહાજર હોય ત્યારે શૂન્ય હંમેશા 0 અને -b/a મળે છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+  },
+  {
+    "questionNumber": "પ્રશ્ન 5",
+    "marks": 4,
+    "question": "(i) બહુપદી t² - 15 નાં શૂન્યો શોધો અને સંબંધ ચકાસો.\n(ii) જો α અને β એ બહુપદી x² - 6x + k નાં શૂન્યો હોય અને 3α + 2β = 20 હોય, તો k શોધો.",
+    "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>(i) t² - 15 માટે:</strong><br>(t - √15)(t + √15) = 0 => t = √15, -√15<br>સરવાળો = √15 - √15 = 0 = -0/1 = -b/a<br>ગુણાકાર = √15 * (-√15) = -15 = -15/1 = c/a</p><p><strong>(ii) k ની કિંમત:</strong><br>α + β = 6 (સમીકરણ 1)<br>3α + 2β = 20 (સમીકરણ 2)<br>સમીકરણ 1 ને 2 વડે ગુણતા: 2α + 2β = 12<br>બાદબાકી કરતા: α = 8. તેથી β = 6 - 8 = -2<br>હવે, k = αβ = 8 * (-2) = -16</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોપની રીતનો ઉપયોગ કરીને શૂન્યો શોધી લો, પછી ગુણાકાર પરથી k મળી જશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+  },
+  {
+    "questionNumber": "પ્રશ્ન 6",
+    "marks": 4,
+    "question": "(i) દ્વિઘાત બહુપદી 3x² - x - 4 નાં શૂન્યો શોધો અને સંબંધ ચકાસો.\n(ii) જો બહુપદી 5x² + 13x + k નું એક શૂન્ય બીજા શૂન્યનું વ્યસ્ત હોય, તો k ની કિંમત શોધો.",
+    "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>(i) 3x² - x - 4 માટે:</strong><br>3x² - 4x + 3x - 4 = 0<br>x(3x - 4) + 1(3x - 4) = 0 => શૂન્યો: 4/3, -1<br>સરવાળો = 4/3 - 1 = 1/3 = -(-1)/3 = -b/a<br>ગુણાકાર = (4/3)(-1) = -4/3 = c/a</p><p><strong>(ii) વ્યસ્ત શૂન્યો માટે:</strong><br>જો શૂન્યો વ્યસ્ત હોય, તો તેમનો ગુણાકાર α * (1/α) = 1 થાય.<br>સૂત્ર મુજબ ગુણાકાર = c/a<br>1 = k / 5 => k = 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વ્યસ્ત શૂન્યો' શબ્દ આવે એટલે સીધું જ a = c કરી દેવું (અહીં 5 = k).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+  },
+  {
+    "questionNumber": "પ્રશ્ન 7",
+    "marks": 4,
+    "question": "(i) જેમના શૂન્યોનો સરવાળો √2 અને ગુણાકાર 1/3 હોય તેવી દ્વિઘાત બહુપદી શોધો.\n(ii) બહુપદી x² + 7x + 10 ના શૂન્યો α અને β હોય, તો α² + β² ની કિંમત શોધો.",
+    "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>(i) બહુપદી:</strong><br>S = √2, P = 1/3<br>p(x) = k[x² - √2x + 1/3]<br>k = 3 લેતા, p(x) = 3x² - 3√2x + 1</p><p><strong>(ii) α² + β² માટે:</strong><br>α + β = -7, αβ = 10<br>α² + β² = (α + β)² - 2αβ<br>= (-7)² - 2(10) = 49 - 20 = 29</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે છેદમાં કોઈ સંખ્યા હોય ત્યારે k ની કિંમત તે છેદ જેટલી લેવાથી બહુપદી સરળ બને છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+  },
+  {
+    "questionNumber": "પ્રશ્ન 8",
+    "marks": 4,
+    "question": "(i) જો દ્વિઘાત બહુપદી p(x) = x² - 5x + k નાં શૂન્યો α અને β એવા હોય કે જેથી α - β = 1 થાય, તો k શોધો.\n(ii) દ્વિઘાત બહુપદી x² - 3 ના શૂન્યો શોધો અને સંબંધ ચકાસો.",
+    "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>(i) k ની કિંમત:</strong><br>α + β = 5 (સૂત્ર મુજબ)<br>α - β = 1 (આપેલ છે)<br>બંનેનો સરવાળો કરતા: 2α = 6 => α = 3<br>α ની કિંમત મુકતા: 3 + β = 5 => β = 2<br>હવે, k = αβ = 3 * 2 = 6</p><p><strong>(ii) x² - 3 માટે:</strong><br>(x - √3)(x + √3) = 0 => શૂન્યો: √3, -√3<br>સરવાળો = √3 - √3 = 0 = -b/a<br>ગુણાકાર = √3 * (-√3) = -3 = c/a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x² - a જેવી બહુપદીમાં શૂન્યો હંમેશા +√a અને -√a હોય છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+  },
+  {
+    "questionNumber": "પ્રશ્ન 9",
+    "marks": 4,
+    "question": "(i) જો α અને β એ બહુપદી x² - x - 2 નાં શૂન્યો હોય, તો 1/α + 1/β ની કિંમત શોધો.\n(ii) દ્વિઘાત બહુપદી x² - 2x - 15 ના શૂન્યો શોધો અને સંબંધ ચકાસો.",
+    "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>(i) 1/α + 1/β માટે:</strong><br>α + β = -(-1)/1 = 1, αβ = -2/1 = -2<br>1/α + 1/β = (α + β) / αβ = 1 / (-2) = -1/2</p><p><strong>(ii) x² - 2x - 15 માટે:</strong><br>x² - 5x + 3x - 15 = 0 => (x - 5)(x + 3) = 0<br>શૂન્યો: 5, -3<br>સરવાળો = 5 - 3 = 2 = -(-2)/1 (સાચું)<br>ગુણાકાર = 5 * (-3) = -15 = -15/1 (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/α + 1/β નો પ્રશ્ન પૂછાય ત્યારે લસાઅ લેવાથી તે હંમેશા (સરવાળો/ગુણાકાર) બને છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+  },
+  {
+    "questionNumber": "પ્રશ્ન 10",
+    "marks": 4,
+    "question": "(i) દ્વિઘાત બહુપદી x² + 9x + 20 ના શૂન્યો શોધો અને સંબંધ ચકાસો.\n(ii) જો α અને β એ x² - 4x + 3 ના શૂન્યો હોય, તો α⁴β³ + α³β⁴ ની કિંમત શોધો.",
+    "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>(i) x² + 9x + 20 માટે:</strong><br>x² + 5x + 4x + 20 = 0 => (x + 5)(x + 4) = 0<br>શૂન્યો: -5, -4<br>સરવાળો = -9 = -b/a, ગુણાકાર = 20 = c/a</p><p><strong>(ii) α⁴β³ + α³β⁴ માટે:</strong><br>સામાન્ય કાઢતા: α³β³ (α + β) = (αβ)³ (α + β)<br>અહીં α + β = 4 અને αβ = 3<br>કિંમત = (3)³ * (4) = 27 * 4 = 108</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અઘરા દેખાતા સમીકરણોમાં હંમેશા પદ સામાન્ય (Common) કાઢવાથી ઉકેલ સરળ બની જાય છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+  },
