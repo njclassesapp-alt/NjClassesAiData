@@ -2,8 +2,8 @@ name: NJ Classes Daily AI Data Generator
 
 on:
   schedule:
-    - cron: '30 2,10,18 * * *' # ભારતીય સમય મુજબ દરરોજ સવારે 8:00, સાંજે 4:00 અને રાત્રે 12:00 વાગ્યે
-  workflow_dispatch: # મેન્યુઅલ ટેસ્ટિંગ માટેનું બટન
+    - cron: '30 2,10,18 * * *' 
+  workflow_dispatch: 
 
 jobs:
   generate-data:
@@ -18,7 +18,7 @@ jobs:
           python-version: '3.10'
 
       - name: Install AI Libraries
-        run: pip install google-genai
+        run: pip install google-generativeai
 
       - name: Run NJ Classes AI Script
         env:
