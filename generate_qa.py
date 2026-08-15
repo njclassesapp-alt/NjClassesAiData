@@ -34,7 +34,7 @@ prompt = f"""
 
 # 4. ડેટા જનરેટ કરવો (નવા લેટેસ્ટ ફ્લેશ મોડેલ સાથે)
 response = client.models.generate_content(
-    model='gemini-2.5-flash',
+    model='gemini-2.0-flash',
     contents=prompt,
 )
 output_data = response.text.replace("```javascript", "").replace("```", "").strip()
