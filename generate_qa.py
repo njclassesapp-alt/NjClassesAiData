@@ -4,7 +4,7 @@ import google.generativeai as genai
 
 # 1. API સેટઅપ (જે આપણે સિક્રેટમાં સેવ કરી છે)
 genai.configure(api_key=os.environ["GEMINI_API_KEY"])
-model = genai.GenerativeModel('gemini-1.5-pro')
+model = genai.GenerativeModel('gemini-1.5-flash')
 
 # 2. ટ્રેકર ફાઈલ વાંચવી (આજે કયું ચેપ્ટર કરવાનું છે તે જાણવા)
 with open('system/progress_tracker.json', 'r') as f:
