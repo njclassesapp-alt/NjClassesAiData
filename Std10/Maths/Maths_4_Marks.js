@@ -339,3 +339,70 @@ var Std10_Maths_4Marks = [
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "ત્રિકોણ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 4,
+      "question": "થેલ્સનું પ્રમેય (મૂળભૂત સમાનુપાતકતાનું પ્રમેય) લખો અને સાબિત કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>પ્રતિજ્ઞા:</strong> જો ત્રિકોણની કોઈ એક બાજુને સમાંતર દોરેલી રેખા બાકીની બે બાજુઓને ભિન્ન બિંદુઓમાં છેદે, તો તે બાજુઓ પર કપાતા રેખાખંડો તે બાજુઓનું સમાન ગુણોત્તરમાં વિભાજન કરે છે.</p><svg width='200' height='150' viewBox='0 0 200 150'><polygon points='100,10 10,140 190,140' fill='none' stroke='black' stroke-width='2'/><line x1='55' y1='75' x2='145' y2='75' stroke='blue' stroke-width='2'/><text x='95' y='10' font-size='12'>A</text><text x='0' y='145' font-size='12'>B</text><text x='190' y='145' font-size='12'>C</text><text x='40' y='75' font-size='12'>D</text><text x='150' y='75' font-size='12'>E</text></svg><p><strong>સાબિતી:</strong></p><p>1. પક્ષ: ΔABC માં રેખા l || BC અને તે AB ને D માં અને AC ને E માં છેદે છે.<br>2. સાધ્ય: AD/DB = AE/EC<br>3. રચના: BE અને CD જોડો. EN ⊥ AB અને DM ⊥ AC દોરો.<br>4. Area(ΔADE) = 1/2 × AD × EN<br>5. Area(ΔBDE) = 1/2 × DB × EN<br>6. Area(ΔADE) / Area(ΔBDE) = AD / DB -- (1)<br>7. તેવી જ રીતે, Area(ΔADE) / Area(ΔDEC) = AE / EC -- (2)<br>8. હવે, ΔBDE અને ΔDEC એક જ પાયા DE પર અને સમાંતર રેખાઓ DE || BC ની વચ્ચે આવેલા છે, તેથી Area(ΔBDE) = Area(ΔDEC) -- (3)<br>9. (1), (2) અને (3) પરથી, AD/DB = AE/EC સાબિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષેત્રફળના ગુણોત્તર લેતી વખતે વેધ (EN અને DM) ને કેન્સલ કરવાનું યાદ રાખો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Textbook Page 104 / Theorem 6.1</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 4,
+      "question": "બાજુ-બાજુ-બાજુ (SSS) શરતનો ઉપયોગ કરી સાબિત કરો કે જો બે ત્રિકોણમાં અનુરૂપ બાજુઓ સમાનુપાતમાં હોય, તો તેમના અનુરૂપ ખૂણાઓ સમાન હોય અને તેથી તે બે ત્રિકોણો સમરૂપ હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે બે ત્રિકોણ ABC અને DEF છે જેમાં AB/DE = AC/DF = BC/EF છે.</p><p>1. DE પર P અને DF પર Q એવા લો કે જેથી DP = AB અને DQ = AC થાય. PQ જોડો.<br>2. પક્ષ મુજબ, AB/DE = AC/DF હોવાથી, DP/DE = DQ/DF થાય.<br>3. થેલ્સના પ્રમેયના પ્રતિપ્રમેય મુજબ, PQ || EF.<br>4. તેથી, ∠P = ∠E અને ∠Q = ∠F (અનુકોણો).<br>5. ΔDPQ ~ ΔDEF (AA શરત).<br>6. તેથી, DP/DE = DQ/DF = PQ/EF.<br>7. પરંતુ AB/DE = AC/DF = BC/EF આપેલ છે.<br>8. માટે BC = PQ.<br>9. ΔABC ≅ ΔDPQ (SSS શરત મુજબ) અને તેથી ∠A = ∠D, ∠B = ∠P = ∠E, ∠C = ∠Q = ∠F.<br>10. આમ, બંને ત્રિકોણો સમરૂપ છે (ΔABC ~ ΔDEF).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પ્રમેયમાં 'રચના' સૌથી મહત્વની છે, DP=AB અને DQ=AC લેવાનું ભૂલશો નહીં.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Prameya 6.4</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 4,
+      "question": "(i) જો ΔABC ~ ΔPQR અને AD તથા PM અનુક્રમે તેમની મધ્યગાઓ હોય, તો સાબિત કરો કે AB/PQ = AD/PM.\n(ii) જો બે સમરૂપ ત્રિકોણની બાજુઓનો ગુણોત્તર 4:9 હોય, તો તેમના ક્ષેત્રફળનો ગુણોત્તર શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>(i) ઉકેલ:</strong></p><p>ΔABC ~ ΔPQR હોવાથી, AB/PQ = BC/QR અને ∠B = ∠Q.<br>BC = 2BD અને QR = 2QM (AD અને PM મધ્યગા છે).<br>માટે, AB/PQ = 2BD/2QM => AB/PQ = BD/QM.<br>હવે ΔABD અને ΔPQM માં, AB/PQ = BD/QM અને ∠B = ∠Q.<br>બાખબા (SAS) શરત મુજબ, ΔABD ~ ΔPQM.<br>તેથી, AB/PQ = AD/PM સાબિત થાય છે.</p><p><strong>(ii) ઉકેલ:</strong></p><p>બે સમરૂપ ત્રિકોણના ક્ષેત્રફળનો ગુણોત્તર તેમની અનુરૂપ બાજુઓના ગુણોત્તરના વર્ગ બરાબર હોય છે.<br>ગુણોત્તર = (4/9)² = 16/81.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્યગાવાળા દાખલામાં હંમેશા બાજુને 'બે ગણી' (2BD) બતાવીને સમરૂપતા સાબિત કરવી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Exercises</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 4,
+      "question": "સમલંબ ચતુષ્કોણ ABCD માં AB || DC છે. તેના વિકર્ણો એકબીજાને 'O' બિંદુએ છેદે છે. સાબિત કરો કે AO/BO = CO/DO.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>1. ABCD સમલંબ ચતુષ્કોણ છે જેમાં AB || DC.<br>2. બિંદુ O માંથી રેખા EF એવી દોરો કે જે AB અને DC ને સમાંતર હોય (EO || AB).<br>3. ΔADC માં, EO || DC હોવાથી થેલ્સના પ્રમેય મુજબ:<br>AE/ED = AO/OC -- (1)<br>4. ΔABD માં, EO || AB હોવાથી થેલ્સના પ્રમેય મુજબ:<br>AE/ED = BO/OD -- (2)<br>5. સમીકરણ (1) અને (2) ની ડાબી બાજુ સમાન છે, તેથી:<br>AO/OC = BO/OD<br>6. પદોની અદલાબદલી કરતા:<br>AO/BO = CO/DO સાબિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'O' માંથી પસાર થતી એક સમાંતર રેખા દોરવી એ જ આ દાખલાની ચાવી છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Ex 6.2, Q.9</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 4,
+      "question": "6 મીટર ઊંચા લંબરૂપ થાંભલાના જમીન પર પડતા પડછાયાની લંબાઈ 4 મીટર છે. તે જ સમયે એક ટાવરના પડછાયાની લંબાઈ 28 મીટર છે. ટાવરની ઊંચાઈ શોધો. (આકૃતિ અનિવાર્ય છે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે, AB થાંભલો છે અને BC તેનો પડછાયો છે. PQ ટાવર છે અને QR તેનો પડછાયો છે.<br>થાંભલાની ઊંચાઈ AB = 6 m, પડછાયો BC = 4 m.<br>ટાવરનો પડછાયો QR = 28 m, ટાવરની ઊંચાઈ PQ = h ધારો.</p><p>એક જ સમયે સૂર્યનો ઉત્સેધકોણ સમાન હોય, તેથી ΔABC ~ ΔPQR (AA શરત મુજબ).<br>માટે, AB/PQ = BC/QR<br>6 / h = 4 / 28<br>h = (6 × 28) / 4<br>h = 6 × 7<br>h = 42 મીટર.</p><p>આમ, ટાવરની ઊંચાઈ 42 મીટર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઈટ અને શેડો (Height/Shadow) નો ગુણોત્તર હંમેશા સમાન લેવો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Ex 6.3, Q.15</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 4,
+      "question": "આકૃતિમાં જો LM || CB અને LN || CD હોય, તો સાબિત કરો કે AM/AB = AN/AD.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>1. ΔABC માં, LM || CB આપેલ છે.<br>થેલ્સના પ્રમેય (BPT) મુજબ,<br>AM/AB = AL/AC -- (1) (પ્રમેય 6.1 ની ઉપપ્રમેય મુજબ)</p><p>2. ΔADC માં, LN || CD આપેલ છે.<br>થેલ્સના પ્રમેય (BPT) મુજબ,<br>AN/AD = AL/AC -- (2)</p><p>3. સમીકરણ (1) અને (2) પરથી,<br>AM/AB = AN/AD સાબિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે બે ત્રિકોણમાં એક બાજુ (અહીં AL/AC) સામાન્ય હોય ત્યારે BPT બે વાર વાપરવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Ex 6.2, Q.3</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 4,
+      "question": "ત્રિકોણ ABC ની બાજુઓ AB, BC અને મધ્યગા AD એ અનુક્રમે ત્રિકોણ PQR ની બાજુઓ PQ, QR અને મધ્યગા PM ને સમાનુપાતમાં છે. સાબિત કરો કે ΔABC ~ ΔPQR.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પક્ષ: AB/PQ = BC/QR = AD/PM<br>સાબિતી:<br>BC = 2BD અને QR = 2QM (D અને M મધ્યબિંદુ હોવાથી)<br>તેથી, AB/PQ = 2BD/2QM = AD/PM<br>=> AB/PQ = BD/QM = AD/PM<br>SSS સમરૂપતા મુજબ, ΔABD ~ ΔPQM.<br>તેથી, ∠B = ∠Q (અનુરૂપ ખૂણા).<br>હવે ΔABC અને ΔPQR માં,<br>AB/PQ = BC/QR (પક્ષ મુજબ)<br>∠B = ∠Q (સાબિત કર્યું)<br>માટે, બાખબા (SAS) શરત મુજબ, ΔABC ~ ΔPQR.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષમાં આપેલી મધ્યગાનો ઉપયોગ કરીને પહેલા નાના ત્રિકોણોને સમરૂપ બતાવો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Ex 6.3, Q.12</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 4,
+      "question": "ખૂણો-ખૂણો-ખૂણો (AAA) શરત લખો અને સાબિત કરો કે જો બે ત્રિકોણમાં અનુરૂપ ખૂણાઓ સમાન હોય, તો તેમની અનુરૂપ બાજુઓની જોડીના ગુણોત્તર સમાન હોય અને તેથી તે બે ત્રિકોણો સમરૂપ હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>આ પ્રમેય સાબિત કરવા માટે ΔABC અને ΔDEF લો જ્યાં ∠A = ∠D, ∠B = ∠E, ∠C = ∠F.</p><p>1. DE પર P અને DF પર Q એવા લો કે જેથી DP = AB અને DQ = AC થાય.<br>2. ΔABC ≅ ΔDPQ (બાખબા શરત મુજબ, કારણ કે ∠A=∠D).<br>3. માટે, ∠B = ∠P. પણ ∠B = ∠E આપેલ છે, તેથી ∠P = ∠E.<br>4. આ અનુકોણો હોવાથી, PQ || EF.<br>5. થેલ્સના પ્રમેય મુજબ, DP/DE = DQ/DF = PQ/EF.<br>6. DP અને DQ ની કિંમતો મુકતા, AB/DE = AC/DF = BC/EF મળે.<br>7. આમ, અનુરૂપ બાજુઓ સમાનુપાતમાં છે, તેથી ΔABC ~ ΔDEF.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંગતતા ABC ↔ DEF સમરૂપતા માટે ખૂણા સમાન હોય તો બાજુઓનો ગુણોત્તર મેળવવો જ પડે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Theorem 6.3 (NCERT)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 4,
+      "question": "ΔABC માં DE || BC છે. જો AD = x, DB = x - 2, AE = x + 2 અને EC = x - 1 હોય, તો x ની કિંમત શોધો અને સાબિત કરો કે આ માપ માટે ΔADE અને ΔABC સમરૂપ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>1. DE || BC હોવાથી થેલ્સના પ્રમેય મુજબ:<br>AD/DB = AE/EC<br>x / (x-2) = (x+2) / (x-1)<br>x(x-1) = (x+2)(x-2)<br>x² - x = x² - 4<br>-x = -4 => x = 4</p><p>2. સમરૂપતા માટે:<br>ΔADE અને ΔABC માં,<br>∠A = ∠A (સામાન્ય ખૂણો)<br>∠ADE = ∠ABC (અનુકોણો, DE || BC)<br>માટે, ખુખુ (AA) શરત મુજબ ΔADE ~ ΔABC સાબિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (x+2)(x-2) = x² - 4 આ નિત્યસમ વાપરવાથી ગણતરી ઝડપી બનશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Application of BPT</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 4,
+      "question": "સાબિત કરો કે જો કોઈ રેખા ત્રિકોણની બે બાજુઓનું સમાન ગુણોત્તરમાં વિભાજન કરે, તો તે રેખા ત્રીજી બાજુને સમાંતર હોય છે. (થેલ્સનું પ્રતિપ્રમેય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>1. પક્ષ: ΔABC માં રેખા l બાજુ AB ને D માં અને AC ને E માં છેદે છે જેથી AD/DB = AE/EC.<br>2. સાધ્ય: DE || BC.<br>3. સાબિતી: ધારો કે DE એ BC ને સમાંતર નથી. તો ધારો કે અન્ય કોઈ રેખા DE' || BC છે.<br>4. જો DE' || BC હોય, તો થેલ્સના પ્રમેય મુજબ:<br>AD/DB = AE'/E'C -- (1)<br>5. પરંતુ પક્ષ મુજબ આપેલ છે કે:<br>AD/DB = AE/EC -- (2)<br>6. (1) અને (2) પરથી, AE'/E'C = AE/EC.<br>7. બંને બાજુ 1 ઉમેરતા:<br>(AE'/E'C) + 1 = (AE/EC) + 1<br>(AE' + E'C) / E'C = (AE + EC) / EC<br>AC / E'C = AC / EC<br>તેથી, E'C = EC.<br>8. આ ત્યારે જ શક્ય છે જ્યારે E અને E' એક જ બિંદુ હોય. માટે DE || BC.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ સાબિતી 'અનિષ્ટ આપત્તિ' (Contradiction) ની રીત તરીકે ઓળખાય છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Theorem 6.2 (GSEB)</p></div>"
+    }
+  ]
+}
