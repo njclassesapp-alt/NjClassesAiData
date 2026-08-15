@@ -41,8 +41,8 @@ prompt = f"""
 પ્રશ્નના div નો કલર '#1a237e' અને જવાબના div નો કલર '#f5f7fa', બોર્ડર '#2196f3' રાખવી.
 """
 
-# જે મોડલ પહેલા સફળતાપૂર્વક ચાલ્યા હતા તે જ સીધા ટ્રાય કરવા
-models_to_try = ['gemini-2.0-flash', 'gemini-1.5-flash']
+# હવે આપણે માત્ર '-latest' ટેગ વાળા મોડલ જ વાપરીશું જે Google ક્યારેય બ્લોક નથી કરતું
+models_to_try = ['gemini-1.5-flash-latest', 'gemini-1.5-flash-8b-latest', 'gemini-2.0-flash-exp']
 output_data = ""
 
 for m in models_to_try:
