@@ -5,7 +5,7 @@ from google import genai
 # 1. નવી Google GenAI સિસ્ટમનું સેટઅપ
 client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 
-# 2. ટ્રેકર ફાઈલ વાંચવી (આજે કયું ચેપ્ટર કરવાનું છે તે જાણવા)
+# 2. ટ્રેકર ફાઈલ વાંચવી 
 with open('system/progress_tracker.json', 'r') as f:
     tracker = json.load(f)
 
@@ -32,13 +32,26 @@ prompt = f"""
 પ્રશ્નના div નો કલર '#1a237e' અને જવાબના div નો કલર '#f5f7fa', બોર્ડર '#2196f3' રાખવી.
 """
 
-# 4. ડેટા જનરેટ કરવો (નવા લેટેસ્ટ ફ્લેશ મોડેલ સાથે)
-response = client.models.generate_content(
-    model='gemini-1.5-flash',
-    contents=prompt,
-)
+# 4. Auto-Detect Models (જે મોડેલ ચાલુ હશે તે જાતે શોધી લેશે)
+models_to_try = ['gemini-2.0-flash', 'gemini-1.5-flash', 'gemini-1.5-flash-8b', 'gemini-pro']
+output_data = ""
 
-output_data = response.text.replace("```javascript", "").replace("```", "").strip()
+for m in models_to_try:
+    try:
+        print(f"Trying to generate data using model: {m}...")
+        response = client.models.generate_content(
+            model=m,
+            contents=prompt,
+        )
+        output_data = response.text.replace("```javascript", "").replace("```", "").strip()
+        print(f"✅ Success! Data generated using {m}")
+        break
+    except Exception as e:
+        print(f"❌ Failed with {m}")
+
+if not output_data:
+    print("Error: બધી જ ટ્રાય ફેલ ગઈ છે. કૃપા કરીને API Key ચેક કરો.")
+    exit(1)
 
 # 5. ડેટાને ફાઇલમાં સેવ કરવો
 folder_path = f"Std{std}/{subject}"
@@ -51,7 +64,7 @@ with open(file_path, mode, encoding='utf-8') as f:
         f.write(f"var Std{std}_{subject}_{marks}Marks = [\n")
     f.write(output_data + ",\n")
 
-# 6. ટ્રેકર અપડેટ કરવું (આગળના દિવસ માટે પ્રકરણ બદલવું)
+# 6. ટ્રેકર અપડેટ કરવું
 tracker['current_chapter'] += 1 
 with open('system/progress_tracker.json', 'w') as f:
     json.dump(tracker, f, indent=4)
