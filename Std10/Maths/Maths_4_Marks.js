@@ -607,3 +607,70 @@ var Std10_Maths_4Marks = [
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "વર્તુળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 4,
+      "question": "સાબિત કરો કે, વર્તુળની બહારના બિંદુમાંથી વર્તુળને દોરેલા સ્પર્શકોની લંબાઈ સમાન હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>પક્ષ:</strong> કેન્દ્ર O વાળા વર્તુળની બહારના બિંદુ P માંથી દોરેલા બે સ્પર્શકો PQ અને PR છે, જ્યાં Q અને R સ્પર્શબિંદુઓ છે.</p><p><strong>સાધ્ય:</strong> PQ = PR</p><p><strong>આકૃતિ:</strong> (O કેન્દ્રિત વર્તુળ દોરો, બહાર બિંદુ P લો, P થી Q અને R ને જોડતા સ્પર્શકો દોરો.)</p><p><strong>સાબિતી:</strong></p><ol><li>OQ, OR અને OP જોડો.</li><li>હવે, &Delta;OQP અને &Delta;ORP માં:</li><li>OQ = OR (એક જ વર્તુળની ત્રિજ્યા)</li><li>&ang;OQP = &ang;ORP = 90&deg; (પ્રમેય 10.1 મુજબ, ત્રિજ્યા સ્પર્શકને લંબ હોય છે)</li><li>OP = OP (સામાન્ય બાજુ)</li><li>માટે, કાખબા (RHS) શરત મુજબ: &Delta;OQP &cong; &Delta;ORP</li><li>તેથી, CPCT મુજબ PQ = PR સાબિત થાય છે.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પ્રમેયમાં 'કાખબા' શરત યાદ રાખો. કા=કાટખૂણો, ખ=કર્ણ (OP), બા=બાજુ (ત્રિજ્યા). આ ત્રણ સ્ટેપ લખશો એટલે પૂરા માર્ક!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 4,
+      "question": "આકૃતિમાં, 4 સેમી ત્રિજ્યાવાળા વર્તુળને પરિગત ત્રિકોણ ABC એવો છે કે જેથી રેખાખંડ BC નું સ્પર્શબિંદુ D દ્વારા થતું વિભાજન BD = 8 સેમી અને DC = 6 સેમી હોય, તો બાજુઓ AB અને AC શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે ત્રિકોણની બાજુઓ AB અને AC વર્તુળને અનુક્રમે E અને F માં સ્પર્શે છે.</p><p>1. સ્પર્શકોના ગુણધર્મ મુજબ: CF = CD = 6 cm, BE = BD = 8 cm. ધારો કે AF = AE = x cm.</p><p>2. બાજુઓ: a = 14, b = x + 6, c = x + 8. અર્ધપરિમિતિ s = (14 + x + 6 + x + 8)/2 = x + 14.</p><p>3. &Delta;ABC નું ક્ષેત્રફળ = &radic;[s(s-a)(s-b)(s-c)] = &radic;[(x+14)(x)(8)(6)] = &radic;[48x(x+14)].</p><p>4. વળી, &Delta;ABC નું ક્ષેત્રફળ = &Delta;OBC + &Delta;OCA + &Delta;OAB = &frac12;*4*(14 + x+6 + x+8) = 2(2x + 28) = 4(x+14).</p><p>5. બંને બાજુ સરખાવતા અને વર્ગ કરતા: 48x(x+14) = 16(x+14)&sup2; &rArr; 3x = x + 14 &rArr; 2x = 14 &rArr; x = 7.</p><p>6. AB = x + 8 = 15 cm અને AC = x + 6 = 13 cm.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેરોનનું સૂત્ર વાપરીને ક્ષેત્રફળ શોધો અને તેને ત્રણ નાના ત્રિકોણના સરવાળા સાથે સરખાવો. x મળે એટલે જવાબ પાકો!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 4,
+      "question": "(i) સાબિત કરો કે વર્તુળને પરિગત સમાંતરબાજુ ચતુષ્કોણ એ સમબાજુ ચતુષ્કોણ છે. \n(ii) જો સમાંતરબાજુ ચતુષ્કોણ ABCD નું ક્ષેત્રફળ 40 ચો.સેમી હોય અને બાજુ AB=10 સેમી હોય, તો તેની ઊંચાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>(i) સાબિતી:</strong></p><p>1. ધારો કે ABCD સમાંતરબાજુ ચતુષ્કોણ છે જે વર્તુળને P, Q, R, S માં સ્પર્શે છે.</p><p>2. આપણે જાણીએ છીએ કે AB + CD = AD + BC.</p><p>3. સમાંતરબાજુ ચતુષ્કોણમાં AB = CD અને AD = BC હોય છે.</p><p>4. તેથી, AB + AB = AD + AD &rArr; 2AB = 2AD &rArr; AB = AD.</p><p>5. જે સમાંતરબાજુ ચતુષ્કોણની પાસપાસેની બાજુઓ સમાન હોય તે સમબાજુ ચતુષ્કોણ છે. માટે ABCD સમબાજુ ચતુષ્કોણ છે.</p><p><strong>(ii) ગણતરી:</strong></p><p>ક્ષેત્રફળ = આધાર &times; ઊંચાઈ &rArr; 40 = 10 &times; h &rArr; h = 4 સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'AB + CD = BC + DA' આ સૂત્ર પરિગત ચતુષ્કોણ માટે પાયાનું છે, તેને ક્યારેય ન ભૂલતા!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 4,
+      "question": "સાબિત કરો કે વર્તુળના કોઈ પણ બિંદુએ દોરેલ સ્પર્શક, સ્પર્શબિંદુમાંથી પસાર થતી ત્રિજ્યાને લંબ હોય છે. જો ત્રિજ્યા 5 સેમી હોય અને કેન્દ્રથી બહારના બિંદુનું અંતર 13 સેમી હોય, તો સ્પર્શકની લંબાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>સાબિતી:</strong> કેન્દ્ર O વાળા વર્તુળના બિંદુ P પર સ્પર્શક XY છે. ધારો કે Q એ XY પર P સિવાયનું કોઈ બિંદુ છે. Q વર્તુળની બહાર જ હોય (જો અંદર હોય તો XY છેદિકા બની જાય). માટે OQ > OP (ત્રિજ્યા). આમ, P સિવાયના દરેક બિંદુ માટે અંતર વધશે. તેથી OP એ લઘુતમ અંતર છે, જે લંબ હોય છે. (OP &perp; XY).</p><p><strong>દાખલો:</strong> કાટકોણ &Delta;OPT માં Pythagoras મુજબ:</p><p>OT&sup2; = OP&sup2; + PT&sup2;</p><p>13&sup2; = 5&sup2; + PT&sup2; &rArr; 169 = 25 + PT&sup2;</p><p>PT&sup2; = 144 &rArr; PT = 12 સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Pythagoras ના ત્રિપુટી (5, 12, 13) યાદ રાખશો તો MCQs માં પણ કામ આવશે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 4,
+      "question": "આકૃતિમાં XY અને X'Y' એ O કેન્દ્રવાળા વર્તુળના બે સમાંતર સ્પર્શકો છે અને સ્પર્શબિંદુ C આગળ દોરેલો ત્રીજો સ્પર્શક AB, XY ને A માં અને X'Y' ને B માં છેદે છે. સાબિત કરો કે &ang;AOB = 90&deg;.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ol><li>O અને C ને જોડો.</li><li>&Delta;OPA અને &Delta;OCA માં: OP = OC (ત્રિજ્યા), AP = AC (સ્પર્શકો), OA = OA (સામાન્ય).</li><li>માટે &Delta;OPA &cong; &Delta;OCA (બાબાબા શરત).</li><li>તેથી &ang;POA = &ang;COA .... (1)</li><li>તે જ રીતે &Delta;OQB &cong; &Delta;OCB પરથી &ang;QOB = &ang;COB .... (2)</li><li>હવે POQ વ્યાસ હોવાથી &ang;POA + &ang;COA + &ang;COB + &ang;QOB = 180&deg;</li><li>2&ang;COA + 2&ang;COB = 180&deg; &rArr; 2(&ang;COA + &ang;COB) = 180&deg;</li><li>&ang;AOB = 90&deg;.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેન્દ્ર પાસે બનતા ચાર ખૂણાઓમાંથી બે-બેની જોડી સરખી બતાવી દો, એટલે અડધો સરવાળો 90 થઈ જશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 4,
+      "question": "બે સમકેન્દ્રી વર્તુળોની ત્રિજ્યા 5 સેમી અને 3 સેમી છે. મોટા વર્તુળની જીવા નાના વર્તુળને સ્પર્શે છે, તો તેની લંબાઈ શોધો. વળી, સાબિત કરો કે સ્પર્શબિંદુ જીવાને દુભાગે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે O કેન્દ્રવાળા બે વર્તુળોની ત્રિજ્યા R = 5 અને r = 3 છે. મોટા વર્તુળની જીવા AB એ નાના વર્તુળને P માં સ્પર્શે છે.</p><p>1. OP એ નાના વર્તુળની ત્રિજ્યા છે, માટે OP &perp; AB.</p><p>2. કાટકોણ &Delta;OPA માં, Pythagoras મુજબ: OA&sup2; = OP&sup2; + AP&sup2;</p><p>3. 5&sup2; = 3&sup2; + AP&sup2; &rArr; 25 = 9 + AP&sup2; &rArr; AP&sup2; = 16 &rArr; AP = 4 સેમી.</p><p>4. કેન્દ્રમાંથી જીવા પર દોરેલો લંબ જીવાને દુભાગે છે, તેથી AB = 2 * AP = 2 * 4 = 8 સેમી.</p><p>5. આમ, જીવાની લંબાઈ 8 સેમી છે અને P એ AB નું મધ્યબિંદુ છે (દુભાગે છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ દાખલો 2 માર્ક્સમાં પણ આવે છે. જીવાની લંબાઈ = 2 &times; &radic;(R&sup2; - r&sup2;) સૂત્ર યાદ રાખો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 4,
+      "question": "સાબિત કરો કે વર્તુળના વ્યાસના અંત્યબિંદુઓએ દોરેલા સ્પર્શકો પરસ્પર સમાંતર હોય છે. જો વ્યાસ 10 સેમી હોય, તો બે સમાંતર સ્પર્શકો વચ્ચેનું લંબ અંતર કેટલું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>સાબિતી:</strong> ધારો કે AB એ O કેન્દ્રવાળા વર્તુળનો વ્યાસ છે. બિંદુ A અને B આગળ સ્પર્શકો PQ અને RS દોરેલા છે.</p><ol><li>OA એ PQ ને લંબ છે, તેથી &ang;OAQ = 90&deg;.</li><li>OB એ RS ને લંબ છે, તેથી &ang;OBS = 90&deg;.</li><li>અહીં &ang;OAQ અને &ang;OBS એ યુગ્મકોણોની જોડ બનાવે છે કારણ કે AB તેમની છેદિકા છે.</li><li>જ્યારે અંતઃયુગ્મકોણો સમાન હોય, ત્યારે રેખાઓ સમાંતર હોય છે. માટે PQ || RS.</li></ol><p><strong>અંતર:</strong> બે સમાંતર સ્પર્શકો વચ્ચેનું લંબ અંતર વ્યાસ જેટલું હોય છે. માટે અંતર = 10 સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પર્શકો સમાંતર બતાવવા માટે હંમેશા 'ઝેડ' (Z) આકારના યુગ્મકોણોનો ઉપયોગ કરવો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 4,
+      "question": "સાબિત કરો કે વર્તુળના કોઈ પણ બિંદુએ દોરેલ સ્પર્શક અને સ્પર્શબિંદુમાંથી પસાર થતી જીવા વચ્ચેના ખૂણાઓ તે જીવા દ્વારા અંતરિત એકાંતર વૃત્તખંડના ખૂણાઓ જેટલા હોય છે. (Alternative Segment Theorem)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>આ પ્રમેયને સાબિત કરવા માટે આપણે વર્તુળના ગુણધર્મોનો ઉપયોગ કરીશું.</p><ol><li>ધારો કે PQ એ વર્તુળનો A બિંદુએ સ્પર્શક છે અને AB જીવા છે.</li><li>ધારો કે &ang;BAQ = &theta; છે.</li><li>કેન્દ્ર O માંથી વ્યાસ AD દોરો. &ang;DAQ = 90&deg; થશે.</li><li>&ang;DAB = 90&deg; - &theta;.</li><li>હવે, અર્ધવર્તુળમાંનો ખૂણો &ang;DBA = 90&deg; છે.</li><li>&Delta;ADB માં, &ang;ADB = 180&deg; - (90&deg; + 90&deg; - &theta;) = &theta;.</li><li>વર્તુળના એક જ વૃત્તખંડના ખૂણા સમાન હોવાથી, &ang;ADB = &ang;ACB = &theta;.</li><li>આમ, &ang;BAQ = &ang;ACB સાબિત થાય છે.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પ્રમેય થોડો અઘરો લાગે પણ 'એક જ વૃત્તખંડના ખૂણા' નો કન્સેપ્ટ વાપરશો તો સરળ થઈ જશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 4,
+      "question": "(i) સાબિત કરો કે વર્તુળના સ્પર્શક અને ત્રિજ્યા વચ્ચેનો ખૂણો 90 ડિગ્રી હોય છે. \n(ii) જો બાહ્ય બિંદુ P માંથી 5 સેમી ત્રિજ્યાવાળા વર્તુળના બે સ્પર્શકો PA અને PB વચ્ચેનો ખૂણો 60&deg; હોય, તો સ્પર્શકની લંબાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>(i) સાબિતી:</strong> જુઓ પ્રશ્ન-4 ની સાબિતી (લઘુતમ અંતર લંબ હોય છે).</p><p><strong>(ii) ગણતરી:</strong></p><ol><li>&Delta;OAP માં, &ang;OPA = 60&deg;/2 = 30&deg; (કારણ કે OP કોણ દુભાજક છે).</li><li>&ang;OAP = 90&deg; (ત્રિજ્યા-સ્પર્શક).</li><li>Trigonometry મુજબ: tan 30&deg; = OA / PA</li><li>1/&radic;3 = 5 / PA</li><li>PA = 5&radic;3 સેમી.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે પણ ખૂણો આપ્યો હોય, ત્યારે Trigonometry (tan &theta;) નો ઉપયોગ કરવો, જવાબ ઝડપથી મળશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 4,
+      "question": "સાબિત કરો કે વર્તુળની બહારના બિંદુમાંથી દોરેલા બે સ્પર્શકો વચ્ચેનો ખૂણો અને સ્પર્શબિંદુઓને કેન્દ્ર સાથે જોડતા રેખાખંડ વચ્ચેનો ખૂણો એકબીજાના પૂરક હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>પક્ષ:</strong> કેન્દ્ર O વાળા વર્તુળની બહારના બિંદુ P માંથી બે સ્પર્શકો PA અને PB છે.</p><p><strong>સાધ્ય:</strong> &ang;APB + &ang;AOB = 180&deg;</p><p><strong>સાબિતી:</strong></p><ol><li>ચતુષ્કોણ OAPB માં, ચારેય ખૂણાઓનો સરવાળો 360&deg; થાય છે.</li><li>&ang;OAP = 90&deg; (ત્રિજ્યા &perp; સ્પર્શક)</li><li>&ang;OBP = 90&deg; (ત્રિજ્યા &perp; સ્પર્શક)</li><li>માટે, &ang;OAP + &ang;APB + &ang;OBP + &ang;AOB = 360&deg;</li><li>90&deg; + &ang;APB + 90&deg; + &ang;AOB = 360&deg;</li><li>180&deg; + &ang;APB + &ang;AOB = 360&deg;</li><li>&ang;APB + &ang;AOB = 360&deg; - 180&deg; = 180&deg;</li><li>આમ, આ બંને ખૂણાઓ પૂરક છે તેમ સાબિત થાય છે.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પ્રશ્ન વારંવાર પૂછાય છે. યાદ રાખો: સામસામેના ખૂણા 90-90 છે, તો બાકીના બેનો સરવાળો પણ 180 જ થાય!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    }
+  ]
+}
