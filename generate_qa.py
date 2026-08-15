@@ -3,6 +3,8 @@ import json
 import urllib.request
 import urllib.error
 
+api_key = os.environ.get("GEMINI_API_KEY")
+
 with open('system/progress_tracker.json', 'r') as f:
     tracker = json.load(f)
 
@@ -17,7 +19,7 @@ prompt = f"""
 તમે ગુજરાત બોર્ડ (GSEB) ના એક્સપર્ટ શિક્ષક છો. આજનું વર્ષ 2026 છે.
 તમારે ફરજિયાતપણે 2024 પછીના નવા ઘટાડેલા NCERT/GSEB સિલેબસ મુજબ જ ડેટા બનાવવાનો છે. જૂના સિલેબસના રદ થયેલા ટોપિક બિલકુલ લેવાના નથી.
 
-ધોરણ {std}, વિષય: {subject}, પ્રકરણ: {chapter} માંથી {marks} ગુણના ઓછામાં ઓછા 10 અગત્યના પ્રશ્નો બનાવો (જો શક્ય હોય તો).
+ધોરણ {std}, વિષય: {subject}, પ્રકરણ: {chapter} માંથી {marks} ગુણના ઓછામાં ઓછા 10 અગત્યના પ્રશ્નો બનાવો (જો શક્ય હોય).
 
 ખાસ શરત (બ્લુપ્રિન્ટ અને બેઝિક/સ્ટાન્ડર્ડ ગણિત):
 - પ્રશ્નો બનાવતા પહેલા ઓનલાઈન લેટેસ્ટ બ્લુપ્રિન્ટનું એનાલિસિસ કરો કે આ પ્રકરણમાંથી {marks} ગુણના પ્રશ્નો પૂછાય છે કે નહિ.
@@ -40,32 +42,66 @@ prompt = f"""
 પ્રશ્નના div નો કલર '#1a237e' અને જવાબના div નો કલર '#f5f7fa', બોર્ડર '#2196f3' રાખવી.
 """
 
-api_key = os.environ.get("GEMINI_API_KEY")
+# ૧. તમારા એકાઉન્ટમાં લાઈવ રહેલા મોડલનું લિસ્ટ Google પાસેથી મંગાવવું
+print("Fetching live models from your API account...")
+models_url = f"https://generativelanguage.googleapis.com/v1beta/models?key={api_key}"
+valid_models = []
 
-# ડાયરેક્ટ ગુગલ એપીઆઈ (Direct REST API API) કનેક્શન
-url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
-headers = {'Content-Type': 'application/json'}
-data = json.dumps({
-    "contents": [{"parts": [{"text": prompt}]}]
-}).encode('utf-8')
-
-print("Connecting directly to Google API (Bypassing libraries)...")
 try:
-    req = urllib.request.Request(url, data=data, headers=headers)
+    req = urllib.request.Request(models_url)
     with urllib.request.urlopen(req) as response:
         result = json.loads(response.read().decode('utf-8'))
-        output_data = result['candidates'][0]['content']['parts'][0]['text']
-        output_data = output_data.replace("```javascript", "").replace("```", "").strip()
-        print("✅ Success! Data generated using direct connection.")
-except urllib.error.HTTPError as e:
-    error_body = e.read().decode('utf-8')
-    print(f"❌ API Error: HTTP {e.code}")
-    print(f"Error Details: {error_body}")
-    exit(1)
+        for m in result.get('models', []):
+            if 'generateContent' in m.get('supportedGenerationMethods', []):
+                name = m.get('name')
+                # ઓડિયો/વિડીયો વાળા ખરાબ મોડલને કાઢી નાખવા
+                if 'vision' not in name.lower() and 'audio' not in name.lower() and 'tts' not in name.lower():
+                    valid_models.append(name)
 except Exception as e:
-    print(f"❌ Connection Error: {str(e)}")
+    print(f"Could not fetch models automatically: {e}")
+    valid_models = ['models/gemini-1.5-flash-latest', 'models/gemini-1.5-pro-latest', 'models/gemini-pro']
+
+if not valid_models:
+    print("❌ No valid text models found in this API account.")
     exit(1)
 
+# સૌથી સારા 'flash' અને 'pro' મોડલને સૌથી પહેલા નંબરે ગોઠવવા
+valid_models.sort(key=lambda x: ('flash' not in x.lower(), '1.5' not in x.lower(), x))
+print(f"Top 3 models active on your account: {valid_models[:3]}")
+
+output_data = ""
+
+# ૨. જીવંત મોડલનો ઉપયોગ કરીને ડેટા બનાવવો
+headers = {'Content-Type': 'application/json'}
+data = json.dumps({"contents": [{"parts": [{"text": prompt}]}]}).encode('utf-8')
+
+for model_name in valid_models[:3]:
+    if not model_name.startswith("models/"):
+        model_name = f"models/{model_name}"
+        
+    url = f"https://generativelanguage.googleapis.com/v1beta/{model_name}:generateContent?key={api_key}"
+    print(f"Connecting to {model_name}...")
+    
+    try:
+        req = urllib.request.Request(url, data=data, headers=headers)
+        with urllib.request.urlopen(req) as response:
+            result = json.loads(response.read().decode('utf-8'))
+            if 'candidates' in result and len(result['candidates']) > 0:
+                output_data = result['candidates'][0]['content']['parts'][0]['text']
+                output_data = output_data.replace("```javascript", "").replace("```", "").strip()
+                print(f"✅ Success! Data generated using {model_name}.")
+                break
+    except urllib.error.HTTPError as e:
+        error_body = e.read().decode('utf-8')
+        print(f"❌ Failed with {model_name}. HTTP {e.code}: {error_body}")
+    except Exception as e:
+        print(f"❌ Connection Error with {model_name}: {str(e)}")
+
+if not output_data:
+    print("Error: બધી જ ટ્રાય ફેલ ગઈ છે.")
+    exit(1)
+
+# ૩. ડેટા સેવ કરવો
 folder_path = f"Std{std}/{subject}"
 os.makedirs(folder_path, exist_ok=True)
 file_path = f"{folder_path}/{subject}_{marks}_Marks.js"
