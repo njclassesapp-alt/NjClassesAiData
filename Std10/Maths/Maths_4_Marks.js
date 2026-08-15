@@ -119,3 +119,70 @@ var Std10_Maths_4Marks = [
     "question": "(i) દ્વિઘાત બહુપદી x² + 9x + 20 ના શૂન્યો શોધો અને સંબંધ ચકાસો.\n(ii) જો α અને β એ x² - 4x + 3 ના શૂન્યો હોય, તો α⁴β³ + α³β⁴ ની કિંમત શોધો.",
     "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>(i) x² + 9x + 20 માટે:</strong><br>x² + 5x + 4x + 20 = 0 => (x + 5)(x + 4) = 0<br>શૂન્યો: -5, -4<br>સરવાળો = -9 = -b/a, ગુણાકાર = 20 = c/a</p><p><strong>(ii) α⁴β³ + α³β⁴ માટે:</strong><br>સામાન્ય કાઢતા: α³β³ (α + β) = (αβ)³ (α + β)<br>અહીં α + β = 4 અને αβ = 3<br>કિંમત = (3)³ * (4) = 27 * 4 = 108</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અઘરા દેખાતા સમીકરણોમાં હંમેશા પદ સામાન્ય (Common) કાઢવાથી ઉકેલ સરળ બની જાય છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
   },
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "દ્વિચલ સુરેખ સમીકરણ યુગ્મ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 4,
+      "question": "નીચે આપેલ દ્વિચલ સુરેખ સમીકરણોનો ઉકેલ લોપની રીતે મેળવો અને તે પરથી 'm' શોધો કે જેથી y = mx + 3 થાય. \n(i) 2x + 3y = 11 \n(ii) 2x - 4y = -24",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સમીકરણ 1: 2x + 3y = 11 અને સમીકરણ 2: 2x - 4y = -24.</p><p>લોપની રીત માટે સમીકરણ (1) માંથી (2) બાદ કરતા:<br>(2x + 3y) - (2x - 4y) = 11 - (-24)<br>7y = 35 => <b>y = 5</b></p><p>y ની કિંમત સમીકરણ (1) માં મૂકતા:<br>2x + 3(5) = 11<br>2x = 11 - 15 = -4 => <b>x = -2</b></p><p>હવે, y = mx + 3 માં કિંમત મૂકતા:<br>5 = m(-2) + 3<br>5 - 3 = -2m => 2 = -2m => <b>m = -1</b></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે બંને સમીકરણમાં x ના સહગુણક સમાન હોય ત્યારે સીધી બાદબાકી કરવાથી એક ચલનો લોપ જલ્દી થશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 4,
+      "question": "એક અપૂર્ણાંકના અંશમાં 1 ઉમેરતા અને છેદમાંથી 1 બાદ કરતા અપૂર્ણાંકની કિંમત 1 બને છે. જો માત્ર છેદમાં 1 ઉમેરતા અપૂર્ણાંકનું અતિસંક્ષિપ્ત સ્વરૂપ 1/2 બને, તો તે અપૂર્ણાંક શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે અંશ = x અને છેદ = y. તેથી અપૂર્ણાંક = x/y.</p><p>શરત 1 મુજબ: (x + 1) / (y - 1) = 1<br>x + 1 = y - 1 => <b>x - y = -2</b> --- (1)</p><p>શરત 2 મુજબ: x / (y + 1) = 1/2<br>2x = y + 1 => <b>2x - y = 1</b> --- (2)</p><p>સમીકરણ (2) માંથી (1) બાદ કરતા:<br>(2x - y) - (x - y) = 1 - (-2)<br>x = 3</p><p>x ની કિંમત (1) માં મૂકતા: 3 - y = -2 => y = 5.<br>તેથી માંગેલ અપૂર્ણાંક <b>3/5</b> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અપૂર્ણાંકના દાખલામાં હંમેશા x/y ધારીને શરતો મુજબ સમીકરણ બનાવો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise 3.3</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 4,
+      "question": "પાંચ વર્ષ પછી જેકબની ઉંમર તેના પુત્રની ઉંમર કરતા ત્રણ ગણી હશે. પાંચ વર્ષ પહેલાં જેકબની ઉંમર તેના પુત્રની ઉંમર કરતા સાત ગણી હોય, તો તેમની વર્તમાન ઉંમર શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે જેકબની હાલની ઉંમર x વર્ષ અને પુત્રની હાલની ઉંમર y વર્ષ છે.</p><p>5 વર્ષ પછી: (x + 5) = 3(y + 5) => x - 3y = 10 --- (1)</p><p>5 વર્ષ પહેલાં: (x - 5) = 7(y - 5) => x - 7y = -30 --- (2)</p><p>સમીકરણ (1) અને (2) ની બાદબાકી કરતા:<br>4y = 40 => <b>y = 10</b></p><p>y ની કિંમત (1) માં મૂકતા: x - 3(10) = 10 => x = 40.<br>જેકબની ઉંમર <b>40 વર્ષ</b> અને પુત્રની ઉંમર <b>10 વર્ષ</b> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પછી' હોય તો (+) અને 'પહેલાં' હોય તો (-) નિશાની વાપરો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Text Book Example</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 4,
+      "question": "એક ટેક્સીનું ભાડું નિશ્ચિત ભાડા અને અંતરના પ્રમાણમાં સંયુક્ત રીતે લેવાય છે. 10 કિમીના અંતર માટે ₹105 અને 15 કિમી માટે ₹155 ચૂકવવા પડે છે. તો (i) નિશ્ચિત ભાડું અને (ii) પ્રતિ કિમી ભાડું શોધો. 25 કિમીની મુસાફરી માટે કેટલું ભાડું આપવું પડશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે નિશ્ચિત ભાડું = ₹x અને પ્રતિ કિમી ભાડું = ₹y.</p><p>10 કિમી માટે: x + 10y = 105 --- (1)<br>15 કિમી માટે: x + 15y = 155 --- (2)</p><p>બાદબાકી કરતા: 5y = 50 => <b>y = 10</b><br>x + 10(10) = 105 => <b>x = 5</b></p><p>25 કિમી માટે ભાડું = x + 25y = 5 + 25(10) = 5 + 250 = <b>₹255</b>.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિશ્ચિત ભાડું x હંમેશા અચળ રહે, માત્ર y (કિમી) જ બદલાશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 4,
+      "question": "બે અંકોની એક સંખ્યાના અંકોનો સરવાળો 9 છે. વળી સંખ્યાના 9 ગણા કરતા મળતી સંખ્યા એ અંકોની અદલાબદલી કરતા મળતી સંખ્યા કરતા બે ગણી છે. તે સંખ્યા શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે એકમનો અંક y અને દશકનો અંક x છે. સંખ્યા = 10x + y.</p><p>શરત 1: x + y = 9 --- (1)</p><p>શરત 2: 9(10x + y) = 2(10y + x)<br>90x + 9y = 20y + 2x<br>88x - 11y = 0 => 8x - y = 0 --- (2)</p><p>(1) અને (2) નો સરવાળો કરતા: 9x = 9 => <b>x = 1</b><br>1 + y = 9 => <b>y = 8</b><br>સંખ્યા = 10(1) + 8 = <b>18</b>.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂળ સંખ્યા હંમેશા 10(દશક) + એકમ સ્વરૂપે લખવી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Most IMP for Board 2024-25</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 4,
+      "question": "એક લંબચોરસની લંબાઈમાં 5 એકમ ઘટાડો થાય અને પહોળાઈમાં 3 એકમ વધારો થાય, તો ક્ષેત્રફળ 9 ચોરસ એકમ ઘટે છે. જો લંબાઈમાં 3 એકમ અને પહોળાઈમાં 2 એકમ વધારો કરીએ, તો ક્ષેત્રફળ 67 એકમ વધે છે. લંબચોરસના પરિમાણ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે લંબાઈ x અને પહોળાઈ y. ક્ષેત્રફળ = xy.</p><p>શરત 1: (x-5)(y+3) = xy - 9<br>xy + 3x - 5y - 15 = xy - 9 => 3x - 5y = 6 --- (1)</p><p>શરત 2: (x+3)(y+2) = xy + 67<br>xy + 2x + 3y + 6 = xy + 67 => 2x + 3y = 61 --- (2)</p><p>સમીકરણ ઉકેલતા: x = 17 અને y = 9. લંબાઈ <b>17</b> અને પહોળાઈ <b>9</b> એકમ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષેત્રફળ વધે ત્યારે '+' અને ઘટે ત્યારે '-' કરો, xy પદ બંને બાજુથી ઉડી જશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 4,
+      "question": "એક પ્રતિષ્ઠિત પુસ્તકાલય પ્રથમ ત્રણ દિવસ માટે એક નિશ્ચિત ભાડું લે છે અને પછીના પ્રત્યેક દિવસ દીઠ અતિરિક્ત ભાડું લે છે. સરિતા 7 દિવસ પુસ્તક રાખવાના ₹27 ચૂકવે છે, જ્યારે સુસી 5 દિવસ પુસ્તક રાખવાના ₹21 ચૂકવે છે. નિશ્ચિત ભાડું અને પ્રત્યેક વધારાના દિવસનું ભાડું શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે 3 દિવસનું નિશ્ચિત ભાડું x અને પછીના દરેક દિવસનું ભાડું y છે.</p><p>સરિતા માટે (7 દિવસ = 3 નિશ્ચિત + 4 વધારાના): x + 4y = 27 --- (1)</p><p>સુસી માટે (5 દિવસ = 3 નિશ્ચિત + 2 વધારાના): x + 2y = 21 --- (2)</p><p>બાદબાકી કરતા: 2y = 6 => <b>y = 3</b><br>x + 2(3) = 21 => <b>x = 15</b><br>નિશ્ચિત ભાડું <b>₹15</b> અને વધારાનું ભાડું <b>₹3</b> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિવસોની ગણતરીમાં નિશ્ચિત દિવસો બાદ કરવાનું ભૂલશો નહીં.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Assignment 2024</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 4,
+      "question": "નીચેના પ્રશ્નોના ઉકેલ આપો: \n(i) આદેશની રીતે ઉકેલો: 3x - y = 3; 9x - 3y = 9 \n(ii) જો બે પૂરકકોણો પૈકી મોટો ખૂણો નાના ખૂણા કરતાં 18° મોટો હોય, તો તે ખૂણાઓ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>(i) 3x - y = 3 માંથી y = 3x - 3. આ કિંમત 9x - 3(3x-3) = 9 માં મૂકતા 9=9 મળે. આ સમીકરણો સંપાતી હોવાથી <b>અનંત ઉકેલ</b> મળે.</p><p>(ii) ધારો કે મોટો ખૂણો x અને નાનો y. પૂરકકોણ હોવાથી x + y = 180 અને તફાવત x - y = 18.<br>સરવાળો કરતા: 2x = 198 => <b>x = 99°</b>. <br>99 + y = 180 => <b>y = 81°</b>.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂરકકોણનો સરવાળો હંમેશા 180° થાય તે યાદ રાખવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Section</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 4,
+      "question": "રુહી તેના ઘર તરફ જવા માટે 300 કિમીની મુસાફરી અંશતઃ ટ્રેન અને અંશતઃ બસ દ્વારા કરે છે. જો તે 60 કિમી મુસાફરી ટ્રેન દ્વારા અને બાકીની બસ દ્વારા કરે તો તેને 4 કલાક લાગે છે. જો તે 100 કિમી ટ્રેન અને બાકીની બસ દ્વારા કરે તો 10 મિનિટ વધારે લાગે છે. ટ્રેન અને બસની સરેરાશ ઝડપ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ટ્રેનની ઝડપ x અને બસની ઝડપ y ધારો. (સમય = અંતર / ઝડપ)</p><p>કિસ્સો 1: 60/x + 240/y = 4 --- (1)</p><p>કિસ્સો 2: 100/x + 200/y = 4 + 10/60 = 25/6 --- (2)</p><p>1/x = a અને 1/y = b ધારીને ઉકેલતા:<br>a = 1/60 અને b = 1/80 મળે.<br>ટ્રેનની ઝડપ <b>60 કિમી/કલાક</b> અને બસની ઝડપ <b>80 કિમી/કલાક</b> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિનિટને કલાકમાં ફેરવવા 60 વડે ભાગવા ફરજિયાત છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> High Order Thinking Skill (HOTS)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 4,
+      "question": "બે વ્યક્તિઓની માસિક આવકનો ગુણોત્તર 9:7 છે અને તેમના માસિક ખર્ચનો ગુણોત્તર 4:3 છે. જો દરેક વ્યક્તિ માસિક ₹2000 ની બચત કરે, તો તેમની માસિક આવક શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે આવક 9x અને 7x છે. ખર્ચ 4y અને 3y છે. (આવક - ખર્ચ = બચત)</p><p>વ્યક્તિ 1: 9x - 4y = 2000 --- (1)<br>વ્યક્તિ 2: 7x - 3y = 2000 --- (2)</p><p>સમીકરણ (1) ને 3 વડે અને (2) ને 4 વડે ગુણી બાદબાકી કરતા:<br>(27x - 12y) - (28x - 12y) = 6000 - 8000<br>-x = -2000 => <b>x = 2000</b></p><p>આવક: 9(2000) = <b>₹18,000</b> અને 7(2000) = <b>₹14,000</b>.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણોત્તરવાળા દાખલામાં 'x' ચલ લઈને સીધા સમીકરણ બનાવી શકાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Example / Gala Assignment</p></div>"
+    }
+  ]
+}
