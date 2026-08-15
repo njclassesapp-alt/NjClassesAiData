@@ -242,3 +242,162 @@ function getImpQuestionsHTML() {
 }
 
 console.log("NJ Classes IMP - 2026 Batch - Std 10 Maths Ch 1 Loaded");,
+/**
+ * GSEB Standard 10 - Maths - Chapter 2: Polynomials (બહુપદીઓ)
+ * Year: 2026 (New NCERT Syllabus Post-2024)
+ * Blueprint Analysis: 
+ * - Standard Maths: Section D (4 marks) questions are often asked as multi-part verification or Case Study.
+ * - Basic Maths: Section D (4 marks) usually features "Case Study" based on graphs of polynomials.
+ * Reference: NJ Classes IMP / GSEB Board
+ */
+
+const gsebMathsData = {
+  chapterName: "બહુપદીઓ (Polynomials)",
+  chapterNumber: 2,
+  standard: 10,
+  year: 2026,
+  questions: [
+    {
+      id: 1,
+      category: "સ્વાધ્યાયના પ્રશ્નો",
+      marks: 4,
+      reference: "NJ Classes IMP (For Standard Maths)",
+      question: "દ્વિઘાત બહુપદી 6x² - 3 - 7x ના શૂન્યો શોધો અને તેના શૂન્યો અને સહગુણકો વચ્ચેનો સંબંધ ચકાસો.",
+      styling: {
+        questionBg: "#1a237e",
+        answerBg: "#f5f7fa",
+        borderColor: "#2196f3"
+      },
+      answer: "<b>પગલું 1:</b> બહુપદીને પ્રમાણિત સ્વરૂપમાં ગોઠવતા: p(x) = 6x² - 7x - 3<br><b>પગલું 2:</b> શૂન્યો શોધવા માટે p(x) = 0 લેતા,<br>6x² - 9x + 2x - 3 = 0<br>3x(2x - 3) + 1(2x - 3) = 0<br>(2x - 3)(3x + 1) = 0<br>તેથી, x = 3/2 અથવા x = -1/3<br><b>પગલું 3: શૂન્યોનો સંબંધ:</b><br>શૂન્યોનો સરવાળો (α + β) = 3/2 + (-1/3) = (9-2)/6 = 7/6 = -(-7)/6 = -b/a (ચકાસાયેલ છે)<br>શૂન્યોનો ગુણાકાર (αβ) = (3/2) * (-1/3) = -3/6 = -1/2 = c/a (ચકાસાયેલ છે)",
+      shortcut: "💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હંમેશા પહેલા બહુપદીને ઘાતના ઉતરતા ક્રમમાં ગોઠવો (ax² + bx + c), નહીતર અવયવ પાડવામાં ભૂલ પડશે."
+    },
+    {
+      id: 2,
+      category: "સ્વાધ્યાયના પ્રશ્નો",
+      marks: 4,
+      reference: "GSEB Board (For Standard Maths)",
+      question: "દ્વિઘાત બહુપદી 4u² + 8u ના શૂન્યો શોધો અને તેના શૂન્યો અને સહગુણકો વચ્ચેનો સંબંધ ચકાસો.",
+      styling: {
+        questionBg: "#1a237e",
+        answerBg: "#f5f7fa",
+        borderColor: "#2196f3"
+      },
+      answer: "<b>પગલું 1:</b> p(u) = 4u² + 8u<br>શૂન્યો માટે, 4u² + 8u = 0<br>4u(u + 2) = 0<br>તેથી, u = 0 અથવા u = -2<br><b>પગલું 2: સંબંધની ચકાસણી:</b><br>અહીં a = 4, b = 8, c = 0 છે.<br>શૂન્યોનો સરવાળો = 0 + (-2) = -2. સૂત્ર મુજબ -b/a = -8/4 = -2. (સરખું છે)<br>શૂન્યોનો ગુણાકાર = 0 * (-2) = 0. સૂત્ર મુજબ c/a = 0/4 = 0. (સરખું છે)",
+      shortcut: "💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે પદ 'c' (અચળ પદ) ન આપેલ હોય, ત્યારે એક શૂન્ય હંમેશા 0 જ આવશે."
+    },
+    {
+      id: 3,
+      category: "ઉદાહરણના પ્રશ્નો",
+      marks: 4,
+      reference: "GSEB Board (For Standard Maths)",
+      question: "દ્વિઘાત બહુપદી x² + 7x + 10 ના શૂન્યો શોધો અને તેના શૂન્યો અને સહગુણકો વચ્ચેનો સંબંધ ચકાસો.",
+      styling: {
+        questionBg: "#1a237e",
+        answerBg: "#f5f7fa",
+        borderColor: "#2196f3"
+      },
+      answer: "<b>ઉકેલ:</b><br>x² + 7x + 10 = (x + 5)(x + 2)<br>શૂન્યો: -5 અને -2.<br>સરવાળો: -5 + (-2) = -7 = -b/a (7/1)<br>ગુણાકાર: (-5) * (-2) = 10 = c/a (10/1)",
+      shortcut: "💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો બધા જ પદો ધન (+) હોય, તો તેના બંને શૂન્યો ઋણ (-) જ આવશે."
+    },
+    {
+      id: 4,
+      category: "ઉદાહરણના પ્રશ્નો",
+      marks: 4,
+      reference: "NJ Classes IMP (For Standard Maths)",
+      question: "એક દ્વિઘાત બહુપદીના શૂન્યોનો સરવાળો અને ગુણાકાર અનુક્રમે -3 અને 2 હોય, તો તે બહુપદી શોધો અને તેના શૂન્યો પણ મેળવો.",
+      styling: {
+        questionBg: "#1a237e",
+        answerBg: "#f5f7fa",
+        borderColor: "#2196f3"
+      },
+      answer: "<b>પગલું 1:</b> ધારો કે બહુપદી p(x) = x² - (α+β)x + αβ છે.<br>α+β = -3 અને αβ = 2 આપેલ છે.<br>તેથી, p(x) = x² - (-3)x + 2 = x² + 3x + 2.<br><b>પગલું 2:</b> શૂન્યો શોધવા x² + 3x + 2 = 0 ના અવયવ પાડો.<br>(x + 2)(x + 1) = 0 => x = -2, x = -1.",
+      shortcut: "💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહુપદીનું સીધું સૂત્ર: x² - (S)x + (P), જ્યાં S=સરવાળો અને P=ગુણાકાર."
+    },
+    {
+      id: 5,
+      category: "અગાઉ બોર્ડમાં પૂછાયેલા પ્રશ્નો",
+      marks: 4,
+      reference: "GSEB Board March 2024 (Adapted)",
+      question: "દ્વિઘાત બહુપદી p(x) = x² - 3 ના શૂન્યો શોધો અને તેના શૂન્યો અને સહગુણકો વચ્ચેનો સંબંધ ચકાસો.",
+      styling: {
+        questionBg: "#1a237e",
+        answerBg: "#f5f7fa",
+        borderColor: "#2196f3"
+      },
+      answer: "<b>ઉકેલ:</b><br>x² - 3 = (x - √3)(x + √3)<br>શૂન્યો: √3 અને -√3.<br>અહીં a=1, b=0 (કારણ કે x વાળું પદ નથી), c=-3.<br>સરવાળો: √3 + (-√3) = 0. સૂત્ર -b/a = -0/1 = 0.<br>ગુણાકાર: (√3)(-√3) = -3. સૂત્ર c/a = -3/1 = -3.",
+      shortcut: "💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે મધ્યમ પદ (x) ન હોય, ત્યારે શૂન્યો હંમેશા એકબીજાની વિરોધી સંખ્યા જ હોય."
+    },
+    {
+      id: 6,
+      category: "એક્સ્ટ્રા IMP પ્રશ્નો (Case Study)",
+      marks: 4,
+      reference: "NJ Classes IMP (For Basic/Standard Maths)",
+      question: "<b>કેસ સ્ટડી:</b> એક બાસ્કેટબોલ ખેલાડી જ્યારે દડાને બાસ્કેટમાં નાખવા માટે ફેંકે છે ત્યારે તેનો પથ દ્વિઘાત બહુપદી p(x) = -x² + 2x + 8 દ્વારા દર્શાવવામાં આવે છે.<br>1. આ બહુપદીનો આલેખ કેવો હશે?<br>2. બહુપદીના શૂન્યો શોધો.<br>3. આલેખ x-અક્ષને કેટલા બિંદુમાં છેદશે?<br>4. x = 1 આગળ દડાની ઊંચાઈ શોધો.",
+      styling: {
+        questionBg: "#1a237e",
+        answerBg: "#f5f7fa",
+        borderColor: "#2196f3"
+      },
+      answer: "1. અહીં a = -1 (ઋણ) હોવાથી આલેખ <b>નીચેની તરફ ખૂલ્લો પરવલય</b> મળશે.<br>2. -x² + 2x + 8 = 0 => x² - 2x - 8 = 0 => (x-4)(x+2)=0. શૂન્યો: 4, -2.<br>3. બે ભિન્ન શૂન્યો હોવાથી <b>2 બિંદુમાં</b> છેદશે.<br>4. x = 1 મુકતા: p(1) = -(1)² + 2(1) + 8 = -1 + 2 + 8 = <b>9 એકમ</b>.",
+      shortcut: "💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો x² નો સહગુણક માઈનસ હોય, તો પરવલયનો આકાર ઉંધા 'U' જેવો (નીચે ખૂલ્લો) બને."
+    },
+    {
+      id: 7,
+      category: "એક્સ્ટ્રા IMP પ્રશ્નો (Case Study)",
+      marks: 4,
+      reference: "NJ Classes IMP (For Basic Maths)",
+      question: "નીચે આપેલ આકૃતિ એક રોલર કોસ્ટરનો ટ્રેક દર્શાવે છે જે બહુપદીનું સ્વરૂપ છે.<br><svg width='200' height='100' viewBox='0 0 200 100'><path d='M 10 80 Q 50 10 100 50 T 190 20' fill='none' stroke='#2196f3' stroke-width='3'/><line x1='0' y1='50' x2='200' y2='50' stroke='black' stroke-dasharray='4'/></svg><br>જો આ આલેખ x-અક્ષને 3 બિંદુમાં છેદતો હોય તો:<br>1. આ બહુપદીના શૂન્યોની સંખ્યા જણાવો.<br>2. આ બહુપદી કયા પ્રકારની હોઈ શકે? (સુરેખ, દ્વિઘાત કે ત્રિઘાત)<br>3. જો શૂન્યો 1, 2 અને 3 હોય, તો તેના અવયવો લખો.<br>4. p(x) ના શૂન્યો શોધવા માટે p(x) = ? લેવું પડે.",
+      styling: {
+        questionBg: "#1a237e",
+        answerBg: "#f5f7fa",
+        borderColor: "#2196f3"
+      },
+      answer: "1. આલેખ x-અક્ષને 3 બિંદુમાં છેદે છે, તેથી શૂન્યોની સંખ્યા <b>3</b> છે.<br>2. 3 શૂન્યો હોવાથી આ <b>ત્રિઘાત બહુપદી</b> છે.<br>3. અવયવો: <b>(x - 1), (x - 2) અને (x - 3)</b>.<br>4. શૂન્યો શોધવા માટે <b>p(x) = 0</b> લેવું પડે.",
+      shortcut: "💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આલેખ x-અક્ષને જેટલી વાર ટચ કરે કે છેદે, તેટલા તે બહુપદીના શૂન્યો કહેવાય."
+    },
+    {
+      id: 8,
+      category: "એક્સ્ટ્રા IMP પ્રશ્નો",
+      marks: 4,
+      reference: "NJ Classes IMP (For Standard Maths)",
+      question: "જો દ્વિઘાત બહુપદી kx² + 2x + 3k ના શૂન્યોનો સરવાળો તેમના ગુણાકાર જેટલો જ હોય, તો k ની કિંમત શોધો અને બહુપદી ફરીથી લખો.",
+      styling: {
+        questionBg: "#1a237e",
+        answerBg: "#f5f7fa",
+        borderColor: "#2196f3"
+      },
+      answer: "<b>ઉકેલ:</b> અહીં a = k, b = 2, c = 3k.<br>શૂન્યોનો સરવાળો (α+β) = -b/a = -2/k.<br>શૂન્યોનો ગુણાકાર (αβ) = c/a = 3k/k = 3.<br>શરત મુજબ: સરવાળો = ગુણાકાર<br>-2/k = 3<br>-2 = 3k => k = -2/3.<br>બહુપદી: (-2/3)x² + 2x + 3(-2/3) => -2/3x² + 2x - 2.",
+      shortcut: "💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે સરવાળો = ગુણાકાર હોય, ત્યારે -b/a = c/a, એટલે કે -b = c સીધું વાપરી શકાય."
+    },
+    {
+      id: 9,
+      category: "એક્સ્ટ્રા IMP પ્રશ્નો",
+      marks: 4,
+      reference: "GSEB Board (For Standard Maths)",
+      question: "જો બહુપદી p(x) = x² - 8x + k ના શૂન્યોના વર્ગોનો સરવાળો 40 હોય, તો k ની કિંમત શોધો.",
+      styling: {
+        questionBg: "#1a237e",
+        answerBg: "#f5f7fa",
+        borderColor: "#2196f3"
+      },
+      answer: "<b>ઉકેલ:</b> અહીં α+β = 8 અને αβ = k.<br>આપેલ છે: α² + β² = 40.<br>આપણે જાણીએ છીએ કે (α+β)² = α² + β² + 2αβ<br>(8)² = 40 + 2k<br>64 = 40 + 2k<br>24 = 2k => k = 12.",
+      shortcut: "💡 નિતેશ સરની શોર્ટકટ ટ્રીક: α² + β² ના દાખલામાં હંમેશા (α+β)² - 2αβ સૂત્રનો ઉપયોગ કરવો."
+    },
+    {
+      id: 10,
+      category: "સ્વાધ્યાયના પ્રશ્નો",
+      marks: 4,
+      reference: "NJ Classes IMP (For Standard Maths)",
+      question: "દ્વિઘાત બહુપદી t² - 15 ના શૂન્યો શોધો અને તેના શૂન્યો અને સહગુણકો વચ્ચેનો સંબંધ ચકાસો.",
+      styling: {
+        questionBg: "#1a237e",
+        answerBg: "#f5f7fa",
+        borderColor: "#2196f3"
+      },
+      answer: "<b>પગલું 1:</b> t² - 15 = (t - √15)(t + √15)<br>શૂન્યો: √15 અને -√15.<br><b>પગલું 2:</b> a = 1, b = 0, c = -15.<br>સરવાળો: √15 + (-√15) = 0. સૂત્ર -b/a = -0/1 = 0.<br>ગુણાકાર: (√15) * (-√15) = -15. સૂત્ર c/a = -15/1 = -15.",
+      shortcut: "💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે x² - k પ્રકારની બહુપદી હોય ત્યારે શૂન્યો હંમેશા ±√k જ હોય."
+    }
+  ]
+};
+
+console.log("GSEB 2026 IMP Questions Loaded Successfully.");,
