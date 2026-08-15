@@ -1,10 +1,9 @@
 import os
 import json
-import google.generativeai as genai
+from google import genai
 
-# 1. API સેટઅપ (જે આપણે સિક્રેટમાં સેવ કરી છે)
-genai.configure(api_key=os.environ["GEMINI_API_KEY"])
-model = genai.GenerativeModel('gemini-1.5-flash')
+# 1. નવી Google GenAI સિસ્ટમનું સેટઅપ
+client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 
 # 2. ટ્રેકર ફાઈલ વાંચવી (આજે કયું ચેપ્ટર કરવાનું છે તે જાણવા)
 with open('system/progress_tracker.json', 'r') as f:
@@ -33,8 +32,11 @@ prompt = f"""
 પ્રશ્નના div નો કલર '#1a237e' અને જવાબના div નો કલર '#f5f7fa', બોર્ડર '#2196f3' રાખવી.
 """
 
-# 4. ડેટા જનરેટ કરવો
-response = model.generate_content(prompt)
+# 4. ડેટા જનરેટ કરવો (નવા લેટેસ્ટ ફ્લેશ મોડેલ સાથે)
+response = client.models.generate_content(
+    model='gemini-2.5-flash',
+    contents=prompt,
+)
 output_data = response.text.replace("```javascript", "").replace("```", "").strip()
 
 # 5. ડેટાને ફાઇલમાં સેવ કરવો
@@ -54,4 +56,3 @@ with open('system/progress_tracker.json', 'w') as f:
     json.dump(tracker, f, indent=4)
 
 print("Task Completed Successfully! Data Saved for NJ Classes.")
-
