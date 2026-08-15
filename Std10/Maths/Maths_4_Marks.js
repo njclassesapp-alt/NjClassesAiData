@@ -540,3 +540,70 @@ var Std10_Maths_4Marks = [
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "ત્રિકોણમિતિના કેટલાક ઉપયોગો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 4,
+      "question": "વાવાઝોડાને કારણે એક ઝાડ એવી રીતે ભાંગી જાય છે કે જેથી તેની ઉપરનો ભાગ જમીન સાથે 30° ના માપનો ખૂણો બનાવે તે રીતે જમીનને સ્પર્શે છે. ઝાડની જમીનને સ્પર્શતી ટોચ અને ઝાડના થડ વચ્ચેનું અંતર 8 મીટર હોય, તો ઝાડની ઊંચાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે AC એ ભાંગ્યા પહેલાનું ઝાડ છે. બિંદુ B થી ઝાડ ભાંગી જાય છે અને તેની ટોચ C' જમીનને સ્પર્શે છે.</p><svg width='200' height='150'><line x1='20' y1='130' x2='150' y2='130' stroke='black' stroke-width='2'/><line x1='20' y1='130' x2='20' y2='30' stroke='green' stroke-width='3'/><line x1='20' y1='30' x2='150' y2='130' stroke='brown' stroke-width='2' stroke-dasharray='4'/><text x='10' y='140'>A</text><text x='10' y='30'>B</text><text x='155' y='140'>C'</text><text x='80' y='145'>8 m</text><text x='120' y='125'>30°</text></svg><p>અહીં, ΔABC' માં ∠A = 90° અને ∠C' = 30° છે. AC' = 8 મીટર.</p><p>1) tan 30° = AB / AC' => 1/√3 = AB / 8 => AB = 8/√3 મીટર.</p><p>2) cos 30° = AC' / BC' => √3/2 = 8 / BC' => BC' = 16/√3 મીટર.</p><p>ઝાડની કુલ ઊંચાઈ = AB + BC' = 8/√3 + 16/√3 = 24/√3 = 8√3 મીટર.</p><p>આમ, ઝાડની ઊંચાઈ 8√3 મીટર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝાડની ઊંચાઈ = d × (tanθ + secθ). અહીં 8 × (tan30 + sec30) = 8 × (1/√3 + 2/√3) = 8 × √3.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Ex 9.1, Q-2</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 4,
+      "question": "1.5 મીટર ઊંચાઈવાળો એક છોકરો એક 30 મીટર ઊંચી ઈમારતથી થોડા અંતરે ઊભો છે. જ્યારે તે ઈમારત તરફ ચાલવાનું શરૂ કરે છે, ત્યારે તેની આંખથી ઈમારતની ટોચના ઉત્સેધકોણનું માપ 30° થી વધીને 60° થાય છે. તો તેણે ઈમારત તરફ કેટલું અંતર કાપ્યું હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ઇમારતની ઊંચાઈ = 30 મીટર. છોકરાની ઊંચાઈ = 1.5 મીટર. તેથી, દ્રષ્ટિ રેખાથી ટોચની ઊંચાઈ (h) = 30 - 1.5 = 28.5 મીટર.</p><p>ધારો કે કાપેલું અંતર 'd' છે. <br>Δ1 (60° માટે): tan 60° = 28.5 / x => √3 = 28.5 / x => x = 28.5 / √3.<br>Δ2 (30° માટે): tan 30° = 28.5 / (x + d) => 1/√3 = 28.5 / (x + d) => x + d = 28.5√3.</p><p>d = 28.5√3 - 28.5 / √3 = 28.5 (3 - 1) / √3 = 57 / √3 = 19√3 મીટર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતર d = h(cot θ1 - cot θ2). અહીં d = 28.5(√3 - 1/√3) = 28.5(2/√3) = 19√3.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Ex 9.1, Q-6</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 4,
+      "question": "એક ઇમારતની ટોચથી જોતા એક ટાવરની ટોચનો ઉત્સેધકોણ 30° અને ટાવરના તળિયાનો અવસેધકોણ 60° માલૂમ પડે છે. જો ઇમારતની ઊંચાઈ 7 મીટર હોય, તો ટાવરની ઊંચાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે AB ઇમારત (7m) અને CD ટાવર છે. AE ક્ષિતિજ રેખા છે.</p><p>ΔABC માં, tan 60° = AB/BC => √3 = 7/BC => BC = 7/√3 મીટર. તેથી AE = 7/√3.</p><p>ΔADE માં, tan 30° = DE/AE => 1/√3 = DE / (7/√3) => DE = 7/3 મીટર.</p><p>ટાવરની ઊંચાઈ CD = CE + ED = 7 + 7/3 = (21 + 7)/3 = 28/3 મીટર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે પાયો સમાન હોય ત્યારે h = H(1 + tanθ1/tanθ2) જેવું લોજિક વાપરી શકાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Model Paper</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 4,
+      "question": "80 મીટર પહોળા માર્ગની બંને બાજુએ સમાન ઊંચાઈના બે સ્તંભ શિરોલંબ સ્થિતિમાં છે. માર્ગ પરના કોઈ એક બિંદુએથી બંને સ્તંભની ટોચના ઉત્સેધકોણના માપ 60° અને 30° જણાય છે, તો દરેક સ્તંભની ઊંચાઈ અને બિંદુથી સ્તંભોનું અંતર શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે સ્તંભની ઊંચાઈ h છે. બિંદુ P થી એક સ્તંભનું અંતર x, તો બીજાનું (80-x) થાય.</p><p>Δ1: tan 60° = h/x => √3 = h/x => h = x√3.</p><p>Δ2: tan 30° = h/(80-x) => 1/√3 = x√3 / (80-x) => 80-x = 3x => 4x = 80 => x = 20 મીટર.</p><p>ઊંચાઈ h = 20√3 મીટર. બિંદુનું અંતર 20 મીટર અને (80-20) = 60 મીટર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: h = W / (cot θ1 + cot θ2) = 80 / (1/√3 + √3) = 80 / (4/√3) = 20√3.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Ex 9.1, Q-10</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 4,
+      "question": "નહેરના એક કિનારા પર એક ટીવી ટાવર શિરોલંબ ઊભો છે. ટાવરની સામેના બીજા કિનારા પરના એક બિંદુથી ટાવરની ટોચનો ઉત્સેધકોણ 60° છે. કિનારા પરના આ બિંદુથી 20 મીટર દૂર બીજા એક બિંદુથી ટાવરની ટોચનો ઉત્સેધકોણ 30° છે. તો ટાવરની ઊંચાઈ અને નહેરની પહોળાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે ટાવરની ઊંચાઈ h અને નહેરની પહોળાઈ x છે.</p><p>Δ1: tan 60° = h/x => h = x√3.</p><p>Δ2: tan 30° = h/(x + 20) => 1/√3 = x√3 / (x + 20) => x + 20 = 3x => 2x = 20 => x = 10 મીટર.</p><p>ઊંચાઈ h = 10√3 મીટર.</p><p>આમ, ટાવરની ઊંચાઈ 10√3 મીટર અને નહેરની પહોળાઈ 10 મીટર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x = d / (cot θ2 / cot θ1 - 1) અથવા સીધું x = d/2 જ્યારે ખૂણા 30 અને 60 હોય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Ex 9.1, Q-11</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 4,
+      "question": "7 મીટર ઊંચી ઇમારત પરથી એક કેબલ ટાવરની ટોચનો ઉત્સેધકોણ 60° અને ટાવરના તળિયાનો અવસેધકોણ 45° છે. ટાવરની ઊંચાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ઇમારત AB = 7 મીટર. ટાવર CD = CE + ED. અહીં CE = AB = 7 મીટર.</p><p>ΔABC માં, tan 45° = AB/BC => 1 = 7/BC => BC = 7 મીટર. તેથી AE = 7 મીટર.</p><p>ΔADE માં, tan 60° = ED/AE => √3 = ED/7 => ED = 7√3 મીટર.</p><p>કુલ ઊંચાઈ CD = 7 + 7√3 = 7(1 + √3) મીટર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે અવસેધકોણ 45° હોય, ત્યારે પાયો અને ઇમારતની ઊંચાઈ સરખી થાય (7m).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Ex 9.1, Q-12</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 4,
+      "question": "75 મીટર ઊંચી દીવાદાંડીની ટોચ પરથી જોતા સમુદ્રમાં બે વહાણના અવસેધકોણના માપ 30° અને 45° માલૂમ પડે છે. જો એક વહાણ બીજા વહાણની બરાબર પાછળ હોય અને બંને દીવાદાંડીની એક જ બાજુએ હોય, તો બે વહાણ વચ્ચેનું અંતર શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>દીવાદાંડીની ઊંચાઈ h = 75 મીટર. વહાણ P અને Q વચ્ચેનું અંતર d છે.</p><p>Δ1: tan 45° = 75/x => 1 = 75/x => x = 75 મીટર.</p><p>Δ2: tan 30° = 75/(x + d) => 1/√3 = 75 / (75 + d) => 75 + d = 75√3.</p><p>d = 75√3 - 75 = 75(√3 - 1) મીટર.</p><p>√3 = 1.73 લેતા, d = 75(0.73) = 54.75 મીટર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: d = h(cot θ1 - cot θ2) = 75(cot 30 - cot 45) = 75(√3 - 1).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Ex 9.1, Q-13</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 4,
+      "question": "જમીન પરના એક બિંદુ P થી એક 10 મીટર ઊંચી ઇમારતની ટોચનો ઉત્સેધકોણ 30° છે. ઇમારતની ટોચ પર એક ધ્વજદંડ રાખેલ છે. P થી ધ્વજદંડની ટોચનો ઉત્સેધકોણ 45° છે. ધ્વજદંડની લંબાઈ અને બિંદુ P થી ઇમારતનું અંતર શોધો. (√3 = 1.732 લો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ઇમારતની ઊંચાઈ AB = 10m. ધ્વજદંડની ઊંચાઈ BD = h.</p><p>ΔPAB માં, tan 30° = AB/PA => 1/√3 = 10/PA => PA = 10√3 = 17.32 મીટર.</p><p>ΔPAD માં, tan 45° = AD/PA => 1 = (10 + h) / 17.32 => 10 + h = 17.32.</p><p>h = 17.32 - 10 = 7.32 મીટર.</p><p>આમ, ધ્વજદંડની લંબાઈ 7.32 મીટર અને અંતર 17.32 મીટર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે એક ખૂણો 45° હોય, ત્યારે કુલ ઊંચાઈ = પાયો થાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Example 4</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 4,
+      "question": "એક સીધો હાઇવે એક ટાવરના તળિયા સુધી જાય છે. ટાવરની ટોચ પર રહેલ એક વ્યક્તિ ટાવર તરફ અચળ ઝડપે આવતી એક મોટરકારના અવસેધકોણનું માપ 30° નોંધે છે. 6 સેકન્ડ પછી કારના અવસેધકોણનું માપ 60° થાય છે. કારને ટાવર સુધી પહોંચતા હવે કેટલો સમય લાગશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે ટાવરની ઊંચાઈ h છે અને કારની ઝડપ v છે. <br>અંતર CD (30° થી 60°) = v × 6 = 6v. ધારો કે BC = x (60° થી ટાવર).</p><p>ΔABC માં, tan 60° = h/x => h = x√3.<br>ΔABD માં, tan 30° = h/(x + 6v) => 1/√3 = x√3 / (x + 6v) => x + 6v = 3x => 2x = 6v => x = 3v.</p><p>સમય = અંતર / ઝડપ = 3v / v = 3 સેકન્ડ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો ખૂણો 30 થી 60 થાય, તો લાગતો સમય અગાઉના સમયનો અડધો હોય (6/2 = 3).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Ex 9.1, Q-15 (Most IMP)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 4,
+      "question": "1.2 મીટર ઊંચાઈવાળી એક છોકરીને જમીનથી 88.2 મીટર ઊંચાઈ પર પવનમાં ઉડતો એક ફુગ્ગો દેખાય છે. કોઈ એક સમયે છોકરીની આંખથી ફુગ્ગાના ઉત્સેધકોણનું માપ 60° છે. થોડા સમય પછી ઉત્સેધકોણનું માપ ઘટીને 30° થાય છે, તો આ સમય દરમિયાન ફુગ્ગાએ કાપેલું અંતર શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ફુગ્ગાની અસરકારક ઊંચાઈ h = 88.2 - 1.2 = 87 મીટર.</p><p>Δ1 (60°): tan 60° = 87/x => √3 = 87/x => x = 87/√3 = 29√3 મીટર.</p><p>Δ2 (30°): tan 30° = 87/(x + d) => 1/√3 = 87 / (x + d) => x + d = 87√3.</p><p>d = 87√3 - 29√3 = 58√3 મીટર.</p><p>આમ, ફુગ્ગાએ કાપેલું અંતર 58√3 મીટર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: d = h(√3 - 1/√3) = 87(2/√3) = 174/√3 = 58√3.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Ex 9.1, Q-14</p></div>"
+    }
+  ]
+}
