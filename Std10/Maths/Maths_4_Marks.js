@@ -406,3 +406,70 @@ var Std10_Maths_4Marks = [
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "યામ ભૂમિતિ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 4,
+      "question": "(i) ચકાસો કે (5, -2), (6, 4) અને (7, -2) એ સમદ્રીબાજુ ત્રિકોણનાં શિરોબિંદુઓ છે? <br> (ii) x-અક્ષ પરનું એવું બિંદુ શોધો જે (2, -5) અને (-2, 9) થી સમાન અંતરે હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>(i) ધારો કે A(5, -2), B(6, 4) અને C(7, -2) છે.<br>અંતર સૂત્ર d = √((x₂-x₁)² + (y₂-y₁)²) મુજબ:<br>AB² = (6-5)² + (4+2)² = 1² + 6² = 1 + 36 = 37 ⇒ AB = √37<br>BC² = (7-6)² + (-2-4)² = 1² + (-6)² = 1 + 36 = 37 ⇒ BC = √37<br>AC² = (7-5)² + (-2+2)² = 2² + 0² = 4 ⇒ AC = 2<br>અહીં AB = BC હોવાથી, આ સમદ્રીબાજુ ત્રિકોણનાં શિરોબિંદુઓ છે.</p><p>(ii) ધારો કે x-અક્ષ પરનું બિંદુ P(x, 0) છે. P એ A(2, -5) અને B(-2, 9) થી સમાન અંતરે છે.<br>PA² = PB²<br>(x-2)² + (0+5)² = (x+2)² + (0-9)²<br>x² - 4x + 4 + 25 = x² + 4x + 4 + 81<br>-4x + 29 = 4x + 85<br>-8x = 56 ⇒ x = -7<br>આમ, માંગેલ બિંદુ (-7, 0) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x-અક્ષ પરના બિંદુનો y-યામ હંમેશા 0 લેવો અને સાદું સમીકરણ ઉકેલવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 4,
+      "question": "બિંદુઓ A(4, -1) અને B(-2, -3) ને જોડતા રેખાખંડના ત્રિભાગ બિંદુઓના યામ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે P અને Q એ AB ના ત્રિભાગ બિંદુઓ છે. એટલે કે AP = PQ = QB.<br>બિંદુ P એ AB નું 1 : 2 ના ગુણોત્તરમાં વિભાજન કરે છે.<br>m₁ = 1, m₂ = 2, x₁ = 4, y₁ = -1, x₂ = -2, y₂ = -3<br>P(x, y) = [(m₁x₂ + m₂x₁)/(m₁ + m₂), (m₁y₂ + m₂y₁)/(m₁ + m₂)]<br>P = [(1(-2) + 2(4))/3, (1(-3) + 2(-1))/3] = [(-2+8)/3, (-3-2)/3] = (2, -5/3)</p><p>બિંદુ Q એ AB નું 2 : 1 ના ગુણોત્તરમાં વિભાજન કરે છે (અથવા Q એ PB નું મધ્યબિંદુ છે).<br>Q = [(2(-2) + 1(4))/3, (2(-3) + 1(-1))/3] = [(-4+4)/3, (-6-1)/3] = (0, -7/3)</p><p>આમ, ત્રિભાગ બિંદુઓ (2, -5/3) અને (0, -7/3) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિભાગ બિંદુ માટે ગુણોત્તર હંમેશા 1:2 અને 2:1 જ લેવો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 4,
+      "question": "જો (1, 2), (4, y), (x, 6) અને (3, 5) એ એક સમાંતરબાજુ ચતુષ્કોણનાં ક્રમિક શિરોબિંદુઓ હોય, તો x અને y શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સમાંતરબાજુ ચતુષ્કોણ ABCD માં વિકર્ણો પરસ્પર દુભાગે છે.<br>તેથી, AC નું મધ્યબિંદુ = BD નું મધ્યબિંદુ<br>A(1, 2), B(4, y), C(x, 6), D(3, 5)<br>AC ના મધ્યબિંદુના યામ = ((1+x)/2, (2+6)/2) = ((1+x)/2, 4)<br>BD ના મધ્યબિંદુના યામ = ((4+3)/2, (y+5)/2) = (7/2, (y+5)/2)</p><p>હવે યામોને સરખાવતા:<br>(1+x)/2 = 7/2 ⇒ 1 + x = 7 ⇒ x = 6<br>4 = (y+5)/2 ⇒ 8 = y + 5 ⇒ y = 3</p><p>આમ, x = 6 અને y = 3 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાંતરબાજુ ચતુષ્કોણ માટે હંમેશા મધ્યબિંદુના સૂત્રનો ઉપયોગ કરી x અને y ના યામ સરખાવો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 4,
+      "question": "બિંદુઓ A(1, -5) અને B(-4, 5) ને જોડતા રેખાખંડનું x-અક્ષ કયા ગુણોત્તરમાં વિભાજન કરે છે તે શોધો. વિભાજન બિંદુના યામ પણ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે માંગેલ ગુણોત્તર k : 1 છે. x-અક્ષ પરનું વિભાજન બિંદુ P(x, 0) છે.<br>વિભાજન સૂત્ર મુજબ y-યામ:<br>0 = (k(5) + 1(-5)) / (k + 1)<br>0 = 5k - 5<br>5k = 5 ⇒ k = 1<br>તેથી ગુણોત્તર 1 : 1 છે (એટલે કે P એ AB નું મધ્યબિંદુ છે).</p><p>હવે x-યામ શોધવા:<br>x = (1(-4) + 1(1)) / (1 + 1) = (-4 + 1) / 2 = -3/2<br>આમ, વિભાજન બિંદુના યામ (-3/2, 0) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે x-અક્ષ વિભાજન કરે ત્યારે y-યામ 0 લઈને સીધો ગુણોત્તર k શોધી શકાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 4,
+      "question": "બિંદુઓ A(-2, 2) અને B(2, 8) ને જોડતા રેખાખંડનું ચાર સમાન ભાગમાં વિભાજન કરતા બિંદુઓના યામ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે P₁, P₂, P₃ એ AB ના ચાર સમાન ભાગ કરે છે.<br>1. P₂ એ AB નું મધ્યબિંદુ થશે:<br>P₂ = ((-2+2)/2, (2+8)/2) = (0/2, 10/2) = (0, 5)<br>2. P₁ એ AP₂ નું મધ્યબિંદુ થશે:<br>P₁ = ((-2+0)/2, (2+5)/2) = (-1, 7/2)<br>3. P₃ એ P₂B નું મધ્યબિંદુ થશે:<br>P₃ = ((0+2)/2, (5+8)/2) = (1, 13/2)</p><p>આમ, માંગેલ બિંદુઓ (-1, 7/2), (0, 5) અને (1, 13/2) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 ભાગ માટે પહેલા મુખ્ય મધ્યબિંદુ શોધો અને પછી ફરીથી બે નવા મધ્યબિંદુ શોધો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 4,
+      "question": "સાબિત કરો કે બિંદુઓ (1, 7), (4, 2), (-1, -1) અને (-4, 4) એ એક ચોરસનાં શિરોબિંદુઓ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે A(1, 7), B(4, 2), C(-1, -1) અને D(-4, 4) છે.<br>બધી બાજુઓ શોધીએ:<br>AB² = (4-1)² + (2-7)² = 3² + (-5)² = 9 + 25 = 34<br>BC² = (-1-4)² + (-1-2)² = (-5)² + (-3)² = 25 + 9 = 34<br>CD² = (-4+1)² + (4+1)² = (-3)² + 5² = 9 + 25 = 34<br>DA² = (1+4)² + (7-4)² = 5² + 3² = 25 + 9 = 34<br>અહીં બધી બાજુઓ સમાન છે (AB=BC=CD=DA=√34).<br>હવે વિકર્ણો શોધીએ:<br>AC² = (-1-1)² + (-1-7)² = (-2)² + (-8)² = 4 + 64 = 68<br>BD² = (-4-4)² + (4-2)² = (-8)² + 2² = 64 + 4 = 68<br>અહીં વિકર્ણો પણ સમાન છે (AC=BD=√68).<br>બધી બાજુઓ અને વિકર્ણો સમાન હોવાથી ABCD ચોરસ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસ સાબિત કરવા માટે 4 બાજુઓ + 2 વિકર્ણો એમ કુલ 6 અંતર શોધવા જરૂરી છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 4,
+      "question": "જો A(-2, -2) અને B(2, -4) હોય, જેથી AP = 3/7 AB થાય અને બિંદુ P રેખાખંડ AB પર આવેલું હોય, તો બિંદુ P ના યામ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં AP = 3/7 AB આપેલ છે.<br>તેથી PB = AB - AP = AB - 3/7 AB = 4/7 AB.<br>આમ, AP : PB = (3/7 AB) : (4/7 AB) = 3 : 4.<br>તેથી m₁ = 3 અને m₂ = 4 છે.<br>A(-2, -2) અને B(2, -4) માટે વિભાજન સૂત્ર વાપરતા:<br>x = (3(2) + 4(-2)) / (3 + 4) = (6 - 8) / 7 = -2/7<br>y = (3(-4) + 4(-2)) / (3 + 4) = (-12 - 8) / 7 = -20/7<br>આમ, બિંદુ P ના યામ (-2/7, -20/7) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: AP=3/7 AB હોય ત્યારે છેદ (7) માંથી અંશ (3) બાદ કરવાથી બીજો ભાગ (4) મળે, એટલે કે ગુણોત્તર 3:4 થાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 4,
+      "question": "બિંદુઓ A(3, 0), B(4, 5), C(-1, 4) અને D(-2, -1) એ એક સમબાજુ ચતુષ્કોણનાં ક્રમિક શિરોબિંદુઓ હોય, તો તેનું ક્ષેત્રફળ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સમબાજુ ચતુષ્કોણનું ક્ષેત્રફળ = 1/2 × (વિકર્ણોનો ગુણાકાર)<br>અહીં વિકર્ણો AC અને BD છે.<br>AC = √((-1-3)² + (4-0)²) = √((-4)² + 4²) = √(16 + 16) = √32 = 4√2<br>BD = √((-2-4)² + (-1-5)²) = √((-6)² + (-6)²) = √(36 + 36) = √72 = 6√2<br>ક્ષેત્રફળ = 1/2 × AC × BD<br>ક્ષેત્રફળ = 1/2 × 4√2 × 6√2<br>ક્ષેત્રફળ = 1/2 × 24 × 2 (કારણ કે √2 × √2 = 2)<br>ક્ષેત્રફળ = 24 ચોરસ એકમ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષેત્રફળ શોધવા માટે માત્ર વિકર્ણોની લંબાઈ જ શોધવી, બાજુઓની જરૂર નથી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 4,
+      "question": "(i) બિંદુઓ (1, 5), (2, 3) અને (-2, -11) અસમરેખ છે કે સમરેખ તે નક્કી કરો. <br> (ii) બિંદુ P(x, y) એ બિંદુઓ A(3, 6) અને B(-3, 4) થી સમાન અંતરે હોય, તો x અને y વચ્ચેનો સંબંધ મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>(i) A(1, 5), B(2, 3), C(-2, -11)<br>AB = √((2-1)² + (3-5)²) = √(1+4) = √5 ≈ 2.23<br>BC = √((-2-2)² + (-11-3)²) = √(16+196) = √212 ≈ 14.56<br>AC = √((-2-1)² + (-11-5)²) = √(9+256) = √265 ≈ 16.28<br>અહીં AB + BC ≠ AC હોવાથી બિંદુઓ અસમરેખ છે.</p><p>(ii) PA = PB ⇒ PA² = PB²<br>(x-3)² + (y-6)² = (x+3)² + (y-4)²<br>x² - 6x + 9 + y² - 12y + 36 = x² + 6x + 9 + y² - 8y + 16<br>-6x - 12y + 45 = 6x - 8y + 25<br>12x + 4y - 20 = 0<br>3x + y - 5 = 0 (4 વડે ભાગતા)<br>આમ, 3x + y = 5 એ માંગેલ સંબંધ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સંબંધ' એટલે x અને y વાળું સમીકરણ મેળવવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 4,
+      "question": "એક વર્તુળના વ્યાસનું એક અંત્યબિંદુ A(2, 3) છે અને વર્તુળનું કેન્દ્ર O(-2, 5) છે, તો વ્યાસના બીજા અંત્યબિંદુ B ના યામ શોધો. શું બિંદુ C(1, 4) આ વર્તુળની અંદર હશે કે બહાર?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વર્તુળનું કેન્દ્ર O એ વ્યાસ AB નું મધ્યબિંદુ છે. ધારો કે B ના યામ (x, y) છે.<br>O = ((2+x)/2, (3+y)/2)<br>(-2, 5) = ((2+x)/2, (3+y)/2)<br>-2 = (2+x)/2 ⇒ -4 = 2 + x ⇒ x = -6<br>5 = (3+y)/2 ⇒ 10 = 3 + y ⇒ y = 7<br>આમ, બિંદુ B ના યામ (-6, 7) છે.</p><p>હવે ત્રિજ્યા R = OA = √((-2-2)² + (5-3)²) = √((-4)² + 2²) = √(16+4) = √20.<br>કેન્દ્ર O થી બિંદુ C(1, 4) નું અંતર OC = √((1+2)² + (4-5)²) = √(3² + (-1)²) = √(9+1) = √10.<br>અહીં OC < R (√10 < √20) હોવાથી, બિંદુ C વર્તુળની અંદરના ભાગમાં હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેન્દ્ર હંમેશા વ્યાસનું મધ્યબિંદુ હોય અને જો અંતર ત્રિજ્યાથી ઓછું હોય તો બિંદુ અંદર હોય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    }
+  ]
+}
