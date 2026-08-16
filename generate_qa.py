@@ -12,7 +12,7 @@ subject = tracker['subject']
 marks = tracker['current_marks']
 chapter_num = tracker['current_chapter']
 
-# --- નવો ઉમેરો: ધોરણ 10 ગણિતના નવા ઘટાડેલા સિલેબસ (NCERT 2024+) નું લિસ્ટ ---
+# ધોરણ 10 ગણિતના નવા ઘટાડેલા સિલેબસ (NCERT 2024+) નું લિસ્ટ
 std10_maths_chapters = {
     1: "વાસ્તવિક સંખ્યાઓ",
     2: "બહુપદીઓ",
@@ -31,12 +31,13 @@ std10_maths_chapters = {
 }
 
 chapter_name = ""
+max_chapters = len(std10_maths_chapters) # કુલ 14 ચેપ્ટર
+
 if int(std) == 10 and subject.lower() == "maths":
     chapter_name = std10_maths_chapters.get(chapter_num, "અન્ય પ્રકરણ")
 
 print(f"Generating {marks} Marks questions for Std {std} {subject} Chapter {chapter_num} ({chapter_name})...", flush=True)
 
-# પ્રોમ્પ્ટમાં હવે ચેપ્ટરનો નંબર અને નામ બંને જશે, જેથી AI ક્યારેય કન્ફ્યુઝ ન થાય
 prompt = f"""
 તમે ગુજરાત બોર્ડ (GSEB) ના એક્સપર્ટ શિક્ષક છો. 
 તમારે 2024 પછીના નવા ઘટાડેલા NCERT સિલેબસ મુજબ ધોરણ {std}, વિષય: {subject}, પ્રકરણ: {chapter_num} ({chapter_name}) માંથી {marks} ગુણના પ્રશ્નો બનાવવાના છે.
@@ -45,7 +46,7 @@ prompt = f"""
 
 પ્રશ્નોના લેવલ અને માર્ક્સ માટેના ખાસ નિયમો (SMART WORK & MAX QUESTIONS):
 1. પ્રશ્નોની સંખ્યા: ઓછામાં ઓછા 10 પ્રશ્નો બનાવવા. જો આ પ્રકરણ મોટું હોય તો 10 થી વધુ (મેક્સિમમ) પ્રશ્નો બનાવવાની પૂરી કોશિશ કરવી.
-2. લંબાઈ અને કાઠિન્ય: પ્રશ્નોનું લેવલ બોર્ડના પેપરો અને ગાલા અસાઇનમેન્ટ મુજબનું રાખવું.
+2. લંબાઈ અને કાઠિન્ય: પ્રશ્નોનું લેવલ બોર્ડના પેપરો અને ગાલા અસાઇનમેન્ટ મુજબનું રાખવું. {marks} ગુણના પ્રશ્નની લંબાઈ અને ગણતરી બરાબર {marks} ગુણ જેટલી જ હોવી જોઈએ.
 3. સ્માર્ટ વર્ક: જો આ પ્રકરણમાંથી {marks} ગુણનો મોટો પ્રશ્ન ન બની શકતો હોય, તો 2 નાના પ્રશ્નોને (i) અને (ii) તરીકે ભેગા કરીને એક મોટો પ્રશ્ન બનાવવો.
 
 કડક નિયમો (STRICT RULES):
@@ -121,8 +122,18 @@ with open(file_path, mode, encoding='utf-8') as f:
     else:
         f.write(f',\n"{chapter_num}": ' + output_data + '\n')
 
-# ટ્રેકર અપડેટ કરવું
+# ---------------------------------------------------------
+# નવો ઉમેરો: સ્માર્ટ લૂપ સિસ્ટમ (માર્ક્સ અને ચેપ્ટર ઓટોમેટિક રીસેટ)
+# ---------------------------------------------------------
 tracker['current_chapter'] += 1 
+
+if tracker['current_chapter'] > max_chapters:  # જો 14 મુ ચેપ્ટર પૂરું થઈ જાય તો
+    tracker['current_chapter'] = 1             # પાછું ચેપ્ટર 1 કરી દો
+    tracker['current_marks'] -= 1              # માર્ક્સ 1 ઘટાડી દો (દા.ત. 4 ના 3)
+    
+    if tracker['current_marks'] < 1:           # જો 1 માર્કના પણ પૂરા થઈ જાય તો
+        tracker['status'] = "completed"        # આખો વિષય પૂરો!
+
 with open('system/progress_tracker.json', 'w') as f:
     json.dump(tracker, f, indent=4)
 
