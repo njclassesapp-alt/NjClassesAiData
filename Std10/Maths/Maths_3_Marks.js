@@ -132,3 +132,70 @@ var Std10_Maths_3Marks = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "દ્વિઘાત સમીકરણ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "બે એવી ક્રમિક ધન પૂર્ણાંક સંખ્યાઓ શોધો જેમના વર્ગોનો સરવાળો 365 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે પ્રથમ ધન પૂર્ણાંક સંખ્યા x છે. તેથી તેની ક્રમિક બીજી સંખ્યા x + 1 થાય.</p><p>રકમ મુજબ, તેમના વર્ગોનો સરવાળો 365 છે:<br>x² + (x + 1)² = 365<br>x² + x² + 2x + 1 = 365<br>2x² + 2x - 364 = 0<br>x² + x - 182 = 0 (2 વડે ભાગતા)</p><p>હવે, 182 ના એવા અવયવ પાડો જેની બાદબાકી 1 આવે (14 × 13 = 182):<br>x² + 14x - 13x - 182 = 0<br>x(x + 14) - 13(x + 14) = 0<br>(x + 14)(x - 13) = 0<br>x = -14 અથવા x = 13</p><p>અહીં સંખ્યા ધન હોવાથી, x = 13. બીજી સંખ્યા x + 1 = 14.</p><p>આમ, તે સંખ્યાઓ 13 અને 14 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રમિક સંખ્યાઓના વર્ગોનો સરવાળો આપ્યો હોય ત્યારે મધ્યમ પદ મેળવવા માટે √ (365/2) ની આસપાસની પૂર્ણાંક સંખ્યા ધારી શકાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "એક કાટકોણ ત્રિકોણનો વેધ તેના પાયા કરતા 7 સેમી નાનો છે. જો તેનો કર્ણ 13 સેમી હોય, તો બાકીની બે બાજુઓના માપ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે પાયો = x સેમી. તેથી વેધ = (x - 7) સેમી.<br>કર્ણ = 13 સેમી આપેલ છે.</p><p>પાયથાગોરસના પ્રમેય મુજબ:<br>(પાયો)² + (વેધ)² = (કર્ણ)²<br>x² + (x - 7)² = 13²<br>x² + x² - 14x + 49 = 169<br>2x² - 14x + 49 - 169 = 0<br>2x² - 14x - 120 = 0<br>x² - 7x - 60 = 0 (2 વડે ભાગતા)</p><p>અવયવ: 12 × 5 = 60 અને 12 - 5 = 7<br>x² - 12x + 5x - 60 = 0<br>x(x - 12) + 5(x - 12) = 0<br>x = 12 અથવા x = -5 (બાજુનું માપ ઋણ ન હોય)</p><p>તેથી, પાયો = 12 સેમી અને વેધ = 12 - 7 = 5 સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાયથાગોરિયન ત્રિપુટી (5, 12, 13) યાદ હોય તો સીધો જવાબ ચકાસી શકાય છે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "દ્વિઘાત સમીકરણ kx(x - 2) + 6 = 0 ના બીજ સમાન હોય, તો k ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સમીકરણ: kx(x - 2) + 6 = 0<br>kx² - 2kx + 6 = 0</p><p>અહીં, a = k, b = -2k, c = 6<br>બીજ સમાન હોવાથી, વિવેચક D = 0 થાય.</p><p>D = b² - 4ac = 0<br>(-2k)² - 4(k)(6) = 0<br>4k² - 24k = 0<br>4k(k - 6) = 0</p><p>હવે, 4k = 0 => k = 0 (શક્ય નથી, કારણ કે k = 0 લેતા દ્વિઘાત પદ રહેતું નથી)<br>અથવા k - 6 = 0 => k = 6</p><p>આમ, k = 6.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે પણ દ્વિઘાત સમીકરણમાં સમાન બીજ શબ્દ આવે ત્યારે હંમેશા b² = 4ac વાપરવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "એક ટ્રેન 360 કિમીનું અંતર એકધારી ઝડપે કાપે છે. જો તેની ઝડપ 5 કિમી/કલાક વધુ હોય, તો તેને તેટલું જ અંતર કાપવા 1 કલાક ઓછો સમય લાગે. ટ્રેનની ઝડપ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે ટ્રેનની સામાન્ય ઝડપ x કિમી/કલાક છે.<br>સમય t1 = અંતર / ઝડપ = 360 / x</p><p>નવી ઝડપ = (x + 5) કિમી/કલાક<br>નવો સમય t2 = 360 / (x + 5)</p><p>શરત મુજબ, t1 - t2 = 1<br>360/x - 360/(x + 5) = 1<br>360 [(x + 5 - x) / x(x + 5)] = 1<br>360 [5 / (x² + 5x)] = 1<br>1800 = x² + 5x<br>x² + 5x - 1800 = 0</p><p>અવયવ: 45 × 40 = 1800<br>(x + 45)(x - 40) = 0<br>x = -45 (શક્ય નથી) અથવા x = 40.</p><p>ટ્રેનની ઝડપ 40 કિમી/કલાક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝડપ વધે તો સમય ઘટે. સમીકરણ: (મોટો સમય) - (નાનો સમય) = સમયનો તફાવત.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "બે પાણીના નળ એકસાથે 9(3/8) કલાકમાં એક ટાંકી ભરી શકે છે. મોટા વ્યાસવાળો નળ ટાંકી ભરવા માટે નાના વ્યાસવાળા નળ કરતા 10 કલાક ઓછો સમય લે છે. બંને નળ અલગ-અલગ ટાંકી ભરે તો લાગતો સમય શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે નાનો નળ ટાંકી ભરવા x કલાક લે છે. મોટો નળ (x - 10) કલાક લેશે.<br>એક કલાકમાં ભરાતી ટાંકીનો ભાગ = 1/x અને 1/(x-10).<br>કુલ સમય = 9(3/8) = 75/8 કલાક.</p><p>કુલ 1 કલાકમાં ભરાતો ભાગ: 1/x + 1/(x-10) = 8/75<br>(x-10+x) / x(x-10) = 8/75<br>(2x-10) / (x² - 10x) = 8/75<br>75(2x-10) = 8(x² - 10x)<br>150x - 750 = 8x² - 80x<br>8x² - 230x + 750 = 0<br>4x² - 115x + 375 = 0</p><p>અવયવ પાડતા, x = 25 અથવા x = 3.75 (શક્ય નથી કારણ કે x-10 ઋણ થાય).<br>નાનો નળ: 25 કલાક, મોટો નળ: 15 કલાક.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્ય અને સમયના દાખલામાં હંમેશા 1 કલાકના કામ પરથી સમીકરણ બનાવવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "રહેમાનની આજથી 3 વર્ષ પહેલાની ઉંમરના વ્યસ્ત અને હવેથી 5 વર્ષ પછીની ઉંમરના વ્યસ્તનો સરવાળો 1/3 છે. તેની અત્યારની ઉંમર શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે રહેમાનની હાલની ઉંમર x વર્ષ છે.<br>3 વર્ષ પહેલાની ઉંમર = (x - 3) વર્ષ.<br>5 વર્ષ પછીની ઉંમર = (x + 5) વર્ષ.</p><p>રકમ મુજબ: 1/(x - 3) + 1/(x + 5) = 1/3<br>[(x + 5) + (x - 3)] / [(x - 3)(x + 5)] = 1/3<br>(2x + 2) / (x² + 2x - 15) = 1/3<br>3(2x + 2) = x² + 2x - 15<br>6x + 6 = x² + 2x - 15<br>x² - 4x - 21 = 0</p><p>અવયવ: (x - 7)(x + 3) = 0<br>x = 7 અથવા x = -3 (ઉંમર ઋણ ન હોય)<br>તેથી, હાલની ઉંમર 7 વર્ષ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યસ્તના સરવાળા વાળા દાખલામાં લસાઅ લેવામાં ખાસ ચોકસાઈ રાખવી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "સમીકરણ 2x² - 6x + 3 = 0 ના બીજનું સ્વરૂપ ચકાસો. જો વાસ્તવિક બીજ હોય તો તે શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં, a = 2, b = -6, c = 3<br>વિવેચક D = b² - 4ac<br>D = (-6)² - 4(2)(3)<br>D = 36 - 24 = 12</p><p>D > 0 હોવાથી બીજ વાસ્તવિક અને ભિન્ન છે.<br>દ્વિઘાત સૂત્ર: x = [-b ± √D] / 2a<br>x = [-(-6) ± √12] / (2 × 2)<br>x = [6 ± 2√3] / 4<br>x = 2(3 ± √3) / 4<br>x = (3 ± √3) / 2</p><p>આમ, બીજ (3 + √3)/2 અને (3 - √3)/2 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: √12 = √(4×3) = 2√3 મુકવાથી છેદ ઉડાડવામાં સરળતા રહેશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "બે સંખ્યાઓના વર્ગોનો તફાવત 180 છે. નાની સંખ્યાનો વર્ગ મોટી સંખ્યા કરતા 8 ગણો છે. બંને સંખ્યાઓ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે મોટી સંખ્યા x છે.<br>શરત મુજબ, (નાની સંખ્યા)² = 8x.<br>વર્ગોનો તફાવત 180 છે:<br>x² - (નાની સંખ્યા)² = 180<br>x² - 8x = 180<br>x² - 8x - 180 = 0</p><p>અવયવ: 18 × 10 = 180<br>x² - 18x + 10x - 180 = 0<br>x(x - 18) + 10(x - 18) = 0<br>x = 18 અથવા x = -10</p><p>જો x = 18 હોય, તો (નાની સંખ્યા)² = 8 × 18 = 144 => નાની સંખ્યા = ±12.<br>જો x = -10 હોય, તો (નાની સંખ્યા)² = -80 (જે શક્ય નથી).</p><p>સંખ્યાઓ (18, 12) અથવા (18, -12) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અહીં 'નાની સંખ્યાનો વર્ગ' આપેલ છે એટલે કે y² = 8x લઈને સમીકરણ બનાવવું વધુ સરળ પડે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "ઉકેલ શોધો: 1/(x+4) - 1/(x-7) = 11/30 (x ≠ -4, 7)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ડાબી બાજુનો લસાઅ લેતા:<br>[(x - 7) - (x + 4)] / [(x + 4)(x - 7)] = 11/30<br>(x - 7 - x - 4) / (x² - 3x - 28) = 11/30<br>-11 / (x² - 3x - 28) = 11/30<br>-1 / (x² - 3x - 28) = 1/30 (11 વડે ભાગતા)<br>-30 = x² - 3x - 28<br>x² - 3x + 2 = 0</p><p>અવયવ: (x - 2)(x - 1) = 0<br>x = 2 અથવા x = 1.</p><p>આમ, આપેલ સમીકરણનો ઉકેલ 1 અને 2 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંશમાં 11 આવતા જ બંને બાજુથી 11 ઉડાડી દેવા, જેથી ગુણાકાર નાના થઈ જાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "(i) જો દ્વિઘાત સમીકરણ 2x² + kx + 3 = 0 ના બીજ વાસ્તવિક અને સમાન હોય તો k શોધો.<br>(ii) શું x² + 1 = 0 ના વાસ્તવિક બીજ શક્ય છે? કારણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>(i)</strong> 2x² + kx + 3 = 0 માટે a=2, b=k, c=3.<br>સમાન બીજ માટે D = 0<br>k² - 4(2)(3) = 0<br>k² - 24 = 0 => k = ±√24 = ±2√6.</p><p><strong>(ii)</strong> x² + 1 = 0 માટે a=1, b=0, c=1.<br>D = b² - 4ac = 0² - 4(1)(1) = -4.<br>અહીં D < 0 હોવાથી, વાસ્તવિક બીજ શક્ય નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ સંખ્યાનો વર્ગ ક્યારેય ઋણ ન હોય (x² = -1 અશક્ય છે), તેથી તે પરથી પણ કહી શકાય કે બીજ ન મળે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    }
+  ]
+}
