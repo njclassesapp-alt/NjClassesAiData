@@ -741,3 +741,70 @@ var Std10_Maths_4Marks = [
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "આંકડાશાસ્ત્ર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 4,
+      "question": "નીચે આપેલ આવૃત્તિ વિતરણનો મધ્યસ્થ 28.5 હોય અને કુલ આવૃત્તિ 60 હોય, તો x અને y નાં મૂલ્યો શોધો.\n\n| વર્ગ અંતરાલ | આવૃત્તિ |\n| :--- | :--- |\n| 0 - 10 | 5 |\n| 10 - 20 | x |\n| 20 - 30 | 20 |\n| 30 - 40 | 15 |\n| 40 - 50 | y |\n| 50 - 60 | 5 |",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સૌ પ્રથમ સંચયી આવૃત્તિ (cf) નું કોષ્ટક બનાવીએ:</p><table border='1' style='border-collapse:collapse; width:100%; text-align:center;'><tr><th>વર્ગ</th><th>આવૃત્તિ (f)</th><th>સંચયી આવૃત્તિ (cf)</th></tr><tr><td>0-10</td><td>5</td><td>5</td></tr><tr><td>10-20</td><td>x</td><td>5+x</td></tr><tr><td>20-30</td><td>20</td><td>25+x</td></tr><tr><td>30-40</td><td>15</td><td>40+x</td></tr><tr><td>40-50</td><td>y</td><td>40+x+y</td></tr><tr><td>50-60</td><td>5</td><td>45+x+y</td></tr></table><p>અહીં n = 60 અને મધ્યસ્થ = 28.5 (જે 20-30 ના વર્ગમાં આવે છે).<br>તેથી, મધ્યસ્થ વર્ગ = 20-30, l = 20, f = 20, cf = 5+x, h = 10, n/2 = 30.</p><p>સૂત્ર: M = l + [(n/2 - cf) / f] × h<br>28.5 = 20 + [(30 - (5+x)) / 20] × 10<br>8.5 = (25 - x) / 2<br>17 = 25 - x => <strong>x = 8</strong></p><p>હવે, 45 + x + y = 60<br>45 + 8 + y = 60 => 53 + y = 60 => <strong>y = 7</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે બે અજ્ઞાત આવૃત્તિ શોધવાની હોય ત્યારે હંમેશા કુલ સરવાળાનું સમીકરણ પહેલા બનાવો અને પછી મધ્યસ્થના સૂત્રમાં કિંમત મૂકો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 4,
+      "question": "નીચેની માહિતી માટે પદ-વિચલનની રીતે મધ્યક શોધો:\n\n| વર્ગ | 100-150 | 150-200 | 200-250 | 250-300 | 300-350 |\n| :--- | :---: | :---: | :---: | :---: | :---: |\n| આવૃત્તિ | 4 | 5 | 12 | 2 | 2 |",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારેલો મધ્યક a = 225 અને વર્ગ લંબાઈ h = 50 લઈએ.</p><table border='1' style='border-collapse:collapse; width:100%; text-align:center;'><tr><th>વર્ગ</th><th>f<sub>i</sub></th><th>x<sub>i</sub></th><th>u<sub>i</sub>=(x<sub>i</sub>-a)/h</th><th>f<sub>i</sub>u<sub>i</sub></th></tr><tr><td>100-150</td><td>4</td><td>125</td><td>-2</td><td>-8</td></tr><tr><td>150-200</td><td>5</td><td>175</td><td>-1</td><td>-5</td></tr><tr><td>200-250</td><td>12</td><td>225 (a)</td><td>0</td><td>0</td></tr><tr><td>250-300</td><td>2</td><td>275</td><td>1</td><td>2</td></tr><tr><td>300-350</td><td>2</td><td>325</td><td>2</td><td>4</td></tr><tr><td>કુલ</td><td>Σf<sub>i</sub>=25</td><td></td><td></td><td>Σf<sub>i</sub>u<sub>i</sub>=-7</td></tr></table><p>મધ્યક x̄ = a + (Σf<sub>i</sub>u<sub>i</sub> / Σf<sub>i</sub>) × h<br>x̄ = 225 + (-7 / 25) × 50<br>x̄ = 225 + (-7) × 2<br>x̄ = 225 - 14 = <strong>211</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે વર્ગ લંબાઈ સમાન હોય ત્યારે હંમેશા પદ-વિચલનની રીત (u<sub>i</sub> વાળી) વાપરવી, તેનાથી ગુણાકાર ખૂબ જ સરળ થઈ જશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NCERT</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 4,
+      "question": "નીચે આપેલ આવૃત્તિ વિતરણનો મધ્યક 18 છે. ખૂટતી આવૃત્તિ 'f' શોધો.\n\n| વર્ગ (દૈનિક ભથ્થું) | 11-13 | 13-15 | 15-17 | 17-19 | 19-21 | 21-23 | 23-25 |\n| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |\n| બાળકોની સંખ્યા | 7 | 6 | 9 | 13 | f | 5 | 4 |",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારેલા મધ્યકની રીતનો ઉપયોગ કરીએ. ધારો કે a = 18.</p><table border='1' style='border-collapse:collapse; width:100%; text-align:center;'><tr><th>વર્ગ</th><th>f<sub>i</sub></th><th>x<sub>i</sub></th><th>d<sub>i</sub>=x<sub>i</sub>-a</th><th>f<sub>i</sub>d<sub>i</sub></th></tr><tr><td>11-13</td><td>7</td><td>12</td><td>-6</td><td>-42</td></tr><tr><td>13-15</td><td>6</td><td>14</td><td>-4</td><td>-24</td></tr><tr><td>15-17</td><td>9</td><td>16</td><td>-2</td><td>-18</td></tr><tr><td>17-19</td><td>13</td><td>18 (a)</td><td>0</td><td>0</td></tr><tr><td>19-21</td><td>f</td><td>20</td><td>2</td><td>2f</td></tr><tr><td>21-23</td><td>5</td><td>22</td><td>4</td><td>20</td></tr><tr><td>23-25</td><td>4</td><td>24</td><td>6</td><td>24</td></tr><tr><td>કુલ</td><td>44+f</td><td></td><td></td><td>2f-40</td></tr></table><p>મધ્યક x̄ = a + (Σf<sub>i</sub>d<sub>i</sub> / Σf<sub>i</sub>)<br>18 = 18 + (2f - 40) / (44 + f)<br>0 = (2f - 40) / (44 + f)<br>2f - 40 = 0<br>2f = 40 => <strong>f = 20</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે આવૃત્તિ શોધવાની હોય (f), તેની સામેની મધ્યકિંમતને જ 'a' ધારી લેવો જેથી સમીકરણ ઉકેલવામાં સરળતા રહે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Most IMP Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 4,
+      "question": "(i) 300 વીજળીના ગોળાઓના આયુષ્યનો મધ્યસ્થ શોધો. (2 ગુણ)\n| આયુષ્ય (કલાકમાં) | 1500-2000 | 2000-2500 | 2500-3000 | 3000-3500 | 3500-4000 |\n| :--- | :---: | :---: | :---: | :---: | :---: |\n| ગોળાઓની સંખ્યા | 14 | 56 | 60 | 86 | 84 |\n\n(ii) જો મધ્યક = 25 અને બહુલક = 25 હોય, તો મધ્યસ્થ શોધો. (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ (i):</strong></p><p>કુલ n = 300, n/2 = 150. સંચયી આવૃત્તિ કોષ્ટક મુજબ 150નો સમાવેશ 3000-3500 વર્ગમાં થશે.<br>l = 3000, f = 86, cf = 130 (14+56+60), h = 500.<br>M = 3000 + [(150 - 130) / 86] × 500 = 3000 + (20/86) × 500 = 3000 + 116.28 = <strong>3116.28 કલાક</strong>.</p><p><strong>ઉકેલ (ii):</strong></p><p>આનુભાવિક સૂત્ર: Z = 3M - 2x̄<br>25 = 3M - 2(25)<br>25 = 3M - 50<br>75 = 3M => <strong>M = 25</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો મધ્યક અને બહુલક સમાન હોય, તો મધ્યસ્થ પણ હંમેશા એ જ સંખ્યા આવે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Gala Assignment Section D</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 4,
+      "question": "નીચે આપેલ 'થી ઓછા' પ્રકારના સંચયી આવૃત્તિ વિતરણ પરથી મધ્યસ્થ શોધો.\n\n| ગુણ | 10 થી ઓછા | 20 થી ઓછા | 30 થી ઓછા | 40 થી ઓછા | 50 થી ઓછા |\n| :--- | :---: | :---: | :---: | :---: | :---: |\n| વિદ્યાર્થીઓની સંખ્યા | 5 | 15 | 30 | 50 | 80 |",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સૌ પ્રથમ સાદું આવૃત્તિ વિતરણ બનાવીએ:</p><table border='1' style='border-collapse:collapse; width:100%; text-align:center;'><tr><th>વર્ગ</th><th>આવૃત્તિ (f)</th><th>સંચયી આવૃત્તિ (cf)</th></tr><tr><td>0-10</td><td>5</td><td>5</td></tr><tr><td>10-20</td><td>10 (15-5)</td><td>15</td></tr><tr><td>20-30</td><td>15 (30-15)</td><td>30</td></tr><tr><td>30-40</td><td>20 (50-30)</td><td>50</td></tr><tr><td>40-50</td><td>30 (80-50)</td><td>80</td></tr></table><p>અહીં n = 80, n/2 = 40. મધ્યસ્થ વર્ગ 30-40 છે.<br>l = 30, cf = 30, f = 20, h = 10.<br>M = 30 + [(40 - 30) / 20] × 10 = 30 + (10/20) × 10 = 30 + 5 = <strong>35</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'થી ઓછા' માં આપેલી સંખ્યાઓ પોતે જ 'cf' છે. સાદી આવૃત્તિ શોધવા માટે નીચેની કિંમતમાંથી ઉપરની કિંમત બાદ કરતા જાવ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Series</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 4,
+      "question": "એક હોસ્પિટલમાં દાખલ થયેલ દર્દીઓની ઉંમર માટે બહુલક શોધો:\n\n| ઉંમર (વર્ષમાં) | 5-15 | 15-25 | 25-35 | 35-45 | 45-55 | 55-65 |\n| :--- | :---: | :---: | :---: | :---: | :---: | :---: |\n| દર્દીઓની સંખ્યા | 6 | 11 | 21 | 23 | 14 | 5 |",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં મહત્તમ આવૃત્તિ 23 છે, જે 35-45 ના વર્ગમાં છે.<br>તેથી, બહુલકીય વર્ગ = 35-45.<br>l = 35, f<sub>1</sub> = 23 (બહુલકીય વર્ગની આવૃત્તિ)<br>f<sub>0</sub> = 21 (આગળના વર્ગની આવૃત્તિ)<br>f<sub>2</sub> = 14 (પાછળના વર્ગની આવૃત્તિ)<br>h = 10</p><p>સૂત્ર: Z = l + [(f<sub>1</sub> - f<sub>0</sub>) / (2f<sub>1</sub> - f<sub>0</sub> - f<sub>2</sub>)] × h<br>Z = 35 + [(23 - 21) / (2(23) - 21 - 14)] × 10<br>Z = 35 + [2 / (46 - 35)] × 10<br>Z = 35 + (2/11) × 10 = 35 + 1.81 = <strong>36.81 વર્ષ</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહુલક શોધતી વખતે હંમેશા સૌથી મોટી સંખ્યા શોધો, તેને f1 કહો, તેની ઉપર f0 અને નીચે f2!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Ex 13.2</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 4,
+      "question": "નીચેની માહિતી માટે મધ્યસ્થ શોધો:\n\n| વર્ગ | 0-100 | 100-200 | 200-300 | 300-400 | 400-500 | 500-600 |\n| :--- | :---: | :---: | :---: | :---: | :---: | :---: |\n| આવૃત્તિ | 2 | 5 | 9 | 12 | 17 | 20 |",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સંચયી આવૃત્તિ (cf) ગણીએ: 2, 7, 16, 28, 45, 65.<br>અહીં n = 65, n/2 = 32.5.<br>32.5 નો સમાવેશ 400-500 ના વર્ગમાં થાય છે.<br>l = 400, cf = 28, f = 17, h = 100.</p><p>M = l + [(n/2 - cf) / f] × h<br>M = 400 + [(32.5 - 28) / 17] × 100<br>M = 400 + (4.5 / 17) × 100<br>M = 400 + 450 / 17 = 400 + 26.47 = <strong>426.47</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: n/2 ની કિંમત cf ના ખાનામાં જ્યાં પહેલીવાર તેનાથી મોટી મળે તે વર્ગ જ મધ્યસ્થ વર્ગ હોય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Practice Paper</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 4,
+      "question": "જો નીચે આપેલ માહિતીનો મધ્યસ્થ 525 હોય અને કુલ આવૃત્તિ 100 હોય, તો x અને y શોધો:\n\n| વર્ગ | 400-500 | 500-600 | 600-700 | 700-800 |\n| :--- | :---: | :---: | :---: | :---: |\n| આવૃત્તિ | x | 20 | 15 | y | \n(નોંધ: અન્ય વર્ગો અને કુલ સરવાળો ધ્યાને લેતા 76 + x + y = 100 આપેલ છે.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં મધ્યસ્થ 525 છે, જે 500-600 ના વર્ગમાં આવે છે.<br>તેથી મધ્યસ્થ વર્ગ = 500-600, l = 500, f = 20, h = 100, n/2 = 50.<br>ધારો કે 500-600 સુધીની સંચયી આવૃત્તિ 36 + x છે (રકમ મુજબ).<br>cf = 36 + x.</p><p>525 = 500 + [(50 - (36 + x)) / 20] × 100<br>25 = (14 - x) × 5<br>5 = 14 - x => <strong>x = 9</strong></p><p>હવે, 76 + x + y = 100<br>76 + 9 + y = 100 => 85 + y = 100 => <strong>y = 15</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવા દાખલામાં હંમેશા l તરીકે મધ્યસ્થની નજીકની નીચેની સીમા લેવી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Example</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 4,
+      "question": "નીચેના કોષ્ટક માટે મધ્યક શોધો:\n\n| સાક્ષરતા દર (%) | 45-55 | 55-65 | 65-75 | 75-85 | 85-95 |\n| :--- | :---: | :---: | :---: | :---: | :---: |\n| શહેરોની સંખ્યા | 3 | 10 | 11 | 8 | 3 |",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પદ-વિચલનની રીત વાપરતા, a = 70, h = 10.</p><table border='1' style='border-collapse:collapse; width:100%; text-align:center;'><tr><th>વર્ગ</th><th>f<sub>i</sub></th><th>x<sub>i</sub></th><th>u<sub>i</sub></th><th>f<sub>i</sub>u<sub>i</sub></th></tr><tr><td>45-55</td><td>3</td><td>50</td><td>-2</td><td>-6</td></tr><tr><td>55-65</td><td>10</td><td>60</td><td>-1</td><td>-10</td></tr><tr><td>65-75</td><td>11</td><td>70</td><td>0</td><td>0</td></tr><tr><td>75-85</td><td>8</td><td>80</td><td>1</td><td>8</td></tr><tr><td>85-95</td><td>3</td><td>90</td><td>2</td><td>6</td></tr><tr><td>કુલ</td><td>35</td><td></td><td></td><td>-2</td></tr></table><p>x̄ = 70 + (-2 / 35) × 10 = 70 - 20 / 35 = 70 - 0.57 = <strong>69.43%</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો Σf<sub>i</sub>u<sub>i</sub> ઋણ આવે તો મધ્યક ધારેલા મધ્યક કરતા ઓછો આવશે એ યાદ રાખવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board 2023</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 4,
+      "question": "એક વસ્તી ગણતરીમાં 100 અટક (Surnames) માં અક્ષરોની સંખ્યા નીચે મુજબ છે, તેનો મધ્યસ્થ અને બહુલક શોધો.\n\n| અક્ષરોની સંખ્યા | 1-4 | 4-7 | 7-10 | 10-13 | 13-16 | 16-19 |\n| :--- | :---: | :---: | :---: | :---: | :---: | :---: |\n| અટકની સંખ્યા | 6 | 30 | 40 | 16 | 4 | 4 |",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>બહુલક (Z):</strong> મહત્તમ આવૃત્તિ 40 છે (વર્ગ 7-10).<br>l=7, f1=40, f0=30, f2=16, h=3.<br>Z = 7 + [(40-30)/(80-30-16)] × 3 = 7 + (10/34) × 3 = 7 + 0.88 = <strong>7.88</strong></p><p><strong>મધ્યસ્થ (M):</strong> n=100, n/2=50. cf કોષ્ટક મુજબ 50નો સમાવેશ 7-10 માં થાય છે.<br>l=7, cf=36 (6+30), f=40, h=3.<br>M = 7 + [(50-36)/40] × 3 = 7 + (14/40) × 3 = 7 + 1.05 = <strong>8.05</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક જ દાખલામાં બે વસ્તુ પૂછાય ત્યારે ધ્યાન રાખવું કે બંનેના જવાબ એકબીજાની નજીક જ આવશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Exam Special</p></div>"
+    }
+  ]
+}
