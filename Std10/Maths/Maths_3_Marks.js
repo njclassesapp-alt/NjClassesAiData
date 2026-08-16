@@ -266,3 +266,70 @@ var Std10_Maths_3Marks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "ત્રિકોણ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "પ્રમેય 6.1 (થેલ્સનો પ્રમેય): જો ત્રિકોણની કોઈ એક બાજુને સમાંતર દોરેલી રેખા બાકીની બે બાજુઓને ભિન્ન બિંદુઓમાં છેદે, તો તે બાજુઓ પર કપાતા રેખાખંડો તે બાજુઓનું સમાન ગુણોત્તરમાં વિભાજન કરે છે તેમ સાબિત કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાબિતી:</strong></p><p>પક્ષ: ΔABC માં રેખા l એ BC ને સમાંતર છે અને તે AB ને D માં તથા AC ને E માં છેદે છે.</p><p>સાધ્ય: AD/DB = AE/EC</p><svg width='200' height='150' viewBox='0 0 200 150'><path d='M100 10 L20 130 L180 130 Z' fill='none' stroke='black' stroke-width='2'/><line x1='40' y1='100' x2='160' y2='100' stroke='red' stroke-width='2'/><text x='95' y='8' font-size='12'>A</text><text x='10' y='140' font-size='12'>B</text><text x='180' y='140' font-size='12'>C</text><text x='25' y='105' font-size='12'>D</text><text x='165' y='105' font-size='12'>E</text></svg><p>રચના: BE અને CD જોડો. DM ⊥ AC અને EN ⊥ AB દોરો.</p><p>ΔADE નું ક્ષેત્રફળ = 1/2 × પાયો × વેધ = 1/2 × AD × EN</p><p>ΔBDE નું ક્ષેત્રફળ = 1/2 × DB × EN</p><p>∴ Area(ADE) / Area(BDE) = AD / DB ---(1)</p><p>તે જ રીતે, Area(ADE) / Area(DEC) = AE / EC ---(2)</p><p>હવે, ΔBDE અને ΔDEC એક જ પાયા DE પર અને સમાંતર રેખાઓ BC || DE ની વચ્ચે આવેલા હોવાથી, Area(BDE) = Area(DEC). તેથી (1) અને (2) પરથી: <strong>AD/DB = AE/EC</strong>.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમાંતર રેખા એટલે સમાન ગુણોત્તર' - આ વાક્ય યાદ રાખો. હંમેશા વેધ (Height) કોમન લેવો જેથી તે ઉડી જાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Page 104 (Theorem 6.1)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "સમલંબ ચતુષ્કોણ ABCD માં AB || DC છે. તેના વિકર્ણો એકબીજાને O બિંદુએ છેદે છે. સાબિત કરો કે AO / BO = CO / DO.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પક્ષ: ABCD સમલંબ ચતુષ્કોણ છે જેમાં AB || DC.</p><p>સાધ્ય: AO/BO = CO/DO અથવા AO/CO = BO/DO.</p><svg width='200' height='120' viewBox='0 0 200 120'><path d='M50 20 L150 20 L180 100 L20 100 Z' fill='none' stroke='black' stroke-width='2'/><line x1='50' y1='20' x2='180' y2='100' stroke='blue'/><line x1='150' y1='20' x2='20' y2='100' stroke='blue'/><text x='45' y='15' font-size='12'>A</text><text x='150' y='15' font-size='12'>B</text><text x='185' y='110' font-size='12'>C</text><text x='10' y='110' font-size='12'>D</text><text x='95' y='65' font-size='12'>O</text></svg><p>સાબિતી: ΔAOB અને ΔCOD માં,</p><p>1. ∠OAB = ∠OCD (યુગ્મકોણો, કારણ કે AB || DC)</p><p>2. ∠OBA = ∠ODC (યુગ્મકોણો, કારણ કે AB || DC)</p><p>3. ∠AOB = ∠COD (અભિકોણો)</p><p>ખુખુખુ શરત મુજબ, ΔAOB ~ ΔCOD.</p><p>સમરૂપ ત્રિકોણોની અનુરૂપ બાજુઓનો ગુણોત્તર સમાન હોય છે.</p><p>∴ AO / CO = BO / DO</p><p>જેને પદની અદલાબદલી કરતા, <strong>AO / BO = CO / DO</strong> સાબિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમલંબ ચતુષ્કોણમાં વિકર્ણો હંમેશા 'Z' આકારના યુગ્મકોણ બનાવે છે. આનાથી ત્રિકોણો સમરૂપ સાબિત કરવા સરળ પડે છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Exercise 6.3 - Q3 Modified</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "એક 6 મીટર ઊંચા શિરોલંબ સ્તંભનો જમીન પર પડતો પડછાયો 4 મીટર લાંબો છે. તે જ સમયે એક ટાવરનો પડછાયો 28 મીટર લાંબો છે. ટાવરની ઊંચાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે, AB એ સ્તંભ છે અને BC તેનો પડછાયો છે. PQ એ ટાવર છે અને QR તેનો પડછાયો છે.</p><p>અહીં, AB = 6 m, BC = 4 m. ટાવરનો પડછાયો QR = 28 m. ટાવરની ઊંચાઈ PQ = h ધારો.</p><p>એક જ સમયે સૂર્યના કિરણો દ્વારા બનતા ખૂણા સમાન હોય છે. તેથી ΔABC ~ ΔPQR (ખુખુ શરત).</p><p>સમરૂપતાના સિદ્ધાંત મુજબ:</p><p>AB / PQ = BC / QR</p><p>6 / h = 4 / 28</p><p>6 / h = 1 / 7</p><p>h = 6 × 7 = 42 મીટર.</p><p>આમ, <strong>ટાવરની ઊંચાઈ 42 મીટર છે.</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (વસ્તુની ઊંચાઈ / પડછાયો) = અચળ. એટલે કે 6/4 = h/28. સીધું જ પદ મુકો: h = (6 * 28) / 4 = 42.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Exercise 6.3 - Q15</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "(i) જો ΔABC ~ ΔPQR હોય અને AB/PQ = 1/3 હોય, તો Area(ABC)/Area(PQR) શોધો. <br> (ii) ΔABC માં DE || BC છે. જો AD = x, DB = x-2, AE = x+2 અને EC = x-1 હોય, તો x ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>(i)</strong> આપણે જાણીએ છીએ કે સમરૂપ ત્રિકોણોના ક્ષેત્રફળનો ગુણોત્તર તેમની અનુરૂપ બાજુઓના વર્ગના ગુણોત્તર જેટલો હોય છે.</p><p>Area(ABC) / Area(PQR) = (AB/PQ)² = (1/3)² = <strong>1/9</strong>.</p><p><strong>(ii)</strong> થેલ્સના પ્રમેય (BPT) મુજબ:</p><p>AD / DB = AE / EC</p><p>x / (x-2) = (x+2) / (x-1)</p><p>x(x-1) = (x+2)(x-2)</p><p>x² - x = x² - 4</p><p>-x = -4 => <strong>x = 4</strong>.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (x+2)(x-2) એ તફાવતની રીતે x² - 4 થાય. ગણતરીમાં ઉતાવળ ન કરવી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept / GSEB IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "ΔABC માં ∠A નો દ્વિભાજક BC ને D માં છેદે છે. જો AB = 10 સેમી, AC = 14 સેમી અને BC = 6 સેમી હોય, તો BD અને DC શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કોણ દ્વિભાજકના પ્રમેય મુજબ, ત્રિકોણના ખૂણાનો દ્વિભાજક તેની સામેની બાજુનું બાકીની બે બાજુઓના ગુણોત્તરમાં વિભાજન કરે છે.</p><p>∴ BD / DC = AB / AC</p><p>ધારો કે BD = x સેમી, તો DC = (6 - x) સેમી.</p><p>x / (6 - x) = 10 / 14</p><p>x / (6 - x) = 5 / 7</p><p>7x = 5(6 - x)</p><p>7x = 30 - 5x</p><p>12x = 30 => x = 30/12 = 2.5 સેમી.</p><p>તેથી, <strong>BD = 2.5 સેમી</strong> અને <strong>DC = 6 - 2.5 = 3.5 સેમી</strong>.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: BD શોધવા માટે સીધું સૂત્ર: BD = [AB / (AB + AC)] * BC = [10 / 24] * 6 = 2.5 સેમી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Extra Practice (Based on Similarity Concepts)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "આકૃતિમાં DE || AC અને DF || AE છે. સાબિત કરો કે BF / FE = BE / EC.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાબિતી:</strong></p><p>1. ΔABC માં, DE || AC છે.</p><p>થેલ્સના પ્રમેય (BPT) મુજબ: BD / DA = BE / EC ---(1)</p><p>2. ΔABE માં, DF || AE છે.</p><p>થેલ્સના પ્રમેય (BPT) મુજબ: BD / DA = BF / FE ---(2)</p><p>પરિણામ (1) અને (2) ની સરખામણી કરતા:</p><p><strong>BF / FE = BE / EC</strong> સાબિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે એક જ બાજુ (અહીં BD/DA) બે અલગ-અલગ ત્રિકોણના ગુણોત્તરમાં કોમન હોય, ત્યારે બાકીના બે ગુણોત્તર હંમેશા સમાન થાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Exercise 6.2 - Q4</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "ΔABC માં P અને Q એ અનુક્રમે AB અને AC પર આવેલા બિંદુઓ છે. જો AP = 2.4 સેમી, PB = 3.6 સેમી, AQ = 2 સેમી અને QC = 3 સેમી હોય, તો શું PQ || BC છે? કારણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>થેલ્સના પ્રમેયના પ્રતીપ (Converse of BPT) મુજબ, જો રેખા બાજુઓનું સમાન ગુણોત્તરમાં વિભાજન કરે તો તે ત્રીજી બાજુને સમાંતર હોય.</p><p>અહીં, AP / PB = 2.4 / 3.6 = 24 / 36 = 2 / 3</p><p>અને, AQ / QC = 2 / 3</p><p>અહીં, AP / PB = AQ / QC હોવાથી, ગુણોત્તર સમાન છે.</p><p>તેથી, થેલ્સના પ્રતીપ પ્રમેય મુજબ <strong>PQ || BC છે.</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટ દૂર કરવા માટે અંશ અને છેદને 10 વડે ગુણો. 2.4/3.6 = 24/36. છેદ ઉડાડતા 2/3 મળશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Exercise 6.2 - Q2 Style</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "બે સમરૂપ ત્રિકોણો ABC અને PQR ની પરિમિતિ અનુક્રમે 36 સેમી અને 24 સેમી છે. જો PQ = 10 સેમી હોય, તો AB શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પ્રમેય મુજબ, બે સમરૂપ ત્રિકોણોની પરિમિતિનો ગુણોત્તર તેમની અનુરૂપ બાજુઓના ગુણોત્તર જેટલો હોય છે.</p><p>ΔABC ~ ΔPQR હોવાથી,</p><p>Perimeter(ABC) / Perimeter(PQR) = AB / PQ</p><p>36 / 24 = AB / 10</p><p>3 / 2 = AB / 10 (કારણ કે 12 × 3 = 36 અને 12 × 2 = 24)</p><p>AB = (3 × 10) / 2</p><p>AB = 30 / 2 = 15 સેમી.</p><p>આમ, <strong>AB ની લંબાઈ 15 સેમી છે.</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિમિતિ એટલે બાજુઓનો સરવાળો, જે હંમેશા લિનીયર (Linear) હોય, તેથી તેમાં વર્ગ કરવાની જરૂર નથી (ક્ષેત્રફળમાં વર્ગ થાય).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Practice Paper IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "સાબિત કરો કે ત્રિકોણની બે બાજુઓના મધ્યબિંદુઓને જોડતી રેખા ત્રીજી બાજુને સમાંતર હોય છે. (થેલ્સના પ્રમેયનો ઉપયોગ કરો).",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાબિતી:</strong></p><p>ધારો કે ΔABC માં D અને E એ અનુક્રમે AB અને AC ના મધ્યબિંદુઓ છે.</p><p>કારણ કે D એ AB નું મધ્યબિંદુ છે, AD = DB => AD / DB = 1 ---(1)</p><p>તે જ રીતે, E એ AC નું મધ્યબિંદુ છે, AE = EC => AE / EC = 1 ---(2)</p><p>પરિણામ (1) અને (2) પરથી:</p><p>AD / DB = AE / EC</p><p>હવે, થેલ્સના પ્રમેયના પ્રતીપ (Converse of BPT) મુજબ, જો કોઈ રેખા ત્રિકોણની બે બાજુઓનું સમાન ગુણોત્તરમાં વિભાજન કરે, તો તે રેખા ત્રીજી બાજુને સમાંતર હોય છે.</p><p>માટે, <strong>DE || BC</strong> સાબિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્યબિંદુ એટલે ગુણોત્તર હંમેશા 1:1 જ હોય. 1 = 1 સાબિત કરી દેવું!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Ex 6.2 - Q7</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "90 સેમી ઊંચાઈવાળી એક છોકરી એક થાંભલાના તળિયેથી 1.2 મીટર/સેકન્ડની ઝડપથી દૂર જઈ રહી છે. જો થાંભલા પરનો દીવો જમીનથી 3.6 મીટર ઊંચો હોય, તો 4 સેકન્ડ પછી છોકરીના પડછાયાની લંબાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે AB દીવાનો થાંભલો છે અને CD છોકરી છે. 4 સેકન્ડમાં છોકરીએ કાપેલું અંતર BD = ઝડપ × સમય = 1.2 × 4 = 4.8 મીટર.</p><p>છોકરીની ઊંચાઈ CD = 90 સેમી = 0.9 મીટર. થાંભલાની ઊંચાઈ AB = 3.6 મીટર. પડછાયો DE = x ધારો.</p><p>ΔABE ~ ΔCDE (ખુખુ શરત, કારણ કે બંને જમીન સાથે 90° ખૂણો બનાવે અને ∠E સામાન્ય છે).</p><p>AB / CD = BE / DE</p><p>3.6 / 0.9 = (4.8 + x) / x</p><p>4 = (4.8 + x) / x</p><p>4x = 4.8 + x</p><p>3x = 4.8 => x = 1.6 મીટર.</p><p>આમ, <strong>છોકરીના પડછાયાની લંબાઈ 1.6 મીટર હશે.</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકમ સરખા રાખવા (બધું મીટરમાં ફેરવવું). 3.6 / 0.9 એટલે સીધા 4 થાય, જે ગણતરી સહેલી બનાવશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Example 7</p></div>"
+    }
+  ]
+}
