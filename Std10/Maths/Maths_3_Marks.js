@@ -65,3 +65,70 @@ var Std10_Maths_3Marks = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "દ્વિચલ સુરેખ સમીકરણયુગ્મ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "નીચેના સમીકરણયુગ્મનો ઉકેલ આદેશની રીતે મેળવો: \n(i) s - t = 3 \n(ii) s/3 + t/2 = 6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સમીકરણ (1): s - t = 3  => s = 3 + t ... (A)</p><p>સમીકરણ (2): s/3 + t/2 = 6</p><p>લસાઅ લેતા: 2s + 3t = 36 ... (B)</p><p>સમીકરણ (A) ની કિંમત (B) માં મુકતા:</p><p>2(3 + t) + 3t = 36</p><p>6 + 2t + 3t = 36</p><p>5t = 30 => <b>t = 6</b></p><p>t ની કિંમત (A) માં મુકતા: s = 3 + 6 => <b>s = 9</b></p><p>આમ, (s, t) = (9, 6)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે છેદમાં સંખ્યા હોય ત્યારે પહેલા આખા સમીકરણને લસાઅ વડે ગુણીને સાદું સ્વરૂપ આપી દેવું જેથી ગણતરી સરળ બને.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB NCERT Exercise 3.2</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "લોપની રીતે ઉકેલ શોધો: \n3x - 5y - 4 = 0 અને 9x = 2y + 7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સમીકરણોને પ્રમાણિત સ્વરૂપમાં ગોઠવતા:</p><p>3x - 5y = 4 ... (1)</p><p>9x - 2y = 7 ... (2)</p><p>સમીકરણ (1) ને 3 વડે ગુણતા: 9x - 15y = 12 ... (3)</p><p>હવે (3) માંથી (2) બાદ કરતા:</p><p>(9x - 15y) - (9x - 2y) = 12 - 7</p><p>-13y = 5 => <b>y = -5/13</b></p><p>y ની કિંમત (1) માં મુકતા: 3x - 5(-5/13) = 4</p><p>3x + 25/13 = 4 => 3x = 4 - 25/13</p><p>3x = (52 - 25)/13 => 3x = 27/13 => <b>x = 9/13</b></p><p>આમ, (x, y) = (9/13, -5/13)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ચલનો સહગુણક નાનો હોય અથવા એકબીજાના ગુણકમાં હોય તેને લોપ કરવાથી ગુણાકાર નાના થાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "પાંચ વર્ષ પછી જેકબની ઉંમર તેના પુત્રની ઉંમર કરતાં ત્રણ ગણી હશે. પાંચ વર્ષ પહેલાં જેકબની ઉંમર તેના પુત્રની ઉંમરથી સાત ગણી હોય, તો તેમની વર્તમાન ઉંમર શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે જેકબની હાલની ઉંમર x વર્ષ અને પુત્રની હાલની ઉંમર y વર્ષ છે.</p><p>5 વર્ષ પછી: (x+5) = 3(y+5) => x - 3y = 10 ... (1)</p><p>5 વર્ષ પહેલાં: (x-5) = 7(y-5) => x - 7y = -30 ... (2)</p><p>સમીકરણ (1) માંથી (2) બાદ કરતા:</p><p>4y = 40 => <b>y = 10</b> વર્ષ (પુત્ર)</p><p>y ની કિંમત (1) માં મુકતા: x - 3(10) = 10 => x = 40</p><p>આમ, <b>જેકબની હાલની ઉંમર 40 વર્ષ</b> અને <b>પુત્રની હાલની ઉંમર 10 વર્ષ</b> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પછી' હોય તો (+) કરો અને 'પહેલા' હોય તો (-) કરો, આ નિયમ ક્યારેય ના ભૂલતા!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise 3.2</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "એક અપૂર્ણાંકના અંશ અને છેદ બંનેમાં 2 ઉમેરતા તે 9/11 બને છે. જો અંશ અને છેદ બંનેમાં 3 ઉમેરવામાં આવે તો તે 5/6 બને છે. તો તે અપૂર્ણાંક શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે અપૂર્ણાંક x/y છે.</p><p>શરત 1 મુજબ: (x+2)/(y+2) = 9/11</p><p>11x + 22 = 9y + 18 => 11x - 9y = -4 ... (1)</p><p>શરત 2 મુજબ: (x+3)/(y+3) = 5/6</p><p>6x + 18 = 5y + 15 => 6x - 5y = -3 ... (2)</p><p>આ સમીકરણો ઉકેલતા, આપણને <b>x = 7</b> અને <b>y = 9</b> મળે છે.</p><p>માંગેલ અપૂર્ણાંક <b>7/9</b> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લે જવાબમાં x અને y ની કિંમત રકમમાં મૂકીને ચેક કરી લેવી (7+2)/(9+2) = 9/11, સાચું છે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exemplar</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "એક પ્રતિષ્ઠિત પુસ્તકાલય પ્રથમ ત્રણ દિવસનું એક નિશ્ચિત ભાડું લે છે અને પછીના પ્રત્યેક દિવસ દીઠ અતિરિક્ત ભાડું લે છે. સરિતા 7 દિવસ પુસ્તક રાખવાના ₹27 ચૂકવે છે, જ્યારે સૂસી 5 દિવસ પુસ્તક રાખવાના ₹21 ચૂકવે છે. તો નિશ્ચિત ભાડું અને પ્રત્યેક વધારાના દિવસનું ભાડું શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે 3 દિવસનું નિશ્ચિત ભાડું ₹ x છે અને તે પછીના દરેક દિવસનું ભાડું ₹ y છે.</p><p>સરિતા માટે (7 દિવસ = 3 નિશ્ચિત + 4 વધારાના): x + 4y = 27 ... (1)</p><p>સૂસી માટે (5 દિવસ = 3 નિશ્ચિત + 2 વધારાના): x + 2y = 21 ... (2)</p><p>(1) માંથી (2) બાદ કરતા: 2y = 6 => <b>y = 3</b></p><p>y ની કિંમત (2) માં મુકતા: x + 2(3) = 21 => x + 6 = 21 => <b>x = 15</b></p><p>નિશ્ચિત ભાડું <b>₹ 15</b> અને વધારાના દિવસનું ભાડું <b>₹ 3</b> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિવસોની બાદબાકી (7-5=2) અને રૂપિયાની બાદબાકી (27-21=6) કરો. 2 દિવસના 6 રૂ. તો 1 દિવસના 3 રૂ. સીધો જવાબ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB standard text book</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "બે અંકોની એક સંખ્યાના અંકોનો સરવાળો 9 છે. વળી સંખ્યાના નવ ગણા કરતાં મળતી સંખ્યા એ અંકોના ક્રમ ઉલટાવતા મળતી સંખ્યા કરતા બે ગણી છે. તે સંખ્યા શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે દશકનો અંક x અને એકમનો અંક y છે. મૂળ સંખ્યા = 10x + y.</p><p>શરત 1: x + y = 9 ... (1)</p><p>શરત 2: 9(10x + y) = 2(10y + x)</p><p>90x + 9y = 20y + 2x => 88x - 11y = 0 => 8x - y = 0 ... (2)</p><p>(1) અને (2) નો સરવાળો કરતા: 9x = 9 => <b>x = 1</b></p><p>x ની કિંમત (1) માં મુકતા: 1 + y = 9 => <b>y = 8</b></p><p>મૂળ સંખ્યા = 10(1) + 8 = <b>18</b>.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પ્રકારના દાખલામાં સંખ્યા હંમેશા 10x+y સ્વરૂપે જ ધારવી અને ઉલટાવેલી સંખ્યા 10y+x લેવી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise 3.3</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "કિંમત શોધો: (i) નીચેના સમીકરણયુગ્મને અનંત ઉકેલો હોય તો a અને b શોધો: \n2x + 3y = 7 \n(a - b)x + (a + b)y = 3a + b - 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અનંત ઉકેલ માટેની શરત: a₁/a₂ = b₁/b₂ = c₁/c₂</p><p>2/(a-b) = 3/(a+b) = 7/(3a+b-2)</p><p>પહેલા બે ગુણોત્તર લેતા: 2a + 2b = 3a - 3b => a = 5b ... (1)</p><p>છેલ્લા બે ગુણોત્તર લેતા: 3(3a + b - 2) = 7(a + b)</p><p>9a + 3b - 6 = 7a + 7b => 2a - 4b = 6 => a - 2b = 3 ... (2)</p><p>a = 5b મુકતા: 5b - 2b = 3 => 3b = 3 => <b>b = 1</b></p><p>તેથી a = 5(1) => <b>a = 5</b></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનંત ઉકેલ એટલે બધું જ સમાન (Proportional). આ દાખલો બોર્ડમાં વારંવાર પૂછાય છે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Hot Topic</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "solve: 2x + 3y = 11 અને 2x - 4y = -24 નો ઉકેલ શોધો અને તે પરથી 'm' શોધો કે જેથી y = mx + 3 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>2x + 3y = 11 ... (1)</p><p>2x - 4y = -24 ... (2)</p><p>(1) માંથી (2) બાદ કરતા: 7y = 35 => <b>y = 5</b></p><p>y ની કિંમત (1) માં મુકતા: 2x + 3(5) = 11</p><p>2x + 15 = 11 => 2x = -4 => <b>x = -2</b></p><p>હવે y = mx + 3 માં કિંમતો મુકતા:</p><p>5 = m(-2) + 3</p><p>5 - 3 = -2m => 2 = -2m => <b>m = -1</b></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા x અને y શોધી લો, પછી જ m વાળા સમીકરણમાં કિંમત મૂકો. ચિહ્નોની ભૂલ ન થાય તેનું ધ્યાન રાખવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise 3.2</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "મીના ₹ 2000 ઉપાડવા બેંકમાં ગઈ હતી. તેણે કેશિયરને ₹ 50 અને ₹ 100 ની જ નોટો આપવા જણાવ્યું હતું. મીનાને કુલ 25 નોટો મળી હતી. તો તેણે ₹ 50 અને ₹ 100 ની પ્રત્યેક કેટલી નોટો મેળવી હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે ₹ 50 ની નોટની સંખ્યા x અને ₹ 100 ની નોટની સંખ્યા y છે.</p><p>કુલ નોટો: x + y = 25 ... (1)</p><p>કુલ રકમ: 50x + 100y = 2000</p><p>50 વડે ભાગતા: x + 2y = 40 ... (2)</p><p>(2) માંથી (1) બાદ કરતા:</p><p>(x + 2y) - (x + y) = 40 - 25</p><p><b>y = 15</b> (₹ 100 ની નોટ)</p><p>y ની કિંમત (1) માં મુકતા: x + 15 = 25 => <b>x = 10</b> (₹ 50 ની નોટ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રૂપિયાવાળા સમીકરણને હંમેશા સામાન્ય અવયવ (અહીં 50) વડે ભાગી નાખવું જેથી ગણતરી રમત જેવી લાગે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Most IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "એક લંબચોરસની લંબાઈમાં 5 એકમ ઘટાડો થાય અને પહોળાઈમાં 3 એકમ વધારો થાય, તો તેનું ક્ષેત્રફળ 9 ચોરસ એકમ ઘટે છે. જો લંબાઈમાં 3 એકમ અને પહોળાઈમાં 2 એકમ વધારો કરીએ, તો ક્ષેત્રફળ 67 ચોરસ એકમ વધે છે. લંબચોરસના પરિમાણ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે લંબાઈ x અને પહોળાઈ y છે. ક્ષેત્રફળ = xy.</p><p>શરત 1: (x-5)(y+3) = xy - 9</p><p>xy + 3x - 5y - 15 = xy - 9 => 3x - 5y = 6 ... (1)</p><p>શરત 2: (x+3)(y+2) = xy + 67</p><p>xy + 2x + 3y + 6 = xy + 67 => 2x + 3y = 61 ... (2)</p><p>સમીકરણો ઉકેલતા, <b>x = 17</b> એકમ અને <b>y = 9</b> એકમ મળે છે.</p><p>લંબાઈ = 17, પહોળાઈ = 9.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (x ± a)(y ± b) નું સાદું રૂપ આપતી વખતે xy પદ બંને બાજુથી ઉડી જશે, એટલે ગભરાવાની જરૂર નથી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise 3.3</p></div>"
+    }
+  ]
+}
