@@ -333,3 +333,70 @@ var Std10_Maths_3Marks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "યામ ભૂમિતિ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "x-અક્ષ પરનું એવું બિંદુ શોધો જે (2, -5) અને (-2, 9) થી સમાન અંતરે હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે x-અક્ષ પરનું માંગેલું બિંદુ P(x, 0) છે. આપેલા બિંદુઓ A(2, -5) અને B(-2, 9) છે.</p><p>અહીં, PA = PB હોવાથી, PA² = PB² થશે.</p><p>અંતર સૂત્ર મુજબ: (x - 2)² + (0 - (-5))² = (x - (-2))² + (0 - 9)²</p><p>(x - 2)² + 25 = (x + 2)² + 81</p><p>x² - 4x + 4 + 25 = x² + 4x + 4 + 81</p><p>-4x + 29 = 4x + 85</p><p>-8x = 85 - 29 = 56</p><p>x = 56 / (-8) = -7</p><p>તેથી, x-અક્ષ પરનું માંગેલું બિંદુ <strong>(-7, 0)</strong> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x-અક્ષ પરના બિંદુનો y-યામ હંમેશા 0 હોય. વિકલ્પોમાં જો માત્ર એક જ બિંદુનો y-યામ 0 હોય, તો તે જ જવાબ હોય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Textbook / Exercise 7.1</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "બિંદુ (-4, 6) એ બિંદુઓ A(-6, 10) અને B(3, -8) ને જોડતા રેખાખંડનું કયા ગુણોત્તરમાં વિભાજન કરે છે તે શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે બિંદુ P(-4, 6) એ AB નું k : 1 ગુણોત્તરમાં વિભાજન કરે છે.</p><p>વિભાજન સૂત્ર મુજબ, P(x, y) = [(mx₂ + nx₁) / (m + n), (my₂ + ny₁) / (m + n)]</p><p>અહીં x = -4, x₁ = -6, x₂ = 3, m = k, n = 1</p><p>-4 = [k(3) + 1(-6)] / (k + 1)</p><p>-4(k + 1) = 3k - 6</p><p>-4k - 4 = 3k - 6</p><p>-4k - 3k = -6 + 4</p><p>-7k = -2</p><p>k = 2/7</p><p>તેથી, માંગેલ ગુણોત્તર <strong>2 : 7</strong> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણોત્તર શોધવા માટે x અથવા y માંથી ગમે તે એક જ યામનો ઉપયોગ કરો, જવાબ સમાન જ આવશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Textbook / Exercise 7.2</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "બિંદુઓ (4, -1) અને (-2, -3) ને જોડતા રેખાખંડના ત્રિભાગ બિંદુઓના યામ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે A(4, -1) અને B(-2, -3) આપેલા બિંદુઓ છે. ધારો કે P અને Q એ AB ના ત્રિભાગ બિંદુઓ છે.</p><p>1. બિંદુ P એ AB નું 1 : 2 ગુણોત્તરમાં વિભાજન કરે છે:</p><p>P(x, y) = [(1(-2) + 2(4))/3, (1(-3) + 2(-1))/3] = [(-2 + 8)/3, (-3 - 2)/3] = <strong>(2, -5/3)</strong></p><p>2. બિંદુ Q એ AB નું 2 : 1 ગુણોત્તરમાં વિભાજન કરે છે (અથવા Q એ PB નું મધ્યબિંદુ છે):</p><p>Q(x, y) = [(2(-2) + 1(4))/3, (2(-3) + 1(-1))/3] = [(-4 + 4)/3, (-6 - 1)/3] = <strong>(0, -7/3)</strong></p><p>આમ, ત્રિભાગ બિંદુઓ (2, -5/3) અને (0, -7/3) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિભાગ બિંદુઓ માટે ગુણોત્તર હંમેશા 1:2 અને 2:1 લેવો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Important Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "y-અક્ષ એ બિંદુઓ (5, -6) અને (-1, -4) ને જોડતા રેખાખંડનું કયા ગુણોત્તરમાં વિભાજન કરે છે? તે શોધો અને છેદબિંદુ પણ મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે y-અક્ષ પરનું છેદબિંદુ P(0, y) છે અને તે આપેલા બિંદુઓને k : 1 ગુણોત્તરમાં વિભાજે છે.</p><p>અહીં x-યામ 0 છે, તેથી:</p><p>0 = [k(-1) + 1(5)] / (k + 1)</p><p>0 = -k + 5 => <strong>k = 5</strong>. તેથી ગુણોત્તર 5 : 1 છે.</p><p>હવે y-યામ શોધીએ:</p><p>y = [5(-4) + 1(-6)] / (5 + 1) = (-20 - 6) / 6 = -26 / 6 = -13 / 3</p><p>તેથી છેદબિંદુ <strong>(0, -13/3)</strong> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: y-અક્ષ વિભાજન કરે ત્યારે x-યામ શૂન્ય લેવો, અને x-અક્ષ હોય ત્યારે y-યામ શૂન્ય લેવો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exemplar</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "જો (6, 1), (8, 2), (9, 4) અને (p, 3) એ એક સમાંતરબાજુ ચતુષ્કોણનાં ક્રમિક શિરોબિંદુઓ હોય, તો p ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સમાંતરબાજુ ચતુષ્કોણના વિકર્ણો પરસ્પર દુભાગે છે. તેથી AC નું મધ્યબિંદુ = BD નું મધ્યબિંદુ.</p><p>AC નું મધ્યબિંદુ = [(6 + 9)/2, (1 + 4)/2] = (15/2, 5/2)</p><p>BD નું મધ્યબિંદુ = [(8 + p)/2, (2 + 3)/2] = ((8 + p)/2, 5/2)</p><p>હવે x-યામોને સરખાવતા:</p><p>15/2 = (8 + p)/2</p><p>15 = 8 + p</p><p>p = 15 - 8 = 7</p><p>તેથી <strong>p = 7</strong>.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાંતરબાજુ ચતુષ્કોણમાં, સામસામેના યામનો સરવાળો સરખો હોય: 6 + 9 = 8 + p => 15 = 8 + p => p = 7.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "જો બિંદુઓ P(2, -3) અને Q(10, y) વચ્ચેનું અંતર 10 એકમ હોય, તો y ની કિંમતો શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અંતર સૂત્ર મુજબ, PQ² = 10² = 100</p><p>(10 - 2)² + (y - (-3))² = 100</p><p>(8)² + (y + 3)² = 100</p><p>64 + (y + 3)² = 100</p><p>(y + 3)² = 100 - 64 = 36</p><p>y + 3 = ±6</p><p>જો y + 3 = 6, તો <strong>y = 3</strong></p><p>જો y + 3 = -6, તો <strong>y = -9</strong></p><p>તેથી y ની કિંમતો 3 અથવા -9 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્ગમૂળ લેતી વખતે હંમેશા '+ અથવા -' બંને કિંમતો ધ્યાનમાં લેવી, નહિતર એક માર્ક કપાઈ શકે છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB 2022 Board Exam</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "ચકાસો કે (5, -2), (6, 4) અને (7, -2) એ સમદ્વિબાજુ ત્રિકોણનાં શિરોબિંદુઓ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે A(5, -2), B(6, 4) અને C(7, -2) છે.</p><p>AB² = (6 - 5)² + (4 - (-2))² = 1² + 6² = 1 + 36 = 37 => AB = √37</p><p>BC² = (7 - 6)² + (-2 - 4)² = 1² + (-6)² = 1 + 36 = 37 => BC = √37</p><p>AC² = (7 - 5)² + (-2 - (-2))² = 2² + 0² = 4 => AC = 2</p><p>અહીં AB = BC હોવાથી, આપેલ શિરોબિંદુઓ <strong>સમદ્વિબાજુ ત્રિકોણ</strong> બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો કોઈ પણ બે બાજુના માપ સરખા આવે તો તે સમદ્વિબાજુ ત્રિકોણ કહેવાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Q.4 Ex 7.1</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "x અને y વચ્ચે એવો સંબંધ મેળવો કે જેથી બિંદુ (x, y) એ બિંદુઓ (3, 6) અને (-3, 4) થી સમાન અંતરે હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે P(x, y), A(3, 6) અને B(-3, 4) છે. PA = PB હોવાથી PA² = PB².</p><p>(x - 3)² + (y - 6)² = (x - (-3))² + (y - 4)²</p><p>x² - 6x + 9 + y² - 12y + 36 = x² + 6x + 9 + y² - 8y + 16</p><p>-6x - 12y + 45 = 6x - 8y + 25</p><p>બધા પદો એક બાજુ લેતા: 12x + 4y - 20 = 0</p><p>4 વડે ભાગતા: <strong>3x + y - 5 = 0</strong> અથવા <strong>3x + y = 5</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવા દાખલામાં જવાબ હંમેશા x અને y ના રેખીય સમીકરણના સ્વરૂપમાં આવશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Most IMP for 2024-25</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "જો A(-2, -2) અને B(2, -4) હોય, જેથી AP = (3/7)AB થાય અને બિંદુ P એ રેખાખંડ AB પર આવેલ હોય, તો P ના યામ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં AP = (3/7)AB આપેલ છે. <br>તેથી PB = AB - AP = AB - (3/7)AB = (4/7)AB.</p><p>માટે, AP : PB = (3/7) : (4/7) = 3 : 4. એટલે કે m = 3, n = 4.</p><p>P ના યામ = [ (3(2) + 4(-2)) / (3 + 4), (3(-4) + 4(-2)) / (3 + 4) ]</p><p>P = [ (6 - 8)/7, (-12 - 8)/7 ] = <strong>(-2/7, -20/7)</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણોત્તર મેળવતી વખતે છેદને કુલ ભાગ તરીકે ગણવો (7 માંથી 3 ભાગ AP ના, તો બાકીના 4 ભાગ PB ના).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Exercise 7.2</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "AB એ વર્તુળનો વ્યાસ છે. તેનું કેન્દ્ર (2, -3) છે અને B બિંદુ (1, 4) છે, તો બિંદુ A ના યામ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે A ના યામ (x, y) છે. વર્તુળનું કેન્દ્ર O(2, -3) એ વ્યાસ AB નું મધ્યબિંદુ થશે.</p><p>મધ્યબિંદુના સૂત્ર મુજબ:</p><p>(2, -3) = [ (x + 1)/2, (y + 4)/2 ]</p><p>x-યામ સરખાવતા: 2 = (x + 1)/2 => 4 = x + 1 => <strong>x = 3</strong></p><p>y-યામ સરખાવતા: -3 = (y + 4)/2 => -6 = y + 4 => <strong>y = -10</strong></p><p>તેથી, બિંદુ A ના યામ <strong>(3, -10)</strong> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્યબિંદુના યામને 2 વડે ગુણી તેમાંથી સામેનું બિંદુ બાદ કરવાથી સીધો જવાબ મળે. (2*2 - 1 = 3) અને (-3*2 - 4 = -10).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept</p></div>"
+    }
+  ]
+}
