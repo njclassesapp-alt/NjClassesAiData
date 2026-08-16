@@ -10,17 +10,41 @@ with open('system/progress_tracker.json', 'r') as f:
 std = tracker['std']
 subject = tracker['subject']
 marks = tracker['current_marks']
-chapter = tracker['current_chapter']
+chapter_num = tracker['current_chapter']
 
-print(f"Generating {marks} Marks questions for Std {std} {subject} Chapter {chapter}...", flush=True)
+# --- નવો ઉમેરો: ધોરણ 10 ગણિતના નવા ઘટાડેલા સિલેબસ (NCERT 2024+) નું લિસ્ટ ---
+std10_maths_chapters = {
+    1: "વાસ્તવિક સંખ્યાઓ",
+    2: "બહુપદીઓ",
+    3: "દ્વિચલ સુરેખ સમીકરણયુગ્મ",
+    4: "દ્વિઘાત સમીકરણ",
+    5: "સમાંતર શ્રેણી",
+    6: "ત્રિકોણ",
+    7: "યામ ભૂમિતિ",
+    8: "ત્રિકોણમિતિનો પરિચય",
+    9: "ત્રિકોણમિતિનો ઉપયોગ",
+    10: "વર્તુળ",
+    11: "વર્તુળ સંબંધિત ક્ષેત્રફળ",
+    12: "પૃષ્ઠફળ અને ઘનફળ",
+    13: "આંકડાશાસ્ત્ર",
+    14: "સંભાવના"
+}
 
-# નવો પ્રોમ્પ્ટ: ૧૦ થી વધુ પ્રશ્નો બનાવવા માટેની સૂચના ઉમેરી છે
+chapter_name = ""
+if int(std) == 10 and subject.lower() == "maths":
+    chapter_name = std10_maths_chapters.get(chapter_num, "અન્ય પ્રકરણ")
+
+print(f"Generating {marks} Marks questions for Std {std} {subject} Chapter {chapter_num} ({chapter_name})...", flush=True)
+
+# પ્રોમ્પ્ટમાં હવે ચેપ્ટરનો નંબર અને નામ બંને જશે, જેથી AI ક્યારેય કન્ફ્યુઝ ન થાય
 prompt = f"""
 તમે ગુજરાત બોર્ડ (GSEB) ના એક્સપર્ટ શિક્ષક છો. 
-તમારે 2024 પછીના નવા ઘટાડેલા NCERT સિલેબસ મુજબ ધોરણ {std}, વિષય: {subject}, પ્રકરણ: {chapter} માંથી {marks} ગુણના પ્રશ્નો બનાવવાના છે.
+તમારે 2024 પછીના નવા ઘટાડેલા NCERT સિલેબસ મુજબ ધોરણ {std}, વિષય: {subject}, પ્રકરણ: {chapter_num} ({chapter_name}) માંથી {marks} ગુણના પ્રશ્નો બનાવવાના છે.
+
+ખાસ નોંધ: પ્રશ્નો ફક્ત અને ફક્ત '{chapter_name}' (પ્રકરણ {chapter_num}) ના નવા સિલેબસ આધારિત જ હોવા જોઈએ. ભૂલથી પણ જૂના સિલેબસના પ્રકરણના પ્રશ્નો મિક્સ કરવા નહિ.
 
 પ્રશ્નોના લેવલ અને માર્ક્સ માટેના ખાસ નિયમો (SMART WORK & MAX QUESTIONS):
-1. પ્રશ્નોની સંખ્યા: ઓછામાં ઓછા 10 પ્રશ્નો બનાવવા. પરંતુ જો આ પ્રકરણ મોટું હોય અને તેમાં વધુ અગત્યના પ્રશ્નો પૂછાઈ શકતા હોય, તો 10 થી વધુ (જેટલા શક્ય હોય તેટલા મેક્સિમમ) પ્રશ્નો બનાવવાની પૂરી કોશિશ કરવી.
+1. પ્રશ્નોની સંખ્યા: ઓછામાં ઓછા 10 પ્રશ્નો બનાવવા. જો આ પ્રકરણ મોટું હોય તો 10 થી વધુ (મેક્સિમમ) પ્રશ્નો બનાવવાની પૂરી કોશિશ કરવી.
 2. લંબાઈ અને કાઠિન્ય: પ્રશ્નોનું લેવલ બોર્ડના પેપરો અને ગાલા અસાઇનમેન્ટ મુજબનું રાખવું.
 3. સ્માર્ટ વર્ક: જો આ પ્રકરણમાંથી {marks} ગુણનો મોટો પ્રશ્ન ન બની શકતો હોય, તો 2 નાના પ્રશ્નોને (i) અને (ii) તરીકે ભેગા કરીને એક મોટો પ્રશ્ન બનાવવો.
 
@@ -31,8 +55,8 @@ prompt = f"""
 
 ફોર્મેટ (આ જ માળખું વાપરવું):
 {{
-  "chapterName": "પ્રકરણ {chapter}",
-  "chapterTitle": "અહીં પ્રકરણનું સાચું નામ લખવું (દા.ત. વાસ્તવિક સંખ્યાઓ)",
+  "chapterName": "પ્રકરણ {chapter_num}",
+  "chapterTitle": "{chapter_name}",
   "qa_list": [
     {{
       "questionNumber": "પ્રશ્ન 1",
@@ -65,25 +89,16 @@ if not valid_models:
 valid_models.sort(key=lambda x: ('flash' not in x.lower(), x))
 output_data = ""
 
-# ડેટા જનરેટ કરવો
 for m in valid_models[:3]:
     try:
-        # flush=True થી આ મેસેજ તરત જ લાઈવ દેખાશે (Pending status)
         print(f"⏳ Pending: {m} મોડલ દ્વારા ડેટા બની રહ્યો છે, કૃપા કરીને રાહ જુઓ...", flush=True)
-        
-        response = client.models.generate_content(
-            model=m,
-            contents=prompt,
-        )
-        
+        response = client.models.generate_content(model=m, contents=prompt)
         raw_output = response.text.strip()
         
         if "{" in raw_output and "}" in raw_output:
             raw_output = raw_output[raw_output.find("{") : raw_output.rfind("}") + 1]
             
         output_data = raw_output.strip()
-        
-        # આ મેસેજ ડેટા બની ગયા પછી જ દેખાશે
         print(f"✅ Success! ડેટા સફળતાપૂર્વક બની ગયો છે.", flush=True)
         break
     except Exception as e:
@@ -102,9 +117,9 @@ mode = 'a' if os.path.exists(file_path) else 'w'
 with open(file_path, mode, encoding='utf-8') as f:
     if mode == 'w':
         f.write(f"var Std{std}_{subject}_{marks}Marks = {{\n")
-        f.write(f'"{chapter}": ' + output_data + '\n')
+        f.write(f'"{chapter_num}": ' + output_data + '\n')
     else:
-        f.write(f',\n"{chapter}": ' + output_data + '\n')
+        f.write(f',\n"{chapter_num}": ' + output_data + '\n')
 
 # ટ્રેકર અપડેટ કરવું
 tracker['current_chapter'] += 1 
@@ -112,4 +127,3 @@ with open('system/progress_tracker.json', 'w') as f:
     json.dump(tracker, f, indent=4)
 
 print("Task Completed Successfully! Saved for NJ Classes.", flush=True)
-
