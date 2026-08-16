@@ -7,12 +7,6 @@ client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 with open('system/progress_tracker.json', 'r') as f:
     tracker = json.load(f)
 
-std = tracker['std']
-subject = tracker['subject']
-marks = tracker['current_marks']
-chapter_num = tracker['current_chapter']
-
-# ધોરણ 10 ગણિતના નવા ઘટાડેલા સિલેબસ (NCERT 2024+) નું લિસ્ટ
 std10_maths_chapters = {
     1: "વાસ્તવિક સંખ્યાઓ",
     2: "બહુપદીઓ",
@@ -30,28 +24,73 @@ std10_maths_chapters = {
     14: "સંભાવના"
 }
 
-chapter_name = ""
-max_chapters = len(std10_maths_chapters) # કુલ 14 ચેપ્ટર
+# ---------------------------------------------------------
+# નવો ઉમેરો: બોર્ડની બ્લુપ્રિન્ટ (કયા પ્રકરણમાંથી કેટલા ગુણના પ્રશ્નો પૂછાય છે)
+# (તમે તમારી અનુકૂળતા મુજબ આમાં ફેરફાર કરી શકો છો)
+# ---------------------------------------------------------
+blueprint = {
+    1: [2],                # પ્રકરણ 1 માંથી માત્ર 2 ગુણના
+    2: [2, 3],             # પ્રકરણ 2 માંથી 2 અને 3 ગુણના
+    3: [2, 3, 4],
+    4: [2, 3, 4],
+    5: [2, 3, 4],
+    6: [2, 3, 4],          # પ્રમેય વગેરે
+    7: [2, 3],
+    8: [2, 3, 4],
+    9: [3, 4],
+    10: [2, 3, 4],         # પ્રમેય વગેરે
+    11: [2, 3],
+    12: [3, 4],
+    13: [2, 3, 4],
+    14: [2, 3, 4]             # સંભાવનામાંથી 4 ગુણના ન પૂછાય 
+}
 
-if int(std) == 10 and subject.lower() == "maths":
-    chapter_name = std10_maths_chapters.get(chapter_num, "અન્ય પ્રકરણ")
+# --- ઓટો-સ્કીપ લોજીક ---
+found_valid_chapter = False
+while tracker['current_marks'] >= 1 and not found_valid_chapter:
+    current_ch = tracker['current_chapter']
+    current_mk = tracker['current_marks']
+    
+    # જો આ ચેપ્ટરમાંથી આ માર્કના પ્રશ્નો પૂછાતા હોય તો લૂપ તોડી નાખો
+    if current_mk in blueprint.get(current_ch, [1, 2, 3, 4]):
+        found_valid_chapter = True
+    else:
+        # નહિ તો સ્કીપ કરો અને આગળ વધો
+        print(f"⏭️ સ્કીપિંગ: પ્રકરણ {current_ch} માંથી {current_mk} ગુણના પ્રશ્નો પૂછાતા નથી.", flush=True)
+        tracker['current_chapter'] += 1
+        
+        if tracker['current_chapter'] > len(std10_maths_chapters):
+            tracker['current_chapter'] = 1
+            tracker['current_marks'] -= 1
+
+if tracker['current_marks'] < 1:
+    print("બધા જ માર્ક્સ અને પ્રકરણો પૂરા થઈ ગયા છે!")
+    tracker['status'] = "completed"
+    with open('system/progress_tracker.json', 'w') as f:
+        json.dump(tracker, f, indent=4)
+    exit(0)
+
+# ફાઇનલ નક્કી થયેલા માર્ક્સ અને ચેપ્ટર
+std = tracker['std']
+subject = tracker['subject']
+marks = tracker['current_marks']
+chapter_num = tracker['current_chapter']
+chapter_name = std10_maths_chapters.get(chapter_num, "અન્ય પ્રકરણ")
 
 print(f"Generating {marks} Marks questions for Std {std} {subject} Chapter {chapter_num} ({chapter_name})...", flush=True)
 
+# પ્રોમ્પ્ટમાં લેવલ મેન્ટેન કરવા માટેની કડક સૂચના
 prompt = f"""
 તમે ગુજરાત બોર્ડ (GSEB) ના એક્સપર્ટ શિક્ષક છો. 
 તમારે 2024 પછીના નવા ઘટાડેલા NCERT સિલેબસ મુજબ ધોરણ {std}, વિષય: {subject}, પ્રકરણ: {chapter_num} ({chapter_name}) માંથી {marks} ગુણના પ્રશ્નો બનાવવાના છે.
 
-ખાસ નોંધ: પ્રશ્નો ફક્ત અને ફક્ત '{chapter_name}' (પ્રકરણ {chapter_num}) ના નવા સિલેબસ આધારિત જ હોવા જોઈએ. ભૂલથી પણ જૂના સિલેબસના પ્રકરણના પ્રશ્નો મિક્સ કરવા નહિ.
+ખાસ નોંધ (STRICT QUALITY CONTROL):
+1. લેવલ અને લંબાઈ: પ્રશ્નોનું લેવલ બરાબર {marks} ગુણને અનુરૂપ જ હોવું જોઈએ. જો {marks} ગુણ 4 હોય, તો માત્ર લાંબા દાખલા, પ્રમેય કે કઠિન પ્રશ્નો જ લેવા. જો 3 ગુણ હોય, તો મધ્યમ લંબાઈના દાખલા લેવા. પ્રશ્નોનું લેવલ મિક્સ ન થવું જોઈએ જેથી ડેટાબેઝમાં એક સરખા પ્રશ્નો રીપીટ ન થાય.
+2. પ્રશ્નોની સંખ્યા: ઓછામાં ઓછા 10 પ્રશ્નો બનાવવા. જો આ પ્રકરણ મોટું હોય તો 10 થી વધુ (મેક્સિમમ) પ્રશ્નો બનાવવાની પૂરી કોશિશ કરવી.
+3. સ્માર્ટ વર્ક: જો {marks} ગુણનો મોટો પ્રશ્ન સીધો ન બની શકતો હોય, તો 2 નાના પ્રશ્નોને (i) અને (ii) તરીકે ભેગા કરીને એક મોટો પ્રશ્ન બનાવવો.
 
-પ્રશ્નોના લેવલ અને માર્ક્સ માટેના ખાસ નિયમો (SMART WORK & MAX QUESTIONS):
-1. પ્રશ્નોની સંખ્યા: ઓછામાં ઓછા 10 પ્રશ્નો બનાવવા. જો આ પ્રકરણ મોટું હોય તો 10 થી વધુ (મેક્સિમમ) પ્રશ્નો બનાવવાની પૂરી કોશિશ કરવી.
-2. લંબાઈ અને કાઠિન્ય: પ્રશ્નોનું લેવલ બોર્ડના પેપરો અને ગાલા અસાઇનમેન્ટ મુજબનું રાખવું. {marks} ગુણના પ્રશ્નની લંબાઈ અને ગણતરી બરાબર {marks} ગુણ જેટલી જ હોવી જોઈએ.
-3. સ્માર્ટ વર્ક: જો આ પ્રકરણમાંથી {marks} ગુણનો મોટો પ્રશ્ન ન બની શકતો હોય, તો 2 નાના પ્રશ્નોને (i) અને (ii) તરીકે ભેગા કરીને એક મોટો પ્રશ્ન બનાવવો.
-
-કડક નિયમો (STRICT RULES):
+કડક નિયમો (STRICT FORMATTING):
 - આઉટપુટમાં કોઈ પણ પ્રકારનો વેરીએબલ (var, let, const) બનાવવાનો નથી.
-- કોઈ પણ પ્રકારની કોમેન્ટ (// કે /** */) લખવાની નથી.
 - માત્ર ને માત્ર નીચે આપેલા JSON Object ફોર્મેટમાં જ ડેટા આપવો.
 
 ફોર્મેટ (આ જ માળખું વાપરવું):
@@ -67,8 +106,6 @@ prompt = f"""
     }}
   ]
 }}
-
-ફક્ત આ જ ફોર્મેટમાં ડેટા આપવો. શરૂઆતમાં કે અંતમાં કોઈ વધારાનું લખાણ ન હોવું જોઈએ.
 """
 
 print("Searching for live text models from your API account...", flush=True)
@@ -92,7 +129,7 @@ output_data = ""
 
 for m in valid_models[:3]:
     try:
-        print(f"⏳ Pending: {m} મોડલ દ્વારા ડેટા બની રહ્યો છે, કૃપા કરીને રાહ જુઓ...", flush=True)
+        print(f"⏳ Pending: {m} મોડલ દ્વારા ડેટા બની રહ્યો છે...", flush=True)
         response = client.models.generate_content(model=m, contents=prompt)
         raw_output = response.text.strip()
         
@@ -122,19 +159,13 @@ with open(file_path, mode, encoding='utf-8') as f:
     else:
         f.write(f',\n"{chapter_num}": ' + output_data + '\n')
 
-# ---------------------------------------------------------
-# નવો ઉમેરો: સ્માર્ટ લૂપ સિસ્ટમ (માર્ક્સ અને ચેપ્ટર ઓટોમેટિક રીસેટ)
-# ---------------------------------------------------------
+# ટ્રેકર અપડેટ કરવું (આગળ વધારવું)
 tracker['current_chapter'] += 1 
-
-if tracker['current_chapter'] > max_chapters:  # જો 14 મુ ચેપ્ટર પૂરું થઈ જાય તો
-    tracker['current_chapter'] = 1             # પાછું ચેપ્ટર 1 કરી દો
-    tracker['current_marks'] -= 1              # માર્ક્સ 1 ઘટાડી દો (દા.ત. 4 ના 3)
-    
-    if tracker['current_marks'] < 1:           # જો 1 માર્કના પણ પૂરા થઈ જાય તો
-        tracker['status'] = "completed"        # આખો વિષય પૂરો!
+if tracker['current_chapter'] > len(std10_maths_chapters):
+    tracker['current_chapter'] = 1
+    tracker['current_marks'] -= 1
 
 with open('system/progress_tracker.json', 'w') as f:
     json.dump(tracker, f, indent=4)
 
-print("Task Completed Successfully! Saved for NJ Classes.", flush=True)
+print("Task Completed Successfully! Blueprint Logic Applied.", flush=True)
