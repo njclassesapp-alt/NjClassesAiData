@@ -199,3 +199,70 @@ var Std10_Maths_3Marks = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "સમાંતર શ્રેણી",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "એક સમાંતર શ્રેણીમાં a = 5, d = 3 અને aₙ = 50 આપેલ હોય, તો n અને Sₙ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં, a = 5, d = 3, aₙ = 50</p><p>1. n શોધવા માટે સૂત્ર: aₙ = a + (n - 1)d<br>50 = 5 + (n - 1)3<br>50 - 5 = (n - 1)3<br>45 = (n - 1)3<br>15 = n - 1<br><strong>n = 16</strong></p><p>2. Sₙ શોધવા માટે સૂત્ર: Sₙ = n/2 [a + aₙ]<br>S₁₆ = 16/2 [5 + 50]<br>S₁₆ = 8 [55]<br><strong>S₁₆ = 440</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે છેલ્લું પદ (l) આપેલું હોય ત્યારે હંમેશા Sₙ = n/2 (a + l) સૂત્ર વાપરવું, જેનાથી ગણતરી ઝડપી બનશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB NCERT Exercise 5.3</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "સમાંતર શ્રેણીનું 11મું પદ 38 અને 16મું પદ 73 હોય, તો તેનું 31મું પદ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં, a₁₁ = 38 ⇒ a + 10d = 38 ---(1)<br>અને a₁₆ = 73 ⇒ a + 15d = 73 ---(2)</p><p>સમીકરણ (2) માંથી (1) બાદ કરતા:<br>(a + 15d) - (a + 10d) = 73 - 38<br>5d = 35<br><strong>d = 7</strong></p><p>d ની કિંમત સમીકરણ (1) માં મૂકતા:<br>a + 10(7) = 38<br>a + 70 = 38<br>a = 38 - 70 = -32</p><p>હવે, 31મું પદ a₃₁ = a + 30d<br>a₃₁ = -32 + 30(7)<br>a₃₁ = -32 + 210 = <strong>178</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: d શોધવા માટે સીધું સૂત્ર: d = (aₘ - aₙ) / (m - n). અહીં d = (73-38)/(16-11) = 35/5 = 7.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "6 વડે વિભાજ્ય પ્રથમ 40 ધન પૂર્ણાંકોનો સરવાળો શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>6 વડે વિભાજ્ય ધન પૂર્ણાંકોની શ્રેણી: 6, 12, 18, 24, ...<br>અહીં, a = 6, d = 6, n = 40</p><p>સરવાળાનું સૂત્ર: Sₙ = n/2 [2a + (n - 1)d]<br>S₄₀ = 40/2 [2(6) + (40 - 1)6]<br>S₄₀ = 20 [12 + 39(6)]<br>S₄₀ = 20 [12 + 234]<br>S₄₀ = 20 [246]<br><strong>S₄₀ = 4920</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવા દાખલામાં Sₙ = 6 × [n(n+1)/2] પણ કરી શકાય. 6 × (40 × 41 / 2) = 3 × 40 × 41 = 4920.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise 5.3</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "10 અને 250 વચ્ચે 4 ના કેટલા ગુણિત હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>10 અને 250 વચ્ચે 4 ના ગુણિતોની શ્રેણી: 12, 16, 20, ..., 248<br>અહીં, a = 12, d = 4, aₙ (છેલ્લું પદ) = 248</p><p>પદોની સંખ્યા n શોધવા માટે:<br>aₙ = a + (n - 1)d<br>248 = 12 + (n - 1)4<br>248 - 12 = (n - 1)4<br>236 = (n - 1)4<br>236 / 4 = n - 1<br>59 = n - 1<br><strong>n = 60</strong></p><p>આમ, 10 અને 250 વચ્ચે 4 ના 60 ગુણિત હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લી સંખ્યા અને પહેલી સંખ્યાનો તફાવત લો, તેને d વડે ભાગો અને 1 ઉમેરો. (248-12)/4 + 1 = 59 + 1 = 60.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Board Most IMP Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "એક સમાંતર શ્રેણીનું બીજું અને ત્રીજું પદ અનુક્રમે 14 અને 18 હોય, તો તેના પ્રથમ 51 પદોનો સરવાળો શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં, a₂ = 14 અને a₃ = 18<br>સામાન્ય તફાવત d = a₃ - a₂ = 18 - 14 = 4<br>પ્રથમ પદ a = a₂ - d = 14 - 4 = 10</p><p>હવે, n = 51 પદોનો સરવાળો શોધવો છે:<br>Sₙ = n/2 [2a + (n - 1)d]<br>S₅₁ = 51/2 [2(10) + (51 - 1)4]<br>S₅₁ = 51/2 [20 + 50(4)]<br>S₅₁ = 51/2 [20 + 200]<br>S₅₁ = 51/2 [220]<br>S₅₁ = 51 × 110 = <strong>5610</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 51 × 11 કરવા માટે 5 અને 1 ની વચ્ચે (5+1=6) મૂકી દો, એટલે 561 અને પાછળ મીંડું = 5610.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Q.9</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "જો સમાંતર શ્રેણીના પ્રથમ 7 પદોનો સરવાળો 49 હોય અને 17 પદોનો સરવાળો 289 હોય, તો તેના પ્રથમ n પદોનો સરવાળો શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>S₇ = 49 ⇒ 7/2 [2a + 6d] = 49 ⇒ a + 3d = 7 ---(1)<br>S₁₇ = 289 ⇒ 17/2 [2a + 16d] = 289 ⇒ a + 8d = 17 ---(2)</p><p>સમીકરણ (2) - (1) કરતા:<br>5d = 10 ⇒ <strong>d = 2</strong><br>d ની કિંમત (1) માં મૂકતા: a + 3(2) = 7 ⇒ <strong>a = 1</strong></p><p>n પદોનો સરવાળો:<br>Sₙ = n/2 [2(1) + (n - 1)2]<br>Sₙ = n/2 [2 + 2n - 2]<br>Sₙ = n/2 [2n] = <strong>n²</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અહીં જુઓ 7 નો વર્ગ 49 છે અને 17 નો વર્ગ 289 છે. જો શ્રેણી એકી સંખ્યાની હોય (1, 3, 5...), તો n પદોનો સરવાળો હંમેશા n² જ થાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise 5.3 (IMP)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "(i) 0 અને 50 વચ્ચેના અયુગ્મ પૂર્ણાંકોનો સરવાળો શોધો. <br>(ii) સમાંતર શ્રેણી 21, 18, 15, ... નું કયું પદ -81 હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ (i):</strong> 0 થી 50 વચ્ચેની અયુગ્મ સંખ્યાઓ: 1, 3, 5, ..., 49<br>અહીં a=1, l=49, n=25. <br>S₂₅ = n/2 (a + l) = 25/2 (1 + 49) = 25/2 (50) = 25 × 25 = <strong>625</strong>.</p><p><strong>ઉકેલ (ii):</strong> a = 21, d = 18 - 21 = -3, aₙ = -81<br>-81 = 21 + (n - 1)(-3)<br>-102 = (n - 1)(-3)<br>34 = n - 1 ⇒ <strong>n = 35</strong>.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અયુગ્મ સંખ્યાઓનો સરવાળો હંમેશા (સંખ્યા)² થાય. 0-50 માં 25 અયુગ્મ સંખ્યા હોય, માટે 25² = 625.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Mix Concept Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "ત્રણ અંકની કેટલી સંખ્યાઓ 7 વડે વિભાજ્ય હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ત્રણ અંકની 7 વડે વિભાજ્ય સંખ્યાઓની શ્રેણી:<br>પ્રથમ સંખ્યા = 105, બીજી = 112, ..., છેલ્લી સંખ્યા = 994<br>અહીં, a = 105, d = 7, aₙ = 994</p><p>સૂત્ર: aₙ = a + (n - 1)d<br>994 = 105 + (n - 1)7<br>994 - 105 = (n - 1)7<br>889 = (n - 1)7<br>889 / 7 = n - 1<br>127 = n - 1<br><strong>n = 128</strong></p><p>આમ, ત્રણ અંકની 128 સંખ્યાઓ 7 વડે વિભાજ્ય હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 999/7 અને 100/7 કરો. ભાગાફળનો તફાવત શોધો. 142 - 14 = 128. (આ રીત માત્ર MCQ માટે વાપરવી).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Standard NCERT IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "એક સમાંતર શ્રેણીમાં a = 7, a₁₃ = 35 આપેલ હોય, તો d અને S₁₃ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>1. d શોધવા માટે:<br>a₁₃ = a + 12d<br>35 = 7 + 12d<br>28 = 12d<br>d = 28 / 12 = <strong>7/3</strong></p><p>2. S₁₃ શોધવા માટે:<br>S₁₃ = n/2 [a + a₁₃]<br>S₁₃ = 13/2 [7 + 35]<br>S₁₃ = 13/2 [42]<br>S₁₃ = 13 [21]<br><strong>S₁₃ = 273</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અપૂર્ણાંક d જોઈને ગભરાવું નહીં, સરવાળાના સૂત્રમાં કિંમત મૂકતા તે ઘણીવાર ઉડી જશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise 5.3 Q.3</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "જો સમાંતર શ્રેણીના પ્રથમ n પદોનો સરવાળો Sₙ = 4n - n² હોય, તો તેનું પ્રથમ પદ કયું હશે? પ્રથમ બે પદોનો સરવાળો કેટલો હશે? બીજું પદ કયું હશે? તે જ રીતે ત્રીજું અને દસમું પદ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>Sₙ = 4n - n²<br>1. પ્રથમ પદ a₁ = S₁ = 4(1) - (1)² = 4 - 1 = <strong>3</strong><br>2. પ્રથમ બે પદોનો સરવાળો S₂ = 4(2) - (2)² = 8 - 4 = <strong>4</strong><br>3. બીજું પદ a₂ = S₂ - S₁ = 4 - 3 = <strong>1</strong><br>4. સામાન્ય તફાવત d = a₂ - a₁ = 1 - 3 = -2<br>5. ત્રીજું પદ a₃ = a + 2d = 3 + 2(-2) = 3 - 4 = <strong>-1</strong><br>6. દસમું પદ a₁₀ = a + 9d = 3 + 9(-2) = 3 - 18 = <strong>-15</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: aₙ શોધવા માટે સીધું સૂત્ર aₙ = Sₙ - Sₙ₋₁ વાપરી શકાય. આ પ્રશ્ન પરીક્ષા માટે મોસ્ટ IMP છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Exercise 5.3 Q.11</p></div>"
+    }
+  ]
+}
