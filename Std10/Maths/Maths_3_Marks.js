@@ -467,3 +467,70 @@ var Std10_Maths_3Marks = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "ત્રિકોણમિતિનો ઉપયોગ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "વાવાઝોડાને કારણે એક ઝાડ એવી રીતે ભાંગી પડે છે કે જેથી તેની ટોચ જમીન સાથે 30° ના માપનો ખૂણો બનાવે તે રીતે જમીનને સ્પર્શે છે. ઝાડની જમીનને સ્પર્શતી ટોચ અને ઝાડના થડ વચ્ચેનું અંતર 8 મીટર હોય, તો ઝાડની ઊંચાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે AB ઝાડનો ભાગ છે જે ઉભો છે અને AC એ ભાંગેલો ભાગ છે જે જમીનને સ્પર્શે છે. અહીં BC = 8 મીટર અને ∠ACB = 30° છે.</p><ol><li>∆ABC માં, tan 30° = AB / BC => 1/√3 = AB / 8 => AB = 8/√3 મીટર.</li><li>તે જ રીતે, cos 30° = BC / AC => √3/2 = 8 / AC => AC = 16/√3 મીટર.</li><li>ઝાડની કુલ ઊંચાઈ = AB + AC = 8/√3 + 16/√3 = 24/√3 = 8√3 મીટર.</li></ol><p>આમ, ઝાડની ઊંચાઈ 8√3 મીટર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે ખૂણો 30° હોય, ત્યારે સામેની બાજુ પાસેની બાજુ કરતા 1/√3 ગણી હોય અને કર્ણ બમણો હોય. કુલ ઊંચાઈ = (પાસેની બાજુ / √3) + (2 × પાસેની બાજુ / √3).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "એક ટાવરના પાયાથી 30 મીટર દૂર રહેલા જમીન પરના એક બિંદુથી ટાવરની ટોચના ઉત્સેધકોણનું માપ 30° છે. (i) ટાવરની ઊંચાઈ શોધો. (ii) જો તે જ બિંદુથી ઉત્સેધકોણ 60° કરવો હોય, તો ટાવરની ઊંચાઈમાં કેટલો વધારો કરવો પડે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>(i) ધારો કે ટાવરની ઊંચાઈ AB છે. BC = 30 મીટર અને ∠C = 30°.<br>tan 30° = AB/BC => 1/√3 = AB/30 => AB = 30/√3 = 10√3 મીટર.<br>(ii) જો નવો ખૂણો 60° હોય, તો નવી ઊંચાઈ H માટે:<br>tan 60° = H/30 => √3 = H/30 => H = 30√3 મીટર.<br>ઊંચાઈમાં વધારો = 30√3 - 10√3 = 20√3 મીટર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 30° અને 60° ના કિસ્સામાં ઊંચાઈનો તફાવત હંમેશા પાયાના અંતરના 2/3 × √3 જેટલો થાય છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "1.5 મીટર ઊંચાઈવાળી એક વ્યક્તિ એક ચિમનીથી 28.5 મીટર દૂર ઉભેલ છે. તેની આંખથી ચિમનીની ટોચના ઉત્સેધકોણનું માપ 45° છે. ચિમનીની ઊંચાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે AB ચિમની છે અને CD વ્યક્તિ છે. CD = 1.5 મીટર.<br>વ્યક્તિ અને ચિમની વચ્ચેનું અંતર BD = 28.5 મીટર.<br>અહીં એક લંબચોરસ BDEC બનશે, જેથી DE = BD = 28.5 મીટર અને BE = CD = 1.5 મીટર.<br>કાટકોણ ∆AEC માં, ∠ACE = 45°.<br>tan 45° = AE / CE => 1 = AE / 28.5 => AE = 28.5 મીટર.<br>ચિમનીની કુલ ઊંચાઈ AB = AE + BE = 28.5 + 1.5 = 30 મીટર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે ઉત્સેધકોણ 45° હોય, ત્યારે પાયો અને સામેની બાજુ સરખા હોય છે. માત્ર તેમાં વ્યક્તિની ઊંચાઈ ઉમેરવી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "એક ટાવરની ઊંચાઈ 50 મીટર છે. ટાવરની ટોચથી એક મકાનના પાયાનો અવસેધકોણ 60° છે અને મકાનની ટોચથી ટાવરના પાયાનો ઉત્સેધકોણ 30° છે. મકાનની ઊંચાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે AB ટાવર (50m) અને CD મકાન છે. પાયા વચ્ચેનું અંતર BD છે.<br>∆ABD માં, tan 60° = AB / BD => √3 = 50 / BD => BD = 50/√3 મીટર.<br>હવે ∆CDB માં, tan 30° = CD / BD<br>1/√3 = CD / (50/√3) => CD = 50/3 = 16.67 મીટર.<br>મકાનની ઊંચાઈ 16.67 મીટર (અથવા 50/3 મીટર) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે પદાર્થો વચ્ચેના અંતરનો ઉપયોગ કરીને પાયાને સામાન્ય ગણીને દાખલો ગણવો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "એક 80 મીટર પહોળા માર્ગની બંને બાજુએ સમાન ઊંચાઈના બે સ્તંભ શિરોલંબ સ્થિતિમાં છે. માર્ગ પરના કોઈ એક બિંદુએથી બંને સ્તંભની ટોચના ઉત્સેધકોણના માપ અનુક્રમે 60° અને 30° જણાય છે. સ્તંભની ઊંચાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે સ્તંભની ઊંચાઈ h છે. પાયા વચ્ચેનું અંતર 80m છે. ધારો કે એક બિંદુનું એક સ્તંભથી અંતર x છે, તો બીજાથી (80-x) થાય.<br>સ્તંભ 1 માટે: tan 60° = h/x => h = x√3 --- (1)<br>સ્તંભ 2 માટે: tan 30° = h/(80-x) => h = (80-x)/√3 --- (2)<br>સમીકરણ (1) અને (2) સરખાવતા: x√3 = (80-x)/√3<br>3x = 80 - x => 4x = 80 => x = 20 મીટર.<br>ઊંચાઈ h = 20√3 મીટર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાન ઊંચાઈના કિસ્સામાં h = [d × tanθ1 × tanθ2] / [tanθ1 + tanθ2] સૂત્ર વાપરી શકાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "7 મીટર ઊંચી ઈમારત પરથી એક કેબલ ટાવરની ટોચનો ઉત્સેધકોણ 60° અને તેના પાયાનો અવસેધકોણ 45° જણાય છે. ટાવરની ઊંચાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે AB ઈમારત (7m) અને CD કેબલ ટાવર છે.<br>ઈમારતની ટોચ A થી ટાવરના પાયા D નો અવસેધકોણ 45° છે, તેથી ઈમારત અને ટાવર વચ્ચેનું અંતર પણ 7m થશે (કારણ કે tan 45° = 1).<br>હવે, ટાવરનો જે ભાગ ઈમારતથી ઉપર છે તેને CE કહીએ. ∆ACE માં, ∠A = 60° અને AE = 7m.<br>tan 60° = CE / AE => √3 = CE / 7 => CE = 7√3 મીટર.<br>ટાવરની કુલ ઊંચાઈ = CE + ED = 7√3 + 7 = 7(√3 + 1) મીટર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે અવસેધકોણ 45° હોય, ત્યારે ઈમારતની ઊંચાઈ જ પાયાનું અંતર બને છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "એક પતંગ જમીનથી 60 મીટરની ઊંચાઈ પર ઉડી રહ્યો છે. પતંગની દોરીનો એક છેડો ક્ષણભર માટે જમીન પરના એક બિંદુએ બાંધેલો છે. આ સ્થિતિમાં દોરીનો જમીન સાથેનો ઢાળ 60° છે. જો દોરીમાં કોઈ ઢીલ નથી તેમ માની લેવામાં આવે, તો દોરીની લંબાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં પતંગની ઊંચાઈ (સામેની બાજુ) = 60 મીટર. ખૂણો θ = 60°.<br>આપણે દોરીની લંબાઈ (કર્ણ) શોધવાની છે.<br>sin θ = સામેની બાજુ / કર્ણ<br>sin 60° = 60 / L<br>√3/2 = 60 / L<br>L = (60 × 2) / √3 = 120 / √3 = 40√3 મીટર.<br>દોરીની લંબાઈ 40√3 મીટર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સામેની બાજુ આપી હોય અને કર્ણ શોધવો હોય ત્યારે હંમેશા sin ગુણોત્તર વાપરવો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "નદી પર રહેલા પુલના એક બિંદુથી નદીના બંને કિનારાના અવસેધકોણના માપ અનુક્રમે 30° અને 45° માલૂમ પડે છે. જો પુલની નદીથી ઊંચાઈ 3 મીટર હોય, તો નદીની પહોળાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે P પુલ પરનું બિંદુ છે અને તેની ઊંચાઈ PO = 3m છે. A અને B બે કિનારા છે.<br>∆POA માં, tan 30° = PO / OA => 1/√3 = 3 / OA => OA = 3√3 મીટર.<br>∆POB માં, tan 45° = PO / OB => 1 = 3 / OB => OB = 3 મીટર.<br>નદીની કુલ પહોળાઈ AB = OA + OB = 3√3 + 3 = 3(√3 + 1) મીટર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરુદ્ધ દિશામાં ખૂણા હોય ત્યારે પાયાના ટુકડાઓનો સરવાળો કરવાથી કુલ અંતર મળે છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "સમુદ્ર સપાટીથી 75 મીટર ઊંચી દીવાદાંડી પરથી જોતા, બે વહાણના અવસેધકોણના માપ 30° અને 45° જણાય છે. જો એક વહાણ બીજા વહાણની બરાબર પાછળ હોય અને બંને દીવાદાંડીની એક જ બાજુએ આવેલા હોય, તો બે વહાણ વચ્ચેનું અંતર શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે AB દીવાદાંડી (75m) છે. C અને D બે વહાણ છે.<br>∆ABC માં (ખૂણો 45°), tan 45° = 75 / BC => BC = 75 મીટર.<br>∆ABD માં (ખૂણો 30°), tan 30° = 75 / BD => 1/√3 = 75 / BD => BD = 75√3 મીટર.<br>બે વહાણ વચ્ચેનું અંતર CD = BD - BC = 75√3 - 75 = 75(√3 - 1) મીટર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક જ બાજુએ બે બિંદુ હોય ત્યારે અંતર d = h(cotθ1 - cotθ2) સૂત્રથી પણ શોધી શકાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "જમીન પરના એક બિંદુ P થી એક 10 મીટર ઊંચી ઈમારતની ટોચનો ઉત્સેધકોણ 30° છે. ઈમારતની ટોચ પર એક ધ્વજદંડ ફરકાવવામાં આવ્યો છે અને બિંદુ P થી ધ્વજદંડની ટોચનો ઉત્સેધકોણ 45° છે. ધ્વજદંડની લંબાઈ શોધો. (√3 = 1.732 લો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે AB ઈમારત (10m) અને BD ધ્વજદંડ છે. P થી અંતર x છે.<br>∆PAB માં, tan 30° = 10 / x => 1/√3 = 10 / x => x = 10√3 મીટર.<br>∆PAD માં (કુલ ઊંચાઈ H = 10 + BD), tan 45° = H / x => 1 = H / 10√3 => H = 10√3 મીટર.<br>ધ્વજદંડની લંબાઈ BD = H - 10 = 10√3 - 10 = 10(√3 - 1) = 10(1.732 - 1) = 7.32 મીટર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 45° ખૂણો હોય ત્યારે લંબ અને પાયો સમાન જ હોય, આ ટ્રીકથી x ની કિંમત સીધી H માં વાપરો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    }
+  ]
+}
