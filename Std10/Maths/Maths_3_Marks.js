@@ -534,3 +534,70 @@ var Std10_Maths_3Marks = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "વર્તુળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "પ્રમેય 10.2: વર્તુળની બહારના બિંદુમાંથી વર્તુળને દોરેલા સ્પર્શકોની લંબાઈ સમાન હોય છે તેમ સાબિત કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>પક્ષ:</strong> O કેન્દ્રવાળા વર્તુળની બહારના બિંદુ P માંથી બે સ્પર્શકો PQ અને PR આપેલા છે.</p><p><strong>સાધ્ય:</strong> PQ = PR</p><p><strong>સાબિતી:</strong> <br>1. OP, OQ અને OR જોડો. <br>2. અહીં ∠OQP અને ∠ORP કાટખૂણા છે (કારણ કે સ્પર્શક એ ત્રિજ્યાને લંબ હોય છે). <br>3. હવે, ΔOQP અને ΔORP માં: <br>&nbsp;&nbsp;&nbsp; - OQ = OR (એક જ વર્તુળની ત્રિજ્યા) <br>&nbsp;&nbsp;&nbsp; - OP = OP (સામાન્ય બાજુ) <br>&nbsp;&nbsp;&nbsp; - ∠OQP = ∠ORP = 90° <br>4. તેથી, કાખબા (RHS) શરત મુજબ, ΔOQP ≅ ΔORP. <br>5. CPCT મુજબ, PQ = PR. <strong>(ઇતિ સિદ્ધમ્)</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરીક્ષામાં આકૃતિ દોરવી ફરજિયાત છે. યાદ રાખો કે કાટખૂણો ત્રિજ્યા અને સ્પર્શક વચ્ચે જ બને છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB NCERT Textbook Example/Theorem</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "ચતુષ્કોણ ABCD એક વર્તુળને પરિગત છે (એટલે કે તેની બધી બાજુઓ વર્તુળને સ્પર્શે છે). સાબિત કરો કે AB + CD = AD + BC.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે વર્તુળ ચતુષ્કોણની બાજુઓ AB, BC, CD અને DA ને અનુક્રમે P, Q, R અને S બિંદુઓમાં સ્પર્શે છે.</p><p>વર્તુળની બહારના બિંદુમાંથી દોરેલા સ્પર્શકોની લંબાઈ સમાન હોય છે, તેથી:<br>AP = AS ----(1)<br>BP = BQ ----(2)<br>CR = CQ ----(3)<br>DR = DS ----(4)</p><p>સમીકરણ (1), (2), (3) અને (4) નો સરવાળો લેતા:<br>(AP + BP) + (CR + DR) = (AS + DS) + (BQ + CQ)<br>AB + CD = AD + BC</p><p>આમ, સામસામેની બાજુઓનો સરવાળો સમાન થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાબી બાજુ AB અને CD ના ટુકડા લખવા અને જમણી બાજુ AD અને BC ના ટુકડા ગોઠવવા જેથી સરળતાથી જવાબ મળે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Ex 10.2, Q-8</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "બે સમકેન્દ્રી વર્તુળોની ત્રિજ્યા 5 સેમી અને 3 સેમી છે. મોટા વર્તુળની જીવા નાના વર્તુળને સ્પર્શે છે, તો તેની લંબાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે મોટા વર્તુળની જીવા AB છે જે નાના વર્તુળને P બિંદુએ સ્પર્શે છે. <br>અહીં, OP = 3 સેમી (નાના વર્તુળની ત્રિજ્યા) અને OA = 5 સેમી (મોટા વર્તુળની ત્રિજ્યા) છે. <br>ત્રિજ્યા સ્પર્શકને લંબ હોય છે, તેથી ∠OPA = 90°.</p><p>કાટકોણ ΔOPA માં પાયથાગોરસના પ્રમેય મુજબ:<br>OA² = OP² + AP²<br>5² = 3² + AP²<br>25 = 9 + AP²<br>AP² = 16 => AP = 4 સેમી.</p><p>જીવા AB ની લંબાઈ = 2 × AP (કારણ કે કેન્દ્રમાંથી જીવા પર દોરેલો લંબ જીવાને દુભાગે છે)<br>AB = 2 × 4 = 8 સેમી.</p><p><strong>જવાબ:</strong> જીવાની લંબાઈ 8 સેમી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાયથાગોરસની ત્રિપુટી (3, 4, 5) યાદ રાખો. અહીં અડધી જીવા 4 મળશે, એટલે આખી જીવા 8 સેમી થાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "સાબિત કરો કે વર્તુળના વ્યાસના અંત્યબિંદુઓએ દોરેલા સ્પર્શકો પરસ્પર સમાંતર હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે AB એ O કેન્દ્રવાળા વર્તુળનો વ્યાસ છે. PQ અને RS એ અનુક્રમે બિંદુ A અને B આગળ દોરેલા સ્પર્શકો છે.</p><p>અહીં OA ⊥ PQ અને OB ⊥ RS (ત્રિજ્યા સ્પર્શકને લંબ હોય છે).<br>તેથી, ∠PAO = 90° અને ∠SBO = 90°.</p><p>હવે, ∠PAB = 90° અને ∠SBA = 90°.<br>અહીં ∠PAB અને ∠SBA એ યુગ્મકોણોની જોડ બનાવે છે અને બંને સમાન છે.</p><p>જ્યારે યુગ્મકોણો સમાન હોય, ત્યારે તે રેખાઓ સમાંતર હોય છે.<br>તેથી, PQ || RS.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Z' આકારના ખૂણા (યુગ્મકોણ) બતાવી દો, એટલે રેખાઓ સમાંતર સાબિત થઈ જશે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise 10.2</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "વર્તુળને પરિગત સમાંતરબાજુ ચતુષ્કોણ એ સમબાજુ ચતુષ્કોણ છે તેમ સાબિત કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે ABCD એ સમાંતરબાજુ ચતુષ્કોણ છે જે વર્તુળને પરિગત છે.<br>સમાંતરબાજુ ચતુષ્કોણમાં સામસામેની બાજુઓ સમાન હોય: AB = CD અને BC = AD.</p><p>આપણે જાણીએ છીએ કે જો ચતુષ્કોણ વર્તુળને પરિગત હોય તો:<br>AB + CD = AD + BC<br>AB + AB = AD + AD (કિંમતો મૂકતા)<br>2AB = 2AD<br>AB = AD</p><p>હવે, જો સમાંતરબાજુ ચતુષ્કોણની પાસપાસેની બાજુઓ (AB અને AD) સમાન હોય, તો તે સમબાજુ ચતુષ્કોણ કહેવાય.<br>તેથી, ABCD એ સમબાજુ ચતુષ્કોણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ દાખલામાં પ્રશ્ન 2 નું પરિણામ (AB+CD = AD+BC) સીધું વાપરી શકાય છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Most IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "O કેન્દ્રવાળા વર્તુળની બહારના બિંદુ T માંથી બે સ્પર્શકો TP અને TQ દોરેલા છે. સાબિત કરો કે ∠PTQ = 2∠OPQ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે ∠PTQ = θ.<br>ΔTPQ માં TP = TQ (બહારના બિંદુના સ્પર્શકો), તેથી તે સમદ્રિબાજુ ત્રિકોણ છે.<br>∠TPQ = ∠TQP = ½ (180° - θ) = 90° - ½θ.</p><p>હવે, આપણે જાણીએ છીએ કે OP ⊥ TP (ત્રિજ્યા ⊥ સ્પર્શક).<br>તેથી, ∠OPT = 90°.<br>∠OPQ = ∠OPT - ∠TPQ<br>∠OPQ = 90° - (90° - ½θ)<br>∠OPQ = ½θ<br>2∠OPQ = θ</p><p>θ ની કિંમત મૂકતા: ∠PTQ = 2∠OPQ. <strong>(ઇતિ સિદ્ધમ્)</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકૃતિમાં ત્રિકોણ TPQ ના ત્રણેય ખૂણાનો સરવાળો 180° લઈને શરૂઆત કરો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB NCERT Example 2</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "બિંદુ Q માંથી દોરેલા સ્પર્શકની લંબાઈ 24 સેમી અને વર્તુળના કેન્દ્રથી તેનું અંતર 25 સેમી હોય, તો (i) વર્તુળની ત્રિજ્યા શોધો અને (ii) વર્તુળનો વ્યાસ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>(i) ધારો કે O વર્તુળનું કેન્દ્ર છે અને P સ્પર્શબિંદુ છે. <br>અહીં OP ⊥ PQ. <br>કાટકોણ ΔOPQ માં પાયથાગોરસના પ્રમેય મુજબ:<br>OQ² = OP² + PQ²<br>25² = OP² + 24²<br>625 = OP² + 576<br>OP² = 625 - 576 = 49<br>OP = 7 સેમી. <br>તેથી, <strong>ત્રિજ્યા = 7 સેમી</strong>.</p><p>(ii) વ્યાસ = 2 × ત્રિજ્યા <br>વ્યાસ = 2 × 7 = 14 સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (7, 24, 25) એ પાયથાગોરસની જાણીતી ત્રિપુટી છે, જે એમસીક્યુ માં પણ કામ આવશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Exercise 10.2, Q-1</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "સાબિત કરો કે વર્તુળની બહારના બિંદુમાંથી દોરેલા બે સ્પર્શકો વચ્ચેનો ખૂણો અને સ્પર્શબિંદુઓને કેન્દ્ર સાથે જોડતા રેખાખંડ વચ્ચેનો ખૂણો એકબીજાના પૂરક હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે O કેન્દ્રવાળા વર્તુળની બહારનું બિંદુ P છે અને PA તથા PB સ્પર્શકો છે. <br>અહીં ∠OAP = 90° અને ∠OBP = 90° (કારણ કે ત્રિજ્યા સ્પર્શકને લંબ હોય છે).</p><p>ચતુષ્કોણ OAPB માં ચારેય ખૂણાનો સરવાળો 360° થાય છે:<br>∠APB + ∠OAP + ∠AOB + ∠OBP = 360°<br>∠APB + 90° + ∠AOB + 90° = 360°<br>∠APB + ∠AOB + 180° = 360°<br>∠APB + ∠AOB = 360° - 180°<br>∠APB + ∠AOB = 180°</p><p>જેથી સાબિત થાય છે કે બંને ખૂણા પૂરક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સામસામેના બે ખૂણા 90+90=180 થઈ ગયા, તો બાકીના બે ખૂણાનો સરવાળો પણ 180 જ થવાનો!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Exercise 10.2, Q-10</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "(i) વર્તુળના કોઈ એક બિંદુએ કેટલા સ્પર્શક મળે? (ii) 5 સેમી ત્રિજ્યાવાળા વર્તુળના કોઈ બિંદુ P આગળ દોરેલો એક સ્પર્શક PQ કેન્દ્ર O માંથી પસાર થતી રેખાને Q બિંદુએ છેદે છે. OQ = 12 સેમી હોય, તો PQ ની લંબાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>(i) વર્તુળના કોઈ એક બિંદુએ માત્ર <strong>એક અને માત્ર એક જ</strong> સ્પર્શક મળે.</p><p>(ii) કાટકોણ ΔOPQ માં ∠P = 90° (ત્રિજ્યા ⊥ સ્પર્શક).<br>પાયથાગોરસ મુજબ:<br>OQ² = OP² + PQ²<br>12² = 5² + PQ²<br>144 = 25 + PQ²<br>PQ² = 144 - 25 = 119<br>PQ = √119 સેમી.</p><p><strong>જવાબ:</strong> PQ ની લંબાઈ √119 સેમી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હંમેશા ચેક કરો કે કર્ણ કયો છે. અહીં OQ કર્ણ છે, તેથી 12 નો વર્ગ - 5 નો વર્ગ કરવો પડે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB MCQ + Sum Mix</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "આકૃતિમાં, XY અને X'Y' એ O કેન્દ્રવાળા વર્તુળના બે સમાંતર સ્પર્શકો છે અને સ્પર્શબિંદુ C આગળ દોરેલો ત્રીજો સ્પર્શક AB, XY ને A માં અને X'Y' ને B માં છેદે છે. સાબિત કરો કે ∠AOB = 90°.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>1. OC જોડો. <br>2. ΔOPA અને ΔOCA માં: <br>&nbsp;&nbsp;&nbsp; - OP = OC (ત્રિજ્યા) <br>&nbsp;&nbsp;&nbsp; - PA = CA (બહારના બિંદુ A ના સ્પર્શકો) <br>&nbsp;&nbsp;&nbsp; - OA = OA (સામાન્ય બાજુ) <br>3. તેથી ΔOPA ≅ ΔOCA (બાબાબા શરત), માટે ∠POA = ∠COA ---(1)</p><p>4. તે જ રીતે, ΔOQB ≅ ΔOCB, માટે ∠QOB = ∠COB ---(2)</p><p>5. હવે, POQ એ વ્યાસ હોવાથી રેખા છે: <br>∠POA + ∠COA + ∠COB + ∠QOB = 180°<br>2∠COA + 2∠COB = 180° (સમીકરણ 1 અને 2 પરથી)<br>2(∠COA + ∠COB) = 180°<br>∠AOB = 90°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે જોડી એકરૂપ ત્રિકોણો બનાવી ખૂણાઓના અડધા ભાગનો સરવાળો 90° બતાવો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Exercise 10.2, Q-9 (Most Important for Exam)</p></div>"
+    }
+  ]
+}
