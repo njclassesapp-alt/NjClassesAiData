@@ -400,3 +400,70 @@ var Std10_Maths_3Marks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "ત્રિકોણમિતિનો પરિચય",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "જો cot θ = 7/8 હોય, તો (i) (1 + sin θ)(1 - sin θ) / (1 + cos θ)(1 - cos θ) અને (ii) cot² θ ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં, cot θ = 7/8 આપેલ છે.</p><p>(i) (1 + sin θ)(1 - sin θ) / (1 + cos θ)(1 - cos θ) <br>= (1 - sin² θ) / (1 - cos² θ) [∵ (a-b)(a+b) = a²-b²]<br>= cos² θ / sin² θ [∵ 1 - sin² θ = cos² θ અને 1 - cos² θ = sin² θ]<br>= (cos θ / sin θ)²<br>= cot² θ<br>= (7/8)² = 49/64</p><p>(ii) cot² θ = (7/8)² = 49/64</p><p>આમ, બંને કિસ્સામાં જવાબ 49/64 મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિત્યસમ (1-sin²θ = cos²θ) નો ઉપયોગ કરવાથી દાખલો ઘણો ટૂંકો થઈ જાય છે, કર્ણ શોધવાની જરૂર રહેતી નથી!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board NCERT Ex 8.1</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "જો sin (A - B) = 1/2 અને cos (A + B) = 1/2, 0° < A + B ≤ 90°, A > B હોય, તો A અને B શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>1) sin (A - B) = 1/2<br>આપણે જાણીએ છીએ કે sin 30° = 1/2<br>∴ A - B = 30°  ---(સમીકરણ 1)</p><p>2) cos (A + B) = 1/2<br>આપણે જાણીએ છીએ કે cos 60° = 1/2<br>∴ A + B = 60°  ---(સમીકરણ 2)</p><p>સમીકરણ (1) અને (2) નો સરવાળો કરતા:<br>(A - B) + (A + B) = 30° + 60°<br>2A = 90°<br>A = 45°</p><p>A ની કિંમત સમીકરણ (2) માં મુકતા:<br>45° + B = 60°<br>B = 60° - 45° = 15°</p><p>આમ, A = 45° અને B = 15°.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હંમેશા યાદ રાખો કે sin અને cos ની કિંમતો કયા ખૂણા માટે સમાન થાય છે, તેનાથી સમીકરણો જલ્દી બનશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board NCERT Ex 8.2</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "સાબિત કરો કે: (cosec θ - cot θ)² = (1 - cos θ) / (1 + cos θ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ડાબી બાજુ (LHS) = (cosec θ - cot θ)²<br>= (1/sin θ - cos θ/sin θ)²<br>= [(1 - cos θ) / sin θ]²<br>= (1 - cos θ)² / sin² θ<br>= (1 - cos θ)² / (1 - cos² θ) [∵ sin² θ = 1 - cos² θ]<br>= (1 - cos θ)(1 - cos θ) / [(1 - cos θ)(1 + cos θ)] [∵ a²-b² = (a-b)(a+b)]<br>= (1 - cos θ) / (1 + cos θ)<br>= જમણી બાજુ (RHS)</p><p>આમ, સાબિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે પણ cosec કે cot હોય ત્યારે તેને sin-cos માં ફેરવી નાખવાથી સાબિતી સરળ બને છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Proofs</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "સાબિત કરો કે: cos A / (1 + sin A) + (1 + sin A) / cos A = 2 sec A",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>LHS = [cos² A + (1 + sin A)²] / [cos A (1 + sin A)] (લસાઅ લેતા)<br>= [cos² A + 1 + 2 sin A + sin² A] / [cos A (1 + sin A)]<br>= [(sin² A + cos² A) + 1 + 2 sin A] / [cos A (1 + sin A)]<br>= [1 + 1 + 2 sin A] / [cos A (1 + sin A)] [∵ sin² A + cos² A = 1]<br>= [2 + 2 sin A] / [cos A (1 + sin A)]<br>= 2(1 + sin A) / [cos A (1 + sin A)]<br>= 2 / cos A<br>= 2 sec A = RHS</p><p>આમ, ડા.બા. = જ.બા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંશમાં 2(1+sin A) આવે ત્યારે છેદના (1+sin A) સાથે તેને ઉડાડવાનું ભૂલશો નહીં.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Page 193</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "કિંમત શોધો: (5 cos² 60° + 4 sec² 30° - tan² 45°) / (sin² 30° + cos² 30°)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>આપણે જાણીએ છીએ કે:<br>cos 60° = 1/2, sec 30° = 2/√3, tan 45° = 1<br>sin 30° = 1/2, cos 30° = √3/2</p><p>કિંમતો મુકતા:<br>= [5(1/2)² + 4(2/√3)² - (1)²] / [(1/2)² + (√3/2)²]<br>= [5(1/4) + 4(4/3) - 1] / [1/4 + 3/4]<br>= [5/4 + 16/3 - 1] / [1]<br>= (15 + 64 - 12) / 12<br>= 67 / 12</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદમાં sin² θ + cos² θ = 1 હોવાથી ગણતરી માત્ર અંશની જ કરવાની રહે છે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Paper Set</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "સાબિત કરો કે: (sin A + cosec A)² + (cos A + sec A)² = 7 + tan² A + cot² A",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>LHS = (sin² A + 2 sin A cosec A + cosec² A) + (cos² A + 2 cos A sec A + sec² A)<br>= (sin² A + cos² A) + 2(1) + 2(1) + cosec² A + sec² A [∵ sin A·cosec A = 1]<br>= 1 + 2 + 2 + (1 + cot² A) + (1 + tan² A)<br>= 7 + tan² A + cot² A = RHS</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ દાખલામાં ત્રણ નિત્યસમ એકસાથે વપરાય છે, તેને ધ્યાનથી યાદ કરો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> 2024 Board Most IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "સાબિત કરો કે: √[(1 + sin A) / (1 - sin A)] = sec A + tan A",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>LHS = √[(1 + sin A) / (1 - sin A)]<br>અંશ અને છેદને (1 + sin A) વડે ગુણતા (કરણી લેતા):<br>= √[ (1 + sin A)(1 + sin A) / (1 - sin A)(1 + sin A) ]<br>= √[ (1 + sin A)² / (1 - sin² A) ]<br>= √[ (1 + sin A)² / cos² A ]<br>= (1 + sin A) / cos A<br>= 1 / cos A + sin A / cos A<br>= sec A + tan A = RHS</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે વર્ગમૂળવાળો દાખલો હોય ત્યારે છેદની વિરોધી નિશાની વડે ગુણવું (Rationalization).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB NCERT Ex 8.3 (Q4-vi)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "જો 3 cot A = 4 હોય, તો (1 - tan² A) / (1 + tan² A) = cos² A - sin² A છે કે નહીં તે ચકાસો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>3 cot A = 4 ⇒ cot A = 4/3 ∴ tan A = 3/4<br>કાટકોણ ત્રિકોણમાં પાસેની બાજુ = 4, સામેની બાજુ = 3 ∴ કર્ણ = 5 (પાયથાગોરસ મુજબ)</p><p>sin A = 3/5, cos A = 4/5</p><p>LHS = (1 - (3/4)²) / (1 + (3/4)²) = (1 - 9/16) / (1 + 9/16) = (7/16) / (25/16) = 7/25</p><p>RHS = (4/5)² - (3/5)² = 16/25 - 9/25 = 7/25</p><p>અહીં, LHS = RHS હોવાથી સાચું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાયથાગોરિયન ત્રિપુટી (3, 4, 5) નો ઉપયોગ કરવાથી કર્ણ તરત મળી જશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Standard Maths Board Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "સાબિત કરો કે: (sin θ - 2 sin³ θ) / (2 cos³ θ - cos θ) = tan θ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>LHS = [sin θ (1 - 2 sin² θ)] / [cos θ (2 cos² θ - 1)]<br>= (sin θ / cos θ) × [ (1 - 2 sin² θ) / (2(1 - sin² θ) - 1) ]<br>= tan θ × [ (1 - 2 sin² θ) / (2 - 2 sin² θ - 1) ]<br>= tan θ × [ (1 - 2 sin² θ) / (1 - 2 sin² θ) ]<br>= tan θ × 1<br>= tan θ = RHS</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંશ અને છેદમાંથી સામાન્ય (common) કાઢવાનું ભૂલશો નહીં, બાકીનું પદ આપમેળે ઉડી જશે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Sample Paper</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "સાબિત કરો કે: (1 + tan² A) / (1 + cot² A) = tan² A",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>LHS = (1 + tan² A) / (1 + cot² A)<br>આપણે જાણીએ છીએ કે:<br>1 + tan² A = sec² A<br>1 + cot² A = cosec² A</p><p>LHS = sec² A / cosec² A<br>= (1 / cos² A) / (1 / sin² A)<br>= (1 / cos² A) × (sin² A / 1)<br>= sin² A / cos² A<br>= tan² A = RHS</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: cot² A ને 1/tan² A માં ફેરવીને લસાઅ લેવાથી પણ આ દાખલો ખૂબ જ સરળતાથી થઈ શકે છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Series</p></div>"
+    }
+  ]
+}
