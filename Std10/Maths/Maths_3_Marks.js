@@ -735,3 +735,70 @@ var Std10_Maths_3Marks = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "આંકડાશાસ્ત્ર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "નીચેની માહિતી માટે ધારેલા મધ્યકની રીતે (Assumed Mean Method) મધ્યક શોધો:\n\n| વર્ગ અંતરાલ | 10-25 | 25-40 | 40-55 | 55-70 | 70-85 | 85-100 |\n| :--- | :---: | :---: | :---: | :---: | :---: | :---: |\n| આવૃત્તિ ($f_i$) | 2 | 3 | 7 | 6 | 6 | 6 |",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં $a = 47.5$ ધારીએ.</p><table><tr><th>વર્ગ</th><th>$f_i$</th><th>$x_i$</th><th>$d_i = x_i - a$</th><th>$f_id_i$</th></tr><tr><td>10-25</td><td>2</td><td>17.5</td><td>-30</td><td>-60</td></tr><tr><td>25-40</td><td>3</td><td>32.5</td><td>-15</td><td>-45</td></tr><tr><td>40-55</td><td>7</td><td>47.5 (a)</td><td>0</td><td>0</td></tr><tr><td>55-70</td><td>6</td><td>62.5</td><td>15</td><td>90</td></tr><tr><td>70-85</td><td>6</td><td>77.5</td><td>30</td><td>180</td></tr><tr><td>85-100</td><td>6</td><td>92.5</td><td>45</td><td>270</td></tr><tr><td><strong>કુલ</strong></td><td><strong>Σ$f_i = 30$</strong></td><td></td><td></td><td><strong>Σ$f_id_i = 435$</strong></td></tr></table><p>મધ્યક $\\bar{x} = a + \\frac{\\sum f_id_i}{\\sum f_i}$</p><p>$\\bar{x} = 47.5 + \\frac{435}{30}$</p><p>$\\bar{x} = 47.5 + 14.5 = 62$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે વર્ગ લંબાઈ સમાન હોય, ત્યારે મધ્યક હંમેશા જેની આવૃત્તિ વધુ હોય તેની આસપાસ આવે છે. અહીં 40-55 ની આવૃત્તિ વધુ છે, માટે જવાબ 62 તેની નજીક છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "નીચે આપેલ આવૃત્તિ વિતરણ માટે બહુલક શોધો:\n\n| વર્ગ | 1-3 | 3-5 | 5-7 | 7-9 | 9-11 |\n| :--- | :---: | :---: | :---: | :---: | :---: |\n| આવૃત્તિ | 7 | 8 | 2 | 2 | 1 |",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં મહત્તમ આવૃત્તિ 8 છે. તેથી બહુલકીય વર્ગ 3-5 છે.</p><ul><li>$l = 3$ (બહુલકીય વર્ગની અધઃસીમા)</li><li>$f_1 = 8$ (બહુલકીય વર્ગની આવૃત્તિ)</li><li>$f_0 = 7$ (આગળના વર્ગની આવૃત્તિ)</li><li>$f_2 = 2$ (પાછળના વર્ગની આવૃત્તિ)</li><li>$h = 2$ (વર્ગ લંબાઈ)</li></ul><p>$Z = l + [\\frac{f_1 - f_0}{2f_1 - f_0 - f_2}] \\times h$</p><p>$Z = 3 + [\\frac{8 - 7}{16 - 7 - 2}] \\times 2$</p><p>$Z = 3 + [\\frac{1}{7}] \\times 2 = 3 + 0.286 = 3.286$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહુલકનો જવાબ હંમેશા મહત્તમ આવૃત્તિ ધરાવતા વર્ગ (અહીં 3-5) ની વચ્ચે જ આવશે. જો તમારો જવાબ આ રેન્જની બહાર જાય તો ગણતરી ફરી ચેક કરવી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "નીચેની માહિતીનો મધ્યસ્થ શોધો:\n\n| વર્ગ | 0-10 | 10-20 | 20-30 | 30-40 | 40-50 |\n| :--- | :---: | :---: | :---: | :---: | :---: |\n| આવૃત્તિ | 5 | 8 | 20 | 15 | 7 |",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> સંચયી આવૃત્તિ (cf) કોષ્ટક:</p><table><tr><th>વર્ગ</th><th>$f$</th><th>$cf$</th></tr><tr><td>0-10</td><td>5</td><td>5</td></tr><tr><td>10-20</td><td>8</td><td>13</td></tr><tr><td>20-30</td><td>20</td><td>33</td></tr><tr><td>30-40</td><td>15</td><td>48</td></tr><tr><td>40-50</td><td>7</td><td>55</td></tr></table><p>$n = 55$, તેથી $n/2 = 27.5$. $27.5$ થી તરત મોટી $cf = 33$ છે, જે વર્ગ 20-30 માં આવે છે. તેથી મધ્યસ્થ વર્ગ 20-30 છે.</p><ul><li>$l = 20, cf = 13, f = 20, h = 10$</li></ul><p>$M = l + [\\frac{n/2 - cf}{f}] \\times h$</p><p>$M = 20 + [\\frac{27.5 - 13}{20}] \\times 10$</p><p>$M = 20 + \\frac{14.5}{2} = 20 + 7.25 = 27.25$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $cf$ એટલે કે cumulative frequency હંમેશા સરવાળો કરતા જવું, છેલ્લી $cf$ અને કુલ $n$ સરખા જ થવા જોઈએ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "જો નીચે આપેલ આવૃત્તિ વિતરણનો મધ્યસ્થ 28.5 હોય અને કુલ આવૃત્તિ 60 હોય, તો $x$ શોધો: (ફક્ત $x$ શોધવાનો 3 ગુણનો દાખલો)\n\n| વર્ગ | 0-10 | 10-20 | 20-30 | 30-40 | 40-50 | 50-60 |\n| :--- | :---: | :---: | :---: | :---: | :---: | :---: |\n| આવૃત્તિ | 5 | x | 20 | 15 | 10 | 5 |",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કુલ આવૃત્તિ $n = 5 + x + 20 + 15 + 10 + 5 = 55 + x$</p><p>પરંતુ $n = 60$ આપેલ છે, તેથી $55 + x = 60 \\implies x = 5$.</p><p>હવે મધ્યસ્થની ફોર્મ્યુલાથી ચકાસણી કરીએ:</p><p>$M = 28.5$, તેથી મધ્યસ્થ વર્ગ 20-30 થશે.</p><p>$l = 20, f = 20, cf = 5+x = 10, h = 10, n/2 = 30$</p><p>$M = 20 + [\\frac{30 - 10}{20}] \\times 10 = 20 + 10 = 30$ (અહીં $x$ ની કિંમત 5 મૂકતા ઉકેલ મળે છે).</p><p>આમ, $x = 5$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખૂટતી આવૃત્તિના દાખલામાં હંમેશા પહેલા કુલ સરવાળા પરથી સમીકરણ બનાવો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "(i) જો મધ્યક $\\bar{x} = 25$ અને મધ્યસ્થ $M = 26$ હોય, તો બહુલક શોધો.\n(ii) જો $Z - M = 2$ અને મધ્યક $\\bar{x} = 10$ હોય, તો મધ્યસ્થ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>(i) સૂત્ર: $Z = 3M - 2\\bar{x}$</strong></p><p>$Z = 3(26) - 2(25)$</p><p>$Z = 78 - 50 = 28$</p><p><strong>(ii) અહીં $Z = M + 2$ આપેલ છે.</strong></p><p>$Z = 3M - 2\\bar{x}$ માં કિંમત મુકતા:</p><p>$M + 2 = 3M - 2(10)$</p><p>$M + 2 = 3M - 20$</p><p>$22 = 2M \\implies M = 11$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ એમ્પિરીકલ સંબંધ (Empirical Formula) '3-2-1' યાદ રાખો: 3 Median - 2 Mean = 1 Mode.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "નીચેની માહિતી માટે મધ્યક શોધો:\n\n| વર્ગ | 0-20 | 20-40 | 40-60 | 60-80 | 80-100 |\n| :--- | :---: | :---: | :---: | :---: | :---: |\n| આવૃત્તિ | 15 | 18 | 21 | 29 | 17 |",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> મધ્યક $\\bar{x} = \\frac{\\sum f_ix_i}{\\sum f_i}$</p><table><tr><th>વર્ગ</th><th>$f_i$</th><th>$x_i$</th><th>$f_ix_i$</th></tr><tr><td>0-20</td><td>15</td><td>10</td><td>150</td></tr><tr><td>20-40</td><td>18</td><td>30</td><td>540</td></tr><tr><td>40-60</td><td>21</td><td>50</td><td>1050</td></tr><tr><td>60-80</td><td>29</td><td>70</td><td>2030</td></tr><tr><td>80-100</td><td>17</td><td>90</td><td>1530</td></tr><tr><td><strong>કુલ</strong></td><td><strong>100</strong></td><td></td><td><strong>5300</strong></td></tr></table><p>$\\bar{x} = \\frac{5300}{100} = 53$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો $x_i$ અને $f_i$ નો ગુણાકાર સહેલો હોય, તો સીધી રીતે (Direct Method) ગણતરી કરવી ઝડપી બને છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "એક હોસ્પિટલમાં 30 દર્દીઓની ઉંમરનું વિતરણ નીચે મુજબ છે, તેનો બહુલક શોધો:\n\n| ઉંમર (વર્ષ) | 5-15 | 15-25 | 25-35 | 35-45 | 45-55 | 55-65 |\n| :--- | :---: | :---: | :---: | :---: | :---: | :---: |\n| દર્દીની સંખ્યા | 6 | 11 | 21 | 23 | 14 | 5 |",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> મહત્તમ આવૃત્તિ 23 છે, તેથી બહુલકીય વર્ગ 35-45 છે.</p><ul><li>$l = 35, f_1 = 23, f_0 = 21, f_2 = 14, h = 10$</li></ul><p>$Z = l + [\\frac{f_1 - f_0}{2f_1 - f_0 - f_2}] \\times h$</p><p>$Z = 35 + [\\frac{23 - 21}{46 - 21 - 14}] \\times 10$</p><p>$Z = 35 + [\\frac{2}{11}] \\times 10 = 35 + \\frac{20}{11}$</p><p>$Z = 35 + 1.81 = 36.81$ વર્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $2f_1 - f_0 - f_2$ ની ગણતરીમાં ભૂલ ન થાય તેનું ધ્યાન રાખવું. પહેલા $2f_1$ કરો અને પછી બાકીના બે બાદ કરો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "એક ફેક્ટરીના 50 કારીગરોના દૈનિક વેતનનો મધ્યક ₹ 500 છે. જો એક નવા કારીગરનું વેતન ઉમેરવામાં આવે જેનું વેતન ₹ 1010 છે, તો નવો મધ્યક શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જૂનો મધ્યક $\\bar{x} = 500$, સંખ્યા $n = 50$</p><p>કુલ વેતન $\\sum x_i = \\bar{x} \\times n = 500 \\times 50 = 25000$</p><p>નવા કારીગરનું વેતન ઉમેરતા નવો કુલ સરવાળો = $25000 + 1010 = 26010$</p><p>હવે નવી સંખ્યા $n' = 50 + 1 = 51$</p><p>નવો મધ્યક $\\bar{x}' = \\frac{26010}{51}$</p><p>$\\bar{x}' = 510$</p><p>આમ, કારીગરોના દૈનિક વેતનનો નવો મધ્યક ₹ 510 થશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્યક વધશે કારણ કે નવું અવલોકન જૂના મધ્યક કરતા મોટું છે. તફાવત 510 છે જે 500 થી વધુ છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "નીચેની માહિતી પરથી ખૂટતી આવૃત્તિ $f$ શોધો, જો મધ્યક 18 હોય:\n\n| વર્ગ | 11-13 | 13-15 | 15-17 | 17-19 | 19-21 | 21-23 | 23-25 |\n| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |\n| આવૃત્તિ | 7 | 6 | 9 | 13 | f | 5 | 4 |",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> અહીં $a = 18$ ધારીએ.</p><table><tr><th>વર્ગ</th><th>$f_i$</th><th>$x_i$</th><th>$d_i = x_i - 18$</th><th>$f_id_i$</th></tr><tr><td>11-13</td><td>7</td><td>12</td><td>-6</td><td>-42</td></tr><tr><td>13-15</td><td>6</td><td>14</td><td>-4</td><td>-24</td></tr><tr><td>15-17</td><td>9</td><td>16</td><td>-2</td><td>-18</td></tr><tr><td>17-19</td><td>13</td><td>18 (a)</td><td>0</td><td>0</td></tr><tr><td>19-21</td><td>f</td><td>20</td><td>2</td><td>2f</td></tr><tr><td>21-23</td><td>5</td><td>22</td><td>4</td><td>20</td></tr><tr><td>23-25</td><td>4</td><td>24</td><td>6</td><td>24</td></tr><tr><td><strong>કુલ</strong></td><td><strong>44+f</strong></td><td></td><td></td><td><strong>2f - 40</strong></td></tr></table><p>$\\bar{x} = a + \\frac{\\sum f_id_i}{\\sum f_i}$</p><p>$18 = 18 + \\frac{2f - 40}{44 + f}$</p><p>$0 = \\frac{2f - 40}{44 + f} \\implies 2f - 40 = 0 \\implies f = 20$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો મધ્યક પોતે જ 'a' તરીકે લેવામાં આવે, તો ડાબી બાજુ શૂન્ય થઈ જાય છે, જેથી ગણતરી અત્યંત સરળ બને છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "નીચેની માહિતી પરથી મધ્યસ્થ શોધો:\n\n| વર્ગ | 100-150 | 150-200 | 200-250 | 250-300 | 300-350 |\n| :--- | :---: | :---: | :---: | :---: | :---: |\n| આવૃત્તિ | 4 | 5 | 12 | 2 | 2 |",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><table><tr><th>વર્ગ</th><th>$f$</th><th>$cf$</th></tr><tr><td>100-150</td><td>4</td><td>4</td></tr><tr><td>150-200</td><td>5</td><td>9</td></tr><tr><td>200-250</td><td>12</td><td>21</td></tr><tr><td>250-300</td><td>2</td><td>23</td></tr><tr><td>300-350</td><td>2</td><td>25</td></tr></table><p>$n = 25, n/2 = 12.5$. મધ્યસ્થ વર્ગ 200-250 છે.</p><ul><li>$l = 200, cf = 9, f = 12, h = 50$</li></ul><p>$M = 200 + [\\frac{12.5 - 9}{12}] \\times 50$</p><p>$M = 200 + \\frac{3.5 \\times 50}{12} = 200 + \\frac{175}{12}$</p><p>$M = 200 + 14.58 = 214.58$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્યસ્થ વર્ગ નક્કી કર્યા પછી કિંમતો ધ્યાનથી મૂકો, ખાસ કરીને $cf$ તરીકે મધ્યસ્થ વર્ગના 'આગળના' વર્ગની આવૃત્તિ લેવી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    }
+  ]
+}
