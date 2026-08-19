@@ -132,3 +132,70 @@ var Std10_Maths_2Marks = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "દ્વિચલ સુરેખ સમીકરણયુગ્મ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "આદેશની રીતે ઉકેલ શોધો: x + y = 14 અને x - y = 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સમીકરણ (1): x + y = 14 <br>સમીકરણ (2): x - y = 4</p><p>સમીકરણ (2) પરથી, x = 4 + y ..... (3)</p><p>x ની કિંમત સમીકરણ (1) માં મૂકતા:<br>(4 + y) + y = 14<br>4 + 2y = 14<br>2y = 14 - 4<br>2y = 10<br><strong>y = 5</strong></p><p>y = 5 ની કિંમત સમીકરણ (3) માં મૂકતા:<br>x = 4 + 5<br><strong>x = 9</strong></p><p>આમ, ઉકેલ (x, y) = (9, 5) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે બે સંખ્યાનો સરવાળો અને તફાવત આપ્યો હોય, ત્યારે મોટી સંખ્યા (સરવાળો + તફાવત)/2 અને નાની સંખ્યા (સરવાળો - તફાવત)/2 થાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NCERT Ex 3.2</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "લોપની રીતે ઉકેલ શોધો: 3x + 4y = 10 અને 2x - 2y = 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>3x + 4y = 10 --- (1)<br>2x - 2y = 2 --- (2)</p><p>સમીકરણ (2) ને 2 વડે ગુણતા:<br>4x - 4y = 4 --- (3)</p><p>હવે, સમીકરણ (1) અને (3) નો સરવાળો કરતા:<br>(3x + 4y) + (4x - 4y) = 10 + 4<br>7x = 14<br><strong>x = 2</strong></p><p>x = 2 ની કિંમત સમીકરણ (1) માં મૂકતા:<br>3(2) + 4y = 10<br>6 + 4y = 10<br>4y = 4<br><strong>y = 1</strong></p><p>આમ, ઉકેલ (x, y) = (2, 1) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ચલના સહગુણક વિરોધી ચિહ્ન ધરાવતા હોય (અહીં y), તેને સમાન બનાવી લોપ કરવો ઝડપી બને છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "k ની કઈ કિંમત માટે નીચેના સમીકરણયુગ્મને અનંત ઉકેલો મળે? <br> 2x + 3y = 7 <br> (k-1)x + (k+2)y = 3k",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અનંત ઉકેલ માટેની શરત: a₁/a₂ = b₁/b₂ = c₁/c₂</p><p>અહીં, a₁=2, b₁=3, c₁=7 અને a₂=k-1, b₂=k+2, c₂=3k</p><p>શરત મુજબ: 2/(k-1) = 3/(k+2)<br>2(k + 2) = 3(k - 1)<br>2k + 4 = 3k - 3<br>4 + 3 = 3k - 2k<br><strong>k = 7</strong></p><p>ચકાસણી: c₁/c₂ = 7 / 3(7) = 7/21 = 1/3 અને a₁/a₂ = 2/6 = 1/3. જે સમાન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનંત ઉકેલ એટલે બંને રેખાઓ એક જ (સંપાતી) હોય. ગુણોત્તર હંમેશા સમાન રહેવો જોઈએ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept Board</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "(i) જો a₁/a₂ ≠ b₁/b₂ હોય તો રેખાઓ કેવી હશે? <br> (ii) સમીકરણ x - y = 0 અને x + y = 0 નો ઉકેલ શું મળે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>(i) જો a₁/a₂ ≠ b₁/b₂ હોય, તો સમીકરણયુગ્મ દ્વારા દર્શાવતી રેખાઓ <strong>એક બિંદુમાં છેદતી રેખાઓ</strong> હશે અને તેને અનન્ય (એક અને માત્ર એક) ઉકેલ મળશે.</p><p>(ii) x - y = 0 => x = y<br>x + y = 0 માં x = y મૂકતા,<br>y + y = 0 => 2y = 0 => <strong>y = 0</strong><br>તેથી, <strong>x = 0</strong><br>આમ, ઉકેલ (0, 0) મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો બંને સમીકરણમાં અચળ પદ (c) શૂન્ય હોય, તો ઉકેલ હંમેશા (0,0) જ હોય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Objective Type</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "બે સંખ્યાઓનો તફાવત 26 છે અને એક સંખ્યા બીજી સંખ્યાથી ત્રણ ગણી છે. તે સંખ્યાઓ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે મોટી સંખ્યા x અને નાની સંખ્યા y છે.<br>શરત 1: x - y = 26 --- (1)<br>શરત 2: x = 3y --- (2)</p><p>સમીકરણ (2) ની કિંમત (1) માં મૂકતા:<br>3y - y = 26<br>2y = 26<br><strong>y = 13</strong></p><p>હવે, x = 3(13) = <strong>39</strong></p><p>આમ, તે બે સંખ્યાઓ 39 અને 13 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તફાવત 26 અને 3 ગણી સંખ્યા હોય ત્યારે સીધું 2y = 26 ધારી શકાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise 3.2</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "સમીકરણયુગ્મ 0.2x + 0.3y = 1.3 અને 0.4x + 0.5y = 2.3 નો ઉકેલ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>દશાંશ ચિહ્ન દૂર કરવા બંને સમીકરણોને 10 વડે ગુણતા:<br>2x + 3y = 13 --- (1)<br>4x + 5y = 23 --- (2)</p><p>સમીકરણ (1) ને 2 વડે ગુણી તેમાંથી (2) બાદ કરતા:<br>(4x + 6y) - (4x + 5y) = 26 - 23<br><strong>y = 3</strong></p><p>y = 3 ને સમીકરણ (1) માં મૂકતા:<br>2x + 3(3) = 13<br>2x + 9 = 13<br>2x = 4<br><strong>x = 2</strong></p><p>આમ, (x, y) = (2, 3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટ વાળા દાખલામાં સૌથી પહેલા 10, 100 કે 1000 વડે ગુણી પૂર્ણાંક બનાવી લો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> IMP for 2025 Exams</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "એક લંબચોરસની અર્ધપરિમિતિ 36 મીટર છે. તેની લંબાઈ તેની પહોળાઈ કરતાં 4 મીટર વધુ છે. લંબચોરસની લંબાઈ અને પહોળાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે લંબાઈ x મીટર અને પહોળાઈ y મીટર છે.<br>અર્ધપરિમિતિ = x + y = 36 --- (1)<br>શરત મુજબ: x = y + 4 => x - y = 4 --- (2)</p><p>સમીકરણ (1) અને (2) નો સરવાળો કરતા:<br>2x = 40<br><strong>x = 20 મીટર</strong></p><p>x ની કિંમત (1) માં મૂકતા:<br>20 + y = 36<br><strong>y = 16 મીટર</strong></p><p>આમ, લંબાઈ 20 મીટર અને પહોળાઈ 16 મીટર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અર્ધપરિમિતિ એટલે માત્ર (લંબાઈ + પહોળાઈ). પરિમિતિનું સૂત્ર 2(l+b) વાપરવાની જરૂર નથી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Practice Paper</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "k ની કઈ કિંમત માટે સમીકરણયુગ્મ 4x + ky + 8 = 0 અને 2x + 2y + 2 = 0 ને અનન્ય ઉકેલ હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં a₁ = 4, b₁ = k અને a₂ = 2, b₂ = 2</p><p>અનન્ય ઉકેલ માટેની શરત: a₁/a₂ ≠ b₁/b₂</p><p>4/2 ≠ k/2<br>2 ≠ k/2<br><strong>k ≠ 4</strong></p><p>આમ, 4 સિવાયની કોઈ પણ વાસ્તવિક કિંમત માટે આપેલ સમીકરણયુગ્મને અનન્ય ઉકેલ મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનન્ય ઉકેલ માટે માત્ર '≠' નિશાની ધ્યાનમાં લેવી. ઘણીવાર વિદ્યાર્થીઓ ઉતાવળમાં k = 4 લખી દે છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "જો 2x + 3y = 11 અને 2x - 4y = -24 નો ઉકેલ શોધો અને તે પરથી 'm' એવો શોધો કે જેથી y = mx + 3 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>2x + 3y = 11 --- (1)<br>2x - 4y = -24 --- (2)<br>બાદબાકી કરતા: 7y = 35 => <strong>y = 5</strong></p><p>y ની કિંમત (1) માં મૂકતા: 2x + 3(5) = 11<br>2x + 15 = 11 => 2x = -4 => <strong>x = -2</strong></p><p>હવે, y = mx + 3 માં કિંમતો મૂકતા:<br>5 = m(-2) + 3<br>5 - 3 = -2m<br>2 = -2m<br><strong>m = -1</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા x અને y શોધો, પછી જ ત્રીજા સમીકરણમાં કિંમત મૂકો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook Ex 3.2</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "ઉકેલો: x/2 + 2y/3 = -1 અને x - y/3 = 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સમીકરણ (1) ને 6 વડે ગુણતા: 3x + 4y = -6<br>સમીકરણ (2) ને 3 વડે ગુણતા: 3x - y = 9</p><p>બાદબાકી કરતા: (3x + 4y) - (3x - y) = -6 - 9<br>5y = -15 => <strong>y = -3</strong></p><p>y = -3 ને 3x - y = 9 માં મૂકતા:<br>3x - (-3) = 9<br>3x + 3 = 9<br>3x = 6 => <strong>x = 2</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અપૂર્ણાંક વાળા પદો હોય ત્યારે લસાઅ (LCM) વડે ગુણી સાદા સમીકરણમાં ફેરવી દેવા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Most IMP Question</p></div>"
+    }
+  ]
+}
