@@ -65,3 +65,70 @@ var Std10_Maths_2Marks = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "બહુપદીઓ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "દ્વિઘાત બહુપદી x² - 2x - 8 ના શૂન્યો શોધો અને તેમના શૂન્યો અને સહગુણકો વચ્ચેનો સંબંધ ચકાસો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં, p(x) = x² - 2x - 8 = 0<br>x² - 4x + 2x - 8 = 0<br>x(x - 4) + 2(x - 4) = 0<br>(x - 4)(x + 2) = 0<br>તેથી, x = 4 અથવા x = -2</p><p><strong>સંબંધની ચકાસણી:</strong><br>શૂન્યોનો સરવાળો = 4 + (-2) = 2 = -(-2)/1 = -b/a<br>શૂન્યોનો ગુણાકાર = 4 × (-2) = -8 = -8/1 = c/a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્યોનો સરવાળો હંમેશા -b/a અને ગુણાકાર c/a થવો જ જોઈએ. જો ન થાય તો સમજવું કે અવયવ પાડવામાં ભૂલ છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "નીચે દર્શાવેલ સંખ્યાઓ અનુક્રમે દ્વિઘાત બહુપદીના શૂન્યોનો સરવાળો અને શૂન્યોનો ગુણાકાર છે, તે પરથી દ્વિઘાત બહુપદી મેળવો : (i) 1/4 , -1  (ii) √2, 1/3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>(i) શૂન્યોનો સરવાળો (S) = 1/4, ગુણાકાર (P) = -1<br>બહુપદી p(x) = k [x² - Sx + P]<br>= k [x² - (1/4)x + (-1)]<br>= k [x² - x/4 - 1]<br>જો k = 4 લઈએ, તો <b>4x² - x - 4</b> મળે.</p><p>(ii) શૂન્યોનો સરવાળો (S) = √2, ગુણાકાર (P) = 1/3<br>p(x) = k [x² - √2x + 1/3]<br>જો k = 3 લઈએ, તો <b>3x² - 3√2x + 1</b> મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદમાં જે સંખ્યા હોય તેને લસાઅ તરીકે લઈ આખી બહુપદી સાથે ગુણી નાખવી જેથી પૂર્ણાંક સહગુણકો મળે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise 2.2</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "દ્વિઘાત બહુપદી 4s² - 4s + 1 ના શૂન્યો શોધો અને શૂન્યો અને સહગુણકો વચ્ચેનો સંબંધ ચકાસો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>4s² - 4s + 1 = (2s - 1)² = 0<br>(2s - 1)(2s - 1) = 0<br>તેથી, s = 1/2 અને s = 1/2<br>અહીં બંને શૂન્યો સમાન છે.</p><p><strong>સંબંધની ચકાસણી:</strong><br>સરવાળો = 1/2 + 1/2 = 1 = -(-4)/4 = -b/a<br>ગુણાકાર = 1/2 × 1/2 = 1/4 = 1/4 = c/a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે બહુપદી પૂર્ણવર્ગ ત્રિપદી હોય ત્યારે હંમેશા બંને શૂન્યો સમાન જ મળે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Page 28</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "દ્વિઘાત બહુપદી 6x² - 3 - 7x ના શૂન્યો શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પ્રમાણિત સ્વરૂપમાં ગોઠવતા: p(x) = 6x² - 7x - 3<br>6x² - 9x + 2x - 3 = 0 (કારણ કે 6 × -3 = -18 અને -9 + 2 = -7)<br>3x(2x - 3) + 1(2x - 3) = 0<br>(2x - 3)(3x + 1) = 0<br>તેથી, x = 3/2 અથવા x = -1/3</p><p>આમ, બહુપદીના શૂન્યો <b>3/2</b> અને <b>-1/3</b> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હંમેશા પદને ઘાતના ઉતરતા ક્રમમાં ગોઠવ્યા પછી જ અવયવ પાડવા, નહીતર ભૂલ પડવાની શક્યતા રહે છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "જો α અને β એ બહુપદી p(x) = x² - 5x + 6 ના શૂન્યો હોય, તો 1/α + 1/β ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં p(x) = x² - 5x + 6 માટે a = 1, b = -5, c = 6<br>શૂન્યોનો સરવાળો α + β = -b/a = -(-5)/1 = 5<br>શૂન્યોનો ગુણાકાર αβ = c/a = 6/1 = 6</p><p>હવે, 1/α + 1/β = (β + α) / αβ<br>= 5 / 6</p><p>આમ, 1/α + 1/β ની કિંમત <b>5/6</b> થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/α + 1/β શોધવા માટે સીધું જ સૂત્ર (-b/c) વાપરી શકાય. (-(-5)/6 = 5/6).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> HOTS Question for GSEB</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "બહુપદી x² - 3 ના શૂન્યો શોધો અને તેના શૂન્યો અને સહગુણકો વચ્ચેનો સંબંધ ચકાસો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>p(x) = x² - 3 = (x - √3)(x + √3) = 0<br>તેથી, x = √3 અથવા x = -√3</p><p><strong>સંબંધની ચકાસણી:</strong><br>સરવાળો = √3 + (-√3) = 0 = -0/1 = -b/a<br>ગુણાકાર = (√3) × (-√3) = -3 = -3/1 = c/a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x² - k પ્રકારની બહુપદીના શૂન્યો હંમેશા ±√k જ હોય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Example 3</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "એક દ્વિઘાત બહુપદીના શૂન્યો 3 અને -2 હોય, તો તે બહુપદી શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં α = 3 અને β = -2 આપેલ છે.<br>શૂન્યોનો સરવાળો (S) = α + β = 3 + (-2) = 1<br>શૂન્યોનો ગુણાકાર (P) = αβ = 3 × (-2) = -6</p><p>દ્વિઘાત બહુપદી p(x) = x² - (α + β)x + αβ<br>= x² - (1)x + (-6)<br>= <b>x² - x - 6</b></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો સીધા શૂન્યો આપ્યા હોય તો પહેલા સરવાળો અને ગુણાકાર શોધી લેવો, પછી જ સૂત્રમાં મૂકવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "બહુપદી 4u² + 8u ના શૂન્યો શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>p(u) = 4u² + 8u = 0<br>4u(u + 2) = 0<br>અહીં બે શક્યતા છે:<br>4u = 0  =>  u = 0<br>u + 2 = 0  =>  u = -2</p><p>તેથી બહુપદીના શૂન્યો <b>0</b> અને <b>-2</b> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે અચળ પદ 'c' શૂન્ય હોય, ત્યારે એક શૂન્ય હંમેશા 0 જ આવશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Exercise 2.2</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "જો બહુપદી p(x) = kx² + 2x + 3k ના શૂન્યોનો સરવાળો તેમના ગુણાકાર જેટલો જ હોય, તો k ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં a = k, b = 2, c = 3k<br>શરત મુજબ: શૂન્યોનો સરવાળો = શૂન્યોનો ગુણાકાર<br>-b/a = c/a<br>-2/k = 3k/k<br>-2/k = 3 (જ્યાં k ≠ 0)<br>3k = -2<br><b>k = -2/3</b></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે છેદમાં બંને બાજુ 'a' હોય ત્યારે તેને સીધા જ ઉડાડી શકાય, એટલે કે -b = c સૂત્ર વાપરી શકાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Assignment Special</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "ચકાસો કે -1 અને 2 એ બહુપદી p(x) = x² - x - 2 ના શૂન્યો છે કે નહીં.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>p(x) = x² - x - 2<br>x = -1 લેતા:<br>p(-1) = (-1)² - (-1) - 2 = 1 + 1 - 2 = 0<br><br>x = 2 લેતા:<br>p(2) = (2)² - (2) - 2 = 4 - 2 - 2 = 0</p><p>અહીં બંને કિસ્સામાં કિંમત 0 મળે છે, તેથી <b>-1 અને 2 એ બહુપદીના શૂન્યો છે.</b></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો p(a) = 0 થાય, તો જ 'a' ને બહુપદીનું શૂન્ય કહેવાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Basic Concept</p></div>"
+    }
+  ]
+}
