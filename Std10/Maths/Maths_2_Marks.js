@@ -199,3 +199,76 @@ var Std10_Maths_2Marks = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "દ્વિઘાત સમીકરણ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "નીચે આપેલ સમીકરણો દ્વિઘાત સમીકરણો છે કે નહીં તે ચકાસો: \n(i) (x + 1)² = 2(x - 3) \n(ii) x² - 2x = (-2)(3 - x)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>(i) (x + 1)² = 2(x - 3)<br>x² + 2x + 1 = 2x - 6<br>x² + 1 + 6 = 0<br>x² + 7 = 0<br>આ ax² + bx + c = 0 પ્રકારનું છે (જ્યાં a ≠ 0). તેથી, તે દ્વિઘાત સમીકરણ છે.</p><p>(ii) x² - 2x = (-2)(3 - x)<br>x² - 2x = -6 + 2x<br>x² - 4x + 6 = 0<br>આ પણ ax² + bx + c = 0 પ્રકારનું છે. તેથી, તે દ્વિઘાત સમીકરણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો સાદું રૂપ આપ્યા પછી x ની મહત્તમ ઘાત 2 બચે અને x² વાળું પદ ઉડી ન જાય, તો તે દ્વિઘાત સમીકરણ હોય જ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB NCERT Textbook Ex 4.1</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "અવયવીકરણની રીતે દ્વિઘાત સમીકરણ 6x² - x - 2 = 0 નાં મૂળ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં, 6x² - x - 2 = 0<br>પ્રથમ પદ અને અંતિમ પદનો ગુણાકાર = 6 × (-2) = -12<br>એવા ભાગ પાડો જેનો તફાવત -1 થાય: -4 અને 3<br>6x² - 4x + 3x - 2 = 0<br>2x(3x - 2) + 1(3x - 2) = 0<br>(3x - 2)(2x + 1) = 0<br>3x - 2 = 0 અથવા 2x + 1 = 0<br>x = 2/3 અથવા x = -1/2</p><p>આમ, સમીકરણના મૂળ <strong>2/3</strong> અને <strong>-1/2</strong> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્યમ પદના ભાગ પાડતી વખતે ચિહ્નોનું ખાસ ધ્યાન રાખવું. જો અંતિમ પદ ઋણ હોય, તો મોટા ભાગનું ચિહ્ન મધ્યમ પદ જેવું રાખવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "જો દ્વિઘાત સમીકરણ 2x² + kx + 3 = 0 નાં બંને મૂળ સમાન હોય, તો k ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં, a = 2, b = k, c = 3<br>સમાન મૂળ હોવા માટે વિવેચક D = 0 થાય.<br>D = b² - 4ac = 0<br>k² - 4(2)(3) = 0<br>k² - 24 = 0<br>k² = 24<br>k = ±√24<br>k = ±√(4 × 6)<br>k = ±2√6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમાન મૂળ' શબ્દ દેખાય એટલે આંખ બંધ કરીને b² = 4ac મૂકી દેવું!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB March 2022/2024 Pattern</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "બે ક્રમિક ધન પૂર્ણાંક સંખ્યાઓનો ગુણાકાર 306 છે. આ પરિસ્થિતિને દ્વિઘાત સમીકરણ સ્વરૂપે દર્શાવો અને સમીકરણ મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે પ્રથમ ધન પૂર્ણાંક સંખ્યા x છે.<br>તેથી, તેની પછીની ક્રમિક ધન પૂર્ણાંક સંખ્યા x + 1 થાય.<br>શરત મુજબ, તેમનો ગુણાકાર 306 છે.<br>x(x + 1) = 306<br>x² + x = 306<br>x² + x - 306 = 0</p><p>આ માંગેલું દ્વિઘાત સમીકરણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રમિક સંખ્યાઓ માટે હંમેશા (x) અને (x+1) લેવા. જો અયુગ્મ કે યુગ્મ ક્રમિક હોય તો (x) અને (x+2) લેવા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB NCERT Ex 4.1</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "દ્વિઘાત સમીકરણ 2x² - 3x + 5 = 0 ના વિવેચકની કિંમત શોધો અને તે પરથી તેના મૂળનું સ્વરૂપ નક્કી કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં, a = 2, b = -3, c = 5<br>વિવેચક D = b² - 4ac<br>D = (-3)² - 4(2)(5)<br>D = 9 - 40<br>D = -31</p><p>અહીં, D < 0 હોવાથી, આપેલ દ્વિઘાત સમીકરણને <strong>વાસ્તવિક મૂળ નથી.</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો D ઋણ આવે તો દાખલો આગળ ગણવો નહીં, કારણ કે મૂળ અસ્તિત્વ ધરાવતા નથી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "અવયવીકરણની રીતે સમીકરણ √2x² + 7x + 5√2 = 0 ના મૂળ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં, √2 × 5√2 = 5 × 2 = 10<br>10 ના એવા ભાગ જેનો સરવાળો 7 થાય: 5 અને 2<br>√2x² + 5x + 2x + 5√2 = 0<br>x(√2x + 5) + √2(√2x + 5) = 0<br>(√2x + 5)(x + √2) = 0<br>x = -5/√2 અથવા x = -√2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો કે 2 = √2 × √2 થાય, જેનો ઉપયોગ સામાન્ય (common) કાઢવા માટે કરો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Most IMP for Standard Maths</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "દ્વિઘાત સૂત્રનો ઉપયોગ કરી સમીકરણ 2x² + x - 4 = 0 ના મૂળ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>a = 2, b = 1, c = -4<br>D = b² - 4ac = (1)² - 4(2)(-4) = 1 + 32 = 33<br>દ્વિઘાત સૂત્ર: x = [-b ± √D] / 2a<br>x = [-1 ± √33] / 2(2)<br>x = (-1 + √33) / 4 અને x = (-1 - √33) / 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે મધ્યમ પદના અવયવ ન પડતા હોય ત્યારે હંમેશા દ્વિઘાત સૂત્ર (શ્રીધર આચાર્યની રીત) વાપરવી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT New Syllabus 2024</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "સમીકરણ kx(x - 2) + 6 = 0 ને બે સમાન વાસ્તવિક મૂળ હોય તો k શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સમીકરણને પ્રમાણિત સ્વરૂપમાં ફેરવતા: kx² - 2kx + 6 = 0<br>અહીં, a = k, b = -2k, c = 6<br>સમાન મૂળ માટે D = 0<br>(-2k)² - 4(k)(6) = 0<br>4k² - 24k = 0<br>4k(k - 6) = 0<br>k = 0 અથવા k = 6<br>પરંતુ k = 0 લેતા તે દ્વિઘાત સમીકરણ ન રહે, તેથી <strong>k = 6</strong>.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: k ની બે કિંમતો મળે ત્યારે હંમેશા ચેક કરવું કે k = 0 લેવાથી x² વાળું પદ ગાયબ તો નથી થઈ જતું ને?</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB PYQ</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "જેના વર્ગોનો સરવાળો 365 થાય તેવી બે ક્રમિક ધન પૂર્ણાંક સંખ્યાઓ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે બે ક્રમિક ધન પૂર્ણાંક x અને x+1 છે.<br>x² + (x + 1)² = 365<br>x² + x² + 2x + 1 = 365<br>2x² + 2x - 364 = 0<br>x² + x - 182 = 0<br>(x + 14)(x - 13) = 0<br>x = -14 (શક્ય નથી) અથવા x = 13.<br>તેથી સંખ્યાઓ <strong>13 અને 14</strong> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 182 ના એવા ભાગ પાડો જેનો તફાવત 1 હોય. 13 × 14 = 182.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise 4.2</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "ચકાસો કે x = 2 એ સમીકરણ 3x² - 5x - 2 = 0 નું મૂળ છે કે નહીં.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>P(x) = 3x² - 5x - 2 માં x = 2 મુકતા:<br>P(2) = 3(2)² - 5(2) - 2<br>P(2) = 3(4) - 10 - 2<br>P(2) = 12 - 12 = 0<br>અહીં ડાબી બાજુ = જમણી બાજુ (0) થાય છે.</p><p>તેથી, x = 2 એ આપેલ સમીકરણનું <strong>મૂળ છે.</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો કિંમત મુકવાથી જવાબ 0 આવે તો તે 'મૂળ' છે, નહીંતર નથી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "એવું દ્વિઘાત સમીકરણ બનાવો જેના મૂળ 3 અને -2 હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>મૂળ α = 3 અને β = -2<br>મૂળનો સરવાળો (S) = 3 + (-2) = 1<br>મૂળનો ગુણાકાર (P) = 3 × (-2) = -6<br>દ્વિઘાત સમીકરણ: x² - (S)x + (P) = 0<br>x² - (1)x + (-6) = 0<br>x² - x - 6 = 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીધું (x - α)(x - β) = 0 માં કિંમત મુકો: (x - 3)(x + 2) = 0</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Foundation Question</p></div>"
+    }
+  ]
+}
