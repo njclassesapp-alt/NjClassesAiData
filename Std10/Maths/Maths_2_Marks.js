@@ -406,3 +406,70 @@ var Std10_Maths_2Marks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "યામ ભૂમિતિ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "બિંદુઓ A(2, 3) અને B(4, 1) વચ્ચેનું અંતર શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં, $x_1 = 2, y_1 = 3$ અને $x_2 = 4, y_2 = 1$ છે.</p><p>અંતર સૂત્ર મુજબ:</p><p>$AB = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$</p><p>$AB = \\sqrt{(4 - 2)^2 + (1 - 3)^2}$</p><p>$AB = \\sqrt{(2)^2 + (-2)^2}$</p><p>$AB = \\sqrt{4 + 4} = \\sqrt{8}$</p><p>$AB = 2\\sqrt{2}$ એકમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે પણ તફાવત સરખો હોય (અહીં 2 અને 2), ત્યારે અંતર હંમેશા 'તફાવત × √2' થાય. એટલે કે 2√2.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "જો બિંદુ P(x, y) એ બિંદુઓ A(7, 1) અને B(3, 5) થી સમાન અંતરે હોય, તો x અને y વચ્ચેનો સંબંધ મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં PA = PB હોવાથી, $PA^2 = PB^2$ થાય.</p><p>$(x - 7)^2 + (y - 1)^2 = (x - 3)^2 + (y - 5)^2$</p><p>$x^2 - 14x + 49 + y^2 - 2y + 1 = x^2 - 6x + 9 + y^2 - 10y + 25$</p><p>$-14x - 2y + 50 = -6x - 10y + 34$</p><p>$-14x + 6x - 2y + 10y = 34 - 50$</p><p>$-8x + 8y = -16$</p><p>$-8$ વડે ભાગતા, $x - y = 2$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પ્રકારના દાખલામાં હંમેશા સાદું સમીકરણ x - y = c ના સ્વરૂપમાં લાવવાનો પ્રયત્ન કરવો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "બિંદુઓ A(-1, 7) અને B(4, -3) ને જોડતા રેખાખંડનું 2:3 ગુણોત્તરમાં વિભાજન કરતા બિંદુના યામ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં $x_1 = -1, y_1 = 7, x_2 = 4, y_2 = -3$ અને $m_1 = 2, m_2 = 3$ છે.</p><p>વિભાજન સૂત્ર મુજબ:</p><p>$P(x, y) = \\left( \\frac{m_1x_2 + m_2x_1}{m_1 + m_2}, \\frac{m_1y_2 + m_2y_1}{m_1 + m_2} \\right)$</p><p>$P(x, y) = \\left( \\frac{2(4) + 3(-1)}{2 + 3}, \\frac{2(-3) + 3(7)}{2 + 3} \\right)$</p><p>$P(x, y) = \\left( \\frac{8 - 3}{5}, \\frac{-6 + 21}{5} \\right)$</p><p>$P(x, y) = (1, 3)$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદમાં હંમેશા ગુણોત્તરનો સરવાળો (2+3=5) મૂકવાનું ભૂલશો નહીં.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Section Formula Application</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "x-અક્ષ પરનું એવું બિંદુ શોધો કે જે (2, -5) અને (-2, 9) થી સમાન અંતરે હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે x-અક્ષ પરનું બિંદુ P(x, 0) છે. </p><p>$PA^2 = PB^2$</p><p>$(x - 2)^2 + (0 - (-5))^2 = (x - (-2))^2 + (0 - 9)^2$</p><p>$x^2 - 4x + 4 + 25 = x^2 + 4x + 4 + 81$</p><p>$-4x + 29 = 4x + 85$</p><p>$-8x = 56 \\Rightarrow x = -7$</p><p>આમ, બિંદુ (-7, 0) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો બિંદુ x-અક્ષ પર હોય તો y-યામ હંમેશા 0 જ લેવો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Exam Most IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "બિંદુઓ (4, -1) અને (-2, -3) ને જોડતા રેખાખંડના મધ્યબિંદુના યામ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>મધ્યબિંદુના યામ $M = \\left( \\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2} \\right)$</p><p>$M = \\left( \\frac{4 + (-2)}{2}, \\frac{-1 + (-3)}{2} \\right)$</p><p>$M = \\left( \\frac{2}{2}, \\frac{-4}{2} \\right)$</p><p>$M = (1, -2)$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્યબિંદુ એટલે સરેરાશ (Average). બંને x નો સરવાળો ભાગ્યા 2 અને બંને y નો સરવાળો ભાગ્યા 2.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "બિંદુ (-4, 6) એ બિંદુઓ A(-6, 10) અને B(3, -8) ને જોડતા રેખાખંડનું કયા ગુણોત્તરમાં વિભાજન કરશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે ગુણોત્તર k : 1 છે.</p><p>x-યામ માટે: $-4 = \\frac{k(3) + 1(-6)}{k + 1}$</p><p>$-4(k + 1) = 3k - 6$</p><p>$-4k - 4 = 3k - 6$</p><p>$2 = 7k \\Rightarrow k = \\frac{2}{7}$</p><p>આમ, માંગેલ ગુણોત્તર 2 : 7 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણોત્તર શોધવા માટે માત્ર x અથવા માત્ર y યામનો ઉપયોગ કરવાથી જવાબ ઝડપથી આવશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB 2024 Reduced Syllabus</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "જો A(1, 2), B(4, y), C(x, 6) અને D(3, 5) એ એક સમાંતરબાજુ ચતુષ્કોણના શિરોબિંદુઓ હોય તો x અને y શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સમાંતરબાજુ ચતુષ્કોણમાં વિકર્ણો પરસ્પર દુભાગે છે. તેથી AC નું મધ્યબિંદુ = BD નું મધ્યબિંદુ.</p><p>$\\left( \\frac{1+x}{2}, \\frac{2+6}{2} \\right) = \\left( \\frac{4+3}{2}, \\frac{y+5}{2} \\right)$</p><p>$\frac{1+x}{2} = \\frac{7}{2} \\Rightarrow 1+x = 7 \\Rightarrow x = 6$</p><p>$\frac{8}{2} = \\frac{y+5}{2} \\Rightarrow 8 = y+5 \\Rightarrow y = 3$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સામ-સામેના શિરોબિંદુઓના યામનો સરવાળો હંમેશા સમાન થાય. (1+x = 4+3 અને 2+6 = y+5)</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Geometry Hack</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "વર્તુળના વ્યાસનું એક અંત્યબિંદુ (2, 3) અને કેન્દ્ર (–2, 5) હોય, તો વ્યાસનું બીજું અંત્યબિંદુ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે બીજું અંત્યબિંદુ B(x, y) છે. કેન્દ્ર O(-2, 5) એ AB નું મધ્યબિંદુ થશે.</p><p>$-2 = \\frac{2 + x}{2} \\Rightarrow -4 = 2 + x \\Rightarrow x = -6$</p><p>$5 = \\frac{3 + y}{2} \\Rightarrow 10 = 3 + y \\Rightarrow y = 7$</p><p>આમ, બીજું બિંદુ (-6, 7) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજા બિંદુ માટે (2 × કેન્દ્રનો યામ - આપેલ બિંદુનો યામ) વાપરો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "(i) બિંદુ A(0, 6) અને B(0, -2) વચ્ચેનું અંતર શોધો. <br> (ii) જો કોઈ બિંદુના યામ (4, 3) હોય તો તેનું ઊગમબિંદુથી અંતર શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>(i) અંતર $d = \\sqrt{(0-0)^2 + (-2-6)^2} = \\sqrt{(-8)^2} = 8$ એકમ.</p><p>(ii) ઊગમબિંદુ (0,0) થી અંતર = $\\sqrt{x^2 + y^2} = \\sqrt{4^2 + 3^2} = \\sqrt{16+9} = \\sqrt{25} = 5$ એકમ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊગમબિંદુથી અંતર માટે સીધું જ પાયથાગોરસની ત્રિપુટી (3, 4, 5) યાદ રાખો!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exemplar</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "ચકાસો કે બિંદુઓ (5, -2), (6, 4) અને (7, -2) એ સમદ્રીબાજુ ત્રિકોણના શિરોબિંદુઓ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે A(5, -2), B(6, 4), C(7, -2)</p><p>$AB^2 = (6-5)^2 + (4-(-2))^2 = 1^2 + 6^2 = 1 + 36 = 37$</p><p>$BC^2 = (7-6)^2 + (-2-4)^2 = 1^2 + (-6)^2 = 1 + 36 = 37$</p><p>$AC^2 = (7-5)^2 + (-2-(-2))^2 = 2^2 + 0^2 = 4$</p><p>અહીં $AB^2 = BC^2 \\Rightarrow AB = BC$. બે બાજુઓ સમાન હોવાથી તે સમદ્રીબાજુ ત્રિકોણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્ગમૂળ કાઢવાની જરૂર નથી, જો વર્ગ સમાન આવે તો બાજુઓ સમાન જ હોય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Series</p></div>"
+    }
+  ]
+}
