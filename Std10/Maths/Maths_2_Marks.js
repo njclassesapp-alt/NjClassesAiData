@@ -272,3 +272,70 @@ var Std10_Maths_2Marks = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "સમાંતર શ્રેણી",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "સમાંતર શ્રેણી 2, 7, 12, ... નું 10 મું પદ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં, પ્રથમ પદ a = 2 અને સામાન્ય તફાવત d = 7 - 2 = 5 છે.<br>આપણે 10 મું પદ શોધવાનું છે, તેથી n = 10.<br>સમાંતર શ્રેણીના n-માં પદનું સૂત્ર: a<sub>n</sub> = a + (n - 1)d<br>a<sub>10</sub> = 2 + (10 - 1)5<br>a<sub>10</sub> = 2 + (9)5<br>a<sub>10</sub> = 2 + 45 = 47</p><p>આમ, શ્રેણીનું 10 મું પદ 47 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 મું પદ એટલે a + 9d. સીધું જ 2 + 9(5) કરો એટલે 47 મળી જશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "સમાંતર શ્રેણી 21, 18, 15, ... નું કયું પદ -81 થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં, a = 21, d = 18 - 21 = -3 અને ધારો કે n-મું પદ a<sub>n</sub> = -81 છે.<br>સૂત્ર: a<sub>n</sub> = a + (n - 1)d<br>-81 = 21 + (n - 1)(-3)<br>-81 - 21 = (n - 1)(-3)<br>-102 = (n - 1)(-3)<br>(n - 1) = -102 / -3<br>n - 1 = 34<br>n = 35</p><p>આમ, શ્રેણીનું 35 મું પદ -81 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: n શોધવા માટે સૂત્ર: n = [(a<sub>n</sub> - a) / d] + 1</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "(i) જો a = 7, d = 3, n = 8 હોય, તો a<sub>n</sub> શોધો. (ii) શ્રેણી 10, 7, 4, ... નો સામાન્ય તફાવત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>(i) a<sub>n</sub> = a + (n - 1)d<br>a<sub>8</sub> = 7 + (8 - 1)3 = 7 + (7)3 = 7 + 21 = 28.<br><br>(ii) સામાન્ય તફાવત d = બીજું પદ - પ્રથમ પદ<br>d = 7 - 10 = -3.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે શ્રેણી ઘટતી હોય ત્યારે 'd' હંમેશા ઋણ (-) આવે તે ખાસ ધ્યાન રાખવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "બે અંકની કેટલી સંખ્યાઓ 3 વડે વિભાજ્ય હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>3 વડે વિભાજ્ય બે અંકની સંખ્યાઓ: 12, 15, 18, ..., 99.<br>અહીં, a = 12, d = 3, a<sub>n</sub> = 99.<br>સૂત્ર: a<sub>n</sub> = a + (n - 1)d<br>99 = 12 + (n - 1)3<br>99 - 12 = (n - 1)3<br>87 = (n - 1)3<br>n - 1 = 87 / 3 = 29<br>n = 30</p><p>આમ, 3 વડે વિભાજ્ય બે અંકની 30 સંખ્યાઓ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લી સંખ્યા 99 અને પહેલી 12. તફાવત 87. 87/3 = 29, તેમાં 1 ઉમેરો એટલે 30.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "સમાંતર શ્રેણી 10, 7, 4, ..., -62 માં છેલ્લેથી 11 મું પદ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં શ્રેણી ઉલટાવતા: -62, ..., 4, 7, 10 મળે.<br>નવું પ્રથમ પદ a = -62, નવો સામાન્ય તફાવત d = 10 - 7 = 3 (અથવા - (-3)).<br>હવે 11 મું પદ (n = 11) શોધીએ:<br>a<sub>11</sub> = a + (11 - 1)d<br>a<sub>11</sub> = -62 + (10)3<br>a<sub>11</sub> = -62 + 30 = -32</p><p>આમ, છેલ્લેથી 11 મું પદ -32 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લેથી n મું પદ = l - (n-1)d સૂત્ર વાપરી શકાય. l = -62, d = -3.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "સમાંતર શ્રેણી 8, 3, -2, ... ના પ્રથમ 22 પદોનો સરવાળો શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં a = 8, d = 3 - 8 = -5, n = 22.<br>સરવાળાનું સૂત્ર: S<sub>n</sub> = n/2 [2a + (n - 1)d]<br>S<sub>22</sub> = 22/2 [2(8) + (22 - 1)(-5)]<br>S<sub>22</sub> = 11 [16 + (21)(-5)]<br>S<sub>22</sub> = 11 [16 - 105]<br>S<sub>22</sub> = 11 [-89] = -979</p><p>આમ, પ્રથમ 22 પદોનો સરવાળો -979 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણાકારમાં ચિન્હોની ભૂલ ન થાય તેનું ખાસ ધ્યાન રાખવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "જો સમાંતર શ્રેણીનું n-મું પદ a<sub>n</sub> = 3 + 4n હોય, તો તેનું પ્રથમ પદ અને સામાન્ય તફાવત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>આપેલ છે: a<sub>n</sub> = 3 + 4n<br>n = 1 લેતા, a<sub>1</sub> = 3 + 4(1) = 3 + 4 = 7<br>n = 2 લેતા, a<sub>2</sub> = 3 + 4(2) = 3 + 8 = 11<br>સામાન્ય તફાવત d = a<sub>2</sub> - a<sub>1</sub> = 11 - 7 = 4</p><p>આમ, પ્રથમ પદ a = 7 અને સામાન્ય તફાવત d = 4 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે a<sub>n</sub> રેખીય હોય ત્યારે n નો સહગુણક એ જ સામાન્ય તફાવત d હોય છે (અહીં d = 4).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "પ્રથમ 1000 ધન પૂર્ણાંકોનો સરવાળો શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>શ્રેણી: 1, 2, 3, ..., 1000<br>અહીં a = 1, l = 1000, n = 1000.<br>સૂત્ર: S<sub>n</sub> = n/2 [a + l]<br>S<sub>1000</sub> = 1000/2 [1 + 1000]<br>S<sub>1000</sub> = 500 [1001]<br>S<sub>1000</sub> = 500500</p><p>આમ, પ્રથમ 1000 ધન પૂર્ણાંકોનો સરવાળો 5,00,500 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂત્ર [n(n+1)/2] વાપરો. 1000 * 1001 / 2 = 500 * 1001.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "જો 2k + 1, 13, 5k - 3 એ સમાંતર શ્રેણીના ક્રમિક પદો હોય, તો k ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જો a, b, c સમાંતર શ્રેણીમાં હોય તો 2b = a + c થાય.<br>અહીં a = 2k + 1, b = 13, c = 5k - 3.<br>2(13) = (2k + 1) + (5k - 3)<br>26 = 7k - 2<br>26 + 2 = 7k<br>28 = 7k<br>k = 28 / 7 = 4</p><p>આમ, k ની કિંમત 4 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (વચ્ચેનું પદ) = (પહેલા અને ત્રીજા પદની સરેરાશ). 13 = [(2k+1) + (5k-3)] / 2</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "8 ના પ્રથમ 15 ગુણિતોનો સરવાળો શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>8 ના ગુણિતો: 8, 16, 24, ... (15 પદો સુધી)<br>અહીં a = 8, d = 8, n = 15.<br>S<sub>n</sub> = n/2 [2a + (n - 1)d]<br>S<sub>15</sub> = 15/2 [2(8) + (15 - 1)8]<br>S<sub>15</sub> = 15/2 [16 + 14 * 8]<br>S<sub>15</sub> = 15/2 [16 + 112]<br>S<sub>15</sub> = 15/2 [128] = 15 * 64 = 960</p><p>આમ, 8 ના પ્રથમ 15 ગુણિતોનો સરવાળો 960 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 8 સામાન્ય કાઢી લો: 8 * [15 * 16 / 2] = 8 * 120 = 960.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    }
+  ]
+}
