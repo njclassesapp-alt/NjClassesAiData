@@ -339,3 +339,70 @@ var Std10_Maths_2Marks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "ત્રિકોણ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "આકૃતિમાં જો DE || BC હોય, તો EC શોધો. અહીં AD = 1.5 સેમી, DB = 3 સેમી અને AE = 1 સેમી આપેલ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં ત્રિકોણ ABC માં DE || BC છે. તેથી થેલ્સના પ્રમેય (પ્રમેય 6.1) મુજબ:</p><p style='text-align:center;'>\\(\\frac{AD}{DB} = \\frac{AE}{EC}\\)</p><p>કિંમતો મૂકતા:</p><p>\\(\\frac{1.5}{3} = \\frac{1}{EC}\\)</p><p>\\(1.5 \\times EC = 3 \\times 1\\)</p><p>\\(EC = \\frac{3}{1.5} = \\frac{30}{15}\\)</p><p><strong>EC = 2 સેમી</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: </p><p>ગુણોત્તર જુઓ: AD કરતા DB બમણું (1.5 ના ડબલ 3) છે, તો AE કરતા EC પણ બમણું જ હોય. એટલે કે 1 ના ડબલ 2 સેમી!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "નીચેના પ્રશ્નોના જવાબ આપો: (i) બે સમરૂપ ત્રિકોણોની બાજુઓનો ગુણોત્તર 4 : 9 છે, તો તેમના ક્ષેત્રફળનો ગુણોત્તર શોધો. (ii) શું બધા ચોરસો સમરૂપ છે? શા માટે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>(i) આપણે જાણીએ છીએ કે બે સમરૂપ ત્રિકોણોના ક્ષેત્રફળનો ગુણોત્તર તેમની અનુરૂપ બાજુઓના ગુણોત્તરના વર્ગ જેટલો હોય છે.<br>ક્ષેત્રફળનો ગુણોત્તર = (4/9)² = <strong>16 : 81</strong></p><p>(ii) <strong>હા</strong>, બધા ચોરસો સમરૂપ છે. કારણ કે તેમના બધા જ અનુરૂપ ખૂણાઓ સમાન (90°) હોય છે અને તેમની બધી બાજુઓ એકબીજાના સમપ્રમાણમાં હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: </p><p>બાજુ પરથી ક્ષેત્રફળ શોધવું હોય તો 'વર્ગ' કરવો (4²=16, 9²=81) અને ક્ષેત્રફળ પરથી બાજુ શોધવી હોય તો 'વર્ગમૂળ' કાઢવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "Δ ABC માં D અને E એ અનુક્રમે AB અને AC પર આવેલા બિંદુઓ છે. જો AD = 5.7 સેમી, DB = 9.5 સેમી, AE = 4.8 સેમી અને EC = 8 સેમી હોય, તો ચકાસો કે DE || BC છે કે નહીં.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>થેલ્સના પ્રમેયના પ્રતીપ મુજબ, જો \\(\\frac{AD}{DB} = \\frac{AE}{EC}\\) થાય તો DE || BC કહેવાય.</p><p>ડાબી બાજુ: \\(\\frac{AD}{DB} = \\frac{5.7}{9.5} = \\frac{57}{95} = \\frac{3 \\times 19}{5 \\times 19} = \\frac{3}{5}\\)</p><p>જમણી બાજુ: \\(\\frac{AE}{EC} = \\frac{4.8}{8} = \\frac{48}{80} = \\frac{3 \\times 16}{5 \\times 16} = \\frac{3}{5}\\)</p><p>અહીં, \\(\\frac{AD}{DB} = \\frac{AE}{EC}\\) હોવાથી, <strong>DE || BC છે.</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: </p><p>હંમેશા દશાંશ ચિહ્ન દૂર કરીને અતિસંક્ષિપ્ત રૂપ આપો, જો બંને અપૂર્ણાંક સમાન આવે તો રેખાઓ સમાંતર છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "6 મીટર ઊંચા શિરોલંબ થાંભલાનો જમીન પર પડતો પડછાયો 4 મીટર લાંબો છે. તે જ વખતે એક મિનારાનો પડછાયો 28 મીટર લાંબો છે. મિનારાની ઊંચાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>એક જ સમયે સૂર્યનો ઉત્સેધકોણ સમાન હોય, તેથી થાંભલો અને મિનારો કાટકોણ ત્રિકોણ બનાવશે જે સમરૂપ હશે.</p><p>ધારો કે મિનારાની ઊંચાઈ 'h' મીટર છે.</p><p>સમરૂપતા મુજબ: \\(\\frac{\\text{થાંભલાની ઊંચાઈ}}{\\text{મિનારાની ઊંચાઈ}} = \\frac{\\text{થાંભલાનો પડછાયો}}{\\text{મિનારાનો પડછાયો}}\\)</p><p>\\(\\frac{6}{h} = \\frac{4}{28}\\)</p><p>\\(4 \\times h = 6 \\times 28\\)</p><p>\\(h = \\frac{6 \\times 28}{4} = 6 \\times 7\\)</p><p><strong>h = 42 મીટર</strong>. આમ, મિનારાની ઊંચાઈ 42 મીટર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: </p><p>પડછાયો 4 માંથી 28 થયો એટલે કે 7 ગણો થયો (4 × 7 = 28), તો ઊંચાઈ પણ 7 ગણી જ થાય (6 × 7 = 42)!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "Δ ABC ~ Δ DEF છે. જો AB = 1.2 સેમી અને DE = 1.4 સેમી હોય, તો Δ ABC અને Δ DEF ના ક્ષેત્રફળનો ગુણોત્તર શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પ્રમેય મુજબ, સમરૂપ ત્રિકોણોના ક્ષેત્રફળનો ગુણોત્તર તેમની અનુરૂપ બાજુઓના વર્ગના ગુણોત્તર બરાબર હોય છે.</p><p>\\(\\frac{\\text{Area}(ABC)}{\\text{Area}(DEF)} = (\\frac{AB}{DE})^2\\)</p><p>\\(= (\\frac{1.2}{1.4})^2 = (\\frac{12}{14})^2 = (\\frac{6}{7})^2\\)</p><p>\\(= \\frac{36}{49}\\)</p><p>આમ, ક્ષેત્રફળનો ગુણોત્તર <strong>36 : 49</strong> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: </p><p>પોઈન્ટ કાઢી નાખો (12 અને 14), છેદ ઉડાડો (6 અને 7) અને પછી વર્ગ કરી દો!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "સમલંબ ચતુષ્કોણ ABCD માં AB || DC છે. તેના વિકર્ણો એકબીજાને O બિંદુએ છેદે છે. સાબિત કરો કે \\(\\frac{AO}{BO} = \\frac{CO}{DO}\\).",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #1565c0; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>Δ AOB અને Δ COD માં,</p><p>1. ∠OAB = ∠OCD (યુગ્મકોણ, કારણ કે AB || DC)</p><p>2. ∠OBA = ∠ODC (યુગ્મકોણ)</p><p>3. ∠AOB = ∠COD (અભિકોણ)</p><p>ખૂ-ખૂ-ખૂ શરત મુજબ, Δ AOB ~ Δ COD.</p><p>તેથી, \\(\\frac{AO}{CO} = \\frac{BO}{DO}\\)</p><p>એકાંતર પ્રમાણ લેતા, <strong>\\(\\frac{AO}{BO} = \\frac{CO}{DO}\\)</strong> સાબિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: </p><p>જ્યારે પણ સમલંબ ચતુષ્કોણ હોય ત્યારે વિકર્ણોથી બનતા સામસામેના ત્રિકોણો હંમેશા સમરૂપ જ હોય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "આકૃતિમાં ∠P = ∠RTS છે. સાબિત કરો કે Δ RPQ ~ Δ RTS.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>Δ RPQ અને Δ RTS માં,</p><p>1. ∠R = ∠R (સામાન્ય ખૂણો)</p><p>2. ∠RPQ = ∠RTS (પક્ષમાં આપેલ છે)</p><p>આમ, બે ખૂણાઓ સમાન હોવાથી <strong>ખૂ-ખૂ (AA)</strong> સમરૂપતાની શરત મુજબ:</p><p><strong>Δ RPQ ~ Δ RTS</strong> સાબિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: </p><p>કોઈપણ બે ત્રિકોણમાં જો બે ખૂણા સરખા મળી જાય, તો તે બે ત્રિકોણ 'ખૂ-ખૂ' શરત મુજબ સમરૂપ જ હોય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "બે સમરૂપ ત્રિકોણો ABC અને PQR ની પરિમિતિ અનુક્રમે 36 સેમી અને 24 સેમી છે. જો PQ = 10 સેમી હોય, તો AB શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>નિયમ: બે સમરૂપ ત્રિકોણોની પરિમિતિનો ગુણોત્તર તેમની અનુરૂપ બાજુઓના ગુણોત્તર જેટલો જ હોય છે.</p><p>\\(\\frac{\\text{Perimeter of Δ ABC}}{\\text{Perimeter of Δ PQR}} = \\frac{AB}{PQ}\\)</p><p>\\(\\frac{36}{24} = \\frac{AB}{10}\\)</p><p>\\(AB = \\frac{36 \\times 10}{24}\\)</p><p>\\(AB = \\frac{3 \\times 10}{2} = 3 \\times 5\\)</p><p><strong>AB = 15 સેમી</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: </p><p>પરિમિતિમાં વર્ગ કરવાની જરૂર નથી, ડાયરેક્ટ ગુણોત્તર લેવો. (36/24 એટલે 3/2 થાય, તો 10 ના 1.5 ગણા 15 થાય!)</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "Δ ABC માં DE || BC છે. જો AD = x, DB = x-2, AE = x+2 અને EC = x-1 હોય, તો x ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>થેલ્સના પ્રમેય મુજબ: \\(\\frac{AD}{DB} = \\frac{AE}{EC}\\)</p><p>\\(\\frac{x}{x-2} = \\frac{x+2}{x-1}\\)</p><p>\\(x(x-1) = (x+2)(x-2)\\)</p><p>\\(x^2 - x = x^2 - 4\\)</p><p>\\(-x = -4\\)</p><p><strong>x = 4</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: </p><p>અહીં (x+2)(x-2) એ તફાવતની રીતે x² - 4 બને છે, જે સાદું સમીકરણ બનાવી દે છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "Δ ABC માં ∠B = 90° અને BD ⊥ AC છે. જો AD = 4 સેમી અને CD = 9 સેમી હોય, તો BD ની લંબાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કાટકોણ ત્રિકોણમાં વેધના ગુણધર્મ (ભૌમિતિક મધ્યક) મુજબ:</p><p>\\(BD^2 = AD \\times CD\\)</p><p>\\(BD^2 = 4 \\times 9\\)</p><p>\\(BD^2 = 36\\)</p><p>\\(BD = \\sqrt{36}\\)</p><p><strong>BD = 6 સેમી</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: </p><p>વેધ શોધવો હોય ત્યારે પાયાના બે ભાગનો ગુણાકાર કરી તેનું વર્ગમૂળ કાઢી લેવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    }
+  ]
+}
