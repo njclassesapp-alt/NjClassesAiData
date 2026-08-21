@@ -7,7 +7,7 @@ client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 with open('system/progress_tracker.json', 'r') as f:
     tracker = json.load(f)
 
-# --- બંને વિષયોના નવા ઘટાડેલા સિલેબસ (NCERT 2024+) નું લિસ્ટ ---
+# --- ત્રણેય વિષયોના સિલેબસનું લિસ્ટ ---
 std10_maths_chapters = {
     1: "વાસ્તવિક સંખ્યાઓ", 2: "બહુપદીઓ", 3: "દ્વિચલ સુરેખ સમીકરણયુગ્મ", 4: "દ્વિઘાત સમીકરણ",
     5: "સમાંતર શ્રેણી", 6: "ત્રિકોણ", 7: "યામ ભૂમિતિ", 8: "ત્રિકોણમિતિનો પરિચય",
@@ -23,6 +23,19 @@ std10_science_chapters = {
     13: "આપણું પર્યાવરણ"
 }
 
+# નવો ઉમેરો: સામાજિક વિજ્ઞાનના 23 પ્રકરણો
+std10_ss_chapters = {
+    1: "ભારતનો વારસો", 2: "ભારતનો સાંસ્કૃતિક વારસો: પરંપરાઓ: હસ્ત અને લલિતકલા",
+    3: "ભારતનો સાંસ્કૃતિક વારસો: શિલ્પ અને સ્થાપત્ય", 4: "ભારતનો સાહિત્યિક વારસો",
+    5: "ભારતનો વિજ્ઞાન અને ટેકનોલોજીનો વારસો", 6: "ભારતના સાંસ્કૃતિક વારસાનાં સ્થળો",
+    7: "આપણા વારસાનું જતન", 8: "કુદરતી સંસાધનો", 9: "વન અને વન્યજીવ સંસાધન",
+    10: "ભારત: કૃષિ", 11: "ભારત: જળ સંસાધન", 12: "ભારત: ખનીજ અને શક્તિનાં સંસાધનો",
+    13: "ઉત્પાદન ઉદ્યોગો", 14: "પરિવહન, સંદેશાવ્યવહાર અને વ્યાપાર", 15: "આર્થિક વિકાસ",
+    16: "આર્થિક ઉદારીકરણ વૈશ્વિકીકરણ", 17: "આર્થિક સમસ્યાઓ અને પડકારો: ગરીબી અને બેરોજગારી",
+    18: "ભાવવધારો અને ગ્રાહક જાગૃતિ", 19: "માનવ વિકાસ", 20: "ભારતની સામાજિક સમસ્યાઓ અને પડકારો",
+    21: "સામાજિક પરિવર્તન", 22: "પ્રકૃતિમાં પોષણ-વ્યવસ્થા", 23: "માર્ગ-સલામતી અને વાહનચાલક"
+}
+
 subject = tracker['subject']
 chapter_num = tracker['current_chapter']
 marks = tracker['current_marks']
@@ -36,15 +49,19 @@ if subject.lower() == "maths":
         7: [2, 3], 8: [2, 3, 4], 9: [3, 4], 10: [2, 3, 4], 11: [2, 3], 12: [3, 4], 
         13: [2, 3, 4], 14: [2, 3]
     }
-    subject_rules = "- સ્માર્ટ વર્ક: 2 નાના પ્રશ્નો ભેગા કરી મોટા પ્રશ્નો બનાવવા."
-else:
+    subject_rules = "- સ્માર્ટ વર્ક: 2 નાના પ્રશ્નો ભેગા કરી 4 માર્કના મોટા પ્રશ્નો બનાવવા."
+elif subject.lower() == "science":
     max_chapters = len(std10_science_chapters)
     chapter_name = std10_science_chapters.get(chapter_num, "અન્ય પ્રકરણ")
-    # વિજ્ઞાનમાં કોઈ બ્લુપ્રિન્ટ મર્યાદા નથી, બધામાં 4, 3, 2 માર્ક્સ ચાલશે
     blueprint = {i: [2, 3, 4] for i in range(1, max_chapters + 1)}
-    subject_rules = "- આ વિજ્ઞાનનો વિષય છે. આકૃતિ વાળા અને મુદ્દાસર જવાબો આપવા."
+    subject_rules = "- આ વિજ્ઞાનનો વિષય છે. આકૃતિ વાળા અને મુદ્દાસર સચોટ જવાબો આપવા."
+else:  # સામાજિક વિજ્ઞાન (SS)
+    max_chapters = len(std10_ss_chapters)
+    chapter_name = std10_ss_chapters.get(chapter_num, "અન્ય પ્રકરણ")
+    blueprint = {i: [2, 3, 4] for i in range(1, max_chapters + 1)}
+    subject_rules = "- આ સામાજિક વિજ્ઞાનનો વિષય છે. ઐતિહાસિક, ભૌગોલિક અને આર્થિક મુદ્દાસર વિસ્તૃત જવાબો આપવા."
 
-# --- ઓટો-સ્કીપ લોજીક (જો માર્ક્સ બ્લુપ્રિન્ટમાં ન હોય તો) ---
+# --- ઓટો-સ્કીપ લોજીક ---
 found_valid_chapter = False
 while tracker['current_marks'] >= 2 and not found_valid_chapter:
     current_ch = tracker['current_chapter']
@@ -62,21 +79,26 @@ while tracker['current_marks'] >= 2 and not found_valid_chapter:
 std = tracker['std']
 marks = tracker['current_marks']
 chapter_num = tracker['current_chapter']
-chapter_name = (std10_maths_chapters if subject.lower() == "maths" else std10_science_chapters).get(chapter_num, "અન્ય")
+
+if subject.lower() == "maths":
+    chapter_name = std10_maths_chapters.get(chapter_num, "અન્ય")
+elif subject.lower() == "science":
+    chapter_name = std10_science_chapters.get(chapter_num, "અન્ય")
+else:
+    chapter_name = std10_ss_chapters.get(chapter_num, "અન્ય")
 
 print(f"Generating {marks} Marks questions for Std {std} {subject} Chapter {chapter_num} ({chapter_name})...", flush=True)
 
-# નવો પ્રોમ્પ્ટ: મેક્સિમમ પ્રશ્નો અને નો-રીપીટેશન લોજીક સાથે
+# નવો કડક પ્રોમ્પ્ટ: મેક્સિમમ પ્રશ્નો અને નો-રીપીટેશન લોજીક
 prompt = f"""
 તમે ગુજરાત બોર્ડ (GSEB) ના એક્સપર્ટ શિક્ષક છો. 
 તમારે 2024 પછીના નવા ઘટાડેલા NCERT સિલેબસ મુજબ ધોરણ {std}, વિષય: {subject}, પ્રકરણ: {chapter_num} ({chapter_name}) માંથી {marks} ગુણના પ્રશ્નો બનાવવાના છે.
 
-પ્રશ્નોની સંખ્યા અને લેવલ માટેના કડક નિયમો (STRICT QUALITY CONTROL):
-1. સંખ્યા (મેક્સિમમ): માત્ર 10 પર અટકવું નહિ. આ પ્રકરણમાંથી {marks} ગુણના જેટલા પણ વધુમાં વધુ પ્રશ્નો બની શકતા હોય (15, 20 કે તેથી વધુ), તે બધા જ બનાવવા. કોઈ અગત્યનો પ્રશ્ન છૂટવો ન જોઈએ.
-2. નો-રીપીટેશન અને લેવલ: {marks} ગુણના પ્રશ્નોની લંબાઈ બરાબર {marks} ગુણ જેટલી જ હોવી જોઈએ. જો 4 ગુણ હોય તો માત્ર મોટા અને વિસ્તૃત પ્રશ્નો જ લેવા. આ પ્રશ્નો ભવિષ્યમાં 3 કે 2 ગુણમાં રીપીટ ન થવા જોઈએ. માર્ક્સ પ્રમાણે જ પ્રશ્નોનું સિલેક્શન કરવું.
-3. ક્રમ અને પસંદગી: 
-   - સૌથી પહેલા: અગાઉ બોર્ડની પરીક્ષામાં પૂછાયેલા મોસ્ટ IMP પ્રશ્નો (વર્ષના ઉલ્લેખ સાથે).
-   - ત્યારબાદ: પૂછાવાની સૌથી વધુ શક્યતા ધરાવતા નવા અને લોજીકલ પ્રશ્નો.
+પ્રશ્નોની સંખ્યા અને લેવલ માટેના અત્યંત કડક નિયમો (STRICT QUALITY CONTROL):
+1. સંખ્યા (ફરજિયાત મેક્સિમમ): 10 પ્રશ્નો તો ફરજિયાત કાઢવાના જ છે! પણ જો આ પ્રકરણ મોટું હોય, તો 10 પર અટકવું નહિ, 15, 20 કે જેટલા વધુ પ્રશ્નો બની શકતા હોય તેટલા મેક્સિમમ પ્રશ્નો ફરજિયાત બનાવવા.
+2. નો-રીપીટેશન (NO REPETITION): જે પ્રશ્ન {marks} ગુણમાં પૂછ્યો હોય તે અગાઉ 4 કે 3 ગુણમાં ન પૂછાયો હોવો જોઈએ. પ્રશ્નો એકબીજામાં રીપીટ ન થવા જોઈએ.
+3. એક્ઝેક્ટ લેવલ: પ્રશ્નોની લંબાઈ અને ડેપ્થ બરાબર {marks} ગુણ જેટલી જ હોવી જોઈએ. જો 4 ગુણ હોય તો માત્ર મોટા અને અત્યંત વિસ્તૃત પ્રશ્નો જ લેવા. જો 2 ગુણ હોય તો માત્ર ટૂંકા પ્રશ્નો લેવા.
+4. ક્રમ: પહેલા અગાઉ પૂછાયેલા બોર્ડના પ્રશ્નો (વર્ષ સાથે) અને પછી મોસ્ટ IMP પ્રશ્નો લેવા.
 {subject_rules}
 
 કડક નિયમો (STRICT FORMATTING):
@@ -92,7 +114,7 @@ prompt = f"""
       "questionNumber": "પ્રશ્ન 1",
       "marks": {marks},
       "question": "અહીં પ્રશ્ન લખવો...",
-      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં સંપૂર્ણ ઉકેલના સ્ટેપ્સ લખવા (જરૂર પડે ત્યાં આકૃતિ માટે SVG વાપરવું).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અહીં શોર્ટકટ ટ્રીક લખવી...</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં સંપૂર્ણ ઉકેલના સ્ટેપ્સ લખવા (જરૂર પડે ત્યાં આકૃતિ માટે SVG વાપરવું).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: અહીં ટ્રીક લખવી...</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
     }}
   ]
 }}
@@ -150,23 +172,30 @@ with open(file_path, mode, encoding='utf-8') as f:
         f.write(f',\n"{chapter_num}": ' + output_data + '\n')
 
 # ---------------------------------------------------------
-# નવો ઉમેરો: ગણિત પૂરું થતાં વિજ્ઞાન શરૂ કરવાનું માસ્ટર લોજીક
+# ટ્રાન્ઝિશન લોજીક: ગણિત -> વિજ્ઞાન -> સામાજિક વિજ્ઞાન (SS)
 # ---------------------------------------------------------
 tracker['current_chapter'] += 1 
 if tracker['current_chapter'] > max_chapters:
     tracker['current_chapter'] = 1
     tracker['current_marks'] -= 1
 
-# જો ગણિતના 2 માર્કના બધા ચેપ્ટર પૂરા થાય, તો વિજ્ઞાન 4 માર્કથી ચાલુ કરો
+# 1. ગણિતમાંથી વિજ્ઞાનમાં જવું
 if tracker['subject'].lower() == "maths" and tracker['current_marks'] < 2:
     print("🎉 ગણિત વિષય પૂરો થયો છે! હવે વિજ્ઞાન વિષય શરૂ થશે...", flush=True)
     tracker['subject'] = "Science"
     tracker['current_marks'] = 4
     tracker['current_chapter'] = 1
 
-# જો વિજ્ઞાનના પણ 2 માર્કના બધા ચેપ્ટર પૂરા થાય, તો ઓટોમેશન પૂરું!
-if tracker['subject'].lower() == "science" and tracker['current_marks'] < 2:
-    print("🎉 વિજ્ઞાન વિષય પણ પૂરો થયો છે! ઓટોમેશન પૂર્ણ થયું.", flush=True)
+# 2. વિજ્ઞાનમાંથી સામાજિક વિજ્ઞાન (SS) માં જવું
+elif tracker['subject'].lower() == "science" and tracker['current_marks'] < 2:
+    print("🎉 વિજ્ઞાન વિષય પૂરો થયો છે! હવે સામાજિક વિજ્ઞાન (SS) શરૂ થશે...", flush=True)
+    tracker['subject'] = "SS"
+    tracker['current_marks'] = 4
+    tracker['current_chapter'] = 1
+
+# 3. સામાજિક વિજ્ઞાન પૂરું થાય એટલે ઓટોમેશન કમ્પ્લીટ
+elif tracker['subject'].lower() in ["ss", "social science"] and tracker['current_marks'] < 2:
+    print("🎉 સામાજિક વિજ્ઞાન પણ પૂરો થયો છે! ઓટોમેશન પૂર્ણ થયું.", flush=True)
     tracker['status'] = "completed"
 
 with open('system/progress_tracker.json', 'w') as f:
