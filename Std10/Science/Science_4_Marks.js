@@ -77,3 +77,82 @@ var Std10_Science_4Marks = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "ઍસિડ, બેઇઝ અને ક્ષાર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 4,
+      "question": "ક્લોર-આલ્કલી પ્રક્રિયા એટલે શું? આ પ્રક્રિયામાં ઉદ્ભવતી નીપજો જણાવી તેના ઉપયોગો લખો. (GSEB 2020, 2022, 2024)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જ્યારે સોડિયમ ક્લોરાઇડ (NaCl) ના જલીય દ્રાવણમાંથી વિદ્યુત પસાર કરવામાં આવે છે, ત્યારે તે વિઘટિત થઈ સોડિયમ હાઇડ્રોક્સાઇડ (NaOH) બનાવે છે. આ પ્રક્રિયાને <strong>ક્લોર-આલ્કલી પ્રક્રિયા</strong> કહે છે, કારણ કે તેમાં ઉત્પન્ન થતી નીપજો ક્લોરિન (ક્લોર) અને સોડિયમ હાઇડ્રોક્સાઇડ (આલ્કલી) છે.</p><p><strong>રાસાયણિક સમીકરણ:</strong><br>2NaCl(aq) + 2H₂O(l) → 2NaOH(aq) + Cl₂(g) + H₂(g)</p><p><strong>નીપજો અને તેના ઉપયોગો:</strong></p><ul><li><strong>1. ક્લોરિન (Cl₂ - એનોડ પર):</strong> જળ-શુદ્ધિકરણ (સ્વિમિંગ પુલ), PVC ના ઉત્પાદનમાં, CFCs અને જંતુનાશકો બનાવવા.</li><li><strong>2. હાઇડ્રોજન (H₂ - કેથોડ પર):</strong> બળતણ તરીકે, માર્ગેરીન (વનસ્પતિ ઘી) બનાવવા અને ખાતર માટે એમોનિયાની બનાવટમાં.</li><li><strong>3. સોડિયમ હાઇડ્રોક્સાઇડ (NaOH - કેથોડ પાસે):</strong> ધાતુઓ પરથી ગ્રીસ દૂર કરવા, સાબુ અને પ્રક્ષાલકોની બનાવટમાં, કાગળની બનાવટમાં અને કૃત્રિમ રેસાઓ બનાવવા.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'H' ફોર હાઇડ્રોજન અને 'C' ફોર કેથોડ (બંને વ્યંજન) - એટલે હાઇડ્રોજન કેથોડ પર મળે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Previous Year Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 4,
+      "question": "દૈનિક જીવનમાં pH નું મહત્વ સમજાવો. (કોઈપણ ચાર મુદ્દા) (GSEB 2019, 2021, 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>દૈનિક જીવનમાં pH નું મહત્વ નીચે મુજબ છે:</p><ul><li><strong>1. પાચનતંત્રમાં pH:</strong> આપણું જઠર ખોરાકના પાચન માટે HCl ઉત્પન્ન કરે છે. અપચા દરમિયાન જઠર વધુ એસિડ ઉત્પન્ન કરે છે, જેને લીધે બળતરા થાય છે. તેના નિવારણ માટે 'એન્ટાસિડ' (દા.ત. મિલ્ક ઓફ મેગ્નેશિયા) લેવામાં આવે છે.</li><li><strong>2. દાંતનું ક્ષયન રોકવામાં:</strong> જ્યારે મોઢાની અંદરના ભાગની pH 5.5 કરતા ઘટે છે, ત્યારે દાંતનું ઇનેમલ (કેલ્શિયમ ફોસ્ફેટ) ખવાવા લાગે છે. જમ્યા પછી બ્રશ કરવાથી (બેઇઝ ટૂથપેસ્ટ) એસિડ તટસ્થ થાય છે.</li><li><strong>3. જમીનની pH:</strong> છોડના તંદુરસ્ત વિકાસ માટે જમીનની pH ચોક્કસ મર્યાદામાં (6.5 થી 7.3) હોવી જોઈએ. એસિડિક જમીનને તટસ્થ કરવા લાઈમ (CaO) અને બેઝિક જમીન માટે જીપ્સમ ઉમેરવામાં આવે છે.</li><li><strong>4. પ્રાણીઓ અને વનસ્પતિમાં સ્વરક્ષણ:</strong> મધમાખી જ્યારે ડંખ મારે છે ત્યારે તે એસિડ મુક્ત કરે છે, જેનાથી દર્દ થાય છે. ડંખવાળા ભાગ પર ખાવાનો સોડા (બેઇઝ) લગાવવાથી રાહત મળે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: pH 7 થી ઓછું એટલે ખતરો (એસિડિક), pH 7 એટલે શાંત (તટસ્થ)!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise / GSEB IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 4,
+      "question": "પ્લાસ્ટર ઓફ પેરિસ (POP) ની બનાવટ, ગુણધર્મો અને તેના ઉપયોગો લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>બનાવટ:</strong> જ્યારે જીપ્સમને (CaSO₄·2H₂O) 373 K તાપમાને ગરમ કરવામાં આવે છે, ત્યારે તે પાણીના અણુઓ ગુમાવે છે અને કેલ્શિયમ સલ્ફેટ હેમીહાઇડ્રેટ (CaSO₄·½H₂O) બને છે, જેને પ્લાસ્ટર ઓફ પેરિસ કહે છે.</p><p><strong>રાસાયણિક સમીકરણ:</strong><br>CaSO₄·2H₂O (જીપ્સમ) + ઉષ્મા (373K) → CaSO₄·½H₂O (POP) + 1½H₂O</p><p><strong>ગુણધર્મો:</strong><br>1. તે સફેદ પાવડર છે.<br>2. પાણી સાથે મિશ્ર કરતા તે ફરીથી સખત પદાર્થ 'જીપ્સમ' માં ફેરવાય છે.</p><p><strong>ઉપયોગો:</strong><br>1. ડોકટરો ભાંગી ગયેલા હાડકાંને યોગ્ય સ્થિતિમાં ગોઠવવા પ્લાસ્ટર તરીકે વાપરે છે.<br>2. રમકડાં અને સજાવટની સામગ્રી બનાવવા માટે.<br>3. સપાટીને લીસી બનાવવા માટે (ઘરના બાંધકામમાં ceiling પર).<br>4. ચોક બનાવવા માટે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: POP ને હંમેશા ભેજમુક્ત પાત્રમાં રાખવું જોઈએ, નહીંતર તે પથ્થર (જીપ્સમ) બની જશે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook Page 33</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 4,
+      "question": "બેકિંગ સોડા અને વોશિંગ સોડાના રાસાયણિક નામ, સૂત્ર અને તેમના બબ્બે ઉપયોગો લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><table border='1' style='width:100%; border-collapse: collapse; text-align:center;'><tr style='background-color:#16a085; color:white;'><th>વિગત</th><th>બેકિંગ સોડા (ખાવાનો સોડા)</th><th>વોશિંગ સોડા (ધોવાનો સોડા)</th></tr><tr><td>રાસાયણિક નામ</td><td>સોડિયમ હાઇડ્રોજન કાર્બોનેટ</td><td>સોડિયમ કાર્બોનેટ ડેકાહાઇડ્રેટ</td></tr><tr><td>રાસાયણિક સૂત્ર</td><td>NaHCO₃</td><td>Na₂CO₃·10H₂O</td></tr></table><br><p><strong>બેકિંગ સોડાના ઉપયોગો:</strong><br>1. રસોઈમાં ખોરાકને નરમ અને પોચો બનાવવા (દા.ત. ભજીયા).<br>2. એસિડિટીમાં એન્ટાસિડ તરીકે અને અગ્નિશામક તરીકે.</p><p><strong>વોશિંગ સોડાના ઉપયોગો:</strong><br>1. કાચ, સાબુ અને કાગળ ઉદ્યોગમાં વપરાય છે.<br>2. પાણીની સ્થાયી કઠિનતા દૂર કરવા અને ઘરની સફાઈમાં વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખવાની રીત: 'Bi' (બાય) એટલે બેકિંગ. Na-Bi-Carbonate!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Most IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 4,
+      "question": "ધાતુની એસિડ સાથેની પ્રક્રિયા આકૃતિ દોરી સમજાવો અને હાઇડ્રોજન વાયુની કસોટી લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જ્યારે ધાતુ એસિડ સાથે પ્રક્રિયા કરે છે, ત્યારે ક્ષાર અને હાઇડ્રોજન વાયુ ઉત્પન્ન થાય છે.</p><p><strong>સમીકરણ:</strong> Zn (ઝિંક) + H₂SO₄ (સલ્ફ્યુરિક એસિડ) → ZnSO₄ + H₂(g)↑</p><p><strong>આકૃતિનું વર્ણન (SVG સંકેત):</strong></p><svg width='200' height='100' viewBox='0 0 200 100' xmlns='http://www.w3.org/2000/svg'><rect x='40' y='10' width='20' height='70' fill='none' stroke='black'/><path d='M50 80 Q 80 100 120 80' stroke='black' fill='none'/><circle cx='130' cy='75' r='5' fill='blue' opacity='0.5'/><text x='10' y='95' font-size='10'>Zn + Acid</text></svg><p><strong>પદ્ધતિ:</strong> એક કસનળીમાં દાણાદાર ઝિંક લો અને તેમાં મંદ H₂SO₄ ઉમેરો. ઉત્પન્ન થતા વાયુને સાબુના દ્રાવણમાંથી પસાર કરો.</p><p><strong>હાઇડ્રોજન વાયુની કસોટી:</strong> સાબુના દ્રાવણમાંથી નીકળતા પરપોટા પાસે સળગતી મીણબત્તી લાવતા તે <strong>'ધડાકા' (Pop Sound)</strong> સાથે સળગી ઉઠે છે, જે હાઇડ્રોજન વાયુની હાજરી સૂચવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધાતુ + એસિડ = ક્ષાર + 'H' વાયુ (ધ-એ-ક્ષ-હ)!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Activity 2.3</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 4,
+      "question": "વિરંજન પાવડર (બ્લીચિંગ પાવડર) કેવી રીતે બને છે? તેના ગુણધર્મો અને ચાર ઉપયોગો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>બનાવટ:</strong> શુષ્ક ફોડેલો ચૂનો [Ca(OH)₂] પર ક્લોરિનની પ્રક્રિયા દ્વારા વિરંજન પાવડર બને છે.</p><p><strong>સમીકરણ:</strong> Ca(OH)₂ + Cl₂ → CaOCl₂ (વિરંજન પાવડર) + H₂O</p><p><strong>ઉપયોગો:</strong></p><ul><li>1. ટેક્સટાઇલ ઉદ્યોગમાં સુતરાઉ અને લિનનના વિરંજન (બ્લીચિંગ) માટે.</li><li>2. કાગળ ઉદ્યોગમાં લાકડાના માવાના વિરંજન માટે.</li><li>3. લૌન્ડ્રીમાં ધોયેલા કપડાંના વિરંજન માટે.</li><li>4. રાસાયણિક ઉદ્યોગોમાં ઓક્સિડેશનકર્તા તરીકે અને પીવાના પાણીને જંતુમુક્ત કરવા માટે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની ટ્રીક: બ્લીચિંગ પાવડર એટલે 'સફેદ કપડાં અને ચોખ્ખું પાણી'!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Page 31</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 4,
+      "question": "શું બધા જ એસિડિક દ્રાવણો વિદ્યુતનું વહન કરે છે? પ્રયોગ દ્વારા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ના, માત્ર એવા દ્રાવણો કે જે આયનીકરણ પામી મુક્ત આયનો ઉત્પન્ન કરે છે તે જ વિદ્યુતનું વહન કરે છે.</p><p><strong>પ્રયોગ:</strong><br>1. બે બીકરમાં અનુક્રમે મંદ HCl અને ગ્લુકોઝનું દ્રાવણ લો.<br>2. આકૃતિ મુજબ ખીલી, વાયર, બલ્બ અને બેટરીનું જોડાણ કરો.<br>3. જ્યારે સ્વીચ ચાલુ કરશો ત્યારે જોશો કે HCl વાળા બીકરમાં બલ્બ પ્રકાશિત થાય છે, પરંતુ ગ્લુકોઝ કે આલ્કોહોલના દ્રાવણમાં બલ્બ પ્રકાશિત થતો નથી.</p><p><strong>નિષ્કર્ષ:</strong> એસિડ (HCl) એ H⁺ આયનો મુક્ત કરે છે જે વિદ્યુત પ્રવાહના વહન માટે જવાબદાર છે, જ્યારે ગ્લુકોઝ આયનોમાં વિભાજિત થતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની ટ્રીક: 'આયન હોય તો જ લાઈટ થાય' - ગ્લુકોઝમાં આયન નથી, એટલે બલ્બ બંધ રહેશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Activity 2.8</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 4,
+      "question": "સોડિયમ કાર્બોનેટ અને સોડિયમ હાઇડ્રોજન કાર્બોનેટની મંદ HCl સાથેની પ્રક્રિયા આકૃતિ સહ વર્ણવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધાતુના કાર્બોનેટ અને હાઇડ્રોજન કાર્બોનેટ એસિડ સાથે પ્રક્રિયા કરી ક્ષાર, પાણી અને CO₂ વાયુ આપે છે.</p><p><strong>સમીકરણો:</strong><br>1. Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂(g)<br>2. NaHCO₃ + HCl → NaCl + H₂O + CO₂(g)</p><p><strong>કસોટી:</strong> ઉત્પન્ન થતા CO₂ વાયુને ચૂનાના પાણી [Ca(OH)₂] માંથી પસાર કરતા તે <strong>દૂધિયું</strong> બને છે. જો વધુ પ્રમાણમાં CO₂ પસાર કરવામાં આવે તો દૂધિયો રંગ દૂર થાય છે.</p><hr><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Activity 2.5</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 4,
+      "question": "નિસ્યંદિત પાણી વિદ્યુતનું વહન કરતું નથી, જ્યારે વરસાદી પાણી વિદ્યુતનું વહન કરે છે. શા માટે? સાથે જ એસિડના ગુણધર્મો લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>વૈજ્ઞાનિક કારણ:</strong> નિસ્યંદિત પાણી એ શુદ્ધ સ્વરૂપ છે અને તેમાં કોઈ આયનો હોતા નથી, તેથી તે વિદ્યુતનું વહન કરતું નથી. જ્યારે વરસાદી પાણી વાતાવરણમાંથી પસાર થાય ત્યારે તેમાં CO₂ જેવા વાયુઓ ભળે છે, જે કાર્બોનિક એસિડ બનાવે છે. આ એસિડ આયનીકરણ પામી H⁺ આયનો મુક્ત કરે છે, જેના કારણે વરસાદી પાણી વિદ્યુતનું વહન કરે છે.</p><p><strong>એસિડના સામાન્ય ગુણધર્મો:</strong><br>1. સ્વાદે ખાટા હોય છે.<br>2. ભૂરા લિટમસ પત્રને લાલ બનાવે છે.<br>3. ધાતુ સાથે પ્રક્રિયા કરી H₂ વાયુ મુક્ત કરે છે.<br>4. બેઇઝ સાથે પ્રક્રિયા કરી ક્ષાર અને પાણી બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: 'એ-ભૂ-લા' (એસિડ ભૂરા લિટમસને લાલ બનાવે).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Conceptual Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 4,
+      "question": "સ્ફટિક જળ એટલે શું? કોપર સલ્ફેટના સ્ફટિકને ગરમ કરતા શું ફેરફાર થાય છે તે પ્રયોગ દ્વારા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>વ્યાખ્યા:</strong> ક્ષારના એક એકમ સૂત્રમાં રહેલા પાણીના નિશ્ચિત અણુઓની સંખ્યાને <strong>સ્ફટિક જળ</strong> કહે છે.</p><p><strong>પ્રયોગ:</strong><br>1. એક કસનળીમાં વાદળી રંગના કોપર સલ્ફેટ (CuSO₄·5H₂O) ના સ્ફટિક લો.<br>2. તેને બર્નર પર ગરમ કરો.<br>3. અવલોકન કરતા જણાશે કે વાદળી રંગ દૂર થાય છે અને સ્ફટિક <strong>સફેદ</strong> બને છે. કસનળીની દીવાલ પર પાણીના ટીપાં જોવા મળે છે.</p><p><strong>કારણ:</strong> ગરમ કરવાથી સ્ફટિક જળ દૂર થાય છે. જો આ સફેદ પાવડરમાં ફરીથી પાણી ઉમેરવામાં આવે, તો તે ફરીથી <strong>વાદળી</strong> રંગનો બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: CuSO₄·5H₂O (વાદળી) ↔ CuSO₄ (સફેદ) + 5H₂O</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Activity 2.15</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 4,
+      "question": "તટસ્થીકરણ પ્રક્રિયા એટલે શું? બે ઉદાહરણ આપી સમજાવો. (GSEB 2018, 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જે પ્રક્રિયામાં એસિડ અને બેઇઝ વચ્ચે પ્રક્રિયા થઈ ક્ષાર અને પાણી બને છે, તે પ્રક્રિયાને <strong>તટસ્થીકરણ પ્રક્રિયા</strong> કહે છે.</p><p><strong>સામાન્ય સમીકરણ:</strong> એસિડ + બેઇઝ → ક્ષાર + પાણી</p><p><strong>ઉદાહરણ 1:</strong> સોડિયમ હાઇડ્રોક્સાઇડ અને હાઇડ્રોક્લોરિક એસિડ વચ્ચેની પ્રક્રિયા.<br>NaOH (બેઇઝ) + HCl (એસિડ) → NaCl (ક્ષાર) + H₂O (પાણી)</p><p><strong>ઉદાહરણ 2:</strong> પોટેશિયમ હાઇડ્રોક્સાઇડ અને સલ્ફ્યુરિક એસિડ વચ્ચેની પ્રક્રિયા.<br>2KOH + H₂SO₄ → K₂SO₄ + 2H₂O</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની ટ્રીક: એસિડ (H⁺) અને બેઇઝ (OH⁻) મળીને હંમેશા પાણી (H₂O) બનાવે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Basic Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 4,
+      "question": "ધાતુના ઓક્સાઈડ અને અધાતુના ઓક્સાઈડના સ્વભાવ વિશે વિસ્તૃત સમજૂતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>1. ધાતુના ઓક્સાઈડ:</strong><br>ધાતુના ઓક્સાઈડ એસિડ સાથે પ્રક્રિયા કરી ક્ષાર અને પાણી બનાવે છે, તેથી તેઓ <strong>બેઝિક સ્વભાવ</strong> ધરાવે છે.<br>દા.ત. CuO (કોપર ઓક્સાઈડ) + 2HCl → CuCl₂ (વાદળી-લીલો ક્ષાર) + H₂O</p><p><strong>2. અધાતુના ઓક્સાઈડ:</strong><br>અધાતુના ઓક્સાઈડ બેઇઝ સાથે પ્રક્રિયા કરી ક્ષાર અને પાણી બનાવે છે, તેથી તેઓ <strong>એસિડિક સ્વભાવ</strong> ધરાવે છે.<br>દા.ત. CO₂ + Ca(OH)₂ → CaCO₃ + H₂O</p><p><strong>તારણ:</strong> ધાતુ ઓક્સાઈડ = બેઝિક, અધાતુ ઓક્સાઈડ = એસિડિક.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: 'અ' થી અધાતુ અને 'અ' થી એસિડિક!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Page 21-22</p></div>"
+    }
+  ]
+}
