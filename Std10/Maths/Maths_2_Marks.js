@@ -831,3 +831,100 @@ var Std10_Maths_2Marks = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "સંભાવના",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "જો P(A) = 0.05 હોય, તો 'A નહીં' (ઘટના A ની પૂરક ઘટના) ની સંભાવના શું છે? (GSEB March 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં, P(A) = 0.05 આપેલ છે.</p><p>આપણે જાણીએ છીએ કે કોઈપણ ઘટના અને તેની પૂરક ઘટનાની સંભાવનાનો સરવાળો 1 થાય છે.</p><p>સૂત્ર: P(A) + P(A̅) = 1</p><p>0.05 + P(A̅) = 1</p><p>P(A̅) = 1 - 0.05</p><p>P(A̅) = 0.95</p><p>આમ, 'A નહીં' ની સંભાવના 0.95 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટ પછી બે આંકડા હોય ત્યારે 100 માંથી બાદ કરી દેવા. (100 - 05 = 95, એટલે કે 0.95)</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board March 2022</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "એક સિક્કાને બે વખત ઉછાળવામાં આવે છે. ઓછામાં ઓછી એક છાપ (H) મળે તેની સંભાવના શોધો. (GSEB July 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>એક સિક્કાને બે વાર ઉછાળતા મળતા કુલ પરિણામો (n): {HH, HT, TH, TT} = 4</p><p>ધારો કે ઘટના A: ઓછામાં ઓછી એક છાપ મળે.</p><p>ઘટના A ના સાનુકૂળ પરિણામો (m): {HH, HT, TH} = 3</p><p>સંભાવના P(A) = m / n</p><p>P(A) = 3 / 4</p><p>આમ, ઓછામાં ઓછી એક છાપ મળવાની સંભાવના 3/4 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઓછામાં ઓછી એક' એટલે 0 સિવાયના બધા. એટલે કે માત્ર (TT) ને બાદ કરતાં બાકીના 3 પરિણામો આવે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB July 2023 / NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "પાસાને એકવાર ફેંકવામાં આવે છે. (i) અવિભાજ્ય સંખ્યા (ii) 2 અને 6 વચ્ચેની સંખ્યા મળવાની સંભાવના શોધો. (GSEB March 2020)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પાસા પરના કુલ અંકો = {1, 2, 3, 4, 5, 6}, તેથી કુલ પરિણામો n = 6</p><p>(i) અવિભાજ્ય સંખ્યાઓ: {2, 3, 5}, તેથી m = 3</p><p>P(અવિભાજ્ય) = 3/6 = 1/2</p><p>(ii) 2 અને 6 વચ્ચેની સંખ્યાઓ: {3, 4, 5}, તેથી m = 3</p><p>P(2 અને 6 વચ્ચે) = 3/6 = 1/2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: 1 એ અવિભાજ્ય કે વિભાજ્ય સંખ્યા નથી. 2 એ એકમાત્ર બેકી અવિભાજ્ય સંખ્યા છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board March 2020</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "સરખી રીતે ચીપેલાં 52 પત્તાંની થોકડીમાંથી એક પત્તું ખેંચવામાં આવે છે. તે પત્તું (i) લાલ રંગનો રાજા હોય (ii) મુખમુદ્રાવાળું પત્તું હોય તેની સંભાવના શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કુલ પત્તાં n = 52</p><p>(i) લાલ રંગના રાજા: લાલનો રાજા(1) + ચરકટનો રાજા(1) = 2 (m = 2)</p><p>P(લાલ રંગનો રાજા) = 2/52 = 1/26</p><p>(ii) મુખમુદ્રાવાળા પત્તાં (ગલ્લો, રાણી, રાજા): દરેક જાતના 3, તો 4 × 3 = 12 (m = 12)</p><p>P(મુખમુદ્રાવાળું પત્તું) = 12/52 = 3/13</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની ટિપ્સ: 'લાલનો રાજા' પૂછે તો 1/52, પણ 'લાલ રંગનો રાજા' પૂછે તો 2/52 થાય. શબ્દો પર ધ્યાન આપવું!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise 14.1</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "જો P(A) : P(A̅) = 3 : 2 હોય, તો P(A) શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે P(A) = 3x અને P(A̅) = 2x</p><p>આપણે જાણીએ છીએ કે, P(A) + P(A̅) = 1</p><p>3x + 2x = 1</p><p>5x = 1 ⇒ x = 1/5</p><p>હવે, P(A) = 3x = 3(1/5) = 3/5 અથવા 0.6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણોત્તરનો સરવાળો છેદમાં મૂકવો. P(A) = પહેલો ભાગ / કુલ ભાગ = 3 / (3+2) = 3/5.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Most IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "એક થેલામાં 3 લાલ અને 5 કાળા દડા છે. થેલામાંથી એક દડો યાદચ્છિક રીતે કાઢવામાં આવે, તો તે (i) લાલ હોય (ii) લાલ ન હોય તેની સંભાવના શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કુલ દડા n = 3 (લાલ) + 5 (કાળા) = 8</p><p>(i) કાઢેલો દડો લાલ હોય તેના સાનુકૂળ પરિણામો m = 3</p><p>P(લાલ) = 3/8</p><p>(ii) કાઢેલો દડો લાલ ન હોય એટલે કે કાળો હોય, m = 5</p><p>P(લાલ ન હોય) = 5/8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: લાલ ન હોય એટલે કે 1 - P(લાલ) = 1 - 3/8 = 5/8.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT / NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "લિપ વર્ષ (Leap Year) માં 53 સોમવાર આવે તેની સંભાવના શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>લિપ વર્ષમાં કુલ દિવસો = 366</p><p>366 દિવસ એટલે 52 અઠવાડિયા + 2 વધારાના દિવસો (366 ÷ 7 કરતાં શેષ 2 વધે).</p><p>52 અઠવાડિયામાં 52 સોમવાર તો હોય જ.</p><p>વધારાના 2 દિવસોની જોડી નીચે મુજબ હોય:</p><p>{(સોમ,મંગળ), (મંગળ,બુધ), (બુધ,ગુરુ), (ગુરુ,શુક્ર), (શુક્ર,શનિ), (શનિ,રવિ), (રવિ,સોમ)}</p><p>કુલ જોડ n = 7. જેમાં સોમવાર આવતો હોય તેવી જોડ m = 2 {(સોમ,મંગળ) અને (રવિ,સોમ)}</p><p>P(53 સોમવાર) = 2/7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિપ વર્ષમાં 53 વાર પૂછે તો જવાબ હંમેશા 2/7 અને બિન-લિપ વર્ષ હોય તો 1/7 આવે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board HOTS Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "એક પેટીમાં 1 થી 90 સુધીના અંકો લખેલી 90 ગોળ તકતીઓ છે. યાદચ્છિક રીતે એક તકતી કાઢવામાં આવે તો તેના પર 'બે અંકની સંખ્યા' હોય તેની સંભાવના શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કુલ તકતીઓ n = 90</p><p>બે અંકની સંખ્યાઓ: 10 થી 90 સુધીની સંખ્યાઓ.</p><p>એક અંકની સંખ્યાઓ 1 થી 9 છે (કુલ 9 સંખ્યાઓ).</p><p>બે અંકની સંખ્યાઓની સંખ્યા m = 90 - 9 = 81</p><p>સંભાવના P(A) = 81 / 90</p><p>છેદ ઉડાડતા: P(A) = (9 × 9) / (9 × 10) = 9/10 અથવા 0.9</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખવાની રીત: કુલ સંખ્યામાંથી એક અંકની સંખ્યા (1 થી 9) બાદ કરી નાખવી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise 14.1</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "રમત જીતવાની સંભાવના 0.62 હોય, તો રમત હારવાની સંભાવના શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે રમત જીતવાની ઘટના W છે, તેથી P(W) = 0.62</p><p>રમત હારવી એ જીતવાની પૂરક ઘટના છે (W̅).</p><p>P(W) + P(W̅) = 1</p><p>0.62 + P(W̅) = 1</p><p>P(W̅) = 1.00 - 0.62</p><p>P(W̅) = 0.38</p><p>આમ, રમત હારવાની સંભાવના 0.38 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: 100 માંથી 62 બાદ કરો તો 38 આવે, એટલે 0.38 જવાબ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB textbook example</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "બે પાસાઓને એકસાથે ઉછાળવામાં આવે છે. બંને પાસા પરના અંકોનો સરવાળો 10 હોય તેની સંભાવના શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>બે પાસા ઉછાળતા મળતા કુલ પરિણામો n = 6 × 6 = 36</p><p>ધારો કે ઘટના A: અંકોનો સરવાળો 10 થાય.</p><p>સાનુકૂળ પરિણામો m = {(4, 6), (5, 5), (6, 4)}</p><p>પરિણામોની સંખ્યા m = 3</p><p>P(A) = m / n = 3 / 36</p><p>P(A) = 1 / 12</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની ટ્રીક: સરવાળો 10 કરવા માટે મોટા અંકથી શરૂઆત કરવી (6+4), પછી (5+5), પછી (4+6). આનાથી ભૂલ નહિ પડે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "એક પેટીમાં 5 લાલ લખોટીઓ, 8 સફેદ લખોટીઓ અને 4 લીલી લખોટીઓ છે. પેટીમાંથી એક લખોટી યાદચ્છિક રીતે કાઢવામાં આવે, તો તે લખોટી લીલી ન હોય તેની સંભાવના શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કુલ લખોટીઓ n = 5 + 8 + 4 = 17</p><p>લીલી લખોટી ન હોય તેનો અર્થ એ કે તે લાલ અથવા સફેદ હોય.</p><p>સાનુકૂળ પરિણામો m = 5 (લાલ) + 8 (સફેદ) = 13</p><p>અથવા m = 17 - 4 (લીલી) = 13</p><p>P(લીલી ન હોય) = 13 / 17</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટિપ્સ: 'લીલી ન હોય' એટલે કે બાકીના તમામ રંગોનો સરવાળો કરવો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise 14.1</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "જાન્યુઆરી માસમાં 5 રવિવાર હોય તેની સંભાવના શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જાન્યુઆરી માસમાં કુલ દિવસો = 31</p><p>31 દિવસ = 4 અઠવાડિયા + 3 વધારાના દિવસો (28 + 3 = 31)</p><p>4 અઠવાડિયામાં 4 રવિવાર ચોક્કસ હોય.</p><p>બાકી વધેલા 3 દિવસો માટે કુલ 7 શક્યતાઓ છે: {(રવિ,સોમ,મંગળ), (સોમ,મંગળ,બુધ)...}</p><p>કુલ પરિણામો n = 7</p><p>જેમાં રવિવાર આવતો હોય તેવા સાનુકૂળ પરિણામો m = 3</p><p>P(5 રવિવાર) = 3 / 7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ મહિનાના દિવસોને 28 માંથી બાદ કરો (શેષ વધે તે અંશમાં મૂકવી). 31 - 28 = 3, તેથી જવાબ 3/7.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "બે મિત્રો સવિતા અને હમીદાનો જન્મદિવસ (i) જુદો જુદો હોય (ii) એક જ હોય તેની સંભાવના શોધો. (લિપ વર્ષને અવગણવું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>બિન-લિપ વર્ષના કુલ દિવસો n = 365</p><p>(i) જન્મદિવસ એક જ હોય તેની સંભાવના: m = 1 (વર્ષનો કોઈ પણ 1 દિવસ)</p><p>P(એક જ જન્મદિવસ) = 1 / 365</p><p>(ii) જન્મદિવસ જુદો જુદો હોય: એટલે કે પૂરક ઘટના.</p><p>P(જુદો જુદો) = 1 - (1 / 365) = 364 / 365</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: વર્ષનો દિવસ નિશ્ચિત હોય ત્યારે સંભાવનાનો છેદ હંમેશા 365 રહેશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Example 6</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "ખામીવાળી 12 પેન આકસ્મિક રીતે 132 સારી પેન સાથે ભળી ગઈ છે. જો એક પેન યાદચ્છિક રીતે કાઢવામાં આવે, તો તે પેન સારી હોય તેની સંભાવના શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ખામીવાળી પેન = 12, સારી પેન = 132</p><p>કુલ પેન n = 12 + 132 = 144</p><p>કાઢેલી પેન સારી હોય તે ઘટના A છે. m = 132</p><p>P(A) = 132 / 144</p><p>બંનેને 12 વડે ભાગતા: 132 = 12 × 11 અને 144 = 12 × 12</p><p>P(A) = 11 / 12</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ધ્યાન રાખો: અહીં 12 અને 132 નો સરવાળો કરવો ભૂલવો નહિ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise 14.1</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "સંખ્યાઓ 1, 2, 3, ..., 15 માંથી એક સંખ્યા યાદચ્છિક રીતે પસંદ કરવામાં આવે, તો તે સંખ્યા 3 ની ગુણિત હોય તેની સંભાવના શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કુલ સંખ્યાઓ n = 15</p><p>3 ની ગુણિત સંખ્યાઓ: {3, 6, 9, 12, 15}</p><p>સાનુકૂળ પરિણામોની સંખ્યા m = 5</p><p>P(3 ની ગુણિત) = m / n = 5 / 15</p><p>P(A) = 1 / 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટિપ્સ: 'ગુણિત' એટલે 3 નો ઘડિયો (Table) બોલવો જ્યાં સુધી 15 ન આવે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Practice Set</p></div>"
+    }
+  ]
+}
