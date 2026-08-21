@@ -734,3 +734,100 @@ var Std10_Maths_2Marks = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "આંકડાશાસ્ત્ર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "જો કોઈ માહિતી માટે M = 25 અને x̄ = 25 હોય, તો તે માહિતીનો બહુલક (Z) શોધો. (Board Mar-2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં, મધ્યસ્થ (M) = 25 અને મધ્યક (x̄) = 25 આપેલ છે.</p><p>આપણે જાણીએ છીએ કે બહુલક, મધ્યસ્થ અને મધ્યક વચ્ચેનો સંબંધ:</p><p><strong>Z = 3M - 2x̄</strong></p><p>કિંમતો મૂકતા:</p><p>Z = 3(25) - 2(25)</p><p>Z = 75 - 50</p><p><strong>Z = 25</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે મધ્યક અને મધ્યસ્થ સમાન હોય, ત્યારે બહુલક પણ હંમેશા તે જ સંખ્યા આવે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Mar-2022</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "જો અવલોકનો 6, 7, x - 2, x, 17, 20 ચડતા ક્રમમાં હોય અને તેનો મધ્યસ્થ 16 હોય, તો x ની કિંમત શોધો. (Board July-2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં અવલોકનોની સંખ્યા n = 6 (બેકી સંખ્યા) છે.</p><p>મધ્યસ્થ (M) = [ (n/2)મું અવલોકન + (n/2 + 1)મું અવલોકન ] / 2</p><p>16 = [ 3જું અવલોકન + 4થું અવલોકન ] / 2</p><p>16 = [ (x - 2) + x ] / 2</p><p>32 = 2x - 2</p><p>34 = 2x</p><p><strong>x = 17</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: જ્યારે n બેકી હોય ત્યારે વચ્ચેના બે પદોની સરેરાશ એટલે મધ્યસ્થ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Board July-2023 IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "કોઈ માહિતી માટે જો ∑fᵢuᵢ = 15, ∑fᵢ = 30, a = 47.5 અને h = 15 હોય, તો મધ્યક (x̄) શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પદ-વિચલનની રીતે મધ્યકનું સૂત્ર:</p><p>x̄ = a + (∑fᵢuᵢ / ∑fᵢ) × h</p><p>કિંમતો મૂકતા:</p><p>x̄ = 47.5 + (15 / 30) × 15</p><p>x̄ = 47.5 + (1 / 2) × 15</p><p>x̄ = 47.5 + 7.5</p><p><strong>x̄ = 55</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટિપ્સ: છેદ ઉડાડવામાં ઉતાવળ ન કરવી, પહેલા કૌંસનું સાદુંરૂપ આપવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "નીચે આપેલ આવૃત્તિ વિતરણ પરથી બહુલકીય વર્ગ જણાવો અને તેની નીચેની સીમા (l) લખો:<br>વર્ગ: 0-10, 10-20, 20-30, 30-40, 40-50<br>આવૃત્તિ: 7, 15, 13, 17, 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>બહુલકીય વર્ગ નક્કી કરવા માટે સૌથી વધુ આવૃત્તિ જોવી પડે.</p><p>અહીં મહત્તમ આવૃત્તિ 17 છે, જે વર્ગ 30-40 ની સામે છે.</p><ul><li><strong>બહુલકીય વર્ગ:</strong> 30 - 40</li><li><strong>બહુલકીય વર્ગની અધઃસીમા (l):</strong> 30</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: જેની આવૃત્તિ સૌથી મોટી, તે જ આપણો બહુલકીય ડૉન (વર્ગ)!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Textbook Exercise Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "જો Z - M = 2 હોય, તો M - x̄ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>આપણી પાસે સૂત્ર છે: Z = 3M - 2x̄</p><p>બંને બાજુથી M બાદ કરતા: Z - M = 3M - 2x̄ - M</p><p>Z - M = 2M - 2x̄</p><p>Z - M = 2(M - x̄)</p><p>રકમમાં Z - M = 2 આપેલ છે, તેથી:</p><p>2 = 2(M - x̄)</p><p><strong>M - x̄ = 1</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ફોર્મ્યુલા ટ્રીક: Z-M = 2(M-x̄) આ સંબંધ સીધો યાદ રાખવો, MCQ માં પણ કામ લાગશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB High Level Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "વર્ગ 35 - 45 ની મધ્યકિંમત અને વર્ગલંબાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>1. મધ્યકિંમત (xᵢ) = (અધઃસીમા + ઉર્ધ્વસીમા) / 2</p><p>xᵢ = (35 + 45) / 2 = 80 / 2 = <strong>40</strong></p><p>2. વર્ગલંબાઈ (h) = ઉર્ધ્વસીમા - અધઃસીમા</p><p>h = 45 - 35 = <strong>10</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: મધ્યકિંમત એટલે બરાબર વચ્ચેની સંખ્યા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Basic</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "જો મધ્યક x̄ = 15 અને ∑fᵢ = 20 હોય, તો ∑fᵢxᵢ ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>મધ્યકનું સીધું સૂત્ર: x̄ = ∑fᵢxᵢ / ∑fᵢ</p><p>કિંમતો મૂકતા:</p><p>15 = ∑fᵢxᵢ / 20</p><p>∑fᵢxᵢ = 15 × 20</p><p><strong>∑fᵢxᵢ = 300</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: મધ્યક અને કુલ આવૃત્તિનો ગુણાકાર એટલે જ ∑fᵢxᵢ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Foundation Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "નીચેના અવલોકનોનો બહુલક શોધો:<br>15, 20, 15, 30, 20, 15, 18, 15, 25, 20",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં અવલોકનોનું અવલોકન કરતા:</p><ul><li>15 એ 4 વખત આવે છે.</li><li>20 એ 3 વખત આવે છે.</li><li>બાકીના અવલોકનો 1 વખત આવે છે.</li></ul><p>સૌથી વધુ વખત પુનરાવર્તન પામતું અવલોકન 15 છે.</p><p>તેથી, <strong>બહુલક (Z) = 15</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: બહુલક એટલે 'બહુ' વખત આવતો 'અંક'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Class 10 Basics</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "પ્રથમ પાંચ અવિભાજ્ય સંખ્યાઓનો મધ્યક શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પ્રથમ પાંચ અવિભાજ્ય સંખ્યાઓ: 2, 3, 5, 7, 11</p><p>મધ્યક (x̄) = (સંખ્યાઓનો સરવાળો) / કુલ સંખ્યા</p><p>x̄ = (2 + 3 + 5 + 7 + 11) / 5</p><p>x̄ = 28 / 5</p><p><strong>x̄ = 5.6</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ભૂલ ના કરતા: 1 એ અવિભાજ્ય સંખ્યા નથી, શરૂઆત 2 થી જ કરવી!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Important Basic MCQ-Type Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "એક માહિતી માટે ∑fᵢxᵢ = 75 અને ∑fᵢ = 5 + k છે. જો મધ્યક 3 હોય, તો k ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>x̄ = ∑fᵢxᵢ / ∑fᵢ</p><p>3 = 75 / (5 + k)</p><p>3(5 + k) = 75</p><p>15 + 3k = 75</p><p>3k = 75 - 15</p><p>3k = 60</p><p><strong>k = 20</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 સ્ટેપ: અજ્ઞાત પદ k શોધવા માટે ક્રોસ ગુણાકાર કરવો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Logic Based GSEB</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "કોઈ આવૃત્તિ વિતરણ માટે મધ્યસ્થ વર્ગ 20 - 30 છે. તેની આવૃત્તિ 10 છે અને તેની આગળના વર્ગની સંચયી આવૃત્તિ 15 છે. જો કુલ આવૃત્તિ 50 હોય, તો મધ્યસ્થ શોધવા માટેનું જરૂરી પદ (n/2 - cf) શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં, n = 50, તેથી n/2 = 25</p><p>સંચયી આવૃત્તિ (cf) = 15 (મધ્યસ્થ વર્ગના આગળના વર્ગની)</p><p>હવે, (n/2 - cf) ની કિંમત:</p><p>= 25 - 15</p><p><strong>= 10</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 સૂચના: આ પ્રશ્ન માત્ર સૂત્રના એક ભાગની સમજ ચકાસવા માટે છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Conceptual Questions</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "જો અવલોકનો x, x+2, x+4, x+6, x+8 નો મધ્યક 11 હોય, તો x શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>મધ્યક = (બધા અવલોકનોનો સરવાળો) / સંખ્યા</p><p>11 = (x + x+2 + x+4 + x+6 + x+8) / 5</p><p>11 = (5x + 20) / 5</p><p>11 = x + 4 (5 કોમન કાઢી ઉડાડતા)</p><p>x = 11 - 4</p><p><strong>x = 7</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: જ્યારે અવલોકનો વચ્ચે સમાન તફાવત હોય ત્યારે વચ્ચેનું પદ જ મધ્યક હોય! અહીં x+4 = 11 તો x = 7.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Shortcut Series</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "માહિતી માટે (x̄ - Z) = 3 અને (x̄ + Z) = 45 હોય તો મધ્યસ્થ (M) શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>લોપની રીતે ઉકેલતા:</p><p>(x̄ - Z) + (x̄ + Z) = 3 + 45</p><p>2x̄ = 48 => <strong>x̄ = 24</strong></p><p>હવે x̄ - Z = 3 માં કિંમત મુકતા:</p><p>24 - Z = 3 => <strong>Z = 21</strong></p><p>સૂત્ર Z = 3M - 2x̄ મુજબ:</p><p>21 = 3M - 2(24)</p><p>21 = 3M - 48</p><p>69 = 3M => <strong>M = 23</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: પહેલા x̄ અને Z શોધી લો, પછી જ મધ્યસ્થના સૂત્રમાં જવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> HOTS Question for Section B</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "કોઈ આવૃત્તિ વિતરણમાં મધ્યક શોધવા માટે વિચલનની રીતમાં dᵢ શોધવાનું સૂત્ર લખો અને તેમાં વપરાતા સંકેતો ઓળખાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વિચલનની રીતે મધ્યક શોધવા માટે:</p><p><strong>dᵢ = xᵢ - a</strong></p><p>જ્યાં,</p><ul><li><strong>xᵢ:</strong> i-મા વર્ગની મધ્યકિંમત</li><li><strong>a:</strong> ધારેલો મધ્યક (Assumed Mean)</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 સૂચના: uᵢ અને dᵢ વચ્ચેનો તફાવત યાદ રાખવો. dᵢ માં h વડે ભાગાકાર થતો નથી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Theory IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "જો ∑fᵢ = 100 અને મધ્યક x̄ = 45.5 હોય, તો ∑fᵢxᵢ ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સૂત્ર: x̄ = ∑fᵢxᵢ / ∑fᵢ</p><p>45.5 = ∑fᵢxᵢ / 100</p><p>∑fᵢxᵢ = 45.5 × 100</p><p><strong>∑fᵢxᵢ = 4550</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: 100 સાથે ગુણાકાર કરતી વખતે દશાંશ ચિહ્ન બે સ્થળ જમણી બાજુ ખસેડવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Basic Calculation Skill</p></div>"
+    }
+  ]
+}
