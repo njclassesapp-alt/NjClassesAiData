@@ -540,3 +540,100 @@ var Std10_Maths_2Marks = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "વર્તુળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "વર્તુળના કેન્દ્રથી 25 સેમી અંતરે આવેલા બિંદુ Q માંથી દોરેલા સ્પર્શકની લંબાઈ 24 સેમી છે, તો વર્તુળની ત્રિજ્યા શોધો. (GSEB Standard/Basic 2022, 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે વર્તુળનું કેન્દ્ર O છે અને સ્પર્શબિંદુ P છે. અહીં, OQ = 25 સેમી (કેન્દ્રથી અંતર) અને PQ = 24 સેમી (સ્પર્શકની લંબાઈ) છે.</p><p>પ્રમેય 10.1 મુજબ, ત્રિજ્યા OP ⊥ સ્પર્શક PQ. તેથી, ΔOPQ કાટકોણ ત્રિકોણ છે.</p><p>પાયથાગોરસના પ્રમેય મુજબ:</p><p>OP² + PQ² = OQ²</p><p>OP² + (24)² = (25)²</p><p>OP² + 576 = 625</p><p>OP² = 625 - 576 = 49</p><p>OP = 7 સેમી</p><p>આમ, વર્તુળની ત્રિજ્યા 7 સેમી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાયથાગોરિયન ત્રિપુટી (7, 24, 25) યાદ રાખો. જો કર્ણ 25 અને એક બાજુ 24 હોય, તો ત્રીજી બાજુ હંમેશા 7 જ હોય!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board 2022 & 2023 IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "બે સમકેન્દ્રી વર્તુળોની ત્રિજ્યાઓ 5 સેમી અને 3 સેમી છે. મોટા વર્તુળની જીવા નાના વર્તુળને સ્પર્શે છે, તો તેની લંબાઈ શોધો. (Most IMP - GSEB 2020, 2024)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે O કેન્દ્રવાળા બે સમકેન્દ્રી વર્તુળો છે. મોટા વર્તુળની જીવા AB નાના વર્તુળને P બિંદુએ સ્પર્શે છે. </p><p>અહીં, OA = 5 સેમી (મોટા વર્તુળની ત્રિજ્યા) અને OP = 3 સેમી (નાના વર્તુળની ત્રિજ્યા).</p><p>OP ⊥ AB હોવાથી, ΔOPA કાટકોણ ત્રિકોણ છે.</p><p>AP² = OA² - OP²</p><p>AP² = 5² - 3² = 25 - 9 = 16</p><p>AP = 4 સેમી</p><p>જીવા AB = 2 × AP (કેન્દ્રમાંથી દોરેલો લંબ જીવાને દુભાગે છે)</p><p>AB = 2 × 4 = 8 સેમી</p><p>આમ, જીવાની લંબાઈ 8 સેમી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (3, 4, 5) ની ત્રિપુટી વાપરો. લંબાઈ હંમેશા AP કરતા બમણી (2x) જ આવશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise 10.2 / GSEB 2024</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "જો O કેન્દ્રવાળા વર્તુળને બિંદુ P માંથી દોરેલા સ્પર્શકો PA અને PB વચ્ચે 80° નો ખૂણો રચાતો હોય, તો ∠POA શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં ∠APB = 80° આપેલ છે. </p><p>ચતુષ્કોણ OAPB માં, ∠OAP = ∠OBP = 90° (પ્રમેય 10.1).</p><p>∠AOB + ∠APB = 180° (સામસામેના ખૂણા પૂરક હોય છે)</p><p>∠AOB + 80° = 180° => ∠AOB = 100°</p><p>હવે, OP એ ∠AOB નો દ્વિભાજક છે.</p><p>∠POA = 1/2 × ∠AOB</p><p>∠POA = 1/2 × 100° = 50°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ∠POA હંમેશા (180 - બહારનો ખૂણો) / 2 જેટલો હોય છે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exemplar</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "સાબિત કરો કે વર્તુળના વ્યાસના અંત્યબિંદુઓએ દોરેલા સ્પર્શકો પરસ્પર સમાંતર હોય છે. (GSEB 2021)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે AB એ O કેન્દ્રવાળા વર્તુળનો વ્યાસ છે. બિંદુ A પર સ્પર્શક 'p' અને બિંદુ B પર સ્પર્શક 'q' દોરેલ છે.</p><p>ત્રિજ્યા સ્પર્શકને લંબ હોય છે, તેથી:</p><p>OA ⊥ p => ∠1 = 90°</p><p>OB ⊥ q => ∠2 = 90°</p><p>અહીં ∠1 અને ∠2 એ યુગ્મકોણો (Alternate Interior Angles) છે અને બંને સમાન છે.</p><p>જ્યારે યુગ્મકોણો સમાન હોય, ત્યારે રેખાઓ સમાંતર હોય. તેથી, p || q.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફક્ત 'યુગ્મકોણ સમાન છે' તેવું દર્શાવો એટલે સાબિતી પૂરી!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Theorem 10.1 Application</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "એક ચતુષ્કોણ ABCD વર્તુળને સ્પર્શે છે. જો AB = 6 સેમી, BC = 7 સેમી અને CD = 4 સેમી હોય, તો AD શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જ્યારે કોઈ ચતુષ્કોણ વર્તુળને પરિગત (circumscribe) હોય, ત્યારે તેની સામસામેની બાજુઓનો સરવાળો સમાન થાય છે.</p><p>AB + CD = BC + AD</p><p>6 + 4 = 7 + AD</p><p>10 = 7 + AD</p><p>AD = 10 - 7 = 3 સેમી</p><p>આમ, AD ની લંબાઈ 3 સેમી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂત્ર યાદ રાખો: 'સામસામેનો સરવાળો સરખો'. (A+C = B+D)</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept / Textbook Page 173</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "વર્તુળની બહારના બિંદુમાંથી દોરેલા બે સ્પર્શકો વચ્ચેનો ખૂણો 60° છે. જો વર્તુળની ત્રિજ્યા 3 સેમી હોય, તો દરેક સ્પર્શકની લંબાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે બિંદુ P માંથી દોરેલા સ્પર્શકો PA અને PB છે. ∠APB = 60° અને OA = 3 સેમી.</p><p>ΔOAP માં, ∠OPA = 60°/2 = 30° અને ∠OAP = 90°.</p><p>Trigonometry મુજબ: tan 30° = OA / PA</p><p>1 / √3 = 3 / PA</p><p>PA = 3√3 સેમી</p><p>આમ, સ્પર્શકની લંબાઈ 3√3 સેમી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે ખૂણો 60° હોય, ત્યારે સ્પર્શકની લંબાઈ = ત્રિજ્યા × √3.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> logical High Level Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "વર્તુળના કોઈ એક બિંદુએ કેટલા સ્પર્શકો હોય? અને વર્તુળની અંદરના ભાગમાં આવેલા બિંદુમાંથી કેટલા સ્પર્શકો દોરી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ol><li>વર્તુળના કોઈ એક બિંદુએ <strong>માત્ર એક જ (અનન્ય)</strong> સ્પર્શક હોય છે.</li><li>વર્તુળની અંદરના ભાગમાં આવેલા બિંદુમાંથી વર્તુળને <strong>એક પણ (0)</strong> સ્પર્શક દોરી શકાય નહીં.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદર: 0, ઉપર: 1, બહાર: 2. આ '012' નિયમ યાદ રાખો!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Textbook Introduction 10.1</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "5 સેમી ત્રિજ્યાવાળા વર્તુળના કોઈ બિંદુ P આગળ દોરેલ એક સ્પર્શક PQ, કેન્દ્ર O માંથી પસાર થતી રેખાને Q બિંદુએ છેદે છે. જો OQ = 12 સેમી હોય, તો PQ ની લંબાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ΔOPQ માં, ∠P = 90° છે. (ત્રિજ્યા ⊥ સ્પર્શક)</p><p>પાયથાગોરસના પ્રમેય મુજબ:</p><p>OQ² = OP² + PQ²</p><p>12² = 5² + PQ²</p><p>144 = 25 + PQ²</p><p>PQ² = 144 - 25 = 119</p><p>PQ = √119 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘણીવાર જવાબ પૂર્ણ સંખ્યામાં ન પણ આવે, એટલે ઉતાવળમાં 13 ન લખી દેવું (કારણ કે 12 કર્ણ છે, બાજુ નથી).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Ex 10.1, Q.3</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "કેન્દ્ર O અને ત્રિજ્યા 5 સેમી વાળા વર્તુળની એક જીવા AB ની લંબાઈ 8 સેમી છે. તો કેન્દ્રથી જીવાનું અંતર શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે OM ⊥ AB છે. તેથી M એ AB નું મધ્યબિંદુ થશે.</p><p>AM = AB / 2 = 8 / 2 = 4 સેમી.</p><p>કાટકોણ ΔOMA માં, OA = 5 સેમી (ત્રિજ્યા) અને AM = 4 સેમી.</p><p>OM² = OA² - AM²</p><p>OM² = 5² - 4² = 25 - 16 = 9</p><p>OM = 3 સેમી</p><p>આમ, કેન્દ્રથી જીવાનું અંતર 3 સેમી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3-4-5 ની ત્રિપુટી અહીં પણ કામ લાગશે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Foundation Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "બિંદુ P માંથી દોરેલા સ્પર્શકો PA અને PB વર્તુળને A અને B બિંદુએ સ્પર્શે છે. જો ∠AOB = 130° હોય, તો ∠APB શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>આપણે જાણીએ છીએ કે સ્પર્શકો વચ્ચેનો ખૂણો અને કેન્દ્ર આગળ ત્રિજ્યાઓ વચ્ચેનો ખૂણો એકબીજાના પૂરક હોય છે.</p><p>∠APB + ∠AOB = 180°</p><p>∠APB + 130° = 180°</p><p>∠APB = 180° - 130°</p><p>∠APB = 50°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂરક એટલે સરવાળો 180. બસ 180 માંથી બાદ કરી દો!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise 10.2</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "વર્તુળને કેટલા સમાંતર સ્પર્શકો હોઈ શકે? સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વર્તુળને <strong>વધારેમાં વધારે બે</strong> સમાંતર સ્પર્શકો હોઈ શકે.</p><p>જ્યારે સ્પર્શકો વ્યાસના બે અંત્યબિંદુઓ આગળ દોરવામાં આવે ત્યારે જ તે એકબીજાને સમાંતર હોય છે. વ્યાસ સિવાયના અન્ય કોઈ પણ બિંદુએ દોરેલા સ્પર્શકો સમાંતર રહી શકતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકૃતિમાં ટ્રેનના પાટા જેવું કલ્પના કરો, જે વ્યાસની બંને બાજુ હોય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Objective Type Theory</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "વર્તુળની છેદિકા અને સ્પર્શક વચ્ચેનો મુખ્ય તફાવત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>છેદિકા (Secant):</strong> જે રેખા વર્તુળને <strong>બે ભિન્ન બિંદુઓમાં</strong> છેદતી હોય તેને વર્તુળની છેદિકા કહેવાય.</li><li><strong>સ્પર્શક (Tangent):</strong> જે રેખા વર્તુળને <strong>માત્ર એક જ બિંદુમાં</strong> છેદતી (સ્પર્શતી) હોય તેને વર્તુળનો સ્પર્શક કહેવાય.</li></ul><p>સ્પર્શક એ છેદિકાની એવી વિશિષ્ટ સ્થિતિ છે જેમાં છેદબિંદુઓ સંપાતી (એક જ) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદિકા = 2 બિંદુ, સ્પર્શક = 1 બિંદુ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Theory 10.1</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "બે સ્પર્શકો PA અને PB એકબીજા સાથે 120° નો ખૂણો બનાવે છે. જો વર્તુળની ત્રિજ્યા 6 સેમી હોય, તો સ્પર્શકની લંબાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં ∠APB = 120°, તેથી ∠OPA = 120/2 = 60°.</p><p>ΔOAP માં, ∠A = 90° અને OA = 6 સેમી.</p><p>tan 60° = OA / PA</p><p>√3 = 6 / PA</p><p>PA = 6 / √3</p><p>PA = (2 × 3) / √3 = 2√3 સેમી</p><p>આમ, સ્પર્શકની લંબાઈ 2√3 સેમી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: √3 વડે ભાગાકાર કરતા છેદ ઉડાડવામાં ધ્યાન રાખવું!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Conceptual Logic</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "જો એક બિંદુ P માંથી O કેન્દ્રવાળા વર્તુળને દોરેલા સ્પર્શકો PA અને PB વચ્ચેનો ખૂણો 110° હોય, તો ∠OAB શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ΔOAB માં, OA = OB (ત્રિજ્યાઓ). તેથી ∠OAB = ∠OBA.</p><p>∠AOB + ∠APB = 180° => ∠AOB + 110° = 180° => ∠AOB = 70°.</p><p>હવે ΔOAB માં: ∠OAB + ∠OBA + ∠AOB = 180°</p><p>2∠OAB + 70° = 180°</p><p>2∠OAB = 110°</p><p>∠OAB = 55°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ∠OAB હંમેશા બહારના ખૂણાના અડધા (110 / 2 = 55) જેટલો જ હોય!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> IMP Board Logic</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "સાબિત કરો કે વર્તુળના કોઈ પણ બિંદુએ દોરેલો સ્પર્શક, સ્પર્શબિંદુમાંથી પસાર થતી ત્રિજ્યાને લંબ હોય છે. (પ્રમેય 10.1 નું વિધાન સમજાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે વર્તુળનું કેન્દ્ર O છે અને XY સ્પર્શક P બિંદુએ સ્પર્શે છે. </p><p>XY પર P સિવાયનું કોઈ બિંદુ Q લો. Q એ વર્તુળની બહાર જ હોય (જો અંદર હોય તો XY છેદિકા બની જાય). </p><p>તેથી OQ > OP (કારણ કે OP ત્રિજ્યા છે અને Q બહાર છે).</p><p>આમ, P સિવાયના XY ના તમામ બિંદુઓ માટે OP એ સૌથી ટૂંકું અંતર છે. </p><p>ગણિત મુજબ, સૌથી ટૂંકું અંતર એ લંબ અંતર હોય છે. તેથી OP ⊥ XY.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટૂંકું અંતર = લંબ અંતર. બસ આટલું યાદ રાખો!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Theorem 10.1</p></div>"
+    }
+  ]
+}
