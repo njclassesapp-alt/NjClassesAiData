@@ -473,3 +473,70 @@ var Std10_Maths_2Marks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "ત્રિકોણમિતિનો પરિચય",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "જો 15 cot A = 8 હોય, તો sin A અને sec A શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં, 15 cot A = 8 ⇒ cot A = 8/15</p><p>cot A = પાસેની બાજુ / સામેની બાજુ = AB / BC = 8/15</p><p>ધારો કે AB = 8k અને BC = 15k. પાયથાગોરસના પ્રમેય મુજબ:</p><p>AC² = AB² + BC² = (8k)² + (15k)² = 64k² + 225k² = 289k²</p><p>∴ AC = 17k</p><p>હવે, sin A = સામેની બાજુ / કર્ણ = BC / AC = 15k / 17k = <strong>15/17</strong></p><p>sec A = કર્ણ / પાસેની બાજુ = AC / AB = 17k / 8k = <strong>17/8</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાયથાગોરિયન ત્રિપુટી (8, 15, 17) યાદ રાખો. જો બે બાજુ 8 અને 15 હોય, તો કર્ણ હંમેશા 17 જ આવે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board NCERT Ex 8.1</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "કિંમત શોધો: 2 tan² 45° + cos² 30° - sin² 60°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ત્રિકોણમિતિય ગુણોત્તરોના મૂલ્યો મૂકતા:</p><p>tan 45° = 1, cos 30° = √3/2, sin 60° = √3/2</p><p>= 2(1)² + (√3/2)² - (√3/2)²</p><p>= 2(1) + 3/4 - 3/4</p><p>= 2 + 0</p><p>= <strong>2</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે cos² θ - sin² (90-θ) જેવું પદ હોય ત્યારે તે સીધું જ ઉડી જાય છે. અહીં cos 30° અને sin 60° ની કિંમત સમાન હોવાથી તેની બાદબાકી 0 થશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board NCERT Ex 8.2</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "જો sin (A - B) = 1/2 અને cos (A + B) = 1/2 હોય, 0° < A + B ≤ 90°, A > B હોય, તો A અને B શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>sin (A - B) = 1/2 ⇒ sin (A - B) = sin 30° ⇒ A - B = 30° --- (1)</p><p>cos (A + B) = 1/2 ⇒ cos (A + B) = cos 60° ⇒ A + B = 60° --- (2)</p><p>સમીકરણ (1) અને (2) નો સરવાળો કરતા:</p><p>(A - B) + (A + B) = 30° + 60°</p><p>2A = 90° ⇒ <strong>A = 45°</strong></p><p>A ની કિંમત સમીકરણ (2) માં મૂકતા:</p><p>45° + B = 60° ⇒ <strong>B = 15°</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવા દાખલામાં A હંમેશા (બંને ખૂણાનો સરવાળો)/2 અને B હંમેશા (બંને ખૂણાની બાદબાકી)/2 હોય છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "કિંમત શોધો: (sin 30° + tan 45° - cosec 60°) / (sec 30° + cos 60° + cot 45°)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કિંમતો મુકતા: (1/2 + 1 - 2/√3) / (2/√3 + 1/2 + 1)</p><p>= (3/2 - 2/√3) / (2/√3 + 3/2)</p><p>અંશ અને છેદમાં લસાઅ 2√3 લેતા:</p><p>= [(3√3 - 4) / 2√3] / [(4 + 3√3) / 2√3]</p><p>= (3√3 - 4) / (3√3 + 4)</p><p>છેદનું સંમેયીકરણ કરતા:</p><p>= [(3√3 - 4)(3√3 - 4)] / [(3√3 + 4)(3√3 - 4)]</p><p>= (27 + 16 - 24√3) / (27 - 16) = <strong>(43 - 24√3) / 11</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદમાં (a+b) હોય તો (a-b) વડે ગુણીને છેદમાંથી વર્ગમૂળ દૂર કરવું (Rationalization).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB NCERT Exercise 8.2</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "જો sin A = 3/4 હોય, તો cos A અને tan A ની ગણતરી કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>sin A = સામેની બાજુ / કર્ણ = 3/4</p><p>પાયથાગોરસના પ્રમેય મુજબ, (પાસેની બાજુ)² = (કર્ણ)² - (સામેની બાજુ)²</p><p>AB² = 4² - 3² = 16 - 9 = 7</p><p>AB = √7</p><p>cos A = પાસેની બાજુ / કર્ણ = <strong>√7 / 4</strong></p><p>tan A = સામેની બાજુ / પાસેની બાજુ = <strong>3 / √7</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: cos A = √(1 - sin²A) સૂત્ર વાપરીને સીધો જવાબ લાવી શકાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Basic Trigonometry GSEB</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "સાબિત કરો કે: (sec A + tan A)(1 - sin A) = cos A",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ડા.બા. = (sec A + tan A)(1 - sin A)</p><p>= (1/cos A + sin A/cos A)(1 - sin A)</p><p>= [(1 + sin A) / cos A] * (1 - sin A)</p><p>= (1 - sin² A) / cos A</p><p>= cos² A / cos A  [∵ 1 - sin² A = cos² A]</p><p>= cos A = જ.બા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ જટિલ પદ હોય તો તેને sin અને cos માં ફેરવી નાખો, 90% દાખલા સોલ્વ થઈ જશે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Trigonometric Identities</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "કિંમત શોધો: (i) sin 60° cos 30° + sin 30° cos 60° (ii) 2 tan² 45° + cos² 30°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>(i) (√3/2)(√3/2) + (1/2)(1/2) = 3/4 + 1/4 = 4/4 = <strong>1</strong></p><p>(ii) 2(1)² + (√3/2)² = 2 + 3/4 = (8+3)/4 = <strong>11/4</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: sin A cos B + cos A sin B = sin(A+B) નું સૂત્ર યાદ રાખો, એટલે sin(60+30) = sin 90 = 1.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "જો tan A = cot B હોય, તો સાબિત કરો કે A + B = 90°.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>tan A = cot B</p><p>આપણે જાણીએ છીએ કે, cot B = tan (90° - B)</p><p>તેથી, tan A = tan (90° - B)</p><p>બંને બાજુ ખૂણાઓની સરખામણી કરતા:</p><p>A = 90° - B</p><p>∴ <strong>A + B = 90°</strong> (સાબિત થાય છે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોટિકોણના ગુણોત્તરોમાં (sin, cos), (tan, cot) અને (sec, cosec) ની જોડી હંમેશા યાદ રાખવી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "કિંમત શોધો: 9 sec² A - 9 tan² A",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>9 sec² A - 9 tan² A</p><p>સામાન્ય કાઢતા: 9 (sec² A - tan² A)</p><p>આપણે જાણીએ છીએ કે, sec² A - tan² A = 1</p><p>= 9 (1)</p><p>= <strong>9</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ MCQ માં પણ વારંવાર પુછાય છે. જો 9 ની જગ્યાએ 5 હોય તો જવાબ 5 આવે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Shortcut</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "જો cot θ = 7/8 હોય, તો (1 + sin θ)(1 - sin θ) / (1 + cos θ)(1 - cos θ) ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>આપેલ પદ: [(1 + sin θ)(1 - sin θ)] / [(1 + cos θ)(1 - cos θ)]</p><p>= (1 - sin² θ) / (1 - cos² θ) [∵ (a-b)(a+b) = a²-b²]</p><p>= cos² θ / sin² θ [∵ 1-sin²θ = cos²θ અને 1-cos²θ = sin²θ]</p><p>= (cos θ / sin θ)²</p><p>= cot² θ</p><p>હવે cot θ = 7/8 હોવાથી:</p><p>= (7/8)² = <strong>49/64</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીધી કિંમત મૂકવાને બદલે પહેલા નિત્યસમ વાપરીને પદ નાનું કરો, ગણતરી ખૂબ જ સરળ થઈ જશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board NCERT Ex 8.1</p></div>"
+    }
+  ]
+}
