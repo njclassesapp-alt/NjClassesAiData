@@ -156,3 +156,70 @@ var Std10_Science_4Marks = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "ધાતુઓ અને અધાતુઓ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 4,
+      "question": "ટીપ્પણ લખો: તાંબા (કોપર) નું વિદ્યુતવિભાજનીય શુદ્ધિકરણ આકૃતિ દોરી સમજાવો. (March - 2020, 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અશુદ્ધ ધાતુમાંથી શુદ્ધ ધાતુ મેળવવા માટે વિદ્યુતવિભાજનીય શુદ્ધિકરણ સૌથી વ્યાપક પદ્ધતિ છે.</p><ul><li><strong>સાધન ગોઠવણી:</strong> એક પાત્રમાં કોપર સલ્ફેટ (CuSO4) નું દ્રાવણ લેવામાં આવે છે. તેમાં અશુદ્ધ કોપરનો જાડો સળિયો એનોડ (+) તરીકે અને શુદ્ધ કોપરની પાતળી પટ્ટી કેથોડ (-) તરીકે રાખવામાં આવે છે.</li><li><strong>પ્રક્રિયા:</strong> જ્યારે દ્રાવણમાંથી વિદ્યુતપ્રવાહ પસાર થાય છે, ત્યારે એનોડમાંથી શુદ્ધ કોપર દ્રાવણમાં ઓગળે છે.</li><li>તેટલી જ માત્રામાં શુદ્ધ કોપર દ્રાવણમાંથી કેથોડ પર જમા થાય છે.</li><li>દ્રાવ્ય અશુદ્ધિઓ દ્રાવણમાં જાય છે, જ્યારે ગોલ્ડ, સિલ્વર જેવી અદ્રાવ્ય અશુદ્ધિઓ એનોડની નીચે જમા થાય છે, જેને <strong>'એનોડિક પંક'</strong> કહે છે.</li></ul><svg width='200' height='150' viewBox='0 0 200 150'><rect x='40' y='40' width='120' height='80' fill='#e0f7fa' stroke='#000'/><line x1='70' y1='20' x2='70' y2='90' stroke='black' stroke-width='5'/><line x1='130' y1='20' x2='130' y2='90' stroke='orange' stroke-width='3'/><text x='55' y='15' font-size='10'>Anode (+)</text><text x='115' y='15' font-size='10'>Cathode (-)</text><text x='75' y='135' font-size='10'>CuSO4 Solution</text></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અકા' (અશુદ્ધ એનોડ) અને 'શકે' (શુદ્ધ કેથોડ) - આ યાદ રાખો એટલે ડાયાગ્રામમાં ભૂલ ન પડે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board (PYQ)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 4,
+      "question": "આયનીય સંયોજનો એટલે શું? આયનીય સંયોજનોના સામાન્ય ગુણધર્મો વિગતવાર સમજાવો. (March - 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધાતુમાંથી અધાતુમાં ઇલેક્ટ્રોનની હેરફેર દ્વારા રચાતા સંયોજનોને આયનીય સંયોજનો અથવા વિદ્યુતસંયોજક સંયોજનો કહે છે.</p><p><strong>ગુણધર્મો:</strong></p><ul><li><strong>ભૌતિક સ્વભાવ:</strong> ધન અને ઋણ આયનો વચ્ચે પ્રબળ આકર્ષણ હોવાથી તેઓ ઘન અને સખત હોય છે. દબાણ આપતા તે ટુકડાઓમાં તૂટી જાય છે (બટકણું).</li><li><strong>ગલનબિંદુ અને ઉત્કલનબિંદુ:</strong> આયનીય બંધ તોડવા માટે વધુ ઉર્જાની જરૂર પડે છે, તેથી તેમના ગલનબિંદુ અને ઉત્કલનબિંદુ ખૂબ ઊંચા હોય છે.</li><li><strong>દ્રાવ્યતા:</strong> તે પાણીમાં દ્રાવ્ય છે પરંતુ કેરોસીન અને પેટ્રોલ જેવા કાર્બનિક દ્રાવકોમાં અદ્રાવ્ય છે.</li><li><strong>વિદ્યુત વહન:</strong> તે ઘન અવસ્થામાં વિદ્યુતનું વહન કરતા નથી, પરંતુ જલીય દ્રાવણ કે પીગળેલી અવસ્થામાં આયનો છૂટા પડતા હોવાથી વિદ્યુતનું વહન કરે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભૌ-ગઉ-દ્ર-વિ' (ભૌતિક, ગલનબિંદુ, દ્રાવ્યતા, વિદ્યુત) - આ ચાર પોઈન્ટ્સ હેડિંગ તરીકે યાદ રાખો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board (PYQ)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 4,
+      "question": "સક્રિયતા શ્રેણીમાં મધ્યમાં રહેલી ધાતુઓના નિષ્કર્ષણ માટેની ભૂંજન (Roasting) અને કેલ્સીનેશન (Calcination) પ્રક્રિયા ઉદાહરણ સહ સમજાવો. (March - 2024)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>મધ્યમાં રહેલી ધાતુઓ (Zn, Fe, Pb) કુદરતમાં સલ્ફાઈડ કે કાર્બોનેટ સ્વરૂપે મળે છે.</p><ul><li><strong>ભૂંજન (Roasting):</strong> સલ્ફાઈડયુક્ત કાચી ધાતુને વધુ પ્રમાણમાં હવાની હાજરીમાં સખત ગરમ કરતા તે ઓક્સાઈડમાં ફેરવાય છે.<br>2ZnS + 3O<sub>2</sub> → 2ZnO + 2SO<sub>2</sub></li><li><strong>કેલ્સીનેશન (Calcination):</strong> કાર્બોનેટયુક્ત કાચી ધાતુને મર્યાદિત હવાની હાજરીમાં સખત ગરમ કરતા તે ઓક્સાઈડમાં ફેરવાય છે.<br>ZnCO<sub>3</sub> → ZnO + CO<sub>2</sub></li><li><strong>રિડક્શન:</strong> ત્યારબાદ કાર્બન (કોક) જેવા રિડક્શન કર્તાનો ઉપયોગ કરી ધાતુ મેળવાય છે.<br>ZnO + C → Zn + CO</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ' થી સલ્ફાઈડ અને 'સ' થી હવાનો સંગાથ (ભૂંજન). 'કા' થી કાર્બોનેટ અને 'કે' થી કેલ્સીનેશન (ઓછી હવા).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB New Syllabus IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 4,
+      "question": "ધાતુઓની પાણી સાથેની પ્રક્રિયા સમજાવો. જુદી જુદી ધાતુઓ પાણી સાથે કેવી રીતે પ્રતિક્રિયા આપે છે તે ઉદાહરણ સાથે લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધાતુ પાણી સાથે પ્રક્રિયા કરીને ધાતુ ઓક્સાઈડ અને હાઈડ્રોજન વાયુ આપે છે.</p><ul><li><strong>ઠંડા પાણી સાથે:</strong> પોટેશિયમ (K) અને સોડિયમ (Na) અત્યંત વેગથી પ્રક્રિયા કરે છે. પ્રક્રિયા ઉષ્માક્ષેપક હોવાથી હાઈડ્રોજન તરત જ સળગી ઉઠે છે.<br>2K + 2H<sub>2</sub>O → 2KOH + H<sub>2</sub> + ઉષ્મા</li><li><strong>ગરમ પાણી સાથે:</strong> મેગ્નેશિયમ (Mg) ઠંડા પાણી સાથે પ્રક્રિયા કરતી નથી, પણ ગરમ પાણી સાથે પ્રક્રિયા કરી તરવા લાગે છે કારણ કે H2 ના પરપોટા તેની સપાટી પર ચોંટે છે.</li><li><strong>પાણીની વરાળ (Steam) સાથે:</strong> એલ્યુમિનિયમ (Al), લોખંડ (Fe) અને ઝિંક (Zn) માત્ર વરાળ સાથે જ પ્રક્રિયા કરે છે.<br>2Al + 3H<sub>2</sub>O(g) → Al<sub>2</sub>O<sub>3</sub> + 3H<sub>2</sub></li><li><strong>પ્રક્રિયા ન કરતી ધાતુઓ:</strong> સીસું, કોપર, સિલ્વર અને ગોલ્ડ પાણી સાથે બિલકુલ પ્રક્રિયા કરતા નથી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: K/Na (ઠંડુ), Mg (ગરમ), Al/Fe (વરાળ) - આ ત્રણ લેવલ યાદ રાખો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept Map</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 4,
+      "question": "ક્ષારણ એટલે શું? ક્ષારણ અટકાવવાના વિવિધ ઉપાયો સવિસ્તાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધાતુ તેની આસપાસના ભેજ, એસિડ કે હવાના સંપર્કમાં આવતા તેની સપાટી ઝાંખી પડે છે અથવા ખવાય છે, જેને ક્ષારણ કહે છે.</p><p><strong>ક્ષારણ અટકાવવાના ઉપાયો:</strong></p><ul><li><strong>રંગ કરીને:</strong> ધાતુની સપાટી પર રંગ કરવાથી હવા અને ભેજ સાથેનો સંપર્ક તૂટી જાય છે.</li><li><strong>તેલ અથવા ગ્રીસ લગાવીને:</strong> મશીનરીના ભાગો પર તેલ લગાવવાથી ક્ષારણ અટકે છે.</li><li><strong>ગેલ્વેનાઈઝેશન:</strong> લોખંડ કે સ્ટીલ પર ઝિંક (જસત) નું પાતળું સ્તર ચઢાવવાની પદ્ધતિને ગેલ્વેનાઈઝેશન કહે છે. ઝિંકનું પડ તૂટી જાય તો પણ લોખંડ સુરક્ષિત રહે છે.</li><li><strong>મિશ્રધાતુ બનાવીને:</strong> લોખંડમાં નિકલ અને ક્રોમિયમ ઉમેરી સ્ટેનલેસ સ્ટીલ બનાવવાથી તેને કાટ લાગતો નથી.</li><li><strong>એનોડીકરણ:</strong> એલ્યુમિનિયમ પર ઓક્સાઈડનું રક્ષણાત્મક પડ ચઢાવીને.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રંગ-તેલ-ગે-મિ-એ' (રંગ, તેલ, ગેલ્વેનાઈઝ, મિશ્રધાતુ, એનોડીકરણ) - આ પાંચ કી-વર્ડ્સ યાદ રાખો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Textbook Topic 3.5</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 4,
+      "question": "ઇલેક્ટ્રોન બિંદુ સંરચનાની મદદથી સોડિયમ ક્લોરાઇડ (NaCl) અને મેગ્નેશિયમ ક્લોરાઇડ (MgCl2) નું નિર્માણ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>1. NaCl નું નિર્માણ:</strong> સોડિયમ (Na - 2,8,1) એક ઇલેક્ટ્રોન ગુમાવી Na+ બને છે. ક્લોરીન (Cl - 2,8,7) એક ઇલેક્ટ્રોન મેળવી Cl- બને છે. આ બંને વચ્ચેના આકર્ષણથી NaCl બને છે.<br>Na → Na<sup>+</sup> + e<sup>-</sup><br>Cl + e<sup>-</sup> → Cl<sup>-</sup></p><p><strong>2. MgCl2 નું નિર્માણ:</strong> મેગ્નેશિયમ (Mg - 2,8,2) બે ઇલેક્ટ્રોન ગુમાવે છે. બે ક્લોરીન પરમાણુઓ દરેક એક-એક ઇલેક્ટ્રોન મેળવે છે.<br>Mg → Mg<sup>2+</sup> + 2e<sup>-</sup><br>2Cl + 2e<sup>-</sup> → 2Cl<sup>-</sup><br>પરિણામે Mg<sup>2+</sup>[Cl]<sup>-</sup><sub>2</sub> બને છે.</p><svg width='200' height='60'><text x='10' y='30'>Na• + ×Cl → [Na]+ [×Cl] -</text></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાહ્યતમ કક્ષામાં કેટલા ઇલેક્ટ્રોન છે તે યાદ રાખો (Na:1, Mg:2, Cl:7). અષ્ટક પૂર્ણ કરવા આપ-લે કરો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Most IMP for Board</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 4,
+      "question": "મિશ્રધાતુ એટલે શું? નીચેની મિશ્રધાતુઓના ઘટકો અને ઉપયોગો જણાવો: (1) સ્ટીલ (2) પિત્તળ (3) કાંસું (4) સોલ્ડર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>બે કે તેથી વધુ ધાતુ અથવા ધાતુ અને અધાતુના સમાંગ મિશ્રણને <strong>મિશ્રધાતુ</strong> કહે છે.</p><ul><li><strong>1. સ્ટીલ (Steel):</strong> લોખંડ + કાર્બન (0.05%). ઉપયોગ: વાસણો અને બાંધકામમાં. (સ્ટેનલેસ સ્ટીલ: Fe+Ni+Cr - કાટ લાગતો નથી).</li><li><strong>2. પિત્તળ (Brass):</strong> તાંબુ (Cu) + ઝિંક (Zn). ઉપયોગ: વાસણો, મૂર્તિઓ અને સજાવટની વસ્તુઓ બનાવવામાં.</li><li><strong>3. કાંસું (Bronze):</strong> તાંબુ (Cu) + ટીન (Sn). ઉપયોગ: મેડલ અને સિક્કા બનાવવામાં.</li><li><strong>4. સોલ્ડર (Solder):</strong> સીસું (Pb) + ટીન (Sn). આનું ગલનબિંદુ નીચું હોવાથી તેનો ઉપયોગ વિદ્યુત તારનું વેલ્ડિંગ (સોલ્ડરિંગ) કરવા માટે થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિત્તળ (Cu+Zn) -> 'તાઝ' (તાંબુ+ઝિંક), કાંસું (Cu+Sn) -> 'તાટી' (તાંબુ+ટીન).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Section 3.5</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 4,
+      "question": "ઉભયગુણી ઓક્સાઈડ એટલે શું? ઉદાહરણ આપી પ્રક્રિયા દ્વારા સમજાવો. (Most IMP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જે ધાતુ ઓક્સાઈડ એસિડ અને બેઈઝ બંને સાથે પ્રક્રિયા કરીને ક્ષાર અને પાણી આપે છે, તેને <strong>ઉભયગુણી ઓક્સાઈડ</strong> કહે છે.</p><p>એલ્યુમિનિયમ ઓક્સાઈડ (Al<sub>2</sub>O<sub>3</sub>) અને ઝિંક ઓક્સાઈડ (ZnO) ઉભયગુણી ઓક્સાઈડ છે.</p><p><strong>Al<sub>2</sub>O<sub>3</sub> ની એસિડ સાથે પ્રક્રિયા:</strong><br>Al<sub>2</sub>O<sub>3</sub> + 6HCl → 2AlCl<sub>3</sub> + 3H<sub>2</sub>O</p><p><strong>Al<sub>2</sub>O<sub>3</sub> ની બેઈઝ સાથે પ્રક્રિયા:</strong><br>Al<sub>2</sub>O<sub>3</sub> + 2NaOH → 2NaAlO<sub>2</sub> (સોડિયમ એલ્યુમિનેટ) + H<sub>2</sub>O</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉભયગુણી = એસિડ + બેઈઝ બંનેનો 'મિત્ર'. સોડિયમ એલ્યુમિનેટનું સૂત્ર ખાસ યાદ રાખવું!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Board Repeated Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 4,
+      "question": "થર્મિટ પ્રક્રિયા સમજાવો અને તેના ઉપયોગો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વધુ સક્રિય ધાતુઓ ઓછી સક્રિય ધાતુઓને તેમના સંયોજનોમાંથી વિસ્થાપિત કરે છે. આ પ્રક્રિયાઓ અત્યંત ઉષ્માક્ષેપક હોય છે, જેથી ઉત્પન્ન થતી ધાતુ પીગળેલી અવસ્થામાં મળે છે.</p><ul><li><strong>પ્રક્રિયા:</strong> આયર્ન ઓક્સાઈડ (Fe<sub>2</sub>O<sub>3</sub>) ની એલ્યુમિનિયમ પાવડર સાથેની પ્રક્રિયાને થર્મિટ પ્રક્રિયા કહે છે.</li><li>Fe<sub>2</sub>O<sub>3</sub>(s) + 2Al(s) → 2Fe(l) + Al<sub>2</sub>O<sub>3</sub>(s) + ઉષ્મા</li><li><strong>ઉપયોગ:</strong> રેલવેના પાટાના સાંધા જોડવા માટે અને મશીનરીના તિરાડ પડેલા ભાગોને જોડવા માટે આ પીગળેલી આયર્નનો ઉપયોગ થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થર્મિટ = 'થર્મલ' (ગરમી). પાટા જોડવા માટે વપરાતી 'ગરમ' પ્રક્રિયા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 4,
+      "question": "સક્રિયતા શ્રેણીમાં ટોચ પર રહેલી ધાતુઓનું નિષ્કર્ષણ સમજાવો (દા.ત. સોડિયમ).",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સક્રિયતા શ્રેણીમાં ટોચ પર રહેલી ધાતુઓ (K, Na, Ca, Mg, Al) ખૂબ જ સક્રિય હોવાથી કાર્બન વડે તેનું રિડક્શન થઈ શકતું નથી.</p><ul><li>આ ધાતુઓને તેમના <strong>પીગળેલા ક્લોરાઈડના વિદ્યુતવિભાજન</strong> દ્વારા મેળવવામાં આવે છે.</li><li>જ્યારે પીગળેલા NaCl માંથી વિદ્યુતપ્રવાહ પસાર થાય છે, ત્યારે:<br><strong>કેથોડ (ઋણ ધ્રુવ) પર:</strong> Na<sup>+</sup> + e<sup>-</sup> → Na (ધાતુ જમા થાય છે)<br><strong>એનોડ (ધન ધ્રુવ) પર:</strong> 2Cl<sup>-</sup> → Cl<sub>2</sub> + 2e<sup>-</sup> (વાયુ મુક્ત થાય છે)</li><li>આ રીતે શુદ્ધ સોડિયમ કેથોડ પર પ્રાપ્ત થાય છે. એલ્યુમિનિયમ પણ તેના ઓક્સાઈડના વિદ્યુતવિભાજનીય રિડક્શન દ્વારા મેળવાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો કે 'મોટી માછલીઓ' (સક્રિય ધાતુઓ) કાર્બનથી ડરતી નથી, તેમને વીજળીનો ઝટકો (વિદ્યુતવિભાજન) જ જોઈએ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Page 52</p></div>"
+    }
+  ]
+}
