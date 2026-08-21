@@ -637,3 +637,100 @@ var Std10_Maths_2Marks = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "વર્તુળ સંબંધિત ક્ષેત્રફળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "6 સેમી ત્રિજ્યાવાળા વર્તુળના વૃત્તાંશ દ્વારા કેન્દ્ર આગળ બનતો ખૂણો 60° હોય, તો તે વૃત્તાંશનું ક્ષેત્રફળ શોધો. (GSEB March 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં, ત્રિજ્યા r = 6 સેમી અને ખૂણો θ = 60° છે.</p><p>લઘુવૃત્તાંશનું ક્ષેત્રફળ = (θ / 360) × πr²</p><p>= (60 / 360) × (22 / 7) × 6 × 6</p><p>= (1 / 6) × (22 / 7) × 36</p><p>= (22 × 6) / 7</p><p>= 132 / 7 સેમી²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે θ = 60° હોય ત્યારે ક્ષેત્રફળ એ વર્તુળના ક્ષેત્રફળનો છઠ્ઠો ભાગ (1/6) થાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board March 2022</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "21 સેમી ત્રિજ્યાવાળા વર્તુળનું એક ચાપ કેન્દ્ર આગળ 60° નો ખૂણો બનાવે છે. આ ચાપની લંબાઈ શોધો. (GSEB July 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં, r = 21 સેમી અને θ = 60°</p><p>ચાપની લંબાઈ (l) = (θ / 360) × 2πr</p><p>= (60 / 360) × 2 × (22 / 7) × 21</p><p>= (1 / 6) × 2 × 22 × 3</p><p>= (1 / 6) × 132</p><p>= 22 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચાપની લંબાઈ માટે છેદ ઉડાડવામાં સાવધાની રાખવી. 7 × 3 = 21 સીધા જ ઉડી જશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board July 2022</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "જેનો પરિઘ 22 સેમી હોય તેવા વર્તુળના ચતુર્થ ભાગ (Quadrant) નું ક્ષેત્રફળ શોધો. (GSEB March 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વર્તુળનો પરિઘ = 2πr = 22</p><p>2 × (22 / 7) × r = 22</p><p>r = (22 × 7) / (2 × 22) = 7/2 સેમી</p><p>ચતુર્થ ભાગનું ક્ષેત્રફળ = (1/4) πr²</p><p>= (1 / 4) × (22 / 7) × (7 / 2) × (7 / 2)</p><p>= (11 × 7) / (4 × 2) = 77 / 8 સેમી²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચતુર્થ ભાગ એટલે θ = 90°. સીધું સૂત્ર 1/4 πr² વાપરવું વધુ સરળ પડે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board March 2023</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "એક ઘડિયાળના મિનિટ કાંટાની લંબાઈ 14 સેમી છે. મિનિટ કાંટો 5 મિનિટમાં પરિભ્રમણ કરીને જે ક્ષેત્રફળ રચે તે શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>મિનિટ કાંટાની લંબાઈ r = 14 સેમી</p><p>60 મિનિટમાં કાંટો 360° ફરે છે.</p><p>તેથી, 5 મિનિટમાં રચાતો ખૂણો θ = (360 / 60) × 5 = 30°</p><p>5 મિનિટમાં રચાતું ક્ષેત્રફળ = (θ / 360) × πr²</p><p>= (30 / 360) × (22 / 7) × 14 × 14</p><p>= (1 / 12) × 22 × 2 × 14</p><p>= (11 × 14) / 3 = 154 / 3 સેમી²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિનિટ કાંટો 1 મિનિટમાં હંમેશા 6° નો ખૂણો બનાવે છે. આ યાદ રાખવું!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Textbook IMP / NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "ત્રિજ્યા R વાળા વર્તુળનો વૃત્તાંશ ખૂણો P° હોય, તો વૃત્તાંશનું ક્ષેત્રફળ શોધો. (MCQ પ્રકારનો 2 ગુણનો ગણતરી વાળો પ્રશ્ન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વૃત્તાંશના ક્ષેત્રફળનું સામાન્ય સૂત્ર = (θ / 360) × πr²</p><p>અહીં r = R અને θ = P</p><p>તેથી, ક્ષેત્રફળ = (P / 360) × πR²</p><p>વિકલ્પમાં ઘણીવાર છેદમાં 720 આપેલ હોય છે, તો:</p><p>= (P / 720) × 2πR²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બોર્ડમાં ઘણીવાર આ પ્રશ્ન ટ્વિસ્ટ કરીને પૂછાય છે, જેમાં અંશ અને છેદ બંનેને 2 વડે ગુણ્યા હોય છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exemplar</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "10 સેમી ત્રિજ્યાવાળા વર્તુળની જીવા કેન્દ્ર આગળ કાટખૂણો આંતરે છે, તો તેને અનુરૂપ લઘુવૃત્તાંશનું ક્ષેત્રફળ શોધો. (π = 3.14 લો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં, r = 10 સેમી અને θ = 90°</p><p>લઘુવૃત્તાંશનું ક્ષેત્રફળ = (θ / 360) × πr²</p><p>= (90 / 360) × 3.14 × 10 × 10</p><p>= (1 / 4) × 314</p><p>= 78.5 સેમી²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે ખૂણો 90° હોય, ત્યારે ક્ષેત્રફળ સીધું જ વર્તુળનું ચોથું ભાગ એટલે કે πr²/4 થાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "એક ગાડીના કાચ સાફ કરવાના બે વાઇપર (Wipers) છે. દરેક વાઇપરની લંબાઈ 25 સેમી છે અને તે 115° ના ખૂણે સફાઈ કરે છે. વાઇપરના દરેક ફેરાથી સાફ થતા કુલ વિસ્તારનું ક્ષેત્રફળ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>r = 25 સેમી, θ = 115°</p><p>કુલ ક્ષેત્રફળ = 2 × (વૃત્તાંશનું ક્ષેત્રફળ) (કારણ કે બે વાઇપર છે)</p><p>= 2 × (θ / 360) × πr²</p><p>= 2 × (115 / 360) × (22 / 7) × 25 × 25</p><p>= (23 / 72) × (22 / 7) × 625</p><p>= 158125 / 126 સેમી²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરીક્ષામાં જો છેદ ન ઉડતા હોય તો અપૂર્ણાંકમાં જવાબ રાખવો માન્ય છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Textbook Exercise 11.1</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "એક વર્તુળના લઘુવૃત્તાંશની ત્રિજ્યા 7 સેમી અને ચાપની લંબાઈ 12 સેમી હોય, તો તેનું ક્ષેત્રફળ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં, r = 7 સેમી અને l = 12 સેમી</p><p>જ્યારે ત્રિજ્યા અને ચાપની લંબાઈ આપેલી હોય ત્યારે:</p><p>વૃત્તાંશનું ક્ષેત્રફળ = (1 / 2) × r × l</p><p>= (1 / 2) × 7 × 12</p><p>= 7 × 6 = 42 સેમી²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ સૂત્ર (1/2)rl બહુ ઉપયોગી છે, તેનાથી θ શોધવાની જરૂર રહેતી નથી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Most Important Logical Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "જો વર્તુળનું ક્ષેત્રફળ અને પરિઘ સંખ્યાત્મક રીતે સમાન હોય, તો વર્તુળની ત્રિજ્યા શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વર્તુળનું ક્ષેત્રફળ = વર્તુળનો પરિઘ</p><p>πr² = 2πr</p><p>r² / r = 2π / π</p><p>r = 2</p><p>તેથી, ત્રિજ્યા 2 એકમ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પ્રશ્ન હેતુલક્ષીમાં પણ વારંવાર પૂછાય છે. જવાબ હંમેશા '2' જ આવે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Chapter 11 Objective</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "બે વર્તુળોની ત્રિજ્યાઓ 8 સેમી અને 6 સેમી છે. જે વર્તુળનું ક્ષેત્રફળ આ બે વર્તુળોના ક્ષેત્રફળના સરવાળા જેટલું હોય, તે વર્તુળની ત્રિજ્યા શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે નવા વર્તુળની ત્રિજ્યા R છે.</p><p>πR² = πr₁² + πr₂²</p><p>πR² = π(r₁² + r₂²)</p><p>R² = 8² + 6²</p><p>R² = 64 + 36 = 100</p><p>R = √100 = 10 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાયથાગોરસના ત્રિપુટી (6, 8, 10) નો નિયમ અહીં પણ લાગુ પડે છે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes HOTS Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "એક છત્રીમાં સમાન અંતરે 8 સળીઓ આવેલી છે. છત્રીને 45 સેમી ત્રિજ્યાવાળું સપાટ વર્તુળ ધારી, બે ક્રમિક સળીઓ વચ્ચેનું ક્ષેત્રફળ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>r = 45 સેમી, કુલ સળીઓ = 8</p><p>બે ક્રમિક સળીઓ વચ્ચેનો ખૂણો θ = 360 / 8 = 45°</p><p>બે ક્રમિક સળીઓ વચ્ચેનું ક્ષેત્રફળ = (1 / 8) × πr²</p><p>= (1 / 8) × (22 / 7) × 45 × 45</p><p>= (11 × 2025) / (4 × 7) = 22275 / 28 સેમી²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુલ ભાગ 8 હોવાથી ડાયરેક્ટ ક્ષેત્રફળને 8 વડે ભાગી નાખવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Textbook IMP Exercise</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "વર્તુળના કેન્દ્ર આગળ 120° નો ખૂણો અને 12 સેમી ત્રિજ્યા હોય તેવા વૃત્તાંશનું ક્ષેત્રફળ શોધો. (π = 3.14)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>r = 12 સેમી, θ = 120°</p><p>ક્ષેત્રફળ = (θ / 360) × πr²</p><p>= (120 / 360) × 3.14 × 12 × 12</p><p>= (1 / 3) × 3.14 × 144</p><p>= 3.14 × 48 = 150.72 સેમી²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 120° એટલે વર્તુળનો ત્રીજો ભાગ. સીધો 144 ને 3 વડે ભાગી નાખવા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Practice Set</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "એક વર્તુળાકાર ખેતરને વાળ કરવાનો ખર્ચ ₹24 પ્રતિ મીટર પ્રમાણે ₹5280 થાય છે, તો ખેતરની ત્રિજ્યા શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ખેતરનો પરિઘ = કુલ ખર્ચ / દર</p><p>= 5280 / 24 = 220 મીટર</p><p>હવે, 2πr = 220</p><p>2 × (22 / 7) × r = 220</p><p>r = (220 × 7) / (2 × 22)</p><p>r = 5 × 7 = 35 મીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાળ કરવાનો ખર્ચ હંમેશા પરિઘ સાથે સંકળાયેલ હોય છે, જ્યારે ખેડવાનો ખર્ચ ક્ષેત્રફળ સાથે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Practical Application IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "વૃત્તાંશની ત્રિજ્યા 21 સેમી અને ક્ષેત્રફળ 231 સેમી² હોય, તો કેન્દ્ર આગળનો ખૂણો θ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વૃત્તાંશનું ક્ષેત્રફળ = (θ / 360) × πr² = 231</p><p>(θ / 360) × (22 / 7) × 21 × 21 = 231</p><p>(θ / 360) × 22 × 3 × 21 = 231</p><p>θ = (231 × 360) / (22 × 3 × 21)</p><p>θ = 60°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદ ઉડાડવા માટે 21 = 7 × 3 અને 231 = 21 × 11 નો ઉપયોગ કરવો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Board Question Bank</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "14 સેમી વ્યાસવાળા વર્તુળના લઘુવૃત્તાંશનો ખૂણો 90° હોય, તો તેની પરિમિતિ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વ્યાસ = 14 સેમી ∴ r = 7 સેમી, θ = 90°</p><p>વૃત્તાંશની પરિમિતિ = ચાપની લંબાઈ + 2 × ત્રિજ્યા</p><p>ચાપની લંબાઈ l = (90/360) × 2 × (22/7) × 7 = 11 સેમી</p><p>પરિમિતિ = 11 + 2(7) = 11 + 14 = 25 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિદ્યાર્થીઓ વારંવાર ત્રિજ્યા (2r) ઉમેરવાનું ભૂલી જાય છે, જે પરિમિતિ માટે અનિવાર્ય છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Conceptual Question NJ Classes</p></div>"
+    }
+  ]
+}
