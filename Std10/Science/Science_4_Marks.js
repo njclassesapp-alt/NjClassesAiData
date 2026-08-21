@@ -1,0 +1,79 @@
+var Std10_Science_4Marks = {
+"1": {
+  "chapterName": "પ્રકરણ 1",
+  "chapterTitle": "રાસાયણિક પ્રક્રિયાઓ અને સમીકરણો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 4,
+      "question": "પાણીનું વિદ્યુતવિભાજન (Electrolysis of Water) પ્રયોગ આકૃતિ સહ સમજાવી, કેથોડ અને એનોડ પર મુક્ત થતા વાયુઓ વિશે માહિતી આપો. (March - 2023, 2020 માં પૂછાયેલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પાણીનું વિદ્યુતવિભાજન એ ઉષ્મીય વિઘટનનું ઉદાહરણ છે. </p><strong>આકૃતિ:</strong><br><svg width='300' height='200' viewBox='0 0 300 200' xmlns='http://www.w3.org/2000/svg'><rect x='50' y='50' width='200' height='120' fill='none' stroke='black' stroke-width='2'/><rect x='90' y='60' width='20' height='100' fill='gray'/><rect x='190' y='60' width='20' height='100' fill='gray'/><line x1='100' y1='160' x2='100' y2='190' stroke='black'/><line x1='200' y1='160' x2='200' y2='190' stroke='black'/><text x='70' y='40' font-size='12'>H2 (કેથોડ)</text><text x='180' y='40' font-size='12'>O2 (એનોડ)</text><text x='110' y='195' font-size='10'>6V બેટરી</text></svg><ul><li><strong>સાધન ગોઠવણી:</strong> એક પ્લાસ્ટિકના કપમાં નીચે બે છિદ્રો પાડી રબરના બૂચ લગાવો અને તેમાં કાર્બનના વિદ્યુતધ્રુવો ગોઠવો.</li><li><strong>પ્રક્રિયા:</strong> કપમાં પાણી ભરી તેમાં મંદ H2SO4 ના થોડા ટીપાં નાખો. વિદ્યુતધ્રુવોને 6V ની બેટરી સાથે જોડો.</li><li><strong>અવલોકન:</strong> બંને વિદ્યુતધ્રુવો પર પરપોટા દેખાશે. કેથોડ (ઋણ ધ્રુવ) પર હાઈડ્રોજન (H2) અને એનોડ (ધન ધ્રુવ) પર ઓક્સિજન (O2) વાયુ જમા થાય છે.</li><li><strong>નિષ્કર્ષ:</strong> હાઈડ્રોજન વાયુનું કદ ઓક્સિજન કરતા બમણું હોય છે.</li></ul><p><strong>રાસાયણિક સમીકરણ:</strong> 2H<sub>2</sub>O(l) &rarr; 2H<sub>2</sub>(g) + O<sub>2</sub>(g)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'H' (Hydrogen) એ 'H' (Huge/બમણો) હોય છે. કેથોડ (-) પર હાઈડ્રોજન (+) મળે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board March 2023 / Activity 1.7</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 4,
+      "question": "વિઘટન પ્રક્રિયા એટલે શું? ઉષ્મીય વિઘટન, વિદ્યુત વિઘટન અને પ્રકાશીય વિઘટનના એક-એક ઉદાહરણ સમીકરણ સાથે સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જે રાસાયણિક પ્રક્રિયામાં એક જ પ્રકારના પ્રક્રિયકને ગરમ કરવાથી કે ઉર્જા આપવાથી બે કે તેથી વધુ નીપજો બનતી હોય તેને વિઘટન પ્રક્રિયા કહે છે.</p><ul><li><strong>1. ઉષ્મીય વિઘટન (Thermal Decomposition):</strong> ગરમીની મદદથી થતું વિઘટન.<br>CaCO<sub>3</sub>(s) (ચૂનાનો પથ્થર) &rarr; CaO(s) + CO<sub>2</sub>(g)</li><li><strong>2. વિદ્યુત વિઘટન (Electrolytic Decomposition):</strong> વિદ્યુત પ્રવાહ દ્વારા થતું વિઘટન.<br>2H<sub>2</sub>O(l) &rarr; 2H<sub>2</sub>(g) + O<sub>2</sub>(g)</li><li><strong>3. પ્રકાશીય વિઘટન (Photochemical Decomposition):</strong> સૂર્યપ્રકાશની હાજરીમાં થતું વિઘટન.<br>2AgCl(s) (સફેદ) &rarr; 2Ag(s) (ભૂખરો) + Cl<sub>2</sub>(g)</li></ul><p>આ પ્રક્રિયામાં ઉર્જાનું શોષણ થતું હોવાથી તેને ઉષ્માશોષક પ્રક્રિયા પણ કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિઘટન એટલે 'બ્રેક-અપ'. એકમાંથી અનેક બને!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook Page 8-9</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 4,
+      "question": "રેડોક્ષ (Redox) પ્રક્રિયા એટલે શું? ઉદાહરણ આપી સમજાવો અને તેમાં કયા પદાર્થનું ઓક્સિડેશન અને કયા પદાર્થનું રિડક્શન થાય છે તે જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જે રાસાયણિક પ્રક્રિયામાં એક પ્રક્રિયકનું ઓક્સિડેશન થતું હોય અને બીજા પ્રક્રિયકનું રિડક્શન થતું હોય, તેવી પ્રક્રિયાને રેડોક્ષ પ્રક્રિયા કહે છે.</p><p><strong>ઉદાહરણ 1:</strong> CuO + H<sub>2</sub> &rarr; Cu + H<sub>2</sub>O</p><ul><li>અહીં, H<sub>2</sub> માં ઓક્સિજન ઉમેરાય છે, તેથી <strong>H<sub>2</sub> નું ઓક્સિડેશન</strong> થાય છે.</li><li>CuO માંથી ઓક્સિજન દૂર થાય છે, તેથી <strong>CuO નું રિડક્શન</strong> થાય છે.</li></ul><p><strong>ઉદાહરણ 2:</strong> ZnO + C &rarr; Zn + CO</p><ul><li>કાર્બન (C) નું CO માં ઓક્સિડેશન થાય છે.</li><li>ઝિંક ઓક્સાઈડ (ZnO) નું Zn માં રિડક્શન થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Red-Ox = Reduction + Oxidation. એક હાથ સે લેના (O2), દુસરે સે દેના!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Most IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 4,
+      "question": "રાસાયણિક સમીકરણને સંતુલિત કરવાના સોપાન (Steps) ઉદાહરણ સાથે સમજાવો. (Fe + H2O → Fe3O4 + H2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>રાસાયણિક સમીકરણ સંતુલિત કરવાની પદ્ધતિને 'હિટ એન્ડ ટ્રાયલ' વિધિ કહે છે.</p><ul><li><strong>સોપાન 1:</strong> દરેક સૂત્રની ફરતે બોક્સ બનાવો. (બોક્સની અંદર ફેરફાર કરવો નહીં).</li><li><strong>સોપાન 2:</strong> અસંતુલિત સમીકરણમાં રહેલા તત્વોના પરમાણુઓની યાદી બનાવો. (LHS અને RHS).</li><li><strong>સોપાન 3:</strong> સૌથી વધુ પરમાણુ ધરાવતા સંયોજનને પસંદ કરી સંતુલિત કરો. અહીં Fe<sub>3</sub>O<sub>4</sub> માં ઓક્સિજન 4 છે, તેથી ડાબી બાજુ 4H<sub>2</sub>O કરો.</li><li><strong>સોપાન 4:</strong> હવે હાઈડ્રોજનને સંતુલિત કરવા જમણી બાજુ 4H<sub>2</sub> કરો.</li><li><strong>સોપાન 5:</strong> Fe ને સંતુલિત કરવા ડાબી બાજુ 3Fe મૂકો.</li><li><strong>સોપાન 6:</strong> અંતિમ ચેક: 3Fe + 4H<sub>2</sub>O &rarr; Fe<sub>3</sub>O<sub>4</sub> + 4H<sub>2</sub></li><li><strong>સોપાન 7:</strong> ભૌતિક અવસ્થા લખો: 3Fe(s) + 4H<sub>2</sub>O(g) &rarr; Fe<sub>3</sub>O<sub>4</sub>(s) + 4H<sub>2</sub>(g)</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બિગ ફિશ ફર્સ્ટ' - જે મોટું હોય તેને પહેલા પકડો (સંતુલિત કરો).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Steps</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 4,
+      "question": "વિસ્થાપન અને દ્વિવિસ્થાપન પ્રક્રિયા વચ્ચેનો તફાવત ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><table border='1' style='width:100%; border-collapse: collapse;'><tr><th>વિસ્થાપન પ્રક્રિયા (Displacement)</th><th>દ્વિવિસ્થાપન પ્રક્રિયા (Double Displacement)</th></tr><tr><td>વધુ સક્રિય ધાતુ ઓછી સક્રિય ધાતુને તેના દ્રાવણમાંથી દૂર કરે છે.</td><td>બે પ્રક્રિયકો વચ્ચે આયનોની આપ-લે થાય છે.</td></tr><tr><td>Fe + CuSO<sub>4</sub> &rarr; FeSO<sub>4</sub> + Cu</td><td>Na<sub>2</sub>SO<sub>4</sub> + BaCl<sub>2</sub> &rarr; BaSO<sub>4</sub> + 2NaCl</td></tr><tr><td>લોખંડની ખીલી કોપર સલ્ફેટના વાદળી રંગને આછો લીલો બનાવે છે.</td><td>બે દ્રાવણો મિશ્ર કરતા સફેદ અવક્ષેપ (BaSO<sub>4</sub>) મળે છે.</td></tr></table><p><strong>અવક્ષેપન પ્રક્રિયા:</strong> દ્વિવિસ્થાપન પ્રક્રિયામાં જો અદ્રાવ્ય સફેદ પદાર્થ બને, તો તેને અવક્ષેપન પ્રક્રિયા પણ કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિસ્થાપન = એક ધક્કો મારે. દ્વિવિસ્થાપન = બંને એકબીજાની જગ્યા બદલે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 4,
+      "question": "રોજિંદા જીવનમાં ઓક્સિડેશન પ્રક્રિયાની અસરો: ક્ષારણ (Corrosion) અને ખોરાપણું (Rancidity) સવિસ્તાર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>1. ક્ષારણ (Corrosion):</strong> જ્યારે ધાતુ પર તેની આસપાસના પદાર્થો જેવા કે ભેજ, એસિડ વગેરેનો હુમલો થાય ત્યારે તેનું ક્ષયન થાય છે. આ પ્રક્રિયાને ક્ષારણ કહે છે.<br>ઉદા: લોખંડને કાટ લાગવો (લાલ રંગ), ચાંદી પર કાળા રંગનું સ્તર, તાંબા પર લીલા રંગનું સ્તર.<br><strong>અટકાવવા:</strong> રંગકામ, તેલ લગાવવું કે ગેલ્વેનાઇઝિંગ.</li><li><strong>2. ખોરાપણું (Rancidity):</strong> જ્યારે તેલ અથવા ચરબીયુક્ત ખોરાક ખુલ્લો રાખવામાં આવે ત્યારે તેનું ઓક્સિડેશન થાય છે અને તે ખોરો પડે છે. તેની ગંધ અને સ્વાદ બદલાય છે.<br><strong>અટકાવવા:</strong> એન્ટી-ઓક્સિડન્ટ પદાર્થો ઉમેરવા, હવાચુસ્ત ડબ્બામાં રાખવું અથવા નાઇટ્રોજન જેવા નિષ્ક્રિય વાયુનો ઉપયોગ (ચિપ્સના પેકેટમાં).</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષારણ = ધાતુની દુશ્મન. ખોરાપણું = ચિપ્સની દુશ્મન (નાઈટ્રોજન બચાવશે!).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP Topic</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 4,
+      "question": "મેગ્નેશિયમની પટ્ટીને હવામાં સળગાવવાની પ્રવૃત્તિ વર્ણવી, તેનું સંતુલિત સમીકરણ લખો. શા માટે તેને સળગાવતા પહેલા સાફ કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>પ્રવૃત્તિ:</strong> મેગ્નેશિયમની 2 સેમી લાંબી પટ્ટી લો. તેને બર્નરની જ્યોત પર સળગાવો.</li><li><strong>અવલોકન:</strong> મેગ્નેશિયમની પટ્ટી ઝગઝગતી સફેદ જ્યોતથી સળગે છે અને સફેદ રાખ (પાવડર) માં રૂપાંતરિત થાય છે.</li><li><strong>સમીકરણ:</strong> 2Mg(s) + O<sub>2</sub>(g) &rarr; 2MgO(s) (મેગ્નેશિયમ ઓક્સાઈડ)</li><li><strong>સાફ કરવાનું કારણ:</strong> મેગ્નેશિયમ અતિ સક્રિય ધાતુ હોવાથી તે હવામાંના ઓક્સિજન સાથે પ્રક્રિયા કરી તેની સપાટી પર 'મેગ્નેશિયમ ઓક્સાઈડ' નું નિષ્ક્રિય સ્તર બનાવે છે. આ સ્તર પ્રક્રિયામાં અવરોધ પેદા કરે છે, તેથી તેને કાચપેપર (Sandpaper) થી સાફ કરવું પડે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Mg + O2 = White Magic (સફેદ રાખ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Activity 1.1 / NCERT</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 4,
+      "question": "ઉષ્માક્ષેપક અને ઉષ્માશોષક પ્રક્રિયાઓ એટલે શું? દરેકના બે-બે ઉદાહરણો આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>1. ઉષ્માક્ષેપક પ્રક્રિયા (Exothermic):</strong> જે પ્રક્રિયામાં નીપજના નિર્માણની સાથે ઉષ્મા મુક્ત થતી હોય.<br>ઉદા 1: કુદરતી વાયુનું દહન: CH<sub>4</sub> + 2O<sub>2</sub> &rarr; CO<sub>2</sub> + 2H<sub>2</sub>O + ઉર્જા<br>ઉદા 2: શ્વસન એ ઉષ્માક્ષેપક પ્રક્રિયા છે.</li><li><strong>2. ઉષ્માશોષક પ્રક્રિયા (Endothermic):</strong> જે પ્રક્રિયામાં ઉષ્માનું શોષણ થતું હોય (ઉર્જા આપવી પડતી હોય).<br>ઉદા 1: સિલ્વર ક્લોરાઈડનું વિઘટન: 2AgCl + સૂર્યપ્રકાશ &rarr; 2Ag + Cl<sub>2</sub><br>ઉદા 2: નાઈટ્રોજન અને ઓક્સિજન જોડાઈ NO બનવું.</li></ul><p><strong>ખાસ નોંધ:</strong> કળીચૂનામાં પાણી નાખવું એ ઉષ્માક્ષેપક છે, જ્યારે ચૂનાના પથ્થરને ગરમ કરવો એ ઉષ્માશોષક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ક્ષેપક' એટલે બહાર ફેંકવું (Exit), 'શોષક' એટલે અંદર ખેંચવું (Enter).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 4,
+      "question": "લેડ નાઈટ્રેટના પાવડરને ગરમ કરવાની પ્રવૃત્તિ સમજાવો. તેમાં કયા રંગનો વાયુ ઉત્પન્ન થાય છે? રાસાયણિક સમીકરણ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>પ્રવૃત્તિ:</strong> એક કસનળીમાં 2 ગ્રામ લેડ નાઈટ્રેટનો પાવડર લઈ તેને બર્નર પર ગરમ કરો.</li><li><strong>અવલોકન:</strong> કસનળીમાંથી કથ્થઈ રંગનો (Brown) ધુમાડો નીકળતો દેખાશે. આ ધુમાડો નાઈટ્રોજન ડાયોક્સાઈડ (NO<sub>2</sub>) વાયુનો છે.</li><li><strong>સમીકરણ:</strong> 2Pb(NO<sub>3</sub>)<sub>2</sub>(s) &rarr; 2PbO(s) + 4NO<sub>2</sub>(g) + O<sub>2</sub>(g)</li><li><strong>પરિણામ:</strong> લેડ નાઈટ્રેટનું વિઘટન થઈ લેડ ઓક્સાઈડ, નાઈટ્રોજન ડાયોક્સાઈડ અને ઓક્સિજન મળે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેડ નાઈટ્રેટ = કથ્થઈ ધુમાડો (NO2). આ યાદ રાખજો, MCQ માં પણ પૂછાય છે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Activity 1.6 / July 2022</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 4,
+      "question": "નીચેની પ્રક્રિયાઓ માટે સંતુલિત રાસાયણિક સમીકરણો લખો:<br>1. હાઈડ્રોજન + ક્લોરીન → હાઈડ્રોજન ક્લોરાઈડ<br>2. બેરિયમ ક્લોરાઈડ + એલ્યુમિનિયમ સલ્ફેટ → બેરિયમ સલ્ફેટ + એલ્યુમિનિયમ ક્લોરાઈડ<br>3. સોડિયમ + પાણી → સોડિયમ હાઈડ્રોક્સાઈડ + હાઈડ્રોજન<br>4. કેલ્શિયમ ઓક્સાઈડ + પાણી → કેલ્શિયમ હાઈડ્રોક્સાઈડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ol><li>H<sub>2</sub>(g) + Cl<sub>2</sub>(g) &rarr; 2HCl(g)</li><li>3BaCl<sub>2</sub>(aq) + Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>(aq) &rarr; 3BaSO<sub>4</sub>(s) + 2AlCl<sub>3</sub>(aq)</li><li>2Na(s) + 2H<sub>2</sub>O(l) &rarr; 2NaOH(aq) + H<sub>2</sub>(g)</li><li>CaO(s) + H<sub>2</sub>O(l) &rarr; Ca(OH)<sub>2</sub>(aq) + ઉષ્મા</li></ol><p>આ બધી પ્રક્રિયાઓમાં દ્રવ્ય સંચયના નિયમનું પાલન થાય તે રીતે પરમાણુઓ સંતુલિત કરેલ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમીકરણ સંતુલિત કરતી વખતે હંમેશા છેલ્લે હાઈડ્રોજન અને ઓક્સિજન તપાસવા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise Q.6/7</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 4,
+      "question": "સિલ્વર ક્લોરાઈડ અને સિલ્વર બ્રોમાઈડ પર સૂર્યપ્રકાશની અસર સમજાવો. આ પ્રક્રિયાનો ઉપયોગ ક્યાં થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>સિલ્વર ક્લોરાઈડ:</strong> સફેદ રંગના સિલ્વર ક્લોરાઈડને સૂર્યપ્રકાશમાં રાખતા તે ભૂખરા (Grey) રંગમાં ફેરવાય છે. આ પ્રકાશીય વિઘટન છે.<br>2AgCl(s) + સૂર્યપ્રકાશ &rarr; 2Ag(s) + Cl<sub>2</sub>(g)</li><li><strong>સિલ્વર બ્રોમાઈડ:</strong> સિલ્વર બ્રોમાઈડ પણ સમાન રીતે વિઘટન પામે છે.<br>2AgBr(s) + સૂર્યપ્રકાશ &rarr; 2Ag(s) + Br<sub>2</sub>(g)</li><li><strong>ઉપયોગ:</strong> આ પ્રક્રિયાઓનો ઉપયોગ 'શ્યામ અને શ્વેત ફોટોગ્રાફી' (Black and White Photography) માં થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ag એટલે સિલ્વર, સૂર્યપ્રકાશ તેને 'ભૂખરો' કરી નાખે છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook Page 9</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 4,
+      "question": "ઝિંક (Zn) ની મંદ હાઈડ્રોક્લોરિક એસિડ (HCl) સાથેની પ્રક્રિયા આકૃતિ સહ વર્ણવો. કયો વાયુ ઉત્પન્ન થાય છે? તેની કસોટી કેવી રીતે કરશો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><svg width='200' height='150' viewBox='0 0 200 150' xmlns='http://www.w3.org/2000/svg'><rect x='80' y='20' width='40' height='100' fill='none' stroke='black' stroke-width='2'/><circle cx='100' cy='110' r='3' fill='gray'/><circle cx='95' cy='105' r='3' fill='gray'/><text x='130' y='110' font-size='10'>Zn ના દાણા</text><text x='130' y='70' font-size='10'>મંદ HCl</text></svg><ul><li><strong>પ્રક્રિયા:</strong> એક કોનિકલ ફ્લાસ્કમાં ઝિંકના દાણા લો અને તેમાં મંદ HCl ઉમેરો.</li><li><strong>અવલોકન:</strong> ઝિંકના દાણાની આસપાસ વાયુના પરપોટા દેખાશે. ફ્લાસ્કને સ્પર્શ કરતા તે ગરમ જણાશે (ઉષ્માક્ષેપક).</li><li><strong>સમીકરણ:</strong> Zn(s) + 2HCl(aq) &rarr; ZnCl<sub>2</sub>(aq) + H<sub>2</sub>(g)</li><li><strong>વાયુની કસોટી:</strong> ઉત્પન્ન થતા હાઈડ્રોજન (H<sub>2</sub>) વાયુની નજીક સળગતી મીણબત્તી લાવતા તે 'પોપ' (Pop) અવાજ સાથે સળગી ઉઠે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધાતુ + એસિડ = હાઈડ્રોજન (H2) 'ધડાકા' સાથે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Activity 1.3 / NJ Classes</p></div>"
+    }
+  ]
+}
