@@ -594,3 +594,94 @@ var Std10_Science_4Marks = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "પ્રકાશ - પરાવર્તન અને વક્રીભવન",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 4,
+      "question": "કાચના લંબઘન ટુકડા (સ્લેબ) વડે થતા પ્રકાશના વક્રીભવનની ઘટના આકૃતિ દોરી સમજાવો. (March-2020, July-2022, March-2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જ્યારે પ્રકાશનું કિરણ કાચના લંબઘન પર આપાત થાય છે ત્યારે બે વાર વક્રીભવન પામે છે.</p><ul><li><strong>પ્રથમ વક્રીભવન:</strong> બિંદુ E પાસે કિરણ હવામાંથી કાચમાં પ્રવેશે ત્યારે તે લંબ તરફ વાંકું વળે છે.</li><li><strong>બીજું વક્રીભવન:</strong> બિંદુ O પાસે કિરણ કાચમાંથી હવામાં પ્રવેશે ત્યારે તે લંબથી દૂર જાય છે.</li><li><strong>નિષ્કર્ષ:</strong> આપાત કિરણ અને નિર્ગમન કિરણ એકબીજાને સમાંતર હોય છે, પરંતુ તે થોડું બાજુ પર ખસેલું હોય છે, જેને <strong>પાશ્વિય સ્થાનાંતર (Lateral Shift)</strong> કહે છે.</li></ul><svg width='250' height='180' viewBox='0 0 250 180' xmlns='http://www.w3.org/2000/svg'><rect x='50' y='40' width='150' height='80' fill='#e0e0e0' stroke='black' /><line x1='20' y1='10' x2='80' y2='40' stroke='blue' stroke-width='2' /><line x1='80' y1='40' x2='120' y2='120' stroke='red' stroke-width='2' /><line x1='120' y1='120' x2='180' y2='150' stroke='green' stroke-width='2' /><text x='10' y='30' font-size='12'>આપાત</text><text x='185' y='155' font-size='12'>નિર્ગમન</text></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો - 'પાતળાથી ઘટ્ટ લંબ તરફ, ઘટ્ટથી પાતળા લંબથી દૂર'. કાચના સ્લેબમાં હંમેશા પાશ્વિય સ્થાનાંતર થાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board 2020/23 Official</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 4,
+      "question": "અંતર્ગોળ અરીસા માટે નીચેના કિસ્સાઓમાં રચાતા પ્રતિબિંબના સ્થાન, પ્રકાર અને પરિમાણ આકૃતિ દોરી જણાવો: (1) વસ્તુ સી(C) થી દૂર હોય (2) વસ્તુ સી(C) પર હોય (3) વસ્તુ એફ(F) પર હોય. (March-2019, Aug-2020)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>1. વસ્તુ C થી દૂર:</strong> પ્રતિબિંબ F અને C ની વચ્ચે, વાસ્તવિક અને ઉલટું, અને વસ્તુ કરતા નાનું મળે છે.</p><p><strong>2. વસ્તુ C પર:</strong> પ્રતિબિંબ C પર જ મળે છે, વાસ્તવિક અને ઉલટું, અને વસ્તુના જેવડું જ કદ ધરાવે છે.</p><p><strong>3. વસ્તુ F પર:</strong> પ્રતિબિંબ અનંત અંતરે, વાસ્તવિક અને ઉલટું, અને અત્યંત મોટું (વિશાલિત) મળે છે.</p><svg width='300' height='100' xmlns='http://www.w3.org/2000/svg'><path d='M 100,10 Q 130,50 100,90' fill='none' stroke='black' stroke-width='3' /><line x1='20' y1='50' x2='150' y2='50' stroke='black' stroke-dasharray='5,5' /><text x='110' y='55' font-size='10'>P</text><text x='70' y='55' font-size='10'>F</text><text x='40' y='55' font-size='10'>C</text></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસ્તુ જેમ અરીસાની નજીક આવશે, પ્રતિબિંબ તેમ અરીસાથી દૂર અને મોટું થતું જશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB PYQ</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 4,
+      "question": "બહિર્ગોળ લેન્સ વડે રચાતા પ્રતિબિંબ સમજાવો: (1) વસ્તુ 2F1 થી દૂર હોય ત્યારે (2) વસ્તુ F1 અને 2F1 ની વચ્ચે હોય ત્યારે. આકૃતિ સહ જણાવો. (March-2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>(1) વસ્તુ 2F1 થી દૂર:</strong> પ્રતિબિંબ બીજી તરફ F2 અને 2F2 ની વચ્ચે મળે છે. પ્રકાર: વાસ્તવિક અને ઉલટું. કદ: વસ્તુ કરતા નાનું.</li><li><strong>(2) વસ્તુ F1 અને 2F1 ની વચ્ચે:</strong> પ્રતિબિંબ બીજી તરફ 2F2 થી દૂર મળે છે. પ્રકાર: વાસ્તવિક અને ઉલટું. કદ: વસ્તુ કરતા મોટું (વિશાલિત).</li></ul><svg width='200' height='100'><ellipse cx='100' cy='50' rx='20' ry='45' fill='none' stroke='black'/><line x1='0' y1='50' x2='200' y2='50' stroke='black'/></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેન્સમાં વસ્તુ 2F પર હોય તો પ્રતિબિંબ પણ 2F પર જ મળે, પણ વિરુદ્ધ બાજુએ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Chapter 9</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 4,
+      "question": "ગોલીય અરીસા માટેની નવી કાર્તેઝિયન સંજ્ઞા પ્રણાલી આકૃતિ દોરી સમજાવો. (Most IMP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ol><li>વસ્તુ હંમેશા અરીસાની ડાબી બાજુએ રાખવામાં આવે છે.</li><li>બધા જ અંતરો અરીસાના ધ્રુવ (P) થી મુખ્ય અક્ષને સમાંતર માપવામાં આવે છે.</li><li>ઉગમબિંદુ (P) થી જમણી બાજુના (+x અક્ષ) અંતરો ધન (+) લેવા.</li><li>ઉગમબિંદુ (P) થી ડાબી બાજુના (-x અક્ષ) અંતરો ઋણ (-) લેવા.</li><li>મુખ્ય અક્ષને લંબ ઉપરની તરફની ઊંચાઈ ધન (+) લેવી.</li><li>મુખ્ય અક્ષને લંબ નીચેની તરફની ઊંચાઈ ઋણ (-) લેવી.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રાફ પેપર યાદ રાખો! જમણે ધન, ડાબે ઋણ, ઉપર ધન, નીચે ઋણ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Page 169</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 4,
+      "question": "વક્રીભવનાંક એટલે શું? સાપેક્ષ વક્રીભવનાંક અને નિરપેક્ષ વક્રીભવનાંક વચ્ચેનો તફાવત સૂત્રો સહ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વ્યાખ્યા:</strong> પ્રકાશના કિરણના વાંકા વળવાની ક્ષમતાને વક્રીભવનાંક કહે છે.</p><p><strong>1. સાપેક્ષ વક્રીભવનાંક (Relative Refractive Index):</strong> માધ્યમ 2 નો માધ્યમ 1 ની સાપેક્ષે વક્રીભવનાંક એટલે માધ્યમ 1 માં પ્રકાશની ઝડપ અને માધ્યમ 2 માં પ્રકાશની ઝડપનો ગુણોત્તર. સૂત્ર: n<sub>21</sub> = v<sub>1</sub> / v<sub>2</sub></p><p><strong>2. નિરપેક્ષ વક્રીભવનાંક (Absolute Refractive Index):</strong> જ્યારે માધ્યમ 1 તરીકે શૂન્યાવકાશ કે હવા હોય, ત્યારે માધ્યમ 2 ના વક્રીભવનાંકને નિરપેક્ષ વક્રીભવનાંક કહે છે. સૂત્ર: n = c / v (જ્યાં c = પ્રકાશની શૂન્યાવકાશમાં ઝડપ 3x10<sup>8</sup> m/s).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિરપેક્ષ એટલે 'હવા' ની સાપેક્ષે. તે હંમેશા 1 કરતા વધુ હોય છે (હવા સિવાય).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 4,
+      "question": "લેન્સનો પાવર (Power of Lens) એટલે શું? તેની વ્યાખ્યા, સૂત્ર અને SI એકમ જણાવી, પાવર અને કેન્દ્રલંબાઈ વચ્ચેનો સંબંધ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વ્યાખ્યા:</strong> લેન્સની પ્રકાશના કિરણોને અભિસરણ કે અપસરણ કરવાની ક્ષમતાને લેન્સનો પાવર કહે છે. અથવા લેન્સની કેન્દ્રલંબાઈના વ્યસ્તને લેન્સનો પાવર કહે છે.</p><ul><li><strong>સૂત્ર:</strong> P = 1 / f (f મીટરમાં હોવી જોઈએ)</li><li><strong>SI એકમ:</strong> ડાયોપ્ટર (Dioptre - D)</li><li>1 ડાયોપ્ટર એટલે 1 મીટર કેન્દ્રલંબાઈવાળા લેન્સનો પાવર.</li><li><strong>નોંધ:</strong> બહિર્ગોળ લેન્સનો પાવર ધન (+) અને અંતર્ગોળ લેન્સનો પાવર ઋણ (-) હોય છે.</li><li>જો લેન્સનું સંયોજન હોય તો કુલ પાવર P = P1 + P2 + ... થાય.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાવર અને કેન્દ્રલંબાઈ વચ્ચે 'દુશ્મની' (વ્યસ્ત પ્રમાણ) છે. f ઓછી તો પાવર વધુ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB textbook Section 9.6</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 4,
+      "question": "અંતર્ગોળ અરીસા અને બહિર્ગોળ અરીસાના ઉપયોગોની સવિસ્તાર ચર્ચા કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>અંતર્ગોળ અરીસાના ઉપયોગો:</strong></p><ol><li>ટોર્ચ, સર્ચ લાઈટ અને વાહનોની હેડલાઈટમાં પરાવર્તક તરીકે.</li><li>દાઢી કરવાના અરીસામાં ચહેરાનું મોટું પ્રતિબિંબ જોવા માટે.</li><li>દાંતના ડોક્ટરો દર્દીના દાંતનું મોટું પ્રતિબિંબ જોવા માટે.</li><li>સૌર ભઠ્ઠીમાં સૂર્યપ્રકાશને કેન્દ્રિત કરવા માટે.</li></ol><p><strong>બહિર્ગોળ અરીસાના ઉપયોગો:</strong></p><ol><li>વાહનોમાં 'સાઈડ મિરર' (Rear-view mirror) તરીકે, કારણ કે તે હંમેશા ચત્તું અને નાનું પ્રતિબિંબ આપે છે જેનાથી મોટું ક્ષેત્રફળ જોઈ શકાય.</li><li>મોટા શોપિંગ મોલ કે પાર્કિંગમાં સુરક્ષા માટે.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતર્ગોળ = 'ઝૂમ' (મોટું જોવા), બહિર્ગોળ = 'વાઈડ એંગલ' (વધુ વિસ્તાર જોવા).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 4,
+      "question": "લેન્સનું સૂત્ર અને મોટવણી સમજાવો. તેમજ મોટવણીના મૂલ્યો પરથી પ્રતિબિંબનો પ્રકાર કેવી રીતે નક્કી થાય તે જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>લેન્સનું સૂત્ર:</strong> 1/v - 1/u = 1/f (જ્યાં v = પ્રતિબિંબ અંતર, u = વસ્તુ અંતર, f = કેન્દ્રલંબાઈ)</p><p><strong>મોટવણી (m):</strong> પ્રતિબિંબની ઊંચાઈ (h') અને વસ્તુની ઊંચાઈ (h) ના ગુણોત્તરને મોટવણી કહે છે. m = h' / h = v / u</p><ul><li>જો <strong>m ઋણ (-)</strong> હોય, તો પ્રતિબિંબ વાસ્તવિક અને ઉલટું હોય.</li><li>જો <strong>m ધન (+)</strong> હોય, તો પ્રતિબિંબ આભાસી અને ચત્તું હોય.</li><li>જો <strong>|m| > 1</strong>, પ્રતિબિંબ મોટું; <strong>|m| < 1</strong>, પ્રતિબિંબ નાનું; <strong>|m| = 1</strong>, પ્રતિબિંબ વસ્તુ જેવડું.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અરીસામાં m = -v/u હોય, પણ લેન્સમાં m = +v/u હોય. આ ભૂલ ના કરતા!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concepts</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 4,
+      "question": "પ્રકાશનું વક્રીભવન એટલે શું? તેના નિયમો લખો અને સ્નેલનો નિયમ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વ્યાખ્યા:</strong> જ્યારે પ્રકાશનું ત્રાંસું કિરણ એક પારદર્શક માધ્યમમાંથી બીજા પારદર્શક માધ્યમમાં પ્રવેશે છે, ત્યારે બે માધ્યમોને છૂટી પાડતી સપાટી પાસે તે પોતાની દિશા બદલે છે, આ ઘટનાને વક્રીભવન કહે છે.</p><p><strong>નિયમો:</strong></p><ol><li>આપાત કિરણ, વક્રીભૂત કિરણ અને બે માધ્યમોને છૂટી પાડતી સપાટી પર આપાત બિંદુએ દોરેલો લંબ એક જ સમતલમાં હોય છે.</li><li><strong>સ્નેલનો નિયમ:</strong> આપાતકોણના સાઈન (sin i) અને વક્રીભૂતકોણના સાઈન (sin r) નો ગુણોત્તર અચળ હોય છે. <br><strong>sin i / sin r = અચળાંક (n)</strong></li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્નેલનો નિયમ માત્ર ત્રાંસા કિરણો માટે જ લાગુ પડે છે (0 < i < 90).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 4,
+      "question": "ગોલીય અરીસાના સંદર્ભમાં નીચેના પદો સમજાવો: (1) ધ્રુવ (2) વક્રતા કેન્દ્ર (3) મુખ્ય અક્ષ (4) મુખ્ય કેન્દ્ર.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><ol><li><strong>ધ્રુવ (P):</strong> ગોલીય અરીસાની પરાવર્તક સપાટીના કેન્દ્રને અરીસાનો ધ્રુવ કહે છે.</li><li><strong>વક્રતા કેન્દ્ર (C):</strong> ગોલીય અરીસો જે ગોળાનો ભાગ છે, તે ગોળાના કેન્દ્રને અરીસાનું વક્રતા કેન્દ્ર કહે છે.</li><li><strong>મુખ્ય અક્ષ:</strong> અરીસાના ધ્રુવ P અને વક્રતા કેન્દ્ર C માંથી પસાર થતી કાલ્પનિક રેખાને મુખ્ય અક્ષ કહે છે.</li><li><strong>મુખ્ય કેન્દ્ર (F):</strong> અરીસા પર મુખ્ય અક્ષને સમાંતર આપાત થતા કિરણો પરાવર્તન પામી જે બિંદુએ મળે (અંતર્ગોળ) કે મળતા હોય તેવો ભાસ થાય (બહિર્ગોળ), તેને મુખ્ય કેન્દ્ર કહે છે.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: R = 2f યાદ રાખો. વક્રતા ત્રિજ્યા એ કેન્દ્રલંબાઈ કરતા બમણી હોય છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Fundamental Science</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 4,
+      "question": "એક અંતર્ગોળ અરીસાની કેન્દ્રલંબાઈ 15 cm છે. અરીસાથી 10 cm દૂર વસ્તુ મૂકી હોય, તો પ્રતિબિંબનું સ્થાન, પ્રકાર અને મોટવણી શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ગણતરી:</strong></p><ul><li>આપેલ છે: f = -15 cm (અંતર્ગોળ), u = -10 cm</li><li>અરીસાનું સૂત્ર: 1/v + 1/u = 1/f</li><li>1/v = 1/f - 1/u = 1/(-15) - 1/(-10)</li><li>1/v = -1/15 + 1/10 = (-2 + 3) / 30 = 1 / 30</li><li>તેથી, <strong>v = +30 cm</strong></li><li><strong>સ્થાન:</strong> અરીસાની પાછળ 30 cm અંતરે.</li><li><strong>પ્રકાર:</strong> ધન ચિન્હ હોવાથી આભાસી અને ચત્તું.</li><li><strong>મોટવણી:</strong> m = -v/u = -(30) / (-10) = <strong>+3</strong>. પ્રતિબિંબ 3 ગણું મોટું હશે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે વસ્તુ P અને F ની વચ્ચે હોય ત્યારે જ અંતર્ગોળ અરીસામાં આભાસી પ્રતિબિંબ મળે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Numerical Practice</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 4,
+      "question": "બહિર્ગોળ અરીસા દ્વારા વસ્તુના કોઈપણ અંતરે રચાતા પ્રતિબિંબની કિરણાકૃતિઓ દોરી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p>બહિર્ગોળ અરીસામાં મુખ્યત્વે બે કિસ્સા હોય છે:</p><ol><li><strong>વસ્તુ અનંત અંતરે હોય:</strong> પ્રતિબિંબ મુખ્ય કેન્દ્ર F પર અરીસાની પાછળ મળે છે. તે અત્યંત નાનું (બિંદુવત), આભાસી અને ચત્તું હોય છે.</li><li><strong>વસ્તુ અનંત અંતર અને ધ્રુવ P વચ્ચે ગમે ત્યાં હોય:</strong> પ્રતિબિંબ અરીસાની પાછળ P અને F ની વચ્ચે મળે છે. તે નાનું, આભાસી અને ચત્તું હોય છે.</li></ol><svg width='200' height='100' xmlns='http://www.w3.org/2000/svg'><path d='M 100,10 Q 70,50 100,90' fill='none' stroke='black' stroke-width='3' /><line x1='50' y1='50' x2='150' y2='50' stroke='black' stroke-dasharray='5,5' /></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહિર્ગોળ અરીસો હંમેશા 'નાનું અને ચત્તું' જ પ્રતિબિંબ આપે, ગમે ત્યાં વસ્તુ મૂકો!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT/GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 4,
+      "question": "એક બહિર્ગોળ લેન્સની કેન્દ્રલંબાઈ 20 cm છે. જો વસ્તુને લેન્સથી 30 cm દૂર મૂકવામાં આવે તો પ્રતિબિંબનું સ્થાન અને મોટવણી શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ગણતરી:</strong></p><ul><li>આપેલ છે: f = +20 cm (બહિર્ગોળ), u = -30 cm</li><li>લેન્સનું સૂત્ર: 1/v - 1/u = 1/f</li><li>1/v = 1/f + 1/u = 1/20 + 1/(-30)</li><li>1/v = 1/20 - 1/30 = (3 - 2) / 60 = 1 / 60</li><li>તેથી, <strong>v = +60 cm</strong></li><li><strong>સ્થાન:</strong> લેન્સની બીજી બાજુએ 60 cm અંતરે.</li><li><strong>મોટવણી:</strong> m = v/u = 60 / (-30) = <strong>-2</strong>.</li><li><strong>નિષ્કર્ષ:</strong> પ્રતિબિંબ વાસ્તવિક, ઉલટું અને વસ્તુ કરતા બમણું મોટું મળશે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેન્સમાં v ધન આવે એટલે પ્રતિબિંબ હંમેશા 'વાસ્તવિક' જ હોય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Board Level Numericals</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 4,
+      "question": "અરીસાનું સૂત્ર એટલે શું? અંતર્ગોળ અરીસા માટે મોટવણીનું સૂત્ર મેળવો (ટૂંકમાં) અને h' તથા h નો સંબંધ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>અરીસાનું સૂત્ર:</strong> વસ્તુ અંતર (u), પ્રતિબિંબ અંતર (v) અને કેન્દ્રલંબાઈ (f) વચ્ચેના સંબંધ દર્શાવતા સૂત્રને અરીસાનું સૂત્ર કહે છે: <strong>1/v + 1/u = 1/f</strong></p><p><strong>મોટવણી:</strong> m = h' / h. તે વસ્તુ સાપેક્ષે પ્રતિબિંબ કેટલું મોટું છે તે દર્શાવે છે.</p><ul><li>અરીસા માટે m = -v/u.</li><li>જો m = 1 હોય, તો વસ્તુ અને પ્રતિબિંબ સમાન કદના.</li><li>જો m > 1 હોય, તો પ્રતિબિંબ મોટું.</li><li>જો m < 1 હોય, તો પ્રતિબિંબ નાનું.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અરીસામાં પ્લસ (+) સૂત્રમાં આવે અને માઈનસ (-) મોટવણીમાં આવે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Class 10</p></div>"
+    }
+  ]
+}
