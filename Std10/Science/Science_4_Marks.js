@@ -527,3 +527,70 @@ var Std10_Science_4Marks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "આનુવંશિકતા",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 4,
+      "question": "મેન્ડેલનો એકસંકરણનો પ્રયોગ (Monohybrid Cross) આકૃતિ સહ સમજાવો અને તેના પરિણામોની ચર્ચા કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>મેન્ડેલે વટાણાના છોડ પર ઊંચાઈના લક્ષણને ધ્યાનમાં લઈને પ્રયોગ કર્યો.</p><ul><li><strong>પિતૃ પેઢી (P):</strong> શુદ્ધ ઊંચા (TT) અને શુદ્ધ નીચા (tt) છોડ વચ્ચે સંકરણ કરાવ્યું.</li><li><strong>F1 પેઢી:</strong> પ્રથમ પેઢીમાં બધા જ છોડ ઊંચા (Tt) પ્રાપ્ત થયા. અહીં 'T' પ્રભાવી લક્ષણ છે.</li><li><strong>F2 પેઢી:</strong> F1 પેઢીના છોડનું સ્વ-ફલન કરાવતા બીજી પેઢીમાં ઊંચા અને નીચા છોડનું પ્રમાણ 3:1 મળ્યું.</li></ul><svg width='300' height='200' viewBox='0 0 300 200' style='background:white; border:1px solid #ccc;'><text x='10' y='30' fill='black'>P: TT x tt</text><path d='M50 40 L100 80' stroke='black'/><path d='M150 40 L100 80' stroke='black'/><text x='90' y='100' fill='blue'>F1: Tt (બધા ઊંચા)</text><text x='10' y='140' fill='black'>F2: TT, Tt, Tt, tt</text><text x='10' y='170' fill='red'>લક્ષણ પ્રકાર પ્રમાણ: 3:1</text></svg><p><strong>તારણ:</strong> F2 પેઢીમાં જનીન પ્રકાર 1:2:1 (TT:Tt:tt) અને સ્વરૂપ પ્રકાર 3:1 (ઊંચા:નીચા) મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T = Tall (ડોન/પ્રભાવી), t = tiny (બિચારો/પ્રચ્છન્ન). F2 માં 3 ડોન અને 1 બિચારો!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board March 2020, 2023 IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 4,
+      "question": "વટાણામાં બે વિરોધાભાસી લક્ષણો (રંગ અને આકાર) ના વારસાની સમજૂતી મેન્ડેલના દ્વિ-સંકરણ (Dihybrid Cross) પ્રયોગ દ્વારા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>મેન્ડેલે ગોળ-પીળા (RRYY) અને ખરબચડા-લીલા (rryy) બીજ ધરાવતા વટાણાના છોડ વચ્ચે સંકરણ કરાવ્યું.</p><ul><li><strong>F1 પેઢી:</strong> બધા જ છોડ ગોળ અને પીળા બીજ (RrYy) ધરાવતા હતા.</li><li><strong>F2 પેઢી:</strong> F1 ના છોડનું સ્વ-ફલન કરાવતા ચાર પ્રકારના સંયોજનો મળ્યા:</li><ol><li>ગોળ-પીળા: 9</li><li>ગોળ-લીલા: 3</li><li>ખરબચડા-પીળા: 3</li><li>ખરબચડા-લીલા: 1</li></ol></ul><p><strong>મુખ્ય મુદ્દો:</strong> આ પ્રયોગ સાબિત કરે છે કે બીજનો આકાર અને રંગ એકબીજાથી સ્વતંત્ર રીતે વારસામાં ઉતરે છે (મુક્ત વહેંચણીનો નિયમ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 9331 નો જાદુઈ આંકડો યાદ રાખો! (ગોપી, ગોલી, ખપી, ખલી)</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Most IMP for 2025</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 4,
+      "question": "મનુષ્યમાં લિંગ નિશ્ચયન (Sex Determination) ની ઘટના આકૃતિ દોરી સવિસ્તાર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>મનુષ્યમાં લિંગ નિશ્ચયન જનીનો દ્વારા થાય છે. મનુષ્યમાં 23 જોડ રંગસૂત્રો હોય છે, જેમાં 22 જોડ દૈહિક અને 1 જોડ લિંગી રંગસૂત્રો હોય છે.</p><ul><li>સ્ત્રીમાં લિંગી રંગસૂત્રોની જોડ <strong>XX</strong> હોય છે.</li><li>પુરૂષમાં લિંગી રંગસૂત્રોની જોડ <strong>XY</strong> હોય છે.</li></ul><svg width='320' height='180' viewBox='0 0 320 180' style='background:white; border:1px solid #ccc;'><text x='20' y='30'>માતા (XX)</text><text x='200' y='30'>પિતા (XY)</text><line x1='50' y1='40' x2='100' y2='100' stroke='blue'/><line x1='220' y1='40' x2='120' y2='100' stroke='red'/><text x='70' y='120'>સંતાન: XX (છોકરી) અથવા XY (છોકરો)</text><text x='110' y='150' fill='darkgreen'>શક્યતા: 50% - 50%</text></svg><p>જ્યારે પિતાનું <strong>X</strong> રંગસૂત્ર માતાના <strong>X</strong> સાથે જોડાય ત્યારે છોકરી જન્મે છે, અને પિતાનું <strong>Y</strong> રંગસૂત્ર માતાના <strong>X</strong> સાથે જોડાય ત્યારે છોકરો જન્મે છે. આમ, બાળકનું લિંગ પિતાના રંગસૂત્ર પર આધારિત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Y' રંગસૂત્ર એટલે 'Boy'. જો Y આવે તો જ છોકરો!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Board Repeat Question (July 2022, March 2024)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 4,
+      "question": "લક્ષણો કેવી રીતે અભિવ્યક્ત થાય છે? જનીન અને પ્રોટીનનો સંબંધ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સજીવોમાં લક્ષણોનું નિયંત્રણ DNA દ્વારા થાય છે. તેની કાર્યપદ્ધતિ નીચે મુજબ છે:</p><ul><li><strong>DNA નો ખંડ (જનીન):</strong> DNA નો એક વિશિષ્ટ ખંડ જે પ્રોટીન સંશ્લેષણ માટેની માહિતી ધરાવે છે તેને જનીન કહે છે.</li><li><strong>પ્રોટીનનું નિર્માણ:</strong> જનીન જે તે ચોક્કસ પ્રોટીન બનાવવા માટેની સૂચના આપે છે.</li><li><strong>ઉત્સેચક તરીકે કાર્ય:</strong> આ પ્રોટીન ઘણીવાર ઉત્સેચક તરીકે કાર્ય કરે છે.</li><li><strong>હોર્મોન અને લક્ષણ:</strong> દા.ત. વટાણામાં ઊંચાઈ માટેનો ઉત્સેચક જો કાર્યક્ષમ હોય, તો તે વૃદ્ધિ અંતઃસ્ત્રાવ (Hormone) વધુ બનાવશે અને છોડ ઊંચો થશે.</li></ul><p>જો જનીનમાં ફેરફાર થાય, તો પ્રોટીન ઓછું કાર્યક્ષમ બને અને લક્ષણ બદલાઈ જાય (છોડ નીચો રહે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: DNA → જનીન → પ્રોટીન → ઉત્સેચક → લક્ષણ (Chain Reaction!)</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept-Based IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 4,
+      "question": "મેન્ડેલે પોતાના પ્રયોગ માટે વટાણાના છોડની પસંદગી શા માટે કરી? તેના દ્વારા અભ્યાસ કરેલા કોઈપણ ચાર લક્ષણો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>મેન્ડેલે 'પાઈસમ સટાઈવમ' (વટાણા) પસંદ કરવાના મુખ્ય કારણો:</p><ol><li>વટાણાનો છોડ એકવર્ષાયુ છે, તેથી ટૂંકા સમયમાં અનેક પેઢીઓનો અભ્યાસ કરી શકાય છે.</li><li>તેમાં સ્પષ્ટ જોઈ શકાય તેવા વિરોધાભાસી લક્ષણો જોવા મળે છે.</li><li>કુદરતી રીતે તેમાં સ્વ-ફલન થાય છે, પણ કૃત્રિમ રીતે પર-ફલન કરાવી શકાય છે.</li><li>એક જ છોડમાં મોટી સંખ્યામાં બીજ ઉત્પન્ન થાય છે.</li></ol><p><strong>મેન્ડેલે પસંદ કરેલા લક્ષણો:</strong></p><ul><li>બીજનો આકાર (ગોળ/ખરબચડા)</li><li>બીજનો રંગ (પીળા/લીલા)</li><li>પુષ્પનો રંગ (જાંબલી/સફેદ)</li><li>છોડની ઊંચાઈ (ઊંચા/નીચા)</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વટાણા એટલે 'Easy to Grow, Fast to Result'!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept Series</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 4,
+      "question": "પ્રભાવી અને પ્રચ્છન્ન લક્ષણો એટલે શું? ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>પ્રભાવી લક્ષણ (Dominant Trait):</strong> જે લક્ષણ વિષમયુગ્મી અવસ્થામાં (દા.ત. Tt) પોતાની અસર દર્શાવે છે, તેને પ્રભાવી લક્ષણ કહે છે. મેન્ડેલના પ્રયોગમાં 'ઊંચાઈ' (T) એ પ્રભાવી લક્ષણ હતું કારણ કે F1 પેઢીમાં બધા છોડ ઊંચા હતા.</li><li><strong>પ્રચ્છન્ન લક્ષણ (Recessive Trait):</strong> જે લક્ષણ માત્ર સમયુગ્મી અવસ્થામાં (દા.ત. tt) જ પોતાની અસર દર્શાવે છે અને વિષમયુગ્મી અવસ્થામાં છુપાયેલું રહે છે, તેને પ્રચ્છન્ન લક્ષણ કહે છે. 'નીચાપણું' (t) એ પ્રચ્છન્ન લક્ષણ છે.</li></ul><p><strong>ઉદાહરણ:</strong> જ્યારે TT (ઊંચા) અને tt (નીચા) વચ્ચે સંકરણ થાય ત્યારે F1 માં Tt મળે છે. અહીં 'T' હોવાથી છોડ ઊંચો બને છે, 't' હોવા છતાં તેની અસર દેખાતી નથી. આ સાબિત કરે છે કે ઊંચાઈ પ્રભાવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રભાવી = જેનો પાવર ચાલે, પ્રચ્છન્ન = જે ચૂપચાપ સંતાઈ જાય!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Page 145</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 4,
+      "question": "લિંગી પ્રજનન દરમિયાન સંતતિમાં રંગસૂત્રોની સંખ્યા કેવી રીતે જળવાઈ રહે છે? સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સામાન્ય દૈહિક કોષોમાં રંગસૂત્રો બેકી સંખ્યામાં (જોડમાં) હોય છે. પરંતુ:</p><ol><li><strong>અર્ધસૂત્રીભાજન (Meiosis):</strong> પ્રજનન કોષો (જનન કોષો) બનતી વખતે એક ખાસ પ્રકારનું વિભાજન થાય છે, જેનાથી રંગસૂત્રોની સંખ્યા અડધી થઈ જાય છે.</li><li><strong>જનન કોષો:</strong> શુક્રકોષ અને અંડકોષમાં રંગસૂત્રોનો માત્ર એક જ સેટ (n) હોય છે.</li><li><strong>ફલન:</strong> જ્યારે નર જનન કોષ (n) અને માદા જનન કોષ (n) જોડાય છે ત્યારે ફલિતાંડ (Zygote) બને છે, જેમાં રંગસૂત્રોની સંખ્યા ફરીથી પૂર્ણ (2n) થઈ જાય છે.</li></ol><p>આ રીતે, પેઢી દર પેઢી રંગસૂત્રોની સંખ્યા અને DNA ની માત્રા અચળ જળવાઈ રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધું (પિતા) + અડધું (માતા) = આખું (બાળક)!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> New NCERT Syllabus 2024-25</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 4,
+      "question": "ભિન્નતા એટલે શું? ભિન્નતા ઉત્પન્ન થવાના કારણો અને તેનું મહત્વ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>વ્યાખ્યા:</strong> એક જ જાતિના સજીવોમાં જોવા મળતા અસમાન લક્ષણોને ભિન્નતા કહે છે.</p><p><strong>કારણો:</strong></p><ul><li>DNA પ્રતિકૃતિ બનતી વખતે થતી ચોકસાઈમાં ખામી (Errors in DNA copying).</li><li>લિંગી પ્રજનન દરમિયાન નર અને માદા જનન કોષોનું સંયોજન.</li></ul><p><strong>મહત્વ:</strong></p><ol><li>ભિન્નતા સજીવોને બદલાતા પર્યાવરણમાં ટકી રહેવા માટે મદદરૂપ થાય છે.</li><li>તે ઉત્ક્રાંતિનો આધાર છે.</li><li>દા.ત. બેક્ટેરિયાની વસ્તીમાં જો ગરમી સહન કરવાની ભિન્નતા હોય, તો અચાનક તાપમાન વધવા છતાં પણ કેટલીક સંખ્યા જીવિત રહી શકે છે.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભિન્નતા = Survival Ticket! જો બધા સરખા હોત તો પર્યાવરણના ફેરફારમાં બધા મરી જાત.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Most IMP for conceptual understanding</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 4,
+      "question": "જનીન પ્રકાર (Genotype) અને સ્વરૂપ પ્રકાર (Phenotype) વચ્ચેનો તફાવત મેન્ડેલના પ્રયોગના આધારે સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><table border='1' style='width:100%; border-collapse:collapse; background-color:white;'><tr style='background-color:#16a085; color:white;'><th>મુદ્દો</th><th>સ્વરૂપ પ્રકાર (Phenotype)</th><th>જનીન પ્રકાર (Genotype)</th></tr><tr><td>વ્યાખ્યા</td><td>સજીવના બાહ્ય દેખાવ કે લક્ષણોને સ્વરૂપ પ્રકાર કહે છે.</td><td>સજીવના જનીની બંધારણને જનીન પ્રકાર કહે છે.</td></tr><tr><td>મેન્ડેલનું ઉદાહરણ</td><td>F2 પેઢીમાં 3 ઊંચા અને 1 નીચો છોડ દેખાય છે.</td><td>F2 પેઢીમાં TT, Tt અને tt એમ ત્રણ પ્રકારનું બંધારણ હોય છે.</td></tr><tr><td>પ્રમાણ</td><td>3 : 1 (ઊંચા : નીચા)</td><td>1 : 2 : 1 (TT : Tt : tt)</td></tr><tr><td>નિરીક્ષણ</td><td>તે નરી આંખે જોઈ શકાય છે.</td><td>તે લેબોરેટરી કે ટેસ્ટ ક્રોસ દ્વારા જાણી શકાય છે.</td></tr></table><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Phenotype = Physical (દેખાવ), Genotype = Genetics (અંદરનું માળખું).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Board Special</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 4,
+      "question": "લક્ષણોનું સ્વતંત્ર વિશ્લેષણ (Independent Assortment) એટલે શું? દ્વિ-સંકરણના પ્રયોગના તારણો લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જ્યારે બે કે તેથી વધુ લક્ષણોની જોડ વારસામાં ઉતરે છે, ત્યારે એક લક્ષણની જોડ બીજા લક્ષણની જોડથી મુક્ત રીતે વિશ્લેષણ પામે છે.</p><p><strong>દ્વિ-સંકરણના તારણો:</strong></p><ul><li>F1 પેઢીમાં માત્ર પ્રભાવી લક્ષણો (ગોળ અને પીળા) જ દેખાયા.</li><li>F2 પેઢીમાં પિતૃ જેવા સંયોજનો ઉપરાંત <strong>નવા સંયોજનો</strong> પણ મળ્યા (દા.ત. ગોળ-લીલા અને ખરબચડા-પીળા).</li><li>આ નવા સંયોજનો દર્શાવે છે કે 'બીજનો આકાર' અને 'બીજનો રંગ' એકબીજા સાથે જોડાયેલા નથી, પણ સ્વતંત્ર છે.</li><li>આના કારણે જ કુદરતમાં નવી વિવિધતા જોવા મળે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વતંત્ર એટલે 'No strings attached'. રંગને આકાર સાથે કોઈ લેવાદેવા નથી!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Higher Order Thinking (HOTS) Question</p></div>"
+    }
+  ]
+}
