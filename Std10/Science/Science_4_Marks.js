@@ -448,3 +448,82 @@ var Std10_Science_4Marks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "સજીવો કેવી રીતે પ્રજનન કરે છે?",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 4,
+      "question": "માનવનું માદા પ્રજનનતંત્ર આકૃતિ દોરી સવિસ્તાર સમજાવો. (March 2020, 2023, Aug 2024)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>માનવ માદા પ્રજનનતંત્ર નીચે મુજબના અંગો ધરાવે છે:</p><ul><li><strong>૧. અંડપિંડ (Ovary):</strong> ઉદર ગુહામાં એક જોડ અંડપિંડ આવેલા હોય છે. તે માદા જનનકોષો (અંડકોષો) ઉત્પન્ન કરે છે અને ઇસ્ટ્રોજન તેમજ પ્રોજેસ્ટેરોન અંતઃસ્ત્રાવોનો સ્ત્રાવ કરે છે.</li><li><strong>૨. અંડવાહિની (Fallopian Tube):</strong> અંડપિંડ સાથે જોડાયેલી નથી પરંતુ ગળણી આકારના છેડાથી શરૂ થાય છે. તે અંડકોષને ગર્ભાશય સુધી લઈ જાય છે. ફલનની પ્રક્રિયા અહીં થાય છે.</li><li><strong>૩. ગર્ભાશય (Uterus):</strong> બંને અંડવાહિનીઓ જોડાઈને એક સ્નાયુમય કોથળી જેવી રચના બનાવે છે જેને ગર્ભાશય કહે છે. ગર્ભનું સ્થાપન અને વિકાસ અહીં થાય છે.</li><li><strong>૪. ગ્રીવા અને યોનિમાર્ગ:</strong> ગર્ભાશયના સાંકડા છેડાને ગ્રીવા કહે છે જે યોનિમાર્ગમાં ખૂલે છે. યોનિમાર્ગ દ્વારા શુક્રકોષો પ્રવેશ મેળવે છે.</li></ul><svg width='200' height='150' viewBox='0 0 200 150' xmlns='http://www.w3.org/2000/svg'><path d='M100,40 Q100,120 100,120 M100,50 L40,30 M100,50 L160,30 M40,30 Q30,40 40,50 M160,30 Q170,40 160,50' stroke='black' fill='none' stroke-width='2'/><circle cx='35' cy='55' r='10' fill='#ff9999'/><circle cx='165' cy='55' r='10' fill='#ff9999'/><path d='M80,60 Q100,40 120,60 L110,100 L90,100 Z' fill='#ffcccc' stroke='black'/></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અં-અં-ગ-યો' (અંડપિંડ, અંડવાહિની, ગર્ભાશય, યોનિમાર્ગ) - આ ક્રમ યાદ રાખવો!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 4,
+      "question": "માનવનું નર પ્રજનનતંત્ર આકૃતિ સહ સમજાવો. (July 2022, March 2024)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>નર પ્રજનનતંત્ર મુખ્યત્વે બે ભાગમાં વહેંચાયેલું છે:</p><ul><li><strong>૧. શુક્રપિંડ (Testes):</strong> તે ઉદરગુહાની બહાર વૃષણકોથળીમાં આવેલા છે. કારણ કે શુક્રકોષોના ઉત્પાદન માટે શરીરના તાપમાન કરતાં ૨-૩ ડિગ્રી નીચું તાપમાન જરૂરી છે. તે ટેસ્ટોસ્ટેરોન અંતઃસ્ત્રાવ ઉત્પન્ન કરે છે.</li><li><strong>૨. શુક્રવાહિની:</strong> શુક્રપિંડમાં બનેલા શુક્રકોષો આ નલિકા દ્વારા વહન પામે છે.</li><li><strong>૩. સહાયક ગ્રંથિઓ:</strong> શુક્રાશય અને પ્રોસ્ટેટ ગ્રંથિ તેમના સ્ત્રાવ શુક્રવાહિનીમાં ઠાલવે છે, જેથી શુક્રકોષોનું વહન સરળ બને અને પોષણ મળે.</li><li><strong>૪. મૂત્રજનન માર્ગ:</strong> તે શુક્રકોષો અને મૂત્ર બંનેના ત્યાગ માટેનો સામાન્ય માર્ગ છે.</li></ul><svg width='150' height='120' viewBox='0 0 150 120' xmlns='http://www.w3.org/2000/svg'><ellipse cx='75' cy='90' rx='20' ry='25' fill='#e0e0e0' stroke='black'/><path d='M75,65 L75,20 M60,40 L90,40' stroke='black' fill='none' stroke-width='2'/><circle cx='65' cy='95' r='8' fill='#9999ff'/><circle cx='85' cy='95' r='8' fill='#9999ff'/></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૃષણકોથળી = એર કન્ડીશનર (AC) - જે શુક્રપિંડને ઠંડુ રાખે છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 4,
+      "question": "પુષ્પના લંબછેદની આકૃતિ દોરી તેના પ્રજનન અંગોનું વર્ણન કરો. (March 2019, 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સપુષ્પી વનસ્પતિમાં પુષ્પ એ પ્રજનન અંગ છે. તેના મુખ્ય ચાર ભાગો છે:</p><ul><li><strong>૧. વજ્રપત્ર:</strong> તે પુષ્પના સૌથી બહારના લીલા પાંદડા જેવી રચના છે, જે કળી અવસ્થામાં રક્ષણ કરે છે.</li><li><strong>૨. દલપત્ર:</strong> તે રંગીન પાંખડીઓ છે જે કીટકોને પરાગનયન માટે આકર્ષે છે.</li><li><strong>૩. પુંકેસર (નર પ્રજનન અંગ):</strong> તે પરાગાશય અને તંતુનું બનેલું હોય છે. પરાગાશયમાં પરાગરજ ઉત્પન્ન થાય છે.</li><li><strong>૪. સ્ત્રીકેસર (માદા પ્રજનન અંગ):</strong> તે પુષ્પના મધ્યમાં આવેલું છે. તે ત્રણ ભાગો ધરાવે છે: પરાગાસન (ચીકણો ઉપરનો ભાગ), પરાગવાહિની (નળી) અને બીજાશય (તળિયે ફૂલેલો ભાગ જેમાં અંડક હોય છે).</li></ul><svg width='100' height='100' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'><path d='M50,80 Q30,60 30,40 A20,20 0 1,1 70,40 Q70,60 50,80' fill='#ff69b4' stroke='black'/><rect x='48' y='40' width='4' height='40' fill='green'/><circle cx='50' cy='35' r='5' fill='yellow'/></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુંકેસર = 'પુ' (પુરુષ/નર), સ્ત્રીકેસર = 'સ્ત્રી' (માદા).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 4,
+      "question": "ગર્ભનિરોધકની વિવિધ પદ્ધતિઓ સમજાવો. (March 2020, Sept 2021)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કુટુંબ નિયોજન અને ગર્ભધારણ રોકવા માટે નીચેની પદ્ધતિઓ વપરાય છે:</p><ul><li><strong>૧. યાંત્રિક અવરોધ:</strong> નિરોધ (Condom) કે યોનિગત સાધનો દ્વારા શુક્રકોષોને અંડકોષ સુધી પહોંચતા રોકવામાં આવે છે.</li><li><strong>૨. રાસાયણિક પદ્ધતિ:</strong> સ્ત્રીઓ દ્વારા ગર્ભનિરોધક ગોળીઓ લેવામાં આવે છે જે શરીરના હોર્મોન્સનું સંતુલન બદલે છે અને અંડપાત થવા દેતી નથી.</li><li><strong>૩. આંતર ગર્ભાશય સાધન (IUCD):</strong> કોપર-ટી (Copper-T) જેવા સાધનો ગર્ભાશયમાં મૂકવામાં આવે છે જે ગર્ભધારણ અટકાવે છે.</li><li><strong>૪. શસ્ત્રક્રિયા (Surgical Method):</strong> પુરુષમાં શુક્રવાહિની કાપીને બાંધી દેવામાં આવે છે (નસબંધી - Vasectomy) અને સ્ત્રીમાં અંડવાહિની બાંધી દેવામાં આવે છે (Tubectomy).</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો - 'યા-રા-આ-શ' (યાંત્રિક, રાસાયણિક, આંતર-ગર્ભાશય, શસ્ત્રક્રિયા).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 4,
+      "question": "પરાગનયન એટલે શું? તેના પ્રકારો અને પરાગરજના અંકુરણની પ્રક્રિયા સમજાવો. (Most IMP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પરાગાશયમાંથી પરાગરજની સ્ત્રીકેસરના પરાગાસન સુધી સ્થળાંતરિત થવાની ક્રિયાને <strong>પરાગનયન</strong> કહે છે.</p><ul><li><strong>પ્રકારો:</strong> ૧. સ્વ-પરાગનયન (એક જ પુષ્પમાં), ૨. પર-પરાગનયન (એક છોડના પુષ્પથી બીજા છોડના પુષ્પ સુધી).</li><li><strong>અંકુરણની પ્રક્રિયા:</strong> પરાગરજ પરાગાસન પર સ્થાપિત થયા પછી તેમાંથી એક <strong>પરાગનલિકા</strong> નીકળે છે. આ નલિકા પરાગવાહિનીમાં થઈને બીજાશયમાં રહેલા અંડક સુધી પહોંચે છે.</li><li>પરાગનલિકા દ્વારા નર જનનકોષ અંડક સુધી પહોંચી અંડકોષ સાથે ફલન કરે છે.</li><li>ફલન બાદ અંડકમાંથી બીજ અને બીજાશયમાંથી ફળ બને છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરાગનયન એટલે પરાગરજનું 'ટ્રાન્સપોર્ટેશન'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT New Syllabus / NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 4,
+      "question": "જ્યારે અંડકોષનું ફલન થતું નથી, ત્યારે શું થાય છે? (ઋતુસ્ત્રાવ/માસિક ચક્ર સમજાવો).",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જો અંડકોષનું ફલન શુક્રકોષ દ્વારા ન થાય, તો નીચેની ઘટનાઓ બને છે:</p><ul><li>અંડકોષ લગભગ એક દિવસ સુધી જીવિત રહે છે.</li><li>ગર્ભાશય ગર્ભના સ્થાપન માટે દર મહિને તૈયારી કરે છે, તેની દીવાલ જાડી અને રુધિરયુક્ત (ગાદી જેવી) બને છે.</li><li>જો ફલન ન થાય, તો આ સ્તરની કોઈ જરૂર રહેતી નથી. તેથી, ગર્ભાશયનું આ અંતઃસ્તર ધીમે ધીમે તૂટે છે અને રુધિર તેમજ શ્લેષ્મ સ્વરૂપે યોનિમાર્ગમાંથી બહાર નીકળે છે.</li><li>આ પ્રક્રિયાને <strong>ઋતુસ્ત્રાવ</strong> કે <strong>માસિક ચક્ર</strong> કહે છે, જે દર ૨૮-૩૦ દિવસે થાય છે અને ૨ થી ૮ દિવસ સુધી ચાલે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ફલન નથી = દીવાલની જરૂર નથી' - આ લોજિક યાદ રાખો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Core / NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 4,
+      "question": "માતાના શરીરમાં ગર્ભસ્થ ભ્રૂણને પોષણ કેવી રીતે પ્રાપ્ત થાય છે? જરાયુ (Placenta) ની રચના સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ગર્ભને માતાના રુધિરમાંથી પોષણ એક ખાસ સંરચના દ્વારા મળે છે, જેને <strong>જરાયુ (Placenta)</strong> કહે છે.</p><ul><li><strong>રચના:</strong> તે ગર્ભાશયની દીવાલમાં જોડાયેલી એક રકાબી જેવી રચના છે. તેમાં ભ્રૂણની તરફની બાજુએ 'પ્રવર્ધો' (Villi) હોય છે.</li><li>માતાના પક્ષે રુધિર કોટરો હોય છે, જે પ્રવર્ધોને ઘેરે છે.</li><li><strong>કાર્ય:</strong> ૧. તે માતાના રુધિરમાંથી ગ્લુકોઝ, ઓક્સિજન અને અન્ય પોષક દ્રવ્યો ગર્ભને આપે છે. ૨. ગર્ભ દ્વારા ઉત્પન્ન થતા ઉત્સર્ગ દ્રવ્યો (નકામા પદાર્થો) ને માતાના રુધિરમાં ઠાલવે છે.</li><li>ગર્ભના વિકાસ માટે આ અંગ અત્યંત આવશ્યક છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જરાયુ = 'લાઇફ લાઇન' નળી જે ખોરાક આપે અને કચરો બહાર કાઢે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Standard 10 Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 4,
+      "question": "વાનસ્પતિક પ્રજનન એટલે શું? તેના ફાયદાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જ્યારે વનસ્પતિના મૂળ, પ્રકાંડ કે પર્ણ જેવા અંગોમાંથી નવો છોડ વિકસે, ત્યારે તેને <strong>વાનસ્પતિક પ્રજનન</strong> કહે છે.</p><ul><li><strong>ફાયદાઓ:</strong></li><li>૧. જે વનસ્પતિઓ બીજ ઉત્પન્ન કરવાની ક્ષમતા ગુમાવી ચૂકી છે (જેમ કે કેળા, ગુલાબ, મોગરો), તેમનું પ્રજનન આ પદ્ધતિથી શક્ય છે.</li><li>૨. આ રીતે ઉત્પન્ન થયેલા છોડ આનુવંશિક રીતે પિતૃ છોડ જેવા જ સમાન હોય છે.</li><li>૩. બીજ દ્વારા ઉગાડવામાં આવતા છોડ કરતા વાનસ્પતિક પ્રજનનથી ઉગાડેલા છોડમાં ફૂલ અને ફળ વહેલા આવે છે.</li><li>૪. કલમ, દાબકલમ જેવી પદ્ધતિઓ ખેતીવાડીમાં ખૂબ જ ઉપયોગી છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઝડપી ફળ અને સમાન ગુણ' - વાનસ્પતિક પ્રજનનનો મંત્ર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Notes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 4,
+      "question": "પ્રજનન ક્રિયામાં DNA પ્રતિકૃતિનું શું મહત્વ છે? ભિન્નતા કેવી રીતે ઉપયોગી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>DNA પ્રતિકૃતિનું મહત્વ:</strong> પ્રજનન દરમિયાન પિતૃના લક્ષણો સંતતિમાં ઉતરી આવવા માટે DNA પ્રતિકૃતિ અનિવાર્ય છે. તે કોષના વિભાજન પૂર્વે બે પ્રતિકૃતિ બનાવે છે જેથી નવી સંતતિને બ્લુપ્રિન્ટ મળી શકે.</li><li><strong>ભિન્નતાનું મહત્વ:</strong> DNA પ્રતિકૃતિ બનાવતી વખતે કેટલીક રાસાયણિક ફેરફારને કારણે સહેજ ભિન્નતા સર્જાય છે.</li><li>ભિન્નતા સજીવોને બદલાતા પર્યાવરણ (જેમ કે તાપમાનમાં વધારો કે દુષ્કાળ) માં જીવંત રહેવા માટે મદદરૂપ થાય છે.</li><li>જો વસ્તીના બધા સજીવો એકસરખા હોય અને પર્યાવરણમાં મોટો ફેરફાર આવે, તો આખી વસ્તી નાશ પામી શકે છે, પરંતુ ભિન્નતા ધરાવતા કેટલાક સજીવો બચી જાય છે, આમ જાતિનું અસ્તિત્વ ટકી રહે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભિન્નતા = સર્વાઇવલ ગેરંટી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Science Concepts</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 4,
+      "question": "જાતીય રીતે સંક્રમિત રોગો (STDs) એટલે શું? તેનાથી બચવાના ઉપાયો લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જાતીય સમાગમ દ્વારા ફેલાતા રોગોને <strong>જાતીય રીતે સંક્રમિત રોગો (STDs)</strong> કહે છે.</p><ul><li><strong>બેક્ટેરિયાજન્ય રોગો:</strong> ગોનોરિયા અને સિફિલિસ.</li><li><strong>વાયરસજન્ય રોગો:</strong> મસા (Warts) અને HIV-AIDS.</li><li><strong>બચવાના ઉપાયો:</strong></li><li>૧. અજાણી વ્યક્તિ સાથેના જાતીય સંબંધો ટાળવા જોઈએ.</li><li>૨. સંભોગ દરમિયાન નિરોધ (Condom) નો ઉપયોગ કરવો જોઈએ, જે રોગોના સંક્રમણને અટકાવવામાં મદદરૂપ છે.</li><li>૩. વ્યક્તિગત સ્વચ્છતા જાળવવી અને જાગૃતિ કેળવવી.</li><li>૪. લક્ષણો જણાય તો તુરંત ડોક્ટરની સલાહ લેવી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિરોધ' એ માત્ર ગર્ભનિરોધક નથી, પણ રોગો સામેની 'ઢાલ' પણ છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Reproductive Health / GSEB</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 4,
+      "question": "અમીબામાં દ્વિભાજન અને પેરામિશિયમમાં દ્વિભાજન આકૃતિ સહ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>એકકોષી સજીવોમાં કોષ વિભાજન દ્વારા પ્રજનન થાય છે:</p><ul><li><strong>અમીબામાં દ્વિભાજન:</strong> અમીબામાં કોષ વિભાજન કોઈપણ સમતલમાં થઈ શકે છે. પ્રથમ કોષકેન્દ્ર લંબાય છે અને બે ભાગમાં વહેંચાય છે, ત્યારબાદ કોષરસનું વિભાજન થાય છે અને બે નવી બાળ અમીબા બને છે.</li><li><strong>લેશમાનિયા (અથવા પેરામિશિયમ):</strong> આ સજીવોમાં ચાબુક જેવી વિશિષ્ટ સંરચના હોવાથી, તેમાં દ્વિભાજન ચોક્કસ આયામમાં (નિશ્ચિત સમતલમાં) થાય છે.</li><li>આ પદ્ધતિને અલિંગી પ્રજનન કહે છે કારણ કે તેમાં એક જ પિતૃ સંકળાયેલ હોય છે.</li></ul><svg width='180' height='80' viewBox='0 0 180 80' xmlns='http://www.w3.org/2000/svg'><circle cx='30' cy='40' r='15' fill='#d1f2eb' stroke='black'/><circle cx='30' cy='40' r='4' fill='black'/><ellipse cx='90' cy='40' rx='25' ry='15' fill='#d1f2eb' stroke='black'/><circle cx='80' cy='40' r='3' fill='black'/><circle cx='100' cy='40' r='3' fill='black'/><circle cx='150' cy='25' r='12' fill='#d1f2eb' stroke='black'/><circle cx='150' cy='55' r='12' fill='#d1f2eb' stroke='black'/></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧ અમીબા = ૨ બાળ અમીબા. ગણિત જેવું સરળ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Chapter 7</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 4,
+      "question": "પુખ્તાવસ્થાએ (તરુણાવસ્થામાં) છોકરાઓ અને છોકરીઓમાં જોવા મળતા સામાન્ય ફેરફારોની ચર્ચા કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કિશોરાવસ્થામાં શારીરિક અને માનસિક ફેરફારો જોવા મળે છે:</p><ul><li><strong>સામાન્ય ફેરફારો (બંનેમાં):</strong> બગલ અને જાંઘના મધ્ય ભાગમાં વાળ ઉગવા, ત્વચા તૈલી બનવી (ખીલ થવા), ઊંચાઈમાં વધારો થવો.</li><li><strong>છોકરાઓમાં ફેરફારો:</strong> ચહેરા પર દાઢી-મૂછ ઉગવી, અવાજ ઘેરો અને કર્કશ બનવો, શિશ્ન ક્યારેક મોટું અને ટટ્ટાર થવું.</li><li><strong>છોકરીઓમાં ફેરફારો:</strong> સ્તનનો આકાર વધવો અને સ્તનની ત્વચાનો રંગ ઘેરો બનવો, રજોદર્શન (ઋતુસ્ત્રાવ) શરૂ થવો.</li><li>આ ફેરફારો પ્રજનન અંગોના પરિપક્વનની પ્રક્રિયા દર્શાવે છે અને અંતઃસ્ત્રાવોને કારણે થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ અવસ્થાને 'પ્યુબર્ટી' (Puberty) કહેવાય છે - કુદરતી પરિવર્તનનો સમય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Expert Teacher Notes</p></div>"
+    }
+  ]
+}
