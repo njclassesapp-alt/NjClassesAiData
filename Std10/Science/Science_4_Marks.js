@@ -369,3 +369,82 @@ var Std10_Science_4Marks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "નિયંત્રણ અને સંકલન",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 4,
+      "question": "ચેતાકોષની સંરચના સમજાવી, તેના કાર્યો વિશે સવિસ્તર માહિતી આપો. (Board March 2020, 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ચેતાકોષ (Neuron) એ ચેતાતંત્રનો રચનાત્મક અને કાર્યાત્મક એકમ છે.</p><svg width='200' height='120' viewBox='0 0 200 120' xmlns='http://www.w3.org/2000/svg'><circle cx='50' cy='60' r='20' fill='#ffecb3' stroke='#ffa000' stroke-width='2'/><line x1='70' y1='60' x2='150' y2='60' stroke='#ffa000' stroke-width='4'/><path d='M35,45 L20,30 M35,75 L20,90 M65,45 L80,30 M65,75 L80,90' stroke='#795548' stroke-width='2'/><circle cx='50' cy='60' r='5' fill='#3e2723'/><text x='10' y='20' font-size='10'>શિખાતંતુ</text><text x='155' y='65' font-size='10'>ચેતાંત</text><text x='100' y='55' font-size='10'>અક્ષતંતુ</text></svg><ul><li><strong>મુખ્ય ભાગો:</strong></li><li><strong>૧. કોષકાય:</strong> તેમાં કોષકેન્દ્ર અને કોષરસ હોય છે.</li><li><strong>૨. શિખાતંતુ:</strong> કોષકાયમાંથી નીકળતી નાની શાખાઓ, જે ઉર્મિવેગ ગ્રહણ કરે છે.</li><li><strong>૩. અક્ષતંતુ:</strong> કોષકાયમાંથી નીકળતો લાંબો પ્રવર્ધ, જે ઉર્મિવેગનું વહન કરે છે.</li><li><strong>કાર્યપદ્ધતિ:</strong></li><li>બાહ્ય ગ્રાહીઓ દ્વારા માહિતી શિખાતંતુના ટોચના છેડે મેળવાય છે અને રાસાયણિક પ્રક્રિયા દ્વારા વિદ્યુત આવેગ (ઉર્મિવેગ) ઉત્પન્ન થાય છે.</li><li>આ આવેગ શિખાતંતુથી કોષકાય અને પછી અક્ષતંતુ દ્વારા ચેતાંત સુધી પહોંચે છે.</li><li>અંતે, ચેતાંત પાસે મુક્ત થતા રસાયણો 'ચેતોપાગમ' ઓળંગી બીજા ચેતાકોષમાં દાખલ થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિખાતંતુ (ગ્રાહક) -> કોષકાય (પ્રોસેસર) -> અક્ષતંતુ (વાયર) -> ચેતાંત (ટ્રાન્સમીટર).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board PYQ / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 4,
+      "question": "પરાવર્તી ક્રિયા એટલે શું? પરાવર્તી કમાન આકૃતિ સહ સમજાવો. (Board August 2020, March 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>મગજના ઐચ્છિક કેન્દ્રોની જાણ બહાર, બાહ્ય ઉત્તેજના સામે દર્શાવવામાં આવતા અનૈચ્છિક અને ઝડપી પ્રતિચારને <strong>પરાવર્તી ક્રિયા</strong> કહે છે.</p><ul><li><strong>પરાવર્તી કમાનના ઘટકો:</strong></li><li>૧. ગ્રાહી અંગ (ત્વચા): ઉત્તેજના ગ્રહણ કરે છે.</li><li>૨. સંવેદી ચેતા: ઉર્મિવેગને કરોડરજ્જુ સુધી લઈ જાય છે.</li><li>૩. પૃથક્કરણી ચેતા: કરોડરજ્જુમાં સંદેશાનું પૃથક્કરણ કરે છે.</li><li>૪. ચાલક ચેતા: પ્રતિચારનો સંદેશો સ્નાયુ સુધી લઈ જાય છે.</li><li>૫. કાર્યકારી અંગ (સ્નાયુ): પ્રતિચાર આપે છે (જેમ કે હાથ ખેંચી લેવો).</li><li><strong>મહત્વ:</strong> તે વિચારવાની પ્રક્રિયા વગર અત્યંત ઝડપી પ્રતિચાર આપે છે, જેથી શરીરને ઈજાથી બચાવી શકાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રાહી -> સંવેદી -> કરોડરજ્જુ -> ચાલક -> પ્રતિચારક. (ગ-સ-ક-ચા-પ્ર)</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 4,
+      "question": "માનવ મગજના વિવિધ ભાગો જણાવી, અગ્ર મગજની વિસ્તૃત ચર્ચા કરો. (Board March 2019, 2024)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>માનવ મગજ ત્રણ મુખ્ય ભાગોમાં વહેંચાયેલું છે: ૧. અગ્ર મગજ, ૨. મધ્ય મગજ અને ૩. પશ્ચ મગજ.</p><ul><li><strong>અગ્ર મગજ (Forebrain):</strong></li><li>તે મગજનો મુખ્ય વિચારવા વાળો અને સૌથી મોટો ભાગ છે. તેમાં બૃહદ મસ્તિષ્કનો સમાવેશ થાય છે.</li><li><strong>કાર્યો:</strong></li><li>૧. <strong>શ્રવણ, ઘ્રાણ અને દ્રષ્ટિ:</strong> આ માટેના વિશિષ્ટ કેન્દ્રો અગ્ર મગજમાં આવેલા છે.</li><li>૨. <strong>ઐચ્છિક સ્નાયુઓનું હલનચલન:</strong> હાથ-પગના હલનચલનનું નિયંત્રણ કરે છે.</li><li>૩. <strong>સ્મૃતિ અને બુદ્ધિ:</strong> યાદશક્તિ, તર્ક અને શીખવાની ક્ષમતા અહીં હોય છે.</li><li>૪. <strong>ભૂખના કેન્દ્રો:</strong> આપણને ધરાઈ ગયાનો અનુભવ અગ્ર મગજના અલગ કેન્દ્ર દ્વારા થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અગ્ર મગજ = 'C' (Cerebrum, Cleverness, Control of voluntary actions).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Page 118</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 4,
+      "question": "વનસ્પતિમાં થતા વિવિધ પ્રકારના આવર્તન (Tropism) ઉદાહરણ સહિત સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વનસ્પતિમાં ઉત્તેજનાની દિશામાં થતા હલનચલનને આવર્તન કહે છે.</p><ul><li><strong>૧. પ્રકાશાવર્તન:</strong> વનસ્પતિના પ્રરોહ (કાંડ)નું પ્રકાશની દિશામાં વળવું. (ધન પ્રકાશાવર્તન).</li><li><strong>૨. ભૂઆવર્તન:</strong> મૂળનું ગુરુત્વાકર્ષણની દિશામાં નીચે તરફ વધવું. (ધન ભૂઆવર્તન).</li><li><strong>૩. જલાવર્તન:</strong> મૂળનું પાણીના સ્ત્રોત તરફ હલનચલન કરવું.</li><li><strong>૪. રસાયણાવર્તન:</strong> પરાગનલિકાનું અંડક તરફ વધવું એ ચોક્કસ રસાયણોને કારણે હોય છે.</li><li><strong>૫. સ્પર્શાવર્તન:</strong> વટાણાના સૂત્રો આધાર સાથે સ્પર્શ થતા તેની ફરતે વીંટળાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્ર-ભૂ-જ-ર (પ્રકાશ, ભૂમિ, જળ, રસાયણ) - વનસ્પતિના ચાર મિત્રો!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT New Syllabus Chapter 6</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 4,
+      "question": "વનસ્પતિ અંતઃસ્રાવોના નામ આપી, દરેકના એક-એક મુખ્ય કાર્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વનસ્પતિમાં વૃદ્ધિ અને વિકાસના નિયમન માટે વિશિષ્ટ રાસાયણિક પદાર્થો હોય છે, જેને વનસ્પતિ અંતઃસ્રાવો કહે છે.</p><ul><li><strong>૧. ઓક્ઝિન (Auxin):</strong> તે કોષોની લંબાઈમાં વૃદ્ધિ પ્રેરે છે અને પ્રકાશાવર્તન માટે જવાબદાર છે.</li><li><strong>૨. જિબ્બેરેલિન (Gibberellin):</strong> તે પ્રકાંડની વૃદ્ધિમાં મદદરૂપ થાય છે.</li><li><strong>૩. સાયટોકાઈનિન (Cytokinin):</strong> તે કોષ વિભાજનને ઝડપી બનાવે છે (ફળ અને બીજમાં વધુ હોય છે).</li><li><strong>૪. એબ્સિસિક એસિડ (Abscisic Acid):</strong> તે વૃદ્ધિ અવરોધક અંતઃસ્રાવ છે. તે પર્ણોના કરમાઈ જવા માટે જવાબદાર છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ABC (Abscisic) = Stop! બાકીના ત્રણેય = Go (વૃદ્ધિ)!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Most IMP for Board 2025</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 4,
+      "question": "મનુષ્યમાં જોવા મળતી અંતઃસ્રાવી ગ્રંથિઓ, તેમાંથી ઉત્પન્ન થતા અંતઃસ્રાવો અને તેના કાર્યોનું કોષ્ટક તૈયાર કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><table border='1' style='width:100%; border-collapse: collapse; text-align: left;'><tr style='background-color: #16a085; color: white;'><th>ગ્રંથિ</th><th>અંતઃસ્રાવ</th><th>મુખ્ય કાર્ય</th></tr><tr><td>પિટ્યુટરી</td><td>વૃદ્ધિ અંતઃસ્રાવ (GH)</td><td>શરીરની વૃદ્ધિ અને વિકાસ</td></tr><tr><td>થાઈરોઈડ</td><td>થાઈરોક્સિન</td><td>કાર્બોદિત, પ્રોટીન, ચરબીનું ચયાપચય</td></tr><tr><td>સ્વાદુપિંડ</td><td>ઇન્સ્યુલિન</td><td>રુધિરમાં શર્કરાનું નિયંત્રણ</td></tr><tr><td>એડ્રિનલ</td><td>એડ્રિનાલિન</td><td>કટોકટીની સ્થિતિમાં લડવાની તૈયારી</td></tr><tr><td>શુક્રપિંડ/અંડપિંડ</td><td>ટેસ્ટોસ્ટેરોન/ઈસ્ટ્રોજન</td><td>જાતીય લક્ષણોનો વિકાસ</td></tr></table><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઇન્સ્યુલિન ઓછું તો ડાયાબિટીસ વધુ' - આ યાદ રાખવું જ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Text Book Table 6.1</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 4,
+      "question": "એડ્રિનાલિન અંતઃસ્રાવ કઈ રીતે શરીરને લડવા કે ભાગવા માટે તૈયાર કરે છે? સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>એડ્રિનાલિનને 'કટોકટીનો અંતઃસ્રાવ' કહેવામાં આવે છે. જ્યારે આપણે ડર કે તણાવમાં હોઈએ ત્યારે તે એડ્રિનલ ગ્રંથિમાંથી સીધો રુધિરમાં ભળે છે.</p><ul><li><strong>અસરો:</strong></li><li>૧. <strong>હૃદયના ધબકારા:</strong> હૃદયના ધબકારા વધે છે જેથી સ્નાયુઓને વધુ ઓક્સિજન મળે.</li><li>૨. <strong>શ્વસન દર:</strong> પાંસળીઓ અને ઉરોદરપટલના સંકોચનને કારણે શ્વાસ લેવાની ગતિ વધે છે.</li><li>૩. <strong>રુધિરનું વહન:</strong> પાચનતંત્ર અને ત્વચામાં રુધિરનો પ્રવાહ ઘટે છે અને રુધિર મુખ્યત્વે કંકાલ સ્નાયુઓ તરફ મોકલવામાં આવે છે.</li><li>૪. <strong>પ્રતિચાર:</strong> આ બધી અસરો શરીરને પરિસ્થિતિ સામે લડવા (Fight) અથવા ભાગી છૂટવા (Flight) માટે સક્ષમ બનાવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એડ્રિનાલિન = 'Emergency Alarm' of human body.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Note</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 4,
+      "question": "પુનઃનિવેશ પદ્ધતિ (Feedback Mechanism) એટલે શું? શર્કરાના ઉદાહરણ દ્વારા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>શરીરમાં અંતઃસ્રાવો મુક્ત થવાનો સમય અને તેની માત્રાનું નિયંત્રણ કરતી પદ્ધતિને પુનઃનિવેશ પદ્ધતિ કહે છે.</p><ul><li><strong>ઉદાહરણ: રુધિરમાં શર્કરાનું નિયંત્રણ</strong></li><li>જ્યારે લોહીમાં શર્કરા (ગ્લુકોઝ)નું સ્તર વધે છે, ત્યારે સ્વાદુપિંડના કોષો તેને ઓળખી લે છે.</li><li>પ્રતિચાર રૂપે સ્વાદુપિંડ વધુ 'ઇન્સ્યુલિન' અંતઃસ્રાવ મુક્ત કરે છે.</li><li>ઇન્સ્યુલિન રુધિરની શર્કરાને ઘટાડે છે.</li><li>જ્યારે શર્કરાનું સ્તર ઘટીને સામાન્ય થઈ જાય, ત્યારે ઇન્સ્યુલિનનો સ્ત્રાવ આપોઆપ ઓછો થઈ જાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તે ઘરના 'એસી' (AC) જેવું કામ કરે છે, જે તાપમાન જળવાઈ રહેતા આપોઆપ કટ થઈ જાય છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Critical Thinking Ques.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 4,
+      "question": "ચેતાતંત્ર દ્વારા થતું સંકલન અને અંતઃસ્રાવી તંત્ર દ્વારા થતા સંકલન વચ્ચેનો તફાવત સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><table border='1' style='width:100%; border-collapse: collapse;'><tr><th>લક્ષણ</th><th>ચેતાતંત્ર (Nervous System)</th><th>અંતઃસ્રાવી તંત્ર (Hormonal System)</th></tr><tr><td>માધ્યમ</td><td>વિદ્યુત આવેગ (Electical Impulse)</td><td>રાસાયણિક સંયોજનો (Hormones)</td></tr><tr><td>ઝડપ</td><td>અત્યંત ઝડપી પ્રતિચાર</td><td>ધીમો પ્રતિચાર</td></tr><tr><td>વ્યાપ</td><td>માત્ર ચેતા જોડાયેલ હોય ત્યાં જ</td><td>શરીરના તમામ કોષો સુધી પહોંચે</td></tr><tr><td>સમયગાળો</td><td>ટૂંકા ગાળાની અસર</td><td>લાંબા ગાળાની અસર</td></tr></table><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચેતાતંત્ર = 5G ઇન્ટરનેટ (Fast), અંતઃસ્રાવ = ટપાલ સેવા (Slow but reaches everywhere).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Hot Topic for 2025</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 4,
+      "question": "મધ્ય મગજ અને પશ્ચ મગજ વિશે ટૂંકનોંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>મધ્ય મગજ (Midbrain):</strong> તે મગજનો મધ્ય ભાગ છે. તે દ્રષ્ટિ અને શ્રવણની પરાવર્તી ક્રિયાના કેન્દ્રો ધરાવે છે.</li><li><strong>પશ્ચ મગજ (Hindbrain):</strong> તેના ત્રણ મુખ્ય ભાગો છે:</li><li><strong>૧. સેતુ (Pons):</strong> તે શ્વસન ક્રિયાના નિયમનમાં મદદ કરે છે.</li><li><strong>૨. લંબમજ્જા (Medulla):</strong> તે અનૈચ્છિક ક્રિયાઓ જેવી કે રુધિરનું દબાણ, લાળઝરવી અને ઊલટી થવી વગેરેનું નિયંત્રણ કરે છે.</li><li><strong>૩. અનુમસ્તિષ્ક (Cerebellum):</strong> તે શરીરની ભંગિમા (Posture) અને સંતુલન જાળવે છે. ઉદાહરણ: સીધી રેખામાં ચાલવું, સાયકલ ચલાવવી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનુમસ્તિષ્ક = Balance Master.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Diagram focus</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 4,
+      "question": "મધ્યસ્થ ચેતાતંત્ર (CNS) કઈ રીતે રક્ષાયેલું છે? મગજ અને કરોડરજ્જુના રક્ષણ વિશે જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>મગજનું રક્ષણ:</strong></li><li>મગજ એ અત્યંત નાજુક અંગ છે, જે હાડકાની બનેલી પેટી (ખોપરી) માં સુરક્ષિત છે.</li><li>આ પેટીની અંદર મસ્તિષ્ક મેરુજળ (Cerebrospinal fluid) થી ભરેલા ફુગ્ગા જેવી રચના હોય છે, જે આંચકા સામે રક્ષણ (Shock absorber) આપે છે.</li><li><strong>કરોડરજ્જુનું રક્ષણ:</strong></li><li>કરોડરજ્જુ એ કરોડસ્તંભ (વર્ટેબ્રલ કોલમ) અથવા પાછળના ભાગમાં આવેલા મણકાઓ દ્વારા સુરક્ષિત રહે છે.</li><li>આ કઠણ અસ્થિઓ કરોડરજ્જુને બાહ્ય ઈજાથી બચાવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મગજ = હેલ્મેટ (ખોપરી) + એરબેગ (મેરુજળ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise Q.No 8</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 4,
+      "question": "લજ્જામણીના છોડમાં હલનચલન અને પ્રાણીના પગમાં થતા હલનચલન વચ્ચેનો તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>લજ્જામણીમાં હલનચલન:</strong></li><li>તે સ્પર્શની ઉત્તેજના સામેનો પ્રતિચાર છે.</li><li>તેમાં કોઈ વિશિષ્ટ પેશી કે ચેતાતંત્ર હોતું નથી.</li><li>આ હલનચલન કોષોમાં પાણીના પ્રમાણમાં ફેરફાર (આશૂનતા ફેરફાર) ને લીધે થાય છે.</li><li><strong>પ્રાણીના પગમાં હલનચલન:</strong></li><li>તે મગજના ઐચ્છિક સંદેશા દ્વારા થાય છે.</li><li>તેમાં સ્નાયુપેશી અને ચેતાતંત્ર સંકળાયેલા હોય છે.</li><li>આ હલનચલન સ્નાયુ કોષોમાં રહેલા વિશિષ્ટ પ્રોટીનના આકાર બદલાવાને કારણે થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વનસ્પતિ = પાણીનો ખેલ, પ્રાણી = પ્રોટીનનો ખેલ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Conceptual Question NJ Classes</p></div>"
+    }
+  ]
+}
