@@ -685,3 +685,82 @@ var Std10_Science_4Marks = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "માનવ આંખ અને રંગબેરંગી દુનિયા",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 4,
+      "question": "માનવ આંખની આકૃતિ દોરી તેના મુખ્ય ભાગોના કાર્યો સમજાવો. (March - 2020, 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>માનવ આંખ એક અત્યંત સંવેદનશીલ જ્ઞાનેન્દ્રિય છે જે કેમેરાની જેમ કાર્ય કરે છે.</p><svg width='200' height='150' viewBox='0 0 200 150'><circle cx='100' cy='75' r='60' stroke='black' stroke-width='2' fill='none' /><path d='M150 45 Q170 75 150 105' stroke='black' fill='none' /><ellipse cx='145' cy='75' rx='8' ry='20' fill='lightblue' /><text x='10' y='75' font-size='10'>રેટિના</text><text x='155' y='75' font-size='10'>લેન્સ</text></svg><ul><li><strong>પારદર્શક પટલ (Cornea):</strong> આંખની આગળનો ઉપસેલો ભાગ, જ્યાંથી પ્રકાશ પ્રવેશે છે.</li><li><strong>કનિનિકા (Iris):</strong> સ્નાયુમય પડદો જે કીકીનું કદ નિયંત્રિત કરે છે.</li><li><strong>કીકી (Pupil):</strong> આંખમાં પ્રવેશતા પ્રકાશની માત્રાનું નિયંત્રણ કરે છે.</li><li><strong>નેત્રમણિ (Lens):</strong> જેલી જેવો પદાર્થ, જે રેટિના પર પ્રતિબિંબ કેન્દ્રિત કરે છે.</li><li><strong>નેત્રપટલ (Retina):</strong> પ્રકાશસંવેદનશીલ પડદો જ્યાં પ્રતિબિંબ રચાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'I-P-L' (Iris-Pupil-Lens) ક્રમમાં યાદ રાખો, જે પ્રકાશને કંટ્રોલ કરે છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board PYQ</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 4,
+      "question": "લઘુદ્રષ્ટિની ખામી (Myopia) એટલે શું? તેના કારણો અને નિવારણ આકૃતિ સહ સમજાવો. (July - 2021, March - 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જ્યારે વ્યક્તિ નજીકની વસ્તુ સ્પષ્ટ જોઈ શકે પણ દૂરની વસ્તુ સ્પષ્ટ ન જોઈ શકે, તેને લઘુદ્રષ્ટિની ખામી કહે છે.</p><ul><li><strong>કારણો:</strong> (1) આંખના લેન્સની વક્રતા વધવી. (2) આંખનો ડોળો લાંબો થવો.</li><li><strong>પ્રતિબિંબ:</strong> દૂરની વસ્તુનું પ્રતિબિંબ રેટિનાની <b>આગળ</b> રચાય છે.</li><li><strong>નિવારણ:</strong> યોગ્ય પાવરના <b>અંતર્ગોળ લેન્સ</b> (Concave Lens) ના ચશ્મા પહેરવા જોઈએ.</li></ul><svg width='200' height='100'><circle cx='150' cy='50' r='30' stroke='black' fill='none'/><line x1='10' y1='40' x2='120' y2='50' stroke='blue'/><line x1='10' y1='60' x2='120' y2='50' stroke='blue'/><text x='10' y='90' font-size='10'>અંતર્ગોળ લેન્સ દ્વારા સુધારણા</text></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લઘુ એટલે નાનું/નજીક (નજીકનું દેખાય) - નિવારણ માટે 'અંત' (અંતર્ગોળ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 4,
+      "question": "ગુરુદ્રષ્ટિની ખામી (Hypermetropia) ના કારણો જણાવી તેનું નિવારણ આકૃતિ સાથે સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જ્યારે વ્યક્તિ દૂરની વસ્તુ સ્પષ્ટ જોઈ શકે પણ નજીકની વસ્તુ સ્પષ્ટ ન જોઈ શકે, તેને ગુરુદ્રષ્ટિની ખામી કહે છે.</p><ul><li><strong>કારણો:</strong> (1) આંખના લેન્સની કેન્દ્રલંબાઈ ઘણી વધી જવી. (2) આંખનો ડોળો ખૂબ નાનો થવો.</li><li><strong>પ્રતિબિંબ:</strong> નજીકની વસ્તુનું પ્રતિબિંબ રેટિનાની <b>પાછળ</b> રચાય છે.</li><li><strong>નિવારણ:</strong> યોગ્ય પાવરના <b>બહિર્ગોળ લેન્સ</b> (Convex Lens) ના ચશ્મા પહેરવા જોઈએ.</li></ul><svg width='200' height='100'><circle cx='100' cy='50' r='30' stroke='black' fill='none'/><path d='M10 50 L130 50' stroke='red' stroke-dasharray='5,5'/><text x='10' y='90' font-size='10'>બહિર્ગોળ લેન્સ દ્વારા સુધારણા</text></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુરુ એટલે મોટું/દૂર (દૂરનું દેખાય) - નિવારણ માટે 'બહાર' (બહિર્ગોળ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 4,
+      "question": "કાચના પ્રિઝમ વડે શ્વેત પ્રકાશનું વિભાજન આકૃતિ સહ સમજાવો. ન્યૂટનનો પ્રયોગ પણ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જ્યારે શ્વેત પ્રકાશ પ્રિઝમમાંથી પસાર થાય છે, ત્યારે તે સાત રંગોના પટ્ટામાં વિભાજિત થાય છે. આ ઘટનાને પ્રકાશનું <b>વિભાજન</b> કહે છે.</p><ul><li><strong>ક્રમ:</strong> જાંબલી, નીલો, વાદળી, લીલો, પીળો, નારંગી, લાલ (જાનીવાલીપીનારા).</li><li><strong>ન્યૂટનનો પ્રયોગ:</strong> ન્યૂટને બે સમાન પ્રિઝમ લીધા, જેમાંથી એક ઊંધો રાખતા સાત રંગો ફરીથી ભેગા થઈ શ્વેત પ્રકાશ આપે છે.</li></ul><svg width='200' height='100'><polygon points='50,10 90,90 10,90' style='fill:none;stroke:black;stroke-width:2' /><line x1='0' y1='50' x2='30' y2='50' stroke='gray'/><line x1='70' y1='50' x2='150' y2='20' stroke='red'/><line x1='70' y1='50' x2='150' y2='80' stroke='purple'/></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'VIBGYOR' - લાલ રંગ સૌથી ઓછો વિચલિત થાય અને જાંબલી સૌથી વધુ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 4,
+      "question": "મેઘધનુષ્યની રચના આકૃતિ સહ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>મેઘધનુષ્ય એ આકાશમાં જોવા મળતો પ્રાકૃતિક વર્ણપટ છે, જે વરસાદ પછી જોવા મળે છે.</p><ul><li>વરસાદના ટીપાં નાના પ્રિઝમ તરીકે વર્તે છે.</li><li>પ્રક્રિયાના ત્રણ તબક્કા: (1) વક્રીભવન (2) વિભાજન (3) આંતરિક પરાવર્તન.</li><li>સૂર્યપ્રકાશ ટીપાંમાં પ્રવેશે ત્યારે વિભાજિત થાય છે અને ટીપાંની અંદરની સપાટી પરથી પરાવર્તિત થઈ બહાર આવે ત્યારે મેઘધનુષ્ય રચે છે.</li><li><b>શરત:</b> મેઘધનુષ્ય હંમેશા સૂર્યની વિરુદ્ધ દિશામાં રચાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટીપું = પ્રિઝમ + અરીસો. (વક્રીભવન + પરાવર્તન).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 4,
+      "question": "તારાઓનું ટમટમવું અને તારાઓનું વાસ્તવિક સ્થાન કરતા ઊંચા દેખાવું - સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>આ બંને ઘટનાઓ <b>વાતાવરણીય વક્રીભવન</b> ને કારણે થાય છે.</p><ul><li><strong>ટમટમવું:</strong> પૃથ્વીનું વાતાવરણ સ્થિર નથી. હવાની ઘનતા બદલાતી હોવાથી તારામાંથી આવતા પ્રકાશનું વક્રીભવન સતત બદલાય છે, જેથી તે ટમટમતા લાગે છે.</li><li><strong>સ્થાન:</strong> જ્યારે તારાનો પ્રકાશ વાતાવરણમાં પ્રવેશે છે, ત્યારે તે લંબ તરફ વળે છે. આથી આપણને તારો તેના મૂળ સ્થાન કરતા થોડો ઊંચો દેખાય છે.</li><li>ગ્રહો તારાઓની સરખામણીએ પૃથ્વીથી નજીક હોવાથી તે બિંદુવત સ્ત્રોત નથી, તેથી તે ટમટમતા નથી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાતાવરણ = 'માધ્યમ', વક્રીભવનાંક બદલાય = ટમટમવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> March - 2022 Board Paper</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 4,
+      "question": "વહેલો સૂર્યોદય અને મોડો સૂર્યાસ્ત થવાની ઘટના આકૃતિ દોરી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વાતાવરણીય વક્રીભવનના કારણે સૂર્ય ખરેખર ક્ષિતિજની ઉપર આવે તે પહેલાં દેખાય છે.</p><ul><li>સૂર્યોદય સમયે સૂર્ય હજુ ક્ષિતિજની નીચે હોય છે, પણ તેના કિરણો વાતાવરણમાં વક્રીભવન પામી વળતા હોવાથી તે ક્ષિતિજની ઉપર હોવાનો ભાસ થાય છે.</li><li>આ સમયનો તફાવત લગભગ <b>2 મિનિટ</b> જેટલો હોય છે.</li><li>તેવી જ રીતે સૂર્યાસ્ત પછી પણ સૂર્ય 2 મિનિટ સુધી દેખાય છે.</li><li>આમ, દિવસની લંબાઈમાં 4 મિનિટનો વધારો થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 મિનિટ વહેલો + 2 મિનિટ મોડો = કુલ 4 મિનિટનો ફાયદો!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 4,
+      "question": "પ્રકાશનું પ્રકીર્ણન એટલે શું? ટિંડલ અસર (Tyndall Effect) ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જ્યારે પ્રકાશ અત્યંત બારીક કણો (જેમ કે ધુમાડો, ધૂળ) પર પડે છે, ત્યારે તે બધી દિશામાં ફેલાય છે, તેને પ્રકીર્ણન કહે છે.</p><ul><li><strong>ટિંડલ અસર:</strong> કોલોઈડલ કણો દ્વારા પ્રકાશના પ્રકીર્ણનની ઘટનાને ટિંડલ અસર કહે છે.</li><li><strong>ઉદાહરણ 1:</strong> ધુમાડાથી ભરેલા રૂમમાં નાના છિદ્રમાંથી આવતો પ્રકાશનો પટ્ટો.</li><li><strong>ઉદાહરણ 2:</strong> ગાઢ જંગલના કેનોપીમાંથી પસાર થતો સૂર્યપ્રકાશ.</li><li>પ્રકીર્ણન પામતા પ્રકાશનો રંગ કણોના કદ પર આધાર રાખે છે. અત્યંત બારીક કણો વાદળી રંગનું પ્રકીર્ણન કરે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટિંડલ અસર એટલે 'પ્રકાશનો માર્ગ દ્રશ્યમાન થવો'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Note</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 4,
+      "question": "સ્વચ્છ આકાશનો રંગ વાદળી કેમ દેખાય છે? અને જો પૃથ્વી પર વાતાવરણ ન હોત તો આકાશ કેવું દેખાત?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>વાતાવરણમાં હવાના અણુઓ અને અન્ય બારીક કણો દ્રશ્ય પ્રકાશની તરંગલંબાઈ કરતા નાના હોય છે.</li><li>આ કણો ટૂંકી તરંગલંબાઈ વાળા <b>વાદળી (Blue)</b> રંગના પ્રકાશનું પ્રકીર્ણન વધુ અસરકારક રીતે કરે છે.</li><li>જ્યારે સૂર્યપ્રકાશ વાતાવરણમાંથી પસાર થાય છે, ત્યારે વાદળી રંગ ચારેબાજુ ફેલાય છે, તેથી આકાશ વાદળી દેખાય છે.</li><li><strong>વાતાવરણ ન હોય તો:</strong> જો પૃથ્વી પર વાતાવરણ ન હોત, તો પ્રકાશનું પ્રકીર્ણન થાત નહીં અને આકાશ <b>અંધકારમય (કાળું)</b> દેખાત. (અવકાશયાત્રીઓને આકાશ કાળું દેખાય છે).</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનું કદ = ટૂંકી તરંગલંબાઈ (વાદળી). મોટું કદ = લાંબી તરંગલંબાઈ (લાલ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> September - 2021 Exam</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 4,
+      "question": "સૂર્યોદય અને સૂર્યાસ્ત સમયે સૂર્ય લાલાશ પડતો (રતાશ પડતો) કેમ દેખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>સૂર્યોદય અને સૂર્યાસ્ત સમયે સૂર્ય ક્ષિતિજની પાસે હોય છે, તેથી પ્રકાશને વાતાવરણમાં <b>વધારે અંતર</b> કાપવું પડે છે.</li><li>આ લાંબા અંતર દરમિયાન, વાદળી રંગ અને ટૂંકી તરંગલંબાઈના પ્રકાશનું મોટાભાગનું પ્રકીર્ણન થઈ જાય છે અને તે દૂર ફેંકાઈ જાય છે.</li><li>આપણી આંખો સુધી માત્ર લાંબી તરંગલંબાઈ ધરાવતો <b>લાલ રંગ</b> જ પહોંચી શકે છે.</li><li>બપોરે સૂર્ય માથા પર હોવાથી અંતર ઓછું હોય છે, તેથી તે સફેદ જેવો દેખાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યોદય = લાંબુ અંતર = લાલ બચશે. (ખતરાનો સિગ્નલ પણ લાલ એટલે જ હોય છે).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Most IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 4,
+      "question": "પ્રેસબાયોપિયા (Presbyopia) વિશે ટૂંકનોંધ લખો અને બાયફોકલ લેન્સની જરૂરિયાત સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ઉંમર વધવાની સાથે આંખની સમાવેશ ક્ષમતા (Power of Accommodation) ઘટે છે, જેને પ્રેસબાયોપિયા કહે છે.</p><ul><li><strong>લક્ષણો:</strong> વ્યક્તિ નજીકની વસ્તુઓ આરામથી જોઈ શકતી નથી. તેનું નજીકનું બિંદુ દૂર જાય છે.</li><li><strong>કારણો:</strong> (1) સિલિયરી સ્નાયુઓ નબળા પડવા. (2) નેત્રમણિની સ્થિતિસ્થાપકતા ઓછી થવી.</li><li><strong>બાયફોકલ લેન્સ:</strong> કેટલીક વ્યક્તિઓને લઘુદ્રષ્ટિ અને ગુરુદ્રષ્ટિ બંને ખામી હોય છે. તેમને સુધારવા માટે બાયફોકલ લેન્સ વપરાય છે.</li><li>લેન્સનો <b>ઉપરનો ભાગ અંતર્ગોળ</b> (દૂરનું જોવા) અને <b>નીચેનો ભાગ બહિર્ગોળ</b> (નજીકનું જોવા) હોય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બાય' એટલે બે. બે લેન્સ વાળો ચશ્મો એટલે બાયફોકલ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept Builder</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 4,
+      "question": "કાચના પ્રિઝમ દ્વારા થતું પ્રકાશનું વક્રીભવન આકૃતિ દોરી સમજાવો અને તેમાં બનતા વિવિધ ખૂણાઓ દર્શાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જ્યારે પ્રકાશનું કિરણ પ્રિઝમમાંથી પસાર થાય છે, ત્યારે તે બે વાર વક્રીભવન પામે છે.</p><svg width='200' height='120'><polygon points='60,10 110,100 10,100' style='fill:none;stroke:black;stroke-width:2' /><line x1='0' y1='70' x2='40' y2='60' stroke='green' /><line x1='40' y1='60' x2='85' y2='55' stroke='green' /><line x1='85' y1='55' x2='130' y2='90' stroke='green' /><text x='5' y='60' font-size='8'>આપાત કિરણ</text><text x='110' y='110' font-size='8'>નિર્ગમન કિરણ</text></svg><ul><li><strong>આપાત કોણ (i):</strong> આપાત કિરણ અને લંબ વચ્ચેનો ખૂણો.</li><li><strong>વક્રીભૂત કોણ (r):</strong> વક્રીભૂત કિરણ અને લંબ વચ્ચેનો ખૂણો.</li><li><strong>નિર્ગમન કોણ (e):</strong> પ્રિઝમમાંથી બહાર નીકળતા કિરણ અને લંબ વચ્ચેનો ખૂણો.</li><li><strong>વિચલન કોણ (D):</strong> આપાત કિરણની દિશા અને નિર્ગમન કિરણ વચ્ચેના ખૂણાને વિચલન કોણ કહે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'D' (Deviation) ખૂણો એ સૌથી મહત્વનો છે જે પ્રિઝમના આકાર પર આધાર રાખે છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Science Lab Manual / Theory</p></div>"
+    }
+  ]
+}
