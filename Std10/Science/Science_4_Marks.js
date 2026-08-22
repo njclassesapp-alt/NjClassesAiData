@@ -764,3 +764,82 @@ var Std10_Science_4Marks = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "વિદ્યુત",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 4,
+      "question": "ઓહ્મનો નિયમ લખો અને તેનો પ્રાયોગિક રીતે ચકાસણી માટેનો પરિપથ દોરી સમજાવો. (માર્ચ-2020, ઓગસ્ટ-2020, માર્ચ-2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>નિયમ:</strong> નિશ્ચિત ભૌતિક પરિસ્થિતિમાં (જેમ કે તાપમાન) વાહક તારમાંથી પસાર થતો વિદ્યુતપ્રવાહ (I), તે વાહકના બે છેડા વચ્ચેના વિદ્યુતસ્થિતિમાનના તફાવત (V) ના સમપ્રમાણમાં હોય છે.</p><p><strong>સૂત્ર:</strong> V ∝ I  => V = IR (જ્યાં R એ અવરોધ છે)</p><p><strong>પ્રાયોગિક સમજૂતી:</strong></p><ul><li>આકૃતિમાં દર્શાવ્યા મુજબ અવરોધ R, એમીટર (A), વોલ્ટમીટર (V), બેટરી અને કળને જોડો.</li><li>જુદા જુદા કોષો જોડીને V અને I ના અવલોકનો લો.</li><li>દરેક વખતે V/I નો ગુણોત્તર સમાન માલૂમ પડે છે.</li></ul><svg width='200' height='120' viewBox='0 0 200 120' xmlns='http://www.w3.org/2000/svg'><rect x='20' y='20' width='160' height='80' fill='none' stroke='black' stroke-width='2'/><polyline points='60,20 70,10 80,30 90,10 100,30 110,10 120,20' fill='none' stroke='red' stroke-width='2'/><text x='80' y='50' font-size='12'>R</text><circle cx='100' cy='100' r='10' fill='white' stroke='black'/><text x='95' y='105' font-size='10'>A</text><rect x='80' y='0' width='40' height='20' fill='white' stroke='blue'/><text x='95' y='15' font-size='10'>V</text></svg><p><strong>આલેખ:</strong> V વિરુદ્ધ I નો આલેખ ઉગમબિંદુમાંથી પસાર થતી સીધી રેખા મળે છે, જે નિયમની પુષ્ટિ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'VIP' યાદ રાખો -> V = I × R. આલેખ હંમેશા સીધી રેખા જ આવે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board (Past Paper) / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 4,
+      "question": "અવરોધોનું શ્રેણી જોડાણ એટલે શું? તેના સમતુલ્ય અવરોધનું સૂત્ર મેળવો. (માર્ચ-2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વ્યાખ્યા:</strong> જ્યારે બે કે તેથી વધુ અવરોધોને ક્રમશઃ એવી રીતે જોડવામાં આવે કે જેથી દરેકમાંથી વહેતો વિદ્યુતપ્રવાહ સમાન હોય, તો તેવા જોડાણને શ્રેણી જોડાણ કહે છે.</p><p><strong>તારવણી:</strong></p><ul><li>ધારો કે ત્રણ અવરોધો R1, R2 અને R3 શ્રેણીમાં જોડેલા છે.</li><li>બેટરીનો કુલ વોલ્ટેજ V = V1 + V2 + V3 થાય.</li><li>ઓહ્મના નિયમ મુજબ, V1 = IR1, V2 = IR2, V3 = IR3.</li><li>સમતુલ્ય અવરોધ Rs હોય તો V = IRs.</li><li>કિંમતો મૂકતા: IRs = IR1 + IR2 + IR3</li><li>I સામાન્ય કાઢતા: <strong>Rs = R1 + R2 + R3</strong></li></ul><svg width='250' height='60' viewBox='0 0 250 60' xmlns='http://www.w3.org/2000/svg'><line x1='10' y1='30' x2='40' y2='30' stroke='black'/><polyline points='40,30 50,20 60,40 70,20 80,30' fill='none' stroke='red'/><polyline points='80,30 90,20 100,40 110,20 120,30' fill='none' stroke='green'/><polyline points='120,30 130,20 140,40 150,20 160,30' fill='none' stroke='blue'/><line x1='160' y1='30' x2='200' y2='30' stroke='black'/><text x='50' y='55'>R1</text><text x='90' y='55'>R2</text><text x='130' y='55'>R3</text></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્રેણી એટલે 'સીધી લાઈન'. અહીં પ્રવાહ (I) સમાન રહે પણ વોલ્ટેજ (V) વહેંચાય જાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 4,
+      "question": "અવરોધોનું સમાંતર જોડાણ એટલે શું? તેના સમતુલ્ય અવરોધનું સૂત્ર મેળવો. (જુલાઈ-2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વ્યાખ્યા:</strong> જ્યારે બે કે તેથી વધુ અવરોધોના છેડાઓ બે સામાન્ય બિંદુઓ વચ્ચે જોડવામાં આવે, જેથી દરેકના છેડે વોલ્ટેજ સમાન રહે, તેને સમાંતર જોડાણ કહે છે.</p><p><strong>તારવણી:</strong></p><ul><li>ધારો કે R1, R2 અને R3 સમાંતર જોડેલા છે.</li><li>કુલ પ્રવાહ I = I1 + I2 + I3.</li><li>ઓહ્મના નિયમ મુજબ, I1 = V/R1, I2 = V/R2, I3 = V/R3.</li><li>સમતુલ્ય અવરોધ Rp હોય તો I = V/Rp.</li><li>કિંમતો મૂકતા: V/Rp = V/R1 + V/R2 + V/R3</li><li>V સામાન્ય કાઢતા: <strong>1/Rp = 1/R1 + 1/R2 + 1/R3</strong></li></ul><p>સમાંતર જોડાણમાં સમતુલ્ય અવરોધનું મૂલ્ય નાનામાં નાના અવરોધ કરતા પણ ઓછું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાંતર એટલે 'સીડી' જેવું. અહીં વોલ્ટેજ (V) સમાન રહે પણ પ્રવાહ (I) વહેંચાય જાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 4,
+      "question": "વિદ્યુતપ્રવાહની તાપીય અસર એટલે શું? જૂલનો તાપીય નિયમ સમજાવી તેના વ્યવહારિક ઉપયોગો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>તાપીય અસર:</strong> જ્યારે શુદ્ધ અવરોધક પરિપથમાંથી વિદ્યુતપ્રવાહ પસાર થાય ત્યારે ઉર્જા સંપૂર્ણપણે ઉષ્મા રૂપે વ્યય પામે છે, તેને તાપીય અસર કહે છે.</p><p><strong>જૂલનો નિયમ:</strong> H = I²Rt</p><ul><li>ઉષ્મા પ્રવાહના વર્ગના (I²) સમપ્રમાણમાં હોય છે.</li><li>ઉષ્મા અવરોધના (R) સમપ્રમાણમાં હોય છે.</li><li>ઉષ્મા સમયના (t) સમપ્રમાણમાં હોય છે.</li></ul><p><strong>વ્યવહારિક ઉપયોગો:</strong></p><ol><li>ઈસ્ત્રી, ટોસ્ટર, હીટર જેવા સાધનોમાં.</li><li>વિદ્યુત બલ્બમાં પ્રકાશ મેળવવા (ટંગસ્ટન ફિલામેન્ટ).</li><li>વિદ્યુત ફ્યુઝમાં સુરક્ષા માટે (ઓગળી જઈ પરિપથ તોડે છે).</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H = 'I સ્ક્વેર RT' (High RT) - ગરમી ત્યારે જ વધે જો પ્રવાહ ડબલ (વર્ગ) થાય!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 4,
+      "question": "વાહકનો અવરોધ કઈ બાબતો પર આધાર રાખે છે? અવરોધકતા (Resistivity) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p>વાહકનો અવરોધ (R) નીચેના પરિબળો પર આધાર રાખે છે:</p><ul><li><strong>લંબાઈ (L):</strong> અવરોધ લંબાઈના સમપ્રમાણમાં હોય છે (R ∝ L).</li><li><strong>આડછેદનું ક્ષેત્રફળ (A):</strong> અવરોધ ક્ષેત્રફળના વ્યસ્ત પ્રમાણમાં હોય છે (R ∝ 1/A).</li><li><strong>દ્રવ્યની જાત:</strong> જુદા જુદા દ્રવ્યોનો અવરોધ જુદો હોય છે.</li><li><strong>તાપમાન:</strong> ધાતુઓમાં તાપમાન વધતા અવરોધ વધે છે.</li></ul><p><strong>અવરોધકતા (ρ - રો):</strong> R = ρ (L/A). અહીં ρ એ દ્રવ્યની લાક્ષણિકતા છે. તેનો એકમ <strong>Ω.m (ઓહ્મ-મીટર)</strong> છે. મિશ્ર ધાતુઓની અવરોધકતા શુદ્ધ ધાતુઓ કરતા વધુ હોય છે, તેથી તેનો ઉપયોગ હીટરના તારમાં થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાર લાંબો તો અવરોધ વધુ, તાર જાડો તો અવરોધ ઓછો!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT New Syllabus / NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 4,
+      "question": "વિદ્યુત પાવર એટલે શું? તેના વિવિધ સૂત્રો મેળવો અને વિદ્યુત ઉર્જાનો વ્યાપારી એકમ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વ્યાખ્યા:</strong> કાર્ય કરવાનો દર અથવા વિદ્યુત ઉર્જા વપરાવાનો દર એટલે વિદ્યુત પાવર (P).</p><p><strong>સૂત્રો:</strong></p><ol><li>P = V × I</li><li>P = I² × R (શ્રેણી માટે)</li><li>P = V² / R (સમાંતર માટે)</li></ol><p><strong>એકમ:</strong> પાવરનો SI એકમ 'વોટ' (W) છે. 1 W = 1 V × 1 A.</p><p><strong>વ્યાપારી એકમ (Commercial Unit):</strong> વિદ્યુત ઉર્જાનો વ્યાપારી એકમ કિલોવોટ-કલાક (kWh) છે, જેને આપણે 'યુનિટ' કહીએ છીએ.<br><strong>1 kWh = 3.6 × 10⁶ જૂલ (J).</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાવર એટલે 'VIP' અથવા 'I²R'. 1 kWh = 36 લાખ જૂલ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Science Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 4,
+      "question": "ઘરગથ્થુ પરિપથમાં અવરોધોનું શ્રેણી જોડાણ કેમ કરવામાં આવતું નથી? તેના ગેરફાયદા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p>ઘરગથ્થુ જોડાણમાં શ્રેણી જોડાણના ગેરફાયદા નીચે મુજબ છે:</p><ul><li><strong>એક ઉપકરણ બંધ તો બધા બંધ:</strong> જો શ્રેણીમાં જોડેલ એક પણ બલ્બ ઉડી જાય કે સ્વીચ બંધ થાય, તો આખો પરિપથ ખુલ્લો થઈ જાય અને બીજા બધા સાધનો બંધ થઈ જાય છે.</li><li><strong>વોલ્ટેજની વહેંચણી:</strong> શ્રેણીમાં વોલ્ટેજ વહેંચાઈ જાય છે, જેથી દરેક સાધનને જરૂરી 220V મળતા નથી.</li><li><strong>સ્વતંત્ર અંકુશનો અભાવ:</strong> બધા સાધનો માટે એક જ સ્વીચ હોય છે, જેથી આપણે અલગ-અલગ સાધનોને ઈચ્છા મુજબ ચાલુ-બંધ કરી શકતા નથી.</li><li><strong>સમતુલ્ય અવરોધ:</strong> શ્રેણીમાં કુલ અવરોધ વધી જાય છે, જેથી પ્રવાહ ઘટી જાય છે.</li></ul><p>આથી ઘરમાં હંમેશા 'સમાંતર જોડાણ' જ વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્રેણી એટલે 'એક મરે તો બધા મરે', સમાંતર એટલે 'આઝાદી'!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Application Based Important Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 4,
+      "question": "ટૂંકનોંધ લખો: (1) વિદ્યુત બલ્બ (2) વિદ્યુત ફ્યુઝ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>(1) વિદ્યુત બલ્બ:</strong></p><ul><li>બલ્બનો ફિલામેન્ટ ઊંચા ગલનબિંદુવાળી (3380°C) 'ટંગસ્ટન' ધાતુનો બનેલો હોય છે.</li><li>મોટાભાગની વિદ્યુત ઉર્જા ઉષ્મામાં ફેરવાય છે અને થોડો ભાગ પ્રકાશ રૂપે ઉત્સર્જાય છે.</li><li>બલ્બમાં નાઈટ્રોજન કે આર્ગોન જેવા નિષ્ક્રિય વાયુ ભરવામાં આવે છે જેથી ફિલામેન્ટનું આયુષ્ય વધે.</li></ul><p><strong>(2) વિદ્યુત ફ્યુઝ:</strong></p><ul><li>ફ્યુઝ એ સુરક્ષાનું સાધન છે જે ઉપકરણોને બચાવે છે.</li><li>તે ઓછું ગલનબિંદુ ધરાવતી મિશ્ર ધાતુ (દા.ત. લેડ-ટીન) માંથી બને છે.</li><li>જ્યારે પ્રવાહ મર્યાદા કરતા વધે ત્યારે ગરમીથી ફ્યુઝ તાર ઓગળી જાય છે અને પાવર સપ્લાય અટકાવી દે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બલ્બ ગરમી આપે, ફ્યુઝ ગરમીથી પીગળીને રક્ષણ આપે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Practical Electricity Section</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 4,
+      "question": "દાખલો: 4 Ω, 8 Ω, 12 Ω અને 24 Ω અવરોધ ધરાવતા ચાર ગુંચળાઓને જોડીને (a) મહત્તમ અને (b) ન્યૂનતમ કેટલો અવરોધ મેળવી શકાય? ગણતરી કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>(a) મહત્તમ અવરોધ માટે (શ્રેણી જોડાણ):</strong></p><p>Rs = R1 + R2 + R3 + R4<br>Rs = 4 + 8 + 12 + 24 = <strong>48 Ω</strong></p><p><strong>(b) ન્યૂનતમ અવરોધ માટે (સમાંતર જોડાણ):</strong></p><p>1/Rp = 1/R1 + 1/R2 + 1/R3 + 1/R4<br>1/Rp = 1/4 + 1/8 + 1/12 + 1/24<br>લ.સા.અ. 24 લેતા:<br>1/Rp = (6 + 3 + 2 + 1) / 24<br>1/Rp = 12 / 24 = 1 / 2<br><strong>Rp = 2 Ω</strong></p><p>આમ, મહત્તમ 48 Ω અને ન્યૂનતમ 2 Ω અવરોધ મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહત્તમ એટલે 'સરવાળો', ન્યૂનતમ એટલે 'વ્યસ્તનો સરવાળો'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise Q.11</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 4,
+      "question": "શા માટે વિદ્યુત હીટરની કોઇલ ચળકે છે પણ તેને જોડતો તાર (cord) ચળકતો નથી? સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>કારણ:</strong></p><ul><li>વિદ્યુત હીટરની કોઇલ મિશ્ર ધાતુ (જેમ કે નાઈક્રોમ) ની બનેલી હોય છે, જેની અવરોધકતા ખૂબ જ વધારે હોય છે.</li><li>જ્યારે હીટર ચાલુ થાય ત્યારે જૂલના નિયમ (H = I²Rt) મુજબ, કોઇલમાં ખૂબ જ વધારે ઉષ્મા ઉત્પન્ન થાય છે, પરિણામે તે લાલચોળ થઈ ચળકે છે.</li><li>જ્યારે હીટરને જોડતો તાર (Connecting Cord) તાંબા કે એલ્યુમિનિયમ જેવી શુદ્ધ ધાતુનો હોય છે, જેનો અવરોધ ખૂબ જ ઓછો હોય છે.</li><li>ઓછા અવરોધને કારણે તેમાં ઉષ્મા નહિવત ઉત્પન્ન થાય છે, તેથી તે ગરમ થતો નથી કે ચળકતો નથી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ અવરોધ = વધુ ગરમી = વધુ ચમક!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Conceptual Questions Science</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 4,
+      "question": "વિદ્યુતસ્થિતિમાન અને વિદ્યુતસ્થિતિમાનનો તફાવત એટલે શું? તેનો SI એકમ અને વ્યાખ્યા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વિદ્યુતસ્થિતિમાન:</strong> અનંત અંતરેથી એકમ ધન વીજભારને વિદ્યુતક્ષેત્રના કોઈ બિંદુ સુધી લાવવા કરવા પડતા કાર્યને તે બિંદુનું વિદ્યુતસ્થિતિમાન કહે છે.</p><p><strong>વિદ્યુતસ્થિતિમાનનો તફાવત (V):</strong> એકમ ધન વીજભારને એક બિંદુથી બીજા બિંદુ સુધી લઈ જવા માટે કરવા પડતા કાર્ય (W) ને તે બે બિંદુઓ વચ્ચેનો તફાવત કહે છે.<br><strong>સૂત્ર: V = W / Q</strong></p><p><strong>SI એકમ:</strong> વોલ્ટ (V). એલેસાન્ડ્રો વોલ્ટાના માનમાં રાખેલ છે.</p><p><strong>1 વોલ્ટની વ્યાખ્યા:</strong> જો 1 કુલંબ વીજભારને લઈ જવા માટે 1 જૂલ કાર્ય કરવું પડે, તો વિદ્યુતસ્થિતિમાનનો તફાવત 1 વોલ્ટ કહેવાય.<br>1 V = 1 J / 1 C.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: V = W/Q. યાદ રાખો: 'વીજળી એટલે કામ (W) ભાગ્યા ચાર્જ (Q)'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Foundation</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 4,
+      "question": "દાખલો: 220 V ની લાઈન સાથે જોડેલા 100 W ના કેટલા બલ્બ સમાંતર જોડી શકાય જો મહત્તમ સુરક્ષિત પ્રવાહ 5 A હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>કુલ વોલ્ટેજ (V) = 220 V</li><li>કુલ પ્રવાહ (I) = 5 A</li><li>કુલ પાવર P = V × I = 220 × 5 = 1100 W</li><li>એક બલ્બનો પાવર (p) = 100 W</li><li>ધારો કે બલ્બની સંખ્યા 'n' છે.</li><li>n × 100 = 1100</li><li>n = 1100 / 100</li><li><strong>n = 11 બલ્બ</strong></li></ul><p>આમ, 11 બલ્બ સમાંતરમાં જોડી શકાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુલ પાવર શોધીને તેને એક સાધનના પાવર વડે ભાગી નાખો!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Board Level Numerical Practice</p></div>"
+    }
+  ]
+}
