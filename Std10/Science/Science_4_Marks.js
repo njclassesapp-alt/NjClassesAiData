@@ -290,3 +290,82 @@ var Std10_Science_4Marks = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "જૈવિક ક્રિયાઓ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 4,
+      "question": "મનુષ્યના પાચનતંત્રની આકૃતિ દોરી ખોરાકના પાચનની પ્રક્રિયા સમજાવો. (March - 2020, 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>મનુષ્યમાં પાચન પ્રક્રિયા નીચે મુજબના તબક્કાઓમાં થાય છે:</p><ul><li><strong>મુખમાં પાચન:</strong> મુખમાં લાળગ્રંથિમાંથી લાળરસ ઝરે છે, જેમાં 'એમાયલેઝ' ઉત્સેચક હોય છે જે સ્ટાર્ચનું જટિલ શર્કરામાં રૂપાંતર કરે છે.</li><li><strong>જઠરમાં પાચન:</strong> જઠરની દીવાલમાંથી જઠરરસ ઝરે છે. જેમાં HCl, પેપ્સિન અને શ્લેષ્મ હોય છે. પેપ્સિન પ્રોટીનનું પાચન કરે છે.</li><li><strong>નાનું આંતરડું:</strong> તે પાચનતંત્રનું સૌથી લાંબુ અંગ છે. અહીં કાર્બોદિત, પ્રોટીન અને ચરબીનું સંપૂર્ણ પાચન થાય છે.</li><li><strong>યકૃત અને સ્વાદુપિંડ:</strong> યકૃત પિત્તરસ ઉત્પન્ન કરે છે જે ચરબીનું તૈલોદીકરણ કરે છે. સ્વાદુપિંડ ટ્રિપ્સિન (પ્રોટીન માટે) અને લાયપેઝ (ચરબી માટે) ઉત્સેચકો આપે છે.</li><li><strong>શોષણ:</strong> આંતરડાની દીવાલમાં રસાંકુરો આવેલા હોય છે જે પાચિત ખોરાકનું શોષણ કરે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: M-S-S (Mouth-Stomach-Small Intestine) ક્રમ યાદ રાખો. 'એમાયલેઝ-પેપ્સિન-ટ્રિપ્સિન' ઉત્સેચકોનો ક્રમ યાદ રાખો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Previous Year Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 4,
+      "question": "મનુષ્યના હૃદયની અંતસ્થ રચના આકૃતિ સહ સમજાવી, રુધિરના પરિવહનનો માર્ગ સ્પષ્ટ કરો. (March - 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>મનુષ્યનું હૃદય ચાર ખંડોમાં વહેંચાયેલું છે:</p><ul><li><strong>ડાબું ખંડ:</strong> ફેફસાંમાંથી ઓક્સિજનયુક્ત રુધિર ફુપ્ફુસ શિરા દ્વારા ડાબા કર્ણકમાં આવે છે, ત્યાંથી ડાબા ક્ષેપકમાં અને પછી મુખ્ય ધમની દ્વારા શરીરમાં જાય છે.</li><li><strong>જમણું ખંડ:</strong> શરીરના વિવિધ અંગોમાંથી કાર્બન ડાયોક્સાઈડયુક્ત રુધિર મહાશિરા દ્વારા જમણા કર્ણકમાં આવે છે, ત્યાંથી જમણા ક્ષેપકમાં અને પછી ફુપ્ફુસ ધમની દ્વારા ફેફસાંમાં જાય છે.</li><li><strong>વાલ:</strong> કર્ણક અને ક્ષેપક વચ્ચે વાલ આવેલા હોય છે જે રુધિરને ઉંધી દિશામાં જતું અટકાવે છે.</li><li><strong>બેવડું પરિવહન:</strong> રુધિર હૃદયમાંથી એક ચક્ર દરમિયાન બે વાર પસાર થાય છે, તેને બેવડું પરિવહન કહે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ડાબું-શુદ્ધ (ઓક્સિજન)', 'જમણું-અશુદ્ધ (CO2)'. હંમેશા યાદ રાખો: ક્ષેપકની દીવાલ કર્ણક કરતા જાડી હોય છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board 2022 IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 4,
+      "question": "મનુષ્યના ઉત્સર્જનતંત્રના અંગો વર્ણવી, મૂત્રપિંડ નલિકા (Nephron) ની રચના સમજાવો. (March - 2024)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>ઉત્સર્જનતંત્રના અંગો:</strong> (1) એક જોડ મૂત્રપિંડ, (2) એક જોડ મૂત્રવાહિની, (3) મૂત્રાશય અને (4) મૂત્રમાર્ગ.</p><p><strong>મૂત્રપિંડ નલિકાની રચના:</strong></p><ul><li>તે મૂત્રપિંડનો પાયાનો ગાળણ એકમ છે.</li><li>તેમાં કપ આકારની 'બાઉમેનની કોથળી' આવેલી હોય છે જેમાં રુધિરકેશિકાગુચ્છ હોય છે.</li><li>રુધિરકેશિકાગુચ્છમાં રુધિર ગળાય છે અને ગાળણ નલિકામાં જાય છે.</li><li>નલિકામાં પસાર થતા ગાળણમાંથી ગ્લુકોઝ, એમિનો એસિડ અને વધુ પડતા પાણીનું પુનઃશોષણ થાય છે.</li><li>બાકી રહેલું પ્રવાહી એટલે કે મૂત્ર સંગ્રહણ નલિકામાં એકઠું થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાઉમેનની કોથળી = ફિલ્ટર પેપર. નલિકા = રી-સાયકલિંગ પ્લાન્ટ (જરૂરી વસ્તુ પાછી લેવી).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Latest 2024</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 4,
+      "question": "ગ્લુકોઝના વિઘટનના વિવિધ પરિપથો આકૃતિ (ચાર્ટ) દોરી સમજાવો. (Most IMP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ગ્લુકોઝ (6 કાર્બન) સૌપ્રથમ કોષરસમાં પાયરુવેટ (3 કાર્બન) માં ફેરવાય છે. ત્યારબાદ તેના વિઘટનના ત્રણ માર્ગો છે:</p><ul><li><strong>ઓક્સિજનની ગેરહાજરીમાં (યીસ્ટમાં):</strong> ઇથેનોલ + CO2 + ઉર્જા (2 ATP).</li><li><strong>ઓક્સિજનના અભાવે (સ્નાયુપેશીમાં):</strong> લેક્ટિક એસિડ + ઉર્જા. (આના કારણે સ્નાયુઓ જકડાઈ જાય છે).</li><li><strong>ઓક્સિજનની હાજરીમાં (કણાભસૂત્રમાં):</strong> CO2 + પાણી + ઉર્જા (38 ATP).</li></ul><svg width='100%' height='150' viewBox='0 0 500 150'><rect x='10' y='50' width='80' height='30' fill='#ecf0f1' stroke='#2c3e50'/><text x='15' y='70' font-size='12'>ગ્લુકોઝ</text><line x1='90' y1='65' x2='150' y2='65' stroke='black' marker-end='url(#arrow)'/><rect x='150' y='50' width='80' height='30' fill='#ecf0f1' stroke='#2c3e50'/><text x='155' y='70' font-size='12'>પાયરુવેટ</text><line x1='230' y1='65' x2='300' y2='20' stroke='black'/><text x='310' y='20' font-size='12'>યીસ્ટ (ઇથેનોલ)</text><line x1='230' y1='65' x2='300' y2='65' stroke='black'/><text x='310' y='70' font-size='12'>સ્નાયુ (લેક્ટિક એસિડ)</text><line x1='230' y1='65' x2='300' y2='110' stroke='black'/><text x='310' y='120' font-size='12'>કણાભસૂત્ર (CO2+H2O)</text></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાજરીમાં CO2, ગેરહાજરીમાં દારૂ (ઇથેનોલ), અને ખેંચાણ થાય ત્યારે એસિડ (લેક્ટિક).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 4,
+      "question": "મનુષ્યનું શ્વસનતંત્ર સમજાવી, વાયુકોષ્ઠોના કાર્યનું મહત્વ સ્પષ્ટ કરો. (March - 2021)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>મનુષ્યના શ્વસનતંત્રના મુખ્ય ભાગો:</p><ul><li><strong>નસકોરાં અને નાસિકા માર્ગ:</strong> હવા ગળાય છે અને ગરમ થાય છે.</li><li><strong>ગળાના અંગો:</strong> કંઠનળી, સ્વરયંત્ર અને શ્વાસનળી. શ્વાસનળીમાં 'C' આકારની કાસ્થિમય કડીઓ હોય છે જે હવા ન હોય ત્યારે તેને સંકોચાતી અટકાવે છે.</li><li><strong>ફેફસાં:</strong> શ્વાસનળી વિભાજિત થઈ શ્વાસવાહિની અને અંતે 'વાયુકોષ્ઠો' માં પરિણમે છે.</li><li><strong>વાયુકોષ્ઠો:</strong> તે ફુગ્ગા જેવી રચના છે જે વાયુ વિનિમય માટે સપાટી પૂરી પાડે છે. તેની દીવાલ ખૂબ પાતળી અને રુધિરકેશિકાઓથી ઘેરાયેલી હોય છે, જ્યાં O2 અને CO2 ની આપ-લે થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયુકોષ્ઠો = ગેસ એક્સચેન્જ સેન્ટર. જો તેને ખોલવામાં આવે તો તે 80 ચોરસ મીટર જેટલી જગ્યા રોકે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Page 88</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 4,
+      "question": "વનસ્પતિમાં પાણી અને ખોરાકના વહનની ક્રિયા વિગતવાર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>પાણીનું વહન (જલવાહક):</strong> મૂળ દ્વારા શોષાયેલ પાણી અને ખનીજ ક્ષારોનું વહન જલવાહિની અને જલવાહિનિકી દ્વારા થાય છે. બાષ્પોત્સર્જનના કારણે સર્જાતા ખેંચાણ (Suction) ને લીધે પાણી ઊંચા વૃક્ષોમાં ઉપર સુધી ચઢે છે.</li><li><strong>ખોરાકનું વહન (અન્નવાહક):</strong> પર્ણોમાં તૈયાર થયેલ ખોરાક (સુક્રોઝ) નું વહન અન્નવાહક પેશી દ્વારા થાય છે, જેને 'સ્થળાંતર' કહે છે.</li><li>સ્થળાંતર એ ઉર્જા (ATP) નો ઉપયોગ કરીને થતી સક્રિય પ્રક્રિયા છે. તે ઉપર અને નીચે બંને દિશામાં થઈ શકે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જલવાહક = 'જ' થી જળ (ફક્ત ઉપર તરફ), અન્નવાહક = 'અ' થી અન્ન (બધી દિશામાં).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept Note</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 4,
+      "question": "અમીબામાં પોષણ પદ્ધતિ આકૃતિ દોરી સવિસ્તાર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અમીબા એકકોષી પ્રાણી છે અને તે 'ખોટા પગ' દ્વારા પોષણ મેળવે છે:</p><ul><li><strong>ગ્રહણ:</strong> ખોરાકના કણની નજીક અમીબા તેના ખોટા પગ (Pseudopodia) ફેલાવે છે અને ખોરાકને ઘેરી લે છે.</li><li><strong>અન્નધાની:</strong> ખોરાક કોષની અંદર જાય ત્યારે 'અન્નધાની' બને છે.</li><li><strong>પાચન:</strong> અન્નધાનીમાં જટિલ પદાર્થોનું સરળ પદાર્થોમાં વિઘટન થાય છે.</li><li><strong>શોષણ અને પરિપાચન:</strong> પાચિત ખોરાક કોષરસમાં પ્રસરે છે અને અમીબાની વૃદ્ધિ માટે વપરાય છે.</li><li><strong>મળોત્સર્જન:</strong> ન પચેલો ખોરાક કોષની સપાટી તરફ ગતિ કરે છે અને બહાર ફેંકાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમીબાનો કોઈ ચોક્કસ આકાર નથી, તેથી તે ગમે ત્યાંથી ખોરાક પકડી શકે અને ગમે ત્યાંથી કચરો બહાર કાઢી શકે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> IMP for Board Exams</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 4,
+      "question": "તફાવત આપો: જારક શ્વસન અને અજારક શ્વસન. (૪ મુદ્દા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><table border='1' style='width:100%; border-collapse: collapse; text-align: left;'><tr style='background-color:#16a085; color:white;'><th>મુદ્દો</th><th>જારક શ્વસન</th><th>અજારક શ્વસન</th></tr><tr><td>ઓક્સિજન</td><td>O2 ની હાજરીમાં થાય છે.</td><td>O2 ની ગેરહાજરીમાં થાય છે.</td></tr><tr><td>અંતિમ નીપજ</td><td>CO2 અને પાણી ઉત્પન્ન થાય છે.</td><td>ઇથેનોલ અથવા લેક્ટિક એસિડ ઉત્પન્ન થાય છે.</td></tr><tr><td>ઉર્જા</td><td>વધારે પ્રમાણમાં ઉર્જા (38 ATP) મુક્ત થાય છે.</td><td>ખૂબ ઓછી ઉર્જા (2 ATP) મુક્ત થાય છે.</td></tr><tr><td>સ્થાન</td><td>કોષરસ અને કણાભસૂત્રમાં થાય છે.</td><td>માત્ર કોષરસમાં થાય છે.</td></tr></table><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જારક = જીવવું (વધુ શક્તિ), અજારક = આળસ (ઓછી શક્તિ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Essential</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 4,
+      "question": "રુધિરદાબ (Blood Pressure) એટલે શું? સિસ્ટોલિક અને ડાયાસ્ટોલિક દબાણ સમજાવી તેના માપન વિશે જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>વ્યાખ્યા:</strong> રુધિરવાહિનીઓની દીવાલ પર રુધિર દ્વારા જે દબાણ લાગે છે તેને રુધિરદાબ કહે છે. આ દબાણ ધમનીઓમાં શિરાઓ કરતા વધારે હોય છે.</li><li><strong>સિસ્ટોલિક દબાણ:</strong> ક્ષેપકના સંકોચન દરમિયાન ધમનીમાં જે દબાણ હોય તેને સિસ્ટોલિક દબાણ કહે છે. (સામાન્ય: 120 mm of Hg).</li><li><strong>ડાયાસ્ટોલિક દબાણ:</strong> ક્ષેપકના શિથિલન દરમિયાન ધમનીમાં જે દબાણ હોય તેને ડાયાસ્ટોલિક દબાણ કહે છે. (સામાન્ય: 80 mm of Hg).</li><li><strong>માપન:</strong> રુધિરદાબ માપવા માટે 'સ્પિગ્મોમેનોમીટર' (Sphygmomanometer) નામના સાધનનો ઉપયોગ થાય છે.</li><li><strong>હાઈ બ્લડ પ્રેશર (Hypertension):</strong> ધમનીઓના સંકોચવાને કારણે રુધિર વહનમાં અવરોધ વધે ત્યારે બીપી વધે છે, જે ધમની ફાટવાનું કારણ બની શકે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 120/80 - ઉપરનું વધારે (સંકોચન), નીચેનું ઓછું (શિથિલન).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB General Knowledge / Science Ch-5</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 4,
+      "question": "લસિકા (Lymph) એટલે શું? તેનું નિર્માણ અને કાર્યો સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>નિર્માણ:</strong> રુધિરકેશિકાઓની દીવાલમાં આવેલા છિદ્રો દ્વારા રુધિરરસ, પ્રોટીન અને રુધિરકોષો આંતરકોષીય સ્થાનોમાં આવે છે, તેને લસિકા કહે છે.</li><li><strong>રંગ:</strong> લસિકા રંગહીન પ્રવાહી છે અને તેમાં પ્રોટીનનું પ્રમાણ રુધિર કરતા ઓછું હોય છે.</li><li><strong>વહન:</strong> લસિકા આંતરકોષીય સ્થાનોમાંથી લસિકા નલિકાઓમાં અને અંતે મોટી શિરામાં ઠલવાય છે.</li><li><strong>કાર્યો:</strong> <br>1. તે પાચિત ચરબીનું વહન કરે છે.<br>2. વધારાના પ્રવાહીને કોષોની બહારથી પાછું રુધિરમાં લાવે છે.<br>3. રોગ પ્રતિકારક શક્તિ પૂરી પાડે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લસિકા એટલે રુધિરનું 'ગળાયેલું' સ્વરૂપ (વગરનું હિમોગ્લોબિન).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Important Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 4,
+      "question": "સ્વયંપોષી પોષણ એટલે શું? તેના માટે જરૂરી શરતો અને તેની ઉપપેદાશો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>વ્યાખ્યા:</strong> જે સજીવો અકાર્બનિક સ્ત્રોત (CO2 અને પાણી) માંથી પોતાનો ખોરાક જાતે બનાવે તેને સ્વયંપોષી કહે છે (દા.ત. લીલી વનસ્પતિ).</li><li><strong>પ્રકાશસંશ્લેષણના તબક્કા:</strong><br>1. ક્લોરોફિલ દ્વારા પ્રકાશ ઉર્જાનું શોષણ.<br>2. પ્રકાશ ઉર્જાનું રાસાયણિક ઉર્જામાં રૂપાંતર અને પાણીના અણુનું H2 અને O2 માં વિઘટન.<br>3. CO2 નું કાર્બોદિત (ગ્લુકોઝ) માં રિડક્શન.</li><li><strong>ઉપપેદાશ:</strong> આ પ્રક્રિયામાં ઓક્સિજન (O2) આડપેદાશ તરીકે મુક્ત થાય છે, જે અન્ય સજીવો માટે પ્રાણવાયુ છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વનસ્પતિ = કિચન ઓફ નેચર. સામગ્રી: તડકો + પાણી + CO2.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 4,
+      "question": "હિમોડાયાલિસિસ (કૃત્રિમ મૂત્રપિંડ) વિશે ટૂંકનોંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જ્યારે કોઈ વ્યક્તિના બંને મૂત્રપિંડ ફેઈલ થઈ જાય, ત્યારે રુધિરમાંથી નાઈટ્રોજનયુક્ત ઉત્સર્ગ દ્રવ્યોને દૂર કરવા માટે વપરાતું સાધન એટલે કૃત્રિમ મૂત્રપિંડ.</li><li><strong>પ્રક્રિયા:</strong> દર્દીના રુધિરને અર્ધપ્રવેશશીલ પટલ ધરાવતી નલિકાઓમાંથી પસાર કરવામાં આવે છે, જે ડાયાલાઈઝિંગ પ્રવાહીમાં ડૂબેલી હોય છે.</li><li>આ પ્રવાહીનું આસૃતિ દાબ રુધિર જેવું જ હોય છે, પણ તેમાં નાઈટ્રોજનયુક્ત કચરો હોતો નથી.</li><li>પ્રસરણ દ્વારા રુધિરનો કચરો પ્રવાહીમાં જતો રહે છે અને શુદ્ધ રુધિર પાછું દર્દીના શરીરમાં દાખલ કરાય છે.</li><li><strong>તફાવત:</strong> કુદરતી મૂત્રપિંડમાં 'પુનઃશોષણ' થાય છે, જ્યારે કૃત્રિમમાં થતું નથી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાયાલિસિસ = શરીરનું ફિલ્ટર જ્યારે કિડની રજા પર હોય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Health & Science Connection GSEB</p></div>"
+    }
+  ]
+}
