@@ -587,3 +587,82 @@ var Std10_Science_3Marks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "આનુવંશિકતા",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "મેન્ડલનો એકસંકરણનો પ્રયોગ (TT x tt) સમજાવો અને F2 પેઢીનું પરિણામ જણાવો. (March - 2020, 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>મેન્ડલે વટાણાના ઊંચા (TT) અને નીચા (tt) છોડ વચ્ચે સંકરણ કરાવ્યું.</li><li><strong>F1 પેઢી:</strong> પ્રથમ પેઢીમાં બધા જ છોડ ઊંચા (Tt) પ્રાપ્ત થયા. અહીં 'T' પ્રભાવી હોવાથી 't' ની અસર દેખાતી નથી.</li><li><strong>F2 પેઢી:</strong> F1 પેઢીના છોડનું સ્વ-ફલન કરાવતા બીજી પેઢીમાં ઊંચા અને નીચા બંને છોડ 3:1 ના પ્રમાણમાં મળ્યા.</li></ul><svg width='200' height='150' viewBox='0 0 200 150'><rect x='50' y='10' width='40' height='40' fill='#fff' stroke='#333'/><text x='65' y='35'>T</text><rect x='90' y='10' width='40' height='40' fill='#fff' stroke='#333'/><text x='105' y='35'>t</text><rect x='10' y='50' width='40' height='40' fill='#fff' stroke='#333'/><text x='25' y='75'>T</text><rect x='10' y='90' width='40' height='40' fill='#fff' stroke='#333'/><text x='25' y='115'>t</text><rect x='50' y='50' width='40' height='40' fill='#e1f5fe' stroke='#333'/><text x='60' y='75'>TT</text><rect x='90' y='50' width='40' height='40' fill='#e1f5fe' stroke='#333'/><text x='100' y='75'>Tt</text><rect x='50' y='90' width='40' height='40' fill='#e1f5fe' stroke='#333'/><text x='60' y='115'>Tt</text><rect x='90' y='90' width='40' height='40' fill='#ffebee' stroke='#333'/><text x='100' y='115'>tt</text></svg><p><strong>પરિણામ:</strong> લક્ષણ પ્રકાર પ્રમાણ = 3 (ઊંચા) : 1 (નીચા). જનીન પ્રકાર પ્રમાણ = 1 (TT) : 2 (Tt) : 1 (tt).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3:1 યાદ રાખવા માટે 'ઊંચા ભાઈઓ વધુ છે' તેમ યાદ રાખો!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP / NCERT Page 143</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "મનુષ્યમાં લિંગ નિશ્ચયનની ઘટના આકૃતિ સહ સમજાવો. (Aug - 2020, March - 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>મનુષ્યમાં 23 જોડ રંગસૂત્રો હોય છે, જેમાં 22 જોડ દૈહિક અને 1 જોડ લિંગી રંગસૂત્રો હોય છે.</li><li>સ્ત્રીમાં લિંગી રંગસૂત્રોની જોડ <strong>XX</strong> હોય છે, જ્યારે પુરુષમાં <strong>XY</strong> હોય છે.</li><li>જો પિતા તરફથી <strong>X</strong> રંગસૂત્ર ધરાવતું શુક્રકોષ માતાના અંડકોષ (X) સાથે ફલન કરે, તો બાળક 'છોકરી' (XX) બને છે.</li><li>જો પિતા તરફથી <strong>Y</strong> રંગસૂત્ર ધરાવતું શુક્રકોષ ફલન કરે, તો બાળક 'છોકરો' (XY) બને છે.</li></ul><svg width='250' height='120'><text x='10' y='20' fill='blue'>પુરુષ (XY)</text><text x='150' y='20' fill='red'>સ્ત્રી (XX)</text><line x1='40' y1='30' x2='80' y2='60' stroke='black'/><line x1='180' y1='30' x2='120' y2='60' stroke='black'/><text x='70' y='80' font-weight='bold'>XX (છોકરી) / XY (છોકરો)</text></svg><p>આમ, મનુષ્યમાં લિંગ નિશ્ચયન માટે પિતાનું રંગસૂત્ર જવાબદાર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: X + X = છોકરી, X + Y = છોકરો. પિતા જ લિંગ નક્કી કરે છે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Most IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "તફાવત આપો: આનુવંશિક લક્ષણો અને અર્જિત લક્ષણો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><table border='1' style='width:100%; border-collapse: collapse; text-align: left;'><tr style='background-color: #16a085; color: white;'><th>આનુવંશિક લક્ષણો</th><th>અર્જિત લક્ષણો</th></tr><tr><td>આ લક્ષણો જનીનો દ્વારા વારસામાં મળે છે.</td><td>આ લક્ષણો પર્યાવરણ દ્વારા જીવનકાળ દરમિયાન મેળવાય છે.</td></tr><tr><td>તે જનન કોષોના DNA માં ફેરફાર કરે છે.</td><td>તે દૈહિક કોષોમાં ફેરફાર કરે છે, DNA માં નહીં.</td></tr><tr><td>તે આગામી પેઢીમાં ઉતરી આવે છે.</td><td>તે આગામી પેઢીમાં ઉતરી આવતા નથી.</td></tr><tr><td>દા.ત. આંખનો રંગ, વાળનો પ્રકાર.</td><td>દા.ત. જ્ઞાન મેળવવું, વજન ઘટવું, તરતા શીખવું.</td></tr></table><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જનીન બદલાય તો આનુવંશિક, પણ બહારથી શીખીએ તો અર્જિત!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "મેન્ડલે તેના પ્રયોગો માટે વટાણાના છોડની પસંદગી શા માટે કરી? કોઈ પણ ત્રણ કારણો આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>મેન્ડલે વટાણા (Pisum sativum) ની પસંદગી નીચેના કારણોસર કરી હતી:</p><ul><li><strong>સ્પષ્ટ લક્ષણો:</strong> વટાણામાં વિરોધાભાસી લક્ષણોની સ્પષ્ટ જોડ (જેમ કે ઊંચા-નીચા, ગોળ-ખરબચડા બીજ) જોવા મળે છે.</li><li><strong>ટુંકું જીવનચક્ર:</strong> વટાણાનો છોડ એકવર્ષાયુ છે, તેથી ટૂંકા સમયમાં અનેક પેઢીઓનો અભ્યાસ શક્ય બને છે.</li><li><strong>સરળ સંકરણ:</strong> તેમાં કુદરતી રીતે સ્વ-ફલન થાય છે, પરંતુ કૃત્રિમ રીતે પર-ફલન પણ સરળતાથી કરાવી શકાય છે.</li><li><strong>વધુ સંતતિ:</strong> એક જ પેઢીમાં ઘણા બધા બીજ પ્રાપ્ત થાય છે, જેથી આંકડાકીય વિશ્લેષણ ચોકસાઈપૂર્વક થઈ શકે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્પષ્ટ લક્ષણ, ટૂંકું આયુષ્ય, વધુ સંતાન' - વટાણાની ઓળખ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "જનીનો કેવી રીતે લક્ષણોનું નિયંત્રણ કરે છે? પ્રક્રિયા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કોષમાં લક્ષણોના નિયંત્રણની પ્રક્રિયા નીચે મુજબ છે:</p><ul><li><strong>DNA ની માહિતી:</strong> કોષના કેન્દ્રમાં રહેલા DNA માં પ્રોટીન સંશ્લેષણ માટેની માહિતી હોય છે. DNA ના ચોક્કસ ખંડને 'જનીન' કહે છે.</li><li><strong>પ્રોટીન અને ઉત્સેચકો:</strong> જનીન જે તે પ્રકારનું પ્રોટીન કે ઉત્સેચક બનાવે છે. આ ઉત્સેચક જૈવિક ક્રિયાઓનું નિયંત્રણ કરે છે.</li><li><strong>લક્ષણનું પ્રદર્શન:</strong> જો ઉત્સેચક કાર્યક્ષમ રીતે બને, તો તે ચોક્કસ અંતઃસ્ત્રાવ કે લક્ષણ ઉત્પન્ન કરે છે.</li><li><strong>દાખલા તરીકે:</strong> વટાણામાં ઊંચાઈ માટેનો ઉત્સેચક વધુ બને તો છોડ ઊંચો થાય છે, અને જો ઉત્સેચક ઓછો બને તો છોડ નીચો રહે છે.</li></ul><p>આમ, <strong>જનીન -> પ્રોટીન -> ઉત્સેચક -> લક્ષણ.</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: DNA એ 'રેસિપી' છે અને પ્રોટીન એ 'વાનગી' (લક્ષણ) છે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Page 145</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "પ્રભાવી લક્ષણો અને પ્રચ્છન્ન લક્ષણો એટલે શું? ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>પ્રભાવી લક્ષણો (Dominant Traits):</strong> જે લક્ષણો વિષમયુગ્મી અવસ્થામાં (દા.ત. Tt) પોતાની અભિવ્યક્તિ દર્શાવે છે તેને પ્રભાવી લક્ષણો કહે છે. વટાણામાં 'ઊંચાઈ' (T) એ પ્રભાવી લક્ષણ છે.</li><li><strong>પ્રચ્છન્ન લક્ષણો (Recessive Traits):</strong> જે લક્ષણો માત્ર સમયુગ્મી અવસ્થામાં (દા.ત. tt) જ પોતાની અભિવ્યક્તિ દર્શાવે છે અને પ્રભાવી જનીનની હાજરીમાં દબાઈ જાય છે, તેને પ્રચ્છન્ન લક્ષણો કહે છે. વટાણામાં 'નીચો છોડ' (t) એ પ્રચ્છન્ન લક્ષણ છે.</li><li>મેન્ડલના પ્રયોગમાં F1 પેઢીમાં માત્ર પ્રભાવી લક્ષણ જ દેખાય છે, જ્યારે F2 પેઢીમાં પ્રચ્છન્ન લક્ષણ પુનઃ દેખાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રભાવી એટલે 'દાદાગીરી કરતું જનીન' અને પ્રચ્છન્ન એટલે 'શાંત જનીન'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "મેન્ડલનો સ્વતંત્ર વહેંચણીનો નિયમ (Law of Independent Assortment) ટૂંકમાં સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જ્યારે બે કે તેથી વધુ લક્ષણોની જોડ ધરાવતા છોડ વચ્ચે સંકરણ કરાવવામાં આવે, ત્યારે દરેક લક્ષણના જનીનો સ્વતંત્ર રીતે સંતતિમાં ઉતરી આવે છે.</li><li>મેન્ડલે ગોળ-પીળા (RRYY) અને ખરબચડા-લીલા (rryy) બીજ વચ્ચે સંકરણ કરાવ્યું.</li><li>F2 પેઢીમાં માત્ર પિતૃ જેવા જ નહીં, પણ નવા સંયોજનો (ગોળ-લીલા અને ખરબચડા-પીળા) પણ જોવા મળ્યા.</li><li>આ સાબિત કરે છે કે બીજનો રંગ અને બીજનો આકાર એકબીજા પર આધાર રાખતા નથી, પણ સ્વતંત્ર રીતે વારસામાં આવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરેક લક્ષણ પોતાની મરજીનો માલિક છે, તે કોઈની સાથે બંધાયેલું નથી!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textual Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "ભિન્નતા (Variation) એટલે શું? લિંગી પ્રજનનમાં ભિન્નતાનું મહત્વ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>વ્યાખ્યા:</strong> એક જ જાતિના સજીવો વચ્ચે જોવા મળતા નાના-મોટા તફાવતોને ભિન્નતા કહે છે.</li><li><strong>મહત્વ:</strong></li><li>1. ભિન્નતા સજીવોને બદલાતા પર્યાવરણમાં ટકી રહેવા માટે મદદરૂપ થાય છે.</li><li>2. લિંગી પ્રજનન દરમિયાન DNA ના નકલીકરણમાં આવતી ખામીઓ અને જનીનોના નવા સંયોજનોને કારણે વધુ ભિન્નતા સર્જાય છે.</li><li>3. લાંબા ગાળે આ ભિન્નતાઓ નવી જાતિના ઉદવિકાસ માટે પાયો પૂરો પાડે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભિન્નતા = જીવિત રહેવાની જડીબુટ્ટી!</p><p style='color:#64='64748b; font-size:14px;'><strong>Reference:</strong> GSEB Basic Science</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "જનીન પ્રકાર (Genotype) અને લક્ષણ પ્રકાર (Phenotype) વચ્ચેનો તફાવત સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>લક્ષણ પ્રકાર (Phenotype):</strong> સજીવના બાહ્ય દેખાવને લક્ષણ પ્રકાર કહે છે. દા.ત. છોડ ઊંચો છે કે નીચો તે જોઈને ખબર પડે.</li><li><strong>જનીન પ્રકાર (Genotype):</strong> સજીવમાં રહેલા જનીનોના બંધારણને જનીન પ્રકાર કહે છે. દા.ત. ઊંચા છોડ માટે જનીન બંધારણ TT અથવા Tt હોઈ શકે.</li><li>મેન્ડલના F2 પ્રયોગમાં લક્ષણ પ્રકાર પ્રમાણ 3:1 હતું, જ્યારે જનીન પ્રકાર પ્રમાણ 1:2:1 હતું.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે બહારથી દેખાય તે Phenotype (Physical), જે અંદર છુપાયેલું છે તે Genotype (Genetic)!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "એક સંકરણના પ્રયોગમાં F2 પેઢીમાં 1:2:1 પ્રમાણ કેવી રીતે મળે છે? સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જ્યારે F1 પેઢીના વિષમયુગ્મી (Tt) છોડ વચ્ચે સ્વ-ફલન થાય છે, ત્યારે:</p><ul><li>1. 25% સંતતિ શુદ્ધ ઊંચા (TT) બને છે.</li><li>2. 50% સંતતિ અશુદ્ધ ઊંચા (Tt) બને છે.</li><li>3. 25% સંતતિ શુદ્ધ નીચા (tt) બને છે.</li></ul><p>આથી જનીન પ્રકારનું પ્રમાણ 1 (TT) : 2 (Tt) : 1 (tt) થાય છે. જોકે બાહ્ય દેખાવમાં TT અને Tt બંને ઊંચા જ દેખાય છે, તેથી લક્ષણ પ્રકાર 3:1 મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગણિતની રીતે (T+t)² = T² + 2Tt + t² યાદ રાખો!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Deep Study</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 3,
+      "question": "રંગસૂત્રો શું છે? આનુવંશિકતામાં તેમનો ફાળો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>રંગસૂત્રો:</strong> કોષકેન્દ્રમાં રહેલી દોરી જેવી રચનાઓ છે જે DNA અને પ્રોટીનની બનેલી હોય છે.</li><li><strong>માહિતીનું વહન:</strong> તે પિતૃ પેઢીમાંથી સંતતિમાં આનુવંશિક માહિતીનું વહન કરે છે.</li><li><strong>જનીનોનું સ્થાન:</strong> રંગસૂત્રો પર જનીનો આવેલા હોય છે, જે ચોક્કસ લક્ષણોનું નિયંત્રણ કરે છે.</li><li>દરેક સજીવમાં રંગસૂત્રોની સંખ્યા નિશ્ચિત હોય છે, જે જાતિની ઓળખ જાળવી રાખે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રંગસૂત્ર એ 'ટ્રક' છે અને જનીન એ તેમાં રહેલો 'સામાન' છે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Prep</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 3,
+      "question": "શા માટે લિંગી પ્રજનન કરતા સજીવોમાં સંતતિમાં રંગસૂત્રોની સંખ્યા જળવાઈ રહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>લિંગી પ્રજનન કરનારા સજીવોમાં વિશિષ્ટ 'જનન કોષો' (શુક્રકોષ અને અંડકોષ) બને છે.</li><li>અર્ધસૂત્રીભાજનની પ્રક્રિયા દ્વારા આ કોષોમાં રંગસૂત્રોની સંખ્યા અડધી (n) થઈ જાય છે.</li><li>જ્યારે નર જનન કોષ (n) અને માદા જનન કોષ (n) નું ફલન થાય છે, ત્યારે બનતા યુગ્મનજમાં રંગસૂત્રોની સંખ્યા પુનઃ પિતૃ જેટલી (2n) થઈ જાય છે.</li><li>આ રીતે પેઢી દર પેઢી રંગસૂત્રોની સંખ્યા અચળ જળવાઈ રહે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધું (પિતા) + અડધું (માતા) = આખું (બાળક)!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Logic</p></div>"
+    }
+  ]
+}
