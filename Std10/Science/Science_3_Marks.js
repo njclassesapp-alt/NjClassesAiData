@@ -314,3 +314,100 @@ var Std10_Science_3Marks = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "જૈવિક ક્રિયાઓ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "જારક શ્વસન અને અજારક શ્વસન વચ્ચેનો તફાવત આપો. (March - 2020, 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><table border='1' style='width:100%; border-collapse: collapse; text-align: left;'><tr style='background-color: #16a085; color: white;'><th>મુદ્દો</th><th>જારક શ્વસન</th><th>અજારક શ્વસન</th></tr><tr><td>ઓક્સિજન</td><td>ઓક્સિજનની હાજરીમાં થાય છે.</td><td>ઓક્સિજનની ગેરહાજરીમાં થાય છે.</td></tr><tr><td>અંતિમ નીપજ</td><td>CO₂, પાણી અને ઉર્જા મુક્ત થાય છે.</td><td>લેક્ટિક એસિડ અથવા ઇથેનોલ અને CO₂ મળે છે.</td></tr><tr><td>શક્તિ (ATP)</td><td>વધુ માત્રામાં ઉર્જા (38 ATP) મુક્ત થાય છે.</td><td>ખૂબ ઓછી માત્રામાં ઉર્જા (2 ATP) મુક્ત થાય છે.</td></tr><tr><td>સ્થાન</td><td>કોષરસ અને કણાભસૂત્રમાં થાય છે.</td><td>માત્ર કોષરસમાં જ થાય છે.</td></tr></table><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જારક' એટલે હાજર (O₂), 'અજારક' એટલે ગેરહાજર. જારક વધુ શક્તિશાળી છે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board 2020, 2023</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "પ્રકાશસંશ્લેષણ એટલે શું? તેની રાસાયણિક પ્રક્રિયા લખી તેમાં થતી ઘટનાઓ જણાવો. (July - 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>લીલી વનસ્પતિ સૂર્યપ્રકાશ અને ક્લોરોફિલની હાજરીમાં પાણી અને CO₂ નો ઉપયોગ કરી ખોરાક બનાવે તેને પ્રકાશસંશ્લેષણ કહે છે.</p><p><strong>રાસાયણિક સમીકરણ:</strong><br>6CO₂ + 12H₂O + સૂર્યપ્રકાશ + ક્લોરોફિલ → C₆H₁₂O₆ + 6O₂ + 6H₂O</p><p><strong>મુખ્ય ત્રણ ઘટનાઓ:</strong></p><ul><li>1. ક્લોરોફિલ દ્વારા પ્રકાશ ઉર્જાનું શોષણ થવું.</li><li>2. પ્રકાશ ઉર્જાનું રાસાયણિક ઉર્જામાં રૂપાંતર અને પાણીના અણુઓનું હાઇડ્રોજન તથા ઓક્સિજનમાં વિઘટન.</li><li>3. કાર્બન ડાયોક્સાઇડનું કાર્બોદિત (ગ્લુકોઝ) માં રિડક્શન થવું.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શોષણ -> રૂપાંતર -> રિડક્શન (SRR ટ્રીક)</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board 2022</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "વિવિધ પરિપથો દ્વારા ગ્લુકોઝનું વિઘટન સમજાવો. (આકૃતિ/ચાર્ટ જરૂરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ગ્લુકોઝ (6 કાર્બન) નું કોષરસમાં પાયરુવેટ (3 કાર્બન) માં રૂપાંતર થાય છે. ત્યારબાદ નીચે મુજબ 3 રીતે વિઘટન થાય છે:</p><svg viewBox='0 0 500 200' xmlns='http://www.w3.org/2000/svg'><rect x='10' y='80' width='80' height='30' fill='#e74c3c'/><text x='15' y='100' font-size='12' fill='white'>ગ્લુકોઝ</text><line x1='90' y1='95' x2='140' y2='95' stroke='black' marker-end='arrow'/><rect x='140' y='80' width='80' height='30' fill='#3498db'/><text x='145' y='100' font-size='12' fill='white'>પાયરુવેટ</text><line x1='220' y1='95' x2='280' y2='40' stroke='black'/><text x='290' y='40' font-size='12'>O₂ ગેરહાજરી (ઈસ્ટ) -> ઈથેનોલ + CO₂ + ઉર્જા</text><line x1='220' y1='95' x2='280' y2='95' stroke='black'/><text x='290' y='100' font-size='12'>O₂ અભાવ (સ્નાયુ) -> લેક્ટિક એસિડ + ઉર્જા</text><line x1='220' y1='95' x2='280' y2='150' stroke='black'/><text x='290' y='160' font-size='12'>O₂ હાજરી (કણાભસૂત્ર) -> CO₂ + H₂O + ઉર્જા</text></svg><ul><li>1. ઓક્સિજનની ગેરહાજરીમાં (ઈસ્ટ): ઈથેનોલ, CO₂ અને ઉર્જા ઉત્પન્ન થાય છે.</li><li>2. ઓક્સિજનના અભાવે (સ્નાયુકોષ): લેક્ટિક એસિડ અને ઉર્જા ઉત્પન્ન થાય છે (જેનાથી સ્નાયુ જકડાઈ જાય છે).</li><li>3. ઓક્સિજનની હાજરીમાં (કણાભસૂત્ર): CO₂, પાણી અને પુષ્કળ ઉર્જા ઉત્પન્ન થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈસ્ટ=દારૂ(ઈથેનોલ), સ્નાયુ=દુખાવો(લેક્ટિક), કણાભસૂત્ર=પાવર હાઉસ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise / IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "ધમની અને શિરા વચ્ચેના તફાવતના ત્રણ મુદ્દા લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><table border='1' style='width:100%; border-collapse: collapse;'> <tr style='background-color: #16a085; color: white;'><th>ધમની</th><th>શિરા</th></tr><tr><td>હૃદયથી શરીરના અંગો તરફ રુધિર લઈ જાય છે.</td><td>શરીરના અંગોથી હૃદય તરફ રુધિર લાવે છે.</td></tr><tr><td>તેની દીવાલ જાડી અને સ્થિતિસ્થાપક હોય છે.</td><td>તેની દીવાલ પાતળી અને ઓછી સ્થિતિસ્થાપક હોય છે.</td></tr><tr><td>તેમાં વાલ્વ હોતા નથી (ફુપ્ફુસ ધમની સિવાય શુદ્ધ રુધિર).</td><td>તેમાં રુધિરને એક જ દિશામાં રાખવા વાલ્વ હોય છે.</td></tr></table><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધમની = 'ધ' થી 'ધકધક' (હૃદયથી દૂર), શિરા = શરીરથી હૃદય તરફ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT / NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "અમીબામાં પોષણ પદ્ધતિ આકૃતિ સહ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અમીબા એકકોષી સજીવ છે અને તે ખોરાક ગ્રહણ કરવા માટે કોષીય સપાટી પરથી કામચલાઉ આંગળી જેવા પ્રવર્ધો (ખોટા પગ) બનાવે છે.</p><ul><li>1. <strong>ખોરાક ગ્રહણ:</strong> ખોટા પગ ખોરાકના કણને ઘેરી લે છે અને અન્નધાની બનાવે છે.</li><li>2. <strong>પાચન:</strong> અન્નધાનીમાં જટિલ પદાર્થોનું સરળ પદાર્થોમાં વિઘટન થાય છે, જે કોષરસમાં પ્રસરણ પામે છે.</li><li>3. <strong>ઉત્સર્જન:</strong> વધેલો અપાચિત ખોરાક કોષની સપાટી તરફ ગતિ કરે છે અને બહાર ફેંકાય છે.</li></ul><svg width='200' height='100' viewBox='0 0 200 100'><path d='M10,50 Q30,10 60,30 T90,50 T60,80 T10,50' fill='none' stroke='blue' stroke-width='2'/><circle cx='50' cy='50' r='5' fill='black'/><circle cx='80' cy='45' r='3' fill='red'/><text x='100' y='50' font-size='10'>ખોટો પગ અને ખોરાક</text></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમીબા = ખોટા પગ + અન્નધાની + પ્રસરણ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "જઠરમાં થતી પાચનક્રિયા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જઠરની દીવાલમાં આવેલી જઠરગ્રંથિઓ જઠરરસનો સ્ત્રાવ કરે છે, જેમાં ત્રણ મુખ્ય ઘટકો હોય છે:</p><ul><li><strong>1. મંદ હાઇડ્રોક્લોરિક એસિડ (HCl):</strong> તે એસિડિક માધ્યમ પૂરું પાડે છે જે પેપ્સિન ઉત્સેચકની પ્રક્રિયામાં મદદ કરે છે અને ખોરાકમાંના બેક્ટેરિયાનો નાશ કરે છે.</li><li><strong>2. પેપ્સિન:</strong> તે પ્રોટીનનું પાચન કરતો ઉત્સેચક છે. તે માત્ર એસિડિક માધ્યમમાં જ સક્રિય થાય છે.</li><li><strong>3. શ્લેષ્મ (Mucus):</strong> તે જઠરની આંતરિક દીવાલને એસિડ અને પેપ્સિનની અસર સામે રક્ષણ આપે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જઠર = H.P.M (HCl, Pepsin, Mucus).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "રસાંકુરો એટલે શું? તેનું સ્થાન અને કાર્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>વ્યાખ્યા:</strong> નાના આંતરડાના આંતરિક સ્તરમાં આવેલી આંગળી જેવા અસંખ્ય પ્રવર્ધોને રસાંકુરો (Villi) કહે છે.</li><li><strong>સ્થાન:</strong> તે નાના આંતરડાની અંદરની દીવાલમાં આવેલા હોય છે.</li><li><strong>કાર્ય:</strong><br>1. તે ખોરાકના શોષણ માટે સપાટીનું ક્ષેત્રફળ વધારે છે.<br>2. રસાંકુરોમાં રુધિરવાહિનીઓનું જાળું હોય છે, જે પાચિત ખોરાકનું શોષણ કરી રુધિરમાં ભેળવે છે.<br>3. આ રુધિર દ્વારા ખોરાક શરીરના દરેક કોષ સુધી પહોંચે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસાંકુરો = સોસણ વધારનાર (Area Maximizer).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "જલવાહક અને અન્નવાહક પેશી વચ્ચેનો તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><table border='1' style='width:100%; border-collapse: collapse;'> <tr style='background-color: #16a085; color: white;'><th>જલવાહક પેશી</th><th>અન્નવાહક પેશી</th></tr><tr><td>તે પાણી અને ખનીજ ક્ષારોનું વહન કરે છે.</td><td>તે પર્ણોમાં બનેલા ખોરાકનું વહન કરે છે.</td></tr><tr><td>વહન માત્ર નીચેથી ઉપરની તરફ (એક જ દિશામાં) થાય છે.</td><td>વહન ઉપર અને નીચે બંને દિશાઓમાં થાય છે.</td></tr><tr><td>તેમાં મુખ્યત્વે જલવાહિની અને જલવાહિનિકી હોય છે.</td><td>તેમાં ચાલની નલિકા અને સાથી કોષો હોય છે.</td></tr></table><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જ' પરથી જલ (પાણી), 'અ' પરથી અન્ન (ખોરાક).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB/NCERT</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "વનસ્પતિમાં ઉત્સર્જન સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વનસ્પતિઓ પ્રાણીઓની જેમ ઉત્સર્જન તંત્ર ધરાવતી નથી, પરંતુ તે નીચેની રીતે ઉત્સર્જન કરે છે:</p><ul><li>1. <strong>વાયુઓ:</strong> પ્રકાશસંશ્લેષણ દરમિયાન વધારાનો O₂ અને શ્વસન દરમિયાન CO₂ પર્ણરંધ્ર દ્વારા મુક્ત થાય છે.</li><li>2. <strong>બાષ્પોત્સર્જન:</strong> વધારાનું પાણી બાષ્પોત્સર્જન દ્વારા પર્ણરંધ્રમાંથી દૂર થાય છે.</li><li>3. <strong>અન્ય પદ્ધતિ:</strong> વનસ્પતિ નકામા પદાર્થોને કોષીય રસધાનીઓમાં સંગ્રહ કરે છે. કેટલાક પદાર્થો ખરી પડતા પર્ણો, ગુંદર અને રેઝિન (રાળ) સ્વરૂપે દૂર થાય છે. કેટલીક વનસ્પતિઓ નકામા પદાર્થો મૂળ દ્વારા આસપાસની ભૂમિમાં ત્યાગ કરે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્ણરંધ્ર + પાંદડા ખરવા + ગુંદર = વનસ્પતિ ઉત્સર્જન.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "લસિકા એટલે શું? તેના કાર્યો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>રુધિરકેશિકાઓની દીવાલમાં આવેલા છિદ્રો દ્વારા રુધિરરસ, પ્રોટીન અને રુધિરકોષો બહાર નીકળી કોષીય અવકાશમાં આવે છે, તેને લસિકા કહે છે. તે રંગહીન અને અલ્પ પ્રોટીન ધરાવતું પ્રવાહી છે.</p><p><strong>લસિકાના કાર્યો:</strong></p><ul><li>1. તે પાચિત અને નાના આંતરડા દ્વારા શોષાયેલ ચરબીનું વહન કરે છે.</li><li>2. તે બાહ્ય કોષીય અવકાશમાંથી વધારાનું પ્રવાહી પાછું રુધિરમાં લાવે છે.</li><li>3. લસિકામાં રહેલા લિમ્ફોસાઇટ્સ રોગપ્રતિકારક શક્તિ પૂરી પાડે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લસિકા = સફેદ રુધિરરસ (ચરબીનું વહન + રક્ષણ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 3,
+      "question": "મનુષ્યના શ્વસનતંત્રમાં વાયુકોષ્ઠોની ભૂમિકા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ફેફસાંની અંદર ફુગ્ગા જેવી રચનાઓને વાયુકોષ્ઠો કહે છે.</p><ul><li>1. <strong>સપાટી પૂરી પાડવી:</strong> વાયુકોષ્ઠો વાયુઓના વિનિમય (આપ-લે) માટે વિશાળ સપાટી પૂરી પાડે છે. જો આ બધી સપાટીને ફેલાવવામાં આવે તો તે આશરે 80 ચોરસ મીટર જેટલી થાય.</li><li>2. <strong>રુધિર સંપર્ક:</strong> વાયુકોષ્ઠોની દીવાલ પર રુધિરકેશિકાઓનું વ્યાપક જાળું હોય છે.</li><li>3. <strong>વાયુ વિનિમય:</strong> રુધિરમાંનો CO₂ વાયુકોષ્ઠમાં મુક્ત થાય છે અને હવામાંનો O₂ રુધિરકેશિકાઓમાં શોષાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયુકોષ્ઠો = ગેસ એક્સચેન્જ સેન્ટર (ફુગ્ગા).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 3,
+      "question": "સ્થળચર પ્રાણીઓ અને જળચર પ્રાણીઓમાં શ્વાસ લેવાનો દર શા માટે અલગ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જળચર પ્રાણીઓ પાણીમાં ઓગળેલા ઓક્સિજનનો ઉપયોગ કરે છે. પાણીમાં ઓગળેલા ઓક્સિજનનું પ્રમાણ હવામાંના ઓક્સિજનના પ્રમાણ કરતા ઘણું ઓછું હોય છે.</li><li>તેથી, પૂરતો ઓક્સિજન મેળવવા માટે જળચર પ્રાણીઓને ઝડપથી શ્વાસ લેવો પડે છે.</li><li>જ્યારે સ્થળચર પ્રાણીઓ સીધો હવામાંનો ઓક્સિજન લે છે, જે પૂરતા પ્રમાણમાં ઉપલબ્ધ હોવાથી તેમનો શ્વસન દર જળચર પ્રાણીઓ કરતા ઓછો (ધીમો) હોય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીમાં O₂ ઓછો = શ્વાસની સ્પીડ વધુ (જેમ કે માછલી).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT In-text Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 3,
+      "question": "વનસ્પતિમાં ખોરાકનું સ્થળાંતર (Translocation) કેવી રીતે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વનસ્પતિમાં પ્રકાશસંશ્લેષણની નીપજોના વહનને સ્થળાંતર કહે છે, જે અન્નવાહક પેશી દ્વારા થાય છે:</p><ul><li>1. સ્થળાંતર માટે ATP માંથી ઉર્જાનો ઉપયોગ થાય છે.</li><li>2. જ્યારે સુક્રોઝ જેવો પદાર્થ અન્નવાહકમાં પ્રવેશ કરે છે, ત્યારે પેશીમાં આશૃતિ દાબ વધે છે.</li><li>3. આ દાબને કારણે પાણી તેમાં પ્રવેશે છે અને પદાર્થો ઓછા દબાણવાળી પેશી તરફ ગતિ કરે છે. આનાથી જરૂરિયાત મુજબ વનસ્પતિના વિવિધ ભાગો (ફળ, બીજ, મૂળ) માં ખોરાક પહોંચે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થળાંતર = અન્નવાહક + ATP + આશૃતિ દાબ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 3,
+      "question": "કૃત્રિમ કિડની (હિમોડાયાલિસિસ) વિશે ટૂંકનોંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જ્યારે કિડની નિષ્ફળ જાય ત્યારે રુધિરમાં નાઈટ્રોજનયુક્ત ઉત્સર્ગ દ્રવ્યો જમા થાય છે. તેને દૂર કરવા માટે કૃત્રિમ કિડની વપરાય છે.</li><li>કૃત્રિમ કિડનીમાં અસંખ્ય અર્ધપારગમ્ય પટલ ધરાવતી નળીઓ ડાયાલાઈઝિંગ પ્રવાહીમાં ડૂબાડેલી હોય છે.</li><li>જ્યારે દર્દીનું લોહી આ નળીઓમાંથી પસાર થાય છે, ત્યારે પ્રસરણ દ્વારા નકામા પદાર્થો (યુરિયા) ડાયાલાઈઝિંગ પ્રવાહીમાં આવે છે અને શુદ્ધ લોહી પાછું શરીરમાં દાખલ કરવામાં આવે છે.</li><li><strong>મર્યાદા:</strong> તેમાં કુદરતી કિડનીની જેમ 'પુનઃશોષણ' (Reabsorption) ની પ્રક્રિયા થતી નથી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાયાલિસિસ = મશીન દ્વારા લોહીની સફાઈ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Box Content (IMP)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 3,
+      "question": "મનુષ્યમાં 'બેવડું પરિવહન' શા માટે જરૂરી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>મનુષ્ય જેવા ગરમ રુધિરવાળા પ્રાણીઓને શરીરનું તાપમાન જાળવી રાખવા માટે વધુ ઉર્જાની જરૂર પડે છે.</li><li>આ માટે ઓક્સિજનયુક્ત રુધિર અને ઓક્સિજનવિહીન રુધિર એકબીજા સાથે ભળી ન જાય તે જરૂરી છે.</li><li>હૃદયના ચાર ખંડો હોવાને કારણે શુદ્ધ અને અશુદ્ધ લોહી અલગ રહે છે, જેનાથી ઓક્સિજનની કાર્યક્ષમ વહેંચણી શક્ય બને છે. રુધિર એક ચક્ર પૂર્ણ કરવા હૃદયમાંથી બે વાર પસાર થાય છે, તેને બેવડું પરિવહન કહે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાપમાન જાળવવું + 4 ખંડો = બેવડું પરિવહન.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept / GSEB IMP</p></div>"
+    }
+  ]
+}
