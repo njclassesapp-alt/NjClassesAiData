@@ -156,3 +156,82 @@ var Std10_Science_3Marks = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "ધાતુઓ અને અધાતુઓ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "ઉભયગુણી ઓક્સાઈડ એટલે શું? ઉભયગુણી ઓક્સાઈડના બે ઉદાહરણ આપી તેની એસિડ અને બેઇઝ સાથેની રાસાયણિક પ્રક્રિયા લખો. (March - 2020, 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>વ્યાખ્યા:</strong> જે ધાતુના ઓક્સાઈડ એસિડ અને બેઇઝ એમ બંને સાથે પ્રક્રિયા કરી ક્ષાર અને પાણી આપે છે, તેને ઉભયગુણી ઓક્સાઈડ કહે છે.</p><p><strong>ઉદાહરણ:</strong> એલ્યુમિનિયમ ઓક્સાઈડ (Al₂O₃) અને ઝિંક ઓક્સાઈડ (ZnO).</p><p><strong>Al₂O₃ ની એસિડ અને બેઇઝ સાથેની પ્રક્રિયા:</strong></p><ul><li>(i) એસિડ સાથે: Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O</li><li>(ii) બેઇઝ સાથે: Al₂O₃ + 2NaOH → 2NaAlO₂ (સોડિયમ એલ્યુમિનેટ) + H₂O</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઉભય' એટલે બંને (એસિડ + બેઇઝ). યાદ રાખો: Al અને Zn ના ઓક્સાઈડ ડબલ રોલ ભજવે છે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Paper 2020 / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "ધાતુઓની પાણી સાથેની પ્રક્રિયા સમજાવો. કઈ ધાતુઓ ઠંડા પાણી સાથે અને કઈ ગરમ પાણી સાથે પ્રક્રિયા કરે છે? (July - 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધાતુઓ પાણી સાથે પ્રક્રિયા કરીને ધાતુના ઓક્સાઈડ અને હાઈડ્રોજન વાયુ બનાવે છે. જો ધાતુનો ઓક્સાઈડ પાણીમાં દ્રાવ્ય હોય તો તે હાઈડ્રોક્સાઈડ બનાવે છે.</p><ul><li><strong>ઠંડા પાણી સાથે:</strong> સોડિયમ (Na) અને પોટેશિયમ (K) જેવી ધાતુઓ ઠંડા પાણી સાથે અત્યંત તીવ્ર પ્રક્રિયા કરે છે. <br> 2K(s) + 2H₂O(l) → 2KOH(aq) + H₂(g) + ઉષ્મા ઊર્જા</li><li><strong>ગરમ પાણી સાથે:</strong> મેગ્નેશિયમ (Mg) ઠંડા પાણી સાથે પ્રક્રિયા કરતી નથી, તે ગરમ પાણી સાથે પ્રક્રિયા કરીને Mg(OH)₂ બનાવે છે.</li><li><strong>વરાળ સાથે:</strong> એલ્યુમિનિયમ (Al) અને આયર્ન (Fe) જેવી ધાતુઓ માત્ર પાણીની વરાળ સાથે પ્રક્રિયા કરે છે. <br> 2Al(s) + 3H₂O(g) → Al₂O₃(s) + 3H₂(g)</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Na/K (ઠંડુ), Mg (ગરમ), Al/Fe (વરાળ) - તાપમાન વધે તેમ ધાતુની સક્રિયતા ઘટે છે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Page 43</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "આયનીય સંયોજનોના કોઈ પણ ત્રણ ગુણધર્મો સમજાવો. (Most IMP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ol><li><strong>ભૌતિક સ્વભાવ:</strong> ધન અને ઋણ આયનો વચ્ચે પ્રબળ આકર્ષણ બળ હોવાને કારણે આયનીય સંયોજનો ઘન અને સખત હોય છે. આ સંયોજનો સામાન્ય રીતે બરડ હોય છે અને દબાણ આપતા ટુકડાઓમાં તૂટી જાય છે.</li><li><strong>ગલનબિંદુ અને ઉત્કલનબિંદુ:</strong> આયનીય સંયોજનોમાં આયનો વચ્ચેના પ્રબળ આંતર-આયનીય આકર્ષણ બળને તોડવા માટે ઘણી વધારે ઉર્જાની જરૂર પડે છે, તેથી તેમના ગલનબિંદુ અને ઉત્કલનબિંદુ ઊંચા હોય છે.</li><li><strong>વિદ્યુત વહન:</strong> આયનીય સંયોજનો ઘન અવસ્થામાં વિદ્યુતનું વહન કરતા નથી કારણ કે આયનોની હેરફેર શક્ય નથી. પરંતુ, તે જલીય દ્રાવણમાં અથવા પિગળેલ અવસ્થામાં વિદ્યુતનું વહન કરે છે કારણ કે આયનો મુક્ત હોય છે.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આયનીય એટલે 'ફેવિકોલનો મજબૂત જોડ' - તોડવા માટે બહુ ગરમી (Energy) જોઈએ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "ટૂંકનોંધ લખો: થર્મિટ પ્રક્રિયા (Thermit Reaction).",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વધુ સક્રિય ધાતુઓ ઓછી સક્રિય ધાતુઓને તેમના સંયોજનોમાંથી વિસ્થાપિત કરી શકે છે. આ વિસ્થાપન પ્રક્રિયાઓ અત્યંત ઉષ્માક્ષેપક હોય છે, જેથી ઉત્પન્ન થતી ધાતુ પિગળેલ અવસ્થામાં મળે છે.</p><ul><li><strong>પ્રક્રિયા:</strong> આયર્ન (III) ઓક્સાઈડ (Fe₂O₃) ની એલ્યુમિનિયમ પાવડર સાથેની પ્રક્રિયાને થર્મિટ પ્રક્રિયા કહે છે.</li><li><strong>સમીકરણ:</strong> Fe₂O₃(s) + 2Al(s) → 2Fe(l) + Al₂O₃(s) + ઉષ્મા</li><li><strong>ઉપયોગ:</strong> આ પ્રક્રિયાનો ઉપયોગ રેલવેના પાટા અથવા મશીનના તિરાડ પડેલા ભાગોને જોડવા માટે થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થર્મિટ = Thermal (ગરમી). રેલવેના પાટા સાંધવા માટે વપરાતી હાઈ-વોલ્ટેજ ગરમી વાળી પ્રક્રિયા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Page 52</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "ભૂંજન (Roasting) અને કેલ્સિનેશન (Calcination) વચ્ચેનો તફાવત સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><table border='1' style='width:100%; border-collapse: collapse; margin-bottom:10px;'><tr style='background-color:#16a085; color:white;'><th>મુદ્દો</th><th>ભૂંજન (Roasting)</th><th>કેલ્સિનેશન (Calcination)</th></tr><tr><td>કાચી ધાતુ</td><td>સલ્ફાઇડયુક્ત કાચી ધાતુ માટે વપરાય છે.</td><td>કાર્બોનેટયુક્ત કાચી ધાતુ માટે વપરાય છે.</td></tr><tr><td>હવાની હાજરી</td><td>વધારે પ્રમાણમાં હવાની હાજરીમાં ગરમ કરવામાં આવે છે.</td><td>મર્યાદિત હવાની હાજરીમાં ગરમ કરવામાં આવે છે.</td></tr><tr><td>ઉદાહરણ</td><td>2ZnS + 3O₂ → 2ZnO + 2SO₂</td><td>ZnCO₃ → ZnO + CO₂</td></tr></table><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ' પરથી સલ્ફાઈડ અને 'સ' પરથી શ્વાસ (હવા) = ભૂંજન. 'C' પરથી કાર્બોનેટ અને 'C' પરથી Calcination.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept Map</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "તાંબાનું વિદ્યુતવિભાજનીય શુદ્ધિકરણ આકૃતિ દોરી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અશુદ્ધ તાંબાને શુદ્ધ કરવા માટે વિદ્યુતવિભાજનીય પદ્ધતિ વપરાય છે.</p><ul><li><strong>એનોડ:</strong> અશુદ્ધ તાંબાનો સળિયો.</li><li><strong>કેથોડ:</strong> શુદ્ધ તાંબાની પાતળી પટ્ટી.</li><li><strong>વિદ્યુતવિભાજ્ય:</strong> એસિડિક કોપર સલ્ફેટ (CuSO₄) નું દ્રાવણ.</li></ul><p><strong>પ્રક્રિયા:</strong> જ્યારે વિદ્યુતપ્રવાહ પસાર કરવામાં આવે છે ત્યારે એનોડમાંથી અશુદ્ધ કોપર દ્રાવણમાં ઓગળે છે અને તેટલા જ જથ્થામાં શુદ્ધ કોપર દ્રાવણમાંથી કેથોડ પર જમા થાય છે.</p><svg width='200' height='120' viewBox='0 0 200 120' xmlns='http://www.w3.org/1999/xlink'><rect x='40' y='20' width='120' height='80' fill='none' stroke='black' stroke-width='2'/><line x1='70' y1='10' x2='70' y2='90' stroke='brown' stroke-width='6'/><line x1='130' y1='10' x2='130' y2='90' stroke='orange' stroke-width='4'/><text x='55' y='105' font-size='10' fill='black'>એનોડ(+)</text><text x='115' y='105' font-size='10' fill='black'>કેથોડ(-)</text></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અશુદ્ધ એનોડ' - એનોડ હંમેશા જાડો અને અશુદ્ધ હોય જે ઓગળીને પાતળો થાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Fig 3.12</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "ધાતુના ક્ષારણ અટકાવવાના ઉપાયો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધાતુઓને ક્ષારણથી બચાવવા માટે નીચે મુજબના ઉપાયો કરી શકાય:</p><ul><li><strong>રંગ કરીને:</strong> ધાતુની સપાટી પર રંગ લગાવવાથી તે હવા અને ભેજના સંપર્કમાં આવતી નથી.</li><li><strong>તેલ અથવા ગ્રીસ લગાવીને:</strong> મશીનના ભાગો પર તેલ કે ગ્રીસ લગાવવાથી પણ ક્ષારણ અટકાવી શકાય છે.</li><li><strong>ગેલ્વેનાઈઝિંગ:</strong> લોખંડ કે સ્ટીલ પર ઝિંક (જસત) નું પાતળું સ્તર ચડાવવાની પ્રક્રિયાને ગેલ્વેનાઈઝિંગ કહે છે.</li><li><strong>મિશ્રધાતુ બનાવીને:</strong> લોખંડમાં નિકલ અને ક્રોમિયમ ઉમેરી સ્ટેનલેસ સ્ટીલ બનાવવાથી તેને કાટ લાગતો નથી.</li><li><strong>એનોડાઇઝિંગ:</strong> એલ્યુમિનિયમ પર ઓક્સાઈડનું પડ ચડાવી તેને સુરક્ષિત કરી શકાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગતે રમી' (ગ-ગેલ્વેનાઈઝિંગ, તે-તેલ લગાવવું, ર-રંગ કરવો, મી-મિશ્રધાતુ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes General Science Tips</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "જ્યારે ધાતુની નાઈટ્રિક એસિડ (HNO₃) સાથે પ્રક્રિયા કરવામાં આવે ત્યારે હાઈડ્રોજન વાયુ મુક્ત થતો નથી - સમજાવો. કઈ ધાતુઓ અપવાદ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>નાઈટ્રિક એસિડ (HNO₃) એ પ્રબળ ઓક્સિડેશનકર્તા છે. તે પ્રક્રિયા દરમિયાન ઉત્પન્ન થતા હાઈડ્રોજન (H₂) વાયુનું ઓક્સિડેશન કરી પાણી (H₂O) માં રૂપાંતર કરે છે અને પોતે નાઈટ્રોજનના ઓક્સાઈડ્સ (N₂O, NO અથવા NO₂) માં રિડક્શન પામે છે.</p><p><strong>અપવાદ:</strong> મેગ્નેશિયમ (Mg) અને મેંગેનીઝ (Mn) ધાતુઓ ખૂબ જ મંદ HNO₃ સાથે પ્રક્રિયા કરીને H₂ વાયુ મુક્ત કરે છે.</p><p>Mg(s) + 2HNO₃(aq) → Mg(NO₃)₂(aq) + H₂(g)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: HNO₃ એ 'ઓક્સિજનનો ડોન' છે, જે H₂ ને H₂O બનાવી દે છે! માત્ર Mg અને Mn જ તેની સામે ટકી શકે છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Science Page 44</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "મિશ્ર ધાતુ (Alloy) એટલે શું? તેના કોઈ પણ બે ઉદાહરણ તેના ઘટકો સાથે જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>બે કે તેથી વધુ ધાતુઓ અથવા ધાતુ અને અધાતુના સમાંગ મિશ્રણને મિશ્ર ધાતુ કહે છે.</p><ul><li><strong>પિત્તળ (Brass):</strong> તે તાંબુ (Cu) અને જસત (Zn) ની મિશ્ર ધાતુ છે.</li><li><strong>કાંસું (Bronze):</strong> તે તાંબુ (Cu) અને ટીન (Sn) ની મિશ્ર ધાતુ છે.</li><li><strong>સ્ટેનલેસ સ્ટીલ:</strong> લોખંડ (Fe), નિકલ (Ni) અને ક્રોમિયમ (Cr) ની મિશ્ર ધાતુ છે, જે સખત હોય છે અને તેને કાટ લાગતો નથી.</li></ul><p>જો મિશ્ર ધાતુમાં એક ધાતુ તરીકે મરક્યુરી (પારો) હોય, તો તેને 'એમલગમ' (Amalgam) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિત્તળ = તા-જ (તાંબુ + જસત), કાંસું = તા-ટી (તાંબુ + ટીન).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP Section</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "એક્વા-રેજિયા (Aqua Regia) એટલે શું? તેની લાક્ષણિકતાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>વ્યાખ્યા:</strong> સાંદ્ર હાઈડ્રોક્લોરિક એસિડ (HCl) અને સાંદ્ર નાઈટ્રિક એસિડ (HNO₃) ના 3 : 1 ના પ્રમાણ ધરાવતા તાજા મિશ્રણને એક્વા-રેજિયા (રોયલ વોટર) કહેવામાં આવે છે.</p><ul><li>તે અત્યંત ક્ષારણકારી અને ધુમાડો આપતું પ્રવાહી છે.</li><li>તે સોનું (Au) અને પ્લેટિનમ (Pt) જેવી નિષ્ક્રિય ધાતુઓને પણ ઓગાળી શકે છે, જે આ બંને એસિડ સ્વતંત્ર રીતે કરી શકતા નથી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો '3HCl : 1HNO₃'. જે એસિડમાં અક્ષરો વધુ (HCl), તેનું પ્રમાણ પણ વધુ (3)!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Fact Box</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 3,
+      "question": "સક્રિયતા શ્રેણી એટલે શું? મધ્યમાં રહેલી ધાતુઓનું નિષ્કર્ષણ કેવી રીતે કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધાતુઓને તેમની પ્રતિક્રિયાત્મકતાના ઉતરતા ક્રમમાં ગોઠવતા મળતી શ્રેણીને સક્રિયતા શ્રેણી કહે છે.</p><p>સક્રિયતા શ્રેણીની મધ્યમાં રહેલી ધાતુઓ (જેમ કે Zn, Fe, Pb) કુદરતમાં સલ્ફાઈડ કે કાર્બોનેટ સ્વરૂપે મળે છે. તેનું નિષ્કર્ષણ નીચેના તબક્કે થાય છે:</p><ol><li>સૌ પ્રથમ તેને 'ભૂંજન' કે 'કેલ્સિનેશન' દ્વારા ધાતુના ઓક્સાઈડમાં ફેરવવામાં આવે છે.</li><li>ત્યારબાદ આ ધાતુના ઓક્સાઈડનું કાર્બન (કોક) જેવા રિડક્શનકર્તાનો ઉપયોગ કરી ધાતુમાં રિડક્શન કરવામાં આવે છે.</li><li>ZnO + C → Zn + CO</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સલ્ફાઈડ/કાર્બોનેટ → ઓક્સાઈડ → શુદ્ધ ધાતુ. (ડાયરેક્ટ ઓગળવા કરતા ઓક્સાઈડમાંથી મેળવવું સહેલું છે).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Page 51</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 3,
+      "question": "ધાતુઓના ભૌતિક ગુણધર્મો અને અપવાદો સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>અવસ્થા:</strong> ધાતુઓ ઘન હોય છે. <strong>અપવાદ:</strong> પારો (Hg) ઓરડાના તાપમાને પ્રવાહી છે.</li><li><strong>ચમક:</strong> ધાતુઓ ચમકદાર સપાટી ધરાવે છે. <strong>અપવાદ:</strong> આયોડિન (અધાતુ હોવા છતાં ચમકદાર છે).</li><li><strong>ગલનબિંદુ:</strong> ધાતુઓના ગલનબિંદુ ઊંચા હોય છે. <strong>અપવાદ:</strong> ગેલિયમ (Ga) અને સીઝિયમ (Cs) ને હથેળી પર રાખતા જ પીગળી જાય છે.</li><li><strong>સખતપણું:</strong> ધાતુઓ સખત હોય છે. <strong>અપવાદ:</strong> આલ્કલી ધાતુઓ (Li, Na, K) એટલી નરમ હોય છે કે ચપ્પુથી કાપી શકાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરીક્ષામાં ગુણધર્મો કરતા તેના અપવાદો (Exceptions) વધુ પૂછાય છે, તેને ખાસ પાકા કરવા!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Quick Revision</p></div>"
+    }
+  ]
+}
