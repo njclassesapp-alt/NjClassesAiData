@@ -666,3 +666,82 @@ var Std10_Science_3Marks = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "પ્રકાશ - પરાવર્તન અને વક્રીભવન",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "અંતર્ગોળ અરીસાના ઉપયોગો જણાવો. (March - 2020, 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અંતર્ગોળ અરીસાના મુખ્ય ઉપયોગો નીચે મુજબ છે:</p><ul><li><strong>ટોર્ચ અને સર્ચલાઈટમાં:</strong> ટૉર્ચ, સર્ચલાઇટ તથા વાહનોની હેડલાઇટમાં પ્રકાશના શક્તિશાળી સમાંતર કિરણપુંજ મેળવવા માટે અંતર્ગોળ અરીસાનો ઉપયોગ થાય છે.</li><li><strong>દાઢી કરવાના અરીસા તરીકે:</strong> ચહેરાનું મોટું પ્રતિબિંબ જોવા માટે શૅવિંગ મિરર તરીકે તેનો ઉપયોગ થાય છે.</li><li><strong>દાંતના ડોક્ટર દ્વારા:</strong> દાંતના ડૉક્ટરો દર્દીઓના દાંતનું મોટું પ્રતિબિંબ જોવા માટે અંતર્ગોળ અરીસાનો ઉપયોગ કરે છે.</li><li><strong>સૌર ભઠ્ઠીમાં:</strong> સૂર્યપ્રકાશને કેન્દ્રિત કરી ગરમી મેળવવા માટે મોટી સૌર ભઠ્ઠીઓમાં અંતર્ગોળ અરીસા વપરાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 'ડૉક્ટરની ટોર્ચથી દાઢી કરી સૌર ભઠ્ઠીમાં ગયા' - આ વાક્યથી બધા ઉપયોગો યાદ રહી જશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board PYQ / NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "કાચના લંબઘન વડે થતું પ્રકાશનું વક્રીભવન આકૃતિ દોરી સમજાવો. (March - 2019, 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જ્યારે પ્રકાશનું કિરણ કાચના લંબઘન પર આપાત થાય છે, ત્યારે તેનું બે વાર વક્રીભવન થાય છે:</p><ul><li>પ્રથમ વક્રીભવન હવા-કાચની સપાટી પર થાય છે, જ્યાં કિરણ લંબ તરફ વળે છે.</li><li>બીજું વક્રીભવન કાચ-હવાની સપાટી પર થાય છે, જ્યાં કિરણ લંબથી દૂર જાય છે.</li><li>નિર્ગમન કિરણ એ આપાત કિરણને સમાંતર હોય છે, પરંતુ તે થોડું બાજુએ ખસેલું હોય છે. આ ઘટનાને <strong>લેટરલ શિફ્ટ (પાશ્વિય સ્થાનાંતર)</strong> કહેવાય છે.</li></ul><svg width='200' height='120' viewBox='0 0 200 120'><rect x='50' y='30' width='100' height='60' fill='none' stroke='black' stroke-width='2'/><line x1='30' y1='10' x2='75' y2='30' stroke='red' stroke-width='2'/><line x1='75' y1='30' x2='125' y2='90' stroke='red' stroke-width='2'/><line x1='125' y1='90' x2='170' y2='110' stroke='red' stroke-width='2'/><text x='70' y='25' font-size='10'>આપાત</text><text x='130' y='105' font-size='10'>નિર્ગમન</text></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: યાદ રાખો કે આપાતકોણ અને નિર્ગમનકોણ હંમેશા સમાન હોય છે (∠i = ∠e).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "ગોલીય અરીસા માટે નવી કાર્તેઝિયન સંજ્ઞા પ્રણાલી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ગોલીય અરીસા માટે મુખ્ય નિયમો નીચે મુજબ છે:</p><ol><li>વસ્તુને હંમેશા અરીસાની ડાબી બાજુ રાખવામાં આવે છે.</li><li>બધા જ અંતરો અરીસાના ધ્રુવ (P) થી મુખ્ય અક્ષને સમાંતર માપવામાં આવે છે.</li><li>આપાત પ્રકાશની દિશામાં માપેલા અંતરો ધન (+) લેવાય છે.</li><li>આપાત પ્રકાશની વિરુદ્ધ દિશામાં (ડાબી બાજુ) માપેલા અંતરો ઋણ (-) લેવાય છે.</li><li>મુખ્ય અક્ષને લંબ ઉપર તરફની ઊંચાઈ ધન (+) અને નીચે તરફની ઊંચાઈ ઋણ (-) લેવાય છે.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: ગણિતના આલેખ (Graph) જેવું જ છે: જમણે +, ડાબે -, ઉપર +, નીચે -.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "લેન્સનો પાવર એટલે શું? તેનું સૂત્ર અને SI એકમ જણાવી વ્યાખ્યાયિત કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>વ્યાખ્યા:</strong> લેન્સની પ્રકાશના કિરણોને કેન્દ્રિત કે વિકેન્દ્રિત કરવાની ક્ષમતાને લેન્સનો પાવર કહે છે. અથવા લેન્સની કેન્દ્રલંબાઈના વ્યસ્તને પાવર કહે છે.</p><ul><li><strong>સૂત્ર:</strong> P = 1 / f (જ્યાં f મીટરમાં છે).</li><li><strong>SI એકમ:</strong> લેન્સના પાવરનો SI એકમ <strong>ડાયોપ્ટર (D)</strong> છે.</li><li><strong>1 ડાયોપ્ટર:</strong> જે લેન્સની કેન્દ્રલંબાઈ 1 મીટર હોય, તે લેન્સનો પાવર 1 ડાયોપ્ટર કહેવાય.</li><li>બહિર્ગોળ લેન્સનો પાવર ધન (+) અને અંતર્ગોળ લેન્સનો પાવર ઋણ (-) હોય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: પાવર અને કેન્દ્રલંબાઈ વચ્ચે 'દુશ્મનાવટ' છે, એક વધે તો બીજું ઘટે (વ્યસ્ત પ્રમાણ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Most IMP for 2024-25</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "નિરપેક્ષ વક્રીભવનાંક સમજાવો અને હીરાનો વક્રીભવનાંક 2.42 છે - આ વિધાનનો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>નિરપેક્ષ વક્રીભવનાંક:</strong> શૂન્યાવકાશમાં પ્રકાશની ઝડપ (c) અને આપેલ માધ્યમમાં પ્રકાશની ઝડપ (v) ના ગુણોત્તરને તે માધ્યમનો નિરપેક્ષ વક્રીભવનાંક (n) કહે છે. <br> સૂત્ર: n = c / v </p><p><strong>હીરાનો વક્રીભવનાંક 2.42 હોવાનો અર્થ:</strong></p><ul><li>હીરામાં પ્રકાશની ઝડપ, શૂન્યાવકાશમાં પ્રકાશની ઝડપના (1 / 2.42) ગણી છે.</li><li>આ મૂલ્ય દર્શાવે છે કે હીરો એ પ્રકાશીય રીતે અત્યંત ઘટ્ટ માધ્યમ છે, તેથી તેમાં પ્રકાશની ગતિ સૌથી વધુ ધીમી પડે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: વક્રીભવનાંક વધે = માધ્યમ ઘટ્ટ થાય = ઝડપ ઘટે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook Page 175</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "બહિર્ગોળ અરીસા વડે રચાતા પ્રતિબિંબની લાક્ષણિકતાઓ અને ઉપયોગો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>પ્રતિબિંબની લાક્ષણિકતાઓ:</strong></p><ul><li>બહિર્ગોળ અરીસા દ્વારા મળતું પ્રતિબિંબ હંમેશા <strong>આભાસી અને ચત્તું</strong> હોય છે.</li><li>પ્રતિબિંબનું કદ હંમેશા વસ્તુ કરતાં <strong>નાનું</strong> હોય છે.</li><li>વસ્તુ ગમે તેટલા અંતરે હોય, પ્રતિબિંબ હંમેશા P અને F ની વચ્ચે જ મળે છે.</li></ul><p><strong>ઉપયોગો:</strong></p><ul><li>વાહનોમાં <strong>'સાઇડ મિરર' (Rear-view mirror)</strong> તરીકે, કારણ કે તે પાછળનો વિશાળ વિસ્તાર બતાવી શકે છે.</li><li>મોટા શોપિંગ મોલ કે પાર્કિંગમાં સુરક્ષા માટે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: બહિર્ગોળ અરીસો એટલે 'બહુ મોટું દ્રશ્ય નાનું કરીને જોવું'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "એક બહિર્ગોળ અરીસાની વક્રતા ત્રિજ્યા 3.0 m છે. જો એક બસ અરીસાથી 5.0 m અંતરે હોય, તો પ્રતિબિંબનું સ્થાન અને પ્રકાર શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં, વક્રતા ત્રિજ્યા R = +3.0 m (બહિર્ગોળ અરીસો)<br>કેન્દ્રલંબાઈ f = R/2 = 3.0 / 2 = +1.5 m<br>વસ્તુ અંતર u = -5.0 m (ડાબી બાજુ)</p><p>અરીસાના સૂત્ર મુજબ: 1/v + 1/u = 1/f<br>1/v = 1/f - 1/u<br>1/v = 1/1.5 - 1/(-5.0) = 1/1.5 + 1/5.0<br>1/v = (5.0 + 1.5) / 7.5 = 6.5 / 7.5<br>v = 7.5 / 6.5 = <strong>+1.15 m</strong></p><p><strong>નિષ્કર્ષ:</strong> પ્રતિબિંબ અરીસાની પાછળ 1.15 m અંતરે મળશે. પ્રતિબિંબ આભાસી અને ચત્તું હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: અરીસામાં u હંમેશા માઈનસ (-) જ લેવો, ગમે તે અરીસો હોય!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Example 9.1</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "મોટવણી (Magnification) એટલે શું? અરીસા માટે તેનું સૂત્ર લખો અને તેના મૂલ્યોનું મહત્વ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>વ્યાખ્યા:</strong> પ્રતિબિંબની ઊંચાઈ (h') અને વસ્તુની ઊંચાઈ (h) ના ગુણોત્તરને મોટવણી (m) કહે છે. <br> સૂત્ર: m = h' / h = -v / u</p><p><strong>મૂલ્યોનું મહત્વ:</strong></p><ul><li>જો <strong>m ઋણ (-)</strong> હોય, તો પ્રતિબિંબ <strong>વાસ્તવિક અને ઉલટું</strong> છે.</li><li>જો <strong>m ધન (+)</strong> હોય, તો પ્રતિબિંબ <strong>આભાસી અને ચત્તું</strong> છે.</li><li>જો <strong>|m| > 1</strong> હોય, તો પ્રતિબિંબ વસ્તુ કરતા મોટું છે.</li><li>જો <strong>|m| < 1</strong> હોય, તો પ્રતિબિંબ વસ્તુ કરતા નાનું છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: m = 1 એટલે 'ઝેરોક્ષ' (સરખી સાઈઝ), m > 1 એટલે 'ઝૂમ' (મોટું).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "પ્રકાશના વક્રીભવનના નિયમો લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પ્રકાશના વક્રીભવનના બે મુખ્ય નિયમો છે:</p><ol><li>આપાત કિરણ, વક્રીભૂત કિરણ અને બે માધ્યમોને છૂટી પાડતી સપાટી પર આપાત બિંદુએ દોરેલો લંબ - આ ત્રણેય એક જ સમતલમાં હોય છે.</li><li><strong>સ્નેલનો નિયમ:</strong> પ્રકાશના આપેલ રંગ અને આપેલ માધ્યમોની જોડ માટે, આપાતકોણના સાઈન (sin i) અને વક્રીભૂતકોણના સાઈન (sin r) નો ગુણોત્તર અચળ રહે છે.<br>સૂત્ર: <strong>sin i / sin r = અચળાંક (n)</strong></li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: બીજો નિયમ 'સ્નેલ' નામના વૈજ્ઞાનિકે આપ્યો હોવાથી તેને સ્નેલનો નિયમ કહેવાય છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "ગોલીય લેન્સ માટે મુખ્ય કેન્દ્ર (F) અને ઓપ્ટિકલ સેન્ટર (O) ની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>ઓપ્ટિકલ સેન્ટર (O):</strong> લેન્સના મધ્ય કેન્દ્રને તેનું ઓપ્ટિકલ સેન્ટર કહે છે. તેમાંથી પસાર થતું કિરણ વિચલન પામ્યા વગર સીધું પસાર થાય છે.</li><li><strong>મુખ્ય કેન્દ્ર (F):</strong> બહિર્ગોળ લેન્સ પર મુખ્ય અક્ષને સમાંતર આપાત થતા કિરણો વક્રીભવન પામી મુખ્ય અક્ષ પર જે બિંદુએ કેન્દ્રિત થાય છે, તે બિંદુને બહિર્ગોળ લેન્સનું મુખ્ય કેન્દ્ર કહે છે.</li><li>અંતર્ગોળ લેન્સમાં કિરણો જે બિંદુએથી આવતા હોય તેવો ભાસ થાય તેને તેનું મુખ્ય કેન્દ્ર કહે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: અરીસામાં ધ્રુવ (P) હોય, લેન્સમાં ઓપ્ટિકલ સેન્ટર (O) હોય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Fundamental</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 3,
+      "question": "વસ્તુને બહિર્ગોળ લેન્સની સામે '2F1' પર મૂકતા મળતા પ્રતિબિંબની આકૃતિ દોરી તેનું સ્થાન અને પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>પ્રતિબિંબનું સ્થાન:</strong> બીજી બાજુ 2F2 પર.</li><li><strong>પ્રતિબિંબનો પ્રકાર:</strong> વાસ્તવિક અને ઉલટું.</li><li><strong>પ્રતિબિંબનું માપ:</strong> વસ્તુ જેવડું જ (સમાન માપનું).</li></ul><svg width='200' height='100'><line x1='10' y1='50' x2='190' y2='50' stroke='black'/><ellipse cx='100' cy='50' rx='10' ry='40' fill='none' stroke='blue'/><line x1='40' y1='50' x2='40' y2='20' stroke='green' stroke-width='2'/><text x='30' y='65' font-size='10'>2F1</text><line x1='160' y1='50' x2='160' y2='80' stroke='red' stroke-width='2'/><text x='150' y='45' font-size='10'>2F2</text></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 2F એટલે 'સેન્ટર', અરીસાના 'C' જેવું જ કામ કરે છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Most IMP for Ray Diagrams</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 3,
+      "question": "લેન્સના પાવરના દાખલો: 2m કેન્દ્રલંબાઈ ધરાવતા અંતર્ગોળ લેન્સનો પાવર શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં, લેન્સ અંતર્ગોળ હોવાથી કેન્દ્રલંબાઈ (f) ઋણ લેવી પડશે.<br>f = -2.0 m</p><p>લેન્સના પાવરનું સૂત્ર: P = 1 / f<br>P = 1 / (-2.0)<br>P = <strong>-0.5 D</strong></p><p>આમ, અંતર્ગોળ લેન્સનો પાવર -0.5 ડાયોપ્ટર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: જો જવાબમાં માઈનસ (-) આવે તો સમજવું કે તે અંતર્ગોળ લેન્સ જ છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise</p></div>"
+    }
+  ]
+}
