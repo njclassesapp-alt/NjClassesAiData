@@ -411,3 +411,82 @@ var Std10_Science_3Marks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "નિયંત્રણ અને સંકલન",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "પરાવર્તી ક્રિયા એટલે શું? ઉદાહરણ આપી સમજાવો. (March - 2020, 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>મગજના ઈચ્છિક કેન્દ્રોની જાણ બહાર, બાહ્ય ઉત્તેજના સામે દર્શાવવામાં આવતા અનૈચ્છિક અને ઝડપી પ્રતિચારને <strong>પરાવર્તી ક્રિયા</strong> કહે છે.</p><ul><li><strong>ઉદાહરણ:</strong> જ્યારે આપણો હાથ અજાણતા ગરમ વસ્તુને અડકે છે, ત્યારે આપણે વિચાર્યા વગર તરત જ હાથ પાછો ખેંચી લઈએ છીએ.</li><li>આ ક્રિયામાં મગજ સુધી સંદેશો પહોંચે તે પહેલાં જ કરોડરજ્જુ દ્વારા નિર્ણય લેવામાં આવે છે, જેથી શરીરને નુકસાન થતું અટકે છે.</li><li>અન્ય ઉદાહરણો: આંખના પલકારા મારવા, ઉધરસ ખાવી, ઘૂંટણનો ઝટકો વગેરે.</li></ul><svg width='200' height='100' viewBox='0 0 200 100'><rect x='10' y='10' width='180' height='30' rx='5' fill='#e74c3c' /><text x='100' y='30' font-family='Arial' font-size='12' fill='white' text-anchor='middle'>ઉત્તેજના (ગરમ વસ્તુ)</text><path d='M100 40 L100 60' stroke='black' stroke-width='2' marker-end='url(#arrowhead)'/><rect x='10' y='60' width='180' height='30' rx='5' fill='#3498db' /><text x='100' y='80' font-family='Arial' font-size='12' fill='white' text-anchor='middle'>પ્રતિચાર (હાથ પાછો ખેંચવો)</text></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરાવર્તી = પલકારામાં થતી વર્તણૂક (ઝડપી + વિચાર્યા વગરની).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "પ્રકાશાવર્તન એટલે શું? વનસ્પતિમાં પ્રકાશાવર્તન કેવી રીતે થાય છે તે સમજાવો. (Board IMP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વનસ્પતિના અંગોનો પ્રકાશની દિશામાં પ્રતિચાર દર્શાવવાની ક્રિયાને <strong>પ્રકાશાવર્તન</strong> કહે છે.</p><ul><li>જ્યારે વનસ્પતિના પ્રરોહ (કાંડ) પર એક દિશામાંથી પ્રકાશ પડે છે, ત્યારે પ્રરોહના અગ્ર ભાગમાં <strong>ઓક્સિન (Auxin)</strong> અંતઃસ્ત્રાવ ઉત્પન્ન થાય છે.</li><li>ઓક્સિન પ્રકાશથી દૂર છાયાવાળા ભાગમાં પ્રસરણ પામે છે.</li><li>છાયાવાળા ભાગમાં ઓક્સિનની સાંદ્રતા વધવાથી ત્યાંના કોષો વધુ લંબાય છે, જ્યારે પ્રકાશવાળા ભાગમાં કોષો ઓછા લંબાય છે.</li><li>આ અસમાન વૃદ્ધિને કારણે પ્રરોહ પ્રકાશની દિશામાં વળતો દેખાય છે.</li></ul><svg width='150' height='100'><path d='M20,90 Q50,80 80,30' fill='none' stroke='#2ecc71' stroke-width='5'/><circle cx='120' cy='20' r='10' fill='#f1c40f'/><text x='110' y='45' font-size='10'>પ્રકાશ</text></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્સિન = છાયા પ્રેમી (તે હંમેશા અંધારા તરફ જશે અને તે બાજુને લંબાવશે).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "અગ્ર મગજના કાર્યો જણાવો. (July - 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અગ્ર મગજ એ મગજનો મુખ્ય 'વિચારવા વાળો' ભાગ છે. તેના કાર્યો નીચે મુજબ છે:</p><ul><li><strong>સંવેદનાઓનું અર્થઘટન:</strong> તે શ્રવણ, ઘ્રાણ (સૂંઘવું), દ્રષ્ટિ વગેરે માટે વિશિષ્ટિકરણ પામેલા અલગ અલગ વિસ્તારો ધરાવે છે.</li><li><strong>ઐચ્છિક સ્નાયુઓનું નિયંત્રણ:</strong> ચાલવું, લખવું, બોલવું જેવી આપણી ઈચ્છા મુજબની ક્રિયાઓનું નિયંત્રણ અગ્ર મગજ કરે છે.</li><li><strong>યાદશક્તિ અને સમજણ:</strong> માહિતીનો સંગ્રહ (Memory), તર્ક શક્તિ અને બુદ્ધિ માટે આ ભાગ જવાબદાર છે.</li><li><strong>ભૂખના કેન્દ્રો:</strong> આપણને પેટ ભરાઈ ગયું હોવાનો અહેસાસ કરાવતા કેન્દ્રો પણ અગ્ર મગજમાં આવેલા છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અગ્ર મગજ = VIP (વિચાર, ઈચ્છા, સ્મૃતિ, પાચન/ભૂખ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Paper</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "ઇન્સ્યુલિન એટલે શું? તેનું કાર્ય અને તેની ઉણપથી થતી અસરો જણાવો. (March - 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ઇન્સ્યુલિન એ સ્વાદુપિંડ ગ્રંથિ દ્વારા સ્ત્રવતો મહત્વનો અંતઃસ્ત્રાવ છે.</p><ul><li><strong>કાર્ય:</strong> તે રુધિરમાં શર્કરા (ગ્લુકોઝ) ના સ્તરનું નિયંત્રણ કરે છે. તે વધારાના ગ્લુકોઝને ગ્લાયકોજનમાં ફેરવે છે.</li><li><strong>ઉણપની અસર:</strong> જો શરીરમાં ઇન્સ્યુલિન પૂરતા પ્રમાણમાં ન બને, તો રુધિરમાં શર્કરાનું પ્રમાણ વધી જાય છે.</li><li>આ સ્થિતિને <strong>મધુપ્રમેહ (Diabetes)</strong> કહેવામાં આવે છે. આવા દર્દીઓને લોહીમાં શર્કરા ઘટાડવા માટે ઇન્સ્યુલિનના ઇન્જેક્શન લેવા પડે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇન્સ્યુલિન = શુગર કંટ્રોલર (સ્વાદુપિંડનો ચોકીદાર).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Science Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "વનસ્પતિ અંતઃસ્ત્રાવોના નામ અને તેના કાર્યો જણાવો. (Most IMP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વનસ્પતિમાં વૃદ્ધિ અને વિકાસના નિયમન માટે નીચે મુજબના અંતઃસ્ત્રાવો હોય છે:</p><ol><li><strong>ઓક્સિન (Auxin):</strong> તે કોષોની લંબાઈમાં વૃદ્ધિ કરે છે અને પ્રકાશાવર્તનમાં મદદ કરે છે.</li><li><strong>જીબ્બેરેલિન (Gibberellins):</strong> તે પ્રકાંડની વૃદ્ધિમાં મદદરૂપ થાય છે.</li><li><strong>સાયટોકાઈનિન (Cytokinin):</strong> તે કોષ વિભાજનની ગતિ વધારે છે (ખાસ કરીને ફળ અને બીજમાં).</li><li><strong>એબ્સીસિક એસિડ (Abscisic Acid):</strong> તે વૃદ્ધિ અવરોધક અંતઃસ્ત્રાવ છે. તે પાંદડા કરમાઈ જવા માટે જવાબદાર છે.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: AGC (વૃદ્ધિ પ્રેરે) vs A (એબ્સીસિક - વૃદ્ધિ રોકે).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept Map</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "જ્યારે આપણે ભયભીત હોઈએ ત્યારે શરીરમાં એડ્રિનાલિન અંતઃસ્ત્રાવની શું અસર થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>એડ્રિનાલિનને 'લડો અથવા ભાગો' (Fight or Flight) અંતઃસ્ત્રાવ કહે છે. તેની અસરો:</p><ul><li><strong>હૃદયના ધબકારા:</strong> હૃદયના ધબકારા વધે છે, જેથી સ્નાયુઓને વધુ ઓક્સિજન મળી રહે.</li><li><strong>શ્સન દરમાં વધારો:</strong> પાંસળીઓ અને મધ્યપટલના સંકોચનને કારણે શ્વાસ લેવાની ગતિ વધે છે.</li><li><strong>રુધિરનું ડાયવર્ઝન:</strong> પાચનતંત્ર અને ત્વચામાં રુધિરનો પ્રવાહ ઓછો થઈ જાય છે અને રુધિર મુખ્યત્વે કંકાલ સ્નાયુઓ તરફ વળે છે.</li><li>આ બધી પ્રતિક્રિયાઓ શરીરને કટોકટીની પરિસ્થિતિનો સામનો કરવા તૈયાર કરે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એડ્રિનાલિન = સુપર પાવર મોડ (બધું ફાસ્ટ થઈ જાય).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Science Class 10</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "પરાવર્તી કમાન એટલે શું? તેના ઘટકો આકૃતિ સહ (નામ નિર્દેશિત) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પરાવર્તી ક્રિયામાં સંવેદનાગ્રાહી અંગથી કરોડરજ્જુ થઈને પ્રતિચારક અંગ સુધીના માર્ગને <strong>પરાવર્તી કમાન</strong> કહે છે.</p><ul><li><strong>ઘટકો:</strong> ગ્રાહી અંગ (ત્વચા) → સંવેદી ચેતાકોષ → કરોડરજ્જુ (પ્રેરક કેન્દ્ર) → પ્રેરક ચેતાકોષ → કાર્યકારી અંગ (સ્નાયુ).</li><li>મગજ સુધી સંદેશો જાય તે પહેલાં જ આ કમાન કાર્ય પૂર્ણ કરી દે છે.</li></ul><svg width='250' height='100'><rect x='10' y='40' width='50' height='20' fill='#ffcc00'/><text x='15' y='35' font-size='10'>ત્વચા</text><line x1='60' y1='50' x2='120' y2='50' stroke='blue' stroke-width='2'/><rect x='120' y='30' width='40' height='40' fill='#bdc3c7'/><text x='115' y='25' font-size='10'>કરોડરજ્જુ</text><line x1='160' y1='50' x2='220' y2='50' stroke='red' stroke-width='2'/><rect x='220' y='40' width='40' height='20' fill='#e74c3c'/><text x='220' y='35' font-size='10'>સ્નાયુ</text></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંવેદી (In) → કરોડરજ્જુ (Center) → પ્રેરક (Out).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB IMP Diagrams</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "મગજ અને કરોડરજ્જુ કેવી રીતે સુરક્ષિત હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>આપણા શરીરના નાજુક અંગોની સુરક્ષા માટે કુદરતી વ્યવસ્થા નીચે મુજબ છે:</p><ul><li><strong>મગજની સુરક્ષા:</strong> મગજ એક સખત હાડકાની બનેલી પેટીમાં આવેલું છે જેને <strong>ખોપરી (Cranium)</strong> કહે છે. ખોપરીની અંદર મગજ પ્રવાહીયુક્ત ફુગ્ગા (મસ્તિષ્ક મેરુજળ) ની અંદર હોય છે, જે આંચકા સામે રક્ષણ આપે છે.</li><li><strong>કરોડરજ્જુની સુરક્ષા:</strong> કરોડરજ્જુ એ હાડકાના બનેલા મજબૂત <strong>કરોડસ્તંભ (Backbone)</strong> માં સુરક્ષિત હોય છે.</li><li>આ બંને રચનાઓ કેન્દ્રીય ચેતાતંત્રને બાહ્ય ઈજાઓથી બચાવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મગજ = હેલ્મેટ (ખોપરી), કરોડરજ્જુ = જેકેટ (કરોડસ્તંભ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "ભૂઆવર્તન એટલે શું? આકૃતિ દોરી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વનસ્પતિના અંગોનો પૃથ્વીના ગુરુત્વાકર્ષણ પ્રત્યેના પ્રતિચારને <strong>ભૂઆવર્તન</strong> કહે છે.</p><ul><li><strong>ધન ભૂઆવર્તન:</strong> વનસ્પતિના મૂળ હંમેશા જમીનની નીચે ગુરુત્વાકર્ષણની દિશામાં વૃદ્ધિ કરે છે.</li><li><strong>ઋણ ભૂઆવર્તન:</strong> વનસ્પતિનું પ્રરોહ (કાંડ) ગુરુત્વાકર્ષણની વિરુદ્ધ દિશામાં ઉપર તરફ વૃદ્ધિ કરે છે.</li><li>જો છોડને આડો કરી દેવામાં આવે, તો પણ મૂળ નીચે વળશે અને પ્રકાંડ ઉપર તરફ વળશે.</li></ul><svg width='150' height='100'><line x1='10' y1='50' x2='140' y2='50' stroke='brown' stroke-width='2'/><path d='M70,50 Q70,20 100,10' stroke='green' stroke-width='4' fill='none'/><path d='M70,50 Q70,80 100,90' stroke='orange' stroke-width='4' fill='none'/><text x='105' y='15' font-size='10'>પ્રરોહ (-)</text><text x='105' y='95' font-size='10'>મૂળ (+)</text></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂળ = પૃથ્વી પ્રેમી (ધન), પ્રકાંડ = આકાશ પ્રેમી (ઋણ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Practical Study</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "અંતઃસ્ત્રાવોના નિયમન માટે 'પુનઃનિવેશ પદ્ધતિ' (Feedback Mechanism) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>શરીરમાં અંતઃસ્ત્રાવોનું પ્રમાણ અને સમય ચોક્કસ હોવો જરૂરી છે, જેનું નિયંત્રણ <strong>પુનઃનિવેશ પદ્ધતિ</strong> દ્વારા થાય છે.</p><ul><li>જ્યારે લોહીમાં કોઈ અંતઃસ્ત્રાવનું સ્તર વધે કે ઘટે છે, ત્યારે ગ્રંથિઓ તેને ઓળખી લે છે.</li><li><strong>ઉદાહરણ:</strong> જો લોહીમાં શર્કરા (Sugar) વધે, તો સ્વાદુપિંડના કોષો તેને શોધી કાઢે છે અને વધુ ઇન્સ્યુલિન સ્ત્રવે છે.</li><li>જ્યારે શર્કરાનું સ્તર ઘટી જાય, ત્યારે ઇન્સ્યુલિનનો સ્ત્રાવ આપોઆપ ઓછો થઈ જાય છે.</li><li>આ રીતે શરીર પોતાની જરૂરિયાત મુજબ હોર્મોન્સનું બેલેન્સ જાળવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુનઃનિવેશ = AC ના થર્મોસ્ટેટ જેવું (તાપમાન વધે તો ચાલુ, ઘટે તો બંધ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Standard 10 Science</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 3,
+      "question": "થાયરોક્સિન અંતઃસ્ત્રાવનું મહત્વ અને આયોડિનયુક્ત મીઠાની જરૂરિયાત સમજાવો. (IMP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>થાયરોઈડ ગ્રંથિ ગળાના ભાગમાં આવેલી છે, જે થાયરોક્સિન અંતઃસ્ત્રાવ ઉત્પન્ન કરે છે.</p><ul><li><strong>કાર્ય:</strong> થાયરોક્સિન શરીરમાં કાર્બોદિત, પ્રોટીન અને ચરબીના ચયાપચયનું નિયંત્રણ કરે છે જેથી શરીરની વૃદ્ધિ સંતુલિત રહે.</li><li><strong>આયોડિનનું મહત્વ:</strong> થાયરોક્સિનના સંશ્લેષણ માટે આયોડિન અનિવાર્ય છે.</li><li><strong>ગોઈટર રોગ:</strong> જો ખોરાકમાં આયોડિનની ઉણપ હોય, તો થાયરોઈડ ગ્રંથિ ફૂલી જાય છે, જેને 'ગોઈટર' કહે છે. આથી આયોડિનયુક્ત મીઠું લેવાની સલાહ આપવામાં આવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થાયરોક્સિન = મેટાબોલિઝમ કંટ્રોલર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Notes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 3,
+      "question": "ચેતાતંત્ર અને અંતઃસ્ત્રાવી તંત્ર વચ્ચેનો તફાવત આપો. (કોઈપણ ત્રણ મુદ્દા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><table><tr style='background-color:#16a085; color:white;'><th>મુદ્દો</th><th>ચેતાતંત્ર (Nervous System)</th><th>અંતઃસ્ત્રાવી તંત્ર (Hormonal System)</th></tr><tr><td>માધ્યમ</td><td>વિદ્યુત આવેગો દ્વારા સંદેશા વહન.</td><td>રાસાયણિક સંયોજનો (અંતઃસ્ત્રાવો) દ્વારા.</td></tr><tr><td>ઝડપ</td><td>ખૂબ જ ઝડપી પ્રતિચાર આપે છે.</td><td>પ્રતિચાર ધીમો હોય છે.</td></tr><tr><td>અસર</td><td>ટૂંકા ગાળાની અસર હોય છે.</td><td>લાંબા ગાળાની અસર હોય છે.</td></tr></table><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચેતાતંત્ર = ઇમેઇલ (ઝડપી), અંતઃસ્ત્રાવ = પોસ્ટલ લેટર (ધીમું).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Textbook</p></div>"
+    }
+  ]
+}
