@@ -77,3 +77,82 @@ var Std10_Science_3Marks = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "ઍસિડ, બેઇઝ અને ક્ષાર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "પાચનતંત્રમાં pH નું મહત્વ સમજાવો. (March 2020, 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ખોરાકના પાચનમાં જઠર અગત્યનો ભાગ ભજવે છે. આપણું જઠર ખોરાકના પાચન માટે <b>મંદ હાઇડ્રોક્લોરિક ઍસિડ (HCl)</b> ઉત્પન્ન કરે છે.</li><li>આ ઍસિડ જઠરને નુકસાન પહોંચાડ્યા વગર ખોરાકનું પાચન કરવામાં મદદ કરે છે.</li><li>પરંતુ, અપચા (Indigestion) દરમિયાન જઠર ખૂબ જ વધુ માત્રામાં ઍસિડ ઉત્પન્ન કરે છે, જેના કારણે જઠરમાં દર્દ અને બળતરા થાય છે, જેને આપણે <b>'એસિડિટી'</b> કહીએ છીએ.</li><li>આ દર્દથી છુટકારો મેળવવા માટે 'એન્ટાસિડ' (Antacids) જેવા બેઇઝનો ઉપયોગ કરવામાં આવે છે. તે વધારાના ઍસિડને તટસ્થ કરે છે.</li><li><b>ઉદાહરણ:</b> મેગ્નેશિયમ હાઇડ્રોક્સાઇડ (મિલ્ક ઓફ મેગ્નેશિયા - $Mg(OH)_2$), જે મંદ બેઇઝ છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાચન = HCl, વધુ ઍસિડ = દર્દ, ઉપાય = એન્ટાસિડ (મિલ્ક ઓફ મેગ્નેશિયા).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Paper</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "વિરંજન પાવડર (બ્લીચિંગ પાવડર) નું રાસાયણિક નામ, સૂત્ર અને તેના ઉપયોગો જણાવો. (March 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><b>રાસાયણિક નામ:</b> કેલ્શિયમ ઓક્સિક્લોરાઇડ</li><li><b>રાસાયણિક સૂત્ર:</b> $CaOCl_2$</li><li><b>બનાવટ:</b> ક્લોરિનની શુષ્ક ફોડેલા ચૂના [$Ca(OH)_2$] સાથેની પ્રક્રિયાથી બ્લીચિંગ પાવડર બને છે.</li></ul><p><strong>ઉપયોગો:</strong></p><ol><li>ટેક્સટાઇલ ઉદ્યોગમાં સુતરાઉ અને લિનનના વિરંજન માટે.</li><li>કાગળ ઉદ્યોગમાં લાકડાના માવાના વિરંજન માટે.</li><li>પીવાના પાણીને જંતુરહિત (Disinfecting) કરવા માટે જંતુનાશક તરીકે.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ્લીચિંગ એટલે 'સફેદ કરવું' + પાણી ચોખ્ખું કરવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Paper</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "પ્લાસ્ટર ઓફ પેરિસ (POP) ની બનાવટ અને તેના ઉપયોગો લખો. (July 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><b>બનાવટ:</b> જ્યારે જિપ્સમને (ચિરોડી) 373 K તાપમાને ગરમ કરવામાં આવે છે, ત્યારે તે પાણીના અણુઓ ગુમાવીને 'પ્લાસ્ટર ઓફ પેરિસ' બને છે.</li><li><b>રાસાયણિક સમીકરણ:</b> $CaSO_4 \\cdot 2H_2O \\xrightarrow{373 K} CaSO_4 \\cdot \\frac{1}{2}H_2O + 1\\frac{1}{2}H_2O$</li></ul><p><strong>ઉપયોગો:</strong></p><ol><li>ડોક્ટરો ભાંગી ગયેલા હાડકાંને યોગ્ય સ્થિતિમાં ગોઠવવા માટે પ્લાસ્ટર તરીકે કરે છે.</li><li>રમકડાં અને સજાવટની સામગ્રી બનાવવા માટે.</li><li>સપાટીને લીસી બનાવવા માટે (દીવાલ પર પુટ્ટી તરીકે).</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જિપ્સમ ગરમ કરો = POP. યાદ રાખો: POP સફેદ પાવડર છે જે પાણી સાથે સખત બને છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Paper</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "બેકિંગ સોડા (ખાવાનો સોડા) ની બનાવટ અને ઉપયોગો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><b>રાસાયણિક નામ:</b> સોડિયમ હાઇડ્રોજન કાર્બોનેટ ($NaHCO_3$)</li><li><b>બનાવટ:</b> સોડિયમ ક્લોરાઇડના જલીય દ્રાવણમાં $CO_2$ અને $NH_3$ (એમોનિયા) પસાર કરતા બેકિંગ સોડા બને છે.</li><li>$NaCl + H_2O + CO_2 + NH_3 \\rightarrow NH_4Cl + NaHCO_3$</li></ul><p><strong>ઉપયોગો:</strong></p><ol><li>રસોઈમાં ખોરાકને (ભજિયા વગેરે) નરમ અને પોચો બનાવવા માટે.</li><li>બેકિંગ પાવડરની બનાવટમાં (બેકિંગ સોડા + ટાર્ટરિક એસિડ).</li><li>સોડા-એસીડ અગ્નિશામકમાં આગ ઓલવવા માટે.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેકિંગ સોડા = ભજિયા સોડા = $NaHCO_3$.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "ધોવાના સોડાની બનાવટ અને તેના કોઈ પણ ત્રણ ઉપયોગો લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><b>રાસાયણિક સૂત્ર:</b> $Na_2CO_3 \\cdot 10H_2O$ (સોડિયમ કાર્બોનેટ ડેકાહાઇડ્રેટ)</li><li><b>બનાવટ:</b> બેકિંગ સોડાને ગરમ કરવાથી સોડિયમ કાર્બોનેટ મળે છે, તેનું પુનઃસ્ફટિકીકરણ કરવાથી ધોવાનો સોડા મળે છે.</li><li>$Na_2CO_3 + 10H_2O \\rightarrow Na_2CO_3 \\cdot 10H_2O$</li></ul><p><strong>ઉપયોગો:</strong></p><ol><li>કાચ, સાબુ અને કાગળ ઉદ્યોગમાં.</li><li>બોરેક્સ જેવા સોડિયમ સંયોજનોની બનાવટમાં.</li><li>પાણીની સ્થાયી કઠિનતા દૂર કરવા માટે.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $10H_2O$ એટલે 10 ડોલ પાણી ધોવા માટે જોઈએ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "ક્લોર-આલ્કલી પ્રક્રિયા આકૃતિ વગર સમજાવો અને તેની નીપજોના ઉપયોગો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જ્યારે સોડિયમ ક્લોરાઇડ ($NaCl$) ના જલીય દ્રાવણમાંથી વિદ્યુત પસાર કરવામાં આવે છે, ત્યારે તે વિઘટિત થઈને સોડિયમ હાઇડ્રોક્સાઇડ ($NaOH$) બનાવે છે. આ પ્રક્રિયાને <b>ક્લોર-આલ્કલી પ્રક્રિયા</b> કહે છે.</li><li><b>સમીકરણ:</b> $2NaCl(aq) + 2H_2O(l) \\rightarrow 2NaOH(aq) + Cl_2(g) + H_2(g)$</li></ul><p><strong>નીપજોના ઉપયોગો:</strong></p><ol><li><b>$H_2$ (હાઇડ્રોજન):</b> બળતણ અને ખાતર માટે એમોનિયા બનાવવામાં.</li><li><b>$Cl_2$ (ક્લોરિન):</b> જળ ઉપચાર (Swimming pools), PVC અને CFCs બનાવવામાં.</li><li><b>$NaOH$:</b> ધાતુઓ પરથી ગ્રીસ દૂર કરવા, સાબુ અને પ્રક્ષાલકોની બનાવટમાં.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્લોર = ક્લોરિન, આલ્કલી = NaOH. બહુ જ IMP પ્રશ્ન!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "pH માપક્રમ એટલે શું? ટૂંકમાં સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>દ્રાવણમાં રહેલા હાઇડ્રોજન આયન ($H^+$) ની સાંદ્રતા માપવા માટેના માપક્રમને <b>pH માપક્રમ</b> કહે છે.</li><li>pH માં 'p' જર્મન શબ્દ 'potenz' (પોટેન્ઝ) સૂચવે છે, જેનો અર્થ 'શક્તિ' (Power) થાય છે.</li><li><b>માપન:</b> pH માપક્રમ 0 થી 14 સુધીનું માપન કરી શકે છે.</li></ul><svg width='300' height='60' viewBox='0 0 300 60' xmlns='http://www.w3.org/2000/svg'><rect x='10' y='10' width='280' height='30' fill='url(#grad)' stroke='black'/><defs><linearGradient id='grad' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:red;stop-opacity:1' /><stop offset='50%' style='stop-color:green;stop-opacity:1' /><stop offset='100%' style='stop-color:purple;stop-opacity:1' /></linearGradient></defs><text x='15' y='55' font-size='10'>0 (Acidic)</text><text x='140' y='55' font-size='10'>7 (Neutral)</text><text x='245' y='55' font-size='10'>14 (Basic)</text></svg><ul><li><b>તટસ્થ દ્રાવણ:</b> pH = 7</li><li><b>એસિડિક દ્રાવણ:</b> pH < 7 (7 થી ઓછી)</li><li><b>બેઝિક દ્રાવણ:</b> pH > 7 (7 થી વધુ)</li></ul><hr><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "દાંતનું ક્ષયન (Tooth Decay) pH માં ફેરફારને કારણે થાય છે - સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જ્યારે મોઢાના અંદરના ભાગની pH <b>5.5 કરતા ઘટે</b> ત્યારે દાંતનું ક્ષયન શરૂ થાય છે.</li><li>દાંતનું ઉપરનું પડ કેલ્શિયમ ફોસ્ફેટનું બનેલું હોય છે, જે શરીરનો સૌથી સખત પદાર્થ છે. તે પાણીમાં ઓગળતું નથી.</li><li>પરંતુ જ્યારે મોઢામાં pH 5.5 થી ઘટે ત્યારે આ પડ ખવાવા લાગે છે.</li><li>મોઢામાં હાજર બેક્ટેરિયા ખોરાક લીધા પછી બાકી રહેલા શર્કરા અને અન્નકણોનું વિઘટન કરી <b>ઍસિડ</b> ઉત્પન્ન કરે છે.</li><li><b>નિવારણ:</b> જમ્યા પછી મોઢું સાફ કરવું અને બેઝિક ટૂથપેસ્ટનો ઉપયોગ કરવો જે વધારાના એસિડને તટસ્થ કરે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: pH < 5.5 = દાંતમાં ખાડા (ક્ષયન). ઉપાય = ટૂથપેસ્ટ (બેઇઝ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "ધાતુ કાર્બોનેટ અને ધાતુ હાઇડ્રોજન કાર્બોનેટની એસિડ સાથેની પ્રક્રિયા ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>તમામ ધાતુ કાર્બોનેટ અને હાઇડ્રોજન કાર્બોનેટ એસિડ સાથે પ્રક્રિયા કરી <b>ક્ષાર, કાર્બન ડાયોક્સાઇડ અને પાણી</b> આપે છે.</li><li><b>સામાન્ય સમીકરણ:</b> ધાતુ કાર્બોનેટ + એસિડ → ક્ષાર + $CO_2$ + $H_2O$</li></ul><p><strong>ઉદાહરણ:</strong></p><ol><li>$Na_2CO_3(s) + 2HCl(aq) \\rightarrow 2NaCl(aq) + H_2O(l) + CO_2(g)$</li><li>$NaHCO_3(s) + HCl(aq) \\rightarrow NaCl(aq) + H_2O(l) + CO_2(g)$</li></ol><ul><li>અહીં ઉત્પન્ન થતો $CO_2$ ગેસ ચૂનાના પાણીને દૂધિયું બનાવે છે.</li></ul><hr><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "તટસ્થીકરણ પ્રક્રિયા એટલે શું? બે ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જે પ્રક્રિયામાં ઍસિડ અને બેઇઝ વચ્ચે પ્રક્રિયા થઈ <b>ક્ષાર અને પાણી</b> બને છે, તે પ્રક્રિયાને <b>તટસ્થીકરણ પ્રક્રિયા</b> કહે છે.</li><li><b>સામાન્ય સમીકરણ:</b> ઍસિડ + બેઇઝ → ક્ષાર + પાણી</li></ul><p><strong>ઉદાહરણો:</strong></p><ol><li>$NaOH(aq) + HCl(aq) \\rightarrow NaCl(aq) + H_2O(l)$ (સોડિયમ હાઇડ્રોક્સાઇડ + હાઇડ્રોક્લોરિક એસિડ)</li><li>$KOH(aq) + HNO_3(aq) \\rightarrow KNO_3(aq) + H_2O(l)$ (પોટેશિયમ હાઇડ્રોક્સાઇડ + નાઈટ્રિક એસિડ)</li></ol><ul><li>આ પ્રક્રિયામાં એસિડનો એસિડિક ગુણધર્મ અને બેઇઝનો બેઝિક ગુણધર્મ નાશ પામે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એસિડ + બેઇઝ = ઢીશુમ ઢીશુમ (તટસ્થ) = ક્ષાર + પાણી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 3,
+      "question": "શા માટે દહીં અને ખાટા પદાર્થોને પિત્તળ કે તાંબાના વાસણોમાં ન રાખવા જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>દહીં અને ખાટા પદાર્થો સ્વભાવે <b>ઍસિડિક</b> હોય છે.</li><li>જ્યારે આ એસિડિક પદાર્થોને પિત્તળ કે તાંબા (ધાતુ) ના વાસણોમાં રાખવામાં આવે છે, ત્યારે તે ધાતુ સાથે પ્રક્રિયા કરે છે.</li><li>આ પ્રક્રિયાને કારણે <b>ઝેરી તાંબાના ક્ષાર</b> ઉત્પન્ન થાય છે, જે સ્વાસ્થ્ય માટે હાનિકારક છે અને ખોરાકને ઝેરી (Food poisoning) બનાવે છે.</li><li>તેથી, આવા પદાર્થોને ધાતુના વાસણોમાં રાખવા જોઈએ નહીં.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એસિડ + ધાતુ = ઝેરી ક્ષાર. એટલે સ્ટીલ કે કાચના વાસણ વાપરવા!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 3,
+      "question": "ઍસિડ અને બેઇઝ વચ્ચેના કોઈ પણ ત્રણ મુખ્ય તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><table style='width:100%; border-collapse: collapse;'><thead><tr style='background-color:#16a085; color:white;'><th style='border:1px solid #ddd; padding:8px;'>લક્ષણ</th><th style='border:1px solid #ddd; padding:8px;'>ઍસિડ</th><th style='border:1px solid #ddd; padding:8px;'>બેઇઝ</th></tr></thead><tbody><tr><td style='border:1px solid #ddd; padding:8px;'>સ્વાદ</td><td style='border:1px solid #ddd; padding:8px;'>સ્વાદે ખાટા હોય છે.</td><td style='border:1px solid #ddd; padding:8px;'>સ્વાદે તુરા હોય છે.</td></tr><tr><td style='border:1px solid #ddd; padding:8px;'>લિટમસ પત્ર</td><td style='border:1px solid #ddd; padding:8px;'>ભૂરા લિટમસને લાલ બનાવે છે.</td><td style='border:1px solid #ddd; padding:8px;'>લાલ લિટમસને ભૂરૂં બનાવે છે.</td></tr><tr><td style='border:1px solid #ddd; padding:8px;'>આયન</td><td style='border:1px solid #ddd; padding:8px;'>જલીય દ્રાવણમાં $H^+$ આયન આપે છે.</td><td style='border:1px solid #ddd; padding:8px;'>જલીય દ્રાવણમાં $OH^-$ આયન આપે છે.</td></tr></tbody></table><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'એ ભૂ લા' (એસિડ ભૂરાને લાલ બનાવે) અને 'બે લા ભૂ' (બેઇઝ લાલને ભૂરૂં બનાવે).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Basic Concept</p></div>"
+    }
+  ]
+}
