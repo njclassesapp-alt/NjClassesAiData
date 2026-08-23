@@ -235,3 +235,82 @@ var Std10_Science_3Marks = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "કાર્બન અને તેનાં સંયોજનો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "કાર્બનનો સર્વતોમુખી સ્વભાવ (Versatile Nature) સમજાવતા બે મુખ્ય પરિબળો સમજાવો. (GSEB March 2020, 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કાર્બન મોટી સંખ્યામાં સંયોજનો બનાવે છે તેના માટે નીચેના બે પરિબળો જવાબદાર છે:</p><ul><li><strong>1. કેટેનેશન (Catenation):</strong> કાર્બન પરમાણુ અન્ય કાર્બન પરમાણુઓ સાથે બંધ બનાવવાની અદ્વિતીય ક્ષમતા ધરાવે છે, જેને કારણે લાંબી શૃંખલા, શાખિત શૃંખલા અથવા વલયો બને છે. કાર્બન-કાર્બન બંધ ખૂબ જ પ્રબળ અને સ્થાયી હોય છે.</li><li><strong>2. ચતુઃસંયોજકતા (Tetravalency):</strong> કાર્બનની સંયોજકતા 4 છે. આથી તે અન્ય 4 કાર્બન પરમાણુ અથવા અન્ય એકલ સંયોજક તત્વો (જેમ કે H, Cl, O, N) સાથે બંધ બનાવી શકે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો 'C-T' -> C for Catenation (Self-linking) અને T for Tetravalency (4 bonds).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board 2023 / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "સજાતીય શ્રેણી (Homologous Series) એટલે શું? તેની કોઈપણ બે લાક્ષણિકતાઓ જણાવો. (GSEB July 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>વ્યાખ્યા:</strong> સમાન ક્રિયાશીલ સમૂહ ધરાવતા અને જેમના પાસપાસેના બે સભ્યો વચ્ચે <strong>-CH₂-</strong> ગ્રુપનો તફાવત હોય તેવી કાર્બનિક સંયોજનોની શ્રેણીને સજાતીય શ્રેણી કહે છે.</p><p><strong>લાક્ષણિકતાઓ:</strong></p><ul><li>શ્રેણીના કોઈપણ બે ક્રમિક સભ્યો વચ્ચેના આણ્વીય દળમાં 14 u નો તફાવત હોય છે.</li><li>શ્રેણીના બધા જ સભ્યોના રાસાયણિક ગુણધર્મો સમાન હોય છે.</li><li>જેમ આણ્વીય દળ વધે તેમ ગલનબિંદુ અને ઉત્કલનબિંદુ જેવા ભૌતિક ગુણધર્મોમાં ક્રમબદ્ધ ફેરફાર જોવા મળે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'CH2' અને '14u' આ બે કીવર્ડ્સ ક્યારેય ભૂલવા નહીં!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NCERT</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "પેન્ટેન (Pentane) ના બંધારણીય સમઘટકો (Isomers) દોરો અને તેમના નામ લખો. (GSEB March 2020)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પેન્ટેન ($C_5H_{12}$) ના ત્રણ મુખ્ય બંધારણીય સમઘટકો છે:</p><ol><li><strong>n-પેન્ટેન:</strong> સીધી શૃંખલા (C-C-C-C-C)</li><li><strong>આઇસો-પેન્ટેન (2-મિથાઇલ બ્યુટેન):</strong> એક શાખા ધરાવતી શૃંખલા.</li><li><strong>નિયો-પેન્ટેન (2,2-ડાયમિથાઇલ પ્રોપેન):</strong> બે શાખા ધરાવતી શૃંખલા.</li></ol><svg width='300' height='100' viewBox='0 0 300 100'><text x='10' y='20' font-family='Arial' font-size='12'>n-Pentane: CH3-CH2-CH2-CH2-CH3</text><text x='10' y='50' font-family='Arial' font-size='12'>Isopentane: CH3-CH(CH3)-CH2-CH3</text><text x='10' y='80' font-family='Arial' font-size='12'>Neopentane: C(CH3)4</text></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 કાર્બન માટે 3 આકાર: લાંબી પટ્ટી, L આકાર અને + (પ્લસ) આકાર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "હાઇડ્રોજનીકરણ (Hydrogenation) પ્રક્રિયા એટલે શું? તેની ઔદ્યોગિક ઉપયોગિતા જણાવો. (GSEB March 2019)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>વ્યાખ્યા:</strong> નિકલ (Ni) અથવા પેલેડિયમ જેવા ઉદ્દીપકની હાજરીમાં અસંતૃપ્ત હાઇડ્રોકાર્બનમાં હાઇડ્રોજન ઉમેરાઈને સંતૃપ્ત હાઇડ્રોકાર્બન બનવાની પ્રક્રિયાને હાઇડ્રોજનીકરણ કહે છે.</p><p><strong>પ્રક્રિયા:</strong> $R_2C=CR_2 + H_2 \\xrightarrow{Ni} R_2CH-CHR_2$</p><p><strong>ઔદ્યોગિક ઉપયોગિતા:</strong></p><ul><li>આ પ્રક્રિયાનો ઉપયોગ વનસ્પતિ તેલ (અસંતૃપ્ત) માંથી વનસ્પતિ ઘી (સંતૃપ્ત) બનાવવા માટે થાય છે.</li><li>સામાન્ય રીતે વનસ્પતિ તેલ સ્વાસ્થ્ય માટે સારા હોય છે, જ્યારે પ્રાણીજ ચરબી (ઘી) માં સંતૃપ્ત ફેટી એસિડ હોવાથી તે સ્વાસ્થ્ય માટે હાનિકારક હોઈ શકે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલ + H2 = ઘી (ઉદ્દીપક: નિકલ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "મિસેલ (Micelle) ની રચના આકૃતિ સહ સમજાવો. (GSEB 2019, 2024 Sample)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સાબુના અણુના બે છેડા હોય છે: (1) જલઅનુરાગી (Hydrophilic) - જે પાણી સાથે જોડાય છે અને (2) જલવિતરાગી (Hydrophobic) - જે તેલ/મેલ સાથે જોડાય છે.</p><ul><li>જ્યારે સાબુને પાણીમાં ઓગળવામાં આવે ત્યારે તેલના ટીપાંની ફરતે સાબુના અણુઓ ગોઠવાય છે.</li><li>તેમાં જલવિતરાગી પૂંછડી કેન્દ્ર તરફ (મેલ તરફ) અને જલઅનુરાગી શીર્ષ બહારની તરફ રહે છે.</li><li>આ રીતે બનતી ગોળાકાર રચનાને 'મિસેલ' કહે છે.</li></ul><svg width='150' height='150' viewBox='0 0 100 100'><circle cx='50' cy='50' r='15' fill='#8d6e63' /><circle cx='50' cy='50' r='40' stroke='black' stroke-dasharray='5,5' fill='none' /><text x='40' y='55' font-size='8' fill='white'>મેલ</text></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂંછડી મેલમાં, માથું પાણીમાં!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "ઇથેનોઇક એસિડ (એસિટિક એસિડ) ના ભૌતિક ગુણધર્મો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>1. ઇથેનોઇક એસિડ રંગવિહીન અને તીવ્ર ખાટી વાસ ધરાવતું પ્રવાહી છે.</li><li>2. તે સ્વાદે ખાટો હોય છે. તેના 5-8% દ્રાવણને 'સરકો' (Vinegar) કહે છે.</li><li>3. શુદ્ધ ઇથેનોઇક એસિડનું ગલનબિંદુ 290 K છે, આથી શિયાળામાં તે થીજી જાય છે, તેથી તેને 'ગ્લેશિયલ એસિટિક એસિડ' પણ કહે છે.</li><li>4. તે પાણીમાં ગમે તે પ્રમાણમાં મિશ્ર થઈ શકે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિયાળામાં જે થીજી જાય એ જ ગ્લેશિયલ (ગ્લેશિયર જેવો).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "ઇથેનોલનું ઓક્સિડેશન સમજાવો. (રાસાયણિક સમીકરણ સાથે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જ્યારે ઇથેનોલને ક્ષારીય પોટેશિયમ પરમેંગેનેટ ($KMnO_4$) અથવા એસિડિક પોટેશિયમ ડાયક્રોમેટ ($K_2Cr_2O_7$) ની હાજરીમાં ગરમ કરવામાં આવે ત્યારે તેનું ઇથેનોઇક એસિડમાં રૂપાંતર થાય છે.</p><p><strong>સમીકરણ:</strong><br>$CH_3CH_2OH + 2[O] \\xrightarrow{Alkaline \\ KMnO_4 / Heat} CH_3COOH + H_2O$</p><p>અહીં, આ પદાર્થો ઓક્સિજન ઉમેરતા હોવાથી તેમને <strong>ઓક્સિડેશનકર્તા</strong> કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દારૂ (Alcohol) માંથી એસિડ બનાવવાની રીત એટલે ઓક્સિડેશન.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook Page 71</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "એસ્ટરીકરણ (Esterification) પ્રક્રિયા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>એસિડ ઉદ્દીપકની હાજરીમાં ઇથેનોઇક એસિડ અને ઇથેનોલ વચ્ચે પ્રક્રિયા થઈ મીઠી વાસ ધરાવતો પદાર્થ 'એસ્ટર' બને છે, આ પ્રક્રિયાને એસ્ટરીકરણ કહે છે.</p><p><strong>સમીકરણ:</strong><br>$CH_3COOH + CH_3CH_2OH \\xrightarrow{Acid} CH_3COOCH_2CH_3 + H_2O$</p><p><strong>ઉપયોગ:</strong> એસ્ટરનો ઉપયોગ અત્તર (Perfumes) બનાવવા અને સ્વાદ લાવનારા પદાર્થો તરીકે થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એસિડ + આલ્કોહોલ = અત્તર જેવી સુગંધ (એસ્ટર).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Notes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "નાઇટ્રોજન ($N_2$) અણુમાં સહસંયોજક બંધની રચના ઇલેક્ટ્રોન બિંદુ સંરચના દ્વારા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>નાઇટ્રોજનનો પરમાણુ ક્રમાંક 7 છે, તેની ઇલેક્ટ્રોન રચના (2, 5) છે.</li><li>તેને અષ્ટક પૂર્ણ કરવા માટે 3 ઇલેક્ટ્રોનની જરૂર છે.</li><li>આથી, નાઇટ્રોજનના બે પરમાણુઓ એકબીજા સાથે 3-3 ઇલેક્ટ્રોનની ભાગીદારી કરે છે.</li><li>પરિણામે બે પરમાણુ વચ્ચે <strong>ત્રિ-બંધ (Triple Bond)</strong> બને છે.</li></ul><p><strong>સંરચના:</strong> :N ≡ N:</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: N માટે 3 ઇલેક્ટ્રોનની ભાગીદારી = 3 લીટી (ત્રિબંધ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Basic</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "સાબુ અને પ્રક્ષાલકો (Detergents) વચ્ચેનો તફાવત લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><table border='1' style='width:100%; border-collapse: collapse;'><tr><th>સાબુ</th><th>પ્રક્ષાલકો (ડિટરજન્ટ)</th></tr><tr><td>લાંબી શૃંખલાવાળા ફેટી એસિડના સોડિયમ ક્ષાર છે.</td><td>લાંબી શૃંખલાવાળા સલ્ફોનિક એસિડના સોડિયમ ક્ષાર છે.</td></tr><tr><td>તે કઠણ પાણીમાં અસરકારક નથી (ફીણ આપતા નથી).</td><td>તે કઠણ અને નરમ બંને પાણીમાં અસરકારક છે.</td></tr><tr><td>તે જૈવ-વિઘટનીય છે.</td><td>કેટલાક પ્રક્ષાલકો જૈવ-અવિઘટનીય હોઈ શકે છે.</td></tr></table><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાબુ = નરમ પાણી, ડિટરજન્ટ = ગમે તેવું પાણી (All-rounder).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Comparison</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 3,
+      "question": "કાર્બન સંયોજનોના દહન (Combustion) વિશે નોંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>કાર્બન અને તેના સંયોજનો હવાની હાજરીમાં સળગીને ઉષ્મા અને પ્રકાશ મુક્ત કરે છે.</li><li><strong>સંતૃપ્ત હાઇડ્રોકાર્બન:</strong> સામાન્ય રીતે સ્વચ્છ જ્યોત (વાદળી) સાથે સળગે છે.</li><li><strong>અસંતૃપ્ત હાઇડ્રોકાર્બન:</strong> પુષ્કળ કાળા ધુમાડાવાળી પીળી જ્યોત સાથે સળગે છે.</li><li><strong>સમીકરણ:</strong> $CH_4 + 2O_2 \\rightarrow CO_2 + 2H_2O + Heat + Light$</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગેસનો ચૂલો વાદળી જ્યોત (સંતૃપ્ત) અને લાકડું/મીણબત્તી પીળી જ્યોત (અસંતૃપ્ત).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Chapter 4 Section 4.4</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 3,
+      "question": "વિસ્થાપન પ્રક્રિયા (Substitution Reaction) મિથેનના ઉદાહરણ દ્વારા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સંતૃપ્ત હાઇડ્રોકાર્બન સામાન્ય રીતે નિષ્ક્રિય હોય છે, પરંતુ સૂર્યપ્રકાશની હાજરીમાં તે ક્લોરિન સાથે ઝડપી પ્રક્રિયા કરે છે. આ પ્રક્રિયામાં ક્લોરિનનો પરમાણુ એક પછી એક હાઇડ્રોજનનું સ્થાન લે છે.</p><p><strong>સમીકરણ:</strong><br>$CH_4 + Cl_2 \\xrightarrow{Sunlight} CH_3Cl + HCl$</p><p>આ રીતે ક્લોરોમિથેન બને છે. વધુ પ્રક્રિયાથી ડાયક્લોરોમિથેન, ક્લોરોફોર્મ અને કાર્બન ટેટ્રાક્લોરાઇડ બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિસ્થાપન એટલે 'એક જાય અને બીજો આવે' (H આઉટ, Cl ઇન).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept</p></div>"
+    }
+  ]
+}
