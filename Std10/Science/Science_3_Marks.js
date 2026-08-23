@@ -490,3 +490,100 @@ var Std10_Science_3Marks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "સજીવો કેવી રીતે પ્રજનન કરે છે?",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "પ્રજનનમાં DNA પ્રતિકૃતિનું મહત્વ સમજાવો. (Board 2020, 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>સજીવોની બ્લુપ્રિન્ટ તેમના DNA (Deoxyribonucleic Acid) માં હોય છે. પ્રજનન દરમિયાન પિતૃ પેઢીમાંથી સંતતિમાં લક્ષણોના વહન માટે DNA પ્રતિકૃતિ બનાવવી અનિવાર્ય છે.</li><li>DNA પ્રતિકૃતિ બનવાની પ્રક્રિયા દરમિયાન કેટલીક જૈવ-રાસાયણિક પ્રક્રિયાઓ થાય છે, જેને કારણે સંતતિમાં પિતૃ જેવા જ શારીરિક બંધારણ જળવાઈ રહે છે.</li><li>આ પ્રક્રિયા દરમિયાન થતી નાની ભિન્નતાઓ ઉત્ક્રાંતિનો આધાર બને છે, જે સજીવને બદલાતા પર્યાવરણમાં જીવંત રહેવા માટે મદદરૂપ થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: DNA = Design + New generation + Adaptability (ડિઝાઈન, નવી પેઢી અને અનુકૂલન).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board PYQ</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "ભાજન એટલે શું? અમીબામાં દ્વિભાજન આકૃતિ સહ સમજાવો. (Board 2019, 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>એકકોષી સજીવોમાં કોષ વિભાજન દ્વારા નવા સજીવોની ઉત્પત્તિ થવાની ક્રિયાને ભાજન કહે છે.</p><ul><li>અમીબા જેવા સજીવોમાં કોષ ગમે તે સમતલમાંથી બે ભાગમાં વિભાજિત થઈ શકે છે.</li><li>પ્રથમ કોષકેન્દ્ર લંબાય છે અને બે ભાગમાં વહેંચાય છે, ત્યારબાદ કોષરસનું વિભાજન થાય છે.</li><li>અંતે એક પિતૃ અમીબામાંથી બે બાળ અમીબા બને છે.</li></ul><svg width='200' height='100' viewBox='0 0 200 100'><circle cx='30' cy='50' r='15' fill='#add8e6' stroke='black'/><circle cx='30' cy='50' r='5' fill='black'/><text x='20' y='85' font-size='10'>અમીબા</text><path d='M60 50 L90 50' stroke='black' marker-end='url(#arrow)'/><ellipse cx='130' cy='50' rx='25' ry='15' fill='#add8e6' stroke='black'/><circle cx='120' cy='50' r='4' fill='black'/><circle cx='140' cy='50' r='4' fill='black'/><text x='110' y='85' font-size='10'>વિભાજન</text></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: અમીબા = અનિયમિત આકાર + બે ભાગ (દ્વિભાજન).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook Page 129</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "પ્લાઝમોડિયમમાં બહુભાજનની પ્રક્રિયા આકૃતિ સાથે સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>પ્લાઝમોડિયમ જેવા એકકોષી પરોપજીવી સજીવો એકસાથે અનેક સંતતિમાં વિભાજિત થાય છે, જેને બહુભાજન કહે છે.</li><li>પ્રતિકૂળ સંજોગોમાં સજીવની આસપાસ એક રક્ષણાત્મક કવચ (Cyst) બને છે.</li><li>કવચની અંદર કોષકેન્દ્ર વારંવાર વિભાજન પામી ઘણા બધા નાના કોષકેન્દ્રો બનાવે છે.</li><li>અનુકૂળ સંજોગો આવતા કવચ તૂટે છે અને ઘણા બધા બાળ કોષો એકસાથે મુક્ત થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: મલેરિયા પરોપજીવી = એક માંથી અનેક (બહુભાજન).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Notes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "પુનર્જનન (Regeneration) એટલે શું? પ્લેનેરિયાના ઉદાહરણ દ્વારા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જો કોઈ સજીવના શરીરના ટુકડા કરવામાં આવે, તો દરેક ટુકડો વિકાસ પામીને સંપૂર્ણ સજીવમાં ફેરવાય તેને પુનર્જનન કહે છે.</li><li>પ્લેનેરિયા જેવા જટિલ સજીવોમાં વિશિષ્ટ કોષો આવેલા હોય છે જે કોષ વિભાજન દ્વારા નવા કોષોનો સમૂહ બનાવે છે.</li><li>આ કોષો યોગ્ય ફેરફારો પામીને વિવિધ પેશીઓ અને અંગો બનાવે છે.</li><li><strong>નોંધ:</strong> પુનર્જનન એ પ્રજનનનો પર્યાય નથી, કારણ કે સજીવના ટુકડા થવા એ કુદરતી ઘટના નથી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: પ્લેનેરિયા = ગમે ત્યાંથી કાપો, નવો સજીવ પાપો!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Standard 10</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "હાઈડ્રામાં કલિકાસર્જન (Budding) આકૃતિ સહ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>હાઈડ્રા જેવા સજીવોમાં શરીરની સપાટી પર કોષોના વારંવાર વિભાજનને કારણે એક ઉપસેલો ભાગ તૈયાર થાય છે, જેને 'કલિકા' કહે છે.</li><li>આ કલિકા વૃદ્ધિ પામીને નાના હાઈડ્રામાં ફેરવાય છે.</li><li>જ્યારે તે સંપૂર્ણ રીતે વિકસિત થઈ જાય, ત્યારે પિતૃ શરીરથી અલગ થઈ સ્વતંત્ર સજીવ તરીકે જીવે છે.</li></ul><svg width='150' height='100'><path d='M20 80 Q20 40 40 40 T60 80' fill='none' stroke='green' stroke-width='3'/><path d='M55 65 Q65 60 75 65' fill='none' stroke='green' stroke-width='2'/><text x='70' y='60' font-size='10'>કલિકા</text></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: હાઈડ્રાની હાર (કલિકા), નવો અવતાર!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "વાનસ્પતિક પ્રજનન એટલે શું? તેના બે ફાયદા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વનસ્પતિના મૂળ, પ્રકાંડ કે પર્ણ જેવા અંગોમાંથી નવી વનસ્પતિ ઉત્પન્ન કરવાની પ્રક્રિયાને વાનસ્પતિક પ્રજનન કહે છે.</p><p><strong>ફાયદા:</strong></p><ul><li>જે વનસ્પતિઓ બીજ ઉત્પન્ન કરવાની ક્ષમતા ગુમાવી ચૂકી છે (દા.ત. કેળા, ગુલાબ, દ્રાક્ષ) તેમનું સંવર્ધન કરી શકાય છે.</li><li>આ પદ્ધતિથી ઉગાડવામાં આવેલી વનસ્પતિઓમાં ફૂલ અને ફળ વહેલા આવે છે.</li><li>નવી વનસ્પતિ પિતૃ વનસ્પતિ જેવી જ આનુવંશિક લાક્ષણિકતાઓ ધરાવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: વગર બીજની ખેતી = વાનસ્પતિક પ્રજનન.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> IMP Board Topic</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "રાઈઝોપસમાં બીજાણુનિર્માણ દ્વારા પ્રજનન સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>રાઈઝોપસ (બ્રેડ મોલ્ડ) જેવી ફૂગમાં તંતુમય રચનાના છેડે ગોળાકાર બીજાણુધાની આવેલી હોય છે.</li><li>આ બીજાણુધાનીમાં અસંખ્ય નાના બીજાણુઓ ઉત્પન્ન થાય છે.</li><li>બીજાણુઓની આસપાસ જાડી રક્ષણાત્મક દીવાલ હોય છે જે તેમને પ્રતિકૂળ સંજોગોમાં જીવંત રાખે છે.</li><li>જ્યારે આ બીજાણુઓ ભેજવાળી સપાટીના સંપર્કમાં આવે છે, ત્યારે તે અંકુરણ પામી નવી ફૂગ બનાવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: બ્રેડ પરની કાળી ફૂગ = બીજાણુનું સામ્રાજ્ય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "પુષ્પના લિંગી પ્રજનન અંગો તરીકે પુંકેસર અને સ્ત્રીકેસર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>પુંકેસર (નર પ્રજનન અંગ):</strong> તે પરાગાશય અને તંતુનું બનેલું છે. પરાગાશય પરાગરજ ઉત્પન્ન કરે છે જે નર જન્યુ ધરાવે છે.</li><li><strong>સ્ત્રીકેસર (માદા પ્રજનન અંગ):</strong> તે પુષ્પના મધ્યમાં આવેલું છે. તેના ત્રણ ભાગ છે: પરાગાસન (ચીકણી સપાટી), પરાગવાહિની (નળી જેવી રચના) અને અંડાશય (તળિયે ફૂલેલો ભાગ).</li><li>અંડાશયમાં અંડક હોય છે, જેમાં માદા જન્યુ (અંડકોષ) આવેલો હોય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: પુંકેસર = પરાગરજ (નર), સ્ત્રીકેસર = અંડકોષ (માદા).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Expert Teacher Choice</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "પરાગનયન અને ફલન વચ્ચેનો તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><table border='1' style='width:100%; border-collapse: collapse; text-align: left;'><tr><th>પરાગનયન</th><th>ફલન</th></tr><tr><td>પરાગરજનું પુંકેસરથી સ્ત્રીકેસરના પરાગાસન સુધી સ્થાનાંતર થવાની ક્રિયા.</td><td>નર જન્યુ અને માદા જન્યુના જોડાણની ક્રિયા.</td></tr><tr><td>આ બાહ્ય પ્રક્રિયા છે, જેમાં પવન, પાણી કે કીટકો મદદ કરે છે.</td><td>આ આંતરિક પ્રક્રિયા છે, જે બીજાશયની અંદર થાય છે.</td></tr><tr><td>તે ફલન પહેલાં થતી પ્રક્રિયા છે.</td><td>તે પરાગનયન પછી થતી પ્રક્રિયા છે.</td></tr></table><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: પરાગનયન એ મુસાફરી છે, ફલન એ મેળાપ છે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Board IMP Difference</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "તરુણાવસ્થા (Puberty) દરમિયાન છોકરાઓમાં જોવા મળતા શારીરિક ફેરફારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ચહેરા પર દાઢી-મૂછ ઉગવાની શરૂઆત થાય છે.</li><li>અવાજ ઘેરો અને કર્કશ બને છે.</li><li>ખભાનો ભાગ પહોળો બને છે અને સ્નાયુબદ્ધ શરીર તૈયાર થાય છે.</li><li>શિશ્ન કદમાં મોટું થાય છે અને ક્યારેક સખત થઈ ઉર્ધ્વસ્થ બને છે.</li><li>બગલ અને જનનાંગોની આસપાસ વાળ ઉગે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: અવાજ ઘેરો + દાઢી-મૂછ = નર ગૌણ જાતીય લક્ષણો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Human Reproduction Section</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 3,
+      "question": "પરાગનયન એટલે શું? તેના પ્રકારો સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પરાગરજનું પરાગાશયમાંથી પરાગાસન સુધી વહન થવાની ક્રિયાને પરાગનયન કહે છે.</p><ul><li><strong>સ્વ-પરાગનયન:</strong> જો પરાગરજનું સ્થાનાંતર તે જ પુષ્પના પરાગાસન પર થાય.</li><li><strong>પર-પરાગનયન:</strong> જો એક પુષ્પની પરાગરજ તે જ જાતિના અન્ય છોડના પુષ્પ પર સ્થાનાંતરિત થાય.</li><li>પર-પરાગનયન માટે પવન, પાણી, પક્ષીઓ કે કીટકો જેવા વાહકોની જરૂર પડે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: સેલ્ફ (પોતાનું) vs અધર (બીજું).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Notes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 3,
+      "question": "જરાયુ (Placenta) એટલે શું? તેનું કાર્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ગર્ભને માતાના રુધિરમાંથી પોષણ મેળવવા માટેની એક રકાબી જેવી વિશિષ્ટ પેશી રચનાને જરાયુ કહે છે.</li><li>તે ગર્ભાશયની દીવાલમાં ખૂંપેલી હોય છે. તેમાં ગર્ભની બાજુએ પ્રવર્ધો હોય છે.</li><li><strong>કાર્યો:</strong> <br>1. માતાના રુધિરમાંથી ગ્લુકોઝ અને ઓક્સિજન ગર્ભને પૂરા પાડે છે. <br>2. ગર્ભ દ્વારા ઉત્પન્ન થતા ઉત્સર્ગ દ્રવ્યોને માતાના રુધિરમાં નિકાલ કરવામાં મદદ કરે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: જરાયુ = ગર્ભની લાઈફલાઈન (પોષણ + સફાઈ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook Page 141</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 3,
+      "question": "ગર્ભનિરોધકની યાંત્રિક અવરોધ અને રાસાયણિક પદ્ધતિઓ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>યાંત્રિક અવરોધ:</strong> નિરોધ (Condom) નો ઉપયોગ કરીને શુક્રકોષોને અંડકોષ સુધી પહોંચતા અટકાવવામાં આવે છે. આ પદ્ધતિ STDs (જાતીય રોગો) સામે પણ રક્ષણ આપે છે.</li><li><strong>રાસાયણિક પદ્ધતિ:</strong> સ્ત્રીઓ દ્વારા ગર્ભનિરોધક ગોળીઓ લેવામાં આવે છે. આ ગોળીઓ શરીરમાં હોર્મોન્સનું સંતુલન બદલે છે, જેથી અંડપાત થતો નથી અને ફલન રોકાય છે.</li><li><strong>અન્ય:</strong> કોપર-ટી (IUCD) ગર્ભાશયમાં સ્થાપિત કરીને ગર્ભધારણ રોકી શકાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: મિકેનિકલ (રોકવું) + કેમિકલ (હોર્મોન બદલવા).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Reproductive Health Topic</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 3,
+      "question": "જો અંડકોષનું ફલન ન થાય તો શું થાય? (માસિક ચક્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જો અંડકોષનું ફલન ન થાય, તો તે લગભગ એક દિવસ સુધી જીવંત રહે છે.</li><li>ગર્ભાશયની અંદરની દીવાલ જે ગર્ભના સ્થાપન માટે જાડી અને રુધિરયુક્ત બની હતી, તેની હવે જરૂર રહેતી નથી.</li><li>આથી, આ દીવાલ ધીમે ધીમે તૂટે છે અને રુધિર તેમજ શ્લેષ્મના સ્વરૂપે યોનિમાર્ગ દ્વારા બહાર નીકળે છે.</li><li>આ ચક્રને માસિક સ્ત્રાવ કે ઋતુસ્ત્રાવ કહે છે, જે દર 28-30 દિવસે થાય છે અને 2 થી 8 દિવસ સુધી ચાલે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: ફલન નથી = દીવાલની જરૂર નથી = ઋતુસ્ત્રાવ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Female Reproductive Cycle</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 3,
+      "question": "શુક્રાશય અને પ્રોસ્ટેટ ગ્રંથિની ભૂમિકા શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>નર પ્રજનન તંત્રમાં શુક્રાશય અને પ્રોસ્ટેટ ગ્રંથિ પોતાના સ્ત્રાવ શુક્રવાહિનીમાં ઠાલવે છે.</li><li>આ સ્ત્રાવ શુક્રકોષોને એક પ્રવાહી માધ્યમ પૂરું પાડે છે, જેનાથી તેમનું સ્થળાંતર સરળ બને છે.</li><li>આ પ્રવાહી શુક્રકોષોને પોષણ પણ પૂરું પાડે છે, જેથી તેઓ ગતિશીલ રહી શકે છે.</li><li>શુક્રકોષો અને આ સ્ત્રાવના મિશ્રણને 'વીર્ય' કહેવામાં આવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: ગ્રંથિનો સ્ત્રાવ = પ્રવાહી માધ્યમ + પોષણ + સરળ વહન.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Male Reproductive System Details</p></div>"
+    }
+  ]
+}
