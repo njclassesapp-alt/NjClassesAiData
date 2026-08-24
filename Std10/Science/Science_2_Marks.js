@@ -192,3 +192,100 @@ var Std10_Science_2Marks = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "ધાતુઓ અને અધાતુઓ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "ઉભયગુણી ઓક્સાઈડ એટલે શું? ઉદાહરણ આપી સમજાવો. (March 2020, 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જે ધાતુ ઓક્સાઈડ એસિડ અને બેઝ એમ બંને સાથે પ્રક્રિયા કરી ક્ષાર અને પાણી આપે છે, તેને ઉભયગુણી ઓક્સાઈડ કહે છે.</p><ul><li><strong>ઉદાહરણ:</strong> એલ્યુમિનિયમ ઓક્સાઈડ (Al₂O₃) અને ઝિંક ઓક્સાઈડ (ZnO).</li></ul><p><strong>સમીકરણ:</strong></p><p>Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O (એસિડ સાથે)</p><p>Al₂O₃ + 2NaOH → 2NaAlO₂ (સોડિયમ એલ્યુમિનેટ) + H₂O (બેઝ સાથે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઉભય' એટલે બંને (એસિડ + બેઝ). Al અને Zn આ બંનેના ઓક્સાઈડ ડબલ રોલ ભજવે છે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "સોડિયમને કેરોસીનમાં કેમ રાખવામાં આવે છે? (March 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>સોડિયમ (Na) એ અતિ સક્રિય ધાતુ છે.</li><li>તે ઓરડાના તાપમાને હવામાંના ઓક્સિજન સાથે પ્રતિક્રિયા કરી સળગી ઉઠે છે.</li><li>તે ભેજ (પાણી) સાથે પણ ઉષ્માક્ષેપક પ્રક્રિયા કરે છે.</li><li>આથી, તેને હવા અને ભેજથી અલગ રાખવા અને અકસ્માત રોકવા માટે કેરોસીનમાં ડુબાડીને રાખવામાં આવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોડિયમ 'ખુબ ગુસ્સાવાળો' છે, તેને શાંત રાખવા કેરોસીન જેવું જેકેટ પહેરાવવું પડે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "વ્યાખ્યા આપો: (1) ભૂંજન (Roasting) (2) કેલ્સિનેશન (Calcination)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ol><li><strong>ભૂંજન (Roasting):</strong> સલ્ફાઈડયુક્ત કાચી ધાતુને વધુ પ્રમાણમાં હવાની હાજરીમાં સખત ગરમ કરી ઓક્સાઈડમાં ફેરવવાની ક્રિયાને ભૂંજન કહે છે.</li><li><strong>કેલ્સિનેશન (Calcination):</strong> કાર્બોનેટયુક્ત કાચી ધાતુને મર્યાદિત હવાની હાજરીમાં સખત ગરમ કરી ઓક્સાઈડમાં ફેરવવાની ક્રિયાને કેલ્સિનેશન કહે છે.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ' થી સલ્ફાઈડ - 'ભ' થી ભૂંજન. 'ક' થી કાર્બોનેટ - 'ક' થી કેલ્સિનેશન.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "કારણ આપો: પ્લેટિનમ, સોનું અને ચાંદી આભૂષણો બનાવવા માટે વપરાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આ ધાતુઓ ખૂબ જ ઓછી સક્રિય હોવાથી તેને હવા, પાણી કે એસિડની અસર થતી નથી એટલે કે તેને કાટ લાગતો નથી.</li><li>તેઓ ચળકાટ ધરાવે છે અને લાંબા સમય સુધી ચમક જાળવી રાખે છે.</li><li>તેઓ ટીપાઉપણા અને તણાઉપણાનો ગુણ ધરાવે છે, જેથી તેમાંથી બારીક ડિઝાઈન બનાવી શકાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચમક + મજબૂતી + કાટમુક્ત = બેસ્ટ જ્વેલરી'</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "આયોનિક સંયોજનોના ગલનબિંદુ ઊંચા હોય છે. કારણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આયોનિક સંયોજનોમાં વિરુદ્ધ વીજભાર ધરાવતા આયનો (ધન અને ઋણ) વચ્ચે પ્રબળ સ્થિર-વિદ્યુત આકર્ષણ બળ હોય છે.</li><li>આ પ્રબળ આંતર-આણ્વીય આકર્ષણ બળને તોડવા માટે ખૂબ જ વધુ પ્રમાણમાં ઉષ્મા ઉર્જાની જરૂર પડે છે.</li><li>આથી, આયોનિક સંયોજનો (જેમ કે NaCl) ના ગલનબિંદુ અને ઉત્કલનબિંદુ ઊંચા હોય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધન(+) અને ઋણ(-) વચ્ચે 'ફેવિકોલ' જેવું મજબૂત જોડાણ હોય છે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "એક્વા-રેજિયા (Aqua Regia) એટલે શું? તેનો ઉપયોગ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>સાંદ્ર હાઇડ્રોક્લોરિક એસિડ (HCl) અને સાંદ્ર નાઈટ્રિક એસિડ (HNO₃) નું <strong>3 : 1</strong> ના પ્રમાણમાં બનાવેલું તાજું મિશ્રણ એટલે 'એક્વા-રેજિયા'.</li><li>તે અત્યંત ક્ષારણકર્તા અને ધુમાયમાન પ્રવાહી છે.</li><li><strong>ઉપયોગ:</strong> તે સોનું (Au) અને પ્લેટિનમ (Pt) જેવી ઉમદા ધાતુઓને ઓગાળવા માટે વપરાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખવાની ટ્રીક: HCl(3 ભાગ) + HNO₃(1 ભાગ). 'H-C-L' માં 3 અક્ષર એટલે 3 ભાગ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "મિશ્રધાતુ એટલે શું? બે ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>બે કે તેથી વધુ ધાતુઓ અથવા ધાતુ અને અધાતુના સમાંગ મિશ્રણને મિશ્રધાતુ કહે છે.</p><ul><li><strong>પિત્તળ (Brass):</strong> તાંબુ (Cu) + જસત (Zn)</li><li><strong>કાંસું (Bronze):</strong> તાંબુ (Cu) + કલાઈ (Sn)</li><li><strong>સ્ટેનલેસ સ્ટીલ:</strong> લોખંડ + નિકલ + ક્રોમિયમ</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિત્તળ = 'તા-જ' (તાંબુ + જસત). કાંસું = 'તા-ક' (તાંબુ + કલાઈ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board FAQ</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "ધાતુઓના ક્ષારણ અટકાવવાના કોઈપણ ચાર ઉપાયો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ol><li>ધાતુની સપાટી પર રંગ (Paint) લગાવીને.</li><li>તેલ અથવા ગ્રીસ લગાવીને.</li><li>ગેલ્વેનાઈઝિંગ (ઝિંકનું પડ ચઢાવીને).</li><li>મિશ્રધાતુ બનાવીને (દા.ત. સ્ટેનલેસ સ્ટીલ).</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા અને ભેજ વચ્ચે 'દીવાલ' (રંગ કે પડ) બનાવી દો એટલે કાટ ગાયબ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "ગેલ્વેનાઈઝેશન એટલે શું? તેનું મહત્વ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>લોખંડ કે સ્ટીલને કાટથી બચાવવા માટે તેના પર ઝિંક (જસત) નું પાતળું પડ ચઢાવવાની પદ્ધતિને <strong>ગેલ્વેનાઈઝેશન</strong> કહે છે.</li><li><strong>મહત્વ:</strong> જો ઝિંકનું પડ તૂટી જાય તો પણ અંદરનું લોખંડ સુરક્ષિત રહે છે કારણ કે ઝિંક એ લોખંડ કરતા વધુ સક્રિય હોવાથી તે પહેલા ઓક્સિડાઈઝ થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝિંક એ લોખંડનો 'બોડીગાર્ડ' છે જે પોતે નુકસાન સહી લોખંડને બચાવે છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "ધાતુઓના ભૌતિક ગુણધર્મો જણાવો. (કોઈપણ ચાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ol><li>ધાતુઓ શુદ્ધ અવસ્થામાં ચળકાટ ધરાવે છે.</li><li>તેઓ ઓરડાના તાપમાને ઘન સ્વરૂપમાં હોય છે (પારો અપવાદ).</li><li>તેઓ ટીપાઉપણું (Malleability) અને તણાઉપણું (Ductility) ધરાવે છે.</li><li>તેઓ ઉષ્મા અને વિદ્યુતના સુવાહક હોય છે.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચમકે, ટીપાય, ખેંચાય અને કરંટ આપે' તે ધાતુ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Basic Science Concepts</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "નીચેના પદો સમજાવો: (1) ગેંગ (Gangue) (2) એનોડિક પંક (Anode Mud)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ol><li><strong>ગેંગ:</strong> પૃથ્વીના પોપડામાંથી મળતી કાચી ધાતુમાં રહેલી રેતી, માટી અને પથ્થર જેવી અશુદ્ધિઓને ગેંગ કહે છે.</li><li><strong>એનોડિક પંક:</strong> વિદ્યુત-વિભાજનીય શુદ્ધિકરણ દરમિયાન એનોડની નીચે જે અદ્રાવ્ય અશુદ્ધિઓ જમા થાય છે, તેને એનોડિક પંક કહે છે.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગેંગ = કાચી ધાતુનો કચરો. એનોડિક પંક = શુદ્ધિકરણનો છેલ્લો કચરો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Metallurgy Terms</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "લોખંડના કટાવા માટેની શરતો ચકાસતો પ્રયોગ આકૃતિ દોરી સમજાવો. (ટુંકમાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><svg width='200' height='100' viewBox='0 0 200 100' xmlns='http://www.w3.org/2000/svg'><rect x='20' y='20' width='10' height='60' fill='#ccc' stroke='black'/><text x='40' y='55' font-size='10'>ખીલી</text><path d='M10,80 Q100,95 190,80' stroke='blue' fill='none'/><text x='80' y='95' font-size='10'>પાણી + હવા</text></svg><ul><li>લોખંડના કટાવા માટે <strong>હવા (ઓક્સિજન)</strong> અને <strong>ભેજ (પાણી)</strong> બંનેની હાજરી અનિવાર્ય છે.</li><li>જો માત્ર સૂકી હવા હોય કે માત્ર ઉકાળેલું (હવા વગરનું) પાણી હોય તો કાટ લાગતો નથી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાટ = લોખંડ + O₂ + H₂O. આમાંથી એક પણ ગેરહાજર હોય તો કાટ ન લાગે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Activity</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "તાંબાના વિદ્યુત-વિભાજનીય શુદ્ધિકરણમાં એનોડ અને કેથોડ તરીકે શું લેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>એનોડ (Anode):</strong> અશુદ્ધ તાંબાનો જાડો સળિયો.</li><li><strong>કેથોડ (Cathode):</strong> શુદ્ધ તાંબાની પાતળી પટ્ટી.</li><li><strong>વિદ્યુત વિભાજ્ય:</strong> એસિડિક કોપર સલ્ફેટ (CuSO₄) નું દ્રાવણ.</li></ul><p>જ્યારે વિદ્યુતપ્રવાહ પસાર થાય ત્યારે અશુદ્ધ એનોડ ઓગળે છે અને શુદ્ધ કોપર કેથોડ પર જમા થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'A' ફોર અશુદ્ધ (Anode), 'K' ફોર કમ્પ્લીટ શુદ્ધ (Kathode).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "થર્મિટ પ્રક્રિયા એટલે શું? તેનું સમીકરણ અને એક ઉપયોગ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વધારે સક્રિય ધાતુ (Al) દ્વારા ઓછી સક્રિય ધાતુના ઓક્સાઈડનું વિસ્થાપન કરવાની અત્યંત ઉષ્માક્ષેપક પ્રક્રિયાને થર્મિટ પ્રક્રિયા કહે છે.</p><p><strong>સમીકરણ:</strong> Fe₂O₃ + 2Al → 2Fe (પ્રવાહી) + Al₂O₃ + ઉષ્મા</p><ul><li><strong>ઉપયોગ:</strong> રેલવેના પાટા અથવા મશીનના તિરાડ પડેલા ભાગોને જોડવા માટે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થર્મિટ એટલે 'ગામઠી વેલ્ડિંગ' જે ગરમીથી લોખંડ ઓગાળી સાંધો કરી દે છે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "મેગ્નેશિયમની પટ્ટીને હવામાં સળગાવતા પહેલા શા માટે સાફ કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>મેગ્નેશિયમ અતિ સક્રિય ધાતુ હોવાથી હવામાંના ઓક્સિજન સાથે પ્રક્રિયા કરી તેની સપાટી પર <strong>મેગ્નેશિયમ ઓક્સાઈડ (MgO)</strong> નું નિષ્ક્રિય પળ બનાવી દે છે.</li><li>આ પડ મેગ્નેશિયમને આગળ સળગતા અટકાવે છે.</li><li>તેથી, કાચ પેપર વડે સાફ કરવાથી આ પડ દૂર થાય છે અને મેગ્નેશિયમ સરળતાથી ઓક્સિજન સાથે પ્રક્રિયા કરી જગારા મારતી સફેદ જ્યોતથી સળગી શકે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ આપણે ધૂળ સાફ કરીએ તો જ વસ્તુ દેખાય, તેમ MgO સાફ કરીએ તો જ Mg સળગે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Chapter 1 & 3 Combined Concept</p></div>"
+    }
+  ]
+}
