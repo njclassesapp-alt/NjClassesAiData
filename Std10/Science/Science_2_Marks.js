@@ -95,3 +95,100 @@ var Std10_Science_2Marks = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "ઍસિડ, બેઇઝ અને ક્ષાર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "નિસ્યંદિત પાણી વિદ્યુતનું વહન કરતું નથી, જ્યારે વરસાદી પાણી વિદ્યુતનું વહન કરે છે. શા માટે? (March 2020, Aug 2020)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>નિસ્યંદિત પાણી એ શુદ્ધ પાણી છે, તેમાં કોઈ પણ પ્રકારના આયનો (Ions) હોતા નથી. વિદ્યુતના વહન માટે મુક્ત આયનો હોવા જરૂરી છે.</li><li>જ્યારે વરસાદનું પાણી વાતાવરણમાંથી પસાર થાય છે ત્યારે તેમાં કાર્બન ડાયોક્સાઇડ (CO₂) જેવા વાયુઓ ભળે છે, જે પાણી સાથે પ્રક્રિયા કરીને 'કાર્બોનિક ઍસિડ' બનાવે છે.</li><li>આ ઍસિડ આયનીકરણ પામીને H⁺ આયનો મુક્ત કરે છે. આ આયનોની હાજરીને કારણે વરસાદી પાણી વિદ્યુતનું વહન કરી શકે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: No Ions = No Electricity | Ions = Electricity.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "શા માટે દહીં અને ખાટા પદાર્થોને પિત્તળ તેમજ તાંબાના વાસણોમાં ન રાખવા જોઈએ? (NCERT Intext)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>દહીં અને ખાટા પદાર્થોમાં 'ઍસિડ' હોય છે.</li><li>જ્યારે આ ઍસિડિક પદાર્થોને પિત્તળ કે તાંબા (ધાતુ) ના વાસણોમાં રાખવામાં આવે છે, ત્યારે ઍસિડ ધાતુ સાથે રાસાયણિક પ્રક્રિયા કરે છે.</li><li>આ પ્રક્રિયાથી ઝેરી તાંબાના ક્ષાર ઉત્પન્ન થાય છે, જે ખોરાકને વિષયુક્ત (ઝેરી) બનાવે છે અને સ્વાસ્થ્ય માટે હાનિકારક છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઍસિડ + ધાતુ = ઝેરી ક્ષાર (ખોરાક બગડી જાય).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "તટસ્થીકરણ પ્રક્રિયા એટલે શું? બે ઉદાહરણ આપો. (March 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વ્યાખ્યા:</strong> જે પ્રક્રિયામાં ઍસિડ અને બેઇઝ વચ્ચે પ્રક્રિયા થઈ 'ક્ષાર' અને 'પાણી' બને છે, તે પ્રક્રિયાને તટસ્થીકરણ કહે છે.</p><p><strong>ઉદાહરણ:</strong></p><p>1. NaOH (બેઇઝ) + HCl (ઍસિડ) → NaCl (ક્ષાર) + H₂O (પાણી)</p><p>2. KOH + HNO₃ → KNO₃ + H₂O</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઍસિડ + બેઇઝ = ક્ષાર + પાણી (ઝઘડો પૂરો = તટસ્થ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "દાંતનું ક્ષયન (Tooth Decay) કેવી રીતે થાય છે? તેને રોકવા માટે શું કરવું જોઈએ? (July 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>કારણ:</strong> જ્યારે મોઢાની અંદરના ભાગની pH 5.5 કરતા ઘટી જાય (વધુ ઍસિડિક બને), ત્યારે દાંતનું ઇનેમલ પડ ખવાય છે. મોઢામાં રહેલા બેક્ટેરિયા ખોરાકના કણોનું વિઘટન કરી ઍસિડ બનાવે છે.</p><p><strong>ઉપાય:</strong></p><ul><li>જમ્યા પછી મોઢું બરાબર સાફ કરવું જોઈએ.</li><li>દાંત સાફ કરવા માટે બેઝિક ટૂથપેસ્ટનો ઉપયોગ કરવો જોઈએ, જે વધારાના ઍસિડને તટસ્થ કરે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: pH < 5.5 = દાંતમાં ખાડા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "ઘ્રાણેન્દ્રિય સૂચક એટલે શું? બે ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વ્યાખ્યા:</strong> જે પદાર્થોની વાસ (ગંધ) ઍસિડિક કે બેઝિક માધ્યમમાં બદલાઈ જાય છે, તેવા પદાર્થોને ઘ્રાણેન્દ્રિય સૂચક (Olfactory Indicators) કહે છે.</p><p><strong>ઉદાહરણ:</strong></p><ul><li>ડુંગળી (Onion)</li><li>વેનીલા અર્ક (Vanilla essence)</li><li>લવિંગનું તેલ (Clove oil)</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘ્રાણ = નાક (ગંધમાં ફેરફાર).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "પ્લાસ્ટર ઓફ પેરિસ (POP) ને ભેજમુક્ત પાત્રમાં સંગ્રહિત કરવું જોઈએ. સમજાવો. (March 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>પ્લાસ્ટર ઓફ પેરિસ (CaSO₄·½H₂O) એ સફેદ પાવડર છે.</li><li>જ્યારે તે ભેજ (પાણી) ના સંપર્કમાં આવે છે, ત્યારે તે પાણી સાથે પ્રક્રિયા કરીને 'જિપ્સમ' (CaSO₄·2H₂O) માં ફેરવાય છે.</li><li>આ જિપ્સમ એક સખત ઘન પદાર્થ છે, જેના કારણે POP નો ઉપયોગ થઈ શકતો નથી.</li><li>સમીકરણ: CaSO₄·½H₂O + 1½H₂O → CaSO₄·2H₂O</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: POP + પાણી = જિપ્સમ (પથ્થર જેવું સખત).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "ઍસિડને મંદ કરતી વખતે શા માટે ઍસિડને પાણીમાં ઉમેરવાની સલાહ આપવામાં આવે છે? (વધારે IMP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ઍસિડનું પાણીમાં ઓગળવાની પ્રક્રિયા અત્યંત ઉષ્માક્ષેપક (Exothermic) છે.</li><li>જો સાંદ્ર ઍસિડમાં પાણી ઉમેરવામાં આવે, તો ઉત્પન્ન થતી ગરમી મિશ્રણને બહાર ઉછાળી શકે છે અને દાઝી જવાની શક્યતા રહે છે.</li><li>આથી, હંમેશા પાણીમાં ઍસિડને ધીમે ધીમે અને સતત હલાવતા રહીને ઉમેરવો જોઈએ જેથી ગરમી વહેંચાઈ જાય.</li></ul><hr><div align='center'><svg width='100' height='100' viewBox='0 0 100 100'><rect x='30' y='40' width='40' height='50' fill='none' stroke='#000' stroke-width='2'/><path d='M35 50 Q50 45 65 50' stroke='blue' fill='none'/><path d='M45 10 L55 10 L50 35 Z' fill='red'/><text x='10' y='30' font-size='10' fill='red'>Acid</text><text x='72' y='70' font-size='10' fill='blue'>Water</text></svg></div><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A in W (Acid in Water) - Always Right!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "એન્ટાસિડ (Antacids) એટલે શું? તેનું એક ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વ્યાખ્યા:</strong> જઠરમાં ખોરાકના પાચન દરમિયાન વધુ પડતો ઍસિડ ઉત્પન્ન થાય ત્યારે થતી બળતરા (એસીડીટી) ને રોકવા માટે વપરાતા મંદ બેઝિક પદાર્થોને 'એન્ટાસિડ' કહે છે.</p><p><strong>કાર્ય:</strong> તે જઠરમાં રહેલા વધારાના ઍસિડનું તટસ્થીકરણ કરે છે.</p><p><strong>ઉદાહરણ:</strong> મિલ્ક ઓફ મેગ્નેશિયા [Mg(OH)₂] અથવા ખાવાનો સોડા (NaHCO₃).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Anti + Acid = Antacid (ઍસિડનો દુશ્મન).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Daily Life pH</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "વિરંજન પાવડર (Bleaching Powder) ના કોઈ પણ બે ઉપયોગો લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉપયોગો:</strong></p><ul><li>1. ટેક્સટાઇલ ઉદ્યોગમાં સુતરાઉ કાપડના વિરંજન માટે અને કાગળના ઉદ્યોગમાં લાકડાના માવાના વિરંજન માટે.</li><li>2. પીવાના પાણીને જંતુરહિત (Disinfectant) કરવા માટે જંતુનાશક તરીકે.</li><li>3. રાસાયણિક ઉદ્યોગોમાં ઓક્સિડેશનકર્તા તરીકે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરંજન = રંગ ઉડાડવો + પાણી સાફ કરવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Chemicals from NaCl</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "ધાતુના ઓક્સાઈડ સ્વભાવે કેવા હોય છે? શા માટે? એક ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>જવાબ:</strong> ધાતુના ઓક્સાઈડ સ્વભાવે 'બેઝિક' હોય છે.</p><p><strong>કારણ:</strong> કારણ કે તેઓ ઍસિડ સાથે પ્રક્રિયા કરીને ક્ષાર અને પાણી બનાવે છે (તટસ્થીકરણ જેવી પ્રક્રિયા).</p><p><strong>ઉદાહરણ:</strong> મેગ્નેશિયમ ઓક્સાઈડ (MgO) કે કોપર ઓક્સાઈડ (CuO). <br> CuO + 2HCl → CuCl₂ + H₂O</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધાતુ = બેઝિક | અધાતુ = ઍસિડિક.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "બેકિંગ સોડા (ખાવાનો સોડા) ના ઉપયોગો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉપયોગો:</strong></p><ul><li>1. રસોઈમાં ખોરાકને (જેમ કે ભજીયા) નરમ અને પોચા બનાવવા માટે.</li><li>2. બેકિંગ પાવડર બનાવવા માટે (બેકિંગ સોડા + ટાર્ટરિક ઍસિડનું મિશ્રણ).</li><li>3. અગ્નિશામક (Fire Extinguisher) માં સોડા-ઍસિડ તરીકે ઉપયોગ થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસોઈ + આગ ઓલાવવા = બેકિંગ સોડા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Salts section</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "મધમાખી કરડે ત્યારે શું થાય છે? તેનો ઘરગથ્થુ ઉપાય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>જવાબ:</strong> મધમાખી જ્યારે ડંખ મારે છે ત્યારે તે શરીરમાં 'મેલેટીન' નામનો ઍસિડિક પદાર્થ મુક્ત કરે છે, જેના કારણે બળતરા અને દુખાવો થાય છે.</p><p><strong>ઉપાય:</strong> ડંખ મારેલા ભાગ પર ખાવાનો સોડા (NaHCO₃) જેવો મંદ બેઇઝ લગાવવાથી ઍસિડ તટસ્થ થાય છે અને દુખાવામાં રાહત મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડંખ = ઍસિડ | સોડા = બેઇઝ (રાહત).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> pH in Self defense</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "ધોવાના સોડાનું રાસાયણિક નામ અને સૂત્ર આપી તેના બે ઉપયોગો લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>નામ:</strong> સોડિયમ કાર્બોનેટ ડેકાહાઈડ્રેટ</p><p><strong>સૂત્ર:</strong> Na₂CO₃·10H₂O</p><p><strong>ઉપયોગો:</strong></p><ul><li>1. કાચ, સાબુ અને કાગળના ઉદ્યોગમાં.</li><li>2. પાણીની સ્થાયી કઠિનતા (Hardness) દૂર કરવા માટે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 પાણીના અણુ = ધોવાનો સોડા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Salts Family</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "શુષ્ક HCl વાયુ શુષ્ક લિટમસ પેપરનો રંગ કેમ બદલતો નથી? (IMP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>જવાબ:</strong></p><ul><li>ઍસિડિક ગુણધર્મ માટે H⁺(aq) આયનો જવાબદાર છે, જે ફક્ત પાણીની હાજરીમાં જ છૂટા પડે છે.</li><li>શુષ્ક HCl વાયુમાં પાણી હોતું નથી, તેથી તે H⁺ આયનો મુક્ત કરી શકતો નથી.</li><li>આથી, તે ઍસિડિક વર્તણૂક દર્શાવતો નથી અને લિટમસનો રંગ બદલાતો નથી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી નથી = આયનો નથી = રંગ બદલાશે નહીં.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Activity 2.9</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "સ્ફટિક જળ એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વ્યાખ્યા:</strong> ક્ષારના એકમ સૂત્રમાં રહેલા પાણીના નિશ્ચિત અણુઓની સંખ્યાને 'સ્ફટિક જળ' કહે છે.</p><p><strong>ઉદાહરણ:</strong></p><ul><li>કોપર સલ્ફેટ (CuSO₄·5H₂O) - 5 અણુ સ્ફટિક જળ.</li><li>ફેરસ સલ્ફેટ (FeSO₄·7H₂O) - 7 અણુ સ્ફટિક જળ.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષારના સૂત્રની પાછળ જોડાયેલા પાણીના ટપકાં (.).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept</p></div>"
+    }
+  ]
+}
