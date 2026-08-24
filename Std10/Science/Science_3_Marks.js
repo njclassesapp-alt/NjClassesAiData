@@ -824,3 +824,82 @@ var Std10_Science_3Marks = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "વિદ્યુત",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "વાહકનો અવરોધ કઈ બાબતો પર આધાર રાખે છે? સમજાવો. (March 2020, 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>નિશ્ચિત તાપમાને વાહક તારનો અવરોધ (R) નીચેની બાબતો પર આધાર રાખે છે:</p><ul><li><strong>1. વાહકની લંબાઈ (l):</strong> વાહકનો અવરોધ તેની લંબાઈના સમપ્રમાણમાં હોય છે. <br> R ∝ l</li><li><strong>2. વાહકના આડછેદનું ક્ષેત્રફળ (A):</strong> વાહકનો અવરોધ તેના આડછેદના ક્ષેત્રફળના વ્યસ્ત પ્રમાણમાં હોય છે. <br> R ∝ 1/A</li><li><strong>3. દ્રવ્યની જાત:</strong> સમાન લંબાઈ અને સમાન આડછેદ ધરાવતા અલગ-અલગ દ્રવ્યોના તારનો અવરોધ જુદો-જુદો હોય છે.</li></ul><p>આમ, R ∝ l/A એટલે કે <strong>R = ρ (l/A)</strong>, જ્યાં ρ એ દ્રવ્યની વિદ્યુત અવરોધકતા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'L' વધે તો 'R' વધે (સમપ્રમાણ), 'A' વધે (જાડો તાર) તો 'R' ઘટે (વ્યસ્ત પ્રમાણ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board PYQ / NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "ઓહમનો નિયમ લખી તેનું ગાણિતિક સ્વરૂપ તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>નિયમ:</strong> અચલ તાપમાને વાહક તારમાંથી પસાર થતો વિદ્યુતપ્રવાહ (I), તે વાહકના બે છેડા વચ્ચેના વિદ્યુત સ્થિતિમાનના તફાવત (V) ના સમપ્રમાણમાં હોય છે.</p><p><strong>ગાણિતિક સ્વરૂપ:</strong></p><ul><li>નિયમ મુજબ, V ∝ I</li><li>માટે, V/I = અચળાંક</li><li>આ અચળાંકને વાહકનો અવરોધ (R) કહે છે.</li><li>તેથી, <strong>V = IR</strong></li></ul><svg width='160' height='100' viewBox='0 0 160 100'><rect x='20' y='40' width='120' height='40' fill='none' stroke='#2c3e50' stroke-width='2'/><text x='70' y='65' font-family='Arial' font-size='12'>વાહક (R)</text><line x1='10' y1='60' x2='20' y2='60' stroke='black'/><line x1='140' y1='60' x2='150' y2='60' stroke='black'/><text x='10' y='55' font-size='10'>+</text><text x='140' y='55' font-size='10'>-</text></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'VIP' યાદ રાખો -> V = I × R (V is Important Person).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "અવરોધોનું શ્રેણી જોડાણ એટલે શું? તેની લાક્ષણિકતાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વ્યાખ્યા:</strong> જ્યારે બે કે તેથી વધુ અવરોધોને ક્રમશઃ એકબીજા સાથે એવી રીતે જોડવામાં આવે કે જેથી વિદ્યુતપ્રવાહને વહેવા માટે માત્ર એક જ માર્ગ મળે, તો તેને શ્રેણી જોડાણ કહે છે.</p><p><strong>લાક્ષણિકતાઓ:</strong></p><ul><li>દરેક અવરોધમાંથી પસાર થતો વિદ્યુતપ્રવાહ (I) સમાન હોય છે.</li><li>કુલ વિદ્યુત સ્થિતિમાનનો તફાવત (V) એ દરેક અવરોધના વોલ્ટેજના સરવાળા બરાબર હોય છે (V = V1 + V2 + V3).</li><li>સમતુલ્ય અવરોધ (Rs) નું મૂલ્ય જોડાણના મોટામાં મોટા અવરોધ કરતા પણ વધારે હોય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્રેણી = સમાન પ્રવાહ (I constant), વોલ્ટેજ વહેંચાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "અવરોધોના સમાંતર જોડાણના ફાયદાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ફાયદાઓ:</strong></p><ul><li>1. જો કોઈ એક ઉપકરણ બગડી જાય અથવા પરિપથમાં ભંગાણ પડે, તો અન્ય ઉપકરણોમાં પ્રવાહ ચાલુ રહે છે.</li><li>2. દરેક ઉપકરણને સમાન વોલ્ટેજ (V) મળે છે, જે ઉપકરણની કાર્યક્ષમતા માટે જરૂરી છે.</li><li>3. દરેક ઉપકરણની જરૂરિયાત મુજબ અલગ-અલગ વિદ્યુતપ્રવાહ મળી રહે છે.</li><li>4. પરિપથનો કુલ અવરોધ ઘટે છે, જેથી પાવરનો વ્યય ઓછો થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરનું વાયરિંગ હંમેશા સમાંતર (Parallel) જ હોય!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Application Based</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "જૂલનો તાપીય નિયમ લખો અને તેનું ગાણિતિક સૂત્ર મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>નિયમ:</strong> વાહક તારમાં ઉત્પન્ન થતી ઉષ્મા (H):</p><ul><li>1. આપેલ અવરોધ અને સમય માટે પ્રવાહના વર્ગના સમપ્રમાણમાં (H ∝ I²)</li><li>2. આપેલ પ્રવાહ અને સમય માટે અવરોધના સમપ્રમાણમાં (H ∝ R)</li><li>3. આપેલ પ્રવાહ અને અવરોધ માટે સમયના સમપ્રમાણમાં (H ∝ t)</li></ul><p><strong>સૂત્ર:</strong> H = I²Rt</p><p>જ્યાં, I = વિદ્યુતપ્રવાહ, R = અવરોધ, t = સમય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'H = I square Rt' - આ સૂત્ર પરથી જ ત્રણેય મુદ્દા લખી શકાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Most IMP for 2025</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "વિદ્યુત પાવર એટલે શું? તેના જુદા જુદા સૂત્રો અને એકમ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વ્યાખ્યા:</strong> એકમ સમયમાં વપરાતી વિદ્યુત ઉર્જાને 'વિદ્યુત પાવર' (P) કહે છે.</p><p><strong>સૂત્રો:</strong></p><ul><li>1. P = W / t (કાર્ય / સમય)</li><li>2. P = V × I (વોલ્ટેજ × પ્રવાહ)</li><li>3. P = I²R (ઓહમના નિયમ મુજબ)</li><li>4. P = V² / R</li></ul><p><strong>એકમ:</strong> પાવરનો SI એકમ <strong>વોટ (W)</strong> છે. 1 W = 1 J/s.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P = VI (વીઆઈપી) સૂત્ર યાદ રાખો, બાકીના ઓહમના નિયમ પરથી મળી જશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Formula Sheet</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "વિદ્યુત પ્રવાહની તાપીય અસરના વ્યવહારિક ઉપયોગો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p>તાપીય અસરના મુખ્ય ઉપયોગો નીચે મુજબ છે:</p><ul><li><strong>1. વિદ્યુત ઉપકરણો:</strong> ઈસ્ત્રી, ટોસ્ટર, હીટર અને ગીઝર જેવા સાધનોમાં નિક્રોમ જેવી મિશ્રધાતુનો ઉપયોગ કરીને ઉષ્મા મેળવવામાં આવે છે.</li><li><strong>2. વિદ્યુત બલ્બ:</strong> બલ્બના ટંગસ્ટન ફિલામેન્ટને ગરમ કરી પ્રકાશ મેળવવામાં આવે છે.</li><li><strong>3. વિદ્યુત ફ્યુઝ:</strong> પરિપથમાં સુરક્ષા માટે ફ્યુઝ વપરાય છે. વધુ પ્રવાહ વહેતા તે ગરમ થઈ પીગળી જાય છે અને પરિપથ તોડી નાખે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી (Heat) = ઈસ્ત્રી, બલ્બ અને ફ્યુઝ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Page 218</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "એક ઇલેક્ટ્રિક હીટર 220 V ની લાઈન સાથે જોડેલ છે. જો તે 5 A પ્રવાહ ખેંચતું હોય, તો તેનો પાવર અને 2 કલાકમાં વપરાતી ઉર્જા શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આપેલ છે: V = 220 V, I = 5 A, t = 2 h</li><li><strong>1. પાવર (P) શોધવા:</strong> <br> P = V × I <br> P = 220 × 5 = <strong>1100 W</strong> અથવા 1.1 kW</li><li><strong>2. ઉર્જા (E) શોધવા:</strong> <br> E = P × t <br> E = 1.1 kW × 2 h = <strong>2.2 kWh</strong> (અથવા યુનિટ)</li></ul><p>જવાબ: પાવર 1100 W અને ઉર્જા 2.2 kWh થશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્જા શોધવા માટે હંમેશા પાવરને kW માં ફેરવો (1000 વડે ભાગીને).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Numerical IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "ટૂંકનોંધ લખો: વિદ્યુત ફ્યુઝ (Electric Fuse)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વિદ્યુત ફ્યુઝ:</strong></p><ul><li>તે શ્રેણીમાં જોડવામાં આવતું સુરક્ષા સાધન છે.</li><li>તે ઓછું ગલનબિંદુ ધરાવતી ધાતુ કે મિશ્રધાતુ (જેમ કે એલ્યુમિનિયમ, તાંબુ, સીસું) ના તારનું બનેલું હોય છે.</li><li>જ્યારે પરિપથમાં નિયત મર્યાદા કરતા વધુ પ્રવાહ વહે છે, ત્યારે જૂલની તાપીય અસરને કારણે ફ્યુઝનો તાર ગરમ થઈ પીગળી જાય છે.</li><li>આથી પરિપથ ખુલ્લો બને છે અને કિંમતી ઉપકરણોને નુકસાન થતું અટકે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્યુઝ = બોડીગાર્ડ (પોતે બળી જાય પણ ઘરને બચાવે).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> General Awareness & Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "શા માટે વિદ્યુત હીટરના જોડાણ માટેના વાયર (Cords) ગરમ થતા નથી, પણ તેનો હીટિંગ એલિમેન્ટ ગરમ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>કારણ:</strong></p><ul><li>1. હીટરના જોડાણ માટેના વાયર તાંબાના બનેલા હોય છે, જેનો અવરોધ અત્યંત ઓછો હોય છે. ઓછો અવરોધ હોવાથી તેમાં ઉત્પન્ન થતી ઉષ્મા (H = I²Rt) પણ ઓછી હોય છે.</li><li>2. હીટરનો એલિમેન્ટ મિશ્રધાતુ (જેમ કે નિક્રોમ) નો બનેલો હોય છે, જેની અવરોધકતા ખૂબ ઊંચી હોય છે.</li><li>3. ઊંચા અવરોધને કારણે તેમાંથી પ્રવાહ પસાર થતા ખૂબ મોટી માત્રામાં ઉષ્મા ઉત્પન્ન થાય છે અને તે લાલચોળ ગરમ થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ અવરોધ = વધુ ગરમી (R ∝ H).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Conceptual Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 3,
+      "question": "વિદ્યુત સ્થિતિમાનનો તફાવત એટલે શું? તેનો એકમ અને માપન માટેનું સાધન જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વ્યાખ્યા:</strong> કોઈ વિદ્યુતભારિત પરિપથમાં એકમ ધન વિદ્યુતભારને એક બિંદુથી બીજા બિંદુ સુધી લઈ જવા માટે કરવા પડતા કાર્યને તે બે બિંદુઓ વચ્ચેનો 'વિદ્યુત સ્થિતિમાનનો તફાવત' (V) કહે છે.</p><ul><li><strong>સૂત્ર:</strong> V = W / Q (કાર્ય / વિદ્યુતભાર)</li><li><strong>એકમ:</strong> તેનો SI એકમ <strong>વોલ્ટ (V)</strong> છે. (એલેસાન્ડ્રો વોલ્ટાના નામ પરથી)</li><li><strong>સાધન:</strong> તે માપવા માટે <strong>વોલ્ટમીટર</strong>નો ઉપયોગ થાય છે, જે હંમેશા સમાંતર જોડવામાં આવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વોલ્ટ' એ પુશ (Push) છે જે ઇલેક્ટ્રોનને ધક્કો મારે છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Definition Master</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 3,
+      "question": "અવરોધકતા (Resistivity) એટલે શું? તેનો એકમ જણાવી તે કઈ બાબતો પર આધાર રાખે છે તે લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વ્યાખ્યા:</strong> એકમ લંબાઈ અને એકમ આડછેદનું ક્ષેત્રફળ ધરાવતા વાહકના અવરોધને તે દ્રવ્યની 'વિદ્યુત અવરોધકતા' (ρ) કહે છે.</p><ul><li><strong>એકમ:</strong> અવરોધકતાનો SI એકમ <strong>ઓહમ-મીટર (Ω.m)</strong> છે.</li><li><strong>આધાર:</strong> તે દ્રવ્યની જાત અને તાપમાન પર આધાર રાખે છે. તે વાહકના પરિમાણ (લંબાઈ કે જાડાઈ) પર આધાર રાખતી નથી.</li><li>ધાતુઓની અવરોધકતા ઓછી હોય છે, જ્યારે અવાહકોની ખૂબ વધુ હોય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવરોધકતા એ દ્રવ્યનો 'આંતરિક ગુણ' છે, તાર કાપવાથી તે બદલાતી નથી!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB High Order Thinking</p></div>"
+    }
+  ]
+}
