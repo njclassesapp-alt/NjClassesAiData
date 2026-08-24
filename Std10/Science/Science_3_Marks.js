@@ -903,3 +903,70 @@ var Std10_Science_3Marks = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "વિદ્યુતપ્રવાહની ચુંબકીય અસરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "ચુંબકીય ક્ષેત્રરેખાઓના ગુણધર્મો જણાવો. (Board March 2020, 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ચુંબકીય ક્ષેત્રરેખાઓના મુખ્ય ગુણધર્મો નીચે મુજબ છે:</p><ul><li>ચુંબકીય ક્ષેત્રરેખાઓ ચુંબકની બહારના ભાગમાં ઉત્તર ધ્રુવ (N) થી નીકળી દક્ષિણ ધ્રુવ (S) માં દાખલ થાય છે, જ્યારે ચુંબકની અંદર તે S થી N તરફ હોય છે. આમ, તે બંધ ગાળાઓ (Closed Loops) રચે છે.</li><li>ચુંબકીય ક્ષેત્રરેખાઓ જે સ્થાને એકબીજીની અત્યંત નજીક હોય, ત્યાં ચુંબકીય ક્ષેત્રની પ્રબળતા વધુ હોય છે (દા.ત. ધ્રુવો પાસે).</li><li>બે ચુંબકીય ક્ષેત્રરેખાઓ ક્યારેય એકબીજીને છેદતી નથી. જો તેઓ છેદે, તો છેદનબિંદુ પાસે હોકાયંત્રની સોય બે દિશાઓ દર્શાવે જે શક્ય નથી.</li></ul><svg width='200' height='100' viewBox='0 0 200 100'><rect x='50' y='35' width='100' height='30' fill='#bdc3c7' stroke='#34495e'/><text x='60' y='55' font-family='Arial' font-size='12'>N</text><text x='130' y='55' font-family='Arial' font-size='12'>S</text><path d='M60 35 Q100 0 140 35' stroke='blue' fill='none' stroke-dasharray='5,2'/><path d='M60 65 Q100 100 140 65' stroke='blue' fill='none' stroke-dasharray='5,2'/></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બહાર N to S, અંદર S to N' - આ વાક્ય યાદ રાખો એટલે દિશામાં ક્યારેય ભૂલ નહીં પડે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Papers</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "જમણા હાથના અંગૂઠાનો નિયમ સમજાવો અને તેની ઉપયોગિતા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>નિયમ:</strong> કલ્પના કરો કે તમે તમારા જમણા હાથમાં વિદ્યુતપ્રવાહધારિત તારને એવી રીતે પકડેલો છે કે જેથી તમારો અંગૂઠો વિદ્યુતપ્રવાહની દિશામાં રહે, તો તમારી આંગળીઓ તારની આસપાસ જે દિશામાં વીંટળાય છે, તે ચુંબકીય ક્ષેત્રરેખાઓની દિશા દર્શાવે છે.</p><ul><li>આ નિયમને 'મેક્સવેલનો કોર્ક-સ્ક્રૂ નિયમ' પણ કહેવામાં આવે છે.</li><li><strong>ઉપયોગિતા:</strong> કોઈ પણ સીધા વાહક તારમાંથી વહેતા વિદ્યુતપ્રવાહને કારણે ઉદભવતા ચુંબકીય ક્ષેત્રની દિશા જાણવા માટે આ નિયમ ખૂબ જ ઉપયોગી છે.</li></ul><svg width='150' height='150' viewBox='0 0 100 100'><line x1='50' y1='10' x2='50' y2='90' stroke='black' stroke-width='3'/><path d='M50 30 Q80 30 80 50 T50 70 Q20 70 20 50 T50 30' fill='none' stroke='red' stroke-width='2' stroke-dasharray='4'/><path d='M50 10 L45 20 L55 20 Z' fill='black'/><text x='55' y='15' font-size='8'>I (પ્રવાહ)</text></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંગૂઠો = પ્રવાહ (I), આંગળીઓ = ચુંબકીય ક્ષેત્ર (B). બસ આટલું યાદ રાખો!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook Page 227</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "સોલેનોઈડ એટલે શું? વિદ્યુતપ્રવાહધારિત સોલેનોઈડને કારણે ઉદભવતા ચુંબકીય ક્ષેત્રની લાક્ષણિકતાઓ જણાવો. (Board July 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>વ્યાખ્યા:</strong> અલગ કરેલા તાંબાના તારના અત્યંત નજીક વીંટાળેલા ઘણા વર્તુળાકાર આંટાઓ વડે બનતા નળાકાર જેવી રચનાને 'સોલેનોઈડ' કહે છે.</p><ul><li>સોલેનોઈડમાંથી વિદ્યુતપ્રવાહ પસાર કરતાં તે 'ગજિયા ચુંબક'ની જેમ વર્તે છે.</li><li>સોલેનોઈડની અંદરના વિસ્તારમાં ચુંબકીય ક્ષેત્રરેખાઓ પરસ્પર સમાંતર હોય છે, જે દર્શાવે છે કે સોલેનોઈડની અંદરના તમામ બિંદુઓએ ચુંબકીય ક્ષેત્ર સમાન (Uniform) હોય છે.</li><li>સોલેનોઈડના ગર્ભમાં નરમ લોખંડનો સળિયો મૂકીને 'ઈલેક્ટ્રોમેગ્નેટ' બનાવી શકાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોલેનોઈડ = ગજિયો ચુંબક. બંનેનું ચુંબકીય ક્ષેત્ર સમાન જ હોય છે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Question Bank</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "ફ્લેમિંગના ડાબા હાથનો નિયમ આકૃતિ દોરી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જ્યારે ચુંબકીય ક્ષેત્રમાં રાખેલા વિદ્યુતપ્રવાહધારિત વાહક પર લાગતા બળની દિશા જાણવી હોય ત્યારે આ નિયમ વપરાય છે.</p><ul><li>તમારા ડાબા હાથનો અંગૂઠો, પ્રથમ આંગળી (તર્જની) અને મધ્ય આંગળીને એવી રીતે પ્રસરાવો કે જેથી ત્રણેય એકબીજાને લંબ રહે.</li><li>જો પ્રથમ આંગળી <strong>ચુંબકીય ક્ષેત્ર (B)</strong> ની દિશામાં હોય અને મધ્ય આંગળી <strong>વિદ્યુતપ્રવાહ (I)</strong> ની દિશામાં હોય, તો અંગૂઠો વાહક પર લાગતા <strong>બળ (F)</strong> ની દિશા દર્શાવે છે.</li></ul><p>આકૃતિમાં: અંગૂઠો (Motion/Force), તર્જની (Field), મધ્યમા (Current).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો 'Father - Mother - Child' -> F (Force), M (Magnetic Field), C (Current).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "વિદ્યુત ફ્યુઝ વિશે ટૂંકનોંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વિદ્યુત ફ્યુઝ એ ઘરવપરાશના વિદ્યુત પરિપથોમાં વપરાતું સૌથી મહત્વનું સુરક્ષા સાધન છે.</p><ul><li><strong>કાર્ય:</strong> તે વિદ્યુત પરિપથ અને ઉપકરણોને ઓવરલોડિંગ કે શોર્ટ-સર્કિટથી થતા નુકસાનથી બચાવે છે.</li><li><strong>સિદ્ધાંત:</strong> ફ્યુઝ વિદ્યુતપ્રવાહની તાપીય અસર (Heating Effect) પર કાર્ય કરે છે.</li><li><strong>રચના:</strong> ફ્યુઝનો તાર યોગ્ય ગલનબિંદુ ધરાવતી ધાતુ કે મિશ્રધાતુ (જેમ કે એલ્યુમિનિયમ, તાંબુ, લોખંડ, સીસું) માંથી બનેલો હોય છે. જો પરિપથમાં નિયત મર્યાદા કરતા વધુ પ્રવાહ વહે, તો ગરમીને કારણે ફ્યુઝનો તાર ઓગળી જાય છે અને પરિપથ તૂટી જાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્યુઝ હંમેશા 'Live' (જીવંત) તાર સાથે શ્રેણીમાં જોડવો જોઈએ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Domestic Electric Circuits Unit</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "અર્થિંગ વાયર (Earth Wire) નું કાર્ય સમજાવો. ધાતુના સાધનોમાં તે કેમ જરૂરી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અર્થિંગ વાયર સામાન્ય રીતે લીલા રંગના અવાહક પડ વાળો હોય છે, જે ઘરની નજીક ઊંડે જમીનમાં ધાતુની પ્લેટ સાથે જોડેલો હોય છે.</p><ul><li><strong>કાર્ય:</strong> ધાતુનું આવરણ ધરાવતા સાધનો (જેમ કે ઈસ્ત્રી, ટોસ્ટર, રેફ્રિજરેટર) માં જો અકસ્માતે લાઈવ વાયર ધાતુના આવરણને અડી જાય, તો વિદ્યુતપ્રવાહ અર્થિંગ વાયર દ્વારા જમીનમાં જતો રહે છે.</li><li>આ વાયર વિદ્યુતપ્રવાહને ખૂબ જ ઓછો અવરોધ પૂરો પાડે છે.</li><li>તેનાથી સાધન વાપરનાર વ્યક્તિને ગંભીર વિદ્યુત ઝટકો (Shock) લાગતો નથી અને સુરક્ષા જળવાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અર્થિંગ = લાઈફ સેવર! ધાતુના સાધનો માટે તે ફરજિયાત છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Chapter 12</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "શોર્ટ-સર્કિટ અને ઓવરલોડિંગ વચ્ચેનો તફાવત સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><table border='1' style='width:100%; border-collapse: collapse; background-color: white;'><tr><th>મુદ્દો</th><th>શોર્ટ-સર્કિટ (Short Circuit)</th><th>ઓવરલોડિંગ (Overloading)</th></tr><tr><td>વ્યાખ્યા</td><td>જ્યારે લાઈવ વાયર અને ન્યુટ્રલ વાયર એકબીજાના સીધા સંપર્કમાં આવે.</td><td>જ્યારે એક જ સોકેટમાં ઘણા વધારે પાવર રેટિંગવાળા સાધનો જોડવામાં આવે.</td></tr><tr><td>પરિણામ</td><td>પરિપથનો અવરોધ શૂન્ય જેવો થઈ જાય અને પ્રવાહ અચાનક વધી જાય.</td><td>પરિપથમાં ખેંચાતો કુલ પ્રવાહ તેની ક્ષમતા કરતા વધી જાય છે.</td></tr><tr><td>જોખમ</td><td>આગ લાગવાનું અને સાધનો બળી જવાનું ભારે જોખમ રહે છે.</td><td>વાયરો ગરમ થઈ જાય છે અને વાયરિંગ બળી શકે છે.</td></tr></table><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શોર્ટ સર્કિટ = વાયર અડવા, ઓવરલોડિંગ = વધુ પડતા સાધનો જોડવા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Notes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "ચુંબકીય ક્ષેત્રમાં મુકેલા વિદ્યુતપ્રવાહધારિત વાહક પર લાગતું બળ કઈ બાબતો પર આધાર રાખે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ચુંબકીય ક્ષેત્રમાં મુકેલા વિદ્યુતપ્રવાહધારિત વાહક પર લાગતું બળ (F) નીચેની બાબતો પર આધાર રાખે છે:</p><ul><li><strong>વિદ્યુતપ્રવાહ (I):</strong> વાહકમાંથી વહેતો વિદ્યુતપ્રવાહ જેટલો વધારે, તેના પર લાગતું બળ તેટલું જ વધારે.</li><li><strong>ચુંબકીય ક્ષેત્રની પ્રબળતા (B):</strong> બાહ્ય ચુંબકીય ક્ષેત્ર જેટલું પ્રબળ, બળ તેટલું વધુ.</li><li><strong>વાહકની લંબાઈ (L):</strong> ચુંબકીય ક્ષેત્રમાં રહેલી વાહકની લંબાઈના સમપ્રમાણમાં બળ લાગે છે.</li><li><strong>ખૂણો (Angle):</strong> જ્યારે વિદ્યુતપ્રવાહની દિશા ચુંબકીય ક્ષેત્રને લંબ (90°) હોય, ત્યારે બળ મહત્તમ લાગે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો સૂત્ર: F = BIL (બિલ). B = ક્ષેત્ર, I = પ્રવાહ, L = લંબાઈ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "વર્તુળાકાર લૂપમાંથી વહેતા વિદ્યુતપ્રવાહને કારણે ઉદભવતા ચુંબકીય ક્ષેત્રની લાક્ષણિકતાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>વર્તુળાકાર લૂપના દરેક બિંદુએ ચુંબકીય ક્ષેત્રરેખાઓ સમકેન્દ્રી વર્તુળો સ્વરૂપે હોય છે.</li><li>જેમ જેમ આપણે લૂપના કેન્દ્ર તરફ જઈએ, તેમ આ વર્તુળો મોટા થતા જાય છે અને કેન્દ્ર પાસે તે સીધી રેખા જેવી દેખાય છે.</li><li>લૂપના કેન્દ્રમાં ઉદભવતું ચુંબકીય ક્ષેત્ર પ્રવાહના સમપ્રમાણમાં અને લૂપની ત્રિજ્યાના વ્યસ્ત પ્રમાણમાં હોય છે.</li><li>જો લૂપમાં આંટાની સંખ્યા 'n' હોય, તો ચુંબકીય ક્ષેત્ર એક આંટા કરતા 'n' ગણું પ્રબળ બને છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેન્દ્રમાં ક્ષેત્રરેખાઓ હંમેશા સીધી (લંબ) હોય છે તે ખાસ યાદ રાખવું!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Visual Learning</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "ઘરગથ્થુ વિદ્યુત પરિપથમાં શ્રેણી જોડાણને બદલે સમાંતર જોડાણ કેમ પસંદ કરવામાં આવે છે? (તાર્કિક પ્રશ્ન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ઘરગથ્થુ પરિપથમાં સમાંતર જોડાણના ફાયદા નીચે મુજબ છે:</p><ul><li><strong>સ્વતંત્ર અંકુશ:</strong> દરેક ઉપકરણને પોતાનો અલગ સ્વીચ આપી શકાય છે. એક ઉપકરણ બંધ કરવાથી બીજા પર અસર થતી નથી.</li><li><strong>સમાન વોલ્ટેજ:</strong> સમાંતર જોડાણમાં દરેક ઉપકરણને 220V નો સમાન વોલ્ટેજ મળે છે, જેથી તે કાર્યક્ષમતાથી ચાલે છે.</li><li><strong>ખામી શોધવામાં સરળતા:</strong> જો કોઈ એક ઉપકરણ બગડી જાય, તો આખો પરિપથ બંધ થતો નથી, માત્ર તે જ ઉપકરણ બંધ થાય છે. (શ્રેણી જોડાણમાં બધું જ બંધ થઈ જાય).</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્રેણી = 'એક સાથે બધા', સમાંતર = 'દરેક પોતપોતાની મરજી મુજબ'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Application Based Question</p></div>"
+    }
+  ]
+}
