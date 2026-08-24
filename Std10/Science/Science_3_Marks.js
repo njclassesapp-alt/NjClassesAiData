@@ -745,3 +745,82 @@ var Std10_Science_3Marks = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "માનવ આંખ અને રંગબેરંગી દુનિયા",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "આંખની 'સમાવેશ ક્ષમતા' એટલે શું? સામાન્ય દ્રષ્ટિ ધરાવતી પુખ્ત વ્યક્તિ માટે 'નજીક બિંદુ' અને 'દૂર બિંદુ' સમજાવો. (March 2020, 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>સમાવેશ ક્ષમતા:</strong> આંખના લેન્સની પોતાની કેન્દ્રલંબાઈમાં ફેરફાર કરવાની ક્ષમતાને 'સમાવેશ ક્ષમતા' કહે છે. સિલિયરી સ્નાયુઓ દ્વારા લેન્સની વક્રતા બદલાય છે.</li><li><strong>નજીક બિંદુ (Near Point):</strong> જે લઘુત્તમ અંતરે રાખેલી વસ્તુને આંખના તણાવ વગર સ્પષ્ટ જોઈ શકાય, તેને નજીક બિંદુ કહે છે. સામાન્ય દ્રષ્ટિ માટે આ અંતર <strong>25 cm</strong> છે.</li><li><strong>દૂર બિંદુ (Far Point):</strong> જે મહત્તમ અંતર સુધી આંખ વસ્તુને સ્પષ્ટ જોઈ શકે, તેને દૂર બિંદુ કહે છે. સામાન્ય આંખ માટે આ અંતર <strong>અનંત (Infinite)</strong> હોય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નજીક = 25 (યાદ રાખો 'પચ્ચીસ'), દૂર = અનંત. સિલિયરી સ્નાયુઓ શિથિલ થાય તો લેન્સ પાતળો બને!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Previous Year Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "પ્રેસબાયોપિયા (Presbyopia) ખામી વિશે ટૂંકનોંધ લખો. (July 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>વ્યાખ્યા:</strong> ઉંમર વધવાની સાથે આંખની સમાવેશ ક્ષમતામાં ઘટાડો થાય છે, જેના કારણે નજીકની વસ્તુઓ સ્પષ્ટ દેખાતી નથી. આ ખામીને પ્રેસબાયોપિયા કહે છે.</li><li><strong>કારણો:</strong> (1) સિલિયરી સ્નાયુઓ નબળા પડવાથી. (2) આંખના સ્ફટિકમય લેન્સની સ્થિતિસ્થાપકતા ઓછી થવાથી.</li><li><strong>નિવારણ:</strong> આ ખામી દૂર કરવા યોગ્ય પાવરના <strong>બહિર્ગોળ લેન્સ</strong> વપરાય છે. જો વ્યક્તિને લઘુદ્રષ્ટિ અને ગુરુદ્રષ્ટિ બંને હોય, તો <strong>બાયફોકલ (Bifocal) લેન્સ</strong> વાપરવામાં આવે છે, જેમાં ઉપરનો ભાગ અંતર્ગોળ અને નીચેનો ભાગ બહિર્ગોળ હોય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રેસબાયોપિયા = 'ઘડપણની ખામી'. બંને તકલીફ હોય તો 'બાયફોકલ' ચશ્મા!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NCERT IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "કાચના પ્રિઝમ વડે શ્વેત પ્રકાશનું વિભાજન આકૃતિ દોરી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જ્યારે શ્વેત પ્રકાશ કિરણ કાચના પ્રિઝમમાંથી પસાર થાય છે, ત્યારે તે સાત રંગોના પટ્ટામાં વિભાજિત થાય છે. આ ઘટનાને પ્રકાશનું <strong>વિભાજન</strong> કહે છે.</p><svg width='250' height='150' viewBox='0 0 250 150'><polygon points='100,20 40,130 160,130' style='fill:none;stroke:black;stroke-width:2' /><line x1='10' y1='100' x2='70' y2='75' style='stroke:gray;stroke-width:2' /><line x1='70' y1='75' x2='130' y2='60' style='stroke:red;stroke-width:1' /><line x1='70' y1='75' x2='130' y2='100' style='stroke:violet;stroke-width:1' /><path d='M130 60 L200 40' stroke='red' /><path d='M130 100 L200 130' stroke='purple' /><text x='10' y='120' font-size='12'>શ્વેત પ્રકાશ</text><text x='205' y='45' font-size='12' fill='red'>R</text><text x='205' y='135' font-size='12' fill='purple'>V</text></svg><ul><li>સાત રંગોનો ક્રમ (નીચેથી ઉપર): <strong>જાનીવાલીપીનારા</strong> (VIBGYOR).</li><li>જાંબલી રંગનો વેગ ઓછો હોવાથી તેનું વિચલન સૌથી વધુ થાય છે.</li><li>લાલ રંગનો વેગ વધુ હોવાથી તેનું વિચલન સૌથી ઓછું થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો - લાલ 'Lazy' છે (ઓછું વળે), જાંબલી 'Jolly' છે (વધારે વળે)!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "આઈઝેક ન્યૂટનનો શ્વેત પ્રકાશના પુનઃસંયોજનનો પ્રયોગ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ન્યૂટને દર્શાવ્યું કે સૂર્યપ્રકાશ સાત રંગોનો બનેલો છે.</li><li>તેમણે બે સમાન પ્રિઝમ લીધા. પ્રથમ પ્રિઝમ પર શ્વેત પ્રકાશ આપાત કરી સાત રંગો મેળવ્યા (વિભાજન).</li><li>બીજા પ્રિઝમને પ્રથમ પ્રિઝમની સાપેક્ષ <strong>ઉલટો (Inverted)</strong> ગોઠવ્યો.</li><li>જ્યારે સાત રંગો બીજા ઉલટા પ્રિઝમમાંથી પસાર થયા, ત્યારે તેઓ ફરીથી જોડાઈને શ્વેત પ્રકાશ તરીકે બહાર આવ્યા.</li><li>આ પ્રયોગ સાબિત કરે છે કે સૂર્યપ્રકાશ સાત રંગોનું મિશ્રણ છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રિઝમ + ઉલટો પ્રિઝમ = શ્વેત પ્રકાશ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook / IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "મેઘધનુષ્યની રચના આકૃતિ સહ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>મેઘધનુષ્ય એ વરસાદ પડ્યા પછી આકાશમાં જોવા મળતો પ્રાકૃતિક વર્ણપટ છે.</li><li>તે વાતાવરણમાં રહેલા પાણીના ટીપાં દ્વારા સૂર્યપ્રકાશના <strong>વિભાજન</strong>ને કારણે રચાય છે.</li><li>જ્યારે સૂર્યપ્રકાશ ટીપામાં પ્રવેશે ત્યારે (1) વક્રીભવન, (2) વિભાજન, (3) <strong>આંતરિક પરાવર્તન</strong> અને અંતે (4) ફરી વક્રીભવન થાય છે.</li><li>મેઘધનુષ્ય હંમેશા સૂર્યની વિરુદ્ધ દિશામાં રચાય છે.</li></ul><svg width='200' height='120'><circle cx='80' cy='60' r='40' stroke='blue' stroke-width='2' fill='none' /><line x1='10' y1='40' x2='50' y2='45' stroke='orange' /><line x1='50' y1='45' x2='115' y2='70' stroke='red' /><line x1='115' y1='70' x2='60' y2='95' stroke='red' /><text x='5' y='30' font-size='10'>સૂર્યપ્રકાશ</text></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીનું ટીપું = નાનો પ્રિઝમ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "તારાઓ કેમ ટમટમે છે? વૈજ્ઞાનિક સમજૂતી આપો. (March 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>તારાઓનું ટમટમવું એ <strong>વાતાવરણીય વક્રીભવન</strong>ની ઘટના છે.</li><li>તારાઓ પૃથ્વીથી ઘણા દૂર હોવાથી તે પ્રકાશના 'બિંદુવત સ્ત્રોત' તરીકે વર્તે છે.</li><li>તારામાંથી આવતો પ્રકાશ જ્યારે પૃથ્વીના વાતાવરણમાં પ્રવેશે છે, ત્યારે સતત બદલાતી ઘનતાને કારણે તેનું વક્રીભવન સતત બદલાય છે.</li><li>આથી તારાનું આભાસી સ્થાન બદલાયા કરે છે અને આંખમાં પ્રવેશતા પ્રકાશની માત્રામાં પણ ફેરફાર થાય છે, જે આપણને ટમટમતા દેખાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાતાવરણની ઘનતા બદલાય = વક્રીભવનાંક બદલાય = ટમટમવું!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Question Bank</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "વહેલો સૂર્યોદય અને મોડો સૂર્યાસ્ત થવાનું કારણ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>વાતાવરણીય વક્રીભવનને કારણે સૂર્ય ખરેખર ક્ષિતિજની ઉપર આવે તે પહેલાં દેખાય છે.</li><li>સૂર્યોદય વખતે સૂર્ય ક્ષિતિજની નીચે હોય ત્યારે તેમાંથી આવતા કિરણો ઘટ્ટ હવામાં પ્રવેશીને વક્રીભવન પામી નીચે તરફ વળે છે.</li><li>આથી આપણને સૂર્ય તેના મૂળ સ્થાન કરતા થોડો ઊંચો (ક્ષિતિજની ઉપર) દેખાય છે.</li><li>આ ઘટનાને લીધે સૂર્યોદય <strong>2 મિનિટ વહેલો</strong> અને સૂર્યાસ્ત <strong>2 મિનિટ મોડો</strong> જણાય છે. આમ દિવસ 4 મિનિટ લાંબો બને છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 મિનિટ સવારે + 2 મિનિટ સાંજે = કુલ 4 મિનિટનો ફાયદો!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Conceptual</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "ટિંડલ અસર (Tyndall Effect) એટલે શું? તેના ઉદાહરણો આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>વ્યાખ્યા:</strong> પૃથ્વીના વાતાવરણમાં રહેલા સૂક્ષ્મ કણો (ધૂળ, ધુમાડો, પાણીના ટીપાં) દ્વારા પ્રકાશના કિરણોના વિખેરણ (Scattering) થવાની ઘટનાને ટિંડલ અસર કહે છે.</li><li><strong>ઉદાહરણો:</strong></li><li>(1) સૂર્યપ્રકાશ જ્યારે નાના છિદ્રમાંથી ધુમાડાવાળા રૂમમાં પ્રવેશે ત્યારે પ્રકાશનો માર્ગ દેખાય છે.</li><li>(2) ગાઢ જંગલના છત્ર (Canopy) માંથી સૂર્યપ્રકાશ પસાર થાય ત્યારે ટિંડલ અસર જોવા મળે છે.</li><li>(3) વાહનોની હેડલાઇટનો પ્રકાશ ધુમ્મસમાં દેખાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકાશનો માર્ગ દ્રશ્યમાન થાય = ટિંડલ અસર!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Examples</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "સ્વચ્છ આકાશનો રંગ વાદળી કેમ દેખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>વાતાવરણમાં હવાના અણુઓ અને અન્ય સૂક્ષ્મ કણો દ્રશ્ય પ્રકાશની તરંગલંબાઈ કરતાં નાના કદના હોય છે.</li><li>રેલે સ્કેટરિંગ મુજબ, આ સૂક્ષ્મ કણો ટૂંકી તરંગલંબાઈ ધરાવતા <strong>વાદળી (નીલા)</strong> રંગના પ્રકાશનું વિખેરણ વધુ અસરકારક રીતે કરે છે.</li><li>જ્યારે સૂર્યપ્રકાશ વાતાવરણમાંથી પસાર થાય છે, ત્યારે વાદળી રંગ ચારે બાજુ વિખેરાઈ જાય છે.</li><li>આ વિખેરાયેલો વાદળી પ્રકાશ આપણી આંખમાં પ્રવેશે છે, તેથી આકાશ વાદળી દેખાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનું કદ = નાની તરંગલંબાઈ (વાદળી) નું વિખેરણ વધુ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Science Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "શા માટે ભયદર્શક સિગ્નલમાં લાલ રંગનો જ ઉપયોગ કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>દ્રશ્ય પ્રકાશમાં <strong>લાલ રંગ</strong>ની તરંગલંબાઈ સૌથી વધુ હોય છે.</li><li>વધારે તરંગલંબાઈ હોવાને કારણે, ધુમ્મસ અથવા ધુમાડાના કણો દ્વારા લાલ રંગનું વિખેરણ (Scattering) સૌથી ઓછું થાય છે.</li><li>આથી લાલ રંગ દૂરથી પણ કોઈ પણ જાતના ફેરફાર વગર સ્પષ્ટ જોઈ શકાય છે.</li><li>આ કારણસર ચેતવણી અથવા ભયના સિગ્નલોમાં લાલ રંગનો ઉપયોગ થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ રંગ = મોટો તરંગ = ઓછું વિખેરણ = દૂરથી દેખાય!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Practical Applications of Science</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 3,
+      "question": "ગ્રહો કેમ ટમટમતા નથી? સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ગ્રહો તારાઓની સરખામણીમાં પૃથ્વીની ખૂબ જ <strong>નજીક</strong> છે.</li><li>આથી ગ્રહો 'બિંદુવત સ્ત્રોત' ને બદલે <strong>'વિસ્તૃત સ્ત્રોત' (Extended source)</strong> તરીકે વર્તે છે, જે ઘણા બિંદુવત સ્ત્રોતોનો સમૂહ છે.</li><li>દરેક બિંદુવત સ્ત્રોતમાંથી આવતા પ્રકાશમાં થતા ફેરફારોનું સરેરાશ મૂલ્ય <strong>શૂન્ય</strong> થઈ જાય છે.</li><li>પરિણામે પ્રકાશની તીવ્રતામાં ફેરફાર જણાતો નથી, તેથી ગ્રહો ટમટમતા નથી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તારા = પોઈન્ટ, ગ્રહ = મોટો સ્ત્રોત. મોટો સ્ત્રોત હોય તો ફેરફાર કેન્સલ થઈ જાય!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 3,
+      "question": "અંતરિક્ષ મુસાફરોને આકાશ વાદળીને બદલે કાળું કેમ દેખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આકાશનો વાદળી રંગ વાતાવરણમાં થતા પ્રકાશના <strong>વિખેરણ (Scattering)</strong> ને કારણે હોય છે.</li><li>ખૂબ જ ઊંચાઈએ અથવા અવકાશમાં વાતાવરણ હોતું નથી.</li><li>વાતાવરણ ન હોવાથી ત્યાં પ્રકાશનું વિખેરણ કરનારા કણો હોતા નથી.</li><li>વિખેરણ ન થવાને કારણે પ્રકાશ કોઈ પણ દિશામાં ફેલાતો નથી, તેથી અવકાશયાત્રીઓને આકાશ અંધકારમય અથવા <strong>કાળું</strong> દેખાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નો વાતાવરણ = નો વિખેરણ = કાળું આકાશ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    }
+  ]
+}
