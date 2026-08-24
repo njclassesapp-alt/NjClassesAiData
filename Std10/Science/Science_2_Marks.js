@@ -289,3 +289,100 @@ var Std10_Science_2Marks = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "કાર્બન અને તેનાં સંયોજનો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "કાર્બન શા માટે C⁴⁺ કેટાયન કે C⁴⁻ એનાયન બનાવી શકતો નથી? (March - 2020, 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કાર્બનનો પરમાણુ ક્રમાંક 6 છે અને તેની બાહ્યતમ કક્ષામાં 4 ઇલેક્ટ્રોન છે. અષ્ટક પૂર્ણ કરવા માટે:</p><ul><li>તે 4 ઇલેક્ટ્રોન મેળવી <b>C⁴⁻</b> બનાવી શકે નહીં, કારણ કે 6 પ્રોટોન ધરાવતા ન્યુક્લિયસ માટે 10 ઇલેક્ટ્રોન (6+4) ને પકડી રાખવા મુશ્કેલ છે.</li><li>તે 4 ઇલેક્ટ્રોન ગુમાવી <b>C⁴⁺</b> બનાવી શકે નહીં, કારણ કે 4 ઇલેક્ટ્રોન દૂર કરવા માટે ખૂબ જ મોટા પ્રમાણમાં ઊર્જાની જરૂર પડે છે.</li></ul><p>આથી, કાર્બન ઇલેક્ટ્રોનની ભાગીદારી કરીને સહસંયોજક બંધ બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 મેળવવા ભારે પડે, 4 કાઢવા મોંઘા પડે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board PYQ</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "કેટેનેશન (Catenation) એટલે શું? કાર્બન તત્વમાં આ ગુણધર્મ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કાર્બન અન્ય કાર્બન પરમાણુઓ સાથે બંધ બનાવવાની અદ્વિતીય ક્ષમતા ધરાવે છે, જેનાથી ખૂબ મોટી સંખ્યામાં અણુઓ બને છે. આ ગુણધર્મને <b>કેટેનેશન</b> કહે છે.</p><ul><li>કાર્બન લાંબી શૃંખલા, શાખિત શૃંખલા અથવા વલયોમાં ગોઠવાઈ શકે છે.</li><li>કાર્બન-કાર્બન બંધ અત્યંત પ્રબળ અને સ્થાયી હોય છે.</li><li>સિલિકોન પણ હાઇડ્રોજન સાથે આવી શૃંખલા બનાવે છે પરંતુ તે ખૂબ જ પ્રતિક્રિયાશીલ (અસ્થાયી) હોય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેટેનેશન = કાર્બનની લાંબી ગાડી (ચેઈન)!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "નાઇટ્રોજન અણુ (N₂) નું ઇલેક્ટ્રોન બિંદુ સંરચના દોરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>નાઇટ્રોજનનો પરમાણુ ક્રમાંક 7 છે (રૂપરેખા: 2, 5). તેને અષ્ટક પૂર્ણ કરવા 3 ઇલેક્ટ્રોનની જરૂર છે.</p><svg width='200' height='100' viewBox='0 0 200 100' xmlns='http://www.w3.org/2000/svg'><circle cx='60' cy='50' r='40' fill='none' stroke='#2c3e50' stroke-width='2'/><circle cx='140' cy='50' r='40' fill='none' stroke='#2c3e50' stroke-width='2'/><text x='50' y='55' font-size='20' fill='#16a085'>N</text><text x='130' y='55' font-size='20' fill='#16a085'>N</text><circle cx='90' cy='40' r='3' fill='red'/><circle cx='90' cy='50' r='3' fill='red'/><circle cx='90' cy='60' r='3' fill='red'/><circle cx='110' cy='40' r='3' fill='blue'/><circle cx='110' cy='50' r='3' fill='blue'/><circle cx='110' cy='60' r='3' fill='blue'/><circle cx='40' cy='40' r='3' fill='red'/><circle cx='40' cy='60' r='3' fill='red'/><circle cx='160' cy='40' r='3' fill='blue'/><circle cx='160' cy='60' r='3' fill='blue'/></svg><p>અહીં બે નાઇટ્રોજન પરમાણુઓ વચ્ચે 3-3 ઇલેક્ટ્રોનની ભાગીદારી થઈને <b>ત્રિ-બંધ (Triple Bond)</b> બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: N2 માં 3 ઇલેક્ટ્રોન શેર થાય એટલે 3 લીટા (Triple Bond) આવે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "સંતૃપ્ત અને અસંતૃપ્ત હાઇડ્રોકાર્બન વચ્ચેના બે તફાવત લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><table border='1' style='width:100%; border-collapse: collapse; text-align: left;'><tr style='background-color: #16a085; color: white;'><th>સંતૃપ્ત હાઇડ્રોકાર્બન</th><th>અસંતૃપ્ત હાઇડ્રોકાર્બન</th></tr><tr><td>કાર્બન પરમાણુઓ માત્ર એકલ બંધથી જોડાયેલા હોય છે.</td><td>બે કાર્બન વચ્ચે દ્વિ-બંધ કે ત્રિ-બંધ હોય છે.</td></tr><tr><td>તેઓ પ્રમાણમાં ઓછા પ્રતિક્રિયાશીલ હોય છે.</td><td>તેઓ ખૂબ જ પ્રતિક્રિયાશીલ હોય છે.</td></tr><tr><td>દા.ત. આલ્કેન (મિથેન, ઇથેન)</td><td>દા.ત. આલ્કીન અને આલ્કાઇન</td></tr></table><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંતૃપ્ત = સિંગલ બંધ (Single Bond).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "સમધટકો (Isomers) એટલે શું? બ્યુટેન (C₄H₁₀) ના સમધટકો દોરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જે સંયોજનોના આણ્વીય સૂત્ર સમાન હોય પરંતુ બંધારણીય સૂત્રો ભિન્ન હોય, તેને <b>બંધારણીય સમધટકો</b> કહે છે.</p><p><b>બ્યુટેનના બે સમધટકો:</b></p><ol><li><b>n-બ્યુટેન:</b> CH₃-CH₂-CH₂-CH₃ (સીધી શૃંખલા)</li><li><b>આઇસો-બ્યુટેન:</b> CH₃-CH(CH₃)-CH₃ (શાખિત શૃંખલા)</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂત્ર એક પણ દેખાવ અલગ એટલે સમધટક!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "સમમૂલક શ્રેણી (Homologous Series) એટલે શું? તેની બે લાક્ષણિકતાઓ જણાવો. (July - 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સંયોજનોની એવી શ્રેણી કે જેમાં કાર્બન શૃંખલામાં રહેલા હાઇડ્રોજનને સમાન પ્રકારના ક્રિયાશીલ સમૂહ દ્વારા વિસ્થાપિત કરવામાં આવ્યા હોય, તેને <b>સમમૂલક શ્રેણી</b> કહે છે.</p><p><b>લાક્ષણિકતાઓ:</b></p><ul><li>ક્રમિક સભ્યો વચ્ચે <b>-CH₂-</b> એકમનો તફાવત હોય છે.</li><li>ક્રમિક સભ્યોના આણ્વીય દળમાં <b>14 u</b> નો તફાવત હોય છે.</li><li>શ્રેણીના તમામ સભ્યોના રાસાયણિક ગુણધર્મો સમાન હોય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CH2 નો ગેપ એટલે સમમૂલક શ્રેણી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board PYQ</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "ઓક્સિડેશનકર્તા એટલે શું? આ પ્રકરણના સંદર્ભમાં ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જે પદાર્થો અન્ય પદાર્થોમાં ઓક્સિજન ઉમેરવા માટે સક્ષમ હોય, તેમને <b>ઓક્સિડેશનકર્તા</b> કહેવાય છે.</p><p><b>ઉદાહરણ:</b> ઇથેનોલનું ઇથેનોઇક એસિડમાં રૂપાંતર કરવા માટે નીચેના પદાર્થો ઓક્સિડેશનકર્તા તરીકે વપરાય છે:</p><ul><li>આલ્કલાઇન પોટેશિયમ પરમેંગેનેટ (KMnO₄)</li><li>એસિડિક પોટેશિયમ ડાયક્રોમેટ (K₂Cr₂O₇)</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે બીજાને Oxygen ગિફ્ટ કરે તે ઓક્સિડેશનકર્તા!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "હાઇડ્રોજનીકરણ (Hydrogenation) એટલે શું? તેનું ઔદ્યોગિક મહત્વ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>નિકલ (Ni) અથવા પેલેડિયમ જેવા ઉદ્દીપકની હાજરીમાં અસંતૃપ્ત હાઇડ્રોકાર્બનમાં હાઇડ્રોજન ઉમેરાઈને સંતૃપ્ત હાઇડ્રોકાર્બન બનવાની ક્રિયાને <b>હાઇડ્રોજનીકરણ</b> કહે છે.</p><p><b>ઔદ્યોગિક મહત્વ:</b> વનસ્પતિ તેલ (અસંતૃપ્ત) માંથી વનસ્પતિ ઘી (સંતૃપ્ત) બનાવવા માટે આ પ્રક્રિયા વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલ + H2 = ઘી (ઉદ્દીપક: Ni)</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "વિસ્થાપન પ્રક્રિયા એટલે શું? મિથેનનું ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જે પ્રક્રિયામાં સંતૃપ્ત હાઇડ્રોકાર્બનના હાઇડ્રોજન પરમાણુનું અન્ય પરમાણુ (જેમ કે ક્લોરીન) દ્વારા વિસ્થાપન થાય તેને <b>વિસ્થાપન પ્રક્રિયા</b> કહે છે.</p><p><b>ઉદાહરણ:</b> સૂર્યપ્રકાશની હાજરીમાં મિથેન ક્લોરીન સાથે પ્રક્રિયા કરી ક્લોરોમિથેન બનાવે છે:</p><p style='text-align:center;'>CH₄ + Cl₂ → CH₃Cl + HCl</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઇડ્રોજન આઉટ, ક્લોરીન ઇન!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "કાર્બન ડાયોક્સાઇડ (CO₂) અણુનું ઇલેક્ટ્રોન બિંદુ સંરચના દોરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>CO₂ માં કાર્બન વચ્ચે છે અને બે ઓક્સિજન તેની આસપાસ દ્વિ-બંધથી જોડાયેલા છે.</p><svg width='240' height='100' viewBox='0 0 240 100' xmlns='http://www.w3.org/2000/svg'><circle cx='60' cy='50' r='35' fill='none' stroke='black'/><circle cx='120' cy='50' r='35' fill='none' stroke='black'/><circle cx='180' cy='50' r='35' fill='none' stroke='black'/><text x='52' y='55' font-size='18'>O</text><text x='115' y='55' font-size='18'>C</text><text x='172' y='55' font-size='18'>O</text><circle cx='85' cy='45' r='2' fill='red'/><circle cx='85' cy='55' r='2' fill='red'/><circle cx='95' cy='45' r='2' fill='blue'/><circle cx='95' cy='55' r='2' fill='blue'/><circle cx='145' cy='45' r='2' fill='blue'/><circle cx='145' cy='55' r='2' fill='blue'/><circle cx='155' cy='45' r='2' fill='red'/><circle cx='155' cy='55' r='2' fill='red'/></svg><p>અહીં કાર્બન તેના ચાર ઇલેક્ટ્રોન પૈકી બે-બે ઇલેક્ટ્રોનની ભાગીદારી બંને ઓક્સિજન સાથે કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O = C = O (બંને બાજુ Double Bond)</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "ચતુઃસંયોજકતા (Tetravalency) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કાર્બનની સંયોજકતા 4 છે, એટલે કે તે અન્ય ચાર કાર્બન પરમાણુઓ અથવા અન્ય એક-સંયોજક તત્વો (જેમ કે હાઇડ્રોજન, ક્લોરીન) ના પરમાણુઓ સાથે બંધ બનાવવાની ક્ષમતા ધરાવે છે. આ ગુણધર્મને <b>ચતુઃસંયોજકતા</b> કહે છે.</p><ul><li>કાર્બન ઓક્સિજન, નાઇટ્રોજન અને સલ્ફર સાથે પણ વિશિષ્ટ ગુણધર્મો ધરાવતા સંયોજનો બનાવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચતુઃ એટલે 4; કાર્બનના 4 હાથ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "નીચેના ક્રિયાશીલ સમૂહના નામ અને સંકેત લખો: (1) આલ્કોહોલ (2) કાર્બોક્સિલિક એસિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ol><li><b>આલ્કોહોલ:</b> તેનો સંકેત <b>-OH</b> છે. (પ્રત્યય: -ઓલ)</li><li><b>કાર્બોક્સિલિક એસિડ:</b> તેનો સંકેત <b>-COOH</b> છે. (પ્રત્યય: -ઓઇક એસિડ)</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: OH એટલે દારૂ (આલ્કોહોલ) અને COOH એટલે એસિડ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "શા માટે રસોઈના વાસણોના તળિયા બહારથી કાળા થઈ જાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જ્યારે બળતણ (જેમ કે LPG) નું <b>અપૂર્ણ દહન</b> થાય છે, ત્યારે તેમાંથી પીળી જ્યોત નીકળે છે અને કાજળ (કાર્બનના કણો) ઉત્પન્ન થાય છે.</p><ul><li>જો ચૂલાના હવા જવાના છિદ્રો ભરાઈ ગયા હોય, તો ઓક્સિજન પૂરતો મળતો નથી.</li><li>આ ન સળગેલ કાર્બન વાસણોના તળિયે જમા થાય છે, તેથી વાસણો કાળા પડે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અપૂરતો ઓક્સિજન = અપૂર્ણ દહન = કાળા વાસણ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Practical Based Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "ઇલેક્ટ્રોન બિંદુ સંરચના દોરો: (1) મિથેન (CH₄) (2) ઇથિન (C₂H₄)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><b>(1) મિથેન:</b> કાર્બન 4 હાઇડ્રોજન સાથે એકલ બંધ બનાવે છે.</p><p><b>(2) ઇથિન:</b> બે કાર્બન વચ્ચે દ્વિ-બંધ (Double Bond) અને બાકીના હાઇડ્રોજન સાથે એકલ બંધ હોય છે.</p><p style='font-family: monospace;'>H &nbsp;&nbsp; H<br>&nbsp;\\ /<br>&nbsp; C = C<br>&nbsp;/ \\<br>H &nbsp;&nbsp; H</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇથિનમાં 'ઇન' પ્રત્યય છે એટલે Double Bond આવે જ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Diagram</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "કાર્બનના કયા બે ગુણધર્મો તેને 'વર્સેટાઇલ' (બહુમુખી) બનાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કાર્બન આટલી મોટી સંખ્યામાં સંયોજનો બનાવે છે તેના મુખ્ય બે કારણો છે:</p><ol><li><b>કેટેનેશન:</b> કાર્બન પરમાણુઓની લાંબી શૃંખલા બનાવવાની ક્ષમતા.</li><li><b>ચતુઃસંયોજકતા:</b> તેની 4 સંયોજકતાને કારણે તે વિવિધ તત્વો સાથે બંધ બનાવી શકે છે.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેટેનેશન + 4 સંયોજકતા = લાખો સંયોજનો!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    }
+  ]
+}
