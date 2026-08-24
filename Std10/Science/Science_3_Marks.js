@@ -970,3 +970,82 @@ var Std10_Science_3Marks = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "આપણું પર્યાવરણ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "વિઘટકો એટલે શું? પર્યાવરણમાં તેમની ભૂમિકા સમજાવો. (March - 2020, 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જે સજીવો જટિલ કાર્બનિક પદાર્થોનું સરળ અકાર્બનિક પદાર્થોમાં વિઘટન કરે છે, તેમને <strong>વિઘટકો</strong> કહે છે. (દા.ત. બેક્ટેરિયા અને ફૂગ)</p><ul><li><strong>ભૂમિકા:</strong></li><li>વિઘટકો મૃત વનસ્પતિ અને પ્રાણીઓના અવશેષોનું વિઘટન કરી પર્યાવરણને સાફ રાખે છે.</li><li>તેઓ જટિલ પદાર્થોને મુક્ત કરી જમીનમાં ભેળવે છે, જે વનસ્પતિ દ્વારા પુનઃ ઉપયોગમાં લેવાય છે.</li><li>તેઓ પોષક દ્રવ્યોના ચક્રીય વહનમાં મદદરૂપ થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિઘટકો = કુદરતના સફાઈ કામદારો (Nature's Scavengers).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board (March 2020/23) / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "ઓઝોન સ્તર કેવી રીતે નિર્માણ પામે છે? તે કેવી રીતે ઘટી રહ્યું છે? (July - 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ઓઝોન ($O_3$) એ ઓક્સિજનના ત્રણ પરમાણુઓનો બનેલો છે.</p><ul><li><strong>નિર્માણ:</strong> વાતાવરણના ઉચ્ચ સ્તરે પારજાંબલી (UV) કિરણો ઓક્સિજન ($O_2$) ના અણુનું વિઘટન કરી સ્વતંત્ર $O$ પરમાણુ બનાવે છે. આ $O$ પરમાણુ ફરી $O_2$ સાથે જોડાઈને $O_3$ બનાવે છે.</li><li>$O_2 \xrightarrow{UV} O + O$</li><li>$O + O_2 \rightarrow O_3$ (ઓઝોન)</li><li><strong>ઘટાડો:</strong> ક્લોરોફ્લુરોકાર્બન્સ (CFCs) જેવા રસાયણો ઓઝોન સ્તરના ઘટાડા માટે જવાબદાર છે, જેનો ઉપયોગ રેફ્રિજરેટર અને અગ્નિશામકમાં થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખવાની ટ્રીક: UV કિરણો = કાતર (O2 ને તોડે) અને ફેવિકોલ (O સાથે જોડે).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "નિવસનતંત્રમાં ઊર્જાના વહનની લાક્ષણિકતાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>નિવસનતંત્રમાં ઊર્જાના વહનની મુખ્ય લાક્ષણિકતાઓ નીચે મુજબ છે:</p><ul><li><strong>એકમાર્ગી વહન:</strong> ઊર્જાનું વહન હંમેશા એક જ દિશામાં (ઉત્પાદકો → તૃણાહારી → માંસાહારી) થાય છે. તે ક્યારેય વિપરીત દિશામાં પાછી ફરતી નથી.</li><li><strong>ઊર્જાનો વ્યય:</strong> દરેક પોષક સ્તરે પ્રાપ્ય ઊર્જાનો મોટો જથ્થો ઉષ્મા સ્વરૂપે વાતાવરણમાં વ્યય પામે છે.</li><li><strong>10% નો નિયમ:</strong> એક સ્તરમાંથી બીજા સ્તરમાં માત્ર 10% ઊર્જા જ વહન પામે છે.</li></ul><svg width='200' height='100' viewBox='0 0 200 100'><rect x='10' y='70' width='180' height='20' fill='#4CAF50' /><text x='50' y='85' fill='white' font-size='12'>ઉત્પાદકો</text><path d='M100 70 L100 40' stroke='black' marker-end='url(#arrow)' /><rect x='40' y='20' width='120' height='20' fill='#FF9800' /><text x='65' y='35' fill='white' font-size='12'>ઉપભોગીઓ</text></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: ઊર્જા = વન વે ટ્રાફિક (One Way Traffic).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept / NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "જૈવિક વિશાલન (Biological Magnification) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જ્યારે હાનિકારક રાસાયણિક પદાર્થો (જેમ કે જંતુનાશકો) આહાર શૃંખલામાં પ્રવેશે છે, ત્યારે દરેક ઉચ્ચ પોષક સ્તરે તેમની સાંદ્રતામાં થતા વધારાને <strong>જૈવિક વિશાલન</strong> કહે છે.</p><ul><li>પાણી અને જમીનમાંથી આ રસાયણો વનસ્પતિમાં અને ત્યાંથી પ્રાણીઓમાં પ્રવેશે છે.</li><li>આ પદાર્થો અજૈવ-અવિઘટનીય હોવાથી તે શરીરમાં સંગ્રહિત થાય છે.</li><li>મનુષ્ય આહાર શૃંખલામાં ટોચના સ્થાને હોવાથી, આપણા શરીરમાં આ રસાયણો સૌથી વધુ માત્રામાં જમા થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: ઊંચું સ્તર = વધુ ઝેર (Pesticides).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT IMP / NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "જૈવ-અવિઘટનીય કચરો પર્યાવરણને કેવી રીતે નુકસાન પહોંચાડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જે પદાર્થોનું જૈવિક ક્રિયાઓ દ્વારા વિઘટન થઈ શકતું નથી, તેને જૈવ-અવિઘટનીય કચરો કહે છે (દા.ત. પ્લાસ્ટિક, કાચ).</p><ul><li>તે લાંબા સમય સુધી પર્યાવરણમાં રહે છે અને જમીન તેમજ જળ પ્રદૂષણ ફેલાવે છે.</li><li>તે આહાર શૃંખલામાં પ્રવેશીને જૈવિક વિશાલન જેવી સમસ્યાઓ સર્જે છે.</li><li>પ્લાસ્ટિક જેવો કચરો ગટર લાઈનોમાં ફસાઈ જવાથી ગટર વ્યવસ્થા ખોરવાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: અવિઘટનીય = જે કદી મરતું નથી (Immortal waste).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "આહાર શૃંખલા અને આહાર જાળ વચ્ચેનો તફાવત સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><table><tr><th>આહાર શૃંખલા</th><th>આહાર જાળ</th></tr><tr><td>તે સજીવો વચ્ચેનો સીધો સંબંધ દર્શાવે છે.</td><td>તે ઘણી બધી આહાર શૃંખલાઓનું જટિલ જાળું છે.</td></tr><tr><td>એક સજીવ બીજા એક જ પ્રકારના સજીવનો આહાર બને છે.</td><td>એક સજીવ વિવિધ પ્રકારના સજીવોનો આહાર બની શકે છે.</td></tr><tr><td>તે રેખીય હોય છે.</td><td>તે શાખા યુક્ત હોય છે.</td></tr></table><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: શૃંખલા = સીધી લાઈન, જાળ = કરોળિયાનું જાળું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Most IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "નિવસનતંત્રના ઘટકો વિશે ટૂંકમાં માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>નિવસનતંત્રના મુખ્ય બે ઘટકો છે:</p><ul><li><strong>1. અજૈવિક ઘટકો:</strong> આમાં નિર્જીવ ભૌતિક પરિબળોનો સમાવેશ થાય છે. દા.ત. તાપમાન, વરસાદ, હવા, ભૂમિ અને ખનીજ તત્વો.</li><li><strong>2. જૈવિક ઘટકો:</strong> આમાં તમામ સજીવોનો સમાવેશ થાય છે, જેમને ખોરાકના આધારે ત્રણ ભાગમાં વહેંચાય છે:</li><li>(A) ઉત્પાદકો (લીલી વનસ્પતિ)</li><li>(B) ઉપભોગીઓ (પ્રાણીઓ)</li><li>(C) વિઘટકો (ફૂગ અને બેક્ટેરિયા)</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: નિવસનતંત્ર = જીવતા (Biotic) + નિર્જીવ (Abiotic).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Note</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "આહાર શૃંખલામાં ત્રણ કે ચાર જ ચરણો (પગથિયાં) કેમ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>દરેક પોષક સ્તરે સજીવો દ્વારા ગ્રહણ કરવામાં આવેલી ઊર્જાનો મોટો ભાગ શ્વસન, વૃદ્ધિ અને પ્રજનન જેવી જૈવિક ક્રિયાઓમાં વપરાય છે.</li><li>માત્ર 10% ઊર્જા જ આગળના પોષક સ્તરમાં વહન પામે છે.</li><li>ત્રણ-ચાર ચરણો પછી બાકી રહેતી ઊર્જાની માત્રા એટલી ઓછી હોય છે કે તે આગળના પોષક સ્તરના સજીવના અસ્તિત્વ માટે પૂરતી હોતી નથી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: 10% નિયમ = જેમ ઉપર જઈએ તેમ ઊર્જા ઘટતી જાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Conceptual</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "કચરાના નિકાલની સમસ્યા ઓછી કરવામાં તમારો ફાળો શું હોઈ શકે? કોઈ પણ ત્રણ ઉપાયો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>કચરાનું પૃથ્થકરણ:</strong> ઘરમાં જ જૈવ-વિઘટનીય અને જૈવ-અવિઘટનીય કચરાને અલગ-અલગ ડબ્બામાં ભેગો કરવો.</li><li><strong>પુનઃ ઉપયોગ (Reuse):</strong> પ્લાસ્ટિકની બરણીઓ કે ડબ્બાનો ઉપયોગ અન્ય વસ્તુઓ ભરવા કે કુંડા બનાવવા માટે કરવો.</li><li><strong>ખાતર બનાવવું:</strong> રસોડાના ભીના કચરા (શાકભાજીની છાલ વગેરે) માંથી ખાતર બનાવી બગીચામાં વાપરવું.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: 3R મંત્ર યાદ રાખો - Reduce, Reuse, Recycle.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> General Awareness / NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "ઓઝોન સ્તરનું મહત્વ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ઓઝોન સ્તર પૃથ્વીની આસપાસ એક રક્ષણાત્મક કવચ બનાવે છે.</li><li>તે સૂર્યમાંથી આવતા અત્યંત હાનિકારક પારજાંબલી (UV) કિરણોનું શોષણ કરી પૃથ્વી પર પહોંચતા રોકે છે.</li><li>જો આ કિરણો પૃથ્વી પર આવે, તો મનુષ્યમાં ચામડીનું કેન્સર, આંખમાં મોતીયો અને રોગપ્રતિકારક શક્તિમાં ઘટાડો જેવી સમસ્યાઓ સર્જાય છે.</li><li>તે વનસ્પતિના વિકાસને પણ નુકસાન પહોંચાડે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: ઓઝોન = પૃથ્વીનો સનસ્ક્રીન (Sunscreen of Earth).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 3,
+      "question": "તફાવત આપો: ઉત્પાદકો અને ઉપભોગીઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><table><tr><th>ઉત્પાદકો</th><th>ઉપભોગીઓ</th></tr><tr><td>તેઓ સૂર્યપ્રકાશની મદદથી પોતાનો ખોરાક જાતે બનાવે છે.</td><td>તેઓ ખોરાક માટે ઉત્પાદકો પર આધાર રાખે છે.</td></tr><tr><td>તેમાં બધી જ લીલી વનસ્પતિ અને નીલહરિત લીલનો સમાવેશ થાય છે.</td><td>તેમાં બધા જ પ્રાણીઓ અને મનુષ્યનો સમાવેશ થાય છે.</td></tr><tr><td>તેઓ આહાર શૃંખલાના પ્રથમ સ્તરે હોય છે.</td><td>તેઓ દ્વિતીય, તૃતીય કે તેનાથી ઉપરના સ્તરે હોય છે.</td></tr></table><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: ઉત્પાદક = રસોઈયા (Chef), ઉપભોગી = જમનાર (Guest).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 3,
+      "question": "બગીચો એક નિવસનતંત્ર છે - સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>બગીચામાં વિવિધ વનસ્પતિઓ (ઘાસ, વૃક્ષો, ફૂલો) અને વિવિધ પ્રાણીઓ (દેડકા, કીટકો, પક્ષીઓ) એકબીજા સાથે આંતરક્રિયા કરે છે.</li><li>બગીચાના આ સજીવો (જૈવિક ઘટકો) ત્યાંના તાપમાન, પવન અને જમીન (અજૈવિક ઘટકો) દ્વારા પ્રભાવિત થાય છે.</li><li>અહીં ઉત્પાદકો (છોડ), ઉપભોગીઓ (કીટકો) અને વિઘટકો વચ્ચે ઊર્જાનું વહન થાય છે, તેથી બગીચો એક પૂર્ણ નિવસનતંત્ર છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: બગીચો એ માનવસર્જિત (Artificial) નિવસનતંત્ર છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    }
+  ]
+}
