@@ -871,3 +871,82 @@ var Std10_Science_2Marks = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "માનવ આંખ અને રંગબેરંગી દુનિયા",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "આંખની સમાવેશ ક્ષમતા (Power of Accommodation) એટલે શું? (March - 2022, 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આંખના લેન્સ (નેત્રમણિ) પોતાની કેન્દ્રલંબાઈમાં ફેરફાર કરી નજીકની અને દૂરની વસ્તુઓને નેત્રપટલ પર સ્પષ્ટ રીતે જોઈ શકે તેવી ક્ષમતાને <strong>સમાવેશ ક્ષમતા</strong> કહે છે.</li><li>આ કાર્ય સિલિયરી સ્નાયુઓ દ્વારા થાય છે.</li><li>જ્યારે સ્નાયુઓ આરામની સ્થિતિમાં હોય ત્યારે લેન્સ પાતળો થાય છે અને દૂરની વસ્તુ દેખાય છે, જ્યારે સ્નાયુઓ સંકોચાય ત્યારે લેન્સ જાડો થાય છે અને નજીકની વસ્તુ સ્પષ્ટ દેખાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાવેશ એટલે 'Adjust' કરવું. સ્નાયુઓ ખેંચાય તો દૂર, ઢીલા થાય તો નજીક!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Question / Textbook Page 188</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "તારાઓ કેમ ટમટમે છે? ટૂંકમાં સમજાવો. (March - 2020)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>તારાઓ પૃથ્વીથી ઘણે દૂર હોવાથી તે પ્રકાશના <strong>બિંદુવત ઉદ્ગમ</strong> તરીકે વર્તે છે.</li><li>તારામાંથી આવતો પ્રકાશ જ્યારે પૃથ્વીના વાતાવરણમાં પ્રવેશે છે ત્યારે તેનું સતત <strong>વક્રીભવન</strong> થાય છે.</li><li>વાતાવરણની હવાની ઘનતા બદલાતી રહેતી હોવાથી તારાનું આભાસી સ્થાન બદલાયા કરે છે અને આંખમાં પ્રવેશતા પ્રકાશની તીવ્રતા પણ વધ-ઘટ થાય છે. આથી તારાઓ ટમટમતા દેખાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટારાઓનું ટમટમવું = વાતાવરણીય વક્રીભવન + હવાની બદલાતી ઘનતા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board 2020 IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "વહેલી સવારમાં સૂર્ય ઉગવાના 2 મિનિટ પહેલા કેમ દેખાય છે? (વહેલો સૂર્યોદય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આ ઘટનાનું મુખ્ય કારણ <strong>વાતાવરણીય વક્રીભવન</strong> છે.</li><li>સૂર્ય હજુ ક્ષિતિજની નીચે હોય ત્યારે તેમાંથી આવતા કિરણો પૃથ્વીના વાતાવરણમાં પ્રવેશતા પાતળા માધ્યમમાંથી ઘટ્ટ માધ્યમમાં જાય છે, જેથી તેનું વક્રીભવન થઈ તે લંબ તરફ વળે છે.</li><li>આ અવલોકનકારને સૂર્ય ક્ષિતિજની ઉપર હોય તેવો આભાસ થાય છે. આ કારણે સૂર્યોદય 2 મિનિટ વહેલો દેખાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષિતિજની નીચે સૂર્ય -> વક્રીભવન -> આભાસી સ્થાન ઉપર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "ગ્રહો કેમ ટમટમતા નથી? સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>તારાઓની સરખામણીમાં ગ્રહો પૃથ્વીની ખૂબ નજીક છે, તેથી તેઓ બિંદુવત ઉદ્ગમ નહિ પણ <strong>વિસ્તૃત ઉદ્ગમ (Extended source)</strong> તરીકે ગણાય છે.</li><li>જો આપણે ગ્રહને ઘણા બિંદુવત પ્રકાશ ઉદ્ગમોનો સમૂહ ગણીએ, તો દરેક બિંદુમાંથી આવતા પ્રકાશમાં થતા ફેરફારો એકબીજાની અસરને <strong>નાબૂદ (Cancel)</strong> કરે છે.</li><li>આથી ગ્રહમાંથી આવતા પ્રકાશની સરેરાશ તીવ્રતામાં ફેરફાર થતો નથી, પરિણામે ગ્રહો ટમટમતા નથી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રહ = મોટું ઉદગમ (બિંદુઓનો સમૂહ). અસર નાબૂદ થાય = No ટમટમ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB textbook page 194</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "ભયદર્શક સિગ્નલમાં લાલ રંગનો જ ઉપયોગ કેમ કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>દૃશ્ય પ્રકાશમાં <strong>લાલ રંગની તરંગલંબાઈ સૌથી વધુ</strong> હોય છે.</li><li>વધુ તરંગલંબાઈ હોવાને કારણે ધુમ્મસ કે ધુમાડાના કણો દ્વારા લાલ રંગનું <strong>પ્રકીર્ણન (Scattering) સૌથી ઓછું</strong> થાય છે.</li><li>આથી લાલ રંગ દૂરથી પણ સ્પષ્ટ જોઈ શકાય છે, જે અકસ્માત રોકવા માટે જરૂરી છે. તેથી લાલ રંગ ભયદર્શક સિગ્નલમાં વપરાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ રંગ = વધુ તરંગલંબાઈ = ઓછું વિખેરણ = દૂરથી દેખાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Application of Scattering</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "ટિંડલ અસર (Tyndall Effect) એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જ્યારે પ્રકાશનું કિરણ કોઈ <strong>કલીલ દ્રાવણ</strong> અથવા વાતાવરણના સૂક્ષ્મ કણો (ધૂળ, ધુમાડો) પર પડે છે, ત્યારે તે કણો દ્વારા પ્રકાશનું ચારે દિશામાં વિચલન થાય છે, જેને <strong>પ્રકીર્ણન</strong> કહે છે. આ ઘટનાને ટિંડલ અસર કહે છે.</li><li><strong>ઉદાહરણ:</strong> <br>1. બંધ રૂમમાં બારીના છિદ્રમાંથી આવતા પ્રકાશમાં ધૂળના કણો ઉડતા દેખાવા. <br>2. ગાઢ જંગલમાં વૃક્ષોના પાંદડા વચ્ચેથી સૂર્યપ્રકાશ પસાર થતા તેના કિરણોનો માર્ગ દેખાવો.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકાશનો માર્ગ દેખાય એ જ ટિંડલ અસર!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Chapter 10</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "કાચના પ્રિઝમ વડે શ્વેત પ્રકાશનું વિભાજન આકૃતિ દોરી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>શ્વેત પ્રકાશ જ્યારે પ્રિઝમમાંથી પસાર થાય ત્યારે તે તેના 7 ઘટક રંગોમાં વિભાજિત થાય છે, જેને <strong>વિક્ષેપણ</strong> કહે છે.</p><svg width='200' height='120' viewBox='0 0 200 120' xmlns='http://www.w3.org/2000/svg'><polygon points='60,10 10,100 110,100' fill='none' stroke='black' stroke-width='2'/><line x1='0' y1='70' x2='35' y2='55' stroke='gray' stroke-width='2'/><line x1='85' y1='55' x2='150' y2='20' stroke='red' stroke-width='1'/><line x1='85' y1='65' x2='150' y2='100' stroke='violet' stroke-width='1'/><text x='155' y='25' font-size='10'>Red (R)</text><text x='155' y='105' font-size='10'>Violet (V)</text></svg><ul><li>સાત રંગોનો ક્રમ (નીચેથી ઉપર): <strong>જાનીવાલીપીનારા</strong> (VIBGYOR).</li><li>જાંબલી રંગનું વિચલન સૌથી વધુ અને લાલ રંગનું વિચલન સૌથી ઓછું થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જા-ની-વા-લી-પી-ના-રા યાદ રાખો!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Newton's Experiment</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "કનિષ્ટ દ્રષ્ટિ અંતર (Least Distance of Distinct Vision) એટલે શું? તેનું મૂલ્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આંખ પર કોઈપણ પ્રકારનો તણાવ પડ્યા વગર, જે લઘુતમ અંતરે વસ્તુને સૌથી વધુ સ્પષ્ટ રીતે જોઈ શકાય, તે અંતરને <strong>કનિષ્ટ દ્રષ્ટિ અંતર</strong> અથવા આંખનું <strong>નજીક બિંદુ</strong> કહે છે.</li><li>સામાન્ય દ્રષ્ટિ ધરાવતા પુખ્ત મનુષ્ય માટે આ અંતર <strong>25 cm</strong> હોય છે.</li><li>જો વસ્તુ 25 cm થી નજીક હોય તો આંખ પર તાણ અનુભવાય છે અને ચિત્ર ઝાંખું દેખાઈ શકે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુખ્ત માટે નજીક બિંદુ = 25 cm, દૂર બિંદુ = અનંત અંતર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "આંખમાં કનીનિકા (Iris) અને કીકી (Pupil) નું કાર્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>કનીનિકા (Iris):</strong> તે આંખના સ્નાયુમય પડદો છે જે આંખનો રંગ નક્કી કરે છે. તેનું મુખ્ય કાર્ય <strong>કીકીના કદનું નિયંત્રણ</strong> કરવાનું છે.</li><li><strong>કીકી (Pupil):</strong> તે કનીનિકાની મધ્યમાં આવેલું એક છિદ્ર છે. તે આંખમાં <strong>પ્રવેશતા પ્રકાશના જથ્થાનું નિયમન</strong> કરે છે.</li><li>વધુ પ્રકાશમાં કીકી નાની થાય છે અને ઓછા પ્રકાશમાં કીકી મોટી (વિસ્તૃત) થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Iris = Controller, Pupil = Gateway of Light.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Structure of Human Eye</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "સ્વચ્છ આકાશનો રંગ વાદળી (Blue) કેમ દેખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>વાતાવરણમાં હવાના અણુઓ અને અન્ય સૂક્ષ્મ કણો દૃશ્ય પ્રકાશની તરંગલંબાઈ કરતાં નાના કદના હોય છે.</li><li>આ કણો ટૂંકી તરંગલંબાઈવાળા <strong>વાદળી (નીલા) રંગના પ્રકાશનું પ્રકીર્ણન</strong> સૌથી વધુ કરે છે.</li><li>આ પ્રકીર્ણન પામેલો વાદળી પ્રકાશ આપણી આંખમાં પ્રવેશે છે, તેથી આપણને આકાશ વાદળી દેખાય છે. જો પૃથ્વી પર વાતાવરણ ન હોત તો આકાશ કાળું દેખાત.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાના કણો = ટૂંકી તરંગલંબાઈ (વાદળી) નું પ્રકીર્ણન.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Rayleigh Scattering Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "વૃદ્ધાવસ્થામાં થતી મોતિયો (Cataract) ની ખામી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>વૃદ્ધાવસ્થામાં મનુષ્યની આંખનો સ્ફટિકમય લેન્સ <strong>દૂધિયો (Milky)</strong> અને <strong>વાદળછાયો (Cloudy)</strong> બની જાય છે. આ સ્થિતિને <strong>મોતિયો</strong> કહે છે.</li><li>તેના કારણે દ્રષ્ટિ ઓછી થઈ જાય છે અથવા સંપૂર્ણપણે જતી રહે છે.</li><li>મોતિયાનું નિવારણ ફક્ત <strong>સર્જરી (શસ્ત્રક્રિયા)</strong> દ્વારા જ થઈ શકે છે, જેમાં લેન્સને બદલી કૃત્રિમ લેન્સ બેસાડવામાં આવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોતિયો = લેન્સનું દૂધિયું થવું. ઇલાજ = સર્જરી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Notes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "સ્પેક્ટ્રમ (વર્ણપટ) એટલે શું? ન્યૂટને તે વિશે શું નોંધ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>પ્રિઝમ દ્વારા શ્વેત પ્રકાશના વિભાજનથી મળતા રંગોના પટ્ટાને <strong>વર્ણપટ (Spectrum)</strong> કહે છે.</li><li>આઈઝેક ન્યૂટને સૌપ્રથમ સૂર્યપ્રકાશનો વર્ણપટ મેળવવા કાચના પ્રિઝમનો ઉપયોગ કર્યો હતો.</li><li>તેમણે સાબિત કર્યું કે સૂર્યપ્રકાશ <strong>સાત રંગોનો</strong> બનેલો છે. તેમણે બે પ્રિઝમ ઉલ્ટા રાખીને સાત રંગોને ફરી શ્વેત પ્રકાશમાં ફેરવી બતાવ્યા હતા.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રંગોનો પટ્ટો = સ્પેક્ટ્રમ. ન્યૂટન = 7 રંગોનો જાદુગર!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Discovery Section</p></div>"
+    }
+  ]
+}
