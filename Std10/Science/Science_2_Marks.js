@@ -774,3 +774,100 @@ var Std10_Science_2Marks = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "પ્રકાશ - પરાવર્તન અને વક્રીભવન",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "સમતલ અરીસા દ્વારા રચાતા પ્રતિબિંબની લાક્ષણિકતાઓ જણાવો. (March 2020, Aug 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>પ્રતિબિંબ હંમેશા આભાસી અને ચત્તું હોય છે.</li><li>પ્રતિબિંબનું કદ વસ્તુના કદ જેટલું જ હોય છે.</li><li>વસ્તુ અરીસાથી જેટલા અંતરે હોય, પ્રતિબિંબ અરીસાની પાછળ તેટલા જ અંતરે રચાય છે.</li><li>પ્રતિબિંબની બાજુઓ ઉલટાયેલી હોય છે (વસ્તુની ડાબી બાજુ પ્રતિબિંબમાં જમણી બાજુ દેખાય છે).</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આ-ચ-સ-અ' યાદ રાખો (આભાસી, ચત્તું, સમાન કદ, અરીસાથી સમાન અંતર).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board (PYQ)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "લેન્સના પાવરની વ્યાખ્યા આપી તેનો SI એકમ જણાવો. (March 2023, 2024)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>વ્યાખ્યા:</strong> લેન્સની પ્રકાશના કિરણોને કેન્દ્રિત કે વિકેન્દ્રિત કરવાની ક્ષમતાને લેન્સનો પાવર (P) કહે છે. અથવા લેન્સની કેન્દ્રલંબાઈ (f) ના વ્યસ્તને લેન્સનો પાવર કહે છે.</p><p>સૂત્ર: P = 1 / f (f મીટરમાં)</p><ul><li><strong>SI એકમ:</strong> ડાયોપ્ટર (Dioptre) છે, જેને 'D' સંજ્ઞા વડે દર્શાવાય છે.</li><li>1 D = 1 m⁻¹</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો f સેમીમાં હોય, તો P = 100/f સૂત્ર વાપરવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NCERT</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "અંતર્ગોળ અરીસાના ઉપયોગો લખો. (July 2022, March 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ટોર્ચ, સર્ચલાઈટ અને વાહનોની હેડલાઈટમાં પરાવર્તક તરીકે.</li><li>દાઢી કરતી વખતે ચહેરાનું મોટું પ્રતિબિંબ જોવા માટે (Shaving mirror).</li><li>દાંતના ડોક્ટરો દર્દીના દાંતનું મોટું પ્રતિબિંબ જોવા માટે.</li><li>સૌર ભઠ્ઠીમાં સૂર્યપ્રકાશને કેન્દ્રિત કરવા માટે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં વસ્તુને 'મોટી' જોવી હોય ત્યાં 'અંતર્ગોળ' અરીસો આવે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "પ્રકાશના વક્રીભવનના નિયમો લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ol><li>આપાત કિરણ, વક્રીભૂત કિરણ અને બે માધ્યમોને છૂટી પાડતી સપાટી પર આપાત બિંદુએ દોરેલો લંબ એક જ સમતલમાં હોય છે.</li><li>આપેલ રંગના પ્રકાશ અને માધ્યમોની જોડ માટે, આપાતકોણના સાઈન (sin i) અને વક્રીભૂતકોણના સાઈન (sin r) નો ગુણોત્તર અચળ રહે છે (સ્નેલનો નિયમ).</li></ol><p>સૂત્ર: sin i / sin r = constant (n₂₁)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરાવર્તન અને વક્રીભવનનો પહેલો નિયમ સરખો જ છે (એક જ સમતલ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "વક્રીભવનાંક એટલે શું? નિરપેક્ષ વક્રીભવનાંકનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પ્રકાશનું કિરણ એક માધ્યમમાંથી બીજા માધ્યમમાં પ્રવેશે ત્યારે તે પોતાની દિશા બદલે છે, આ દિશાના ફેરફારના પ્રમાણને વક્રીભવનાંક કહે છે.</p><p><strong>નિરપેક્ષ વક્રીભવનાંક:</strong> શૂન્યાવકાશમાં પ્રકાશની ઝડપ (c) અને આપેલ માધ્યમમાં પ્રકાશની ઝડપ (v) ના ગુણોત્તરને તે માધ્યમનો નિરપેક્ષ વક્રીભવનાંક (n) કહે છે.</p><p>સૂત્ર: n = c / v</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવામાં પ્રકાશની ઝડપ (c) = 3 × 10⁸ m/s હંમેશા અંશમાં રહેશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "બહિર્ગોળ અરીસાનો ઉપયોગ વાહનોમાં સાઈડ મિરર (Rear-view mirror) તરીકે કેમ કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>બહિર્ગોળ અરીસો હંમેશા વસ્તુનું ચત્તું અને નાનું પ્રતિબિંબ આપે છે.</li><li>તે બહારની તરફ વક્ર હોવાથી તેનો દ્રષ્ટિ-વિસ્તાર (Field of view) ઘણો વિશાળ હોય છે.</li><li>આથી ડ્રાઈવર તેની પાછળના બહુ મોટા વિસ્તારમાં આવતા વાહનોને જોઈ શકે છે અને સુરક્ષિત રીતે વાહન ચલાવી શકે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહિર્ગોળ = બહારની વક્ર સપાટી + મોટું મેદાન (વિશાળ વિસ્તાર).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "કાચના લંબઘન વડે થતા પ્રકાશના વક્રીભવનમાં લેટરલ શિફ્ટ (પાશ્વિય સ્થાનાંતર) એટલે શું? આકૃતિ દોરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કાચના લંબઘન પર આપાત થતું કિરણ અને લંબઘનમાંથી બહાર નીકળતું નિર્ગમન કિરણ એકબીજાને સમાંતર હોય છે. આ આપાત કિરણની મૂળ દિશા અને નિર્ગમન કિરણ વચ્ચેના લંબ અંતરને 'લેટરલ શિફ્ટ' કહે છે.</p><svg width='200' height='120' viewBox='0 0 200 120' xmlns='http://www.w3.org/2000/svg'><rect x='50' y='30' width='100' height='60' fill='none' stroke='black' stroke-width='2'/><line x1='20' y1='10' x2='75' y2='30' stroke='blue' stroke-width='2'/><line x1='75' y1='30' x2='90' y2='90' stroke='red' stroke-width='2'/><line x1='90' y1='90' x2='145' y2='110' stroke='green' stroke-width='2'/><line x1='75' y1='30' x2='125' y2='50' stroke='gray' stroke-dasharray='4'/></svg><p> (અહીં ગ્રે તૂટક રેખા એ મૂળ દિશા છે અને લીલી રેખા નિર્ગમન કિરણ છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપાતકોણ = નિર્ગમનકોણ હોવાથી કિરણો સમાંતર રહે છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "ગોળીય અરીસા માટે વક્રતા ત્રિજ્યા (R) અને કેન્દ્રલંબાઈ (f) વચ્ચેનો સંબંધ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>નાના મુખવાળા ગોળીય અરીસા માટે, તેની વક્રતા ત્રિજ્યા (R) એ તેની કેન્દ્રલંબાઈ (f) કરતા બમણી હોય છે.</p><ul><li>ગણિતિક રીતે: <strong>R = 2f</strong></li><li>અથવા <strong>f = R / 2</strong></li></ul><p>દાખલા તરીકે, જો અરીસાની વક્રતા ત્રિજ્યા 30 cm હોય, તો તેની કેન્દ્રલંબાઈ 15 cm થશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધું કરવાનું ભૂલતા નહિ! f એ હંમેશા R કરતા નાનું (અડધું) હોય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "બહિર્ગોળ લેન્સ અને અંતર્ગોળ લેન્સ વચ્ચેનો તફાવત આપો. (કોઈપણ બે મુદ્દા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><table style='width:100%; border-collapse: collapse;'><tr><th style='border: 1px solid black; padding: 5px;'>બહિર્ગોળ લેન્સ</th><th style='border: 1px solid black; padding: 5px;'>અંતર્ગોળ લેન્સ</th></tr><tr><td style='border: 1px solid black; padding: 5px;'>તે મધ્યમાં જાડો અને કિનારીએથી પાતળો હોય છે.</td><td style='border: 1px solid black; padding: 5px;'>તે મધ્યમાં પાતળો અને કિનારીએથી જાડો હોય છે.</td></tr><tr><td style='border: 1px solid black; padding: 5px;'>તે પ્રકાશના કિરણોને અભિસારી (એકઠા) કરે છે.</td><td style='border: 1px solid black; padding: 5px;'>તે પ્રકાશના કિરણોને અપસારી (છૂટા) કરે છે.</td></tr></table><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહિર્ગોળ = બહારની બાજુ ઉપસેલો, અંતર્ગોળ = અંદરની બાજુ દબાયેલો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "મોટવણી (m) નું મૂલ્ય ઋણ (-) અને ધન (+) શું સૂચવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>ઋણ (-) ચિહ્ન:</strong> જો મોટવણીનું મૂલ્ય ઋણ હોય, તો તે સૂચવે છે કે પ્રતિબિંબ <strong>વાસ્તવિક અને ઉલટું</strong> છે.</li><li><strong>ધન (+) ચિહ્ન:</strong> જો મોટવણીનું મૂલ્ય ધન હોય, તો તે સૂચવે છે કે પ્રતિબિંબ <strong>આભાસી અને ચત્તું</strong> છે.</li></ul><p>ઉદાહરણ: જો m = -1.5 હોય, તો પ્રતિબિંબ વાસ્તવિક, ઉલટું અને વસ્તુ કરતા મોટું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '+' એટલે આભાસી (A+), '-' એટલે વાસ્તવિક.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "એક ગોળીય અરીસાની વક્રતા ત્રિજ્યા 20 cm છે. તેની કેન્દ્રલંબાઈ કેટલી હશે? (દાખલો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં, વક્રતા ત્રિજ્યા (R) = 20 cm આપેલ છે.</p><p>સૂત્ર મુજબ, f = R / 2</p><p>f = 20 / 2</p><p><strong>f = 10 cm</strong></p><p>આમ, ગોળીય અરીસાની કેન્દ્રલંબાઈ 10 cm થશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હંમેશા એકમ (cm/m) લખવો, નહિતર અડધો માર્ક કપાઈ શકે છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Textbook Numerical</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "વાસ્તવિક પ્રતિબિંબ અને આભાસી પ્રતિબિંબ વચ્ચેનો તફાવત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>વાસ્તવિક પ્રતિબિંબ:</strong> પ્રકાશના કિરણો પરાવર્તન કે વક્રીભવન પામી ખરેખર કોઈ બિંદુએ મળતા હોય. તેને પડદા પર ઝીલી શકાય છે. તે હંમેશા ઉલટું હોય છે.</li><li><strong>આભાસી પ્રતિબિંબ:</strong> પ્રકાશના કિરણો ખરેખર મળતા નથી પણ મળતા હોય તેવો ભાસ થાય છે. તેને પડદા પર ઝીલી શકાતું નથી. તે હંમેશા ચત્તું હોય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાસ્તવિક = ઉલટું (VU), આભાસી = ચત્તું (AC).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "હીરાનો વક્રીભવનાંક 2.42 છે. આ વિધાનનો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>હીરાનો વક્રીભવનાંક 2.42 છે તેનો અર્થ એ થાય કે:</p><ul><li>શૂન્યાવકાશમાં પ્રકાશની ઝડપ અને હીરામાં પ્રકાશની ઝડપનો ગુણોત્તર 2.42 છે.</li><li>બીજા શબ્દોમાં, હીરામાં પ્રકાશની ઝડપ એ શૂન્યાવકાશમાં પ્રકાશની ઝડપના (1 / 2.42) માં ભાગની છે.</li><li>હીરામાં પ્રકાશની ગતિ સૌથી વધુ ધીમી પડે છે કારણ કે તેનો વક્રીભવનાંક ઘણો વધારે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ વક્રીભવનાંક = વધુ પ્રકાશીય ઘટ્ટ માધ્યમ = ઓછી ઝડપ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "લેન્સના પાવર અને કેન્દ્રલંબાઈ વચ્ચેનો સંબંધ દર્શાવતો દાખલો: -2.0 D પાવર ધરાવતા લેન્સની કેન્દ્રલંબાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અહીં, પાવર P = -2.0 D</p><p>સૂત્ર: f = 1 / P</p><p>f = 1 / (-2.0)</p><p>f = -0.5 m (અથવા -50 cm)</p><p>ઋણ ચિહ્ન હોવાથી આ લેન્સ <strong>અંતર્ગોળ લેન્સ</strong> હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાવર (-) હોય તો અંતર્ગોળ, પાવર (+) હોય તો બહિર્ગોળ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercises</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "પ્રકાશનું પરાવર્તન એટલે શું? તેના નિયમો લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>વ્યાખ્યા:</strong> કોઈ ચકચકિત સપાટી પર પ્રકાશનું કિરણ અથડાઈને પાછા ફરવાની ઘટનાને પ્રકાશનું પરાવર્તન કહે છે.</p><p><strong>નિયમો:</strong></p><ol><li>આપાતકોણ (i) અને પરાવર્તનકોણ (r) સમાન હોય છે (∠i = ∠r).</li><li>આપાત કિરણ, પરાવર્તિત કિરણ અને સપાટી પર દોરેલો લંબ એક જ સમતલમાં હોય છે.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અરીસામાં જોતા હોઈએ ત્યારે જેટલા ખૂણે પ્રકાશ આવે તેટલા જ ખૂણે પાછો જાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Basic Concept</p></div>"
+    }
+  ]
+}
