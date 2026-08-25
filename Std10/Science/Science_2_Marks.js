@@ -386,3 +386,100 @@ var Std10_Science_2Marks = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "જૈવિક ક્રિયાઓ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "બહુકોષી સજીવોમાં ઓક્સિજનની જરૂરિયાત પૂરી કરવા માટે પ્રસરણ અપૂરતું છે. શા માટે? (March 2020)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>એકકોષી સજીવોમાં આખું શરીર પર્યાવરણ સાથે સીધા સંપર્કમાં હોય છે, તેથી પ્રસરણ પૂરતું છે.</li><li>પરંતુ બહુકોષી સજીવોમાં બધા જ કોષો સીધા પર્યાવરણના સંપર્કમાં હોતા નથી.</li><li>શરીરનું કદ મોટું હોવાને કારણે પ્રસરણ દ્વારા ઓક્સિજન શરીરના દરેક ભાગ કે કોષ સુધી ઝડપથી પહોંચી શકતો નથી.</li><li>જો માત્ર પ્રસરણ પર આધાર રાખવામાં આવે, તો ફેફસાંથી પગના અંગૂઠા સુધી ઓક્સિજન પહોંચતા આશરે 3 વર્ષ જેટલો સમય લાગે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહુકોષી = મોટું શરીર + કોષો દૂર = પ્રસરણ ધીમું!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board 2020</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "પ્રકાશસંશ્લેષણની વ્યાખ્યા આપી તેનું સમીકરણ લખો. (March 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>વ્યાખ્યા:</strong> ક્લોરોફિલ ધરાવતા સજીવો (લીલી વનસ્પતિ) સૂર્યપ્રકાશની હાજરીમાં CO₂ અને પાણીનો ઉપયોગ કરી પોતાનો ખોરાક (કાર્બોદિત) બનાવે તે પ્રક્રિયાને પ્રકાશસંશ્લેષણ કહે છે.</p><p><strong>સમીકરણ:</strong></p><p style='text-align:center; background:#fff; padding:10px; border-radius:5px;'>6CO₂ + 12H₂O <span style='color:orange;'>$\xrightarrow{સૂર્યપ્રકાશ, ક્લોરોફિલ}$</span> C₆H₁₂O₆ + 6O₂ + 6H₂O</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખવાની રીત: 6-12-6 (CO2-H2O-O2) અને વચ્ચે ગ્લુકોઝ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board 2022</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "મુખમાં લાળરસની ભૂમિકા શું છે? (March 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>લાળરસ ખોરાકને ભીનો અને પોચો બનાવે છે, જેથી તેનું ચર્વણ અને વહન સરળ બને છે.</li><li>લાળરસમાં <strong>'લાળરસિય એમાયલેઝ' (Amylase)</strong> નામનો ઉત્સેચક હોય છે.</li><li>આ ઉત્સેચક ખોરાકના જટિલ અણુ <strong>સ્ટાર્ચનું</strong> સરળ શર્કરા (માલ્ટોઝ) માં રૂપાંતર કરે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: લાળ = એમાયલેઝ = સ્ટાર્ચ → શર્કરા</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board 2023</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "જઠરમાં એસિડ અને શ્લેષ્મનું કાર્ય સમજાવો. (July 2021)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>મંદ હાઇડ્રોક્લોરિક એસિડ (HCl):</strong> તે જઠરમાં એસિડિક માધ્યમ પૂરું પાડે છે જે પેપ્સિન ઉત્સેચકની પ્રક્રિયામાં મદદ કરે છે અને ખોરાક સાથે આવેલા બેક્ટેરિયાનો નાશ કરે છે.</li><li><strong>શ્લેષ્મ:</strong> તે જઠરના આંતરસ્તરને એસિડ અને પેપ્સિનની અસરોથી રક્ષણ આપે છે, જેથી જઠરમાં ચાંદા (Ulcers) પડતા નથી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: એસિડ = પાચનમાં મદદ + સફાઈ | શ્લેષ્મ = રક્ષણ (Shield)</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "તફાવત આપો: જારક શ્વસન અને અજારક શ્વસન (July 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><table border='1' style='width:100%; border-collapse:collapse; background:white;'><tr><th style='padding:5px;'>જારક શ્વસન</th><th style='padding:5px;'>અજારક શ્વસન</th></tr><tr><td style='padding:5px;'>ઓક્સિજનની હાજરીમાં થાય છે.</td><td style='padding:5px;'>ઓક્સિજનની ગેરહાજરીમાં થાય છે.</td></tr><tr><td style='padding:5px;'>વધારે ઉર્જા મુક્ત થાય છે (38 ATP).</td><td style='padding:5px;'>ખૂબ ઓછી ઉર્જા મુક્ત થાય છે (2 ATP).</td></tr><tr><td style='padding:5px;'>અંતિમ નીપજ CO₂ અને પાણી છે.</td><td style='padding:5px;'>અંતિમ નીપજ ઇથેનોલ અથવા લેક્ટિક એસિડ છે.</td></tr></table><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: જારક = હાજરી (+) | અજારક = ગેરહાજરી (-)</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board 2022</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "ધમની અને શિરા વચ્ચેના બે મુખ્ય તફાવત લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><table border='1' style='width:100%; border-collapse:collapse; background:white;'><tr><th style='padding:5px;'>ધમની (Artery)</th><th style='padding:5px;'>શિરા (Vein)</th></tr><tr><td style='padding:5px;'>રુધિરને હૃદયથી અંગો તરફ લઈ જાય છે.</td><td style='padding:5px;'>રુધિરને અંગોથી હૃદય તરફ લાવે છે.</td></tr><tr><td style='padding:5px;'>દીવાલ જાડી અને સ્થિતિસ્થાપક હોય છે.</td><td style='padding:5px;'>દીવાલ પાતળી હોય છે.</td></tr><tr><td style='padding:5px;'>વાલ હોતા નથી.</td><td style='padding:5px;'>વાલ હોય છે.</td></tr></table><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: ધમની = દૂર લઈ જાય (D-D), શિરા = સાંકડી (પાતળી દીવાલ) પણ વાલવાળી!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "રસાંકુરો (Villi) એટલે શું? તેનું કાર્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વ્યાખ્યા:</strong> નાના આંતરડાના અંદરના સ્તરમાં આવેલી આંગળીઓ જેવી અસંખ્ય પ્રવર્ધમય સંરચનાઓને રસાંકુરો કહે છે.</p><p><strong>કાર્ય:</strong></p><ul><li>તે ખોરાકના શોષણ માટે સપાટીનું ક્ષેત્રફળ વધારે છે.</li><li>તે રુધિરવાહિનીઓથી સમૃદ્ધ હોય છે, જે શોષાયેલા ખોરાકને શરીરના દરેક કોષ સુધી પહોંચાડવામાં મદદ કરે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: રસાંકુરો = સોસણ (Absorption) વધારનાર બ્રશ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "ATP ને 'કોષનું ઉર્જા ચલણ' શા માટે કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>શ્વસન દરમિયાન મુક્ત થતી ઉર્જા ત્વરિત રીતે ATP (એડિનોસાઇન ટ્રાય ફોસ્ફેટ) નામના અણુમાં સંગ્રહાય છે.</li><li>જ્યારે કોષને કોઈ કાર્ય (જેમ કે સ્નાયુનું સંકોચન, પ્રોટીન સંશ્લેષણ) માટે ઉર્જાની જરૂર હોય, ત્યારે ATP ના અંતિમ ફોસ્ફેટ બંધનું વિખંડન થઈ ઉર્જા મુક્ત થાય છે.</li><li>આથી, તેને કોષનું ઉર્જા ચલણ (Energy Currency) કહે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: ATP = બોડીનું પાવર બેંક (Power Bank)!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "તફાવત આપો: જલવાહક પેશી અને અન્નવાહક પેશી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><table border='1' style='width:100%; border-collapse:collapse; background:white;'><tr><th style='padding:5px;'>જલવાહક પેશી</th><th style='padding:5px;'>અન્નવાહક પેશી</th></tr><tr><td style='padding:5px;'>પાણી અને ખનીજ ક્ષારોનું વહન કરે છે.</td><td style='padding:5px;'>તૈયાર ખોરાક (સુક્રોઝ) નું વહન કરે છે.</td></tr><tr><td style='padding:5px;'>વહન ફક્ત ઉપરની તરફ (એકમાર્ગી) થાય છે.</td><td style='padding:5px;'>વહન ઉપર અને નીચે બંને તરફ (દ્વિમાર્ગી) થાય છે.</td></tr></table><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: જલ = જળ (Water), અન્ન = ખોરાક (Food)</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "બાષ્પોત્સર્જન (Transpiration) એટલે શું? તેનું મહત્વ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વ્યાખ્યા:</strong> વનસ્પતિના હવાઈ ભાગો (પર્ણરંધ્રો) દ્વારા પાણી વરાળ સ્વરૂપે ગુમાવવાની ક્રિયાને બાષ્પોત્સર્જન કહે છે.</p><p><strong>મહત્વ:</strong></p><ul><li>તે પાણી અને ખનીજ ક્ષારોના ઉર્ધ્વવહન (ચઢાણ) માટે શોષક બળ પૂરું પાડે છે.</li><li>તે વનસ્પતિના તાપમાનનું નિયમન કરવામાં મદદ કરે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: બાષ્પોત્સર્જન = કુદરતી એસી (AC) + સ્ટ્રો (Straw) ઇફેક્ટ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "વનસ્પતિઓ ઉત્સર્ગ દ્રવ્યોનો નિકાલ કેવી રીતે કરે છે? (કોઈપણ બે રીત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>પર્ણ પતન:</strong> કેટલાક ઉત્સર્ગ દ્રવ્યો પર્ણોમાં સંગ્રહાય છે, જે પર્ણ ખરી પડવાથી દૂર થાય છે.</li><li><strong>રેઝિન અને ગુંદર:</strong> જૂની જલવાહક પેશીમાં ઉત્સર્ગ દ્રવ્યો રેઝિન અને ગુંદર સ્વરૂપે સંગ્રહાય છે.</li><li><strong>બાષ્પોત્સર્જન:</strong> વધારાનું પાણી પર્ણરંધ્રો દ્વારા બહાર કાઢે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: પાંદડા પાડો + ગુંદર કાઢો = વનસ્પતિની સફાઈ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "લસિકા (Lymph) એટલે શું? તેનું કાર્ય લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વ્યાખ્યા:</strong> રુધિરકેશિકાઓની દીવાલના છિદ્રો દ્વારા પ્રસરતું આંતરકોષીય પ્રવાહી લસિકા છે. તે રુધિરરસ જેવું જ પણ રંગહીન અને અલ્પ પ્રોટીન ધરાવતું પ્રવાહી છે.</p><p><strong>કાર્ય:</strong></p><ul><li>તે પાચિત ચરબીનું વહન કરે છે.</li><li>તે વધારાના પ્રવાહીને આંતરકોષીય અવકાશમાંથી પાછું રુધિરમાં મોકલે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: લસિકા = સફેદ રુધિર (ચરબીનું ટેક્સી!)</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "સ્થળચર પ્રાણીઓ કરતા જળચર પ્રાણીઓમાં શ્વાસ દર શા માટે વધારે હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જળચર પ્રાણીઓ પાણીમાં ઓગળેલા ઓક્સિજનનો ઉપયોગ કરે છે.</li><li>પાણીમાં ઓગળેલા ઓક્સિજનનું પ્રમાણ હવામાં રહેલા ઓક્સિજનના પ્રમાણ કરતા ઘણું ઓછું હોય છે.</li><li>તેથી, પૂરતો ઓક્સિજન મેળવવા માટે જળચર પ્રાણીઓએ ઝડપથી શ્વાસ લેવો પડે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: ઓછો ઓક્સિજન = સ્પીડમાં શ્વાસ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "સ્વયંપોષી અને વિષમપોષી પોષણ વચ્ચેનો તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><table border='1' style='width:100%; border-collapse:collapse; background:white;'><tr><th style='padding:5px;'>સ્વયંપોષી પોષણ</th><th style='padding:5px;'>વિષમપોષી પોષણ</th></tr><tr><td style='padding:5px;'>સજીવો પોતાનો ખોરાક જાતે બનાવે છે.</td><td style='padding:5px;'>સજીવો ખોરાક માટે અન્ય પર આધાર રાખે છે.</td></tr><tr><td style='padding:5px;'>ઉદાહરણ: લીલી વનસ્પતિ.</td><td style='padding:5px;'>ઉદાહરણ: પ્રાણીઓ, ફૂગ.</td></tr></table><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: સ્વયં = જાતે (Self) | વિષમ = બીજા પર (Others)</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "પિત્તરસ (Bile Juice) ના બે કાર્યો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>કાર્યો:</strong></p><ul><li><strong>માધ્યમ બદલવું:</strong> જઠરમાંથી આવતા એસિડિક ખોરાકને આલ્કલાઇન (બેઝિક) બનાવે છે, જેથી સ્વાદુરસના ઉત્સેચકો કામ કરી શકે.</li><li><strong>તૈલોદકીકરણ:</strong> તે ચરબીના મોટા ગોલકોનું નાના ગોલકોમાં રૂપાંતર કરે છે (Emulsification), જેથી લિપેઝ ઉત્સેચક સરળતાથી પ્રક્રિયા કરી શકે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: પિત્ત = ચરબીનું વિઘટન + એસિડનું બેઝમાં રૂપાંતર!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT IMP</p></div>"
+    }
+  ]
+}
