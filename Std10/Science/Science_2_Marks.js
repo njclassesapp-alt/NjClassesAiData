@@ -580,3 +580,100 @@ var Std10_Science_2Marks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "સજીવો કેવી રીતે પ્રજનન કરે છે?",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "DNA પ્રતિકૃતિનું પ્રજનનમાં શું મહત્વ છે? (March 2020, 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>પ્રજનનની મૂળભૂત ઘટના DNA પ્રતિકૃતિ બનાવવાની છે.</li><li>DNA પ્રતિકૃતિ દ્વારા પિતૃ પેઢીના લક્ષણો સંતતિમાં ઉતરી આવે છે.</li><li>DNA ની પ્રતિકૃતિ બનતી વખતે કેટલીક ભિન્નતાઓ ઉદભવે છે, જે ઉદવિકાસનો આધાર બને છે.</li><li>તે કોષીય સંરચના જાળવી રાખવા માટે જરૂરી પ્રોટીનના સંશ્લેષણ માટેની માહિતી પૂરી પાડે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: DNA = Blueprint (નકશો). જો નકશો સાચો તો જ સંતતિ પિતૃ જેવી બને!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "ગર્ભનિરોધકની વિવિધ પદ્ધતિઓ જણાવો. (July 2022, March 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ગર્ભનિરોધકની મુખ્ય પદ્ધતિઓ નીચે મુજબ છે:</p><ul><li><strong>યાંત્રિક અવરોધ:</strong> નિરોધ (Condom) અથવા ગ્રીવા ટોપીનો ઉપયોગ.</li><li><strong>રાસાયણિક અવરોધ:</strong> ગર્ભનિરોધક ગોળીઓ (Oral pills) નો ઉપયોગ.</li><li><strong>આંતર ગર્ભાશય ઉપકરણ (IUCD):</strong> કોપર-ટી (Copper-T) ગર્ભાશયમાં સ્થાપિત કરવી.</li><li><strong>શસ્ત્રક્રિયા:</strong> પુરુષમાં વાસેક્ટોમી અને સ્ત્રીમાં ટ્યુબેક્ટોમી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખવાની રીત: 'યાંત્રિક, રાસાયણિક, સાધન અને સર્જરી' - આ 4 મુખ્ય પ્રકાર છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "ભાજન એટલે શું? અમીબામાં દ્વિભાજન આકૃતિ સહ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>એકકોષી સજીવોમાં કોષ વિભાજન દ્વારા નવા સજીવની ઉત્પત્તિ થાય તેને ભાજન કહે છે.</p><ul><li>અમીબા ગમે તે તલમાંથી વિભાજન પામે છે.</li><li>પ્રથમ કોષકેન્દ્ર લંબાય છે અને બે ભાગમાં વહેંચાય છે. ત્યારબાદ કોષરસનું વિભાજન થાય છે.</li></ul><svg width='200' height='60' viewBox='0 0 200 60'><circle cx='20' cy='30' r='15' fill='#add8e6' stroke='black'/><text x='10' y='55' font-size='8'>અમીબા</text><path d='M45 30 L65 30' stroke='black' marker-end='url(#arrow)'/><circle cx='90' cy='30' r='18' fill='#add8e6' stroke='black' stroke-dasharray='4'/><text x='75' y='55' font-size='8'>વિભાજન</text><path d='M115 30 L135 30' stroke='black'/><circle cx='155' cy='20' r='10' fill='#add8e6' stroke='black'/><circle cx='155' cy='45' r='10' fill='#add8e6' stroke='black'/><text x='170' y='35' font-size='8'>બાળકોષો</text></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: અમીબા = અનિયમિત આકાર + બે ભાગ (દ્વિભાજન).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "લેશમેનિયામાં દ્વિભાજન કઈ રીતે અમીબાથી અલગ પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>અમીબામાં કોષ વિભાજન ગમે તે સમતલમાં (કોઈપણ ધરી પર) થઈ શકે છે.</li><li>જ્યારે લેશમેનિયામાં કોષના એક છેડે ચાબુક જેવી સૂક્ષ્મ સંરચના (કશા) હોય છે.</li><li>તેથી, લેશમેનિયામાં દ્વિભાજન આ સંરચનાને અનુલક્ષીને એક ચોક્કસ આયામ સમતલમાં (નિશ્ચિત ધરી પર) થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: અમીબા = ગમે ત્યાંથી, લેશમેનિયા = લાઈન (ચોક્કસ ધરી) માંથી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "અવખંડન અને પુનર્જનન વચ્ચેનો ભેદ સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><table><tr><th>અવખંડન (Fragmentation)</th><th>પુનર્જનન (Regeneration)</th></tr><tr><td>સરળ સંરચના વાળા સજીવો (દા.ત. સ્પાયરોગાયરા) માં થાય છે.</td><td>જટિલ સજીવો (દા.ત. પ્લેનેરિયા) માં અકસ્માતે થાય છે.</td></tr><tr><td>સજીવ કુદરતી રીતે પુખ્ત થઈ નાના ટુકડામાં વહેંચાય છે.</td><td>સજીવના શરીરના ટુકડા થતા દરેક ટુકડો નવા સજીવમાં વિકાસ પામે છે.</td></tr></table><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: અવખંડન એ પ્રજનન છે, પુનર્જનન એ પ્રજનનનો પર્યાય નથી પણ ક્ષમતા છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "વાનસ્પતિક પ્રજનનના બે ફાયદા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જે વનસ્પતિઓ બીજ ઉત્પન્ન કરવાની ક્ષમતા ગુમાવી ચૂકી છે (દા.ત. કેળા, ગુલાબ, જાસ્મીન) તેમનું સંવર્ધન કરી શકાય છે.</li><li>વાનસ્પતિક પ્રજનન દ્વારા ઉગાડવામાં આવેલી વનસ્પતિઓમાં બીજ દ્વારા ઉગાડેલી વનસ્પતિઓ કરતા વહેલા ફૂલ અને ફળ આવે છે.</li><li>બધી વનસ્પતિઓ જનીનિક રીતે પિતૃ છોડને સમાન હોય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: બીજ વગરની ખેતી = વાનસ્પતિક પ્રજનન.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "પ્લેસેન્ટા (જરાયુ) ની રચના અને કાર્ય સમજાવો. (March 2019, July 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>રચના:</strong> તે ગર્ભાશયની દીવાલમાં રહેલી રકાબી જેવી વિશિષ્ટ પેશી છે, જેમાં ગર્ભની તરફની પેશીમાં રસાંકુરો હોય છે.</li><li><strong>કાર્ય:</strong> તે માતાના રુધિરમાંથી ગ્લુકોઝ અને ઓક્સિજન ગર્ભને આપે છે અને ગર્ભ દ્વારા ઉત્પન્ન થયેલા ઉત્સર્ગ દ્રવ્યોનો નિકાલ માતાના રુધિરમાં કરે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: જરાયુ = ટ્રાન્સફર મશીન (ખોરાક અંદર, કચરો બહાર).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "સ્વ-પરાગનયન અને પર-પરાગનયન વચ્ચેનો તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>સ્વ-પરાગનયન:</strong> જ્યારે પરાગરજ તે જ પુષ્પના પરાગાસન પર સ્થાનાંતરિત થાય.</li><li><strong>પર-પરાગનયન:</strong> જ્યારે એક પુષ્પની પરાગરજ તે જ જાતિના બીજા છોડના પુષ્પના પરાગાસન પર સ્થાનાંતરિત થાય.</li><li>પર-પરાગનયન માટે પવન, પાણી કે પ્રાણીઓ જેવા વાહકોની જરૂર પડે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: સ્વ = પોતે, પર = બીજાનું ઘર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "શુક્રપિંડનું સ્થાન જણાવી તેના કાર્યો લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>સ્થાન:</strong> ઉદર ગુહાની બહાર વૃષણકોથળીમાં આવેલા હોય છે.</li><li><strong>કાર્ય 1:</strong> નર જનનકોષો એટલે કે શુક્રકોષોનું ઉત્પાદન કરવું.</li><li><strong>કાર્ય 2:</strong> ટેસ્ટોસ્ટેરોન અંતઃસ્ત્રાવનો સ્ત્રાવ કરવો, જે નરમાં ગૌણ જાતીય લક્ષણોનું નિયંત્રણ કરે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: ટેસ્ટોસ્ટેરોન એટલે 'નર' પણાનો હોર્મોન.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "ઋતુસ્ત્રાવ (માસિક ચક્ર) શા માટે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જ્યારે અંડકોષનું ફલન થતું નથી, ત્યારે ગર્ભાશયની અંતઃદીવાલ (એન્ડોમેટ્રિયમ) ની જરૂર રહેતી નથી.</li><li>આથી, આ દીવાલ ધીમે ધીમે તૂટે છે અને રુધિર તેમજ શ્લેષ્મ સ્વરૂપે યોનિમાર્ગ દ્વારા બહાર નીકળે છે.</li><li>આ પ્રક્રિયા દર મહિને થાય છે, જેને ઋતુસ્ત્રાવ કહે છે. તે લગભગ 2 થી 8 દિવસ સુધી ચાલે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: ફલન નથી તો ગર્ભાશયની તૈયારી (દીવાલ) નકામી છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "યૌવનારંભ (Puberty) દરમિયાન છોકરાઓમાં કયા ફેરફારો જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ચહેરા પર દાઢી-મૂછનો વિકાસ શરૂ થાય છે.</li><li>અવાજ ઘેરો અને કર્કશ બને છે.</li><li>કાંખમાં અને જનન અંગોની આસપાસ વાળ ઉગે છે.</li><li>શુક્રપિંડ શુક્રકોષોનું ઉત્પાદન શરૂ કરે છે અને શિશ્ન ક્યારેક મોટું અને ટટ્ટાર બને છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: અવાજ ભારે + દાઢી મૂછ = મેલ પ્યુબર્ટી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "જાતીય સંક્રમિત રોગો (STDs) એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જાતીય સમાગમ દ્વારા ફેલાતા રોગોને જાતીય સંક્રમિત રોગો (STDs) કહે છે.</p><ul><li><strong>બેક્ટેરિયા જન્ય:</strong> સિફિલિસ અને ગોનોરિયા.</li><li><strong>વાયરસ જન્ય:</strong> મસા (Warts) અને HIV-AIDS.</li><li>નિરોધના ઉપયોગથી આ રોગોનું સંક્રમણ અટકાવી શકાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: બેક્ટેરિયા (S-G), વાયરસ (W-A).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "પુનર્જનન એટલે શું? ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જો કોઈ સજીવ અકસ્માતે કેટલાક ટુકડાઓમાં કપાઈ જાય, તો દરેક ટુકડો વિકાસ પામી નવા સજીવમાં ફેરવાય તેને પુનર્જનન કહે છે.</li><li>આ માટે સજીવમાં વિશિષ્ટ કોષો આવેલા હોય છે.</li><li><strong>ઉદાહરણ:</strong> હાઇડ્રા અને પ્લેનેરિયા.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: એક પ્લેનેરિયાના 3 ટુકડા કરો તો 3 નવા પ્લેનેરિયા બને!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "પ્રોસ્ટેટ ગ્રંથિ અને શુક્રાશયની ભૂમિકા શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આ ગ્રંથિઓ પોતાનો સ્ત્રાવ શુક્રવાહિનીમાં ઠાલવે છે.</li><li>આ સ્ત્રાવ શુક્રકોષોને પ્રવાહી માધ્યમ પૂરું પાડે છે, જેથી તેમનું સ્થળાંતર સરળ બને છે.</li><li>આ પ્રવાહી શુક્રકોષોને પોષણ પણ પૂરું પાડે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: ગ્રંથિનો સ્ત્રાવ = વહન માટે રસ્તો (પ્રવાહી) + ખોરાક (પોષણ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "સપુષ્પી વનસ્પતિમાં ફલન બાદ બીજાશય અને અંડકનું શામાં રૂપાંતર થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ફલન પછી યુગ્મનજ વિભાજન પામી ભ્રૂણ બનાવે છે.</li><li><strong>અંડક (Ovule):</strong> તે સખત આવરણ ધારણ કરે છે અને 'બીજ' માં ફેરવાય છે.</li><li><strong>બીજાશય (Ovary):</strong> તે ઝડપથી વૃદ્ધિ પામે છે અને પરિપક્વ થઈ 'ફળ' માં ફેરવાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: અંડક -> બીજ, બીજાશય -> ફળ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    }
+  ]
+}
