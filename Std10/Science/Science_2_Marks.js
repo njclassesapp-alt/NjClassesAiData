@@ -483,3 +483,100 @@ var Std10_Science_2Marks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "નિયંત્રણ અને સંકલન",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "પરાવર્તી ક્રિયા અને ચાલવાની ક્રિયા વચ્ચે શું તફાવત છે? (Board March - 2020)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>પરાવર્તી ક્રિયા:</strong> તે અનૈચ્છિક ક્રિયા છે, જે કરોડરજ્જુ દ્વારા નિયંત્રિત થાય છે. તે ખૂબ જ ઝડપી અને સ્વયંભૂ પ્રતિભાવ છે. દા.ત. ગરમ વસ્તુને અડતા હાથ પાછો ખેંચવો.</li><li><strong>ચાલવાની ક્રિયા:</strong> તે ઐચ્છિક ક્રિયા છે, જે મગજ (પશ્ચ મગજ - સેરેબેલમ) દ્વારા નિયંત્રિત થાય છે. તે આપણી ઈચ્છાશક્તિ પર આધારિત છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરાવર્તી = ઓટોમેટિક (ઝડપી), ચાલવું = મનગમતું (વિચારીને).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board 2020 / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "ચેતોપાગમ (Synapse) એટલે શું? બે ચેતાકોષોની વચ્ચે ચેતોપાગમમાં કઈ ઘટના બને છે? (Board July - 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પાસપાસેના બે ચેતાકોષોની વચ્ચે રહેલા સૂક્ષ્મ ખાલી અવકાશને <strong>ચેતોપાગમ</strong> કહે છે.</p><p><strong>ઘટના:</strong> જ્યારે ઉર્મિવેગ ચેતાંત સુધી પહોંચે છે, ત્યારે તે કેટલાક રસાયણો મુક્ત કરે છે. આ રસાયણો ચેતોપાગમ પસાર કરીને પછીના ચેતાકોષના શિખાતંતુમાં ફરીથી ઉર્મિવેગ ઉત્પન્ન કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચેતોપાગમ = બે ચેતાકોષો વચ્ચેનો ગેપ (Bridge).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board 2022 / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "પ્રકાશાવર્તન (Phototropism) એટલે શું? ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વનસ્પતિના અંગોના પ્રતિભાવ રૂપે પ્રકાશની દિશામાં થતા હલનચલનને <strong>પ્રકાશાવર્તન</strong> કહે છે.</p><ul><li>વનસ્પતિનો પ્રરોહાગ્ર (કાંડ) પ્રકાશની દિશામાં વળે છે, જે ધન પ્રકાશાવર્તન દર્શાવે છે.</li><li>વનસ્પતિના મૂળ પ્રકાશની વિરુદ્ધ દિશામાં જાય છે, જે ઋણ પ્રકાશાવર્તન દર્શાવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકાશાવર્તન = પ્રકાશ તરફ આકર્ષણ (કાંડ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "આપણા શરીરમાં ગ્રાહી એકમો (Receptors) નું કાર્ય શું છે? રસાંનગ્રાહી અને ધ્રાણગ્રાહી એકમોના કાર્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ગ્રાહી એકમો બાહ્ય પર્યાવરણમાંથી આવતી ઉત્તેજનાઓને ઓળખવાનું કાર્ય કરે છે.</p><ul><li><strong>રસાંનગ્રાહી એકમો:</strong> તે જીભ પર આવેલા હોય છે અને સ્વાદની ઓળખ કરે છે.</li><li><strong>ધ્રાણગ્રાહી એકમો:</strong> તે નાકમાં આવેલા હોય છે અને ગંધ/વાસની ઓળખ કરે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસાંન = રસ (સ્વાદ), ધ્રાણ = સૂંઘવું (ગંધ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "પરાવર્તી કમાન (Reflex Arc) નો પથ રેખાકૃતિ દ્વારા દર્શાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પરાવર્તી કમાનનો પથ નીચે મુજબ છે:</p><p style='text-align:center;'><strong>ગ્રાહી અંગ (ત્વચા) &rarr; સંવેદી ચેતાકોષ &rarr; કરોડરજ્જુ &rarr; પ્રેરક (ચાલક) ચેતાકોષ &rarr; પ્રતિભાવક અંગ (સ્નાયુ)</strong></p><svg width='100%' height='60' xmlns='http://www.w3.org/2000/svg'><rect x='10' y='10' width='80' height='30' fill='#e74c3c' rx='5'/><text x='15' y='30' fill='white' font-size='12'>ઉત્તેજના</text><line x1='90' y1='25' x2='130' y2='25' stroke='black' marker-end='url(#arrow)'/><rect x='130' y='10' width='80' height='30' fill='#3498db' rx='5'/><text x='135' y='30' fill='white' font-size='12'>કરોડરજ્જુ</text><line x1='210' y1='25' x2='250' y2='25' stroke='black' marker-end='url(#arrow)'/><rect x='250' y='10' width='80' height='30' fill='#2ecc71' rx='5'/><text x='255' y='30' fill='white' font-size='12'>પ્રતિભાવ</text><defs><marker id='arrow' markerWidth='10' markerHeight='10' refX='0' refY='3' orient='auto' markerUnits='strokeWidth'><path d='M0,0 L0,6 L9,3 z' fill='#000' /></marker></defs></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પથમાં મગજ પાસે સંદેશો મોડા પહોંચે છે, પહેલા પ્રતિભાવ અપાય છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "પશ્ચ મગજના ભાગ તરીકે 'નાના મગજ' (Cerebellum) ના કાર્યો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>તે ઐચ્છિક ક્રિયાઓની ચોકસાઈ માટે જવાબદાર છે.</li><li>તે શરીરની સ્થિતિ (Posture) અને સંતુલન જાળવી રાખવાનું કાર્ય કરે છે.</li><li>દા.ત. સીધી રેખામાં ચાલવું, સાયકલ ચલાવવી કે પેન્સિલ પકડવી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનું મગજ = બેલેન્સ માસ્ટર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "વનસ્પતિમાં વૃદ્ધિ અવરોધક અંતઃસ્ત્રાવ તરીકે 'એબ્સીસિક એસિડ' (Abscisic Acid) ની અસરો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>એબ્સીસિક એસિડ વનસ્પતિની વૃદ્ધિને અવરોધવાનું કાર્ય કરે છે.</li><li>તેના કારણે વનસ્પતિના પાંદડાઓ કરમાઈ જાય છે (Wilting of leaves).</li><li>તે કોષ વિભાજનને પણ અવરોધે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એબ્સીસિક = 'સ્ટોપ' સિગ્નલ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "લંબમજ્જા (Medulla) દ્વારા કઈ અનૈચ્છિક ક્રિયાઓનું નિયંત્રણ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>લંબમજ્જા પશ્ચ મગજનો ભાગ છે, જે નીચેની મહત્વની અનૈચ્છિક ક્રિયાઓનું નિયંત્રણ કરે છે:</p><ul><li>બ્લડ પ્રેશર (રુધિરનું દબાણ)</li><li>લાળ રસનું ઝરવું</li><li>ઉલટી થવી</li><li>હૃદયના ધબકારા</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબમજ્જા = બોડીની ઓટોમેટિક સિસ્ટમ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "થાઈરોઈડ ગ્રંથિ માટે આયોડિનયુક્ત મીઠું લેવાની સલાહ કેમ આપવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>થાઈરોઈડ ગ્રંથિને 'થાઈરોક્સિન' અંતઃસ્ત્રાવ બનાવવા માટે આયોડિનની જરૂર હોય છે.</li><li>થાઈરોક્સિન કાર્બોદિત, પ્રોટીન અને ચરબીના ચયાપચયનું નિયંત્રણ કરે છે.</li><li>જો ખોરાકમાં આયોડિનની ઉણપ હોય તો 'ગોઈટર' રોગ થાય છે, જેમાં ગરદન ફૂલી જાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આયોડિન = થાઈરોઈડનું ઈંધણ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Important / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "પ્રાણીઓમાં એડ્રીનાલીન (Adrenaline) અંતઃસ્ત્રાવ કેવી રીતે કાર્ય કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>લડવાની કે ભાગવાની સ્થિતિમાં એડ્રીનાલીન સીધો રુધિરમાં ભળે છે.</li><li>તેનાથી હૃદયના ધબકારા વધે છે, જેથી સ્નાયુઓને વધુ ઓક્સિજન મળે છે.</li><li>પાચનતંત્ર અને ત્વચામાં રુધિરનો પ્રવાહ ઘટે છે અને રુધિર મુખ્ય સ્નાયુઓ તરફ વળે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એડ્રીનાલીન = કટોકટીનો અંતઃસ્ત્રાવ (Emergency Hormone).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "મધુપ્રમેહ (Diabetes) ના દર્દીઓને ઇન્સ્યુલિનના ઇન્જેક્શન કેમ આપવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ઇન્સ્યુલિન એ સ્વાદુપિંડ દ્વારા ઉત્પન્ન થતો અંતઃસ્ત્રાવ છે જે રુધિરમાં શર્કરા (ગ્લુકોઝ) ના સ્તરનું નિયંત્રણ કરે છે.</li><li>ડાયાબિટીસના દર્દીમાં ઇન્સ્યુલિન પૂરતા પ્રમાણમાં બનતું નથી.</li><li>આથી રુધિરમાં શર્કરાનું પ્રમાણ વધી જાય છે, જેને ઘટાડવા માટે બહારથી ઇન્સ્યુલિન આપવું પડે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇન્સ્યુલિન = શર્કરાનો કંટ્રોલર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "ભૂઆવર્તન (Geotropism) એટલે શું? આકૃતિ દોર્યા વગર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પૃથ્વીના ગુરુત્વાકર્ષણ બળના પ્રતિભાવ રૂપે વનસ્પતિના અંગોમાં થતા હલનચલનને <strong>ભૂઆવર્તન</strong> કહે છે.</p><ul><li>વનસ્પતિના મૂળ હંમેશા જમીન તરફ નીચે જાય છે, જેને <strong>ધન ભૂઆવર્તન</strong> કહે છે.</li><li>પ્રરોહ (કાંડ) જમીનથી વિરુદ્ધ ઉપર તરફ જાય છે, જેને <strong>ઋણ ભૂઆવર્તન</strong> કહે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂ = ભૂમિ/ગુરુત્વાકર્ષણ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "ચેતાતંત્ર દ્વારા થતા નિયંત્રણની મર્યાદાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ચેતા ઉર્મિવેગ માત્ર તે જ કોષો સુધી પહોંચે છે જે ચેતાતંત્ર સાથે જોડાયેલા હોય.</li><li>એકવાર ઉર્મિવેગ ઉત્પન્ન થયા પછી, બીજો ઉર્મિવેગ ઉત્પન્ન કરવા માટે કોષને પુનઃ ગોઠવણી માટે સમય લાગે છે (સતત સંદેશા મોકલી શકાતા નથી).</li><li>તે વનસ્પતિમાં જોવા મળતું નથી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચેતાતંત્ર = વાયર્ડ કનેક્શન (લિમિટેડ રીચ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "જલાવર્તન (Hydrotropism) એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પાણીના ઉત્તેજક પ્રતિભાવ રૂપે વનસ્પતિના અંગો (ખાસ કરીને મૂળ) માં થતા હલનચલનને <strong>જલાવર્તન</strong> કહે છે.</p><p><strong>ઉદાહરણ:</strong> વનસ્પતિના મૂળ હંમેશા જમીનમાં જે દિશામાં ભેજ અથવા પાણી હોય તે દિશામાં વૃદ્ધિ પામે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જલ = પાણી તરફ વૃદ્ધિ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concepts</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "પુનઃનિવેશ પદ્ધતિ (Feedback Mechanism) એટલે શું? ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>શરીરમાં અંતઃસ્ત્રાવોના મુક્ત થવાના સમય અને માત્રાનું નિયંત્રણ કરતી પદ્ધતિને <strong>પુનઃનિવેશ પદ્ધતિ</strong> કહે છે.</p><p><strong>ઉદાહરણ:</strong> જ્યારે રુધિરમાં શર્કરાનું સ્તર વધે છે, ત્યારે સ્વાદુપિંડના કોષો તેની જાણકારી મેળવી વધુ ઇન્સ્યુલિનનો સ્ત્રાવ કરે છે. જ્યારે શર્કરા ઘટે છે, ત્યારે ઇન્સ્યુલિનનો સ્ત્રાવ ઓછો થઈ જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફીડબેક = જરૂર મુજબ ઉત્પાદન (Auto-cut system).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    }
+  ]
+}
