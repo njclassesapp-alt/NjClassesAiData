@@ -677,3 +677,100 @@ var Std10_Science_2Marks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "આનુવંશિકતા",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "માનવમાં લિંગ નિશ્ચયન માટે કયા રંગસૂત્રો જવાબદાર છે? સ્ત્રી અને પુરુષમાં કયા લિંગી રંગસૂત્રો હોય છે? (Board March-2020, 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>માનવમાં લિંગ નિશ્ચયન માટે <strong>23મી જોડના લિંગી રંગસૂત્રો</strong> જવાબદાર છે.</li><li><strong>સ્ત્રીમાં:</strong> બંને લિંગી રંગસૂત્રો એકસમાન એટલે કે <strong>XX</strong> હોય છે.</li><li><strong>પુરુષમાં:</strong> લિંગી રંગસૂત્રો અસમાન એટલે કે <strong>XY</strong> હોય છે, જેમાં 'Y' રંગસૂત્ર કદમાં નાનું હોય છે.</li></ul><svg width='200' height='100' viewBox='0 0 200 100'><text x='10' y='30' fill='black' font-size='14'>સ્ત્રી: XX</text><text x='110' y='30' fill='black' font-size='14'>પુરુષ: XY</text><line x1='30' y1='40' x2='30' y2='70' stroke='pink' stroke-width='3'/><line x1='130' y1='40' x2='130' y2='70' stroke='blue' stroke-width='3'/></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ત્રી = સમાન (XX), પુરુષ = પંચરંગી/અલગ (XY).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board PYQ</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "બાળકનું લિંગ નિશ્ચયન પિતા પર આધારિત છે, માતા પર નહીં. વૈજ્ઞાનિક કારણ આપો. (Board July-2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>માતા પાસે માત્ર <strong>X</strong> રંગસૂત્રો જ હોય છે, તેથી તે હંમેશા બાળકને X રંગસૂત્ર જ આપે છે.</li><li>પિતા પાસે <strong>X અને Y</strong> એમ બે પ્રકારના શુક્રકોષો હોય છે.</li><li>જો પિતા તરફથી <strong>X</strong> રંગસૂત્ર મળે તો છોકરી (XX) જન્મે છે અને જો પિતા તરફથી <strong>Y</strong> રંગસૂત્ર મળે તો છોકરો (XY) જન્મે છે.</li><li>આમ, લિંગ નિશ્ચયનનો આધાર પિતાના શુક્રકોષ પર રહેલો છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: 'Y' જ નક્કી કરે 'Boy'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Most IMP for 2025</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "આનુવંશિકતા અને ભિન્નતા એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>આનુવંશિકતા:</strong> પિતૃઓના લક્ષણો સંતતિમાં ઉતરી આવવાની ઘટનાને આનુવંશિકતા કહે છે.</li><li><strong>ભિન્નતા:</strong> એક જ જાતિના સજીવો વચ્ચે જોવા મળતા શારીરિક કે જૈવિક તફાવતોને ભિન્નતા કહેવામાં આવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: આનુવંશિકતા = વારસો, ભિન્નતા = બદલાવ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "મેન્ડલે પ્રયોગ માટે વટાણાના છોડની પસંદગી કેમ કરી? કોઈ પણ બે કારણો આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ol><li>વટાણાના છોડમાં <strong>સ્પષ્ટ વિરોધાભાસી લક્ષણો</strong> (જેમ કે ઊંચા-નીચા, ગોળ-ખરબચડા બીજ) સરળતાથી જોઈ શકાય છે.</li><li>તેનું જીવનચક્ર ટૂંકું હોય છે, જેથી ટૂંકા સમયમાં અનેક પેઢીઓનો અભ્યાસ કરી શકાય છે.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખવાની રીત: વટાણા = વૈવિધ્ય + વેગ (ઝડપી વૃદ્ધિ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Page 143</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "પ્રભાવી લક્ષણો અને પ્રચ્છન્ન લક્ષણો વચ્ચેનો તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><table><tr><th>પ્રભાવી લક્ષણ</th><th>પ્રચ્છન્ન લક્ષણ</th></tr><tr><td>જે લક્ષણ F1 પેઢીમાં પોતાની અભિવ્યક્તિ દર્શાવે છે.</td><td>જે લક્ષણ F1 પેઢીમાં હાજર હોવા છતાં દેખાતું નથી.</td></tr><tr><td>દા.ત. વટાણામાં ઊંચાપણું (T).</td><td>દા.ત. વટાણામાં નીચાપણું (t).</td></tr></table><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: પ્રભાવી = દાદાગીરી (જે દેખાય તે), પ્રચ્છન્ન = શાંત (જે છુપાયેલું રહે).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Notes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "જનીન એટલે શું? તેનું મહત્વ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>વ્યાખ્યા:</strong> DNA ના જે ખંડમાં પ્રોટીન સંશ્લેષણ માટેની માહિતી હોય છે, તેને તે પ્રોટીન માટેનું જનીન કહે છે.</li><li><strong>મહત્વ:</strong> જનીનો આનુવંશિકતાના એકમો છે. તે સજીવના ચોક્કસ લક્ષણો (જેમ કે ઊંચાઈ, આંખનો રંગ) નું નિયંત્રણ કરે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: જનીન = લક્ષણોનું સોફ્ટવેર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "ભિન્નતાનું મહત્વ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ભિન્નતા સજીવોને બદલાતા પર્યાવરણમાં <strong>ટકી રહેવા માટે (Survival)</strong> મદદરૂપ થાય છે.</li><li>લાંબા ગાળે ભિન્નતાઓ એકઠી થવાથી નવી જાતિઓના ઉદ્ભવ અને ઉદ્વિકાસ માટે આધાર પૂરો પાડે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: ભિન્નતા = અસ્તિત્વની ચાવી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exampler</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "મેન્ડલના એક સંકરણના પ્રયોગમાં F2 પેઢીનું પરિણામ (ગુણોત્તર) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>સ્વરૂપ પ્રકાર (Phenotype):</strong> 3 : 1 (3 ઊંચા છોડ : 1 નીચો છોડ).</li><li><strong>જનીન પ્રકાર (Genotype):</strong> 1 : 2 : 1 (1 TT : 2 Tt : 1 tt).</li><li>આના પરથી સાબિત થાય છે કે F1 માં નીચાપણાનું લક્ષણ હોવા છતાં તે વ્યક્ત થતું નથી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: દેખાવમાં 3:1, અંદરથી 1:2:1.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "લક્ષણો પ્રોટીનના નિયંત્રણ હેઠળ હોય છે - સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>DNA માં ચોક્કસ જનીન હોય છે જે ચોક્કસ પ્રોટીન (ઉત્સેચક) બનાવવાની માહિતી આપે છે.</li><li>આ ઉત્સેચક જે-તે લક્ષણ માટે જવાબદાર અંતઃસ્ત્રાવની કાર્યક્ષમતા વધારે છે.</li><li>જો જનીન ચોક્કસ પ્રોટીન બનાવી શકે, તો જ તે લક્ષણ (દા.ત. ઊંચાઈ) જોવા મળે છે.</li></ul><hr><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Simplified</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "DNA પ્રતિકૃતિનું પ્રજનનમાં શું મહત્વ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>DNA પ્રતિકૃતિ દ્વારા પિતૃ પેઢીના આનુવંશિક લક્ષણો સંતતિમાં વહન પામે છે.</li><li>પ્રતિકૃતિ બનવાની પ્રક્રિયા દરમિયાન થતી નાની ક્ષતિઓ <strong>ભિન્નતા</strong> પેદા કરે છે, જે ઉદ્વિકાસ માટે જરૂરી છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: DNA કોપી = વારસો + ભિન્નતા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Board IMP Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "માનવના દૈહિક રંગસૂત્રો અને લિંગી રંગસૂત્રો વચ્ચેનો તફાવત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>દૈહિક રંગસૂત્રો:</strong> માનવમાં 22 જોડ (44 નંગ) દૈહિક રંગસૂત્રો છે, જે શરીરના સામાન્ય લક્ષણો નક્કી કરે છે.</li><li><strong>લિંગી રંગસૂત્રો:</strong> માનવમાં 1 જોડ (2 નંગ) લિંગી રંગસૂત્રો છે, જે સજીવનું લિંગ (નર કે માદા) નક્કી કરે છે.</li></ul><hr><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "શું અલિંગી પ્રજનનમાં ભિન્નતા જોવા મળે છે? શા માટે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>હા, પણ ખૂબ જ <strong>ઓછી (નહિવત)</strong>.</li><li>કારણ કે તેમાં માત્ર એક જ પિતૃ ભાગ લે છે અને DNA પ્રતિકૃતિ બનાવવાની પ્રક્રિયામાં થતી અત્યંત નાની ભૂલોને કારણે જ ભિન્નતા સર્જાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 પોઈન્ટ: અલિંગી = ફોટોકોપી જેવું (લગભગ સરખું).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "જનીનવિદ્યા (Genetics) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જીવવિજ્ઞાનની જે શાખામાં <strong>આનુવંશિકતા અને ભિન્નતાનો</strong> અભ્યાસ કરવામાં આવે છે, તેને જનીનવિદ્યા કહે છે.</li><li>ગ્રેગર જોહાન મેન્ડલને 'જનીનવિદ્યાના પિતા' તરીકે ઓળખવામાં આવે છે.</li></ul><hr><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> General Knowledge Science</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "યુગ્મનજમાં રંગસૂત્રોની સંખ્યા કેવી રીતે જળવાઈ રહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જનનકોષોના નિર્માણ દરમિયાન <strong>અર્ધસૂત્રીભાજન</strong> દ્વારા રંગસૂત્રોની સંખ્યા અડધી (n) થઈ જાય છે.</li><li>જ્યારે નર જનનકોષ (n) અને માદા જનનકોષ (n) જોડાય છે, ત્યારે યુગ્મનજમાં ફરીથી પૂર્ણ સંખ્યા (2n) પુનઃસ્થાપિત થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ગણિત: n (પિતા) + n (માતા) = 2n (સંતતિ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Higher Order Thinking</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "રંગસૂત્ર શાના બનેલા હોય છે અને ક્યાં આવેલા હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>રંગસૂત્રો કોષના <strong>કોષકેન્દ્રમાં (Nucleus)</strong> આવેલા હોય છે.</li><li>તે મુખ્યત્વે <strong>DNA</strong> અને <strong>પ્રોટીનના</strong> બનેલા હોય છે.</li></ul><hr><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Basic Biology GSEB</p></div>"
+    }
+  ]
+}
