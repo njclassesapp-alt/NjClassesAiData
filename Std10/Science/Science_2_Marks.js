@@ -1144,3 +1144,100 @@ var Std10_Science_2Marks = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "આપણું પર્યાવરણ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "જૈવ-વિઘટનીય કચરો અને જૈવ-અવિઘટનીય કચરો વચ્ચેનો તફાવત આપો. (March 2020, 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><table border='1' style='width:100%; border-collapse: collapse; text-align: left;'><tr><th style='padding:8px; background-color:#16a085; color:white;'>જૈવ-વિઘટનીય કચરો</th><th style='padding:8px; background-color:#16a085; color:white;'>જૈવ-અવિઘટનીય કચરો</th></tr><tr><td style='padding:8px;'>જે કચરાનું સૂક્ષ્મજીવો દ્વારા કુદરતી રીતે વિઘટન થાય છે.</td><td style='padding:8px;'>જે કચરાનું સૂક્ષ્મજીવો દ્વારા વિઘટન કરી શકાતું નથી.</td></tr><tr><td style='padding:8px;'>દા.ત. શાકભાજીની છાલ, કાગળ, એઠવાડ.</td><td style='padding:8px;'>દા.ત. પ્લાસ્ટિક, કાચ, ધાતુના ટુકડા, DDT.</td></tr></table><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિઘટનીય એટલે 'કુદરતી' (જે સડી જાય), અવિઘટનીય એટલે 'માનવસર્જિત' (જે વર્ષો સુધી સડે નહીં).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board PYQ</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "નિવસનતંત્રમાં ઊર્જાનો પ્રવાહ હંમેશા એકમાર્ગી હોય છે. સમજાવો. (March 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>સૂર્યમાંથી આવતી ઊર્જા ઉત્પાદકો (લીલી વનસ્પતિ) ગ્રહણ કરે છે અને તેને ખોરાક સ્વરૂપે સંગ્રહિત કરે છે.</li><li>આ ઊર્જા જ્યારે ઉપભોગીઓ તરફ વહન પામે છે, ત્યારે તે પરત સૂર્ય તરફ જઈ શકતી નથી.</li><li>દરેક પોષક સ્તરે ઊર્જાનો વ્યય ઉષ્મા સ્વરૂપે થાય છે, તેથી તે પાછલા સ્તરે પરત ફરી શકતી નથી. આથી પ્રવાહ એકમાર્ગી છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: સૂર્ય → વનસ્પતિ → પ્રાણી (આ રસ્તો 'વન-વે' છે, રિટર્ન ટિકિટ નથી!)</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Paper</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "ઓઝોન સ્તર કેવી રીતે નિર્માણ પામે છે? તેના માટેના રાસાયણિક સમીકરણો લખો. (July 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વાતાવરણના ઉચ્ચ સ્તરે પારજાંબલી કિરણો (UV) ની અસરથી ઓક્સિજનના અણુઓમાંથી ઓઝોન બને છે:</p>1. $O_2 \\xrightarrow{UV} O + O$ (ઓક્સિજન અણુનું વિભાજન)<br>2. $O + O_2 \\rightarrow O_3$ (ઓઝોનનું નિર્માણ)<hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: $O_2$ + UV = $O + O$. પછી $O + O_2$ ભેગા થઈને $O_3$ (ઓઝોન) બનાવે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Exercise</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "જૈવિક વિશાલન (Biological Magnification) એટલે શું? (March 2019)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આહારશૃંખલામાં જ્યારે કોઈ અવિઘટનીય ઝેરી પદાર્થો (જેમ કે DDT) પ્રવેશે છે, ત્યારે તેનું પ્રમાણ દરેક પોષક સ્તરે વધતું જાય છે.</li><li>મનુષ્ય આહારશૃંખલામાં ટોચના સ્થાને હોવાથી, તેના શરીરમાં આ રસાયણોનું પ્રમાણ સૌથી વધુ જમા થાય છે. આ ઘટનાને જૈવિક વિશાલન કહે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખવાની ટ્રીક: નાનું ટીપું નીચે → મોટું ટીપું ઉપર (ઝેરનું પ્રમાણ વધવું = વિશાલન).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "નિવસનતંત્રમાં વિઘટકોની ભૂમિકા શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>વિઘટકો (જેમ કે બેક્ટેરિયા અને ફૂગ) મૃત જૈવિક અવશેષો અને ઉત્સર્ગ દ્રવ્યોનું સરળ અકાર્બનિક પદાર્થોમાં રૂપાંતર કરે છે.</li><li>આ પદાર્થો ફરીથી જમીનમાં ભળી જાય છે અને વનસ્પતિ દ્વારા પુનઃ ઉપયોગમાં લેવાય છે.</li><li>તેઓ પર્યાવરણને સ્વચ્છ રાખવામાં અને પોષક દ્રવ્યોના ચક્રને જાળવવામાં મદદ કરે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: વિઘટકો એટલે કુદરતના 'સફાઈ કામદારો'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "બગીચો એક નિવસનતંત્ર શા માટે ગણાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>બગીચામાં જૈવિક ઘટકો (જેમ કે ઘાસ, ફૂલો, દેડકા, કીટકો) અને અજૈવિક ઘટકો (જેમ કે હવા, પાણી, જમીન, પ્રકાશ) એકબીજા સાથે આંતરક્રિયા કરે છે.</li><li>અહીં સજીવોની વૃદ્ધિ, પ્રજનન અને અન્ય ક્રિયાઓ અજૈવિક ઘટકો દ્વારા અસર પામે છે.</li><li>આથી, બગીચો એ માનવસર્જિત અથવા કૃત્રિમ નિવસનતંત્ર છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: સજીવ + નિર્જીવ + આંતરક્રિયા = નિવસનતંત્ર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT In-text Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "આહાર જાળ (Food Web) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>કુદરતમાં સજીવો માત્ર એક જ સીધી આહારશૃંખલાથી જોડાયેલા હોતા નથી.</li><li>એક પ્રાણી અનેક પ્રકારના અન્ય સજીવોનો આહાર તરીકે ઉપયોગ કરે છે.</li><li>આમ, ઘણી બધી આહારશૃંખલાઓ એકબીજા સાથે જોડાઈને જે જાળી જેવી રચના બનાવે છે, તેને 'આહાર જાળ' કહે છે.</li></ul><svg width='100' height='60' viewBox='0 0 100 60'><circle cx='20' cy='30' r='5' fill='#2ecc71'/><circle cx='50' cy='15' r='5' fill='#e67e22'/><circle cx='50' cy='45' r='5' fill='#3498db'/><circle cx='80' cy='30' r='5' fill='#e74c3c'/><line x1='25' y1='30' x2='45' y2='15' stroke='black' stroke-width='1'/><line x1='25' y1='30' x2='45' y2='45' stroke='black' stroke-width='1'/><line x1='55' y1='15' x2='75' y2='30' stroke='black' stroke-width='1'/><line x1='55' y1='45' x2='75' y2='30' stroke='black' stroke-width='1'/></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: આહાર શૃંખલા = સીધી લાઈન, આહાર જાળ = કરોળિયાનું જાળું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "ઓઝોન સ્તરના ઘટાડા માટે કયા પરિબળો જવાબદાર છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>મુખ્ય જવાબદાર પરિબળ ક્લોરોફ્લુરોકાર્બન્સ (CFCs) છે.</li><li>CFCs નો ઉપયોગ રેફ્રિજરેટર, એરકંડિશનર અને અગ્નિશામક યંત્રોમાં થાય છે.</li><li>વાતાવરણમાં મુક્ત થયેલ ક્લોરીન અણુ ઓઝોનના હજારો અણુઓનું વિખંડન કરે છે, જેનાથી ઓઝોન સ્તરમાં ગાબડાં પડે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: CFC (Chlorofluorocarbon) = ઓઝોનનો દુશ્મન.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> IMP Topic 2024</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "નિવસનતંત્રના અજૈવિક ઘટકોના નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>નિવસનતંત્રમાં જોવા મળતા તમામ નિર્જીવ ઘટકોને અજૈવિક ઘટકો કહે છે. તેના ઉદાહરણો નીચે મુજબ છે:</p><ul><li>ભૌતિક પરિબળો: તાપમાન, વરસાદ, પવન, ભેજ, પ્રકાશ.</li><li>અકાર્બનિક દ્રવ્યો: માટી (જમીન), પાણી, વાયુઓ (ઓક્સિજન, નાઈટ્રોજન વગેરે) અને ખનીજ તત્વો.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: જે શ્વાસ લેતા નથી તે બધા 'અજૈવિક'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "આહારશૃંખલામાં ત્રીજા પોષક સ્તરે હંમેશા કયા સજીવો હોય છે? શા માટે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આહારશૃંખલામાં ત્રીજા પોષક સ્તરે હંમેશા 'માંસાહારી' (દ્વિતીય ઉપભોગી) સજીવો હોય છે.</li><li>પ્રથમ સ્તરે ઉત્પાદકો, બીજા સ્તરે તૃણાહારીઓ હોય છે. માંસાહારીઓ ખોરાક માટે આ તૃણાહારીઓ પર નિર્ભર હોવાથી તેઓ ત્રીજા સ્તરે આવે છે.</li><li>ઉદાહરણ: ઘાસ (1) → તીડ (2) → દેડકો (3).</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ક્રમ યાદ રાખો: 1-લીલી વનસ્પતિ, 2-શાકાહારી, 3-માંસાહારી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Textbook Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "પ્લાસ્ટિકના ઉપયોગથી પર્યાવરણને થતા બે ગેરફાયદા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>1. પ્લાસ્ટિક જૈવ-અવિઘટનીય હોવાથી જમીનમાં વર્ષો સુધી પડી રહે છે અને જમીનની ફળદ્રુપતા ઘટાડે છે.</li><li>2. જો પ્લાસ્ટિકને બાળવામાં આવે તો તેમાંથી ઝેરી વાયુઓ મુક્ત થાય છે જે વાયુ પ્રદૂષણ ફેલાવે છે અને કેન્સર જેવા રોગોનું કારણ બને છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: પ્લાસ્ટિક અમર છે, પણ પર્યાવરણ માટે ઝેર છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> General Awareness IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "આહારશૃંખલામાં પોષક સ્તરો એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આહારશૃંખલામાં જે જે વિવિધ તબક્કાઓ દ્વારા ખોરાક અથવા ઊર્જાનું વહન થાય છે, તે દરેક તબક્કાને 'પોષક સ્તર' કહે છે.</li><li>સ્વયંપોષીઓ (ઉત્પાદકો) પ્રથમ સ્તર છે, જ્યારે અન્ય ઉપભોગીઓ ક્રમશઃ બીજા, ત્રીજા અને ચોથા સ્તરે હોય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: પોષક સ્તર એટલે ઊર્જાના પગથિયાં.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "મોન્ટ્રીયલ પ્રોટોકોલ (Montreal Protocol) શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>1987માં સંયુક્ત રાષ્ટ્ર પર્યાવરણ કાર્યક્રમ (UNEP) દ્વારા એક સમજૂતી કરવામાં આવી, જેને મોન્ટ્રીયલ પ્રોટોકોલ કહે છે.</li><li>તેનો મુખ્ય હેતુ ઓઝોન સ્તરના રક્ષણ માટે CFCs (ક્લોરોફ્લુરોકાર્બન) ના ઉત્પાદન અને વપરાશ પર નિયંત્રણ લાવવાનો હતો.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: 1987 + UNEP + CFC ઘટાડો = મોન્ટ્રીયલ પ્રોટોકોલ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> General Knowledge / Science</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "પર્યાવરણ એટલે શું? તેના મુખ્ય બે ઘટકો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>સજીવની આસપાસના ભૌતિક, રાસાયણિક અને જૈવિક પરિબળોના સરવાળાને પર્યાવરણ કહે છે.</li><li>પર્યાવરણના બે મુખ્ય ઘટકો: <br>1. જૈવિક ઘટકો (બધા જ સજીવો) <br>2. અજૈવિક ઘટકો (નિર્જીવ પરિબળો જેમ કે તાપમાન, માટી, પાણી).</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: પર્યાવરણ = પરિ (આસપાસ) + આવરણ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Definition</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "આહારશૃંખલામાં ઊર્જાના વહન માટેનો 10% નો નિયમ શું સૂચવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જ્યારે ઊર્જા એક પોષક સ્તરેથી બીજા પોષક સ્તરે વહન પામે છે, ત્યારે માત્ર 10% ઊર્જા જ આગળના સ્તરે ટ્રાન્સફર થાય છે.</li><li>બાકીની 90% ઊર્જા પર્યાવરણમાં ઉષ્મા સ્વરૂપે વ્યય પામે છે અથવા સજીવની પોતાની જૈવિક ક્રિયાઓમાં વપરાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ગણિત યાદ રાખો: 1000 J → 100 J → 10 J (દરેક વખતે એક મીંડું ઓછું!).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Lindeman's Law</p></div>"
+    }
+  ]
+}
