@@ -950,3 +950,100 @@ var Std10_Science_2Marks = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "વિદ્યુત",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "વિદ્યુત પ્રવાહની વ્યાખ્યા આપી તેનું સૂત્ર અને SI એકમ જણાવો. (March - 2020, 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>વ્યાખ્યા:</strong> વાહકના કોઈ પણ આડછેદમાંથી એકમ સમયમાં પસાર થતા વિદ્યુતભારના ચોખ્ખા જથ્થાને વિદ્યુત પ્રવાહ (I) કહે છે.</li><li><strong>સૂત્ર:</strong> $I = \\frac{Q}{t}$ (જ્યાં, Q = વિદ્યુતભાર, t = સમય)</li><li><strong>SI એકમ:</strong> વિદ્યુત પ્રવાહનો SI એકમ <strong>એમ્પિયર (A)</strong> છે.</li><li>ફ્રેન્ચ વૈજ્ઞાનિક આન્દ્રે મેરી એમ્પિયરના માનમાં આ એકમ રાખવામાં આવ્યો છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 'I quit' (I = Q/t) - આ રીતે તમે સૂત્ર યાદ રાખી શકો છો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Previous Year Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "ઓહ્મનો નિયમ લખી તેનું ગાણિતિક સૂત્ર આપો. (July - 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>નિયમ:</strong> નિશ્ચિત ભૌતિક પરિસ્થિતિમાં (જેમ કે તાપમાન સમાન હોય), વાહક તારમાંથી પસાર થતો વિદ્યુત પ્રવાહ (I) તે વાહકના બે છેડા વચ્ચેના વિદ્યુતસ્થિતિમાનના તફાવત (V) ના સમપ્રમાણમાં હોય છે.</li><li><strong>ગાણિતિક સ્વરૂપ:</strong> $V \\propto I$ અથવા $V = IR$</li><li>જ્યાં, <strong>R</strong> એ આપેલ ધાતુના તાર માટે અચળાંક છે, જેને તારનો <strong>અવરોધ</strong> કહે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 'VIP' યાદ રાખો (V = I x R), જ્યાં R એ અવરોધ છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "વાહકનો અવરોધ કઈ બાબતો પર આધાર રાખે છે? (August - 2020)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>નિયમિત વાહકનો અવરોધ (R) નીચેની બાબતો પર આધાર રાખે છે:</p><ol><li><strong>વાહકની લંબાઈ (l) પર:</strong> અવરોધ લંબાઈના સમપ્રમાણમાં હોય છે ($R \\propto l$).</li><li><strong>વાહકના આડછેદના ક્ષેત્રફળ (A) પર:</strong> અવરોધ ક્ષેત્રફળના વ્યસ્ત પ્રમાણમાં હોય છે ($R \\propto 1/A$).</li><li><strong>દ્રવ્યની જાત પર:</strong> જુદા જુદા દ્રવ્યો માટે અવરોધ અલગ હોય છે.</li><li><strong>તાપમાન પર:</strong> તાપમાન વધતા ધાતુનો અવરોધ વધે છે.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: યાદ રાખો 'LAT' - L(Length), A(Area), T(Temperature).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Page 201</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "વિદ્યુતસ્થિતિમાનનો તફાવત એટલે શું? 1 વૉલ્ટની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>વ્યાખ્યા:</strong> એકમ ધન વિદ્યુતભારને વિદ્યુતક્ષેત્રમાં એક બિંદુથી બીજા બિંદુ સુધી લઈ જવા માટે કરવા પડતા કાર્યને તે બે બિંદુઓ વચ્ચેનો વિદ્યુતસ્થિતિમાનનો તફાવત કહે છે.</li><li>$V = \\frac{W}{Q}$</li><li><strong>1 વૉલ્ટ:</strong> જો 1 કુલંબ વિદ્યુતભારને લઈ જવા માટે કરવું પડતું કાર્ય 1 જ્યુલ હોય, તો તે બે બિંદુ વચ્ચેનો વિદ્યુતસ્થિતિમાનનો તફાવત 1 વૉલ્ટ કહેવાય. ($1V = 1J/1C$)</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: વૉલ્ટેજ એટલે વિદ્યુતને ધક્કો મારવા માટે થતું કામ (Work).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept Notes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "વિદ્યુત પ્રવાહની તાપીય અસર એટલે શું? તેનો ઉપયોગ થતો હોય તેવા સાધનોના નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>વ્યાખ્યા:</strong> જ્યારે શુદ્ધ અવરોધ ધરાવતા પરિપથમાંથી વિદ્યુત પ્રવાહ પસાર થાય છે, ત્યારે વિદ્યુત ઉર્જાનું સંપૂર્ણપણે ઉષ્મા ઉર્જામાં રૂપાંતર થાય છે, જેને વિદ્યુત પ્રવાહની તાપીય અસર કહે છે.</li><li><strong>ઉપયોગો:</strong><ol><li>વિદ્યુત ઈસ્ત્રી</li><li>વિદ્યુત હીટર</li><li>વિદ્યુત ટોસ્ટર</li><li>વિદ્યુત બલ્બ (ફિલામેન્ટ ગરમ થવા માટે)</li></ol></li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: અવરોધ = ઘર્ષણ. ઘર્ષણથી જેમ ગરમી પેદા થાય, તેમ અવરોધમાં પ્રવાહ વહેવાથી ગરમી પેદા થાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Chapter 11</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "શ્રેણી જોડાણના ગેરફાયદા જણાવો. (કોઈ પણ બે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ol><li>શ્રેણી જોડાણમાં જો એક ઉપકરણ બગડી જાય અથવા પરિપથમાં ભંગાણ પડે, તો બાકીના બધા જ ઉપકરણો બંધ થઈ જાય છે.</li><li>દરેક ઉપકરણને સમાન વિદ્યુત પ્રવાહ મળે છે, પરંતુ દરેકને જરૂરી વોલ્ટેજ અલગ હોઈ શકે છે. તેથી બલ્બ અને હીટરને શ્રેણીમાં જોડવા વ્યવહારુ નથી.</li><li>કુલ અવરોધ વધી જવાથી પરિપથમાં વહેતો પ્રવાહ ઘટી જાય છે.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: દિવાળીની સીરીઝ લાઈટ યાદ કરો, એક બલ્બ ઉડે તો આખી લાઈન બંધ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT In-text Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "વિદ્યુત બલ્બમાં ફિલામેન્ટ તરીકે ટંગસ્ટન ધાતુનો જ ઉપયોગ કેમ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ટંગસ્ટનનું ગલનબિંદુ ખૂબ જ ઊંચું ($3380^\\circ C$) છે, તેથી તે અત્યંત ગરમ થવા છતાં પીગળતું નથી.</li><li>તે ઉંચા તાપમાને પ્રકાશનું ઉત્સર્જન કરવાની ક્ષમતા ધરાવે છે અને જલ્દી ઓક્સિડાઈઝ (સળગી) થતું નથી.</li><li>આ ગુણધર્મોને કારણે બલ્બ લાંબો સમય ચાલી શકે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: ટંગસ્ટન = 'ટફ બંદો' જે ગરમીમાં પણ પીગળતો નથી!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Application Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "વિદ્યુત પાવરની વ્યાખ્યા આપી તેનો SI એકમ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>વ્યાખ્યા:</strong> કાર્ય કરવાના દરને અથવા વિદ્યુત ઉર્જા વપરાવાના દરને વિદ્યુત પાવર (P) કહે છે.</li><li><strong>સૂત્ર:</strong> $P = VI$ અથવા $P = I^2R$ અથવા $P = V^2/R$</li><li><strong>SI એકમ:</strong> વિદ્યુત પાવરનો SI એકમ <strong>વૉટ (W)</strong> છે.</li><li>1 વૉટ એટલે કે 1 વોલ્ટના વિદ્યુતસ્થિતિમાન હેઠળ 1 એમ્પિયર પ્રવાહ વહેતો હોય ત્યારે વપરાતો પાવર.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: પાવર એટલે 'વોલ્ટેજ' અને 'કરંટ' નો ગુણાકાર (P = V x I).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "વિદ્યુત ફ્યુઝ એટલે શું? તે કયા સિદ્ધાંત પર કાર્ય કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>ફ્યુઝ:</strong> તે સુરક્ષા માટેનું એક સાધન છે જે વિદ્યુત ઉપકરણોને શોર્ટ સર્કિટ કે ઓવરલોડિંગથી બચાવે છે.</li><li><strong>સિદ્ધાંત:</strong> ફ્યુઝ વિદ્યુત પ્રવાહની <strong>તાપીય અસર (Heating Effect)</strong> પર કાર્ય કરે છે.</li><li>જ્યારે નિયત મર્યાદા કરતા વધુ પ્રવાહ પસાર થાય, ત્યારે ફ્યુઝનો તાર ગરમ થઈને પીગળી જાય છે અને પરિપથ તોડી નાખે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: ફ્યુઝ એ ઘરનો 'બોડીગાર્ડ' છે, જે પોતે બલિદાન આપીને ઉપકરણોને બચાવે છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "નીચે દર્શાવેલ વિદ્યુત સંકેતોની આકૃતિ દોરો: (1) વિદ્યુત કોષ (2) એમીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વિદ્યુત પરિપથના ઘટકોના સંકેતો નીચે મુજબ છે:</p><div style='display:flex; gap:20px; margin-top:10px;'><svg width='150' height='60'><line x1='10' y1='30' x2='60' y2='30' stroke='black' stroke-width='2'/><line x1='60' y1='10' x2='60' y2='50' stroke='black' stroke-width='3'/><line x1='80' y1='20' x2='80' y2='40' stroke='black' stroke-width='2'/><line x1='80' y1='30' x2='130' y2='30' stroke='black' stroke-width='2'/><text x='55' y='8' font-size='12'>+</text><text x='78' y='18' font-size='12'>-</text><text x='40' y='60' font-size='12'>(1) વિદ્યુત કોષ</text></svg><svg width='150' height='80'><circle cx='75' cy='35' r='20' stroke='black' stroke-width='2' fill='white'/><text x='68' y='42' font-size='18' font-weight='bold'>A</text><line x1='10' y1='35' x2='55' y2='35' stroke='black' stroke-width='2'/><line x1='95' y1='35' x2='140' y2='35' stroke='black' stroke-width='2'/><text x='45' y='30' font-size='12'>+</text><text x='100' y='30' font-size='12'>-</text><text x='50' y='75' font-size='12'>(2) એમીટર</text></svg></div><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: સેલમાં લાંબી લીટી એટલે પોઝિટિવ (+) અને ટૂંકી એટલે નેગેટિવ (-).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Table 11.1</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "1 kWh અને જ્યુલ (J) વચ્ચેનો સંબંધ મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>1 kWh = 1 કિલોવોટ $\\times$ 1 કલાક</li><li>1 kWh = 1000 W $\\times$ 3600 સેકન્ડ</li><li>1 kWh = 36,00,000 Ws (અથવા J)</li><li><strong>1 kWh = $3.6 \\times 10^6$ J</strong></li></ul><p>આ એકમ પાવરનો મોટો એકમ છે જેને વ્યવહારમાં 'યુનિટ' કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 36 પછી 5 મીંડા - વૈજ્ઞાનિક પદ્ધતિમાં 3.6 x 10^6.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Physics IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "શા માટે ટોસ્ટર કે ઈસ્ત્રીની કોઈલ શુદ્ધ ધાતુને બદલે મિશ્ર ધાતુની બનાવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>મિશ્ર ધાતુઓની અવરોધકતા તેમની શુદ્ધ ધાતુઓ કરતા ઘણી વધારે હોય છે, જેથી વધુ ઉષ્મા પેદા થાય છે.</li><li>મિશ્ર ધાતુઓ ઉંચા તાપમાને પણ જલ્દી ઓક્સિડાઈઝ (સળગી) થતી નથી.</li><li>તેમનું ગલનબિંદુ ઊંચું હોય છે, તેથી તે વધુ ગરમી સહન કરી શકે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: મિશ્ર ધાતુ = વધુ અવરોધ + વધુ ગરમી + નો ટેન્શન ઓફ બર્નિંગ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Application Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "એક વાહક તારમાંથી 0.5 A વિદ્યુતપ્રવાહ 10 મિનિટ સુધી વહે છે, તો પરિપથમાં વહેતો વિદ્યુતભાર શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આપેલ છે: I = 0.5 A, t = 10 મિનિટ = $10 \\times 60 = 600$ સેકન્ડ</li><li>સૂત્ર: $Q = I \\times t$</li><li>$Q = 0.5 \\times 600$</li><li><strong>Q = 300 C (કુલંબ)</strong></li></ul><p>આમ, પરિપથમાં વહેતો વિદ્યુતભાર 300 કુલંબ હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: સમયને હંમેશા સેકન્ડમાં ફેરવવાનું ભૂલતા નહીં!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Example 11.1</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "જ્યુલનો તાપીય નિયમ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જ્યુલના નિયમ મુજબ, અવરોધમાં ઉત્પન્ન થતી ઉષ્મા (H):</p><ol><li>આપેલ અવરોધમાંથી પસાર થતા વિદ્યુત પ્રવાહના વર્ગના સમપ્રમાણમાં હોય છે ($H \\propto I^2$).</li><li>આપેલ પ્રવાહ માટે અવરોધના સમપ્રમાણમાં હોય છે ($H \\propto R$).</li><li>જે સમય સુધી પ્રવાહ વહેતો હોય તે સમયના સમપ્રમાણમાં હોય છે ($H \\propto t$).</li><li><strong>સૂત્ર: $H = I^2Rt$</strong></li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: H = 'I square RT' - હાઈસ્કૂલ RT તરીકે યાદ રાખી શકાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Law Statement</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "અવરોધોનું સમાંતર જોડાણ એટલે શું? તેની કોઈ પણ બે લાક્ષણિકતા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>વ્યાખ્યા:</strong> જ્યારે બે કે તેથી વધુ અવરોધોને બે બિંદુઓ વચ્ચે એવી રીતે જોડવામાં આવે કે જેથી દરેકને મળતો વોલ્ટેજ સમાન હોય, તો તેને સમાંતર જોડાણ કહે છે.</li><li><strong>લાક્ષણિકતાઓ:</strong><ol><li>દરેક અવરોધના બે છેડા વચ્ચેનો વિદ્યુતસ્થિતિમાનનો તફાવત સમાન હોય છે.</li><li>પરિપથનો કુલ અવરોધ, જોડાણમાંના નાનામાં નાના અવરોધ કરતા પણ ઓછો હોય છે.</li></ol></li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: સમાંતર = વોલ્ટેજ સેમ, કરંટ અલગ અલગ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Master Notes</p></div>"
+    }
+  ]
+}
