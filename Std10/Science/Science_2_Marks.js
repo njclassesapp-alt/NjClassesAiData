@@ -1047,3 +1047,100 @@ var Std10_Science_2Marks = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "વિદ્યુતપ્રવાહની ચુંબકીય અસરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "ચુંબકીય ક્ષેત્રરેખાઓના ગુણધર્મો જણાવો. (March - 2020, 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ચુંબકીય ક્ષેત્રરેખાઓ ઉત્તર ધ્રુવ (N) માંથી નીકળી દક્ષિણ ધ્રુવ (S) માં દાખલ થાય છે (ચુંબકની બહાર).</li><li>ચુંબકની અંદર ક્ષેત્રરેખાઓની દિશા દક્ષિણ ધ્રુવથી ઉત્તર ધ્રુવ તરફ હોય છે. આમ, તે બંધ વક્રો (Closed loops) રચે છે.</li><li>જ્યાં ક્ષેત્રરેખાઓ એકબીજાની વધુ નજીક હોય ત્યાં ચુંબકીય ક્ષેત્ર પ્રબળ હોય છે.</li><li>બે ચુંબકીય ક્ષેત્રરેખાઓ ક્યારેય એકબીજાને છેદતી નથી.</li></ul><svg width='200' height='100' viewBox='0 0 200 100'><rect x='50' y='30' width='100' height='40' fill='#bdc3c7' stroke='#34495e'/><text x='60' y='55' font-family='Arial' font-size='12'>N</text><text x='130' y='55' font-family='Arial' font-size='12'>S</text><path d='M50 40 Q 0 0 150 40' fill='none' stroke='blue' stroke-dasharray='4'/><path d='M50 60 Q 0 100 150 60' fill='none' stroke='blue' stroke-dasharray='4'/></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: N થી S બહાર, S થી N અંદર - આ યાદ રાખો એટલે ગુણધર્મો પાકા!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board PYQ</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "જમણા હાથના અંગૂઠાનો નિયમ સમજાવો. (July - 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વિદ્યુતપ્રવાહધારિત તારને જમણા હાથમાં એવી રીતે પકડો કે જેથી અંગૂઠો વિદ્યુતપ્રવાહની દિશામાં રહે, તો તારની આસપાસ વીંટળાયેલી આંગળીઓ ચુંબકીય ક્ષેત્રરેખાઓની દિશા દર્શાવે છે.</p><ul><li>અંગૂઠો = વિદ્યુતપ્રવાહ (I) ની દિશા.</li><li>વળેલી આંગળીઓ = ચુંબકીય ક્ષેત્ર (B) ની દિશા.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંગૂઠો એટલે Current અને આંગળીઓ એટલે Magnetic Field (ગોળ ગોળ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Page 227</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "ફ્યુઝ (Fuse) એટલે શું? તેનું કાર્ય સમજાવો. (August - 2020)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>વ્યાખ્યા:</strong> ફ્યુઝ એ સુરક્ષાનું સાધન છે જે વિદ્યુત પરિપથને શોર્ટ સર્કિટ કે ઓવરલોડિંગ વખતે થતા નુકસાનથી બચાવે છે.</li><li><strong>કાર્ય:</strong> જ્યારે પરિપથમાં પ્રવાહ સલામત મર્યાદા કરતા વધે છે, ત્યારે ફ્યુઝનો તાર ગરમ થઈને પીગળી જાય છે અને પરિપથ તોડી નાખે છે.</li><li>આથી મોંઘા ઉપકરણો બળી જતાં બચે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્યુઝ = સીક્યુરિટી ગાર્ડ. ગરમી વધે એટલે પોતે બલિદાન આપીને ઘર બચાવે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "ઓવરલોડિંગ (Overloading) અને શોર્ટ સર્કિટ (Short Circuit) વચ્ચેનો તફાવત આપો. (March - 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><table><tr><th>શોર્ટ સર્કિટ</th><th>ઓવરલોડિંગ</th></tr><tr><td>જ્યારે જીવંત તાર (Live) અને તટસ્થ તાર (Neutral) સીધા સંપર્કમાં આવે ત્યારે થાય છે.</td><td>જ્યારે એક જ સોકેટમાં ઘણા બધા પાવરફુલ ઉપકરણો જોડવામાં આવે ત્યારે થાય છે.</td></tr><tr><td>પરિપથનો અવરોધ શૂન્ય જેવો થઈ જાય છે અને પ્રવાહ ખૂબ વધી જાય છે.</td><td>પરિપથમાં ખેંચાતો કુલ પ્રવાહ વાયરની ક્ષમતા કરતા વધી જાય છે.</td></tr></table><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શોર્ટ સર્કિટ = તારનું મિલન; ઓવરલોડિંગ = કામનું ભારણ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "સોલેનોઇડ એટલે શું? તેની અંદરના ભાગમાં ચુંબકીય ક્ષેત્ર કેવું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>વ્યાખ્યા:</strong> અલગ કરેલા તાંબાના તારના અત્યંત નજીક વીંટાળેલા ઘણા વર્તુળાકાર આંટાઓ વડે બનતા નળાકાર જેવી રચનાને સોલેનોઇડ કહે છે.</li><li><strong>ક્ષેત્ર:</strong> સોલેનોઇડની અંદરના ભાગમાં ચુંબકીય ક્ષેત્રરેખાઓ એકબીજાને સમાંતર હોય છે.</li><li>આ દર્શાવે છે કે સોલેનોઇડની અંદરના તમામ બિંદુઓએ ચુંબકીય ક્ષેત્ર સમાન (યુનિફોર્મ) હોય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોલેનોઇડ = સ્પ્રિંગ જેવો તાર. અંદર ક્ષેત્ર સમાંતર અને સમાન.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "ફ્લેમિંગનો ડાબા હાથનો નિયમ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ડાબા હાથના અંગૂઠા, પ્રથમ આંગળી અને મધ્ય આંગળીને એવી રીતે પ્રસરાવો કે જેથી ત્રણેય એકબીજાને લંબ રહે.</p><ul><li><strong>પ્રથમ આંગળી:</strong> ચુંબકીય ક્ષેત્રની દિશામાં.</li><li><strong>મધ્ય આંગળી:</strong> વિદ્યુતપ્રવાહની દિશામાં.</li><li><strong>અંગૂઠો:</strong> વાહક પર લાગતા બળ (ગતિ) ની દિશામાં.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: FBI યાદ રાખો! F (Force-અંગૂઠો), B (Field-પહેલી આંગળી), I (Current-બીજી આંગળી).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Page 231</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "અર્થિંગ વાયર (Earth Wire) નું કાર્ય શું છે? તેને ધાતુના સાધનો સાથે કેમ જોડવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>અર્થિંગ વાયર લીલા રંગનું અવાહક પડ ધરાવે છે અને તે જમીનમાં ઊંડે દાટેલી ધાતુની પ્લેટ સાથે જોડાયેલ હોય છે.</li><li>જો સાધનના ધાતુના આવરણમાં વિદ્યુતપ્રવાહ લીક થાય, તો અર્થિંગ વાયર તે પ્રવાહને સીધો જમીનમાં મોકલી દે છે.</li><li>આનાથી સાધનને અડકનાર વ્યક્તિને ગંભીર ઇલેક્ટ્રિક શૉક લાગતો નથી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અર્થિંગ = લાઈફ ઇન્સ્યોરન્સ. વધારાનો કરંટ જમીનમાં પધરાવી દે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Domestic Circuits Section</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "બે ચુંબકીય ક્ષેત્રરેખાઓ એકબીજાને છેદતી નથી - કારણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જો બે ક્ષેત્રરેખાઓ એકબીજાને છેદે, તો છેદનબિંદુ પાસે હોકાયંત્રની સોય બે અલગ-અલગ દિશાઓ દર્શાવે.</li><li>ચુંબકીય ક્ષેત્રની કોઈ એક બિંદુએ બે દિશા હોવી શક્ય નથી.</li><li>તેથી, ચુંબકીય ક્ષેત્રરેખાઓ ક્યારેય છેદતી નથી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક જ સમયે બે જગ્યાએ ન જઈ શકાય, તેમ ક્ષેત્રરેખાઓ પણ બે દિશામાં ન હોઈ શકે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Conceptual Question NCERT</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "AC અને DC પ્રવાહ વચ્ચેનો મુખ્ય તફાવત શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>DC (Direct Current):</strong> આ પ્રવાહ હંમેશા એક જ દિશામાં વહે છે. દા.ત. સેલ કે બેટરીનો પ્રવાહ.</li><li><strong>AC (Alternating Current):</strong> આ પ્રવાહ નિશ્ચિત સમયના અંતરે પોતાની દિશા બદલે છે.</li><li>ભારતમાં AC પ્રવાહની આવૃત્તિ 50 Hz છે (દર 1/100 સેકન્ડે દિશા બદલે છે).</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: DC = સીધો રસ્તો; AC = આગળ-પાછળ (U-turn લેતો પ્રવાહ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Modern Syllabus Update</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "ગેલ્વેનોમીટર (Galvanometer) નું કાર્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ગેલ્વેનોમીટર એ પરિપથમાં વિદ્યુતપ્રવાહની હાજરી જાણવા માટેનું સંવેદનશીલ સાધન છે.</li><li>જો પરિપથમાંથી પ્રવાહ વહેતો હોય, તો તેની સોય કોણાવર્તન (Deflection) દર્શાવે છે.</li><li>તે પ્રવાહની દિશા પણ જાણી શકે છે (શૂન્ય આંકડો સ્કેલની મધ્યમાં હોય છે).</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એમીટર પ્રવાહ માપે, ગેલ્વેનોમીટર ખાલી પ્રવાહ છે કે નહીં તે ચેક કરે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "ચુંબકીય ક્ષેત્રની હાજરી જાણવા માટે કયું સાધન વપરાય છે? તેની સોય કઈ દિશામાં સ્થિર થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ચુંબકીય ક્ષેત્રની હાજરી જાણવા માટે <strong>હોકાયંત્ર (Compass Needle)</strong> વપરાય છે.</li><li>હોકાયંત્રની સોય એક નાનો ગજિયો ચુંબક જ છે.</li><li>તેને મુક્ત રીતે ફેરવતા તેનો ઉત્તર ધ્રુવ પૃથ્વીના ભૌગોલિક ઉત્તર તરફ અને દક્ષિણ ધ્રુવ પૃથ્વીના ભૌગોલિક દક્ષિણ તરફ સ્થિર થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હોકાયંત્ર = કુદરતી GPS.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Class 10 Foundation</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "વિદ્યુત પ્રવાહધારિત વર્તુળાકાર લૂપના કેન્દ્ર પર ચુંબકીય ક્ષેત્રની પ્રબળતા કઈ બાબતો પર આધાર રાખે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>પ્રવાહ (I):</strong> ચુંબકીય ક્ષેત્ર પ્રવાહના સમપ્રમાણમાં હોય છે (B ∝ I).</li><li><strong>આંટાની સંખ્યા (n):</strong> જો લૂપમાં 'n' આંટા હોય, તો ચુંબકીય ક્ષેત્ર n ગણું વધી જાય છે.</li><li><strong>ત્રિજ્યા (r):</strong> કેન્દ્ર પર ક્ષેત્ર ત્રિજ્યાના વ્યસ્ત પ્રમાણમાં હોય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલા વધારે આંટા અને જેટલો વધુ પ્રવાહ, તેટલું પાવરફુલ ચુંબકીય ક્ષેત્ર!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Page 228</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "ઇલેક્ટ્રોમેગ્નેટ (Electromagnet) એટલે શું? તેના બે ઉપયોગો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>વ્યાખ્યા:</strong> નરમ લોખંડના ગર્ભ પર વીંટાળેલા અલગ કરેલા તાંબાના તારના સોલેનોઇડને વિદ્યુતપ્રવાહ પસાર કરીને બનાવવામાં આવતા હંગામી ચુંબકને ઇલેક્ટ્રોમેગ્નેટ કહે છે.</li><li><strong>ઉપયોગો:</strong><ol><li>મોટી ક્રેન દ્વારા લોખંડનો ભંગાર ઉપાડવા માટે.</li><li>વિદ્યુત ઘંટડી (Electric Bell) માં.</li></ol></li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Switch ON = ચુંબક હાજર, Switch OFF = ચુંબક ગાયબ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Applications</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "ઘરગથ્થુ વિદ્યુત પરિપથમાં વપરાતા ત્રણ વાયરોના નામ અને રંગ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>જીવંત તાર (Live Wire):</strong> લાલ રંગનું અવાહક પડ (ખતરનાક - પોઝિટિવ).</li><li><strong>તટસ્થ તાર (Neutral Wire):</strong> કાળા રંગનું અવાહક પડ (નેગેટિવ).</li><li><strong>અર્થિંગ તાર (Earth Wire):</strong> લીલા રંગનું અવાહક પડ (સુરક્ષા માટે).</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ = જોખમ (Live), કાળો = શાંત (Neutral), લીલો = સેફટી (Earth).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Domestic Wiring Rules</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "લાંબા અંતરે વિદ્યુત મોકલવા માટે AC પ્રવાહ કેમ વધુ પસંદ કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>AC પ્રવાહને ટ્રાન્સફોર્મરની મદદથી વોલ્ટેજ વધારી કે ઘટાડી શકાય છે.</li><li>ખૂબ ઊંચા વોલ્ટેજે AC ને મોકલવાથી વાયરમાં ઉર્જાનો વ્યય (Heat loss) ખૂબ જ ઓછો થાય છે.</li><li>DC પ્રવાહમાં વોલ્ટેજ ફેરફાર કરવો મુશ્કેલ અને ખર્ચાળ છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: AC એટલે 'પાવરફુલ ટ્રાન્સપોર્ટ' - રસ્તામાં ઉર્જાનો બગાડ ઓછો!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Modern NCERT Chapter 12</p></div>"
+    }
+  ]
+}
