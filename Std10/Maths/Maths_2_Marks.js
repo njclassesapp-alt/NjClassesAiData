@@ -64,8 +64,8 @@ var Std10_Maths_2Marks = {
       "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે 7√5 સંમેય છે. તેથી 7√5 = a/b (જ્યાં b ≠ 0 અને a, b અવિભાજ્ય પૂર્ણાંકો છે)</p><p>√5 = a / (7b)</p><p>અહીં a, b અને 7 પૂર્ણાંકો હોવાથી a / 7b એ સંમેય સંખ્યા છે.</p><p>જો a / 7b સંમેય હોય, તો √5 પણ સંમેય થાય. પરંતુ √5 અસંમેય છે તે સર્વસ્વીકૃત છે.</p><p>આથી વિરોધાભાસ પેદા થાય છે. માટે 7√5 અસંમેય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણાકારમાં રહેલી સંમેય સંખ્યા સામે જાય તો ભાગાકારમાં જાય, પણ અસંમેયતાનો ગુણધર્મ બદલાતો નથી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Standard Maths IMP</p></div>"
     }
   ]
-}
-,
+},
+
 "2": {
   "chapterName": "પ્રકરણ 2",
   "chapterTitle": "બહુપદીઓ",
@@ -131,8 +131,8 @@ var Std10_Maths_2Marks = {
       "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>p(x) = x² - x - 2<br>x = -1 લેતા:<br>p(-1) = (-1)² - (-1) - 2 = 1 + 1 - 2 = 0<br><br>x = 2 લેતા:<br>p(2) = (2)² - (2) - 2 = 4 - 2 - 2 = 0</p><p>અહીં બંને કિસ્સામાં કિંમત 0 મળે છે, તેથી <b>-1 અને 2 એ બહુપદીના શૂન્યો છે.</b></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો p(a) = 0 થાય, તો જ 'a' ને બહુપદીનું શૂન્ય કહેવાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Basic Concept</p></div>"
     }
   ]
-}
-,
+},
+
 "3": {
   "chapterName": "પ્રકરણ 3",
   "chapterTitle": "દ્વિચલ સુરેખ સમીકરણયુગ્મ",
@@ -198,8 +198,8 @@ var Std10_Maths_2Marks = {
       "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સમીકરણ (1) ને 6 વડે ગુણતા: 3x + 4y = -6<br>સમીકરણ (2) ને 3 વડે ગુણતા: 3x - y = 9</p><p>બાદબાકી કરતા: (3x + 4y) - (3x - y) = -6 - 9<br>5y = -15 => <strong>y = -3</strong></p><p>y = -3 ને 3x - y = 9 માં મૂકતા:<br>3x - (-3) = 9<br>3x + 3 = 9<br>3x = 6 => <strong>x = 2</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અપૂર્ણાંક વાળા પદો હોય ત્યારે લસાઅ (LCM) વડે ગુણી સાદા સમીકરણમાં ફેરવી દેવા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Most IMP Question</p></div>"
     }
   ]
-}
-,
+},
+
 "4": {
   "chapterName": "પ્રકરણ 4",
   "chapterTitle": "દ્વિઘાત સમીકરણ",
@@ -271,8 +271,8 @@ var Std10_Maths_2Marks = {
       "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>મૂળ α = 3 અને β = -2<br>મૂળનો સરવાળો (S) = 3 + (-2) = 1<br>મૂળનો ગુણાકાર (P) = 3 × (-2) = -6<br>દ્વિઘાત સમીકરણ: x² - (S)x + (P) = 0<br>x² - (1)x + (-6) = 0<br>x² - x - 6 = 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીધું (x - α)(x - β) = 0 માં કિંમત મુકો: (x - 3)(x + 2) = 0</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Foundation Question</p></div>"
     }
   ]
-}
-,
+},
+
 "5": {
   "chapterName": "પ્રકરણ 5",
   "chapterTitle": "સમાંતર શ્રેણી",
@@ -338,8 +338,8 @@ var Std10_Maths_2Marks = {
       "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>8 ના ગુણિતો: 8, 16, 24, ... (15 પદો સુધી)<br>અહીં a = 8, d = 8, n = 15.<br>S<sub>n</sub> = n/2 [2a + (n - 1)d]<br>S<sub>15</sub> = 15/2 [2(8) + (15 - 1)8]<br>S<sub>15</sub> = 15/2 [16 + 14 * 8]<br>S<sub>15</sub> = 15/2 [16 + 112]<br>S<sub>15</sub> = 15/2 [128] = 15 * 64 = 960</p><p>આમ, 8 ના પ્રથમ 15 ગુણિતોનો સરવાળો 960 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 8 સામાન્ય કાઢી લો: 8 * [15 * 16 / 2] = 8 * 120 = 960.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
     }
   ]
-}
-,
+},
+
 "6": {
   "chapterName": "પ્રકરણ 6",
   "chapterTitle": "ત્રિકોણ",
@@ -405,8 +405,8 @@ var Std10_Maths_2Marks = {
       "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કાટકોણ ત્રિકોણમાં વેધના ગુણધર્મ (ભૌમિતિક મધ્યક) મુજબ:</p><p>\\(BD^2 = AD \\times CD\\)</p><p>\\(BD^2 = 4 \\times 9\\)</p><p>\\(BD^2 = 36\\)</p><p>\\(BD = \\sqrt{36}\\)</p><p><strong>BD = 6 સેમી</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: </p><p>વેધ શોધવો હોય ત્યારે પાયાના બે ભાગનો ગુણાકાર કરી તેનું વર્ગમૂળ કાઢી લેવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
     }
   ]
-}
-,
+},
+
 "7": {
   "chapterName": "પ્રકરણ 7",
   "chapterTitle": "યામ ભૂમિતિ",
@@ -472,8 +472,8 @@ var Std10_Maths_2Marks = {
       "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે A(5, -2), B(6, 4), C(7, -2)</p><p>$AB^2 = (6-5)^2 + (4-(-2))^2 = 1^2 + 6^2 = 1 + 36 = 37$</p><p>$BC^2 = (7-6)^2 + (-2-4)^2 = 1^2 + (-6)^2 = 1 + 36 = 37$</p><p>$AC^2 = (7-5)^2 + (-2-(-2))^2 = 2^2 + 0^2 = 4$</p><p>અહીં $AB^2 = BC^2 \\Rightarrow AB = BC$. બે બાજુઓ સમાન હોવાથી તે સમદ્રીબાજુ ત્રિકોણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્ગમૂળ કાઢવાની જરૂર નથી, જો વર્ગ સમાન આવે તો બાજુઓ સમાન જ હોય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Series</p></div>"
     }
   ]
-}
-,
+},
+
 "8": {
   "chapterName": "પ્રકરણ 8",
   "chapterTitle": "ત્રિકોણમિતિનો પરિચય",
@@ -539,8 +539,8 @@ var Std10_Maths_2Marks = {
       "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>આપેલ પદ: [(1 + sin θ)(1 - sin θ)] / [(1 + cos θ)(1 - cos θ)]</p><p>= (1 - sin² θ) / (1 - cos² θ) [∵ (a-b)(a+b) = a²-b²]</p><p>= cos² θ / sin² θ [∵ 1-sin²θ = cos²θ અને 1-cos²θ = sin²θ]</p><p>= (cos θ / sin θ)²</p><p>= cot² θ</p><p>હવે cot θ = 7/8 હોવાથી:</p><p>= (7/8)² = <strong>49/64</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીધી કિંમત મૂકવાને બદલે પહેલા નિત્યસમ વાપરીને પદ નાનું કરો, ગણતરી ખૂબ જ સરળ થઈ જશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board NCERT Ex 8.1</p></div>"
     }
   ]
-}
-,
+},
+
 "10": {
   "chapterName": "પ્રકરણ 10",
   "chapterTitle": "વર્તુળ",
@@ -636,8 +636,8 @@ var Std10_Maths_2Marks = {
       "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધારો કે વર્તુળનું કેન્દ્ર O છે અને XY સ્પર્શક P બિંદુએ સ્પર્શે છે. </p><p>XY પર P સિવાયનું કોઈ બિંદુ Q લો. Q એ વર્તુળની બહાર જ હોય (જો અંદર હોય તો XY છેદિકા બની જાય). </p><p>તેથી OQ > OP (કારણ કે OP ત્રિજ્યા છે અને Q બહાર છે).</p><p>આમ, P સિવાયના XY ના તમામ બિંદુઓ માટે OP એ સૌથી ટૂંકું અંતર છે. </p><p>ગણિત મુજબ, સૌથી ટૂંકું અંતર એ લંબ અંતર હોય છે. તેથી OP ⊥ XY.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટૂંકું અંતર = લંબ અંતર. બસ આટલું યાદ રાખો!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Theorem 10.1</p></div>"
     }
   ]
-}
-,
+},
+
 "11": {
   "chapterName": "પ્રકરણ 11",
   "chapterTitle": "વર્તુળ સંબંધિત ક્ષેત્રફળ",
@@ -733,8 +733,8 @@ var Std10_Maths_2Marks = {
       "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વ્યાસ = 14 સેમી ∴ r = 7 સેમી, θ = 90°</p><p>વૃત્તાંશની પરિમિતિ = ચાપની લંબાઈ + 2 × ત્રિજ્યા</p><p>ચાપની લંબાઈ l = (90/360) × 2 × (22/7) × 7 = 11 સેમી</p><p>પરિમિતિ = 11 + 2(7) = 11 + 14 = 25 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિદ્યાર્થીઓ વારંવાર ત્રિજ્યા (2r) ઉમેરવાનું ભૂલી જાય છે, જે પરિમિતિ માટે અનિવાર્ય છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Conceptual Question NJ Classes</p></div>"
     }
   ]
-}
-,
+},
+
 "13": {
   "chapterName": "પ્રકરણ 13",
   "chapterTitle": "આંકડાશાસ્ત્ર",
@@ -830,8 +830,8 @@ var Std10_Maths_2Marks = {
       "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સૂત્ર: x̄ = ∑fᵢxᵢ / ∑fᵢ</p><p>45.5 = ∑fᵢxᵢ / 100</p><p>∑fᵢxᵢ = 45.5 × 100</p><p><strong>∑fᵢxᵢ = 4550</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: 100 સાથે ગુણાકાર કરતી વખતે દશાંશ ચિહ્ન બે સ્થળ જમણી બાજુ ખસેડવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Basic Calculation Skill</p></div>"
     }
   ]
-}
-,
+},
+
 "14": {
   "chapterName": "પ્રકરણ 14",
   "chapterTitle": "સંભાવના",
