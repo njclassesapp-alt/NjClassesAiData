@@ -1543,3 +1543,70 @@ var Std10_SS_4Marks = {
     }
   ]
 }
+,
+"22": {
+  "chapterName": "પ્રકરણ 22",
+  "chapterTitle": "પ્રકૃતિમાં પોષણ-વ્યવસ્થા",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 4,
+      "question": "નિવસનતંત્ર એટલે શું? તેના જૈવિક અને અજૈવિક ઘટકો સવિસ્તર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કોઈપણ વિસ્તારના બધા જ સજીવો અને પર્યાવરણના અજૈવિક ઘટકોની પરસ્પર આંતરક્રિયાથી બનતા તંત્રને <strong>નિવસનતંત્ર</strong> કહે છે.</p><p><strong>૧. અજૈવિક ઘટકો (Abiotic Components):</strong></p><ul><li>તેમાં નિર્જીવ ઘટકોનો સમાવેશ થાય છે.</li><li>દા.ત., તાપમાન, વરસાદ, પવન, ભેજ, ખનિજ દ્રવ્યો અને ભૂમિ.</li><li>આ ઘટકો સજીવોના વિકાસ અને વિતરણ પર સીધી અસર કરે છે.</li></ul><p><strong>૨. જૈવિક ઘટકો (Biotic Components):</strong></p><ul><li><strong>ઉત્પાદકો:</strong> જે સજીવો સૂર્યપ્રકાશની હાજરીમાં પ્રકાશસંશ્લેષણ દ્વારા પોતાનો ખોરાક જાતે બનાવે છે (લીલી વનસ્પતિ).</li><li><strong>ઉપભોગીઓ:</strong> જે સજીવો ખોરાક માટે અન્ય સજીવો કે વનસ્પતિ પર આધાર રાખે છે. (તૃણાહારી, માંસાહારી, મિશ્રાહારી).</li><li><strong>વિઘટકો:</strong> જટિલ કાર્બનિક પદાર્થોનું સરળ અકાર્બનિક પદાર્થોમાં રૂપાંતર કરતા સૂક્ષ્મજીવો (બેક્ટેરિયા, ફૂગ).</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: અજૈવિક = નિર્જીવ (હવા-પાણી) | જૈવિક = સજીવ (પ્રાણી-વનસ્પતિ-જીવાણુ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 4,
+      "question": "આહાર શૃંખલા અને આહાર જાળ વચ્ચેનો તફાવત સવિસ્તર સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>૧. આહાર શૃંખલા (Food Chain):</strong></p><ul><li>તે સજીવોની એવી સીધી હારમાળા છે જેમાં એક સજીવ બીજા સજીવનો ખોરાક બને છે.</li><li>તેમાં ઉર્જાનું વહન એક જ દિશામાં અને સીધું હોય છે.</li><li>દા.ત., ઘાસ → હરણ → વાઘ.</li></ul><p><strong>૨. આહાર જાળ (Food Web):</strong></p><ul><li>કુદરતમાં સજીવો ખોરાક માટે માત્ર એક જ સજીવ પર આધાર રાખતા નથી, પરંતુ અનેક સજીવો સાથે જોડાયેલા હોય છે.</li><li>આમ, ઘણી બધી આહાર શૃંખલાઓ ભેગી મળીને જે જાળ જેવી રચના બનાવે તેને 'આહાર જાળ' કહે છે.</li><li>આહાર જાળ નિવસનતંત્રને સ્થિરતા આપે છે.</li></ul><svg width='200' height='100' viewBox='0 : 0 200 100'><text x='10' y='20' font-family='Arial' font-size='12'>ઘાસ</text><line x1='40' y1='15' x2='70' y2='15' stroke='black' marker-end='url(#arrow)'/><text x='80' y='20' font-family='Arial' font-size='12'>તીડ</text><line x1='105' y1='15' x2='135' y2='15' stroke='black' marker-end='url(#arrow)'/><text x='145' y='20' font-family='Arial' font-size='12'>દેડકો</text><defs><marker id='arrow' viewBox='0 0 10 10' refX='5' refY='5' markerWidth='6' markerHeight='6' orient='auto-start-reverse'><path d='M 0 0 L 10 5 L 0 10 z' /></marker></defs></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: શૃંખલા = સીધી લાઈન | જાળ = ગૂંચવણભર્યું નેટવર્ક.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 4,
+      "question": "નિવસનતંત્રમાં ઉર્જાના વહનની લાક્ષણિકતાઓ આકૃતિ સાથે સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>નિવસનતંત્રમાં ઉર્જાનું વહન હંમેશા <strong>એકમાર્ગી</strong> હોય છે. તેની મુખ્ય લાક્ષણિકતાઓ નીચે મુજબ છે:</p><ul><li><strong>સૂર્યપ્રકાશ:</strong> લીલી વનસ્પતિઓ સૌર ઉર્જાનું ૧% ભાગમાં શોષણ કરી રાસાયણિક ઉર્જામાં રૂપાંતર કરે છે.</li><li><strong>૧૦% નો નિયમ:</strong> દરેક પોષક સ્તરે માત્ર ૧૦% ઉર્જા જ આગળના સ્તરે જાય છે, બાકીની ૯૦% ઉર્જા ઉષ્મા સ્વરૂપે પર્યાવરણમાં વ્યય પામે છે.</li><li><strong>ક્રમિક ઘટાડો:</strong> જેમ પોષક સ્તર વધે તેમ ઉર્જાનું પ્રમાણ ઘટતું જાય છે.</li><li><strong>પરત ન થવું:</strong> માંસાહારી પ્રાણીઓમાંથી ઉર્જા ક્યારેય તૃણાહારી કે વનસ્પતિમાં પરત આવતી નથી.</li></ul><svg width='150' height='120'><polygon points='75,10 140,110 10,110' style='fill:none;stroke:green;stroke-width:2'/><line x1='30' y1='80' x2='120' y2='80' stroke='black'/><line x1='50' y1='45' x2='100' y2='45' stroke='black'/><text x='55' y='100' font-size='10'>ઉત્પાદકો</text><text x='60' y='70' font-size='10'>તૃણાહારી</text><text x='62' y='35' font-size='10'>માંસાહારી</text></svg><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: ઉર્જા = વન-વે ટ્રાફિક (ક્યારેય પાછી ન આવે).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 4,
+      "question": "જૈવિક વિશાલન (Biological Magnification) એટલે શું? તેની અસરો ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જ્યારે આહાર શૃંખલામાં વિવિધ પોષક સ્તરે હાનિકારક રાસાયણિક પદાર્થો (જેમ કે જંતુનાશકો) ની સાંદ્રતામાં થતા વધારાને <strong>જૈવિક વિશાલન</strong> કહે છે.</p><p><strong>પ્રક્રિયા:</strong></p><ul><li>પાકને બચાવવા વપરાતા DDT જેવા જંતુનાશકો જમીન કે પાણીમાં ભળે છે.</li><li>ત્યાંથી તે વનસ્પતિમાં અને વનસ્પતિ દ્વારા તૃણાહારી અને માંસાહારી પ્રાણીઓમાં પ્રવેશે છે.</li><li>આ રસાયણો અજૈવ વિઘટનીય હોવાથી તે શરીરમાંથી બહાર નીકળતા નથી પણ સંગ્રહ પામે છે.</li></ul><p><strong>અસર:</strong> મનુષ્ય આહાર શૃંખલામાં ટોચના સ્થાને હોવાથી, આપણા શરીરમાં આ ઝેરી રસાયણોની માત્રા સૌથી વધુ જોવા મળે છે, જે કેન્સર અને અન્ય ગંભીર રોગોનું કારણ બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: ઉપર જાવ તેમ ઝેર વધે = જૈવિક વિશાલન.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 4,
+      "question": "પોષક સ્તરો એટલે શું? સ્થળજ નિવસનતંત્રના વિવિધ પોષક સ્તરો આકૃતિ દ્વારા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>આહાર શૃંખલામાં રહેલા વિવિધ તબક્કાઓ કે કડીઓને <strong>પોષક સ્તરો</strong> કહે છે. દરેક સ્તરે ઉર્જાનું વહન થાય છે.</p><ul><li><strong>પ્રથમ પોષક સ્તર:</strong> સ્વયંપોષી સજીવો અથવા ઉત્પાદકો (લીલી વનસ્પતિ). તે ઉર્જાનું સ્થાપન કરે છે.</li><li><strong>દ્વિતીય પોષક સ્તર:</strong> પ્રથમ ક્રમના ઉપભોગીઓ અથવા તૃણાહારી પ્રાણીઓ (ગાય, હરણ).</li><li><strong>તૃતીય પોષક સ્તર:</strong> દ્વિતીય ક્રમના ઉપભોગીઓ અથવા નાના માંસાહારી (શિયાળ, દેડકો).</li><li><strong>ચોથું પોષક સ્તર:</strong> તૃતીય ક્રમના ઉપભોગીઓ અથવા ઉચ્ચ માંસાહારી (વાઘ, સિંહ).</li></ul><p><strong>નોંધ:</strong> પોષક સ્તરોની સંખ્યા મર્યાદિત (૩ થી ૪) હોય છે કારણ કે ઉપરના સ્તરે ઉર્જા ખૂબ ઓછી બચે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: વનસ્પતિ(૧) → હરણ(૨) → શિયાળ(૩) → સિંહ(૪).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 4,
+      "question": "પર્યાવરણમાં વિઘટકોની ભૂમિકા સવિસ્તર સમજાવો. જો પૃથ્વી પરથી વિઘટકો નાશ પામે તો શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>વિઘટકો (Decomposers):</strong> જે સૂક્ષ્મજીવો (બેક્ટેરિયા અને ફૂગ) મૃત વનસ્પતિ અને પ્રાણીઓના અવશેષોનું વિઘટન કરે છે તેને વિઘટકો કહે છે.</p><p><strong>ભૂમિકા:</strong></p><ul><li>તે જટિલ કાર્બનિક પદાર્થોનું સરળ અકાર્બનિક પદાર્થોમાં રૂપાંતર કરે છે.</li><li>આ પદાર્થો ફરીથી ભૂમિમાં ભળે છે અને વનસ્પતિ દ્વારા પુનઃ ઉપયોગમાં લેવાય છે.</li><li>તે કુદરતી સફાઈ કામદારો તરીકે કાર્ય કરે છે.</li></ul><p><strong>વિઘટકો નાશ પામે તો:</strong></p><ul><li>પૃથ્વી પર મૃતદેહોના ઢગલા થઈ જાય.</li><li>પોષક તત્વોનું ચક્ર (Nutrient Cycle) અટકી જાય.</li><li>જમીનની ફળદ્રુપતા ખતમ થઈ જાય અને સજીવ સૃષ્ટિનું અસ્તિત્વ જોખમાય.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: વિઘટકો = કુદરતના રીસાઈકલિંગ મશીન.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 4,
+      "question": "બગીચો એક નિવસનતંત્ર છે - આ વિધાનની યથાર્થતા ચકાસો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>હા, બગીચો એ માનવસર્જિત અથવા કૃત્રિમ નિવસનતંત્ર છે. તેની યથાર્થતા નીચે મુજબ છે:</p><ul><li><strong>જૈવિક ઘટકો:</strong> બગીચામાં વિવિધ વનસ્પતિઓ (ઘાસ, વૃક્ષો, ફૂલો) અને વિવિધ પ્રાણીઓ (દેડકા, ખિસકોલી, પક્ષીઓ, કીટકો) વસે છે.</li><li><strong>અજૈવિક ઘટકો:</strong> બગીચાના સજીવો સૂર્યપ્રકાશ, હવા, પાણી અને જમીન જેવા અજૈવિક પરિબળો સાથે આંતરક્રિયા કરે છે.</li><li><strong>પરસ્પર નિર્ભરતા:</strong> અહીં વનસ્પતિઓ ઉત્પાદક તરીકે, કીટકો તૃણાહારી તરીકે અને પક્ષીઓ માંસાહારી તરીકે એક આહાર શૃંખલા બનાવે છે.</li><li><strong>વૃદ્ધિ અને પ્રજનન:</strong> બગીચાના બધા જ સજીવો એકબીજાની મદદથી અને પર્યાવરણ સાથે તાલમેલ સાધીને વૃદ્ધિ પામે છે.</li></ul><p>આમ, બગીચો નિવસનતંત્રના તમામ લક્ષણો ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: જ્યાં 'જીવ' અને 'પર્યાવરણ' વચ્ચે લેવડ-દેવડ હોય તે નિવસનતંત્ર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 4,
+      "question": "આહાર શૃંખલામાં ઉર્જાનો ઘટાડો શા માટે થાય છે? ૧૦ ટકાનો નિયમ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>આહાર શૃંખલામાં જ્યારે ઉર્જા એક સ્તરમાંથી બીજા સ્તરમાં સ્થાનાંતરિત થાય છે ત્યારે તેનો વ્યય થાય છે.</p><ul><li><strong>૧૦% નો નિયમ:</strong> લિન્ડેમેન નામના વૈજ્ઞાનિકે આપેલા નિયમ મુજબ, દરેક પોષક સ્તરે પ્રાપ્ય ઉર્જાના માત્ર <strong>૧૦%</strong> ભાગ જ આગળના પોષક સ્તરે વહન પામે છે.</li><li><strong>બાકીની ૯૦% ઉર્જા:</strong> સજીવના પોતાના શ્વસન, પાચન, વૃદ્ધિ, પ્રજનન અને ઉષ્મા સ્વરૂપે વાતાવરણમાં ગુમાવાય છે.</li><li><strong>પરિણામ:</strong> આ જ કારણ છે કે આહાર શૃંખલામાં કડીઓની સંખ્યા ૩-૪ થી વધુ હોતી નથી, કારણ કે ચોથા સ્તર પછી ઉર્જાનું પ્રમાણ નહિવત થઈ જાય છે.</li></ul><p>દા.ત., જો ઉત્પાદકો પાસે ૧૦૦૦ J ઉર્જા હોય, તો તૃણાહારીને ૧૦૦ J અને માંસાહારીને માત્ર ૧૦ J ઉર્જા મળશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: ૧૦% આગળ જાય, ૯૦% જલસામાં (ક્રિયામાં) વપરાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 4,
+      "question": "ઉપભોગીઓના પ્રકારો ઉદાહરણ સહિત સવિસ્તર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જે સજીવો ખોરાક માટે ઉત્પાદકો (વનસ્પતિ) પર પ્રત્યક્ષ કે પરોક્ષ રીતે આધાર રાખે છે તેને <strong>ઉપભોગીઓ</strong> કહે છે. તેના મુખ્ય ચાર પ્રકાર છે:</p><ul><li><strong>૧. તૃણાહારી (Primary Consumers):</strong> જે સીધા જ લીલી વનસ્પતિનો ખોરાક તરીકે ઉપયોગ કરે. દા.ત., ગાય, સસલું, તીડ.</li><li><strong>૨. માંસાહારી (Secondary Consumers):</strong> જે અન્ય પ્રાણીઓનું માંસ ખાય. તેમાં નાના માંસાહારી (દેડકો) અને ઉચ્ચ માંસાહારી (સિંહ) નો સમાવેશ થાય.</li><li><strong>૩. મિશ્રાહારી (Omnivores):</strong> જે વનસ્પતિ અને પ્રાણી બંનેનો ખોરાક તરીકે ઉપયોગ કરે. દા.ત., મનુષ્ય, વંદો, કાગડો.</li><li><strong>૪. પરોપજીવી (Parasites):</strong> જે અન્ય સજીવના શરીરમાં રહીને તેમાંથી પોષણ મેળવે. દા.ત., અમરવેલ, પટ્ટીકૃમિ, જૂ.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: તૃણા = વેજ | માંસા = નોન-વેજ | મિશ્રા = બંને | પરોપ = મફતનું ખાનારા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 4,
+      "question": "જૈવ વિઘટનીય અને જૈવ અવિઘટનીય કચરો એટલે શું? તેમની નિવસનતંત્ર પરની અસરોની ચર્ચા કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>૧. જૈવ વિઘટનીય કચરો:</strong> જે પદાર્થોનું જૈવિક પ્રક્રિયા (સૂક્ષ્મજીવો) દ્વારા વિઘટન થઈ શકે તેને જૈવ વિઘટનીય કહે છે. દા.ત., શાકભાજીની છાલ, કાગળ, સુતરાઉ કાપડ.</p><p><strong>૨. જૈવ અવિઘટનીય કચરો:</strong> જે પદાર્થોનું જૈવિક પ્રક્રિયા દ્વારા વિઘટન થઈ શકતું નથી. દા.ત., પ્લાસ્ટિક, કાચ, ધાતુના ટુકડા, DDT.</p><p><strong>અસરો:</strong></p><ul><li>અવિઘટનીય કચરો પર્યાવરણમાં લાંબા સમય સુધી રહે છે અને પ્રદૂષણ ફેલાવે છે.</li><li>તે જમીનની ફળદ્રુપતા ઘટાડે છે અને આહાર શૃંખલામાં પ્રવેશી 'જૈવિક વિશાલન' પ્રેરે છે.</li><li>તેના કારણે ગટર લાઈનો ચોક થઈ જાય છે અને રખડતા પ્રાણીઓના સ્વાસ્થ્યને નુકસાન થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: સડી જાય તે વિઘટનીય | ન સડે તે અવિઘટનીય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    }
+  ]
+}
