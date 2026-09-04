@@ -927,3 +927,100 @@ var Std10_SS_3Marks = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "ભારત: ખનીજ અને શક્તિનાં સંસાધનો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "તાંબાના ગુણધર્મો અને તેના ઉપયોગો જણાવો. (Board March 2020, 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>તાંબુ એ માનવી દ્વારા સર્વપ્રથમ વપરાશમાં આવેલી ધાતુ છે.</p><ul><li><strong>ગુણધર્મો:</strong> તાંબુ વિદ્યુતનું સુવાહક છે. તે અન્ય ધાતુઓ સાથે સરળતાથી ભળી શકે છે (મિશ્ર ધાતુ બનાવી શકે છે).</li><li><strong>ઉપયોગો:</strong></li><li>1. તેનો મુખ્ય ઉપયોગ વીજળીના સાધનો જેવા કે ટેલિફોન, રેડિયો, ટેલિવિઝન, રેફ્રિજરેટર અને એરકન્ડિશનર બનાવવામાં થાય છે.</li><li>2. તાંબામાં જસત ભેળવવાથી 'પિત્તળ' અને કલાઈ ભેળવવાથી 'કાંસું' બને છે.</li><li>3. વાસણો બનાવવા, સિક્કા બનાવવા અને છાપકામના બીબાં બનાવવામાં પણ તે વપરાય છે.</li><li>4. જંતુનાશક દવાઓ અને સ્ફોટક પદાર્થોમાં પણ તેનો ઉપયોગ થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: તાંબુ = તાર (વીજળી) + પિત્તળ (જસત) + કાંસું (કલાઈ). </p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board March 2020/2023 / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "બોક્સાઈટના ઉપયોગો અને તેના પ્રાપ્તિસ્થાનો વિશે માહિતી આપો. (Board March 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>બોક્સાઈટ એ એલ્યુમિનિયમની કાચી ધાતુ છે. તેની શોધ 1821માં ફ્રાન્સના લે બાક્સ (Les Baux) માં થઈ હતી.</p><ul><li><strong>ઉપયોગો:</strong></li><li>1. બોક્સાઈટમાંથી એલ્યુમિનિયમ મેળવવામાં આવે છે જે વજનમાં હલકું અને મજબૂત હોય છે.</li><li>2. તેનો ઉપયોગ ઘરવપરાશના વાસણો, વિદ્યુતના સાધનો અને રંગોમાં થાય છે.</li><li>3. ખાસ કરીને હવાઈ જહાજના બાંધકામમાં અને સીમેન્ટ બનાવવામાં તેનો ઉપયોગ થાય છે.</li><li><strong>પ્રાપ્તિસ્થાનો:</strong></li><li>ભારતમાં ઓડિશા, ગુજરાત, છત્તીસગઢ અને મહારાષ્ટ્રમાંથી તે મળે છે. ગુજરાતમાં જામનગર, ભાવનગર અને કચ્છ જિલ્લામાં તે મળી આવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 'બોક્સાઈટ - હલકું પણ હવામાં ઉડે' (હવાઈ જહાજ માટે બેસ્ટ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board March 2022 / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "મેંગેનીઝના ઉપયોગો વિશે ટૂંકનોંધ લખો. (Board July 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>મેંગેનીઝ લોખંડ-પોલાદ ઉદ્યોગ માટે અત્યંત મહત્વની ધાતુ છે.</p><ul><li><strong>મુખ્ય ઉપયોગો:</strong></li><li>1. લોખંડમાંથી પોલાદ (Steel) બનાવવા માટે મેંગેનીઝનો મુખ્યત્વે ઉપયોગ થાય છે.</li><li>2. પોલાદમાં સ્થિતિસ્થાપકતા અને મજબૂતાઈ લાવવા માટે તે જરૂરી છે.</li><li>3. આ ઉપરાંત રાસાયણિક ઉદ્યોગોમાં, બ્લીચિંગ પાવડર, જંતુનાશક દવાઓ, સૂકી બેટરી અને ટાઈલ્સ બનાવવામાં વપરાય છે.</li><li>4. કાચ ઉદ્યોગ, પ્લાસ્ટિક ઉદ્યોગ, અને ચામડાના ઉદ્યોગમાં પણ તેનો ઉપયોગ થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: મેંગેનીઝ = મજબૂતાઈ (Steel નો સાથી).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board July 2022 / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "બાયોગેસ વિશે ટૂંકનોંધ લખો. (Board July 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ખેતી નકામો કચરો, શેરડીના કૂચા, માનવ મળમૂત્ર અને પશુઓના છાણના સડવાથી જે ગેસ ઉત્પન્ન થાય છે તેને બાયોગેસ કહે છે.</p><ul><li><strong>લાક્ષણિકતાઓ:</strong></li><li>1. બાયોગેસ ઊર્જા મેળવવાનું બિન-પરંપરાગત અને પ્રદૂષણમુક્ત સાધન છે.</li><li>2. આ ગેસ દહનશીલ છે અને તેમાંથી મીથેન વાયુ છૂટો પડે છે.</li><li>3. ગેસનો ઉપયોગ રાંધવા અને લાઈટ મેળવવા માટે થાય છે, જ્યારે બાકી રહેલો કચરો ઉત્તમ પ્રકારનું ખાતર (Organic Fertilizer) બને છે.</li><li><strong>ગુજરાતની સ્થિતિ:</strong> ગુજરાતમાં સિદ્ધપુરના 'મેથાણ' ખાતે સૌથી મોટો આદર્શ બાયોગેસ પ્લાન્ટ છે. અમદાવાદના દસ્ક્રોઈમાં પણ પ્લાન્ટ આવેલો છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: બાયોગેસ = બમણો ફાયદો (ગેસ + ખાતર).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board July 2023 / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "ચૂનાના પથ્થરના ઉપયોગો જણાવો. (Board March 2024)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ચૂનાનો પથ્થર એક મહત્વનું અધાત્વિક ખનીજ છે.</p><ul><li><strong>ઉપયોગો:</strong></li><li>1. ચૂનાના પથ્થરનો સૌથી મોટો ઉપયોગ (લગભગ 70%) સિમેન્ટ ઉદ્યોગમાં થાય છે.</li><li>2. તેનો ઉપયોગ લોખંડ-પોલાદ ગાળવા માટે (Flux તરીકે) કરવામાં આવે છે.</li><li>3. રાસાયણિક ઉદ્યોગોમાં સોડાએશ, કોસ્ટિક સોડા અને બ્લીચિંગ પાવડર બનાવવામાં વપરાય છે.</li><li>4. ખાંડના શુદ્ધિકરણમાં અને કાગળ ઉદ્યોગમાં પણ તેનો ઉપયોગ થાય છે.</li><li><strong>પ્રાપ્તિ:</strong> ગુજરાતમાં જામનગર, જૂનાગઢ અને અમરેલી જિલ્લામાં ઉત્તમ પ્રકારના ચૂનાના પથ્થરો મળે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: ચૂનાનો પથ્થર = સિમેન્ટનો રાજા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board March 2024 / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "લોખંડના પ્રકારો અને તેના પ્રાપ્તિસ્થાનો વિશે લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>લોખંડ એ આધુનિક વિશ્વના ઔદ્યોગિક વિકાસનો પાયો ગણાય છે.</p><ul><li><strong>લોખંડના ચાર મુખ્ય પ્રકારો:</strong></li><li>1. હેમેટાઈટ (Hematite)</li><li>2. મેગ્નેટાઈટ (Magnetite)</li><li>3. લિમોનાઈટ (Limonite)</li><li>4. સીડેરાઈટ (Siderite)</li><li><strong>વહેંચણી:</strong> ભારતમાં સૌથી વધુ લોખંડ કર્ણાટક રાજ્યમાંથી મળે છે. તે પછી ઓડિશા, ઝારખંડ, છત્તીસગઢ અને ગોવામાંથી પણ વિપુલ પ્રમાણમાં લોખંડ પ્રાપ્ત થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: હે-મે-લિ-સી (હેમેટાઈટ, મેગ્નેટાઈટ, લિમોનાઈટ, સીડેરાઈટ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP / Textbook Chapter 12</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "અબરખના ગુણધર્મો અને તેના ઉપયોગો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ભારત વિશ્વમાં અબરખના ઉત્પાદનમાં પ્રથમ સ્થાન ધરાવે છે.</p><ul><li><strong>ગુણધર્મો:</strong> અબરખ અગ્નિરોધક અને વિદ્યુતનું અવાહક છે. તે ખૂબ પાતળા થરમાં વહેંચી શકાય છે.</li><li><strong>ઉપયોગો:</strong></li><li>1. વિદ્યુતના સાધનો જેવા કે ઈસ્ત્રી, રેડિયો, ટેલિફોન અને મોટરોમાં વપરાય છે.</li><li>2. વીજળીના વાયરો પર ઇન્સ્યુલેશન તરીકે વપરાય છે.</li><li>3. ચશ્માંના કાચ અને પારદર્શક પડ બનાવવા માટે તેનો ઉપયોગ થાય છે.</li><li><strong>મસ્કોવાઈટ:</strong> ભારતમાં 'મસ્કોવાઈટ' નામના અબરખનો વિપુલ જથ્થો મળી આવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: અબરખ = અવાહક (ઇસ્ત્રીની પ્લેટમાં નીચે હોય).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP / Textbook Content</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "ખનીજ સંરક્ષણ માટેના ઉપાયો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ખનીજો મર્યાદિત હોવાથી તેનું સંરક્ષણ અનિવાર્ય છે.</p><ul><li><strong>મુખ્ય ઉપાયો:</strong></li><li>1. <strong>યોગ્ય ટેકનોલોજી:</strong> ખનીજો કાઢતી વખતે આધુનિક ટેકનોલોજીનો ઉપયોગ કરવો જોઈએ જેથી તેનો બગાડ અટકાવી શકાય.</li><li>2. <strong>પુનઃચક્રણ (Recycling):</strong> લોખંડ, તાંબુ, એલ્યુમિનિયમ જેવી ધાતુના નકામા ટુકડાઓને ઓગાળીને ફરીથી ઉપયોગમાં લેવા જોઈએ.</li><li>3. <strong>વૈકલ્પિક ઉપયોગો:</strong> જે ખનીજો ખૂટી જવાની અણી પર હોય તેના વિકલ્પો શોધવા (દા.ત. કોલસાના સ્થાને સૌર ઉર્જા).</li><li>4. <strong>યોજનાબદ્ધ ઉપયોગ:</strong> જરૂર પૂરતો જ ઉપયોગ કરી ખનીજોને ભવિષ્યની પેઢી માટે બચાવવા જોઈએ.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: Reduce, Reuse, Recycle.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "કોલસાના પ્રકારો વિશે માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કાર્બનના પ્રમાણને આધારે કોલસાના મુખ્ય ચાર પ્રકારો પડે છે:</p><ul><li>1. <strong>એન્થ્રેસાઈટ (Anthracite):</strong> તે સૌથી શ્રેષ્ઠ પ્રકારનો કોલસો છે. તેમાં કાર્બનનું પ્રમાણ 95% થી વધુ હોય છે.</li><li>2. <strong>બિટ્યુમિનસ (Bituminous):</strong> ભારતમાં સૌથી વધુ વપરાતો કોલસો. તેમાં 70% થી 90% કાર્બન હોય છે.</li><li>3. <strong>લિગ્નાઈટ (Lignite):</strong> તેમાં 40% થી 55% કાર્બન હોય છે. ગુજરાતના કચ્છમાં આ કોલસો મળે છે.</li><li>4. <strong>પીટ (Peat):</strong> તે કોલસાના નિર્માણની પ્રાથમિક અવસ્થા છે. તેમાં કાર્બનનું પ્રમાણ સૌથી ઓછું હોય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: એ-બી-લિ-પી (એન્થ્રેસાઈટ, બિટ્યુમિનસ, લિગ્નાઈટ, પીટ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP / NCERT Syllabus</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "સૌર ઊર્જા વિશે ટૂંકનોંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સૂર્ય એ પૃથ્વી પરની ઉર્જાનો મુખ્ય સ્ત્રોત છે. ભારત ઉષ્ણકટિબંધીય દેશ હોવાથી અહીં સૌર ઉર્જાની પુષ્કળ શક્યતાઓ છે.</p><ul><li>1. સૌર ઉર્જા એ અક્ષય (ક્યારેય ન ખૂટે તેવી) અને પ્રદૂષણમુક્ત ઉર્જા છે.</li><li>2. તેનો ઉપયોગ સોલર કુકર, સોલર વોટર હીટર અને સોલર પેનલ્સ દ્વારા વીજળી ઉત્પન્ન કરવા માટે થાય છે.</li><li>3. <strong>ગુજરાતમાં સ્થાન:</strong> પાટણ જિલ્લાના 'ચારણકા' ગામે એશિયાનો મોટો સોલર પાર્ક આવેલો છે.</li><li>4. ભારતના મોટાભાગના ગામડાઓમાં સ્ટ્રીટ લાઈટ અને ખેતીમાં સોલર પંપનો વપરાશ વધ્યો છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: સૌર ઉર્જા = સૂર્યનું વરદાન + પ્રદૂષણનું સમાધાન.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook / NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 3,
+      "question": "કુદરતી ગેસ (Natural Gas) નું મહત્વ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કુદરતી ગેસ એ પેટ્રોલિયમની સાથે સંલગ્ન ખનીજ છે.</p><ul><li>1. તે પ્રદૂષણ ઓછું ફેલાવે છે અને પર્યાવરણમિત્ર (Eco-friendly) ગણાય છે.</li><li>2. રાંધણ ગેસ (LPG) અને વાહનોમાં ઇંધણ (CNG) તરીકે તેનો વ્યાપક ઉપયોગ થાય છે.</li><li>3. રાસાયણિક ખાતર ઉદ્યોગ અને પેટ્રોકેમિકલ્સમાં પણ તે કાચા માલ તરીકે વપરાય છે.</li><li>4. ભારતમાં ખંભાત બેઝિન, કાવેરી બેઝિન અને બોમ્બે હાઈ ખાતે કુદરતી ગેસના વિપુલ ભંડારો છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: CNG = સસ્તું + સ્વચ્છ + સુરક્ષિત.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept / NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 3,
+      "question": "પવન ઊર્જા (Wind Energy) વિશે માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ભારત પવન ઊર્જા મેળવતો વિશ્વનો અગ્રણી દેશ છે.</p><ul><li>1. પવનચક્કી દ્વારા પવનની ગતિશક્તિનું વિદ્યુત શક્તિમાં રૂપાંતર કરવામાં આવે છે.</li><li>2. ભારત પવન ઊર્જા ઉત્પાદનમાં વિશ્વમાં પાંચમું સ્થાન ધરાવે છે.</li><li>3. ગુજરાતમાં જામનગરના 'લાંબા' અને કચ્છના 'માંડવી' ખાતે વિન્ડ ફાર્મ આવેલા છે.</li><li>4. દરિયાકાંઠાના વિસ્તારો જ્યાં પવનની ગતિ સતત અને વધુ હોય ત્યાં આ પ્લાન્ટ વધુ સફળ છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: પવનચક્કી = દરિયાકિનારો + વીજળી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP / Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 3,
+      "question": "ખનીજોનું વર્ગીકરણ (Metallic & Non-metallic) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ખનીજોને મુખ્યત્વે બે ભાગમાં વહેંચી શકાય છે:</p><ul><li><strong>1. ધાત્વિક ખનીજો (Metallic):</strong> જેમાં ધાતુનું પ્રમાણ હોય. જેમ કે, લોખંડ, તાંબુ, સોનું, ચાંદી, મેંગેનીઝ. તેને ટીપીને આકાર આપી શકાય છે.</li><li><strong>2. અધાત્વિક ખનીજો (Non-metallic):</strong> જેમાં ધાતુ હોતી નથી. જેમ કે, ચૂનાનો પથ્થર, અબરખ, જિપ્સમ, ગંધક, ફ્લોરસ્પાર. તે બરડ હોય છે.</li><li><strong>3. શક્તિનાં સંસાધનો:</strong> જેમાંથી ઉર્જા મળે છે. જેમ કે, કોલસો, ખનીજ તેલ અને કુદરતી વાયુ.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: ધાત્વિક = મજબૂત (ટીપી શકાય), અધાત્વિક = બરડ (તૂટી જાય).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Basic / Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 3,
+      "question": "ભૂતાપીય ઊર્જા (Geothermal Energy) ટૂંકમાં સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પૃથ્વીના આંતરિક ભાગમાં રહેલી ગરમીનો ઉપયોગ કરીને મેળવવામાં આવતી ઉર્જાને ભૂતાપીય ઊર્જા કહે છે.</p><ul><li>1. પૃથ્વીના પેટાળમાં રહેલું પાણી વરાળ બનીને સપાટી પર આવે છે, જેનો ઉપયોગ ટર્બાઇન ફેરવી વીજળી ઉત્પન્ન કરવા થાય છે.</li><li>2. આ ઉર્જા પ્રદૂષણ રહિત છે અને 24 કલાક ઉપલબ્ધ હોય છે.</li><li>3. <strong>ગુજરાતમાં પ્રાપ્તિ:</strong> ગુજરાતમાં તુલસીશ્યામ, ઉનાઈ, ટુવા અને લસુન્દ્રા ખાતે ગરમ પાણીના ઝરા આવેલા છે, જ્યાં આવી ઉર્જાની શક્યતા છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: ભૂતાપીય = પૃથ્વીની અંદરની ગરમી (વરાળ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 3,
+      "question": "સીસા (Lead) ના ગુણધર્મો અને તેના ઉપયોગો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સીસાની કાચી ધાતુને 'ગેલેના' કહેવામાં આવે છે.</p><ul><li><strong>ગુણધર્મો:</strong> સીસું નરમ અને વજનમાં ભારે ધાતુ છે. તે ધ્વનિ શોષક છે.</li><li><strong>ઉપયોગો:</strong></li><li>1. તેનો મુખ્ય ઉપયોગ સ્ટોરેજ બેટરી અને ઇલેક્ટ્રિક વાયરોમાં થાય છે.</li><li>2. રંગો, કાચ અને રબર ઉદ્યોગમાં તેનો ઉપયોગ કરવામાં આવે છે.</li><li>3. બંદૂકની ગોળીઓ અને લશ્કરી સાધનો બનાવવા માટે પણ તે વપરાય છે.</li><li>ભારતમાં રાજસ્થાન અને આંધ્રપ્રદેશમાંથી તે મુખ્યત્વે મળે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: સીસું = ગેલેના (કાચી ધાતુ) + બેટરી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Geography Notes</p></div>"
+    }
+  ]
+}
