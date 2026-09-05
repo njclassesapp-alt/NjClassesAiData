@@ -1473,3 +1473,82 @@ var Std10_SS_3Marks = {
     }
   ]
 }
+,
+"18": {
+  "chapterName": "પ્રકરણ 18",
+  "chapterTitle": "ભાવવધારો અને ગ્રાહક જાગૃતિ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "ભાવવધારાના કારણ તરીકે 'નાણાંના પુરવઠામાં વધારો' સમજાવો. (માર્ચ-2020, 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અર્થતંત્રમાં નાણાંનો પુરવઠો વધવાથી ભાવવધારો થાય છે, જેના મુખ્ય ત્રણ કારણો નીચે મુજબ છે:</p><ul><li><strong>ખાધ પુરવણી દ્વારા:</strong> સરકાર જ્યારે અંદાજપત્રની ખાધ પૂરવા માટે નવા નાણાંનું સર્જન કરે છે, ત્યારે બજારમાં નાણાંનો પુરવઠો વધે છે.</li><li><strong>નાણાંના ચલણવેગમાં વધારો:</strong> લોકોના હાથમાં નાણાં વધવાથી તેમની ખરીદશક્તિ વધે છે. પરિણામે વસ્તુઓની માંગ વધે છે, પણ તેટલા પ્રમાણમાં પુરવઠો ન વધતા ભાવ વધે છે.</li><li><strong>ધિરાણ નીતિ:</strong> બેંકો દ્વારા વ્યાજના દર ઘટાડીને સસ્તું ધિરાણ (લોન) આપવામાં આવે ત્યારે લોકો પાસે નાણાં વધે છે, જે સરવાળે ભાવવધારામાં પરિણમે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: નાણાં વધે -> ખિસ્સું ગરમ થાય -> ડિમાન્ડ વધે -> ભાવ ચડે! (નાણાં-માંગ-ભાવનો ત્રિકોણ)</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board March 2020, 2022</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "ગ્રાહકોનું શોષણ કઈ કઈ રીતે થાય છે? (માર્ચ-2019, ઓગસ્ટ-2020)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ઉત્પાદકો અને વેપારીઓ દ્વારા ગ્રાહકોનું શોષણ નીચે મુજબની વિવિધ રીતે થાય છે:</p><ul><li><strong>જથ્થામાં ઘટ:</strong> પેકિંગ પર લખેલ વજન કરતા ઓછું વજન આપીને કે હલકા પ્રકારના માપલા-તોલાનો ઉપયોગ કરીને ગ્રાહકને છેતરવામાં આવે છે.</li><li><strong>ગુણવત્તામાં ઉણપ:</strong> નક્કી કરેલા માપદંડ કરતા હલકી ગુણવત્તાવાળી કે ભેળસેળવાળી વસ્તુઓ પધરાવી દેવી.</li><li><strong>વધુ કિંમત વસૂલવી:</strong> છાપેલી કિંમત (MRP) કરતા વધુ કિંમત વસૂલવી અથવા કૃત્રિમ અછત ઊભી કરી કાળાબજાર કરવા.</li><li><strong>ભ્રામક જાહેરાતો:</strong> ટીવી કે પેપરમાં લોભામણી અને ખોટી જાહેરાતો આપી ગ્રાહકને વસ્તુ ખરીદવા લલચાવવા.</li><li><strong>સેવામાં ખામી:</strong> વેચાણ પછીની સેવાઓ (After sales service) સંતોષકારક ન આપવી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 'ઓછું તોલે, ભેળસેળ બોલે, વધુ ભાવ તોલે અને જાહેરાત ખોટી ખોલે!'</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Repeated IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "ગ્રાહકના કોઈપણ ત્રણ અધિકારો (Rights) વિશે ટૂંકમાં સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ગ્રાહક સુરક્ષા ધારા મુજબ ગ્રાહકને મળેલા મુખ્ય ત્રણ અધિકારો નીચે મુજબ છે:</p><ul><li><strong>સલામતીનો અધિકાર:</strong> ગ્રાહક જે વસ્તુ કે સેવાનો ઉપયોગ કરે તેનાથી તેના સ્વાસ્થ્ય કે જીવનને જોખમ હોય તો તેની સામે રક્ષણ મેળવવાનો અધિકાર છે. (દા.ત. ઈલેક્ટ્રિક ઉપકરણોની ગુણવત્તા).</li><li><strong>માહિતી મેળવવાનો અધિકાર:</strong> વસ્તુની કિંમત, જથ્થો, શુદ્ધતા, બનાવ્યાની તારીખ વગેરે જેવી તમામ માહિતી મેળવવાનો ગ્રાહકને અધિકાર છે.</li><li><strong>પસંદગી કરવાનો અધિકાર:</strong> બજારમાં ઉપલબ્ધ વિવિધ વસ્તુઓમાંથી પોતાની જરૂરિયાત મુજબની વસ્તુ સ્પર્ધાત્મક ભાવે પસંદ કરવાનો અધિકાર છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 'સલામત રહો, માહિતી લો અને મનપસંદ પસંદ કરો!' (સ.મા.પ.)</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept Building</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "ખરીદી કરતી વખતે ગ્રાહકે કઈ સાવચેતી રાખવી જોઈએ? (ગ્રાહકની ફરજો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ગ્રાહકે જાગૃત બનીને નીચે મુજબની ફરજો બજાવવી જોઈએ:</p><ul><li><strong>બિલનો આગ્રહ:</strong> કોઈપણ વસ્તુની ખરીદી કરતી વખતે તેનું પાકું બિલ (Tax Invoice) અચૂક લેવું અને તેમાં વિગતો તપાસવી.</li><li><strong>ગુણવત્તાના ચિહ્નો:</strong> વસ્તુ ખરીદતી વખતે ISI, AGMARK કે હોલમાર્ક જેવા પ્રમાણિત ચિહ્નો તપાસીને જ ખરીદી કરવી.</li><li><strong>જાહેરાતોથી બચવું:</strong> લોભામણી જાહેરાતો જોઈને અંજાઈ ન જવું, પરંતુ વસ્તુની ઉપયોગિતા અને કિંમતની અન્ય વસ્તુઓ સાથે તુલના કરવી.</li><li><strong>ગ્રાહક મંડળો:</strong> ગ્રાહકોએ પોતાના હિતોના રક્ષણ માટે ગ્રાહક સુરક્ષા મંડળોમાં જોડાવું જોઈએ.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 'બિલ લો, માર્કો જોવો અને જાહેરાતથી છેતરાશો નહિ!'</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP Section C</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "ભાવવધારો આર્થિક વિકાસમાં પોષક પણ છે અને અવરોધક પણ - સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>પોષક તરીકે:</strong> સ્થિરતા સાથેનો મર્યાદિત ભાવવધારો ઉત્પાદકોને નફો વધારે છે, જે તેમને નવા રોકાણ અને ઉત્પાદન કરવા પ્રોત્સાહિત કરે છે, જેનાથી રોજગારી વધે છે.</li><li><strong>અવરોધક તરીકે:</strong> જ્યારે ભાવવધારો સતત અને અતિશય હોય, ત્યારે લોકોની ખરીદશક્તિ ઘટે છે. સામાન્ય માણસનું જીવન ધોરણ કથળે છે.</li><li>મૂડી રોકાણ ઘટે છે અને બચતો ઓછી થાય છે, જેના કારણે દેશનો આર્થિક વિકાસ રૂંધાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: ભાવ વધે - નફો વધે (પોષક), પણ જો હદ બહાર વધે - બચત ઘટે (અવરોધક)!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB textbook page analysis</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "જાહેર વિતરણ પ્રણાલી (PDS) ભાવવધારાને અંકુશમાં રાખવામાં કેવી રીતે મદદરૂપ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>વાજબી ભાવની દુકાનો:</strong> સરકાર PDS હેઠળ ગરીબી રેખા નીચેના (BPL) અને અંત્યોદય કુટુંબોને નિયત જથ્થામાં જીવનજરૂરી વસ્તુઓ રાહત દરે પૂરી પાડે છે.</li><li><strong>બજાર ભાવ પર અંકુશ:</strong> ખુલ્લા બજારમાં જ્યારે ભાવ વધે ત્યારે PDS દ્વારા વસ્તુઓ પૂરી પાડીને વેપારીઓની નફાખોરી પર અંકુશ લાવી શકાય છે.</li><li><strong>રક્ષણાત્મક કવચ:</strong> આ પ્રણાલી ગરીબ વર્ગને મોંઘવારીના માર સામે રક્ષણ આપે છે અને તેમની લઘુત્તમ જરૂરિયાતો સંતોષે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: PDS = ગરીબોની સસ્તી દુકાન + વેપારીઓ પર લગામ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Expert Notes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "વસ્તુઓની ગુણવત્તાના માપદંડ અંગેની રાષ્ટ્રીય સંસ્થાઓ વિશે માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ભારતમાં વસ્તુઓની ગુણવત્તા જાળવવા માટે નીચે મુજબની સંસ્થાઓ કાર્યરત છે:</p><ul><li><strong>BIS (Bureau of Indian Standards):</strong> તે અગાઉ ISI તરીકે ઓળખાતી હતી. તે ઉદ્યોગ અને ઈલેક્ટ્રિક ઉપકરણો માટે માપદંડ નક્કી કરે છે.</li><li><strong>AGMARK:</strong> તે ખેતી આધારિત ઉત્પાદનો, વન પેદાશો અને તેજાના માટે વાપરવામાં આવતો માર્કો છે. તે 'માર્કેટિંગ એન્ડ ઇન્સ્પેક્શન ડિરેક્ટોરેટ' દ્વારા અપાય છે.</li><li><strong>FPO (Fruit Product Order):</strong> જામ, જ્યુસ, ફળ અને શાકભાજીના પેકિંગ કરેલા ખોરાક પર આ માર્કો લગાવવામાં આવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: લોખંડ માટે BIS, ખેતી માટે AGMARK અને જ્યુસ-જામ માટે FPO!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Textbook Identification Marks Section</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "વસ્તીવધારો એ ભાવવધારાનું એક મહત્વનું કારણ છે. વિધાન સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ભારતમાં વસ્તીવધારો ખૂબ જ ઝડપથી થઈ રહ્યો છે. વધતી જતી વસ્તીને કારણે ચીજવસ્તુઓ અને સેવાઓની માંગમાં પણ સતત વધારો થાય છે.</li><li>જેટલી ઝડપે માંગ વધે છે, તેટલી ઝડપે ઉત્પાદન કે પુરવઠો વધી શકતો નથી.</li><li>માંગ અને પુરવઠા વચ્ચેની આ અસમતુલાને કારણે અછત સર્જાય છે, જે છેવટે ભાવવધારામાં પરિણમે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: વધુ માણસો = વધુ માંગ = ઓછો માલ = મોંઘો ભાવ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> General Economic Perspective</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "કાળું નાણું ભાવવધારાને કેવી રીતે પોષે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જે આવક પર કર (Tax) ભરાયો ન હોય તેને કાળું નાણું કહે છે. કાળું નાણું ધરાવતા લોકો ઇન્કમટેક્સના ડરથી તે નાણાં બચાવવાને બદલે ઝડપથી ખર્ચવાની વૃત્તિ ધરાવે છે.</li><li>તેઓ બિનજરૂરી અને મોજશોખની વસ્તુઓ ગમે તેટલા ઊંચા ભાવે ખરીદવા તૈયાર થાય છે.</li><li>આનાથી બજારમાં વસ્તુઓની કૃત્રિમ માંગ વધે છે અને પરિણામે ભાવવધારો થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: ટેક્સ ચોરીનું નાણું (કાળું નાણું) હંમેશા આડેધડ ખર્ચાય અને ભાવ વધારે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Economic Terms Analysis</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "ગ્રાહકોએ મંડળો/સંગઠનો કેમ રચવા જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>સામૂહિક અવાજ:</strong> એકલો ગ્રાહક મજબૂત ઉત્પાદક સામે લડી શકતો નથી, પણ સંગઠિત થઈને ગ્રાહકો પોતાની લડત મજબૂત બનાવી શકે છે.</li><li><strong>માર્ગદર્શન અને સહાય:</strong> આ મંડળો ગ્રાહકોને કાયદાકીય જાણકારી આપે છે અને કોર્ટમાં કેસ લડવામાં મદદરૂપ થાય છે.</li><li><strong>દબાણ જૂથ:</strong> ગ્રાહક મંડળો સરકાર પર ગ્રાહકલક્ષી નીતિઓ ઘડવા માટે દબાણ લાવી શકે છે અને વેપારીઓને અનૈતિક રીતરસમો બંધ કરવા ફરજ પાડી શકે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 'એકતામાં બળ છે' - ગ્રાહક સંગઠન એટલે છેતરપિંડી સામે રક્ષણની ઢાલ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Consumer Awareness Initiatives</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 3,
+      "question": "ભાવ નિયંત્રણ માટે 'વહીવટી પગલાં' કયા કયા હોઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>સરકાર આવશ્યક ચીજવસ્તુઓનો ભાવ નિર્ધારિત કરે છે અને તે ભાવે જ વેચવા વેપારીઓને સૂચના આપે છે.</li><li><strong>સ્ટોક મર્યાદા:</strong> વેપારીઓ માલનો સંગ્રહ ન કરે તે માટે સ્ટોકની મર્યાદા નક્કી કરવામાં આવે છે.</li><li><strong>પાસા (PASA):</strong> સંગ્રહખોરો, કાળાબજારિયાઓ અને નફાખોરો વિરુદ્ધ સરકાર 'પ્રિવેન્શન ઓફ એન્ટી સોશિયલ એક્ટિવિટીઝ એક્ટ' (PASA) હેઠળ કડક કાર્યવાહી કરે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: ભાવ નક્કી કરવા + ચેકિંગ કરવું + જેલ (PASA) ભેગા કરવા!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Administrative Measures for Price Control</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 3,
+      "question": "ગ્રાહક અદાલતમાં ફરિયાદ કોણ કરી શકે? અને ક્યાં કરી શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>કોણ કરી શકે:</strong> પોતે ગ્રાહક, કેન્દ્ર કે રાજ્ય સરકાર, ગ્રાહક મંડળ અથવા ગ્રાહક વતી એક કે તેથી વધુ ગ્રાહકો સામૂહિક રીતે ફરિયાદ કરી શકે છે.</li><li><strong>ક્યાં કરી શકે:</strong> નુકસાનની રકમ મુજબ ત્રિ-સ્તરીય માળખામાં: <br> 1. જિલ્લા ફોરમ (Rs. 20 લાખ સુધી) <br> 2. રાજ્ય કમિશન (Rs. 20 લાખ થી 1 કરોડ) <br> 3. રાષ્ટ્રીય કમિશન (Rs. 1 કરોડથી વધુ).</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: જિલ્લા (20L) -> રાજ્ય (1Cr) -> દેશ (1Cr+). ગમે તે ગ્રાહક લડી શકે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Consumer Protection Act structure</p></div>"
+    }
+  ]
+}
