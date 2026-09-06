@@ -241,3 +241,100 @@ var Std10_SS_2Marks = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "ભારતનો સાહિત્યિક વારસો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "મહર્ષિ પાણિનીના સંસ્કૃત વ્યાકરણ ગ્રંથ વિશે માહિતી આપો. (March 2020, 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>સંસ્કૃત ભાષાના મહાન વ્યાકરણશાસ્ત્રી મહર્ષિ પાણિની હતા.</li><li>તેમણે ઈ.સ. પૂર્વે ચોથી સદીમાં 'અષ્ટાધ્યાયી' નામનો પ્રસિદ્ધ વ્યાકરણ ગ્રંથ લખ્યો હતો.</li><li>આ ગ્રંથ સંસ્કૃત ભાષાના નિયમો માટેનો પાયાનો અને પ્રમાણભૂત ગ્રંથ ગણાય છે.</li><li>વિશ્વમાં વ્યાકરણના શ્રેષ્ઠ ગ્રંથોમાં તેની ગણના થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: પાણિની = પાણી જેવી ચોખ્ખી ભાષા માટેનું વ્યાકરણ (અષ્ટાધ્યાયી - 8 અધ્યાય).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board 2020/2023</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "ભારતીય સાહિત્યના સૌથી પ્રાચીન ગ્રંથ 'ઋગ્વેદ' વિશે જણાવો. (March 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ઋગ્વેદ એ ભારતીય સાહિત્યનો અને વિશ્વનો સૌથી પ્રાચીન દસ્તાવેજ મનાય છે.</li><li>તેમાં કુલ 1028 'સૂક્તો' (સ્તોત્રો) આવેલા છે.</li><li>ઋગ્વેદ 10 ભાગોમાં વહેંચાયેલું અદભૂત પુસ્તક છે.</li><li>આ સ્તોત્રો મુખ્યત્વે દેવોની સ્તુતિઓ માટે રચાયેલા છે, જે યજ્ઞ પ્રસંગે કરવામાં આવતી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઋગ્વેદ = 10 ભાગ + 1028 સૂક્તો (સૌથી જૂનો ગ્રંથ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board 2022</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "બૌદ્ધ સાહિત્યના 'ત્રિપિટક' વિશે ટૂંકમાં સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>પ્રારંભિક બૌદ્ધ સાહિત્ય 'પાલી' ભાષામાં લખાયું હતું.</li><li>તેના મુખ્ય ત્રણ ભાગો છે, જેને 'ત્રિપિટક' (ત્રણ ટોપલીઓ) કહેવામાં આવે છે:</li><li><strong>1. સુત્તપિટક:</strong> જેમાં બુદ્ધના વિચારો અને સંવાદો છે.</li><li><strong>2. વિનયપિટક:</strong> જેમાં બૌદ્ધ સંઘના નિયમો આપવામાં આવ્યા છે.</li><li><strong>3. અભિધમ્મપિટક:</strong> જેમાં બૌદ્ધ ધર્મનું તત્વજ્ઞાન સમજાવ્યું છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિપિટક (S.V.A.) = સુત્ત, વિનય અને અભિધમ્મ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "અમીર ખુશરોનો ટૂંકમાં પરિચય આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>અમીર ખુશરો દિલ્હી સલ્તનત કાળના મહાન કવિ, ઇતિહાસકાર અને સંગીતકાર હતા.</li><li>તે હઝરત નિઝામુદ્દીન ઓલિયાના શિષ્ય હતા.</li><li>તેમણે 'આશિકા', 'નૂહ', 'સિપિહર' અને 'કિરાતુલ સદાયન' જેવી મહત્વની કૃતિઓ રચી હતી.</li><li>તેઓ પોતાને 'તૂતી-એ-હિન્દ' (ભારતનો પોપટ) તરીકે ઓળખાવતા હતા.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમીર ખુશરો = તૂતી-એ-હિન્દ (ભારતનો પોપટ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "દ્રવિડ કુળની ભાષાઓ અને તેના સૌથી પ્રાચીન સાહિત્ય વિશે જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>દ્રવિડ કુળની મુખ્ય ચાર ભાષાઓ છે: તમિલ, તેલુગુ, કન્નડ અને મલયાલમ.</li><li>તમિલ એ આ કુળની સૌથી જૂની ભાષા છે.</li><li>ભારતનું 'સંગમ સાહિત્ય' તમિલ ભાષામાં રચાયેલું છે.</li><li>સંગમ સાહિત્યમાં રાજનીતિ, યુદ્ધ અને પ્રેમ જેવા વિષયો પર ભાર મૂકવામાં આવ્યો હતો.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T-T-K-M (તમિલ, તેલુગુ, કન્નડ, મલયાલમ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "ગુપ્ત યુગને 'સંસ્કૃત સાહિત્યનો સુવર્ણયુગ' કેમ કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ગુપ્ત યુગમાં સંસ્કૃત સાહિત્યમાં કાવ્ય અને નાટકોનો સુવર્ણ વિકાસ થયો હતો.</li><li>આ સમયગાળામાં મહાકવિ કાલિદાસ, ભવભૂતિ, ભારવી, ભર્તુહરિ અને બાણભટ્ટ જેવા મહાન લેખકો થયા.</li><li>કાલિદાસે 'શાકુંતલમ્' જેવું વિશ્વવિખ્યાત નાટક આપ્યું.</li><li>દેશ-વિદેશમાં સંસ્કૃત ભાષાની ખ્યાતિ આ યુગમાં સૌથી વધુ ફેલાઈ હતી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુપ્ત યુગ = કાલિદાસનો યુગ = સુવર્ણયુગ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "યજુર્વેદ વિશે ટૂંકી સમજૂતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>યજુર્વેદ 'યજ્ઞનો વેદ' કહેવાય છે.</li><li>તે ગદ્ય અને પદ્ય એમ બંને સ્વરૂપે રચાયેલો છે.</li><li>તેમાં યજ્ઞ વખતે બોલવામાં આવતા મંત્રો અને યજ્ઞની ક્રિયાઓનું વર્ણન કરવામાં આવ્યું છે.</li><li>યજ્ઞના વિધિ-વિધાનો સમજવા માટે આ વેદ અત્યંત મહત્વનો છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ય' પરથી યજુર્વેદ અને 'ય' પરથી યજ્ઞ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "સામવેદને 'સંગીતની ગંગોત્રી' શા માટે કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>સામવેદમાં ઋગ્વેદની ઋચાઓનું ગાન કઈ રીતે કરવું તેની પદ્ધતિ સમજાવવામાં આવી છે.</li><li>આ શ્લોકો રાગ અને તાલ સાથે ગાવામાં આવે છે.</li><li>ભારતીય સંગીતની ઉત્પત્તિ સામવેદમાંથી થઈ હોવાનું મનાય છે.</li><li>તેથી જ સામવેદને 'સંગીતની ગંગોત્રી' કહેવામાં આવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ' પરથી સામવેદ અને 'સ' પરથી સંગીત.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "અબુલ ફઝલ દ્વારા રચિત સાહિત્યિક ગ્રંથો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>અબુલ ફઝલ અકબરના સમયના મહાન લેખક હતા.</li><li>તેમણે 'આઈને-એ-અકબરી' અને 'અકબરનામા' નામના ગ્રંથોની રચના કરી હતી.</li><li>'આઈને-એ-અકબરી' માં ભારતીય રીત-રિવાજો, શાસન પદ્ધતિ અને ધર્મનું વર્ણન છે.</li><li>તેમણે આ ગ્રંથો ફારસી ભાષામાં લખ્યા હતા.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અબુલ ફઝલ = અકબરનો મિત્ર + આઈને-એ-અકબરી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "કાલિદાસની મુખ્ય ચાર કૃતિઓના નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>મહાકવિ કાલિદાસ સંસ્કૃત સાહિત્યના સર્વોચ્ચ કવિ ગણાય છે. તેમની કૃતિઓ:</li><li>1. અભિજ્ઞાનશાકુંતલમ્</li><li>2. વિક્રમોર્વશીયમ્</li><li>3. કુમારસંભવમ્</li><li>4. રઘુવંશમ્ / મેઘદૂતમ્</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાલિદાસ = વિશ્વપ્રસિદ્ધ 'શાકુંતલમ્' લેખક.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "મધ્યકાલીન યુગના ગુજરાતી સાહિત્યના પ્રદાન વિશે લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>મધ્યકાલીન યુગમાં જૂની ગુજરાતી ભાષામાં ભક્તિ સાહિત્ય રચાયું.</li><li>નરસિંહ મહેતા, મીરાંબાઈ, અખો, પ્રેમાનંદ, શામળ અને પ્રીતમ જેવા કવિઓએ મહત્વનું પ્રદાન કર્યું.</li><li>પ્રેમાનંદના 'આખ્યાન' અને અખાના 'છપ્પા' ખૂબ જાણીતા બન્યા.</li><li>આ સાહિત્ય દ્વારા જનતામાં ભક્તિ અને નૈતિકતાનો પ્રસાર થયો.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નરસિંહ, મીરા અને પ્રેમાનંદ = ગુજરાતી સાહિત્યના પાયા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "વેદાંગ સાહિત્યમાં કયા વિષયોનો સમાવેશ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>વેદાંગ સાહિત્ય વેદોને સમજવા માટે રચાયેલું પૂરક સાહિત્ય છે.</li><li>તેમાં મુખ્યત્વે છ વિષયોનો સમાવેશ થાય છે:</li><li>1. કર્મકાંડ, 2. જ્યોતિષ, 3. વ્યાકરણ, 4. છંદ, 5. શિક્ષા અને 6. કલ્પ.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેદના અંગો એટલે વેદાંગ (કુલ 6).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "બાબરના સાહિત્યિક પ્રદાન વિશે ટૂંક નોંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>મુઘલ બાદશાહ બાબર પોતે પણ એક કુશળ લેખક હતો.</li><li>તેણે તુર્કી ભાષામાં 'તુઝુક-એ-બાબરી' (બાબરનામા) નામની આત્મકથા લખી હતી.</li><li>આ ગ્રંથનું પાછળથી ફારસીમાં ભાષાંતર કરવામાં આવ્યું હતું.</li><li>તેમાં બાબરના જીવન અને તેના યુદ્ધોના વર્ણન સાથે પ્રકૃતિનું સુંદર વર્ણન છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાબર = બાબરી (આત્મકથા).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "ઉપનિષદો વિશે પ્રાથમિક માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ઉપનિષદ સાહિત્ય બ્રહ્માંડનો આરંભ, જીવન, મૃત્યુ અને આત્મા-પરમાત્માના ગૂઢ પ્રશ્નોની ચર્ચા કરે છે.</li><li>તે સંવાદ સ્વરૂપે હોય છે.</li><li>બૃહદારણ્યક અને છાંદોગ્ય પ્રારંભિક મહત્વના ઉપનિષદો છે.</li><li>મુક્તિકો ઉપનિષદ મુજબ તેની કુલ સંખ્યા 108 છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપનિષદ = તત્વજ્ઞાન (આત્મા-પરમાત્મા).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "વલ્લભી વિદ્યાપીઠમાં કયા વિષયોનું શિક્ષણ અપાતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ગુજરાતની વલ્લભી વિદ્યાપીઠ સાતમી સદીમાં શિક્ષણનું પ્રખ્યાત કેન્દ્ર હતું.</li><li>અહીં બૌદ્ધ ધર્મના હીનયાન પંથનું શિક્ષણ મુખ્ય હતું.</li><li>આ ઉપરાંત અહીં વેદ, પુરાણ, વ્યાકરણ, જ્યોતિષ, ન્યાય અને ચિકિત્સાશાસ્ત્ર જેવા અનેક વિષયોનું શિક્ષણ અપાતું હતું.</li><li>વિદેશી મુસાફર ઇત્સિંગે પણ તેની મુલાકાત લીધી હતી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વલ્લભી = ગુજરાતની પ્રાચીન યુનિવર્સિટી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    }
+  ]
+}
