@@ -1631,3 +1631,82 @@ var Std10_SS_3Marks = {
     }
   ]
 }
+,
+"20": {
+  "chapterName": "પ્રકરણ 20",
+  "chapterTitle": "ભારતની સામાજિક સમસ્યાઓ અને પડકારો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "સાંપ્રદાયિકતા દૂર કરવાના ઉપાયો જણાવો. (March - 2020, 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>શિક્ષણની ભૂમિકા:</strong> શિક્ષણમાં વિષયવસ્તુ તરીકે બધા ધર્મોના સારા તત્વોને સામેલ કરવા જોઈએ. શાળાઓમાં સર્વધર્મ પ્રાર્થનાઓ અને સામાજિક ઉત્સવોની ઉજવણી કરવી જોઈએ જેથી વિદ્યાર્થીઓમાં સહિષ્ણુતા કેળવાય.</li><li><strong>રાજકીય પક્ષો:</strong> રાજકીય પક્ષોએ ધર્મના આધારે મતો માંગવા જોઈએ નહીં અને ચૂંટણીમાં સાંપ્રદાયિક પ્રચાર પર પ્રતિબંધ મૂકવો જોઈએ.</li><li><strong>રેડિયો અને ટીવી:</strong> આ માધ્યમોએ રાષ્ટ્રીય હિત અને સર્વધર્મ સમભાવનો પ્રસાર કરવો જોઈએ. ધાર્મિક કટ્ટરતા ફેલાવતા કાર્યક્રમો અટકાવવા જોઈએ.</li><li><strong>સામાજિક કાર્યકરો અને યુવાનો:</strong> યુવાનોમાં ધર્મ નિરપેક્ષતાની ભાવના મજબૂત કરવી જોઈએ. સામાજિક અને બૌદ્ધિક લોકોએ ધાર્મિક સહિષ્ણુતા માટે આગળ આવવું જોઈએ.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શિક્ષણ-રાજકારણ-માધ્યમ' - આ ત્રણ ક્ષેત્રોમાં સુધારો એટલે સાંપ્રદાયિકતાનો અંત!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board PYQ</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "આતંકવાદની સામાજિક અસરો વર્ણવો. (March - 2022, Aug - 2020)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>ભય અને અવિશ્વાસ:</strong> આતંકવાદ સમાજમાં ભય અને દહેશત ફેલાવે છે, જેના કારણે લોકો એકબીજા પરથી વિશ્વાસ ગુમાવે છે.</li><li><strong>વૈમનસ્ય:</strong> સમાજના વિવિધ ધર્મો કે જ્ઞાતિઓ વચ્ચે પરસ્પર અવિશ્વાસ અને શંકા વધે છે, જે ભાઈચારાની ભાવનાને નુકસાન પહોંચાડે છે.</li><li><strong>ઉત્સવોમાં ફીકાશ:</strong> વારંવાર થતા હુમલા કે વિસ્ફોટોને કારણે લોકો જાહેર મેળાવડાઓ, ઉત્સવો કે તહેવારો ઉજવતા ડરે છે.</li><li><strong>બાળકો પર અસર:</strong> આતંકવાદથી પ્રભાવિત વિસ્તારોમાં બાળકોનું શિક્ષણ કુંઠિત થાય છે અને તેમના માનસપટ પર ડરની કાયમી અસર જોવા મળે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભય + અવિશ્વાસ + વિખવાદ = સામાજિક અસર'</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board PYQ</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "લઘુમતીઓના કલ્યાણ અને વિકાસ માટે બંધારણીય જોગવાઈઓ જણાવો. (March - 2021)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>ધાર્મિક સ્વતંત્રતા:</strong> લઘુમતીઓને પોતાના ધર્મનો પ્રચાર, પ્રસાર અને પાલન કરવાની સંપૂર્ણ સ્વતંત્રતા છે.</li><li><strong>સાંસ્કૃતિક હિતોનું રક્ષણ:</strong> લઘુમતીઓને પોતાની આગવી લિપિ, ભાષા અને સંસ્કૃતિને જાળવી રાખવાનો અને તેને વિકસાવવાનો અધિકાર છે.</li><li><strong>શૈક્ષણિક સંસ્થાઓ:</strong> લઘુમતીઓ પોતાની પસંદગીની શૈક્ષણિક સંસ્થાઓ સ્થાપી શકે છે અને તેનું વહીવટ કરી શકે છે. સરકાર આવી સંસ્થાઓને મદદ કરતી વખતે ભેદભાવ રાખી શકતી નથી.</li><li><strong>રાષ્ટ્રીય લઘુમતી પંચ:</strong> સરકાર દ્વારા લઘુમતીઓના અધિકારોના રક્ષણ માટે આ પંચની રચના કરવામાં આવી છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ધર્મ + લિપિ + શિક્ષણ = લઘુમતી અધિકાર'</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "આતંકવાદની આર્થિક અસરો સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>મિલકતનું નુકસાન:</strong> બોમ્બ વિસ્ફોટ કે આગજની દ્વારા સરકારી અને ખાનગી મિલકતોને મોટું નુકસાન થાય છે, જેની ભરપાઈમાં કરોડો રૂપિયા ખર્ચાય છે.</li><li><strong>પરિવહન અને પ્રવાસન:</strong> આતંકવાદને કારણે રેલ્વે, બસ અને હવાઈ મુસાફરી પર અસર પડે છે. પ્રવાસન ઉદ્યોગને ભારે ફટકો પડે છે, જેનાથી આવક ઘટે છે.</li><li><strong>રોકાણ પર અસર:</strong> અશાંતિના કારણે ઉદ્યોગપતિઓ નવા ઉદ્યોગો સ્થાપવા તૈયાર થતા નથી, જેનાથી જે-તે વિસ્તારનો આર્થિક વિકાસ રૂંધાય છે.</li><li><strong>સુરક્ષા ખર્ચમાં વધારો:</strong> દેશની સુરક્ષા પાછળ અને આતંકવાદ વિરોધી અભિયાનો પાછળ સરકારને કરોડોનો ખર્ચ કરવો પડે છે, જે વિકાસલક્ષી કાર્યોમાં વાપરી શકાતો નથી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સુરક્ષા ખર્ચ વધે, વિકાસ ખર્ચ ઘટે' - આ છે આર્થિક ગણિત!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "બળવાખોરી અને આતંકવાદ વચ્ચેનો તફાવત સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><table><tr><th>મુદ્દો</th><th>બળવાખોરી</th><th>આતંકવાદ</th></tr><tr><td><strong>ક્ષેત્ર</strong></td><td>તે જે-તે રાષ્ટ્રની આંતરિક સમસ્યા છે.</td><td>તે એક વૈશ્વિક સમસ્યા છે.</td></tr><tr><td><strong>ઉદ્દેશ્ય</strong></td><td>સ્થાનિક પ્રજાના સહકારથી સરકાર વિરુદ્ધ હોય છે.</td><td>તેને સ્થાનિક પ્રજાનો સહકાર મળે કે ન મળે, તે માનવતા વિરોધી છે.</td></tr><tr><td><strong>અસર</strong></td><td>ચોક્કસ ભૌગોલિક વિસ્તારો પૂરતી સીમિત હોય છે.</td><td>તેની કોઈ સીમા હોતી નથી, ગમે ત્યાં થઈ શકે છે.</td></tr></table><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બળવાખોરી = લોકલ (Local), આતંકવાદ = ગ્લોબલ (Global)'</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Textbook Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "ભારતની અનુસૂચિત જાતિઓ અને અનુસૂચિત જનજાતિઓના કલ્યાણ માટેની સામાન્ય બંધારણીય જોગવાઈઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>કલમ 15:</strong> ધર્મ, જ્ઞાતિ, લિંગ કે જન્મસ્થળના આધારે કોઈપણ નાગરિક સાથે ભેદભાવ રાખવા પર પ્રતિબંધ છે. હોટલ, રેસ્ટોરન્ટ કે જાહેર સ્થળોના ઉપયોગમાં કોઈ રોકટોક નથી.</li><li><strong>કલમ 29:</strong> લઘુમતીઓ કે પછાત વર્ગના લોકો પોતાની ભાષા, લિપિ કે સંસ્કૃતિ જાળવી રાખવાનો અધિકાર ધરાવે છે.</li><li><strong>કલમ 46:</strong> રાજ્ય નબળા વિભાગો (ખાસ કરીને SC/ST) ના શૈક્ષણિક અને આર્થિક હિતોની જાળવણી કરશે અને સામાજિક અન્યાયથી તેમનું રક્ષણ કરશે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '15-ભેદભાવ, 29-સંસ્કૃતિ, 46-રક્ષણ' - આ છે કલ્યાણ કલમો!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Constitutional Provisions</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "અનુસૂચિત જાતિઓ (SC) માટેની ખાસ જોગવાઈઓ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>કલમ 17 (અસ્પૃશ્યતા નિવારણ):</strong> અસ્પૃશ્યતા નાબૂદ કરવામાં આવી છે અને તેનું કોઈપણ સ્વરૂપમાં આચરણ શિક્ષાપાત્ર ગુનો છે.</li><li><strong>કલમ 25:</strong> રાજ્યને એવો અધિકાર છે કે તે જાહેર હેતુ માટેની હિન્દુ ધાર્મિક સંસ્થાઓને હિન્દુઓના તમામ વર્ગો (SC સહિત) માટે ખુલ્લી મૂકી શકે.</li><li><strong>અનામત બેઠકો:</strong> લોકસભા, વિધાનસભાઓ અને પંચાયતોમાં વસ્તીના ધોરણે તેમના માટે બેઠકો અનામત રાખવાની જોગવાઈ છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કલમ 17 = છૂતાછૂતની વિદાય'</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "નકસલવાદી આંદોલન વિશે ટૂંકનોંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>શરૂઆત:</strong> ચીનની ક્રાંતિથી પ્રેરિત થઈને માઓ-ત્સે-તુંગના નેતૃત્વ નીચે ભારતમાં આ આંદોલન શરૂ થયું. ભારતમાં તેની શરૂઆત 1967માં પશ્ચિમ બંગાળના 'નકસલબારી' વિસ્તારથી થઈ.</li><li><strong>વ્યાપ:</strong> આજે આ આંદોલન પશ્ચિમ બંગાળથી વધીને ઝારખંડ, બિહાર, છત્તીસગઢ, આંધ્રપ્રદેશ અને ઓડિશા જેવા રાજ્યોમાં ફેલાયું છે.</li><li><strong>મુખ્ય સંગઠનો:</strong> આ આંદોલનમાં 'પીપલ્સ વોર ગ્રુપ' અને 'માઓવાદી સામ્યવાદી કેન્દ્ર' (MCC) મુખ્ય છે. તેઓ હિંસક માર્ગે સત્તા મેળવવા માંગે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બંગાળ (1967) -> માઓવાદ -> હિંસા'</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Textbook Content</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "ઉત્તર-પૂર્વમાં બળવાખોરી વિશે ટૂંકમાં જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>કારણો:</strong> આઝાદી પછી આ રાજ્યોમાં વિકાસની ગતિ ધીમી રહી છે, દુર્ગમ ભૌગોલિક સ્થિતિ અને અલગ જાતીય ઓળખ બળવાખોરીના મુખ્ય કારણો છે.</li><li><strong>નાગાલેન્ડ:</strong> એન.એસ.સી.એન. (NSCN) અહીંનું મુખ્ય બળવાખોર સંગઠન છે જે અલગ નાગાલેન્ડની માંગ કરે છે.</li><li><strong>અસમ:</strong> ઉલ્ફા (ULFA) અને એન.ડી.એફ.બી. (NDFB) જેવા સંગઠનો સક્રિય છે.</li><li><strong>ત્રિપુરા અને મણિપુર:</strong> અહીં પણ એ.ટી.ટી.એફ. (ATTF) અને યુ.એન.એલ.એફ. (UNLF) જેવા જૂથો અશાંતિ ફેલાવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નાગાલેન્ડ=NSCN, અસમ=ULFA, મણિપુર=UNLF'</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Notes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "આતંકવાદ : એક વૈશ્વિક સમસ્યા - સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>કોઈ સરહદ નથી:</strong> આતંકવાદ માત્ર કોઈ એક દેશની સમસ્યા નથી, તે આજે વિશ્વના તમામ દેશો માટે મોટો પડકાર બની ગયો છે.</li><li><strong>માનવતાનો શત્રુ:</strong> આતંકવાદ કોઈપણ ધર્મ કે જાતિને જોતો નથી, તે માત્ર નિર્દોષ લોકોની હત્યા કરીને વિનાશ સર્જે છે, જે માનવ અધિકારોનું ઉલ્લંઘન છે.</li><li><strong>સહકારની જરૂર:</strong> વિશ્વના તમામ રાષ્ટ્રોએ ભેગા મળીને આતંકવાદ સામે લડવું જરૂરી છે, કારણ કે તે કોઈ એકલા દેશથી કાબૂમાં આવે તેમ નથી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આતંકવાદ કોઈ ધર્મ નથી, તે માત્ર વિનાશ છે'</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Textbook Concepts</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 3,
+      "question": "જ્ઞાતિવાદની હાનિકારક અસરો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>રાષ્ટ્રીય એકતામાં અવરોધ:</strong> જ્ઞાતિવાદના કારણે લોકો પોતાના રાષ્ટ્ર કરતા પોતાની જ્ઞાતિને વધુ મહત્વ આપે છે, જે દેશની એકતા તોડે છે.</li><li><strong>સામાજિક સંઘર્ષ:</strong> ઉચ્ચ જ્ઞાતિ અને નિમ્ન જ્ઞાતિ વચ્ચેના ભેદભાવના કારણે સમાજમાં અવારનવાર ઝઘડા અને તણાવ પેદા થાય છે.</li><li><strong>લોકશાહી માટે ખતરો:</strong> ચૂંટણીમાં યોગ્ય ઉમેદવારને બદલે પોતાની જ્ઞાતિના ઉમેદવારને મત આપવાની પ્રવૃત્તિ લોકશાહીના મૂલ્યોને નુકસાન કરે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જ્ઞાતિવાદ = વિકાસમાં રુકાવટ'</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 3,
+      "question": "અનુસૂચિત જનજાતિઓ (ST) માટેની ખાસ જોગવાઈઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>કલમ 330, 332, 334:</strong> લોકસભા અને રાજ્યોની વિધાનસભાઓમાં અનુસૂચિત જનજાતિઓ માટે અનામત બેઠકોની જોગવાઈ કરવામાં આવી છે.</li><li><strong>સરકારી નોકરીઓ:</strong> કેન્દ્ર અને રાજ્ય સરકારની નોકરીઓમાં આ જાતિના લોકો માટે અનામત રાખવામાં આવી છે.</li><li><strong>વિકાસ માટે સહાય:</strong> આદિવાસી વિસ્તારોમાં શિક્ષણ અને આર્થિક ઉત્થાન માટે આશ્રમશાળાઓ અને છાત્રાલયોની સુવિધા તેમજ શિષ્યવૃત્તિ આપવામાં આવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ST માટે કલમ 330 થી 334 યાદ રાખવી'</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Constitutional Articles</p></div>"
+    }
+  ]
+}
