@@ -144,3 +144,100 @@ var Std10_SS_2Marks = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "ભારતનો સાંસ્કૃતિક વારસો: શિલ્પ અને સ્થાપત્ય",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "શિલ્પ અને સ્થાપત્યનો અર્થ જણાવો. (March 2020, 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>શિલ્પ:</strong> શિલ્પી પોતાના કૌશલ્ય અને આવડતને છીણી-હથોડી વડે પોતાના મનના ભાવો પથ્થર, લાકડું કે ધાતુ પર કંડારે તે કલા એટલે 'શિલ્પકલા'.</li><li><strong>સ્થાપત્ય:</strong> સ્થાપત્યનો સરળ અર્થ 'બાંધકામ' થાય છે. સંસ્કૃતમાં તેના માટે 'વાસ્તુ' શબ્દ વપરાય છે. મકાનો, નગરો, કુવા, કિલ્લા, મિનારા, મંદિરો, મસ્જિદો વગેરેના બાંધકામને સ્થાપત્ય કહે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિલ્પ = કંડારવું (છીણી-હથોડી), સ્થાપત્ય = બાંધકામ (વાસ્તુ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "લોથલ ભારતનું અગત્યનું બંદર હતું. સમજાવો. (March 2020/2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>લોથલ અમદાવાદ જિલ્લાના ધોળકા તાલુકામાં ભોગાવો અને સાબરમતી નદીઓના વચ્ચેના પ્રદેશમાં આવેલું છે.</li><li>અહીંથી વહાણ લાંગરવા માટે મોટો 'ધક્કો' (Dockyard) મળી આવ્યો છે, જે વિશ્વનું પ્રાચીન એન્જિનિયરિંગ કૌશલ્ય દર્શાવે છે.</li><li>અહીંથી વખારો અને મણકા બનાવવાની ફેક્ટરી મળી આવી છે, જે સાબિત કરે છે કે તે સમયનું તે સમૃદ્ધ આંતરરાષ્ટ્રીય બંદર હતું.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોથલ = લ-લાંગરવું (ધક્કો) + ભોગાવો નદી + મણકાની ફેક્ટરી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "કોણાર્કના સૂર્યમંદિરના રથના પૈડાંની વિશેષતા જણાવો. (March 2019)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>કોણાર્કનું સૂર્યમંદિર રથ આકારનું છે, જેને 12 વિશાળ પૈડાં છે.</li><li>આ 12 પૈડાં વર્ષના 'બાર મહિના' નું પ્રતીક છે.</li><li>દરેક પૈડામાં 8 આરા છે, જે દિવસના 'આઠ પ્રહર' ને દર્શાવે છે. તેની કોતરણી અદભૂત છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 12 પૈડાં = 12 મહિના, 8 આરા = 8 પ્રહર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "ધોળાવીરાની નગરરચના અને પાણીના પ્રબંધ વિશે માહિતી આપો. (March 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ધોળાવીરા કચ્છના ભચાઉ તાલુકાના ખદીરબેટમાં આવેલું છે.</li><li>અહીં પીવાનું પાણી શુદ્ધ થઈને આવે તેવી વ્યવસ્થા (Water Purification) હતી.</li><li>પાણીના સંગ્રહ માટે અહીં મોટી હારમાળાબદ્ધ ટાંકીઓ અને સ્ટેડિયમ મળી આવ્યું છે, જે તે સમયની ઉત્તમ ઇજનેરી કલા દર્શાવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધોળાવીરા = ધોળું પાણી (શુદ્ધિકરણ) + કચ્છનો સફેદ રણ (ખદીરબેટ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "સ્તૂપની વ્યાખ્યા આપી તેના અંગોના નામ જણાવો. (July 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>વ્યાખ્યા:</strong> ભગવાન બુદ્ધના દેહાવશેષોને એક પાત્રમાં મૂકી, તેના પર બનાવવામાં આવતી અર્ધગોળાકાર ઇમારતને 'સ્તૂપ' કહેવામાં આવે છે.</li><li><strong>અંગોના નામ:</strong> (1) હર્મિકા (2) મેધિ (3) પ્રદક્ષિણા પથ (4) તોરણ.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અર્ધગોળાકાર બુદ્ધ સ્મારક = સ્તૂપ. (હે મે પ્ર તો -> હર્મિકા, મેધિ, પ્રદક્ષિણા, તોરણ)</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "હડપ્પીય સંસ્કૃતિની ગટર યોજના વિશે માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>હડપ્પીય નગર આયોજનમાં ગટર યોજના એ વિશિષ્ટ લક્ષણ હતું. આવી યોજના સમકાલીન સમયમાં માત્ર ભૂમધ્ય સમુદ્રના 'ક્રીટ ટાપુ' સિવાય ક્યાંય નહોતી.</li><li>દરેક મકાનમાં ખાળકુવો હતો અને તે નાની ગટર દ્વારા મોટી ગટર સાથે જોડાયેલ હતો.</li><li>ગટરો પથ્થરના ઢાંકણાથી ઢંકાયેલી હતી, જે સ્વાસ્થ્ય અને સ્વચ્છતા પ્રત્યેની જાગૃતિ દર્શાવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હડપ્પાની ગટર = ક્રીટ ટાપુ જેવી + સ્વાસ્થ્ય પ્રત્યે જાગૃતિ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "સ્તંભલેખોની કલાત્મક વિશેષતા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>મૌર્યયુગના સ્તંભલેખો એક જ પથ્થરમાંથી કોતરીને બનાવવામાં આવતા હતા.</li><li>આ પથ્થરોને એટલી બધી ચળકાટ આપવામાં આવતી કે તે ધાતુ જેવા દેખાતા.</li><li>સમ્રાટ અશોકના શિલાલેખોમાં ધર્મની આજ્ઞાઓ કોતરાયેલી હતી. સારનાથનો સ્તંભ ભારતની શિલ્પકલાનો શ્રેષ્ઠ નમૂનો છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્તંભલેખ = એક જ પથ્થર (Monolithic) + કાચ જેવો ચળકાટ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "ગોપુરમ એટલે શું? તેની વિશેષતા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>દક્ષિણ ભારતના મંદિરોનું 'ભવ્ય પ્રવેશદ્વાર' એટલે ગોપુરમ.</li><li>પાંડ્ય શાસકોએ મંદિરોની બહાર ઊંચી દીવાલો અને સુશોભિત ગોપુરમ બનાવવાની પરંપરા શરૂ કરી હતી.</li><li>કાંચી અને મદુરાઈના મંદિરોના ગોપુરમ દૂરથી જોઈને આજે પણ પ્રવાસીઓ મંત્રમુગ્ધ થઈ જાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોપુરમ = ગ્રાન્ડ એન્ટ્રી (પ્રવેશદ્વાર) - દક્ષિણ ભારત.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "ગુજરાતની ગુફા સ્થાપત્યકલાના ચાર ઉદાહરણો આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>(1) જૂનાગઢની ગુફાઓ (ઉપરકોટ, ખાપરા-કોડિયા).</li><li>(2) ખંભાલીડા ગુફાઓ (રાજકોટ જિલ્લામાં ગોંડલ પાસે).</li><li>(3) તળાજાની ગુફાઓ (ભાવનગર જિલ્લામાં શેત્રુંજી નદીના મુખ પાસે).</li><li>(4) ઢાંક ગુફા (રાજકોટના જામકંડોરણા પાસે).</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતની ગુફા = જૂનાગઢ, ખંભાલીડા, તળાજા અને ઢાંક.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "સીદી સૈયદની જાળી વિશે નોંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>અમદાવાદમાં લાલ દરવાજા પાસે આવેલી સીદી સૈયદની મસ્જિદમાં આ જાળીઓ આવેલી છે.</li><li>મસ્જિદની પથ્થરની દીવાલોમાં અત્યંત બારીક અને સુંદર કોતરણીવાળી બે જાળીઓ વિશ્વપ્રસિદ્ધ છે.</li><li>આમાં વૃક્ષની ડાળીઓ અને ફૂલ-વેલની ભાત એટલી કુશળતાથી કોતરેલી છે કે તે અજોડ લાગે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીદી સૈયદ = અમદાવાદની ઓળખ + વૃક્ષની ડાળીઓની જાળી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "મોઢેરાના સૂર્યમંદિરના ગર્ભગૃહની વિશેષતા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આ મંદિરનું નકશીકામ ઈરાની શૈલીમાં થયેલું છે.</li><li>મંદિરની રચના એવી છે કે સૂર્યનું પ્રથમ કિરણ સીધું ગર્ભગૃહમાં રહેલી સૂર્યપ્રતિમાના મુગટની મધ્યમાં રહેલા 'મણિ' પર પડે છે.</li><li>જેનાથી આખું મંદિર પ્રકાશથી ઝળહળી ઉઠે છે અને સમગ્ર વાતાવરણમાં દિવ્યતા પ્રગટે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રથમ કિરણ + મુગટનો મણિ = મોઢેરાનું સૂર્યમંદિર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "ચૈત્ય અને વિહાર વચ્ચેનો તફાવત સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>ચૈત્ય:</strong> ચૈત્ય એટલે બૌદ્ધ સાધુઓનું 'પ્રાર્થના કે ઉપાસનાનું સ્થળ'. તેમાં છેડે સ્તૂપ હોય છે.</li><li><strong>વિહાર:</strong> વિહાર એટલે બૌદ્ધ મઠ, જ્યાં બૌદ્ધ ભિક્ષુઓ 'નિવાસ અને અભ્યાસ' કરે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચૈત્ય = પ્રાર્થના (Church જેવું), વિહાર = રહેવું (Home).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "દ્રવિડ શૈલીની વિશેષતાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ભારતની દક્ષિણ સરહદે ઉદભવેલી સ્થાપત્ય શૈલીને દ્રવિડ શૈલી કહે છે.</li><li>આ શૈલીના મંદિરો પિરામિડ આકારના અને અનેક માળના હોય છે, તેની ઉપર એક આકર્ષક પથ્થર મૂકવામાં આવતો.</li><li>ચોલ રાજાઓએ આ શૈલીના મંદિરોને ભારે પ્રોત્સાહન આપ્યું હતું.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્રવિડ શૈલી = દક્ષિણ ભારત + પિરામિડ આકારના મંદિરો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "રથ મંદિરો વિશે ટૂંકી માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>તમિલનાડુમાં 'મહાબલીપુરમ' ખાતે પલ્લવ રાજાઓએ રથ મંદિરો બનાવડાવ્યા હતા.</li><li>આ મંદિરો એક જ પથ્થરમાંથી કંડારીને બનાવવામાં આવ્યા છે, જે તેને વિશ્વભરમાં અજોડ બનાવે છે.</li><li>આ રથ મંદિરોના નામ પાંડવોના નામ પરથી રાખવામાં આવ્યા છે (જેમ કે ધર્મરાજ રથ, દ્રૌપદી રથ).</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રથ મંદિર = મહાબલીપુરમ + પાંડવોના નામ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "રાણીની વાવ વિશે સમજૂતી આપો. (July 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>પાટણમાં આવેલી આ વાવ ભીમદેવ પહેલાની પત્ની 'રાણી ઉદયમતી'એ પ્રજાને પાણી પૂરૂં પાડવા બંધાવી હતી.</li><li>આ વાવ સાત માળની છે અને શિલ્પકલાનો ઉત્તમ નમૂનો છે.</li><li>યુનેસ્કો (UNESCO) દ્વારા તેને 'વર્લ્ડ હેરિટેજ સાઈટ'નો દરજ્જો આપવામાં આવ્યો છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાણીની વાવ = પાટણ + ઉદયમતી + 7 માળ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board</p></div>"
+    }
+  ]
+}
