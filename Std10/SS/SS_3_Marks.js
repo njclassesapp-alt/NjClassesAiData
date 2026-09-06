@@ -1789,3 +1789,70 @@ var Std10_SS_3Marks = {
     }
   ]
 }
+,
+"22": {
+  "chapterName": "પ્રકરણ 22",
+  "chapterTitle": "પ્રકૃતિમાં પોષણ-વ્યવસ્થા",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "નિવસનતંત્રના જૈવિક ઘટકો વિશે ટૂંકનોંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>નિવસનતંત્રના જૈવિક ઘટકોમાં તમામ સજીવોનો સમાવેશ થાય છે. તેમને પોષણના આધારે ત્રણ ભાગમાં વહેંચી શકાય છે:</p><ul><li><strong>૧. ઉત્પાદકો:</strong> જે સજીવો સૂર્યપ્રકાશ અને ક્લોરોફિલની હાજરીમાં અકાર્બનિક પદાર્થોમાંથી કાર્બનિક ખોરાક (ગ્લુકોઝ) બનાવે છે, તેને ઉત્પાદકો કહે છે. દા.ત. લીલી વનસ્પતિ અને નીલહરિત લીલ.</li><li><strong>૨. ઉપભોગીઓ:</strong> જે સજીવો પ્રત્યક્ષ કે પરોક્ષ રીતે ઉત્પાદકો પર ખોરાક માટે આધાર રાખે છે. તેના પેટા પ્રકારો: તૃણાહારી (ગાય, હરણ), માંસાહારી (વાઘ, સિંહ), મિશ્રાહારી (મનુષ્ય, વંદો) અને પરોપજીવી.</li><li><strong>૩. વિઘટકો:</strong> જટિલ કાર્બનિક પદાર્થોનું સરળ અકાર્બનિક પદાર્થોમાં રૂપાંતર કરતા સૂક્ષ્મજીવો (બેક્ટેરિયા અને ફૂગ) ને વિઘટકો કહે છે. તે પર્યાવરણની સફાઈ કરે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉ-ઉ-વી (ઉત્પાદક, ઉપભોગી, વિઘટક) - આ ત્રણ શબ્દો યાદ રાખો એટલે જૈવિક ઘટકો પૂરા!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "આહાર શૃંખલા અને આહાર જાળ વચ્ચેનો તફાવત સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><table border='1' style='width:100%; border-collapse: collapse; margin-bottom:10px;'><tr><th>મુદ્દો</th><th>આહાર શૃંખલા</th><th>આહાર જાળ</th></tr><tr><td>વ્યાખ્યા</td><td>સજીવોની એક સીધી હારમાળા જેમાં એક સજીવ બીજા સજીવનો આહાર બને છે.</td><td>ઘણી બધી આહાર શૃંખલાઓ જોડાઈને બનતી જટિલ રચના.</td></tr><tr><td>પ્રવાહ</td><td>ખોરાકનું વહન એક જ સીધી દિશામાં થાય છે.</td><td>ખોરાકનું વહન અનેક શાખાઓમાં વહેંચાયેલું હોય છે.</td></tr><tr><td>સ્થિરતા</td><td>જો એક કડી તૂટે તો આખી શૃંખલા જોખમાય છે.</td><td>તે વધુ સ્થિર છે કારણ કે સજીવ પાસે ખોરાકના અન્ય વિકલ્પો હોય છે.</td></tr></table><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખવાની રીત: શૃંખલા એટલે 'સીધી લાઈન' અને જાળ એટલે 'નેટવર્ક'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "નિવસનતંત્રમાં ઉર્જાનું વહન હંમેશા એકમાર્ગી હોય છે - સમજાવો. (Most IMP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>નિવસનતંત્રમાં ઉર્જાનો મુખ્ય સ્ત્રોત સૂર્ય છે. લીલી વનસ્પતિઓ સૌર ઉર્જાનું શોષણ કરી તેને રાસાયણિક ઉર્જામાં રૂપાંતરિત કરે છે.</li><li>જ્યારે ઉર્જા એક પોષક સ્તરથી બીજા પોષક સ્તરમાં વહન પામે છે, ત્યારે દરેક સ્તરે ઉષ્મા સ્વરૂપે પર્યાવરણમાં ઉર્જાનો વ્યય થાય છે.</li><li>તૃણાહારીઓમાંથી ઉર્જા માંસાહારીઓમાં જાય છે, પરંતુ તે ક્યારેય પાછી વનસ્પતિ તરફ એટલે કે વિરુદ્ધ દિશામાં જતી નથી.</li><li>સૂર્યમાંથી આવેલી ઉર્જા સૂર્ય તરફ પાછી ફરી શકતી નથી, માટે ઉર્જાનું વહન એકમાર્ગી (Uni-directional) કહેવાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ ટ્રીક: ઉર્જાનું વહન = 'વડોદરાથી અમદાવાદ' જેવું, રિટર્ન ટિકિટ નથી!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB 2021, 2023</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "જૈવિક વિશાલન (Biological Magnification) એટલે શું? ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>વ્યાખ્યા:</strong> આહાર શૃંખલાના વિવિધ પોષક સ્તરે હાનિકારક રાસાયણિક પદાર્થોની સાંદ્રતામાં ઉત્તરોત્તર થતા વધારાને જૈવિક વિશાલન કહે છે.</li><li><strong>પ્રક્રિયા:</strong> ખેતીમાં વપરાતા જંતુનાશકો (જેમ કે DDT) જમીન અને પાણીમાં ભળે છે. ત્યાંથી તે વનસ્પતિમાં અને પછી ક્રમશઃ આહાર શૃંખલામાં પ્રવેશે છે.</li><li><strong>અસર:</strong> આ રસાયણો જૈવ-અવિઘટનીય હોવાથી સજીવના શરીરમાં એકઠા થાય છે. મનુષ્ય આહાર શૃંખલામાં ટોચના સ્થાને હોવાથી, આપણા શરીરમાં આ રસાયણોની માત્રા સૌથી વધુ જોવા મળે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: વિશાલન = વધવું. જેમ ઉપર જઈએ તેમ ઝેર વધતું જાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT New Syllabus</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "ઓઝોન સ્તરનું નિર્માણ કેવી રીતે થાય છે? તેના ઘટાડા માટે કયા પરિબળો જવાબદાર છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>નિર્માણ:</strong> વાતાવરણના ઉચ્ચ સ્તરે પારજાંબલી વિકિરણો (UV rays) ઓક્સિજન (O2) ના અણુઓનું વિઘટન કરી સ્વતંત્ર ઓક્સિજન (O) બનાવે છે. આ O અણુ O2 સાથે જોડાઈને ઓઝોન (O3) બનાવે છે. <br> <i>(O2 + UV → O + O; O + O2 → O3)</i></li><li><strong>ઘટાડો:</strong> ઓઝોન સ્તરમાં ઘટાડા માટે મુખ્યત્વે ક્લોરોફ્લુરોકાર્બન્સ (CFCs) જવાબદાર છે.</li><li><strong>સ્ત્રોત:</strong> CFCs નો ઉપયોગ રેફ્રિજરેટર, એરકંડિશનર અને અગ્નિશામક યંત્રોમાં થાય છે. 1987 માં UNEP દ્વારા તેનો ઉપયોગ ઘટાડવા માટે મોન્ટ્રીયલ પ્રોટોકોલ કરવામાં આવ્યો હતો.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: UV + O2 = O3. વિલન કોણ? CFC!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "તફાવત આપો: જૈવ-વિઘટનીય કચરો અને જૈવ-અવિઘટનીય કચરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><table border='1' style='width:100%; border-collapse: collapse;'><tr><th>જૈવ-વિઘટનીય</th><th>જૈવ-અવિઘટનીય</th></tr><tr><td>જે કચરાનું સૂક્ષ્મજીવો દ્વારા કુદરતી રીતે વિઘટન થઈ શકે છે.</td><td>જે કચરાનું સૂક્ષ્મજીવો દ્વારા વિઘટન કરી શકાતું નથી.</td></tr><tr><td>તે પર્યાવરણને લાંબો સમય નુકસાન કરતા નથી.</td><td>તે પર્યાવરણમાં લાંબો સમય ટકી રહે છે અને પ્રદૂષણ ફેલાવે છે.</td></tr><tr><td>દા.ત. શાકભાજીના છોતરા, કાગળ, સુતરાઉ કાપડ.</td><td>દા.ત. પ્લાસ્ટિક, કાચ, ધાતુના ટુકડા, DDT.</td></tr></table><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખવાની રીત: વિઘટનીય એટલે 'માટીમાં ભળી જાય તે' અને અવિઘટનીય એટલે 'અમર'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Expert View</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "આહાર શૃંખલામાં વિવિધ પોષક સ્તરો આકૃતિ સહિત સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>આહાર શૃંખલાના પ્રત્યેક ચરણ કે કડીને પોષક સ્તર કહે છે:</p><ul><li><strong>પ્રથમ પોષક સ્તર:</strong> સ્વયંપોષી અથવા ઉત્પાદકો (લીલી વનસ્પતિ). તે સૌર ઉર્જાનું સ્થાપન કરે છે.</li><li><strong>દ્વિતીય પોષક સ્તર:</strong> પ્રથમ ક્રમના ઉપભોગીઓ અથવા તૃણાહારીઓ (દા.ત. તીડ, ગાય).</li><li><strong>તૃતીય પોષક સ્તર:</strong> દ્વિતીય ક્રમના ઉપભોગીઓ અથવા નાના માંસાહારીઓ (દા.ત. દેડકો, પક્ષી).</li><li><strong>ચોથું પોષક સ્તર:</strong> તૃતીય ક્રમના ઉપભોગીઓ અથવા ઉચ્ચ માંસાહારીઓ (દા.ત. સાપ, વાઘ).</li></ul><p>સામાન્ય રીતે આહાર શૃંખલામાં 3 કે 4 સ્તર હોય છે કારણ કે ઉપરના સ્તરે ઉર્જા બહુ ઓછી મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની ટ્રીક: પિરામિડ જેવી રચના કલ્પના કરો, નીચે પાયો મોટો (વનસ્પતિ) અને ટોચ સાંકડી (માંસાહારી).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> New NCERT Pattern</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "વિઘટકો એટલે શું? નિવસનતંત્રમાં તેમની ભૂમિકા સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>વ્યાખ્યા:</strong> જે સૂક્ષ્મજીવો (બેક્ટેરિયા અને ફૂગ) મૃત વનસ્પતિ અને પ્રાણીઓના મૃતદેહોનું વિઘટન કરે છે, તેમને વિઘટકો કહે છે.</li><li><strong>ભૂમિકા:</strong> ૧. તે જટિલ કાર્બનિક પદાર્થોનું સરળ અકાર્બનિક પદાર્થોમાં રૂપાંતર કરે છે જે ફરીથી વનસ્પતિ દ્વારા ઉપયોગમાં લેવાય છે.</li><li>૨. તેઓ કુદરતી સફાઈ કામદારો છે. જો વિઘટકો ન હોય તો પૃથ્વી પર મૃતદેહોનો ઢગલો થઈ જાય.</li><li>૩. તે જમીનની ફળદ્રુપતા જાળવી રાખે છે અને પોષક દ્રવ્યોનું ચક્રીય વહન ચાલુ રાખે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: વિઘટકો = કુદરતના 'રીસાયકલિંગ' એજન્ટો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB textbook Page 115</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "કચરાના નિકાલની સમસ્યા ઓછી કરવાના ત્રણ ઉપાયો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>૧. પુનઃ ઉપયોગ (Reuse):</strong> વસ્તુઓને ફેંકી દેવાને બદલે તેનો વારંવાર ઉપયોગ કરવો. દા.ત. જામ કે અથાણાની કાચની બરણીઓનો રસોડામાં અન્ય સંગ્રહ માટે ઉપયોગ.</li><li><strong>૨. પુનઃ ચક્રીયકરણ (Recycle):</strong> કાગળ, પ્લાસ્ટિક, કાચ અને ધાતુના કચરાને ફેક્ટરીમાં પ્રોસેસ કરી નવી વસ્તુઓ બનાવવી.</li><li><strong>૩. ખાતર બનાવવું (Composting):</strong> રસોડાના જૈવ-વિઘટનીય કચરાને જમીનમાં દાટીને તેમાંથી સેન્દ્રીય ખાતર બનાવી શકાય છે.</li><li>૪. પ્લાસ્ટિકના બદલે કાપડની થેલીનો ઉપયોગ કરવો જોઈએ.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: 3-R યાદ રાખો - Reduce, Reuse, Recycle.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Social & Environmental Awareness Section</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "આપણા દ્વારા ઉત્પાદિત જૈવ-અવિઘટનીય કચરાથી કઈ સમસ્યાઓ સર્જાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>૧. જૈવ-અવિઘટનીય પદાર્થો (જેમ કે પ્લાસ્ટિક) જમીનમાં દટાયેલા રહેવાથી જમીનની ફળદ્રુપતા ઘટાડે છે અને વનસ્પતિના વિકાસને અવરોધે છે.</li><li>૨. ગટરોમાં પ્લાસ્ટિક ભરાઈ જવાથી પાણીના નિકાલમાં સમસ્યા ઊભી થાય છે, જેનાથી ગંદકી અને રોગચાળો ફેલાય છે.</li><li>૩. જો પ્રાણીઓ ભૂલથી પ્લાસ્ટિક ખાઈ જાય તો તેમનું મૃત્યુ પણ થઈ શકે છે.</li><li>૪. આવા પદાર્થોને સળગાવવાથી ઝેરી ગેસ મુક્ત થાય છે જે વાયુ પ્રદૂષણ અને કેન્સર જેવા રોગોનું કારણ બને છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: પ્લાસ્ટિક = પર્યાવરણનો દુશ્મન. તે જમીન, જળ અને વાયુ ત્રણેયને બગાડે છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Most IMP</p></div>"
+    }
+  ]
+}
