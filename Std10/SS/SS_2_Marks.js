@@ -77,3 +77,70 @@ var Std10_SS_2Marks = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "ભારતનો સાંસ્કૃતિક વારસો: પરંપરાઓ: હસ્ત અને લલિતકલા",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "પ્રાચીન ભારતમાં કલાના કેટલા પ્રકારો ગણાવવામાં આવ્યા છે? તે કયા કયા છે? (બોર્ડ માર્ચ-2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પ્રાચીન ભારતમાં કલાના મુખ્ય બે પ્રકારો ગણાવવામાં આવ્યા છે: (1) હસ્તકલા અને (2) લલિતકલા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હાલ' યાદ રાખો - (હા)સ્તકલા અને (લ)લિતકલા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "માટીકામ કળા એટલે શું? સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>માટીકામ એ માનવ સંસ્કૃતિના આરંભકાળથી જ માનવ જીવન સાથે જોડાયેલી એક મહત્વની કલા છે. માટી દ્વારા વિવિધ પાત્રો, રમકડાં, ઘડા, કુલડી, દીવા વગેરે બનાવવાની કળાને માટીકામ કળા કહેવાય છે. પ્રાચીન સમયમાં ભારત માટીકામ માટે વિશ્વભરમાં જાણીતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માટી એટલે 'સૃષ્ટિનું મૂળ' - યાદ રાખો કે માનવ જીવનની સૌથી જૂની કળા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "ભવાઈ વિશે ટૂંકમાં માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ભવાઈ એ ગુજરાતની લગભગ 700 વર્ષ જૂની અનોખી લોકનાટ્ય કળા છે. અસાઈત ઠાકરે આ કળાને વિકસાવી હતી. આ કળામાં ભૂંગળ વાદ્યનો ઉપયોગ થાય છે અને રણજણ, રંગલો-રંગલી જેવા પાત્રો દ્વારા સામાજિક કુરિવાજોના પ્રહારો કરવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 700 વર્ષ (સાતસો) અને અસાઈત ઠાકર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "પાટણના પટોળા વિશે ટૂંકમાં માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પાટણના પટોળા 'બેવડ ઇક્ત' તરીકે ઓળખાય છે, જેમાં તાણા અને વાણા બંનેમાં રંગાયેલા હોય છે. પટોળાંમાં વપરાતી ભાત ક્યારેય જલ્દી ઉતરતી નથી, તેથી 'પડી પટોળે ભાત, ફાટે પણ ફીટે નહીં' કહેવત જાણીતી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બેવડ ઇક્ત' - બંને બાજુ સરખી ભાત.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "ભારતની પરંપરાગત કઢાઈ કલા (ભરતગૂંથણ) વિશે જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સિંધુ સંસ્કૃતિના ઉત્ખનન દરમિયાન મળેલાં પુરાવાઓ દર્શાવે છે કે સિંધના સ્ત્રી-પુરુષો વસ્ત્રો પર ભરતકામ કરતા હતા. કાશ્મીરનું 'કાશ્મીરી ભરત' અને ગુજરાતના કચ્છનું 'બન્ની' ભરતકામ વિશ્વવિખ્યાત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાશ્મીર (કાશ્મીરી) અને કચ્છ (બન્ની) ને યાદ રાખો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "ચર્મકામ એટલે શું? તેનો ઉપયોગ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ચામડાનો ઉપયોગ કરીને વસ્તુઓ બનાવવાની કળાને ચર્મકામ કહે છે. પ્રાચીન સમયમાં મૃત પ્રાણીઓની ચામડીનો ઉપયોગ વિવિધ વસ્તુઓ જેવી કે મશક, પાણી ભરવાના પખાલા, પગરખાં, ઢોલક, નગારા અને ખેતીના સાધનો માટે કરવામાં આવતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતી (હળ) અને યુદ્ધ (ઢોલ) ના સાધનો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "હીરા-મોતી અને મીનાકારી કલાની વિશિષ્ટતા શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ભારત ત્રણ બાજુએ સમુદ્ર ધરાવતો હોવાથી અહીં મોતીનો વ્યવસાય પ્રાચીન સમયથી વિકસ્યો છે. મીનાકારી કલામાં સોના-ચાંદીના અલંકારોમાં લાલ, લીલો અને વાદળી રંગો પૂરીને તેની શોભા વધારવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ-લીલો-વાદળી રંગ એટલે મીનાકારી!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "વિવિધ પ્રકારની લલિતકલાઓના નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>લલિતકલાઓમાં મુખ્યત્વે: (1) ગાયન, (2) વાદન, (3) નર્તન (નૃત્ય), અને (4) ચિત્રકલાનો સમાવેશ થાય છે. આ કલાઓ આત્મા અને શરીરના આનંદ સાથે સંકળાયેલી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગવા-નચિ' (ગાયન, વાદન, નર્તન, ચિત્રકલા).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "ભારતીય સંગીતના મુખ્ય પ્રકારો કેટલા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ભારતીય સંગીતને મુખ્ય બે ભાગમાં વહેંચવામાં આવે છે: (1) શાસ્ત્રીય સંગીત અને (2) લોકસંગીત. સામવેદને સંગીતની ગંગોત્રી ગણવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સામવેદ = સંગીત' યાદ રાખો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "કથકલી નૃત્ય વિશે ટૂંકમાં માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કથકલી એ કેરળનું પ્રચલિત નૃત્ય છે. તેમાં પૌરાણિક મહાકાવ્યોના પ્રસંગો તથા પૌરાણિક પાત્રો ધરાવતા નાટકોને મલયાલમ મિશ્રિત સંસ્કૃત ભાષામાં ભજવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેરળ = કથકલી (ક-ક જોડી).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    }
+  ]
+}
