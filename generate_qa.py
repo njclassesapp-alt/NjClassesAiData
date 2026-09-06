@@ -1,10 +1,11 @@
 import os
 import json
+import time
 from google import genai
 
 client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 
-with open('system/progress_tracker.json', 'r') as f:
+with open('system/progress_tracker.json', 'r', encoding='utf-8') as f:
     tracker = json.load(f)
 
 # --- ત્રણેય વિષયોના સિલેબસનું લિસ્ટ ---
@@ -23,7 +24,6 @@ std10_science_chapters = {
     13: "આપણું પર્યાવરણ"
 }
 
-# નવો ઉમેરો: સામાજિક વિજ્ઞાનના 23 પ્રકરણો
 std10_ss_chapters = {
     1: "ભારતનો વારસો", 2: "ભારતનો સાંસ્કૃતિક વારસો: પરંપરાઓ: હસ્ત અને લલિતકલા",
     3: "ભારતનો સાંસ્કૃતિક વારસો: શિલ્પ અને સ્થાપત્ય", 4: "ભારતનો સાહિત્યિક વારસો",
@@ -89,7 +89,6 @@ else:
 
 print(f"Generating {marks} Marks questions for Std {std} {subject} Chapter {chapter_num} ({chapter_name})...", flush=True)
 
-# નવો કડક પ્રોમ્પ્ટ: મેક્સિમમ પ્રશ્નો અને નો-રીપીટેશન લોજીક
 prompt = f"""
 તમે ગુજરાત બોર્ડ (GSEB) ના એક્સપર્ટ શિક્ષક છો. 
 તમારે 2024 પછીના નવા ઘટાડેલા NCERT સિલેબસ મુજબ ધોરણ {std}, વિષય: {subject}, પ્રકરણ: {chapter_num} ({chapter_name}) માંથી {marks} ગુણના પ્રશ્નો બનાવવાના છે.
@@ -126,33 +125,49 @@ try:
     for model in client.models.list():
         if hasattr(model, 'supported_actions') and "generateContent" in model.supported_actions:
             name = model.name.lower()
-            invalid_words = ['video', 'audio', 'tts', 'vision', 'image', 'exp', 'learnlm', 'embedding', 'aqa']
+            # 404 આપતાં જૂના 2.5 મોડલ્સ અને બિનજરૂરી મોડલ્સ ફિલ્ટર કર્યા
+            invalid_words = ['video', 'audio', 'tts', 'vision', 'image', 'exp', 'learnlm', 'embedding', 'aqa', '2.5-flash']
             if not any(word in name for word in invalid_words):
                 valid_models.append(model.name)
 except Exception as e:
     print(f"Error fetching models: {e}", flush=True)
 
+# જો લિસ્ટ ખાલી હોય તો સત્તાવાર વર્કિંગ મોડલ બેકઅપ તરીકે રાખવું
 if not valid_models:
-    print("Error: No valid text models found in this account.", flush=True)
-    exit(1)
+    valid_models = ["models/gemini-3-flash-preview"]
 
+# ફ્લેશ મોડલને પ્રાથમિકતા આપવી
 valid_models.sort(key=lambda x: ('flash' not in x.lower(), x))
+print(f"Valid Active Models: {valid_models}", flush=True)
+
 output_data = ""
 
 for m in valid_models[:3]:
-    try:
-        print(f"⏳ Pending: {m} મોડલ દ્વારા ડેટા બની રહ્યો છે...", flush=True)
-        response = client.models.generate_content(model=m, contents=prompt)
-        raw_output = response.text.strip()
-        
-        if "{" in raw_output and "}" in raw_output:
-            raw_output = raw_output[raw_output.find("{") : raw_output.rfind("}") + 1]
+    print(f"⏳ Pending: {m} મોડલ દ્વારા ડેટા બની રહ્યો છે...", flush=True)
+    success = False
+    
+    # 503 સર્વર લોડ આવે તો ૩ વાર રીટ્રાય કરશે
+    for attempt in range(1, 4):
+        try:
+            response = client.models.generate_content(model=m, contents=prompt)
+            raw_output = response.text.strip()
             
-        output_data = raw_output.strip()
-        print(f"✅ Success! ડેટા સફળતાપૂર્વક બની ગયો છે.", flush=True)
+            if "{" in raw_output and "}" in raw_output:
+                raw_output = raw_output[raw_output.find("{") : raw_output.rfind("}") + 1]
+                
+            output_data = raw_output.strip()
+            print(f"✅ Success! {m} મોડલ દ્વારા ડેટા સફળતાપૂર્વક બની ગયો છે.", flush=True)
+            success = True
+            break
+        except Exception as e:
+            err_msg = str(e)
+            print(f"⚠️ પ્રયાસ {attempt}/3 નિષ્ફળ ({m}): {err_msg}", flush=True)
+            if "NOT_FOUND" in err_msg or "no longer available" in err_msg:
+                break
+            time.sleep(6)  # હાઈ-ડિમાન્ડ સમયે 6 સેકન્ડ રાહ જોઈને રીટ્રાય કરશે
+            
+    if success:
         break
-    except Exception as e:
-        print(f"❌ Failed with {m}. Error: {e}", flush=True)
 
 if not output_data:
     print("Error: બધી જ ટ્રાય ફેલ ગઈ છે.", flush=True)
@@ -198,7 +213,7 @@ elif tracker['subject'].lower() in ["ss", "social science"] and tracker['current
     print("🎉 સામાજિક વિજ્ઞાન પણ પૂરો થયો છે! ઓટોમેશન પૂર્ણ થયું.", flush=True)
     tracker['status'] = "completed"
 
-with open('system/progress_tracker.json', 'w') as f:
+with open('system/progress_tracker.json', 'w', encoding='utf-8') as f:
     json.dump(tracker, f, indent=4)
 
 print("Task Completed Successfully!", flush=True)
