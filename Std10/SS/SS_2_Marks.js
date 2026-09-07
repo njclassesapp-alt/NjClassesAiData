@@ -338,3 +338,100 @@ var Std10_SS_2Marks = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "ભારતનો વિજ્ઞાન અને ટેકનોલોજીનો વારસો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "પ્રાચીન ભારતે ધાતુવિદ્યામાં અદ્વિતીય સિદ્ધિઓ હાંસલ કરી હતી - આ વિધાન સમજાવો. (March 2020, 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>પ્રાચીન ભારતની ધાતુવિદ્યાના ઉત્તમ નમૂનાઓમાં ભગવાન બુદ્ધની તા્રમૂર્તિઓ (સુલ્તાનગંજ) અને ચોલ રાજાઓના સમયમાં તૈયાર થયેલા ધાતુશિલ્પો મુખ્ય છે.</li><li>આંતરરાષ્ટ્રીય ખ્યાતિ ધરાવતું નટરાજનું શિલ્પ અને ધનુર્ધારી રામનું શિલ્પ ધાતુવિદ્યાના ઉત્કૃષ્ટ ઉદાહરણો છે.</li><li>દિલ્હીમાં આવેલો 7 ટન વજન ધરાવતો વિજયસ્તંભ (લોહસ્તંભ) સદીઓ પછી પણ કાટ લાગ્યા વગર અડીખમ ઊભો છે, જે ભારતીય ધાતુવિદ્યાની વિશેષતા છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નટરાજ અને લોહસ્તંભ' - આ બે નામ યાદ રાખો એટલે ધાતુવિદ્યાના પુરાવા તૈયાર!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board (March 2020, 2023)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "નાગાર્જુનને ભારતીય રસાયણશાસ્ત્રના આચાર્ય કેમ માનવામાં આવે છે? (July 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આચાર્ય નાગાર્જુન નાલંદા વિદ્યાપીઠના બૌદ્ધ આચાર્ય હતા, જેમણે 'રસ રત્નાકર' અને 'આરોગ્યમંજરી' જેવા ગ્રંથો લખ્યા છે.</li><li>તેમણે વનસ્પતિ ઔષધિઓની સાથે સાથે રસાયણ ઔષધિઓ વાપરવાની ભલામણ કરી હતી.</li><li>પારાની ભસ્મ કરીને ઔષધ તરીકે વાપરવાની પ્રથા તેમણે શરૂ કરી હોય તેમ મનાય છે. આથી તેમને રસાયણશાસ્ત્રના આચાર્ય માનવામાં આવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાગાર્જુન = રસ રત્નાકર + પારો (Mercury).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "મહર્ષિ ચરકે વૈદકવિદ્યામાં કયું મહત્વનું પ્રદાન આપ્યું છે? (March 2019)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>મહર્ષિ ચરકે 'ચરક સંહિતા' નામનો અજોડ ગ્રંથ લખ્યો છે.</li><li>આ ગ્રંથમાં તેમણે 2000 થી પણ વધુ વનસ્પતિજન્ય ઔષધિઓનું વિસ્તૃત વર્ણન કર્યું છે.</li><li>તેમણે રોગોના નિદાન અને તેને મટાડવાની પદ્ધતિઓ પર ઊંડો અભ્યાસ રજૂ કર્યો છે જે આજે પણ આયુર્વેદમાં પાયારૂપ ગણાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખવાની રીત: ચરક = વનસ્પતિ ચિકિત્સાના નિષ્ણાત.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "મહર્ષિ સુશ્રુતને શલ્યચિકિત્સાના પિતા કેમ કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>મહર્ષિ સુશ્રુતે 'સુશ્રુત સંહિતા'માં શલ્યચિકિત્સા (વાઢકાપ - Surgery) ના ધારદાર સાધનોનો ઉલ્લેખ કર્યો છે.</li><li>તેમના સાધનો એટલા ધારદાર હતા કે તે માથાના વાળને ઊભા ચીરીને બે ભાગ કરી શકતા હતા.</li><li>તેમણે પ્લાસ્ટિક સર્જરી, પથરી, મોતિયો અને તૂટેલા હાડકાં સાંધવા જેવી જટિલ ક્રિયાઓનું વર્ણન કર્યું હોવાથી તેમને શલ્યચિકિત્સાના પિતા કહે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુશ્રુત = સર્જરી (વાઢકાપ) અને ધારદાર વાળ ચીરતા સાધનો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Most IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "ગણિતશાસ્ત્ર ક્ષેત્રે આર્યભટ્ટનું પ્રદાન જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આર્યભટ્ટે 'શૂન્ય' (0) ની શોધ કરી હતી અને ગણિતમાં દશાંશ પદ્ધતિ રજૂ કરી હતી.</li><li>તેમણે 'આર્યભટ્ટીયમ' ગ્રંથમાં 'π' (પાઈ) ની કિંમત 3.14 (22/7) થાય છે તેમ સાબિત કર્યું હતું.</li><li>ગોલકના પરિઘ અને વ્યાસના ગુણોત્તરને દર્શાવવા માટે તેમણે 'π' નો ઉપયોગ કર્યો હોવાથી તેમને 'ગણિતશાસ્ત્રના પિતા' કહે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખવાની રીત: શૂન્ય + π + દશાંશ = આર્યભટ્ટ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "વરાહમિહિરે જ્યોતિષશાસ્ત્રને કયા ત્રણ ભાગમાં વહેંચ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>મહાન ખગોળવેત્તા અને જ્યોતિષશાસ્ત્રી વરાહમિહિરે જ્યોતિષશાસ્ત્રને ત્રણ મુખ્ય વિભાગોમાં વહેંચ્યું હતું:</li><li><strong>1. તંત્ર:</strong> ગ્રહોની ગતિ અને ગણતરી.</li><li><strong>2. હોરા:</strong> જન્માક્ષર અને ફળાદેશ.</li><li><strong>3. સંહિતા:</strong> વિવિધ લક્ષણો, ગ્રહોની માનવી પર અસર અને શકુનશાસ્ત્ર.</li><li>તેમણે 'બૃહદ સંહિતા' નામનો પ્રસિદ્ધ ગ્રંથ લખ્યો છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તંત્ર-હોરા-સંહિતા' (THS યાદ રાખવું).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Textbook Based</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "વાસ્તુશાસ્ત્રના પ્રણેતાઓ તરીકે કોના નામ જાણીતા છે? તેમાં કઈ બાબતોનો સમાવેશ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>બ્રહ્મા, નારદ, બૃહસ્પતિ, ભૃગુ, વસિષ્ઠ અને વિશ્વકર્મા જેવા વિદ્વાનો વાસ્તુશાસ્ત્રના પ્રણેતાઓ ગણાય છે. વિશ્વકર્મા દેવોના પ્રથમ સ્થાપત્યકાર હતા.</li><li>વાસ્તુશાસ્ત્રમાં રહેવાની જગ્યા, મંદિર, મહેલ, અશ્વશાળા, કિલ્લા અને નગરની રચના કેવી રીતે કરવી તેની માહિતી હોય છે.</li><li>તેમાં આઠ દિશાઓ મુજબ કઈ જગ્યાએ શું બનાવવું તેના ચોક્કસ નિયમો આપેલા છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખવાની રીત: વિશ્વકર્મા = પ્રથમ આર્કિટેક્ટ (દેવોના સ્થાપત્યકાર).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB SS Chapter 5</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "પ્રાચીન ભારતનું ખગોળશાસ્ત્ર ક્ષેત્રે પ્રદાન ટૂંકમાં સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ભારતનું સૌથી પ્રાચીન શાસ્ત્ર ખગોળશાસ્ત્ર છે, જેમાં ગ્રહોની ગતિ, નક્ષત્રો અને અવકાશી પદાર્થોનું અવલોકન થતું હતું.</li><li>આર્યભટ્ટે સાબિત કર્યું હતું કે પૃથ્વી પોતાની ધરી પર ફરે છે અને ચંદ્રગ્રહણ પૃથ્વીના પડછાયાને કારણે થાય છે.</li><li>ગણિતશાસ્ત્ર અને ખગોળ બંનેમાં આર્યભટ્ટનું પ્રદાન સર્વોપરી હોવાથી ભારતના પ્રથમ ઉપગ્રહનું નામ 'આર્યભટ્ટ' રાખવામાં આવ્યું.</li></ul><hr><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "ભાસ્કરાચાર્યે ગણિતશાસ્ત્રમાં કયા કયા ગ્રંથો લખ્યા છે અને તેમાં શું જણાવ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ભાસ્કરાચાર્યે ઈ.સ. 1150માં 'લીલાવતી ગણિત' અને 'સિદ્ધાંત શિરોમણિ' જેવા ગ્રંથો લખ્યા હતા.</li><li>તેમણે ગણિતમાં સરવાળા, બાદબાકી અને બીજગણિત (Algebra) નો પાયો નાખ્યો હતો.</li><li>આ ઉપરાંત તેમણે ખગોળશાસ્ત્ર અને ગ્રહોની ગતિ વિશે પણ મહત્વના સંશોધનો રજૂ કર્યા હતા.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખવાની રીત: ભાસ્કરાચાર્ય = લીલાવતી (પુત્રીનું નામ) + ગણિત.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "દિલ્હીના લોહસ્તંભ વિશે માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>સમ્રાટ ચંદ્રગુપ્ત બીજાએ (વિક્રમાદિત્ય) દિલ્હીમાં આ લોહસ્તંભનું નિર્માણ કરાવ્યું હતું.</li><li>તે 7 ટન વજન ધરાવે છે અને 24 ફૂટ ઊંચો છે.</li><li>આશ્ચર્યની વાત એ છે કે ટાઢ, તડકો અને વરસાદ સહન કરવા છતાં 1600 વર્ષથી આ સ્તંભને હજુ સુધી જરાય કાટ લાગ્યો નથી, જે ભારતીય રસાયણવિદ્યાનો ઉત્તમ નમૂનો છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ફેક્ટ: કાટ ન લાગવો એ જ આ સ્તંભની સૌથી મોટી સિદ્ધિ છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "વિજ્ઞાન અને ટેકનોલોજી એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>વિજ્ઞાન:</strong> એટલે વ્યવસ્થિત જ્ઞાન (Systematic Knowledge).</li><li><strong>ટેકનોલોજી:</strong> એટલે વિજ્ઞાનની વ્યાવહારિક ઉપયોગિતા (Practical Application of Science).</li><li>વિજ્ઞાન અને ટેકનોલોજી બંને પૂરક શબ્દો છે જે જગતના વિકાસમાં પાયાની ભૂમિકા ભજવે છે.</li></ul><hr><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Chapter Intro</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "બ્રહ્મગુપ્તનું ગણિતશાસ્ત્રમાં પ્રદાન જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>બ્રહ્મગુપ્ત નામના ગણિતશાસ્ત્રીએ 'બ્રહ્મસ્ફુટ સિદ્ધાંત' નામનો ગ્રંથ લખ્યો હતો.</li><li>તેમણે આ ગ્રંથમાં ગુરુત્વાકર્ષણના (Gravity) નિયમોનો ઉલ્લેખ કર્યો હતો.</li><li>આ ઉપરાંત તેમણે સમીકરણોના ઉકેલ અને ગણિતના મૂળભૂત નિયમોની સમજ આપી હતી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની ટ્રીક: ન્યૂટન પહેલા બ્રહ્મગુપ્તે ગુરુત્વાકર્ષણની વાત કરી હતી!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Fact Check</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "પ્રાચીન ભારતમાં કયા કયા વિષયો પર ગ્રંથો લખાયા હતા? (કોઈપણ બે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>પ્રજનનશાસ્ત્ર:</strong> બ્રાભ્રવ્ય પાંચાલે આ વિષય પર ગ્રંથ રચ્યો હતો.</li><li><strong>કામસૂત્ર:</strong> વાત્સ્યાયન મુનિ દ્વારા રચિત જાણીતો ગ્રંથ છે.</li><li><strong>વૃક્ષાયુર્વેદ:</strong> મહામુનિ પરાશરે વૃક્ષોના રોગો અને ઉછેર અંગે લખ્યો હતો.</li></ul><hr><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Extra Knowledge for Section B</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "બૌદ્ધ આચાર્ય નાગાર્જુનની રસાયણવિદ્યાની પ્રયોગશાળા કેવી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>નાલંદા વિદ્યાપીઠમાં રસાયણવિદ્યાના અભ્યાસ અને સંશોધન માટે પોતાની અલગ રસાયણશાળાઓ અને ભઠ્ઠીઓ હતી.</li><li>આ પ્રયોગશાળામાં વિવિધ પ્રકારના મુખ્ય રસ, ઉપરસ અને દશ પ્રકારના વિષ (ઝેર) ને શુદ્ધ કરવાની પદ્ધતિઓ હતી.</li><li>રસાયણશાસ્ત્રના ગ્રંથોમાં ધાતુમાંથી ભસ્મ બનાવવાની રીતો પણ અહીં વિકસાવવામાં આવી હતી.</li></ul><hr><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Page 38</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "વાગ્ભટ્ટનું વૈદકશાસ્ત્રમાં પ્રદાન જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>મહર્ષિ વાગ્ભટ્ટે 'અષ્ટાંગહૃદય' અને 'વાગ્ભટ્ટ સંહિતા' જેવા મહત્વના ગ્રંથો લખ્યા છે.</li><li>તેમણે ચરક અને સુશ્રુતના જ્ઞાનને સંકલિત કરીને આયુર્વેદના સિદ્ધાંતોને વધુ સરળ બનાવ્યા હતા.</li><li>નિદાન (Diagnosis) ક્ષેત્રે અષ્ટાંગહૃદય ગ્રંથ આજે પણ ઘણો મહત્વનો ગણાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: ચરક + સુશ્રુત + વાગ્ભટ્ટ = આયુર્વેદની ત્રિપુટી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Note</p></div>"
+    }
+  ]
+}
