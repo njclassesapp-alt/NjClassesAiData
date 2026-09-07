@@ -435,3 +435,100 @@ var Std10_SS_2Marks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "ભારતના સાંસ્કૃતિક વારસાનાં સ્થળો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "કોણાર્કના સૂર્યમંદિર વિશે ટૂંકમાં માહિતી આપો. (March 2020)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આ મંદિર ઓડિશા રાજ્યના પુરી જિલ્લામાં બંગાળના અખાત પાસે આવેલું છે.</li><li>તેનું નિર્માણ 13મી સદીમાં ગંગવંશના રાજા નરસિંહવર્મન પ્રથમના સમયમાં થયું હતું.</li><li>આ મંદિર સાત ઘોડાઓ ખેંચતા સૂર્યના રથ જેવું દેખાય છે, જેમાં 12 વિશાળ પૈડાં છે (જે વર્ષના 12 મહિના દર્શાવે છે).</li><li>તે કાળા પથ્થરોમાંથી બનેલું હોવાથી તેને 'કાળા પેગોડા' (Black Pagoda) તરીકે પણ ઓળખવામાં આવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: ઓડિશાનો 'નરસિંહ' સૂર્યના 'કાળા' રથમાં '12' પૈડાં લઈને નીકળ્યો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board (March 2020)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "રાણીની વાવ (પાટણ) વિશે ટૂંકી નોંધ લખો. (July 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આ વાવ પાટણમાં આવેલી છે, જેનું નિર્માણ સોલંકી વંશના રાણી ઉદયમતીએ તેમના પતિ ભીમદેવ પ્રથમની યાદમાં કરાવ્યું હતું.</li><li>તે સાત માળની ભવ્ય વાવ છે, જેમાં કલાત્મક શિલ્પો અને સ્થાપત્ય જોવા મળે છે.</li><li>યુનેસ્કો (UNESCO) દ્વારા ઈ.સ. 2014માં તેને 'વર્લ્ડ હેરિટેજ સાઈટ' નો દરજ્જો આપવામાં આવ્યો છે.</li><li>આ વાવ પ્રાચીન ભારતની જળ વ્યવસ્થાપન પદ્ધતિનું ઉત્કૃષ્ટ ઉદાહરણ છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાટણની 'સાત' માળની વાવ, 'ઉદયમતી' એ આપી '2014' માં લ્હાવ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board (July 2022)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "અમદાવાદને શા માટે 'વર્લ્ડ હેરિટેજ સિટી' તરીકે જાહેર કરવામાં આવ્યું છે? (March 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>અમદાવાદ તેના ઐતિહાસિક અને સાંસ્કૃતિક મહત્વને કારણે જાણીતું છે. અહીં સીદી સૈયદની જાળી, જામા મસ્જિદ અને ઝૂલતા મિનારા જેવા અદભૂત સ્થાપત્યો છે.</li><li>તેમાં પોળ સંસ્કૃતિ અને પરંપરાગત વસવાટોની જાળવણી જોવા મળે છે.</li><li>યુનેસ્કો દ્વારા જુલાઈ 2017માં અમદાવાદને ભારતનું પ્રથમ 'વર્લ્ડ હેરિટેજ સિટી' જાહેર કરવામાં આવ્યું હતું.</li><li>તે હિન્દુ, જૈન અને ઇસ્લામિક સ્થાપત્ય શૈલીના સુમેળનું પ્રતીક છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2017: અમદાવાદ = First Heritage City (સીદી સૈયદની જાળી યાદ રાખવી).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board (March 2022)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "ઇલોરાની ગુફાઓના ત્રણ વિભાગો વિશે માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ઇલોરાની કુલ 34 ગુફાઓ ત્રણ ધર્મોના વિભાગોમાં વહેંચાયેલી છે:</p><ul><li><strong>બૌદ્ધ ધર્મની ગુફાઓ:</strong> 1 થી 12 નંબરની ગુફાઓ.</li><li><strong>હિન્દુ ધર્મની ગુફાઓ:</strong> 13 થી 29 નંબરની ગુફાઓ.</li><li><strong>જૈન ધર્મની ગુફાઓ:</strong> 30 થી 34 નંબરની ગુફાઓ.</li><li>ઇલોરા મહારાષ્ટ્રના ઔરંગાબાદ પાસે આવેલી છે અને તે રાષ્ટ્રકૂટ રાજાઓના સમયમાં તૈયાર થઈ હતી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 12 (બૌદ્ધ) + 17 (હિન્દુ) + 5 (જૈન) = 34 (ઇલોરા).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "એલિફન્ટાની ગુફાઓ વિશે ટૂંકમાં જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આ ગુફાઓ મહારાષ્ટ્રમાં મુંબઈથી 12 કિમી દૂર અરબ સાગરમાં આવેલી છે.</li><li>પોર્ટુગીઝોએ અહીં પથ્થરમાંથી કોતરેલા હાથીના શિલ્પને કારણે તેનું નામ 'એલિફન્ટા' પાડ્યું હતું.</li><li>અહીં કુલ 7 ગુફાઓ છે, જેમાં ગુફા નં. 1 માં આવેલું 'ત્રિમૂર્તિ' (બ્રહ્મા, વિષ્ણુ અને મહેશ) નું શિલ્પ વિશ્વભરમાં પ્રખ્યાત છે.</li><li>યુનેસ્કોએ 1987માં તેને વિશ્વ વારસાના સ્થળોમાં સ્થાન આપ્યું છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથી (Elephant) + ત્રિમૂર્તિ = એલિફન્ટા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "બૃહદેશ્વર મંદિરની વિશેષતાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>તમિલનાડુના તાંજોર (થંજાવુર) માં આવેલું આ મંદિર ચોલ વંશના રાજા રાજરાજ-I એ બંધાવ્યું હતું, તેથી તેને 'રાજરાજેશ્વર મંદિર' પણ કહે છે.</li><li>તે ભગવાન શિવનું મંદિર છે અને તે દ્રવિડ સ્થાપત્ય શૈલીનું ઉત્તમ ઉદાહરણ છે.</li><li>તેની લંબાઈ 500 ફૂટ અને પહોળાઈ 250 ફૂટ છે. તેનું શિખર જમીનથી 200 ફૂટ ઊંચું છે.</li><li>તે વિશ્વનું પ્રથમ એવું મંદિર છે જે આખું ગ્રેનાઈટ પથ્થરમાંથી બનેલું છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજરાજ + તાંજોર + ગ્રેનાઈટ = બૃહદેશ્વર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB SS IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "હમ્પી વિશે ટૂંકી સમજૂતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>હમ્પી કર્ણાટક રાજ્યના બેલ્લારી જિલ્લામાં તુંગભદ્રા નદીના કિનારે આવેલું છે.</li><li>તે વિજયનગર સામ્રાજ્યની રાજધાનીનું શહેર હતું.</li><li>વિજયનગરના શાસકો કલાપ્રેમી હતા. કૃષ્ણદેવરાય પ્રથમના સમયમાં હમ્પીમાં ભવ્ય સ્થાપત્ય કલાનો વિકાસ થયો હતો.</li><li>અહીં વિઠ્ઠલ મંદિર, હઝારા રામ મંદિર અને વિરૂપાક્ષ મંદિર મુખ્ય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિજયનગર + કૃષ્ણદેવરાય = હમ્પીના ભવ્ય મંદિરો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Class 10</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "હુમાયુનો મકબરો કેમ અજોડ ગણાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>દિલ્હીમાં આવેલો હુમાયુનો મકબરો મુઘલકાલીન સ્થાપત્યનો શ્રેષ્ઠ નમૂનો છે.</li><li>હુમાયુના મૃત્યુ બાદ આ મકબરાનું નિર્માણ તેની પત્ની હમીદા બેગમે કરાવ્યું હતું.</li><li>તે ઈરાની (પર્શિયન) શૈલીમાં બનેલો છે અને તેમાં લાલ અને સફેદ પથ્થરોનો કુશળતાપૂર્વક ઉપયોગ થયો છે.</li><li>તાજમહેલના નિર્માણ માટે આ મકબરાએ પથદર્શક તરીકેની ભૂમિકા ભજવી હતી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાજમહેલનો 'મોટો ભાઈ' અથવા 'પૂર્વગામી' એટલે હુમાયુનો મકબરો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "ફતેહપુર સિક્રીના જોવાલાયક સ્થળો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>અકબરે સૂફી સંત સલીમ ચિશ્તીની યાદમાં ફતેહપુર સિક્રી શહેર વસાવ્યું હતું (આગ્રા પાસે).</li><li>અહીંનો 'બુલંદ દરવાજો' ભારતનો સૌથી ઊંચો (54 મીટર) અને ભવ્ય દરવાજો છે.</li><li>અન્ય સ્થાપત્યોમાં બીરબલનો મહેલ, પંચમહાલ, જામા મસ્જિદ અને સલીમ ચિશ્તીની મકબરો મુખ્ય છે.</li><li>જોધાબાઈનો મહેલ પણ સ્થાપત્યની દ્રષ્ટિએ ખૂબ જ મહત્વનો છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અકબર + સલીમ ચિશ્તી + બુલંદ દરવાજો = ફતેહપુર સિક્રી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "ચાંપાનેર વિશે માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ગુજરાતના પંચમહાલ જિલ્લામાં પાવાગઢની તળેટીમાં ચાંપાનેર આવેલું છે.</li><li>મહમૂદ બેગડાએ તેને જીતીને પોતાની રાજધાની બનાવી હતી અને તેનું નામ 'મુહમ્મદાબાદ' રાખ્યું હતું.</li><li>અહીંની મોતી મસ્જિદ, જામી મસ્જિદ અને કિલ્લો સ્થાપત્યની દ્રષ્ટિએ ભવ્ય છે.</li><li>યુનેસ્કોએ 2004માં તેને ભારતનું વર્લ્ડ હેરિટેજ સાઈટ જાહેર કર્યું છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાવાગઢ + બેગડો + 2004 = ચાંપાનેર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "ઇલોરાના કૈલાશ મંદિરની વિશેષતા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>કૈલાશ મંદિર ઇલોરાની ગુફા નંબર 16 માં આવેલું છે.</li><li>આ મંદિરની સૌથી મોટી વિશેષતા એ છે કે તે એક જ વિશાળ પથ્થરમાંથી કોતરીને બનાવવામાં આવ્યું છે (Monolithic).</li><li>તે 50 મીટર લાંબુ, 33 મીટર પહોળું અને 30 મીટર ઊંચું છે.</li><li>તેના દરવાજા, ઝરૂખા અને સ્તંભોની હારમાળાઓથી સુશોભિત આ મંદિર અત્યંત સુંદર લાગે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુફા નં. 16 = એક જ પથ્થરમાંથી આખું મંદિર!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "ખજુરાહોના મંદિરો વિશે ટૂંકમાં માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ખજુરાહોના મંદિરો મધ્યપ્રદેશના છત્તરપુર જિલ્લામાં આવેલા છે.</li><li>તે ચંદેલ રાજપૂતોની રાજધાનીનું સ્થળ હતું. અહીં કુલ 80 મંદિરો હતા જેમાંથી અત્યારે 25 હયાત છે.</li><li>મોટાભાગના મંદિરો શૈવ ધર્મના છે, જ્યારે કેટલાક વૈષ્ણવ અને જૈન મંદિરો પણ છે.</li><li>ચોસઠ જોગણીનું મંદિર અને કંદરિયા મહાદેવનું મંદિર મુખ્ય છે. તે નાગર શૈલીમાં બનેલા છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચંદેલ રાજાઓ + નાગર શૈલી + મધ્યપ્રદેશ = ખજુરાહો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB SS Book</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "લાલ કિલ્લા (દિલ્હી) ની મુખ્ય વિશેષતાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>શાહજહાંએ 1638 માં દિલ્હીમાં લાલ પથ્થરોનો ઉપયોગ કરીને આ કિલ્લો બંધાવ્યો હતો.</li><li>કિલ્લાની અંદર દીવાન-એ-આમ, દીવાન-એ-ખાસ, મોતી મસ્જિદ અને રંગમહલ જેવા સુંદર સ્થાપત્યો છે.</li><li>દીવાન-એ-ખાસમાં સોના-ચાંદી અને કિંમતી પથ્થરોનું જડતરકામ કરવામાં આવ્યું છે.</li><li>દર વર્ષે 15 ઓગસ્ટ અને 26 જાન્યુઆરીએ અહીંથી ધ્વજવંદન કરવામાં આવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાહજહાં + લાલ પથ્થર + દીવાન-એ-ખાસ = લાલ કિલ્લો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "મહાબલીપુરમ વિશે માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>તે તમિલનાડુમાં ચેન્નઈથી 60 કિમી દૂર આવેલું શહેર છે, જે પલ્લવ રાજા નરસિંહવર્મન પ્રથમના ઉપનામ 'મહામલ્લ' પરથી પડ્યું છે.</li><li>અહીં સાત રથ મંદિરો (Chariot Temples) નું નિર્માણ કરવામાં આવ્યું હતું, જેમાંથી હાલ પાંચ હયાત છે.</li><li>દરેક રથ મંદિર એક જ વિશાળ ખડક કાપીને બનાવવામાં આવ્યું છે.</li><li>તે તેના ભવ્ય દરિયાકિનારા અને પથ્થરની કોતરણી માટે વિશ્વભરમાં જાણીતું છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પલ્લવ રાજા + રથ મંદિરો + મહામલ્લ = મહાબલીપુરમ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Class 10</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "અજંતાની ગુફાઓના ચિત્રોની મુખ્ય વિશેષતા શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>અજંતાની ગુફાઓ મુખ્યત્વે તેની ભીંતચિત્રો (Murals) માટે જાણીતી છે.</li><li>ચિત્રોના વિષયો મુખ્યત્વે બૌદ્ધ ધર્મ અને ભગવાન બુદ્ધના જીવન પ્રસંગો પર આધારિત છે.</li><li>આ ચિત્રોમાં વનસ્પતિજન્ય રંગોનો ઉપયોગ થયો છે, જે સદીઓ પછી પણ જીવંત લાગે છે.</li><li>'પદ્મપાણિ' નું ચિત્ર અજંતાની ચિત્રકલાનો સર્વોત્તમ નમૂનો ગણાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અજંતા = ચિત્રકલા (Painting) | ઇલોરા = શિલ્પકલા (Sculpture).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    }
+  ]
+}
