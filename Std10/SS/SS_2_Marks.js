@@ -629,3 +629,100 @@ var Std10_SS_2Marks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "કુદરતી સંસાધનો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "સંસાધનનો અર્થ સમજાવી, તેના ખોરાક તરીકેના ઉપયોગો જણાવો. (IMP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સંસાધન એટલે જેના પર માનવી આશ્રિત કે નિર્ભર હોય, જેનાથી માનવીની જરૂરિયાતો પૂરી થતી હોય અને માનવી પાસે તેનો ઉપભોગ કરવાની શારીરિક કે બૌદ્ધિક ક્ષમતા હોય.</p><ul><li>માનવીની ખોરાકની જરૂરિયાત વિવિધ સંસાધનો દ્વારા પૂરી થાય છે.</li><li>કુદરતી રીતે થતા ફળો, ખેતી દ્વારા પ્રાપ્ત થતા વિવિધ ખાદ્ય પાકો.</li><li>પાલતુ પ્રાણીઓ દ્વારા પ્રાપ્ત થતું દૂધ અને તેની બનાવટો.</li><li>જળાશયોમાંથી મળતા માછલાં અને અન્ય જળચર પ્રાણીઓ તેમજ મધમાખી દ્વારા બનાવેલું મધ વગેરેનો સમાવેશ થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંસાધન એટલે 'જરૂરિયાત સંતોષનાર સાધન'. (ખોરાક = ફળ + પાક + દૂધ + માછલાં)</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Page 59</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "સંસાધનોના વિતરણ ક્ષેત્ર મુજબના પ્રકારો ઉદાહરણ આપી સમજાવો. (Board March-2020, 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વિતરણ ક્ષેત્રના આધારે સંસાધનોના ચાર પ્રકાર પડે છે:</p><ol><li><strong>સર્વસુલભ સંસાધનો:</strong> જે વાતાવરણમાં રહેલા ઉપયોગી વાયુઓ છે. દા.ત., ઓક્સિજન, નાઇટ્રોજન.</li><li><strong>સામાન્ય સુલભ સંસાધનો:</strong> જે સામાન્ય રીતે સહેલાઈથી મળે છે. દા.ત., ભૂમિ, જળ, ગૌચર.</li><li><strong>વિરલ સંસાધનો:</strong> જેના પ્રાપ્તિસ્થાનો મર્યાદિત હોય. દા.ત., કોલસો, ખનિજ તેલ, કુદરતી વાયુ, તાંબુ, યુરેનિયમ.</li><li><strong>એકલ સંસાધન:</strong> દુનિયામાં ભાગ્યે જ એક કે બે સ્થળે જ મળી આવતા ખનિજો. દા.ત., ક્રાયોલાઇટ ખનિજ (માત્ર ગ્રીનલેન્ડમાંથી મળે છે).</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખવાની રીત: સ-સા-વિ-એ (સર્વ, સામાન્ય, વિરલ, એકલ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Notes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "નવીનીકરણીય અને અનવીનીકરણીય સંસાધનો વચ્ચેનો તફાવત સ્પષ્ટ કરો. (IMP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>નવીનીકરણીય (પુનઃપ્રાપ્ય):</strong> જે સંસાધનો પોતાની મેળે જ ચોક્કસ સમયમાં વપરાયેલા જથ્થાની પૂર્તિ કરે છે અથવા તે અખૂટ હોય છે. દા.ત., સૂર્યપ્રકાશ, પવન, પશુ-પંખી, જંગલો.</li><li><strong>અનવીનીકરણીય (પુનઃઅપ્રાપ્ય):</strong> જે સંસાધનો એકવાર વપરાયા પછી પુનઃ નિર્માણ કરી શકાતા નથી અથવા નજીકના ભવિષ્યમાં તેનું પુનઃનિર્માણ અશક્ય છે. દા.ત., કોલસો, ખનિજ તેલ, કુદરતી વાયુ, અણુ ખનિજો.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: નવીનીકરણીય = 'ક્યારેય ન ખૂટે' | અનવીનીકરણીય = 'વપરાઈ જાય તો ખલાસ'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Content</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "જમીન એટલે શું? તેનું નિર્માણ કેવી રીતે થાય છે? (IMP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જમીન એટલે પૃથ્વીના ઉપરના પડ પર આવેલું જૈવિક અને અજૈવિક દ્રવ્યોનું બનેલું પાતળું સ્તર.</p><ul><li><strong>નિર્માણ:</strong> જમીન એ માતૃખડકોના ખવાણ અને ધોવાણથી મળતા પદાર્થોથી બને છે.</li><li>તાપમાનના ફેરફારો, વરસાદ, હિમ, હવા, વનસ્પતિ અને જીવજંતુઓના પરિબળોથી ખડકોનું વિખંડન (ટુકડા) અને ખવાણ થાય છે.</li><li>આ રીતે બનેલા ચૂર્ણમાં જૈવિક અવશેષો, ભેજ અને હવા ભળવાથી જમીન તૈયાર થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: ખડકોનું ખવાણ + જૈવિક દ્રવ્યો = જમીન.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Page 62</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "કાંપની જમીનના મુખ્ય લક્ષણો જણાવો. (IMP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>કાંપની જમીન ભારતના કુલ ક્ષેત્રફળના લગભગ 43% ક્ષેત્રફળમાં ફેલાયેલી છે.</li><li>આ જમીનમાં પોટાશ, ફોસ્ફરિક એસિડ અને ચૂનાનું પ્રમાણ વધારે હોય છે, જ્યારે નાઇટ્રોજન અને હ્યુમસનું પ્રમાણ ઓછું હોય છે.</li><li>જો આ જમીનમાં કઠોળના પાક લેવામાં આવે તો નાઇટ્રોજનનું પ્રમાણ વધારી શકાય છે.</li><li>ઘઉં, ચોખા, શેરડી, શણ, કપાસ, મકાઈ, તેલીબિયાં વગેરે પાક અહીં સારા થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: ભારતમાં સૌથી વધુ (43%) + નદીઓના નિક્ષેપણથી બનેલી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> ICAR Classification</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "કાળી જમીનને 'રેગુર' શા માટે કહે છે? તેના ગુણધર્મો લખો. (IMP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કાળી જમીન કપાસના પાક માટે ખૂબ જ અનુકૂળ હોવાથી તેને 'કપાસની કાળી જમીન' અથવા 'રેગુર' તરીકે ઓળખવામાં આવે છે.</p><ul><li><strong>ગુણધર્મો:</strong> આ જમીન ચીકણી અને કસવાળી હોય છે.</li><li>તેમાં ભેજ સંગ્રહ કરવાની શક્તિ ઘણી વધારે હોય છે. જ્યારે ભેજ સુકાય ત્યારે તેમાં મોટી તિરાડો કે ફાટો પડી જાય છે.</li><li>તેમાં લોહ, ચૂનો, કેલ્શિયમ, પોટાશ, એલ્યુમિનિયમ અને મેગ્નેશિયમ કાર્બોનેટનું પ્રમાણ વધુ હોય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: કાળી જમીન = ભેજ સંગ્રહક + કપાસનો પ્રેમ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "રાતી અથવા લાલ જમીનનો રંગ લાલ શા માટે હોય છે? તે ક્યાં જોવા મળે છે? (IMP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>કારણ:</strong> રાતી જમીનમાં ફેરીક ઓક્સાઈડ (Ferric Oxide) ની હાજરીને કારણે તેનો રંગ લાલ દેખાય છે. આ જમીન નીચે જતાં પીળા રંગમાં ફેરવાઈ જાય છે.</li><li><strong>પ્રાપ્તિસ્થાન:</strong> તે ભારતના કુલ ક્ષેત્રફળના 19% માં ફેલાયેલી છે.</li><li>તે મુખ્યત્વે તામિલનાડુથી લઈને ઉત્તરમાં બુંદેલખંડ સુધી અને પૂર્વમાં રાજમહેલની ટેકરીઓથી પશ્ચિમમાં કચ્છ સુધી જોવા મળે છે.</li><li>તેમાં મેગ્નેશિયમ, ફોસ્ફેટ, નાઇટ્રોજન અને પોટાશની ઉણપ જોવા મળે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: લાલ રંગ = ફેરીક ઓક્સાઈડ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "લેટેરાઇટ જમીનનું નામ કેવી રીતે પડ્યું? તેની વિશેષતા જણાવો. (IMP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>નામકરણ:</strong> લેટિન ભાષાના શબ્દ 'Later' (લેટર) એટલે કે 'ઈંટ' પરથી આ જમીનનું નામ લેટેરાઇટ પડ્યું છે.</li><li><strong>વિશેષતા:</strong> તે લાલ રંગની હોય છે કારણ કે તેમાં લોહ ઓક્સાઈડ હોય છે.</li><li>આ જમીન ભીની થાય ત્યારે માખણ જેવી મુલાયમ અને સુકાય ત્યારે સખત બની જાય છે.</li><li>તેમાં જૈવિક દ્રવ્યોનું પ્રમાણ ઓછું હોવાથી ફળદ્રુપતા ઓછી હોય છે, પરંતુ ખાતર નાખીને તેમાં કપાસ, ડાંગર, શેરડી, રાગી, કાજુ વગેરેનો પાક લેવાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: લેટર = ઈંટ = લેટેરાઇટ (ઈંટ જેવી સખત).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Class 10 SS</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "રણ પ્રકારની જમીન વિશે ટૂંકમાં માહિતી આપો. (IMP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આ જમીન શુષ્ક અને અર્ધશુષ્ક આબોહવાવાળા વિસ્તારોમાં જોવા મળે છે.</li><li>તે રેતાળ હોય છે અને તેમાં જૈવિક દ્રવ્યોની ઉણપ હોય છે. તે ઓછી ફળદ્રુપ હોય છે.</li><li>ભારતમાં તે રાજસ્થાન, હરિયાણા અને દક્ષિણ પંજાબના વિસ્તારોમાં તેમજ ગુજરાતમાં કચ્છ અને સૌરાષ્ટ્રના કેટલાક ભાગોમાં જોવા મળે છે.</li><li>સિંચાઈની સુવિધાઓથી તેમાં બાજરી અને જુવાર જેવા પાકો લેવામાં આવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: રણ = રેતી + ઓછી ફળદ્રુપતા + બાજરી-જુવાર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "જમીન ધોવાણ એટલે શું? તેના કારણો જણાવો. (Board July-2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>અર્થ:</strong> ગતિશીલ હવા અને પાણી દ્વારા જમીનના ઉપરના કણોનું ઝડપથી બીજા સ્થળે સ્થળાંતર થવું તેને જમીન ધોવાણ કહે છે.</p><ul><li><strong>કારણો:</strong> જમીન પરની વનસ્પતિનું પ્રમાણ ઓછું હોવું.</li><li>ઢોળાવવાળી જમીન પર વનસ્પતિ વિના ખેતી કરવી.</li><li>વધુ પડતો વરસાદ અથવા વેગીલો પવન.</li><li>પશુઓ દ્વારા થતું અતિ ચરાણ (પડતર જમીનોમાં).</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: ધોવાણ = સ્થળાંતર (હવા અને પાણી દ્વારા).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Paper July-2022</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "જમીન ધોવાણ અટકાવવાના ઉપાયો જણાવો. (Board March-2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ol><li>જમીન પર પશુચરાણ પર નિયંત્રણ રાખવું જોઈએ.</li><li>ઢોળાવવાળી જમીનોમાં 'પગથિયાં પદ્ધતિ' (Terrace Farming) થી વાવેતર કરવું જોઈએ.</li><li>પડતર જમીનોમાં વૃક્ષારોપણ કરવું જોઈએ.</li><li>પાણીના વહેણ હોય ત્યાં આડબંધ (Check Dams) બાંધવા જોઈએ.</li><li>પાણીનો વેગ ધીમો પાડવા ઢાળવાળા ખેતરોમાં ઊંડી ખેડ કરવી જોઈએ.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: વૃક્ષારોપણ + આડબંધ + પગથિયાં ખેતી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Paper March-2023</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "જમીન સંરક્ષણ એટલે શું? તેની અનિવાર્યતા સમજાવો. (IMP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>અર્થ:</strong> જમીન સંરક્ષણ એટલે જમીનનું ધોવાણ રોકીને જમીનની ગુણવત્તા જાળવવી.</p><ul><li><strong>અનિવાર્યતા:</strong> જમીન સંરક્ષણનો સીધો સંબંધ ખેતી અને ખાદ્ય સુરક્ષા સાથે છે.</li><li>જો જમીનનું ધોવાણ થાય, તો તેની ફળદ્રુપતા ઘટે છે, જેના કારણે કૃષિ ઉત્પાદન ઘટે છે.</li><li>ભૂસ્ખલન અને પૂર જેવી આપત્તિઓ રોકવા માટે પણ જમીન સંરક્ષણ જરૂરી છે.</li><li>માનવ સભ્યતાના અસ્તિત્વ માટે ફળદ્રુપ જમીન અનિવાર્ય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: સંરક્ષણ = બચાવ = ખોરાકની સુરક્ષા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "જમીન સંરક્ષણ માટેના કોઈપણ ચાર ઉપાયો લખો. (Board March-2019, 2024)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ol><li>નદીઓના કોતરો અને પહાડી ઢોળાવો પર વૃક્ષારોપણ કરવું.</li><li>રણની નજીકના ક્ષેત્રોમાં વાતા પવનોને રોકવા માટે વૃક્ષોની હારમાળા (રક્ષક મેખલા) ઉગાડવી.</li><li>નદીઓના પૂરને અન્ય નદીઓમાં વાળીને કે સૂકી નદીઓ ભરીને અંકુશમાં લેવા.</li><li>અનિયંત્રિત ચરાણથી પહાડોની જમીનનું પડ ઢીલું પડે છે, તેને રોકવું જોઈએ.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: વૃક્ષારોપણ + રક્ષક મેખલા + પૂર નિયંત્રણ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Paper March-2024</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "પર્વતીય જમીન (Mountain Soil) ની વિશેષતાઓ જણાવો. (IMP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આ જમીન હિમાલયની ખીણો અને ઢોળાવોના ક્ષેત્રોમાં આશરે 2700 થી 3000 મીટરની ઊંચાઈ પર જોવા મળે છે.</li><li>તેનું સ્તર પાતળું અને અપરિપક્વ હોય છે.</li><li>હિમાલયના પાઈન, ચીડ અને દેવદારના વૃક્ષોવાળા વિસ્તારોમાં આ પ્રકારની જમીન જોવા મળે છે.</li><li>આ જમીન ભારતના આસામ, દાર્જિલિંગ, ઉત્તરાખંડ, હિમાચલ પ્રદેશ અને કાશ્મીરમાં જોવા મળે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: હિમાલય + પાતળું સ્તર + અપરિપક્વ જમીન.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "સંસાધનોના આયોજન અને સંરક્ષણ માટે કઈ બાબતો ધ્યાનમાં રાખવી જોઈએ? (IMP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>સૌ પ્રથમ કોઈ એક પ્રદેશને એકમ ગણી તેના વપરાયેલા અને વપરાયા વગરના સંસાધનોની જાણકારી મેળવવી.</li><li>જે સંસાધનો અનવીનીકરણીય છે તેનું વૈજ્ઞાનિક ઢબે આયોજન કરી અનિવાર્ય હોય તો જ વાપરવા.</li><li>જે સંસાધનોનો જથ્થો વધારી શકાય તેમ હોય તેના વિકાસ માટે પ્રયત્નો કરવા.</li><li>સંસાધનોના સંરક્ષણ માટે જનજાગૃતિ ફેલાવવી અને કાયદાકીય જોગવાઈઓનું અમલીકરણ કરવું.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: જાણકારી + વૈજ્ઞાનિક વપરાશ + જનજાગૃતિ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Page 60</p></div>"
+    }
+  ]
+}
