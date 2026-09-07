@@ -726,3 +726,100 @@ var Std10_SS_2Marks = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "વન અને વન્યજીવ સંસાધન",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "નિર્વનીકરણ (જંગલ વિનાશ) ની અસરો જણાવો. (March 2020, 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>નિર્વનીકરણની મુખ્ય અસરો નીચે મુજબ છે:</p><ul><li>વાતાવરણમાં કાર્બન ડાયોક્સાઈડ (CO2) ની માત્રામાં વધારો થાય છે.</li><li>ગ્રીન હાઉસ ઈફેક્ટ (હરિતગૃહ પ્રભાવ) ની અસરો ઘેરી બને છે.</li><li>માટીના ધોવાણથી ખેતીની ફળદ્રુપતાની સમસ્યા વધે છે.</li><li>અનેક વન્યજીવો પોતાનો કુદરતી આવાસ ગુમાવે છે, પરિણામે તે ખોરાકની શોધમાં માનવ વસાહતો તરફ આવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: CO2 વધે + ગરમી વધે + પ્રાણીઓ ગામમાં આવે!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board 2022 IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "અભયારણ્ય એટલે શું? (March 2019, July 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જેમના અસ્તિત્વ માટે જોખમ હોય તેવા વન્યજીવોના સંરક્ષણ અને સંવર્ધન માટે સુરક્ષિત કરાયેલા વિસ્તારોને 'અભયારણ્ય' કહે છે.</li><li>અહીં ચોક્કસ મર્યાદામાં માનવ પ્રવૃત્તિઓને અનુમતિ આપવામાં આવે છે.</li><li>સત્તાધિકારી પાસેથી મંજૂરી મેળવીને પાલતુ પશુઓને ચરાવી શકાય છે.</li><li>દા.ત. પેરિયાર, ચંદ્રપ્રભા, એતુરનાગરમ વગેરે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: અભયારણ્ય = 'અભય' + મંજૂરી સાથે પશુ ચરાણ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Page 69</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "વહીવટી દ્રષ્ટિએ જંગલોના પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વહીવટી હેતુસર જંગલોને ત્રણ ભાગમાં વહેંચવામાં આવે છે:</p><ul><li><strong>અનામત જંગલ (Reserved Forest):</strong> સીધા સરકારી તંત્રના નિયંત્રણમાં હોય છે. લાકડા કાપવા કે પશુ ચરાણની મનાઈ હોય છે.</li><li><strong>સંરક્ષિત જંગલ (Protected Forest):</strong> દેખભાળ સરકારી તંત્ર દ્વારા થાય છે. વૃક્ષોને હાનિ પહોંચાડ્યા વગર લાકડા વીણવાની કે પશુ ચરાણની છૂટ હોય છે.</li><li><strong>અવર્ગીકૃત જંગલ (Unclassified Forest):</strong> જેનું વર્ગીકરણ હજુ સુધી થયું નથી. અહીં વૃક્ષ છેદન કે પશુ ચરાણ પર કોઈ પ્રતિબંધ હોતો નથી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 'અ-સં-અ' (અનામત, સંરક્ષિત, અવર્ગીકૃત)</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Note</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "રાષ્ટ્રીય ઉદ્યાન એટલે શું? (March 2018)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>કુદરતી વનસ્પતિ, વન્યજીવો અને કુદરતી સૌંદર્યના સ્થળોના સંરક્ષણ માટેનો સુરક્ષિત વિસ્તાર એટલે રાષ્ટ્રીય ઉદ્યાન.</li><li>તે અભયારણ્યની તુલનામાં વધારે સુરક્ષિત અને ચુસ્ત નિયમો વાળો વિસ્તાર છે.</li><li>અહીં પાલતુ પશુઓને ચરાવવા પર સંપૂર્ણ પ્રતિબંધ હોય છે.</li><li>દા.ત. કાઝીરંગા, કોર્બેટ, ગીર રાષ્ટ્રીય ઉદ્યાન વગેરે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: રાષ્ટ્રીય ઉદ્યાન = નો પશુ ચરાણ + કેન્દ્ર/રાજ્ય સરકારનું સંકલન.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Paper</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "જૈવ આરક્ષિત ક્ષેત્ર વિશે ટૂંકમાં જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>તેની રચના આંતરરાષ્ટ્રીય માપદંડો મુજબ કરવામાં આવે છે.</li><li>મુખ્ય હેતુ તે વિસ્તારની પ્રાકૃતિક અને સાંસ્કૃતિક વિવિધતાનું રક્ષણ કરવાનો છે.</li><li>આ ક્ષેત્રનો સરેરાશ વિસ્તાર 5000 ચોરસ કિમીથી વધારે હોય છે.</li><li>બહારની તમામ માનવીય ગતિવિધિઓ પર સંપૂર્ણ પ્રતિબંધ હોય છે. દા.ત. કચ્છનું રણ, નીલગિરી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: જૈવ આરક્ષિત = 5000+ કિમી + આંતરરાષ્ટ્રીય નિયમ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT New Syllabus</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "વાઘ પરિયોજના (Project Tiger) વિશે માહિતી આપો. (March 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>એક અંદાજ મુજબ 20મી સદીની શરૂઆતમાં ભારતમાં 40,000 થી વધુ વાઘ હતા, જે શિકારને કારણે ઘટ્યા.</li><li>આથી ભારત સરકારે 1971માં વાઘને બચાવવા માટે 'વાઘ પરિયોજના' શરૂ કરી.</li><li>આ યોજનાનો મુખ્ય હેતુ વાઘના કુદરતી આવાસોને સુરક્ષિત રાખવો અને પર્યાવરણીય સંતુલન જાળવવો છે.</li><li>હાલ દેશમાં કુલ 9 (શરૂઆતમાં) થી વધીને હવે 50 થી વધુ આરક્ષિત વિસ્તારો કાર્યરત છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: વાઘ = 1971 + 'સેવ ટાઈગર'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "હાથી પરિયોજના (Project Elephant) શા માટે અમલમાં મુકાઈ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>હાથી પરિયોજના વર્ષ 1992માં શરૂ કરવામાં આવી હતી.</li><li>મુખ્ય હેતુ હાથીઓને તેમના કુદરતી આવાસોમાં સંરક્ષણ આપવું અને તેમના સ્થળાંતરના માર્ગો (Corridors) નું રક્ષણ કરવું છે.</li><li>હાલ દેશમાં હાથીઓ માટેના 26 જેટલા સંરક્ષિત વિસ્તારો છે.</li><li>આ યોજના પાલતુ હાથીઓના પાલન-પોષણ માટે પણ મદદરૂપ થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: હાથી = 1992 + કોરિડોર રક્ષણ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "ગીધ પરિયોજના (Vulture Project) વિશે માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ગીધ એ કુદરતનો સફાઈ કામદાર છે, કારણ કે તે મૃત પશુઓનું માંસ ખાય છે.</li><li>ભારતમાં ગીધની કુલ 9 પ્રજાતિઓ જોવા મળે છે.</li><li>ગીધની સંખ્યામાં થયેલા અસાધારણ ઘટાડાને કારણે ભારત સરકારે 2004માં 'ગીધ પરિયોજના' શરૂ કરી.</li><li>આ યોજના અંતર્ગત ગીધના સંવર્ધન અને રક્ષણ પર ભાર મૂકવામાં આવ્યો છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: ગીધ = 9 પ્રજાતિ + 2004 + સફાઈ કામદાર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "માલિકી અને વ્યવસ્થાપનની દ્રષ્ટિએ જંગલોના પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>રાજ્ય માલિકીનું જંગલ (State Forest):</strong> આ જંગલો પર કેન્દ્ર કે રાજ્ય સરકારનું નિયંત્રણ હોય છે. ભારતના મોટાભાગના જંગલો આ પ્રકારના છે.</li><li><strong>સાંમુદાયિક જંગલ (Communal Forest):</strong> સ્થાનિક સ્વરાજ્યની સંસ્થાઓ (ગ્રામ પંચાયત, નગરપાલિકા) નું નિયંત્રણ હોય છે.</li><li><strong>ખાનગી જંગલ (Private Forest):</strong> વ્યક્તિગત માલિકીના જંગલો. ઓડિશા, મેઘાલય, પંજાબમાં આવા જંગલો જોવા મળે છે જે હાલ ક્ષત-વિક્ષત હાલતમાં છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: રા-સા-ખા (રાજ્ય, સાંમુદાયિક, ખાનગી).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT/GSEB Syllabus</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "ગેંડા પરિયોજના (Rhino Project) ની મુખ્ય વિગતો આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આ યોજના એકશિંગી ભારતીય ગેંડાના સંરક્ષણ માટે બનાવવામાં આવી છે.</li><li>મુખ્યત્વે અસમ અને પશ્ચિમ બંગાળના સુંદરવનના વિસ્તારોમાં ગેંડા જોવા મળે છે.</li><li>ભારતમાં 'રાઈનો વિઝન 2020' (Rhino Vision 2020) ની વ્યુહરચના મુજબ ગેંડાની સંખ્યા 3000 સુધી લઈ જવાનો લક્ષ્યાંક રાખવામાં આવ્યો હતો.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: ગેંડો = અસમ + એક શિંગડું + Vision 2020.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Page 68</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "હિમ દીપડા પરિયોજના (Snow Leopard Project) શા માટે શરૂ કરાઈ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>હિમાલયમાં આશરે 3000 મીટરની ઊંચાઈએ જોવા મળતી આ પ્રજાતિ બરફમાં રહે છે.</li><li>સ્થાનિક લોકોમાં હિમ દીપડા વિશે જાણકારી વધે અને તેના સંરક્ષણ માટે જાગૃત થાય તે હેતુથી 2000ની સાલમાં આ પરિયોજના શરૂ કરાઈ હતી.</li><li>આ ઉપરાંત અન્ય યોજનાઓમાં લાલ પાંડા પરિયોજનાનો પણ સમાવેશ થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: હિમ દીપડો = 3000m ઊંચાઈ + વર્ષ 2000.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> New NCERT Data</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "ભારતનું વૈવિધ્યસભર વન્યજીવન વિશે બે મુદ્દા લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ભારત વિશ્વના 12 જૈવ-વૈવિધ્ય ધરાવતા દેશોમાંનું એક છે. અહીં દુનિયાની કુલ 15 લાખ પ્રજાતિઓમાંથી લગભગ 81,251 જેટલી પ્રજાતિઓ જોવા મળે છે.</li><li>ભારતના એશિયાઈ સિંહ માત્ર ગુજરાતના ગીરના જંગલોમાં જ જોવા મળે છે, જે ભારતની જૈવ-વૈવિધ્યતાની મોટી ઓળખ છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 12 દેશો + 81,251 પ્રજાતિ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB SS Ch 9 Intro</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "વન્યજીવોના વિનાશના કોઈ પણ ચાર કારણો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જંગલ વિસ્તારોમાં થતું અતિક્રમણ અને માનવીય દખલગીરી.</li><li>ખેતી માટે જંગલોનું કપાણ (ઝૂમ ખેતી) અને શહેરીકરણ.</li><li>ચામડું, નખ, દાંત કે વાળ માટે કરવામાં આવતો શિકાર.</li><li>દાવાનળ (જંગલની આગ) ને કારણે વન્યજીવોના બચ્ચાં અને ઈંડાનો નાશ.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: શિકાર + રહેઠાણનો નાશ + દાવાનળ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Text Content</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "ઘડિયાલ પરિયોજના (Crocodile Project) વિશે માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>મીઠા પાણીમાં જોવા મળતી મગરની આ પ્રજાતિ (ઘડિયાલ) 1970ના દશકામાં લુપ્ત થવાને આરે હતી.</li><li>ભારત સરકારે આ પ્રજાતિને બચાવવા માટે 1975માં 'ઘડિયાલ પરિયોજના' અમલમાં મૂકી.</li><li>આ યોજના દ્વારા તેમના કુદરતી પ્રજનન અને રક્ષણની વ્યવસ્થા કરવામાં આવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: ઘડિયાલ = મીઠું પાણી + 1975.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "વન સંરક્ષણના ઉપાયોમાં 'લોકજાગૃતિ' કેવી રીતે મદદરૂપ થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>શાળા-કોલેજોમાં પાઠ્યક્રમો દ્વારા જંગલોના મહત્વ વિશે જાગૃતિ લાવવી જોઈએ.</li><li>'વિશ્વ વન દિવસ' (21 માર્ચ) અને 'વિશ્વ પર્યાવરણ દિવસ' (5 જૂન) જેવા દિવસોની ઉજવણી કરી લોકસમુદાયને જંગલો પ્રત્યે સંવેદનશીલ બનાવવો જોઈએ.</li><li>સામાજિક વનીકરણ અને ખેતી વનીકરણમાં લોકભાગીદારી વધારવી જોઈએ.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: શિક્ષણ + દિવસોની ઉજવણી + વનીકરણ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB New Syllabus 2024</p></div>"
+    }
+  ]
+}
