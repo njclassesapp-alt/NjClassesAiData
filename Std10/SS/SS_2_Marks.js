@@ -532,3 +532,100 @@ var Std10_SS_2Marks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "આપણા વારસાનું જતન",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "પર્યટન ઉદ્યોગથી થતા આર્થિક લાભો જણાવો. (March 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>પર્યટન ઉદ્યોગથી જે-તે રાજ્ય કે દેશને વિદેશી હૂંડિયામણ પ્રાપ્ત થાય છે.</li><li>સ્થાનિક લોકોને રોજગારીની તકો મળે છે (જેમ કે ગાઈડ, હોટલ ઉદ્યોગ, પરિવહન).</li><li>સ્થાનિક કલા-કસબીઓને તેમની ચીજવસ્તુઓના વેચાણ માટે બજાર મળી રહે છે.</li><li>પર્યટન સ્થળોના વિકાસને કારણે ત્યાં પાયાની સુવિધાઓ વધે છે, જે આર્થિક વિકાસમાં મદદરૂપ થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 'રોકડા' યાદ રાખો -> રો (રોજગારી), ક (કલા-કસબીઓ), ડા (ડોલર/હૂંડિયામણ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board March 2022 / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "ભારતીય વન્યજીવ બોર્ડ (IBWL) ના બે કાર્યો જણાવો. (July 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આ બોર્ડ વન્યજીવોના સંરક્ષણ માટે સરકારને સલાહ-સૂચનો આપવાનું કાર્ય કરે છે.</li><li>રાષ્ટ્રીય ઉદ્યાનો, અભયારણ્યો અને પક્ષીગૃહોના નિર્માણ માટે માર્ગદર્શન આપે છે.</li><li>વન્યજીવોના સંરક્ષણ માટે જનજાગૃતિ ફેલાવવાનું કાર્ય પણ આ સંસ્થા દ્વારા થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: IBWL = 'સલાહ + સુરક્ષા + સુવિધા'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board July 2022 / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "ઐતિહાસિક સ્મારકોને નુકસાન ન થાય તે માટે કઈ બાબતો ટાળવી જોઈએ? (March 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>સ્મારકો પર ગમે તેમ લખાણ લખવું કે ચિત્રો દોરવા જોઈએ નહીં.</li><li>ઐતિહાસિક ઇમારતોના પથ્થરો કે શિલ્પોને સ્પર્શ કરી નુકસાન ન પહોંચાડવું જોઈએ.</li><li>સ્મારકોની આસપાસ ગંદકી કરવી કે થૂંકવું ટાળવું જોઈએ.</li><li>પર્યટન સ્થળોએ પ્લાસ્ટિકનો કચરો ગમે ત્યાં ફેંકવો જોઈએ નહીં.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 'લખવું નહીં, તોડવું નહીં, ગંદકી કરવી નહીં'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board March 2023 / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "બંધારણની કલમ 51 (ક) માં વારસાની જાળવણી માટે કઈ ફરજો દર્શાવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આપણી સમન્વિત સંસ્કૃતિના સમૃદ્ધ વારસાનું મૂલ્ય સમજી તેની જાળવણી કરવી.</li><li>જંગલો, તળાવો, નદીઓ અને વન્ય પશુ-પક્ષીઓ સહિત કુદરતી પર્યાવરણનું જતન કરવું અને સુધારો કરવો.</li><li>જીવમાત્ર પ્રત્યે અનુકંપા (દયા) રાખવી.</li><li>જાહેર મિલકતોનું રક્ષણ કરવું અને હિંસાનો ત્યાગ કરવો.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: કલમ 51 (ક) ના પેટા ક્રમ '6, 7 અને 9' (છ, જ, ઝ) યાદ રાખો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Ch 7 / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "પ્રાચીન સ્મારકો, પુરાતત્વીય સ્થળો અને અવશેષોનો કાયદો (1958) શું સૂચવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આ કાયદા મુજબ કોઈપણ પ્રાચીન સ્મારક કે સ્થળની આસપાસ ખોદકામ, બાંધકામ કે અન્ય પ્રવૃત્તિ પર પ્રતિબંધ છે.</li><li>સરકારની પૂર્વ મંજૂરી વગર કોઈપણ ઐતિહાસિક સ્થળમાં ફેરફાર કરી શકાતો નથી.</li><li>આ કાયદાનો ભંગ કરનાર વ્યક્તિને જેલની સજા કે દંડની જોગવાઈ કરવામાં આવી છે.</li><li>પુરાતત્વીય વારસાને મૂળ સ્વરૂપમાં જાળવવાની જવાબદારી સરકારની છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: '1958 = નો ખોદકામ, નો ફેરફાર'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB New Syllabus / NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "મુંબઈ નેચરલ હિસ્ટ્રી સોસાયટી (BNHS) વિશે ટૂંકમાં માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>તે ભારતની સૌથી જૂની અને વન્યજીવોના સંરક્ષણ માટે કાર્યરત બિનસરકારી સંસ્થા (NGO) છે.</li><li>તેની સ્થાપના ઈ.સ. 1883માં કરવામાં આવી હતી.</li><li>તે પર્યાવરણના રક્ષણ અને વન્યજીવોના અભ્યાસ માટે અનેક પ્રકલ્પ ચલાવે છે.</li><li>વર્તમાનમાં પણ આ સંસ્થા કુદરતી વારસાના જતનમાં પાયાનું કાર્ય કરી રહી છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: BNHS = 1883 + NGO + મુંબઈ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Ch 7 / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "પર્યટન સ્થળોની સ્વચ્છતા જાળવવા માટે સૂચનો આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>કચરો હંમેશા કચરાપેટીમાં જ નાખવો જોઈએ અને પ્લાસ્ટિકનો ઉપયોગ ટાળવો જોઈએ.</li><li>ઐતિહાસિક વાવ, તળાવ કે નદીઓમાં સ્નાન કરવું કે કપડાં ધોવા જેવી ગંદકી કરવી નહીં.</li><li>ખાણી-પીણીની વસ્તુઓ ખાઈને તેના પેકિંગ ગમે ત્યાં ન ફેંકવા.</li><li>પર્યટન સ્થળોએ પાન-મસાલા ખાઈને થૂંકવું નહીં.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 'સ્વચ્છ ભારત, સુંદર વારસો' સૂત્ર યાદ રાખવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Model Question Paper</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "સ્વામી વિવેકાનંદે શિકાગોની વિશ્વધર્મ પરિષદમાં ભારત વિશે શું કહ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>સ્વામી વિવેકાનંદે કહ્યું હતું કે, \"મને કહેતા ગર્વ થાય છે કે હું એ ધર્મનો પ્રતિનિધિ છું, જેણે જગતને સહિષ્ણુતા અને વિશ્વબંધુત્વના પાઠ ભણાવ્યા છે.\"</li><li>તેમણે ભારતીય સંસ્કૃતિની ઉદારતા અને વિવિધતામાં એકતાના દર્શન કરાવ્યા હતા.</li><li>તેમના શબ્દોએ ભારતીય વારસાનું ગૌરવ વિશ્વ સ્તરે વધાર્યું હતું.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: કીવર્ડ્સ: 'સહિષ્ણુતા' અને 'વિશ્વબંધુત્વ'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Ch 7 / NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "શા માટે વારસાની જાળવણી માટે પ્રજામાં જાગૃતિ લાવવી જરૂરી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>વારસો એ આપણી રાષ્ટ્રીય ઓળખ છે, જો તે નષ્ટ થશે તો આપણે આપણું અસ્તિત્વ ગુમાવીશું.</li><li>લોકો અજાણતા સ્મારકોને નુકસાન પહોંચાડે છે, તેથી તેમને તેના ઐતિહાસિક મહત્વની જાણ હોવી જોઈએ.</li><li>આગામી પેઢીને આપણો સમૃદ્ધ વારસો સોંપવા માટે તેની જાળવણી અનિવાર્ય છે.</li><li>વારસો એ પર્યટન દ્વારા આર્થિક આવકનો મુખ્ય સ્ત્રોત છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: ઓળખ + આવક + અસ્તિત્વ = વારસો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept Note</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "વારસાના જતનમાં શિક્ષણ સંસ્થાઓની ભૂમિકા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>શાળાઓ અને કોલેજોમાં વિદ્યાર્થીઓને ભારતના ભવ્ય વારસાની માહિતી આપવી જોઈએ.</li><li>શૈક્ષણિક પ્રવાસો દ્વારા વિદ્યાર્થીઓને ઐતિહાસિક સ્થળોની મુલાકાત કરાવી તેનું મહત્વ સમજાવવું જોઈએ.</li><li>નિબંધ સ્પર્ધા, ચિત્ર સ્પર્ધા કે વકતૃત્વ સ્પર્ધા દ્વારા વારસા પ્રત્યે જાગૃતિ લાવવી જોઈએ.</li><li>વિદ્યાર્થીઓને વારસાના સંરક્ષણની શપથ લેવડાવવી જોઈએ.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 'માહિતી + પ્રવાસ + સ્પર્ધા = જાગૃતિ'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook / NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "વિવિધતામાં એકતા એ ભારતીય સંસ્કૃતિની વિશેષતા છે. સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ભારતમાં અલગ અલગ જ્ઞાતિ, ધર્મ, ભાષા અને રિવાજો હોવા છતાં લોકો હળીમળીને રહે છે.</li><li>ભારતે 'વસુધૈવ કુટુમ્બકમ' (આખી દુનિયા એક પરિવાર છે) ની ભાવના સ્વીકારી છે.</li><li>ભારતમાં અનેક આક્રમણકારો આવ્યા છતાં ભારતે તેમની સંસ્કૃતિને પોતાનામાં સમાવી લીધી છે.</li><li>આ સમન્વયકારી ભાવનાને કારણે જ ભારતનો વારસો અજોડ બન્યો છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: વિવિધતામાં એકતા = 'મિશ્રિત સંસ્કૃતિ'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Ch 7</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "પ્રાકૃતિક વારસાના જતન માટે કઈ કઈ સંસ્થાઓ કાર્ય કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>ભારતીય વન્યજીવ બોર્ડ (IBWL):</strong> તે વન્યજીવોના રક્ષણ માટે કાર્ય કરે છે.</li><li><strong>મુંબઈ નેચરલ હિસ્ટ્રી સોસાયટી:</strong> તે પક્ષીઓ અને વન્યજીવોના અભ્યાસ માટેની જૂની સંસ્થા છે.</li><li><strong>ગીર ફાઉન્ડેશન:</strong> તે પર્યાવરણ શિક્ષણ અને સંશોધન માટે કાર્યરત છે.</li><li><strong>WWF-India:</strong> તે વિશ્વ વન્યજીવ ભંડોળની ભારતીય શાખા છે જે સંરક્ષણ કાર્ય કરે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: IBWL, BNHS, GEER, WWF.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Note</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "લોકમાતા નદીઓની જાળવણી કેમ કરવી જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>નદીઓ આપણી સંસ્કૃતિનું પાલનપોષણ કરે છે, તેથી આપણે તેને 'લોકમાતા' કહીએ છીએ.</li><li>નદીઓના પાણીમાં ગટરનું પાણી કે ઉદ્યોગોનું પ્રદૂષિત પાણી છોડવું જોઈએ નહીં.</li><li>નદી કિનારે પ્લાસ્ટિક કે પૂજાની સામગ્રી પધરાવી ગંદકી કરવી જોઈએ નહીં.</li><li>નદીઓના પ્રદૂષણથી જલચર જીવો અને માનવ સ્વાસ્થ્યને નુકસાન થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 'નદી = જીવન, ગંદકી = મરણ'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook / NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "વારસાની જાળવણી માટે સરકારની ભૂમિકા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>સરકારે વારસાના જતન માટે ચોક્કસ કાયદાઓ (જેમ કે 1958નો કાયદો) બનાવ્યા છે.</li><li>પુરાતત્વ ખાતું (ASI) ઐતિહાસિક સ્મારકોનું સમારકામ અને દેખરેખ રાખે છે.</li><li>વધુ પડતા પ્રદૂષિત થતા સ્થળો (જેમ કે તાજમહેલ) ની આસપાસના ઉદ્યોગો પર નિયંત્રણ મુકે છે.</li><li>સરકાર વારસાના સ્થળોને 'રાષ્ટ્રીય સ્મારક' જાહેર કરીને તેનું રક્ષણ કરે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: સરકાર = 'કાયદો + ASI + ફંડ'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB New NCERT Pattern</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "ભારતની સહિષ્ણુતા વિશે ટૂંકમાં નોંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ભારતે ક્યારેય કોઈ ધર્મ કે સંપ્રદાયનો તિરસ્કાર કર્યો નથી, હંમેશા સ્વીકાર કર્યો છે.</li><li>પારસીઓ અને યહુદીઓ જેવા લઘુમતી સમુદાયોને ભારતે આશરો આપી સાચવ્યા છે.</li><li>ભારત 'સર્વધર્મ સમભાવ'ના સિદ્ધાંતમાં માને છે.</li><li>આ સહિષ્ણુતાને કારણે જ ભારતીય સંસ્કૃતિ આજે પણ જીવંત અને અખંડ છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 'સ્વીકાર + સમભાવ = સહિષ્ણુતા'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Ch 7 / NJ Classes IMP</p></div>"
+    }
+  ]
+}
