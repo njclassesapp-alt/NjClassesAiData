@@ -823,3 +823,100 @@ var Std10_SS_2Marks = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "ભારત: કૃષિ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "ખરીફ પાક અને રવિ પાક વચ્ચેનો તફાવત સ્પષ્ટ કરો. (March 2020)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>ખરીફ પાક:</strong> જે પાક ચોમાસામાં લેવામાં આવે તેને ખરીફ પાક કહે છે. તેનો સમય જૂન-જુલાઈથી ઓક્ટોબર-નવેમ્બર સુધીનો હોય છે. દા.ત. ડાંગર, મકાઈ, કપાસ.</li><li><strong>રવિ પાક:</strong> જે પાક શિયાળામાં લેવામાં આવે તેને રવિ પાક કહે છે. તેનો સમય ઓક્ટોબર-નવેમ્બરથી માર્ચ-એપ્રિલ સુધીનો હોય છે. દા.ત. ઘઉં, ચણા, જવ, રાઈ.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ખરીફ' એટલે ચોમાસું (ખરાબ હવામાન/વરસાદ) અને 'રવિ' એટલે શિયાળો (રવિ એટલે સૂર્ય, જે શિયાળામાં વહાલો લાગે).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board March 2020</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "ઘઉંના પાકને 'અનાજનો રાજા' શા માટે કહેવામાં આવે છે? (March 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ભારતમાં ડાંગર પછી ઘઉં એ મહત્વનો પાક છે. તે દેશના ત્રીજા ભાગની ખેતીલાયક જમીન પર વવાય છે.</li><li>ઘઉંમાંથી રોટલી, ભાખરી, પૂરી, શીરો, લાપસી, લાડુ, સુખડી, બ્રેડ, બિસ્કિટ જેવી અનેક વાનગીઓ બને છે.</li><li>તેમાં કાર્બોહાઈડ્રેટ્સ, પ્રોટીન અને વિટામિન્સ જેવા પોષકતત્વો ભરપૂર હોવાથી તેને 'અનાજનો રાજા' કહેવામાં આવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સર્વગુણ સંપન્ન' - જેમાંથી સૌથી વધુ વાનગીઓ બને તે રાજા!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board March 2022</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "'જીવનનિર્વાહ ખેતી' એટલે શું? (March 2019)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જે ખેતીનું ઉત્પાદન ખેડૂત પોતાના પરિવારના ઉપયોગમાં જ વપરાઈ જાય તેને જીવનનિર્વાહ ખેતી કહે છે.</li><li>આ પ્રકારની ખેતીમાં ખેડૂત પાસે નાના કદના ખેતરો હોય છે અને મોંઘા બિયારણ કે ખાતર વાપરવા પોસાય તેમ હોતું નથી.</li><li>ઉત્પાદન એટલું જ થાય છે જે પરિવારના ભરણપોષણમાં જ પૂરું થઈ જાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જીવન + નિર્વાહ' = ફક્ત જીવવા માટે જ કરાતી ખેતી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board March 2019</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "શાકાહારી લોકો માટે કઠોળ પ્રોટીનનો મુખ્ય સ્ત્રોત છે - સમજાવો. (August 2020)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>શાકાહારી લોકો માંસ કે ઈંડાનું સેવન કરતા નથી, તેથી શરીરમાં પ્રોટીનની ઉણપ પૂરી કરવા કઠોળ શ્રેષ્ઠ વિકલ્પ છે.</li><li>તુવેર, અડદ, મગ, ચણા, મઠ અને વાલ જેવા કઠોળમાં વિપુલ પ્રમાણમાં પ્રોટીન હોય છે.</li><li>કઠોળના પાક દ્વારા જમીનમાં નાઈટ્રોજનનું પુનઃસ્થાપન પણ થાય છે, જે જમીનની ફળદ્રુપતા વધારે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: કઠોળ = પ્રોટીનની ફેક્ટરી (શાકાહારીઓ માટે).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Aug 2020</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "ડાંગરના પાક માટે કયા પ્રકારની આબોહવા અને જમીન જરૂરી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>આબોહવા:</strong> ડાંગર ઉષ્ણ અને ભેજવાળી આબોહવા ધરાવતો પાક છે. તેને લઘુત્તમ 20° સેલ્સિયસ તાપમાનની જરૂર પડે છે.</li><li><strong>વરસાદ:</strong> તેને 100 સેમી કે તેથી વધુ વરસાદની જરૂર રહે છે.</li><li><strong>જમીન:</strong> નદીઓના કાંપની ફળદ્રુપ જમીન ડાંગર માટે સૌથી વધુ અનુકૂળ છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની ટ્રીક: ડાંગર એટલે 'પાણીનો શોખીન પાક'. વધુ ગરમી + વધુ પાણી = વધુ ડાંગર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "મકાઈના પાકના ઉપયોગો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>મકાઈનો ઉપયોગ મુખ્યત્વે અનાજ તરીકે અને પશુઓના આહાર (ખાણ) તરીકે થાય છે.</li><li>મકાઈમાંથી સ્ટાર્ચ, તેલ, પ્રોટીન અને બાયો-ફ્યુઅલ જેવા ઔદ્યોગિક ઉત્પાદનો મેળવવામાં આવે છે.</li><li>તેમાં રહેલા પોષક તત્વોને કારણે તે ડુંગરાળ વિસ્તારના લોકોનો મુખ્ય ખોરાક છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટિપ્સ: મકાઈ = મલ્ટીપર્પઝ (ખોરાક + પશુઆહાર + ઉદ્યોગ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT New Syllabus</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "કોફીના પાકની માવજત કેવી રીતે કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>કોફીના છોડને સૂર્યનો સીધો તડકો ન લાગે તે રીતે મોટા વૃક્ષોની છાયામાં ઉછેરવામાં આવે છે.</li><li>તેને પર્વતીય ઢોળાવ પર એવી રીતે ઉગાડવામાં આવે છે કે જેથી તેના મૂળમાં પાણી ભરાઈ ન રહે.</li><li>ભારતમાં કર્ણાટકનો 'કુર્ગ' પ્રદેશ કોફીના ઉત્પાદન માટે પ્રખ્યાત છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખવાની રીત: કોફી 'નાજુક' છે, તેને છાયડો અને ઢોળાવ (પાણીનો નિકાલ) બંને જોઈએ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "મગફળીના ઉત્પાદનમાં ગુજરાતનું સ્થાન જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ભારતમાં કુલ મગફળી ઉત્પાદનમાં ગુજરાત રાજ્ય પ્રથમ ક્રમે આવે છે.</li><li>ગુજરાતમાં પણ 'જૂનાગઢ' જિલ્લો મગફળીના ઉત્પાદનમાં અગ્રેસર છે.</li><li>આ ઉપરાંત રાજકોટ, અમરેલી અને ભાવનગર જિલ્લામાં પણ મગફળીનું મોટાપાયે ઉત્પાદન થાય છે. ગુજરાતમાં ખાદ્યતેલ તરીકે સીંગતેલ (મગફળીનું તેલ) વધુ વપરાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: મગફળી = ગુજરાતની શાન (જૂનાગઢ યાદ રાખવું).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Statistics</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "સજીવ ખેતી (ઓર્ગેનિક ફાર્મિંગ) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જે ખેતી પદ્ધતિમાં રાસાયણિક ખાતરો અને જંતુનાશક દવાઓનો ઉપયોગ કરવામાં આવતો નથી તેને સજીવ ખેતી કહે છે.</li><li>તેમાં જમીનના પોષણ માટે છાણિયું ખાતર, અળસિયાનું ખાતર અને કમ્પોસ્ટ ખાતર વાપરવામાં આવે છે.</li><li>પાક સંરક્ષણ માટે ગૌમૂત્ર, લીમડાનું દ્રાવણ અને છાશ વગેરેનો ઉપયોગ થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 વ્યાખ્યા: કેમિકલ મુક્ત ખેતી = સજીવ ખેતી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "ભારતીય અર્થતંત્રમાં કૃષિનું પ્રદાન જણાવો (કોઈપણ 4 મુદ્દા).",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ભારતના અંદાજે 60% લોકોને રોજગારી પૂરી પાડે છે.</li><li>કુલ રાષ્ટ્રીય ઉત્પાદન (GDP) માં કૃષિનો હિસ્સો લગભગ 17% જેટલો છે.</li><li>સુતરાઉ કાપડ, ખાંડ અને કાગળ જેવા ઉદ્યોગોને કાચો માલ પૂરો પાડે છે.</li><li>કૃષિ પેદાશોની નિકાસ દ્વારા કિંમતી વિદેશી હૂંડિયામણ પ્રાપ્ત થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટ નોટ: ભારત 'ખેતીપ્રધાન' દેશ હોવાથી કૃષિ એ અર્થતંત્રની કરોડરજ્જુ છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "સૂકી ખેતી અને આદ્ર (ભીની) ખેતી વચ્ચેનો તફાવત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>સૂકી ખેતી:</strong> જ્યાં વરસાદ ઓછો પડે છે અને સિંચાઈની સગવડ ઓછી હોય તેવી જમીનમાં ભેજ સંગ્રહના આધારે વર્ષમાં એક જ વાર પાક લેવાય તેને સૂકી ખેતી કહે છે (દા.ત. જુવાર, બાજરી).</li><li><strong>આદ્ર ખેતી:</strong> જ્યાં વરસાદ વધુ પડે છે અને સિંચાઈની પૂરી સગવડ હોય ત્યાં વર્ષમાં એકથી વધુ પાક લેવાય તેને આદ્ર ખેતી કહે છે (દા.ત. ડાંગર, શેરડી).</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: સૂકી = ભેજના આધારે, આદ્ર = પાણીની વિપુલતા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Curriculum</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "કૃષિ ક્ષેત્રે થયેલા ટેકનિકલ સુધારામાં બિયારણો અને ખાતરોનો ફાળો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>પરંપરાગત બિયારણોને બદલે હવે સંશોધિત અને હાઈબ્રિડ (B.T.) બિયારણોનો ઉપયોગ વધ્યો છે.</li><li>જમીનની ફળદ્રુપતા વધારવા માટે DAP (ડાય-એમોનિયમ ફોસ્ફેટ), Urea અને NPK જેવા રાસાયણિક ખાતરોનો ઉપયોગ થાય છે.</li><li>બાયો-ફર્ટિલાઈઝર અને પ્રવાહી ખાતરો દ્વારા ખેતીની ઉત્પાદકતામાં મોટો વધારો થયો છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટિપ્સ: ટેકનિકલ એટલે મશીનરી સિવાયના વિજ્ઞાન આધારિત ફેરફારો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "ઝાયદ પાક એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ઉનાળા દરમિયાન લેવામાં આવતા પાકને 'ઝાયદ પાક' કહેવામાં આવે છે.</li><li>તેનો સમયગાળો માર્ચથી જૂન સુધીનો હોય છે.</li><li>દા.ત. તરબૂચ, કાકડી, સક્કરટેટી, મકાઈ અને ડાંગર (ઉનાળુ).</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: ઝાયદ = 'ઝળહળતો તડકો' (ઉનાળો). જેમાં પાણીવાળા ફળો વધુ થાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Syllabus 2024</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "રબરની ખેતી માટે કેવી અનુકૂળતા જોઈએ અને તેનો ઉપયોગ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>અનુકૂળતા:</strong> રબરના પાકને ગરમ અને ભેજવાળી આબોહવા તથા વધુ વરસાદવાળા વિસ્તારોમાં બાગાયતી ખેતી તરીકે કરવામાં આવે છે.</li><li><strong>ઉપયોગ:</strong> લેટેક્સ (રબરના ક્ષીર) માંથી ટાયર, ટ્યુબ અને અન્ય રબરની વસ્તુઓ બનાવવામાં આવે છે.</li><li>કેરળ રબરના ઉત્પાદનમાં ભારતમાં પ્રથમ સ્થાને છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: રબર = લેટેક્સ (ક્ષીર) + કેરળ + ટાયર-ટ્યુબ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "ભાલિયા ઘઉં વિશે ટૂંકમાં માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ગુજરાતના અમદાવાદ જિલ્લાના 'ભાલ' પ્રદેશમાં થતા ઘઉં 'ભાલિયા ઘઉં' તરીકે ઓળખાય છે.</li><li>આ ઘઉં ચોમાસું પૂરું થયા પછી જમીનમાં સંગ્રહાયેલા ભેજના આધારે સૂકી ખેતી તરીકે લેવામાં આવે છે.</li><li>આ ઘઉં પોષક તત્વોથી ભરપૂર હોય છે અને તેની ખાસ મીઠાશને કારણે તે જાણીતા છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 લોકેશન: ભાલ પ્રદેશ (અમદાવાદ - ધોળકા બાજુનો વિસ્તાર).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Social Science Textbook</p></div>"
+    }
+  ]
+}
