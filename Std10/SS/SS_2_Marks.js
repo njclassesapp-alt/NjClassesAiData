@@ -1017,3 +1017,70 @@ var Std10_SS_2Marks = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "ભારત: ખનીજ અને શક્તિનાં સંસાધનો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "ખનીજોનું વર્ગીકરણ કયા આધારે કરવામાં આવે છે? (બોર્ડ માર્ચ 2020)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ખનીજોનું વર્ગીકરણ મુખ્યત્વે તેમના ગુણધર્મો અને ઉપયોગિતાના આધારે કરવામાં આવે છે. મુખ્યત્વે ત્રણ પ્રકાર પડે છે: 1. ધાતુમય ખનીજો (જેમ કે લોખંડ, તાંબું), 2. અધાતુમય ખનીજો (જેમ કે ચૂનાનો પથ્થર, અબરખ), અને 3. સંચય શક્તિના સંસાધનો (જેમ કે કોલસો, ખનીજ તેલ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ધા-અ-સ' (ધાતુમય, અધાતુમય, સંચય શક્તિ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "લોખંડના પ્રકારો જણાવો. (બોર્ડ માર્ચ 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>લોખંડના મુખ્ય ચાર પ્રકારો છે: 1. હેમેટાઈટ, 2. મેગ્નેટાઈટ, 3. લિમોનાઈટ અને 4. સિડેરાઈટ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હે-મે-લિ-સી' (હેમેટાઈટ, મેગ્નેટાઈટ, લિમોનાઈટ, સિડેરાઈટ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "બાયોગેસના ઉપયોગો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>બાયોગેસનો ઉપયોગ મુખ્યત્વે રસોઈ બનાવવા માટે ઇંધણ તરીકે અને ઘરોમાં રોશની મેળવવા માટે થાય છે. તે સિવાય તેમાંથી ઉત્તમ પ્રકારનું ખાતર પણ મળે છે જે ખેતી માટે ઉપયોગી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રસોઈ + રોશની + ખાતર' = બાયોગેસ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "સૌર ઊર્જાનું મહત્વ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સૌર ઊર્જા એ ખૂટે નહીં તેવી પુનઃપ્રાપ્ય ઊર્જા છે. તે પ્રદૂષણમુક્ત છે. ભારતમાં સૂર્યપ્રકાશ પુષ્કળ હોવાથી તે ગ્રામીણ વિસ્તારોમાં લાઇટિંગ અને ખેતીના પંપ ચલાવવા માટે ખૂબ જ ઉપયોગી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અખૂટ + પ્રદૂષણમુક્ત = સૌર ઊર્જા'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "પવન ઊર્જા એટલે શું? તેના ઉત્પાદન માટે કયા રાજ્યો અગ્રેસર છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ભૂમિગત પવનોની ગતિનો ઉપયોગ કરીને પવનચક્કી દ્વારા ઉત્પન્ન થતી વીજળી એટલે પવન ઊર્જા. ભારતમાં તમિલનાડુ, ગુજરાત અને મહારાષ્ટ્ર રાજ્યમાં તેનું ઉત્પાદન સૌથી વધુ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તગુમ' (તમિલનાડુ, ગુજરાત, મહારાષ્ટ્ર).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "ખનીજોના સંરક્ષણની જરૂરિયાત કેમ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ખનીજો બનતા લાખો વર્ષ લાગે છે અને તેનો જથ્થો મર્યાદિત છે. વધતી જતી માનવીય માંગને કારણે તેનો વપરાશ વધ્યો છે. ભવિષ્યની પેઢી માટે તેને બચાવવા માટે સંરક્ષણ અનિવાર્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મર્યાદિત જથ્થો + ભવિષ્યની જરૂરિયાત = સંરક્ષણ'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "મેંગેનીઝનો મુખ્ય ઉપયોગ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>મેંગેનીઝનો મુખ્ય ઉપયોગ લોખંડ-પોલાદ બનાવવાની પ્રક્રિયામાં થાય છે. તે સિવાય તે રાસાયણિક ઉદ્યોગો, બેટરી (સૂકા સેલ) અને કાચના ઉદ્યોગમાં વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લોખંડ + બેટરી + કાચ'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "અબરખની વિશેષતા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અબરખ અગ્નિરોધક અને વિદ્યુતનો અવાહક છે. તેથી તેનો ઉપયોગ ઇલેક્ટ્રિક ઉપકરણો, ઇસ્ત્રી, રેડિયો અને ટેલિફોન બનાવવામાં થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વિદ્યુતનો અવાહક + અગ્નિરોધક'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "કોલસાના પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કાર્બનના પ્રમાણના આધારે કોલસાના ચાર પ્રકાર છે: 1. એન્થ્રાસાઈટ, 2. બિટ્યુમિનસ, 3. લિગ્નાઈટ અને 4. પીટ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'એ-બી-લિ-પી'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "પરંપરાગત અને બિન-પરંપરાગત ઊર્જાના સ્ત્રોત વચ્ચેનો તફાવત શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પરંપરાગત સ્ત્રોતો (કોલસો, પેટ્રોલ) ખૂટી જાય તેવા અને પ્રદૂષણ ફેલાવનારા છે. જ્યારે બિન-પરંપરાગત સ્ત્રોતો (સૂર્ય, પવન) અખૂટ અને પ્રદૂષણમુક્ત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પરંપરાગત = ખૂટી જાય, બિન-પરંપરાગત = અખૂટ'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    }
+  ]
+}
