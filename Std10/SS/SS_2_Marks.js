@@ -1084,3 +1084,100 @@ var Std10_SS_2Marks = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "ઉત્પાદન ઉદ્યોગો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "ઉદ્યોગોનું મહત્ત્વ જણાવો. (Board March-2020, July-2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>કોઈપણ રાષ્ટ્રની આર્થિક પ્રગતિ ઉદ્યોગોના વિકાસ પર આધારિત છે.</li><li>ઉદ્યોગો દ્વારા કાચા માલનું કિંમતી ચીજવસ્તુઓમાં રૂપાંતર થવાથી રાષ્ટ્રીય ઉત્પાદનમાં વધારો થાય છે.</li><li>તેનાથી રોજગારીની તકો વધે છે અને લોકોનું જીવનધોરણ ઊંચું આવે છે.</li><li>જે દેશો ઔદ્યોગિક રીતે વિકસિત છે, તે દેશોની આર્થિક સ્થિતિ ઘણી મજબૂત હોય છે (દા.ત. યુ.એસ.એ., જાપાન).</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આર્થિક વિકાસ = ઉદ્યોગનો વિકાસ'. યાદ રાખો: ઉત્પાદન + રોજગારી = સમૃદ્ધિ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board PYQ</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "માનવ શ્રમ અને મૂડી રોકાણના આધારે ઉદ્યોગોના પ્રકારો જણાવો. (Board July-2019)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>માનવ શ્રમ અને મૂડી રોકાણના આધારે ઉદ્યોગોના બે મુખ્ય પ્રકાર છે:</p><ul><li><strong>1. મોટા પાયાના ઉદ્યોગો:</strong> જેમાં વધુ મૂડી રોકાણ અને વધુ શ્રમિકોની જરૂર પડે છે. દા.ત., લોખંડ-પોલાદ ઉદ્યોગ, સુતરાઉ કાપડ ઉદ્યોગ.</li><li><strong>2. નાના પાયાના ઉદ્યોગો:</strong> જે ઉદ્યોગોમાં મૂડી રોકાણ ઓછું હોય અને જે કોઈ વ્યક્તિગત માલિકી હેઠળ ચાલતા હોય. દા.ત., ખાંડસરી ઉદ્યોગ, વાસણ ઉદ્યોગ.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટું રોકાણ = મોટા પાયા, નાનું રોકાણ = નાના પાયા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Page 104</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "માલિકીના આધારે ઉદ્યોગોનું વર્ગીકરણ કયા વિભાગોમાં કરી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>માલિકીના આધારે ઉદ્યોગોને નીચેના ચાર વિભાગોમાં વહેંચી શકાય છે:</p><ul><li><strong>1. જાહેર ક્ષેત્ર:</strong> સરકારની માલિકીના ઉદ્યોગો (દા.ત. BHEL, SAIL).</li><li><strong>2. ખાનગી ક્ષેત્ર:</strong> ખાનગી વ્યક્તિ કે પેઢીની માલિકીના (દા.ત. રિલાયન્સ, ટાટા).</li><li><strong>3. સંયુક્ત ક્ષેત્ર:</strong> સરકાર અને ખાનગી ક્ષેત્રની ભાગીદારીવાળા ઉદ્યોગો.</li><li><strong>4. સહકારી ક્ષેત્ર:</strong> ઉત્પાદકો કે ગ્રાહકોના મંડળો દ્વારા ચાલતા (દા.ત. અમૂલ ડેરી).</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જા-ખા-સં-સહ (જાહેર, ખાનગી, સંયુક્ત, સહકારી).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Note</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "સુતરાઉ કાપડ ઉદ્યોગ મુંબઈ અને અમદાવાદમાં શા માટે વધુ વિકસ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>મુંબઈ અને અમદાવાદની આસપાસના વિસ્તારોમાં કપાસનું મબલખ ઉત્પાદન થાય છે (કાચો માલ).</li><li>અહીં ભેજવાળી આબોહવા છે જે કાંતણ અને વણાટ માટે અનુકૂળ છે.</li><li>મુંબઈ મોટું બંદર છે, જે નિકાસ અને આયાત માટે ઉપયોગી છે.</li><li>અહીં સસ્તી અને કુશળ મજૂરી, વાહનવ્યવહાર અને બેન્કિંગ સુવિધાઓ ઉપલબ્ધ છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કાપાસ + ભેજ + બંદર = સુતરાઉ કાપડનું હબ'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Most IMP for Board</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "હુગલી નદીના કિનારે શણ ઉદ્યોગ કેન્દ્રિત થવાના કારણો જણાવો. (Board March-2019)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>શણને શુદ્ધ કરવા માટે પુષ્કળ પ્રમાણમાં મીઠા પાણીની જરૂર પડે છે જે હુગલી નદી પૂરી પાડે છે.</li><li>પશ્ચિમ બંગાળમાં શણનું ઉત્પાદન સૌથી વધુ થાય છે (કાચા માલની પ્રાપ્તિ).</li><li>જળમાર્ગે વાહનવ્યવહારની સસ્તી સુવિધા ઉપલબ્ધ છે.</li><li>બિહાર અને ઓડિશામાંથી સસ્તા શ્રમિકો મળી રહે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શણ + મીઠું પાણી + સસ્તો મજૂર = હુગલી કિનારો'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Previous Year</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "લોખંડ-પોલાદ ઉદ્યોગને 'ચાવીરૂપ' કે 'આધારસ્તંભ' ઉદ્યોગ કેમ કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>નાના-મોટા યંત્રો, ઓજારો અને બાંધકામની વસ્તુઓ બનાવવા માટે લોખંડ-પોલાદ પાયાનો કાચો માલ છે.</li><li>રેલવેના પાટા, એન્જિનો, જહાજો અને વાહનો બનાવવા માટે આ ઉદ્યોગ અનિવાર્ય છે.</li><li>અન્ય તમામ ઉદ્યોગોના મશીનો લોખંડના બનેલા હોય છે, તેથી તેના વગર ઔદ્યોગિક વિકાસ શક્ય નથી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોખંડ = બધા ઉદ્યોગોની મમ્મી (તમામ સાધનોનો પાયો).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Content</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "રાસાયણિક ઉદ્યોગોમાં ગુજરાતનું સ્થાન સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ભારતમાં રાસાયણિક ઉદ્યોગના ઉત્પાદનમાં ગુજરાત દેશમાં મોખરે (પ્રથમ) સ્થાને છે.</li><li>અમદાવાદ, વડોદરા, અંકલેશ્વર અને ભરૂચ એ રાસાયણિક ઉદ્યોગના મુખ્ય કેન્દ્રો છે.</li><li>ખાસ કરીને અંકલેશ્વર ખાતે પેટ્રોકેમિકલ્સ અને વિવિધ રસાયણોનું મોટા પાયે ઉત્પાદન થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાત = કેમિકલ હબ (ખાસ કરીને અંકલેશ્વર).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Gujarat Board Fact</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "એલ્યુમિનિયમ ગાળણ ઉદ્યોગની વિશેષતાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>એલ્યુમિનિયમ વજનમાં હલકું, મજબૂત, ટીપાઉપણું અને વિદ્યુતનું સુવાહક હોવાથી ખૂબ ઉપયોગી છે.</li><li>તેને કાટ લાગતો નથી, તેથી વાસણો અને વીજળીના સાધનોમાં વધુ વપરાય છે.</li><li>એલ્યુમિનિયમ ગાળણ માટે પુષ્કળ વીજળી અને કાચા માલ તરીકે 'બૉક્સાઈટ'ની જરૂર પડે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હલકું + મજબૂત + કાટમુક્ત = એલ્યુમિનિયમ'. કાચો માલ: બૉક્સાઈટ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB New Syllabus</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "ભારતમાં જહાજ બાંધકામના મુખ્ય પાંચ કેન્દ્રો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ભારતમાં જહાજ બાંધકામ મુખ્યત્વે જાહેર ક્ષેત્રના પાંચ કેન્દ્રોમાં થાય છે:</p><ol><li>વિશાખાપટ્ટનમ (આંધ્રપ્રદેશ)</li><li>કોલકાતા (પશ્ચિમ બંગાળ)</li><li>કોચી (કેરલ)</li><li>મુંબઈ (મહારાષ્ટ્ર)</li><li>માર્માગોવા (ગોવા)</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરિયાકિનારાના શહેરો યાદ રાખો: વિશાખા, કોચી, મુંબઈ, ગોવા, કોલકાતા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Transport Equipment Industry</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "બેંગલુરુને ભારતની 'સિલિકોન વેલી' કેમ કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>બેંગલુરુ ભારતમાં ઇલેક્ટ્રોનિક અને માહિતી ટેકનોલોજી (IT) ઉદ્યોગનું સૌથી મોટું કેન્દ્ર છે.</li><li>અહીં સોફ્ટવેર અને હાર્ડવેર ક્ષેત્રે સૌથી વધુ વિકાસ થયો છે.</li><li>અમેરિકાના પ્રખ્યાત 'સિલિકોન વેલી' જેવો જ ઔદ્યોગિક માહોલ અહીં હોવાથી તેને ભારતની સિલિકોન વેલી કહે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેંગલુરુ = IT રાજધાની = ઇલેક્ટ્રોનિક હબ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Electronic Industry section</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "ઔદ્યોગિક પ્રદૂષણના મુખ્ય ચાર પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>માનવીય પ્રવૃત્તિઓ અને ઉદ્યોગોને કારણે થતા મુખ્ય પ્રદૂષણો નીચે મુજબ છે:</p><ul><li><strong>1. વાયુ પ્રદૂષણ:</strong> હવામાં ઝેરી વાયુઓ (CO, SO2) ભળવાથી થાય છે.</li><li><strong>2. જળ પ્રદૂષણ:</strong> કેમિકલયુક્ત પાણી નદીઓમાં છોડવાથી થાય છે.</li><li><strong>3. ભૂમિ પ્રદૂષણ:</strong> ઘન કચરો જમીન પર ફેંકવાથી જમીન બગડે છે.</li><li><strong>4. ધ્વનિ પ્રદૂષણ:</strong> જૂના મશીનો અને વાહનોના મોટા અવાજથી થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હવા, પાણી, જમીન અને અવાજ' - આ ચાર યાદ રાખવાના.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Environment Section</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "જળ પ્રદૂષણ અટકાવવાના કોઈ પણ બે ઉપાયો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ઉદ્યોગોના દૂષિત પાણીને સીધું નદી કે નાળામાં છોડવાને બદલે તેને શુદ્ધ (Purify) કરવું જોઈએ.</li><li>ઉદ્યોગોએ વોટર ટ્રીટમેન્ટ પ્લાન્ટ (STP) સ્થાપીને રાસાયણિક કચરો દૂર કરવો જોઈએ.</li><li>પાણીનો પુનઃઉપયોગ (Reuse) કરીને જળ પ્રદૂષણની માત્રા ઘટાડી શકાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શુદ્ધિકરણ + પુનઃઉપયોગ = ચોખ્ખું પાણી'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Sustainable Development</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "ખાંડ ઉદ્યોગની મુખ્ય સમસ્યાઓ કઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>શેરડી મોસમી પાક હોવાથી ઉદ્યોગ પણ ટૂંકા ગાળાનો (Seasonal) રહે છે.</li><li>શેરડી કાપ્યા પછી 24 કલાકમાં પલાળવી જરૂરી છે, નહીંતર ખાંડનું પ્રમાણ ઘટે છે.</li><li>જૂના પુરાણા યંત્રો અને શેરડીના વાહનવ્યવહારની અપૂરતી સુવિધા મોટી સમસ્યા છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '24 કલાકની મર્યાદા + જૂના મશીન = ખાંડ ઉદ્યોગની મુશ્કેલી'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Agro-based Industry</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "કાગળ ઉદ્યોગ માટે કયા કાચા માલની જરૂર પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કાગળ બનાવવા માટે નીચે મુજબના કાચા માલનો ઉપયોગ થાય છે:</p><ul><li>પોચું લાકડું (દા.ત. દેવદાર, ચીડ)</li><li>વાંસ (Bamboo)</li><li>ઘાસ અને શેરડીના કૂચા</li><li>પસ્તી અને રદ્દી કાગળ</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પોચું લાકડું + વાંસ + શેરડીના કૂચા = કાગળ'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "સિમેન્ટ ઉદ્યોગ માટે કયા કાચા માલની જરૂરિયાત રહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સિમેન્ટ ઉદ્યોગ એ વજનમાં ભારે અને કદમાં મોટા કાચા માલ પર આધારિત છે:</p><ul><li>ચૂનાનો પથ્થર (Limestone) - મુખ્ય ઘટક</li><li>કોલસો, જિપ્સમ (ચિરોડી)</li><li>બોક્સાઈટ અને ચીકણી માટી</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચૂનો + કોલસો + ચિરોડી = મજબૂત સિમેન્ટ'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Mineral-based Industry</p></div>"
+    }
+  ]
+}
