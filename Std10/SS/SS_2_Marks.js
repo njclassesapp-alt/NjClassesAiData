@@ -920,3 +920,100 @@ var Std10_SS_2Marks = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "ભારત: જળ સંસાધન",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "પૃષ્ઠીય જળના મુખ્ય સ્ત્રોતો કયા કયા છે? (Board March-2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>પૃષ્ઠીય જળ એટલે પૃથ્વીની સપાટી પર જોવા મળતું જળ.</li><li>પૃષ્ઠીય જળના મુખ્ય સ્ત્રોતોમાં <strong>નદીઓ, સરોવરો, તળાવો, સાગરો અને ઝરણાં</strong> વગેરેનો સમાવેશ થાય છે.</li><li>નદીઓ એ પૃષ્ઠીય જળનો <strong>મુખ્ય સ્ત્રોત</strong> ગણાય છે.</li><li>પૃષ્ઠીય જળનો સીધો ઉપયોગ પીવા, સિંચાઈ અને ઉદ્યોગોમાં થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ન-સ-ત-સ-ઝ' (નદી, સરોવર, તળાવ, સાગર, ઝરણાં) યાદ રાખવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board March 2022 / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "ભૂમિગત જળના ઉપયોગો અને લાક્ષણિકતાઓ જણાવો. (Board July-2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>પ્રાપ્તિ:</strong> પૃષ્ઠીય જળના અવશોષણ (જમીનમાં ઉતરવાથી) થી ભૂમિગત જળ પ્રાપ્ત થાય છે.</li><li><strong>જથ્થો:</strong> ભૂમિગત જળનો જથ્થો અપરિમિત છે.</li><li><strong>ઉપયોગ:</strong> ભૂમિગત જળનો સૌથી વધુ ઉપયોગ <strong>સિંચાઈ</strong> માટે કરવામાં આવે છે.</li><li><strong>વિતરણ:</strong> ભારતના ઉત્તરના મેદાની વિસ્તારમાં આશરે 42% ભૂમિગત જળ મળે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમીનની નીચેનું પાણી એટલે ભૂમિગત જળ, જેનો મુખ્ય ઉપયોગ 'ખેતી (સિંચાઈ)' માટે થાય છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board July 2023 / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "બહુહેતુક યોજનાના મુખ્ય ઉદ્દેશો જણાવો. (Most IMP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>પૂર નિયંત્રણ અને જમીન ધોવાણ અટકાવવું.</li><li>પીવા માટે અને ઉદ્યોગો માટે શુદ્ધ જળ પૂરું પાડવું.</li><li>સિંચાઈ અને જળવિદ્યુત (Electricity) ઉત્પન્ન કરવી.</li><li>આંતરિક જળપરિવહન, મત્સ્યપાલન અને મનોરંજનના હેતુઓ સિદ્ધ કરવા.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પૂ-સિ-વી-મ-મ' (પૂર, સિંચાઈ, વિદ્યુત, મત્સ્યપાલન, મનોરંજન) યાદ રાખવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Expert Selection</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "વૃષ્ટિજળ સંચયના (Rainwater Harvesting) ઉદ્દેશો જણાવો. (Board March-2020)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ભૂમિગત જળના જથ્થામાં વધારો કરવો અને તેનું સ્તર ઊંચું લાવવું.</li><li>જળ પ્રદૂષણ ઘટાડવું અને ભૂમિગત જળની ગુણવત્તા સુધારવી.</li><li>ઉનાળામાં અને લાંબા શુષ્ક સમયગાળામાં પાણીની જરૂરિયાત પૂરી કરવી.</li><li>રસ્તાઓને પાણીના ભરાવા (જળબંબાકાર) થી બચાવવા.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પાણી બચાવો, સ્તર વધારો' - વરસાદી પાણીને જમીનમાં ઉતારવાના ફાયદા લખવા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board March 2020 / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "ભારતમાં સિંચાઈના મુખ્ય માધ્યમો કયા કયા છે? કયું માધ્યમ અગ્રસ્થાને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ભારતમાં સિંચાઈના મુખ્ય ત્રણ માધ્યમો છે: (1) કુવા અને ટ્યુબવેલ, (2) નહેરો (Canals), અને (3) તળાવો.</li><li>આ પૈકી <strong>કુવા અને ટ્યુબવેલ</strong> એ સિંચાઈનું મુખ્ય અને પ્રથમ માધ્યમ છે.</li><li>નહેરો બીજા સ્થાને અને તળાવો ત્રીજા સ્થાને આવે છે.</li><li>નહેરો દ્વારા સિંચાઈ મુખ્યત્વે પૂર્વના ડેલ્ટા પ્રદેશો અને ઉત્તરના મેદાનોમાં થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રમ યાદ રાખો: 1. કુવા, 2. નહેરો, 3. તળાવો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT New Syllabus / NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "જળ સંકટની સમસ્યા હલ કરવા માટે કયા ઉપાયો કરી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>વધુમાં વધુ <strong>વૃષ્ટિજળ સંચય</strong> કરવો જોઈએ.</li><li>ખેતીમાં ટપક સિંચાઈ પદ્ધતિ (Drip Irrigation) નો ઉપયોગ વધારવો જોઈએ.</li><li>જળ પ્રદૂષણ અટકાવવું અને વપરાયેલા પાણીનું રિસાઈકલિંગ કરવું.</li><li>લોકજાગૃતિ કેળવવી અને પાણીનો કરકસરપૂર્વક ઉપયોગ કરવો.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કરકસર + રિસાઈકલિંગ + ટપક પદ્ધતિ = જળ સંકટનું નિવારણ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Expert Selection</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "જળપ્લાવિત ક્ષેત્ર (Watershed) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જળપ્લાવિત ક્ષેત્ર એ એક પ્રાકૃતિક એકમ છે, જેનો ઉપયોગ સમન્વિત જળ વિકાસ માટે થાય છે.</li><li>કોઈ એક નદી અને તેની શાખાઓ દ્વારા જે વિસ્તારનું પાણી વહીને એકત્ર થાય છે, તેને તે નદીનું <strong>જળપ્લાવિત ક્ષેત્ર</strong> કહે છે.</li><li>તેમાં ભૂમિ અને જળ સંરક્ષણ, વનીકરણ અને ચરિયાણ વિકાસનો સમાવેશ થાય છે.</li><li>આ એક એવી વ્યવસ્થા છે જેમાં સ્થાનિક લોકોની ભાગીદારી ખૂબ જ મહત્વની છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદી અને તેની શાખાઓનો જળ-વિસ્તાર = જળપ્લાવિત ક્ષેત્ર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Page 94</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "નર્મદા યોજના (સરદાર સરોવર) વિશે ટૂંકમાં માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>નર્મદા યોજના એ ગુજરાતની સૌથી <strong>મોટી બહુહેતુક યોજના</strong> છે.</li><li>આ યોજના દ્વારા ગુજરાત, રાજસ્થાન, મધ્યપ્રદેશ અને મહારાષ્ટ્ર એમ ચાર રાજ્યોને લાભ મળે છે.</li><li>તેનાથી ગુજરાતના અનેક ગામડાઓ અને શહેરોને પીવાનું અને સિંચાઈનું પાણી પૂરું પાડવામાં આવે છે.</li><li>આ યોજનાના કારણે કચ્છ અને સૌરાષ્ટ્રના રણ વિસ્તારમાં પણ પાણી પહોંચી શક્યું છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતની 'જીવાદોરી' એટલે નર્મદા યોજના.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "દક્ષિણ ભારતમાં તળાવો દ્વારા વધુ સિંચાઈ કેમ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>દક્ષિણ ભારતનો ઉચ્ચપ્રદેશ પથરાળ અને અસમતલ છે, તેથી ત્યાં નહેરો ખોદવી મુશ્કેલ છે.</li><li>ત્યાંની જમીન છિદ્રાળુ નથી, પરિણામે કુવા બનાવવા પણ અઘરા છે.</li><li>કુદરતી રીતે બનેલા ખાડાઓમાં વરસાદી પાણી સંગ્રહિત થતું હોવાથી <strong>તળાવો</strong> સિંચાઈ માટે વધુ અનુકૂળ રહે છે.</li><li>આંધ્રપ્રદેશ અને તમિલનાડુમાં તળાવો દ્વારા સૌથી વધુ સિંચાઈ થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પથરાળ જમીન + કુદરતી ઢોળાવ = તળાવો'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "જળ વ્યવસ્થાપન માટે કઈ કઈ બાબતો ધ્યાનમાં રાખવી જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>બાગ-બગીચા, વાહનો અને શૌચાલયોમાં વપરાતા પાણીનો કરકસરપૂર્વક ઉપયોગ કરવો.</li><li>જળાશયો અને નદીઓને પ્રદૂષણથી બચાવવા.</li><li>વપરાયેલા પાણીનો શક્ય હોય ત્યાં પુનઃઉપયોગ (Reuse) કરવો.</li><li>જળ સંચયના એકમો જેવા કે ચેકડેમ, ખેતતલાવડી વગેરેનું નિર્માણ કરવું.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બચાવો, ફરી વાપરો અને પ્રદૂષણ અટકાવો'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "ભારતમાં સિંચાઈ ક્ષેત્રનું વિતરણ અસમાન છે. સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ભારતના દરેક રાજ્યમાં સિંચાઈ ક્ષેત્રમાં મોટો તફાવત જોવા મળે છે.</li><li>પંજાબમાં સિંચાઈ ક્ષેત્રનું પ્રમાણ 90.8% જેટલું ઊંચું છે, જે સૌથી વધુ છે.</li><li>સામે પક્ષે મિઝોરમમાં માત્ર 7.3% જ સિંચાઈ ક્ષેત્ર છે, જે સૌથી ઓછું છે.</li><li>કુલ વાવેતર વિસ્તારના આશરે 38% ભાગમાં જ સિંચાઈની સુવિધા ઉપલબ્ધ છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંજાબ (ટોપ) vs મિઝોરમ (લોએસ્ટ) - આ ડેટા યાદ રાખવો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Stats / NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "પ્રાચીન ભારતમાં સિંચાઈના વિકાસના કોઈ પણ બે ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>ગ્રાન્ડ એનિકટ:</strong> બીજી સદીમાં કાવેરી નદી પર 'ગ્રાન્ડ એનિકટ' નહેરનું નિર્માણ થયું હતું.</li><li><strong>પશ્ચિમી યમુના નહેર:</strong> દિલ્હી પાસે ઈ.સ. 1355માં પશ્ચિમી યમુના નહેરનું નિર્માણ સિંચાઈ માટે કરવામાં આવ્યું હતું.</li><li>આ દર્શાવે છે કે ભારતમાં પ્રાચીન કાળથી જ જળ વ્યવસ્થાપનની ઉન્નત પદ્ધતિઓ અસ્તિત્વમાં હતી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કાવેરી-એનિકટ' અને 'યમુના-નહેર' - બે નામ યાદ રાખવા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB History of Irrigation</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "વધતી જતી જળ અછત માટે કયા પરિબળો જવાબદાર છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>વધતી જતી વસ્તી અને ખોરાકની જરૂરિયાત માટે રોકડિયા પાકોનું વાવેતર.</li><li>વધતું જતું શહેરીકરણ અને ઉચ્ચ જીવનધોરણ.</li><li>પીવાના પાણીની વધતી માંગ અને ઉદ્યોગોમાં પાણીનો બેફામ વપરાશ.</li><li>વરસાદની અનિશ્ચિતતા અને ભૂમિગત જળના સ્તરમાં થતો ઘટાડો.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસ્તી + પાક + શહેર = જળ અછત.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Economic Perspective</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "ખેતતલાવડી (Farm Pond) એટલે શું? તેનો શો ઉપયોગ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ખેતતલાવડી એ વૃષ્ટિજળ સંચય માટે ખેતરમાં બનાવવામાં આવતો નાનો ખાડો કે તળાવ છે.</li><li>વરસાદનું પાણી તેમાં એકઠું કરવામાં આવે છે.</li><li>આ સંગ્રહિત પાણીનો ઉપયોગ વરસાદ ન હોય ત્યારે સિંચાઈ માટે અથવા પશુઓ માટે કરી શકાય છે.</li><li>તેનાથી જમીનમાં પાણી ઉતરતા ભૂમિગત જળનું સ્તર પણ વધે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતરનું પાણી ખેતરમાં - એટલે ખેતતલાવડી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Soil & Water Conservation</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "જળ એ રાષ્ટ્રીય સંપત્તિ છે. સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જળ એ કોઈ એક વ્યક્તિ કે રાજ્યની માલિકીની નથી પરંતુ સમગ્ર રાષ્ટ્રની મિલકત છે.</li><li>ભારતની ઘણી નદીઓ એકથી વધુ રાજ્યોમાંથી પસાર થાય છે, જેના જળના વહેંચણી માટે આંતરરાજ્ય વિવાદો થાય છે.</li><li>આ વિવાદોનો ઉકેલ કેન્દ્ર સરકાર બંધારણીય જોગવાઈઓ મુજબ કરે છે.</li><li>બધા જ નાગરિકોને સમાન જળ મળી રહે તે જોવાની જવાબદારી રાષ્ટ્રની છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નદીઓ સરહદ જાણતી નથી, તેથી તે રાષ્ટ્રીય સંપત્તિ છે'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Civics Perspective</p></div>"
+    }
+  ]
+}
