@@ -1181,3 +1181,100 @@ var Std10_SS_2Marks = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "પરિવહન, સંદેશાવ્યવહાર અને વ્યાપાર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "પાઇપલાઇન પરિવહનના મુખ્ય લાભો જણાવો. (માર્ચ-2020)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>પાઇપલાઇન દ્વારા પ્રવાહી પદાર્થો, ખનીજ તેલ, કુદરતી ગેસ અને પાણીનું પરિવહન ખૂબ જ સરળતાથી અને કરકસરપૂર્વક થઈ શકે છે.</li><li>તેમાં વહન ખર્ચ ઓછો આવે છે અને સામગ્રીના બગાડની શક્યતા નહિવત્ રહે છે.</li><li>ઉબડ-ખાબડ જમીન કે પાણીની નીચે પણ પાઇપલાઇન નાખી શકાય છે, જે અન્ય પરિવહન માધ્યમો માટે મુશ્કેલ છે.</li><li>તે ઉર્જાની બચત કરે છે અને પર્યાવરણને નુકસાન પહોંચાડતી નથી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઇપ એટલે 'પ્રવાહી' માટે 'પરમેનન્ટ' અને 'પૈસા બચાવતી' વ્યવસ્થા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board March 2020 / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "સુવર્ણ ચતુર્ભુજ (Golden Quadrilateral) મહારાજમાર્ગ વિશે માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આ ભારતનો સૌથી મોટો અને મહત્વકાંક્ષી સડક પ્રોજેક્ટ છે જે દેશના ચાર મુખ્ય મહાનગરોને જોડે છે.</li><li>તે દિલ્હી (ઉત્તર), મુંબઈ (પશ્ચિમ), ચેન્નઈ (દક્ષિણ) અને કોલકાતા (પૂર્વ) ને જોડતો 6 લેન વાળો હાઈવે છે.</li><li>આ માર્ગ દ્વારા ભારતનાં આર્થિક કેન્દ્રો વચ્ચેનું અંતર અને સમયમાં ઘણો ઘટાડો થયો છે.</li><li>આ પ્રોજેક્ટનું સંચાલન 'નેશનલ હાઈવે ઓથોરિટી ઓફ ઈન્ડિયા' (NHAI) દ્વારા કરવામાં આવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દિ-મું-ચે-કો' (દિલ્હી, મુંબઈ, ચેન્નઈ, કોલકાતા) - આ ચાર ખૂણા જોડો એટલે સુવર્ણ ચતુર્ભુજ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook IMP / NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "ભારતમાં 'રજ્જુમાર્ગ' (Ropeways) ક્યાં અને શા માટે વિકસાવવામાં આવ્યા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>પર્વતીય વિસ્તારોમાં જ્યાં સડક માર્ગ કે રેલવે માર્ગ બનાવવો મુશ્કેલ હોય ત્યાં રજ્જુમાર્ગનો ઉપયોગ કરવામાં આવે છે.</li><li>ભારતમાં ઉત્તર ભારતના પર્વતીય વિસ્તારો અને ગુજરાતમાં પાવાગઢ, અંબાજી, સાપુતારા અને ગિરનાર (જૂનાગઢ) ખાતે રજ્જુમાર્ગો આવેલા છે.</li><li>તેનો મુખ્ય ઉપયોગ પ્રવાસીઓની હેરફેર અને માલસામાનની ત્વરિત અવરજવર માટે થાય છે.</li><li>ગિરનારનો રોપવે એ એશિયાનો સૌથી લાંબો રોપવે પ્રોજેક્ટ છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્વત પર ચઢવા માટેની 'શોર્ટકટ લિફ્ટ' એટલે રજ્જુમાર્ગ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "વ્યક્તિગત સંચારતંત્ર અને સમૂહ સંચારતંત્ર વચ્ચેનો તફાવત સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>વ્યક્તિગત સંચાર:</strong> જેમાં બે વ્યક્તિઓ વચ્ચે માહિતીની આપ-લે થાય છે. દા.ત. ટેલિફોન, મોબાઈલ ફોન, ફેક્સ, ઇન્ટરનેટ ઇમેઇલ વગેરે.</li><li><strong>સમૂહ સંચાર:</strong> જેમાં એક સાથે હજારો કે લાખો લોકો સુધી માહિતી પહોંચાડવામાં આવે છે. તેના બે પ્રકાર છે: (1) મુદ્રિત માધ્યમ (અખબારો, સામાયિકો) અને (2) ઈલેક્ટ્રોનિક માધ્યમ (રેડિયો, ટેલિવિઝન).</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યક્તિગત = One to One | સમૂહ = One to Many.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Question Bank</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "વ્યાપાર તુલા (Balance of Trade) એટલે શું? તેના પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>કોઈ પણ દેશના નિર્ધારિત વર્ષ દરમિયાનના કુલ આયાત અને કુલ નિકાસના મૂલ્ય વચ્ચેના તફાવતને 'વ્યાપાર તુલા' કહેવામાં આવે છે.</li><li><strong>હકારાત્મક વ્યાપાર તુલા:</strong> જ્યારે નિકાસની કમાણી આયાતના ખર્ચ કરતા વધુ હોય.</li><li><strong>નકારાત્મક વ્યાપાર તુલા:</strong> જ્યારે આયાતનો ખર્ચ નિકાસની કમાણી કરતા વધુ હોય.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિકાસ > આયાત = ફાયદો (+) | આયાત > નિકાસ = નુકસાન (-).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Economic Geography Section</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "ભારતીય રેલવેનું રાષ્ટ્રીય એકતામાં પ્રદાન સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ભારતીય રેલવે દેશના વિવિધ રાજ્યો અને છેવાડાના વિસ્તારોને એકબીજા સાથે જોડે છે.</li><li>તે વિવિધ ભાષા, ધર્મ અને સંસ્કૃતિ ધરાવતા લોકોને એકબીજાના સંપર્કમાં લાવે છે, જેનાથી રાષ્ટ્રીય એકતા મજબૂત બને છે.</li><li>કૃષિ અને ઉદ્યોગોના વિકાસમાં તેમજ દુષ્કાળ જેવી આપત્તિ સમયે ચીજવસ્તુઓની ઝડપી હેરફેર કરીને રેલવે રાષ્ટ્રની કરોડરજ્જુ સમાન કાર્ય કરે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેલવે એટલે 'ભારતને જોડતી લોખંડી કડી'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "રાષ્ટ્રીય જળમાર્ગ નં. 1 અને નં. 2 ની વિગતો આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>રાષ્ટ્રીય જળમાર્ગ નં. 1:</strong> તે ગંગા નદીમાં હલ્દિયાથી અલ્હાબાદ (પ્રયાગરાજ) સુધીનો 1620 કિમી લાંબો માર્ગ છે.</li><li><strong>રાષ્ટ્રીય જળમાર્ગ નં. 2:</strong> તે બ્રહ્મપુત્ર નદીમાં ધુબરીથી સાદિયા સુધીનો 891 કિમી લાંબો માર્ગ છે.</li><li>આ બંને માર્ગો ભારતના આંતરિક જળવ્યવહાર માટે અત્યંત મહત્વના છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1-ગંગા (હલ્દિયા-અલ્હાબાદ) | 2-બ્રહ્મપુત્ર (ધુબરી-સાદિયા).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Table Data</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "સીમાવર્તી સડકો (Border Roads) વિશે ટૂંકમાં જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>દેશના સરહદી વિસ્તારોમાં સંરક્ષણના હેતુથી બનાવવામાં આવતા રસ્તાઓને સીમાવર્તી સડકો કહે છે.</li><li>આ રસ્તાઓનું નિર્માણ 'સીમા સડક સંગઠન' (BRO) દ્વારા 1960 માં કરવામાં આવ્યું હતું.</li><li>આ રસ્તાઓ દુર્ગમ પહાડી વિસ્તારોમાં સૈન્યને કુમક, હથિયારો અને ખાદ્ય સામગ્રી પહોંચાડવા માટે ખૂબ જ ઉપયોગી છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરહદની રક્ષા માટે સેનાની મદદગાર સડક એટલે 'સીમાવર્તી સડક'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Geography</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "ભારતમાંથી નિકાસ થતી મુખ્ય ચીજવસ્તુઓ કઈ કઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>કાચું લોખંડ, એન્જિનિયરિંગ સામાન (મશીનરી), કેમિકલ્સ અને તેની બનાવટો.</li><li>રત્ન-આભૂષણો, તૈયાર કપડાં (ગાર્મેન્ટ્સ), ચામડું અને ચામડાની વસ્તુઓ.</li><li>કૃષિ પેદાશોમાં ચા, કોફી, મસાલા અને ચોખાની નિકાસ મુખ્ય છે.</li><li>સોફ્ટવેર સેવાઓ પણ ભારતની નિકાસનો મોટો હિસ્સો છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોખંડ, ઘરેણાં અને સોફ્ટવેર - આ છે ભારતની કમાણીના સ્ત્રોત.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Economics Notes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "ઉપગ્રહ સંચાર (Satellite Communication) નો ઉપયોગ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ઉપગ્રહ દ્વારા રેડિયો, ટેલિવિઝન અને ઇન્ટરનેટના સિગ્નલ આખા દેશમાં ઝડપથી મોકલી શકાય છે.</li><li>હવામાનની સચોટ આગાહી કરવા અને કુદરતી આપત્તિઓની પૂર્વ ચેતવણી આપવા માટે તે અનિવાર્ય છે.</li><li>ભૂગર્ભીય સંસાધનો (ખનીજો, પાણી) ની શોધ કરવા માટે પણ ઉપગ્રહની મદદ લેવાય છે.</li><li>સંરક્ષણ ક્ષેત્રે જાસૂસી અને નકશા બનાવવા માટે તે ખૂબ ઉપયોગી છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવકાશમાં રહેલી આપણી 'ત્રીજી આંખ' એટલે સેટેલાઈટ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Technology Section</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "જળમાર્ગો સૌથી સસ્તું પરિવહન માધ્યમ કેમ ગણાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જળમાર્ગોમાં સડક કે રેલવેની જેમ માર્ગ બનાવવા કે તેના જાળવણી (Maintenance) નો કોઈ ખર્ચ હોતો નથી.</li><li>પાણીમાં ઘર્ષણ ઓછું હોવાથી અન્ય માધ્યમોની સરખામણીએ બળતણનો વપરાશ ઘણો ઓછો થાય છે.</li><li>ખૂબ જ ભારે અને કદાવર માલસામાન લાંબા અંતર સુધી પહોંચાડવા માટે જળમાર્ગ શ્રેષ્ઠ અને કરકસરભર્યો છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસ્તો બનાવવાનો ખર્ચ 0 + બળતણ ઓછું = સૌથી સસ્તું જળમાર્ગ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB General Knowledge</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "આંતરિક વ્યાપાર અને આંતરરાષ્ટ્રીય વ્યાપારનો તફાવત લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>આંતરિક વ્યાપાર:</strong> દેશની ભૌગોલિક સીમાની અંદર જ થતા વ્યાપારને આંતરિક વ્યાપાર કહે છે (દા.ત. ગુજરાત અને પંજાબ વચ્ચેનો વ્યાપાર). તેમાં ચલણ એક જ હોય છે.</li><li><strong>આંતરરાષ્ટ્રીય વ્યાપાર:</strong> બે કે તેથી વધુ દેશો વચ્ચે થતા વ્યાપારને આંતરરાષ્ટ્રીય વ્યાપાર કહે છે. તેમાં વિદેશી હૂંડિયામણની જરૂર પડે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંતરિક = ઘરની અંદર | આંતરરાષ્ટ્રીય = ઘરની બહાર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Economics Part</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "કંડલા બંદર વિશે બે-ત્રણ વાક્યોમાં માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>કંડલા બંદર ગુજરાતના કચ્છના અખાતમાં આવેલું છે, જે ભારતનું એક મહત્વનું કુદરતી બંદર છે.</li><li>આ બંદર 'મુક્ત વ્યાપાર ક્ષેત્ર' (SEZ) તરીકે જાહેર કરવામાં આવ્યું છે.</li><li>ઉત્તર ભારત અને પશ્ચિમ ભારતના વ્યાપાર માટે તે પ્રવેશદ્વાર સમાન છે, જ્યાંથી ખનીજ તેલ અને અનાજની મોટી હેરફેર થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કંડલા = ગુજરાતનું સૌથી મોટું 'મુક્ત' દરવાજો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Gujarat Geography</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "આકાશવાણી (All India Radio) નું મહત્વ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આકાશવાણી દ્વારા શિક્ષણ, મનોરંજન અને સમાચારના કાર્યક્રમો દેશના છેવાડાના વિસ્તારો સુધી પહોંચાડવામાં આવે છે.</li><li>તે ખેડૂતો માટે હવામાનની માહિતી અને ખેતીવાડીના કાર્યક્રમો પ્રસારિત કરે છે.</li><li>આપત્તિ સમયે ત્વરિત સૂચનાઓ આપવા માટે તે રેડિયો સૌથી સસ્તું અને અસરકારક માધ્યમ છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેડિયો એટલે 'સાંભળીને શીખવાનું અને જાણવાનું' શ્રેષ્ઠ સાધન.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Communication Topic</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "ભારતમાં વાયુ પરિવહન (Airways) નો વિકાસ કેમ મર્યાદિત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>વાયુ પરિવહન અન્ય માધ્યમો કરતા અત્યંત ખર્ચાળ છે, જે સામાન્ય લોકોની પહોંચની બહાર છે.</li><li>વિમાન મથકોનું નિર્માણ અને તેની જાળવણી પાછળ ખૂબ જ મોટું મૂડીરોકાણ જરૂરી છે.</li><li>ખરાબ હવામાન કે ધુમ્મસ સમયે વિમાનની ઉડાન જોખમી બને છે, તેથી તેની સેવામાં અનિશ્ચિતતા રહે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવામાં ઉડવું 'મોંઘું' છે અને 'હવામાન' પર નિર્ભર છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept Notes</p></div>"
+    }
+  ]
+}
