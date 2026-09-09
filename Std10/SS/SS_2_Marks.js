@@ -1666,3 +1666,100 @@ var Std10_SS_2Marks = {
     }
   ]
 }
+,
+"19": {
+  "chapterName": "પ્રકરણ 19",
+  "chapterTitle": "માનવ વિકાસ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "માનવ વિકાસનો અર્થ સ્પષ્ટ કરો. (March 2020, 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>યુનાઈટેડ નેશન્સ ડેવલપમેન્ટ પ્રોગ્રામ (UNDP) મુજબ માનવ વિકાસ એ માનવીની આકાંક્ષાઓ અને આવશ્યક જીવનનિર્વાહની સુવિધાઓ વિસ્તારવાની પ્રક્રિયા છે.</li><li>માનવ વિકાસ એ ફક્ત આવકનો જ વધારો નથી, પણ માનવ જીવનની ગુણવત્તામાં સુધારો છે.</li><li>તેમાં સ્વસ્થ, લાંબુ અને નિરોગી જીવન, શિક્ષણની પ્રાપ્તિ અને સમાન તકોનો સમાવેશ થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માનવ વિકાસ = આવક + જીવનની ગુણવત્તા + શિક્ષણ + સ્વાસ્થ્ય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "માનવ વિકાસ આંક (HDI) માપવા માટેના મુખ્ય નિર્દેશકો જણાવો. (March 2018, July 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વર્ષ 2010 થી માનવ વિકાસ આંકની ગણતરી માટે નીચેના ત્રણ નિર્દેશકોનો ઉપયોગ થાય છે:</p><ul><li><strong>1. અપેક્ષિત આયુષ્ય (Life Expectancy Index):</strong> નવજાત શિશુના જન્મ સમયે તે કેટલા વર્ષનું આયુષ્ય ભોગવશે તેની અપેક્ષા.</li><li><strong>2. શિક્ષણ આંક (Education Index):</strong> જેમાં 'શાળાકીય સરેરાશ વર્ષો' અને 'અપેક્ષિત શાળાકીય વર્ષો' નો સમાવેશ થાય છે.</li><li><strong>3. આવક આંક (Income Index):</strong> માથાદીઠ કુલ રાષ્ટ્રીય આવક (GNI) ના આધારે જીવનધોરણ નક્કી થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: HDI = આયુષ્ય (Health) + શિક્ષણ (Education) + આવક (Income).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "આર્થિક વૃદ્ધિ અને માનવ વિકાસ વચ્ચેનો તફાવત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>આર્થિક વૃદ્ધિ:</strong> તે દેશની રાષ્ટ્રીય આવક અને માથાદીઠ આવકમાં થતા વધારા સાથે સંબંધિત છે (માત્ર જથ્થાત્મક પરિવર્તન).</li><li><strong>માનવ વિકાસ:</strong> તે આવકની સાથે લોકોના જીવનધોરણ, શિક્ષણ અને સ્વાસ્થ્યમાં સુધારા સાથે સંબંધિત છે (ગુણાત્મક પરિવર્તન).</li><li>આર્થિક વૃદ્ધિ એ સાધન છે, જ્યારે માનવ વિકાસ એ અંતિમ સાધ્ય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૃદ્ધિ = પૈસાનો વધારો, વિકાસ = જીવનનો સુધારો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "યુનાઈટેડ નેશન્સ ડેવલપમેન્ટ પ્રોગ્રામ (UNDP) નું મુખ્ય કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>UNDP દર વર્ષે વિશ્વના દેશોનો 'માનવ વિકાસ અહેવાલ' (HDR) પ્રસિદ્ધ કરે છે.</li><li>તે વિવિધ દેશોના HDI ના આધારે તેમનું રેન્કિંગ નક્કી કરે છે.</li><li>તે ગરીબી ઘટાડવા, લોકશાહી શાસન સ્થાપવા અને પર્યાવરણ જાળવણી માટે વિકાસશીલ દેશોને આર્થિક અને ટેકનીકલ સહાય આપે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: UNDP એ વિશ્વનો વિકાસ નકશો તૈયાર કરતી સંસ્થા છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "ભારતમાં મહિલા સશક્તિકરણ સામેના મુખ્ય અવરોધો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>સમાજમાં પ્રવર્તતી રૂઢિચુસ્ત માન્યતાઓ અને પિતૃસત્તાક કુટુંબ વ્યવસ્થા.</li><li>સ્ત્રીઓમાં શિક્ષણ અને સાક્ષરતાનું નીચું પ્રમાણ.</li><li>આર્થિક સ્વાતંત્ર્યનો અભાવ અને મિલકતમાં સમાન હક ન મળવો.</li><li>સામાજિક કુરિવાજો અને સ્ત્રીઓ પ્રત્યેનો ભેદભાવપૂર્ણ દૃષ્ટિકોણ.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: શિક્ષણનો અભાવ અને જૂની માન્યતા = સશક્તિકરણમાં નડતર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "મહિલા સુરક્ષા માટેની '181 - અભયમ' હેલ્પલાઈન વિશે સમજૂતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ગુજરાત સરકાર દ્વારા મહિલાઓને વિવિધ પ્રકારની હિંસા સામે રક્ષણ આપવા આ હેલ્પલાઈન શરૂ કરવામાં આવી છે.</li><li>કોઈપણ પીડિત મહિલા 181 નંબર ડાયલ કરીને 24 કલાક મફત સલાહ, માર્ગદર્શન કે મદદ મેળવી શકે છે.</li><li>આ સેવા દ્વારા મહિલાઓને તાત્કાલિક બચાવ કામગીરી અને કાઉન્સેલિંગની સુવિધા પૂરી પાડવામાં આવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: 181 = મહિલાઓ માટેનું સુરક્ષા કવચ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Gujarat Govt Schemes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "માનવ વિકાસ આંકમાં ભારતની સ્થિતિ (2015 મુજબ) જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>વર્ષ 2015 ના અહેવાલ મુજબ ભારતનો માનવ વિકાસ આંક (HDI) 0.609 હતો.</li><li>કુલ 188 દેશોની યાદીમાં ભારત 130મા ક્રમે હતું.</li><li>ભારતનો સમાવેશ 'મધ્યમ માનવ વિકાસ' ધરાવતા દેશોની શ્રેણીમાં થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ડેટા: 188 દેશોમાં 130મો ક્રમ (મધ્યમ શ્રેણી).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> 2015 HDR Report</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "જાતીય સમાનતા (Gender Equality) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જાતીય સમાનતા એટલે સ્ત્રી અને પુરુષ બંનેને સમાન અધિકારો, તકો અને જવાબદારીઓ મળવી.</li><li>તેનો અર્થ એ છે કે જન્મથી જ છોકરા કે છોકરી વચ્ચે કોઈ પણ પ્રકારનો ભેદભાવ રાખવામાં ન આવે.</li><li>સમાજ, શિક્ષણ, આરોગ્ય અને આર્થિક ક્ષેત્રે બંનેને સરખું મહત્વ આપવું તે જાતીય સમાનતા છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: સ્ત્રી = પુરુષ (તક અને અધિકારમાં).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "માનવ વિકાસ સામેના મુખ્ય પડકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ભારતમાં માનવ વિકાસના માર્ગમાં મુખ્ય ત્રણ પડકારો છે:</p><ul><li><strong>1. સ્વાસ્થ્ય:</strong> વસ્તીવધારો અને કુપોષણને કારણે આરોગ્યની સ્થિતિ નબળી હોવી.</li><li><strong>2. લૈંગિક સમાનતા:</strong> સ્ત્રી-પુરુષ વચ્ચેના સામાજિક અને આર્થિક ભેદભાવો.</li><li><strong>3. મહિલા સશક્તિકરણ:</strong> મહિલાઓને નિર્ણય લેવાની પ્રક્રિયામાં સામેલ કરવામાં ઉદાસીનતા.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: સ્વાસ્થ્ય + લૈંગિક ભેદભાવ + અશક્ત મહિલા = વિકાસમાં અડચણ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "અપેક્ષિત આયુષ્ય (Life Expectancy) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>અપેક્ષિત આયુષ્ય એટલે નવજાત શિશુના જન્મ સમયે તે સરેરાશ કેટલા વર્ષનું આયુષ્ય ભોગવશે તેની અપેક્ષા.</li><li>તે દેશમાં ઉપલબ્ધ આરોગ્ય સેવાઓ અને પૌષ્ટિક આહારની સ્થિતિ દર્શાવે છે.</li><li>વર્ષ 2015 માં ભારતનું અપેક્ષિત આયુષ્ય 68 વર્ષ હતું.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: આયુષ્ય વધે એટલે સ્વાસ્થ્ય સુધરે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> HDI Indicators</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "ગુજરાત સરકારની 'સરસ્વતી સાધના યોજના' વિશે જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આ યોજનાનો મુખ્ય હેતુ કન્યા શિક્ષણને પ્રોત્સાહન આપવાનો છે.</li><li>જે કન્યાઓ ધોરણ 9 માં પ્રવેશ મેળવે છે, તેમને સરકાર તરફથી સાયકલ મફત આપવામાં આવે છે.</li><li>આનાથી ગ્રામીણ વિસ્તારની કન્યાઓ માટે શાળાએ જવાનું સરળ બને છે અને ડ્રોપ-આઉટ રેશિયો ઘટે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: સરસ્વતી સાધના = દીકરીઓને મફત સાયકલ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Gujarat Govt Schemes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "મહિલા કલ્યાણ યોજનાઓમાં 'ચિરંજીવી યોજના' શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આ યોજના પ્રસૂતિ દરમિયાન માતા અને નવજાત શિશુના મૃત્યુદરને ઘટાડવા માટે અમલમાં મૂકવામાં આવી છે.</li><li>તેમાં બી.પી.એલ (BPL) કાર્ડ ધરાવતી સગર્ભા મહિલાઓને ખાનગી હોસ્પિટલોમાં પણ મફત પ્રસૂતિની સુવિધા આપવામાં આવે છે.</li><li>આ યોજના દ્વારા સંસ્થાકીય પ્રસૂતિને વેગ મળે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: ચિરંજીવી = સુરક્ષિત પ્રસૂતિ અને માતા-બાળકનું રક્ષણ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Health Department, Gujarat</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "બાળ રસીકરણ કાર્યક્રમનું મહત્વ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>બાળકોના સ્વાસ્થ્ય સુધારવા અને બાળ મૃત્યુદર ઘટાડવા માટે રસીકરણ અત્યંત જરૂરી છે.</li><li>તે પોલિયો, ક્ષય (BCG), ડિપ્થેરિયા, ઓરી અને ટાઈફોઈડ જેવા જીવલેણ રોગો સામે રક્ષણ આપે છે.</li><li>ભારતમાં 'ઇન્દ્રધનુષ' જેવા કાર્યક્રમો દ્વારા સાર્વત્રિક રસીકરણનું લક્ષ્ય રાખવામાં આવ્યું છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખો: રસીકરણ = રોગમુક્ત બાળપણ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT SS Class 10</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "સૌર શક્તિનો ઉપયોગ માનવ વિકાસમાં કેવી રીતે મદદરૂપ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>સૌર શક્તિ એ પ્રદૂષણમુક્ત અને પુનઃપ્રાપ્ય ઊર્જા સ્ત્રોત છે, જે પર્યાવરણની સુરક્ષા કરે છે.</li><li>તેનાથી વીજળીનો ખર્ચ ઘટે છે, જેનાથી લોકોની આર્થિક બચત થાય છે.</li><li>ગ્રામીણ વિસ્તારોમાં શિક્ષણ અને રાત્રિના સમયે પ્રકાશની સુવિધા મળવાથી જીવનધોરણ સુધરે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 ટ્રીક: સૂર્ય ઉર્જા = સસ્તી વીજળી + ચોખ્ખું પર્યાવરણ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Sustainable Development Goals</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "કન્યા કેળવણીના રથયાત્રા કાર્યક્રમનો ઉદ્દેશ્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આ ગુજરાત સરકારનો એક મહત્વકાંક્ષી કાર્યક્રમ છે, જેનો હેતુ પ્રાથમિક શિક્ષણમાં 100% કન્યા નામાંકન કરવાનો છે.</li><li>તેમાં કન્યાઓના શિક્ષણ પ્રત્યે જાગૃતિ ફેલાવવા ગામડે ગામડે રથયાત્રા ફેરવવામાં આવે છે.</li><li>આનાથી દીકરીઓને શાળામાં પ્રવેશ અપાવવા વાલીઓને પ્રોત્સાહિત કરવામાં આવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 સૂત્ર: 'બેટી બચાવો, બેટી પઢાવો' નું પ્રત્યક્ષ અમલીકરણ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Gujarat Education Dept.</p></div>"
+    }
+  ]
+}
