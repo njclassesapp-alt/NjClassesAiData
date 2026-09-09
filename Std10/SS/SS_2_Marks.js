@@ -1472,3 +1472,100 @@ var Std10_SS_2Marks = {
     }
   ]
 }
+,
+"17": {
+  "chapterName": "પ્રકરણ 17",
+  "chapterTitle": "આર્થિક સમસ્યાઓ અને પડકારો: ગરીબી અને બેરોજગારી",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "નિરપેક્ષ ગરીબીનો અર્થ સમજાવો. (Board March - 2017, 2020)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>સમાજના જે લોકો અનાજ, કઠોળ, દૂધ, શાકભાજી, કપડાં, રહેઠાણ જેવી લઘુતમ પાયાની જરૂરિયાતો લઘુતમ બજાર ભાવે પણ પ્રાપ્ત કરી શકવા સમર્થ ન હોય, તેમને નિરપેક્ષ ગરીબ કહેવાય.</li><li>આવી સ્થિતિને 'નિરપેક્ષ ગરીબી' તરીકે ઓળખવામાં આવે છે. તે ગરીબીનું સ્તર દર્શાવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિ' એટલે 'ન્યૂનતમ' જરૂરિયાત પણ ન મળે તે 'નિરપેક્ષ'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "સાપેક્ષ ગરીબી એટલે શું? ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>સમાજમાં અલગ-અલગ આવક ધરાવતા વર્ગો વચ્ચે જ્યારે આવકની તુલના કરવામાં આવે ત્યારે ઓછી આવક ધરાવતો વર્ગ વધુ આવક ધરાવતા વર્ગની સરખામણીએ સાપેક્ષ ગરીબ કહેવાય.</li><li><strong>ઉદાહરણ:</strong> જો 'A' ની આવક ₹10,000 અને 'B' ની આવક ₹20,000 હોય, તો 'B' ની સરખામણીમાં 'A' સાપેક્ષ ગરીબ ગણાય.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સાપેક્ષ' એટલે 'સરખામણી' (Comparison).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "ગરીબીરેખા હેઠળ જીવતા (BPL) લોકોના કોઈ પણ ચાર લક્ષણો જણાવો. (Board July - 2018)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જેમને બે ટંકનું પૂરતું ભોજન ન મળતું હોય.</li><li>જેમની આવક નિર્ધારિત અપેક્ષિત આવકથી ઓછી હોય.</li><li>જેમને રહેવા માટે રહેઠાણની પૂરતી સગવડ ન હોય.</li><li>જેમનામાં નિરક્ષરતાનું પ્રમાણ વધુ હોય અને આરોગ્યની સેવાઓ ન મળતી હોય.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભોજન, રહેઠાણ, શિક્ષણ અને સ્વાસ્થ્ય - આ 4 મુદ્દા યાદ રાખવા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "પ્રધાનમંત્રી ગ્રામ સડક યોજના હેઠળ કઈ કામગીરી કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આ યોજના હેઠળ ગામડાઓમાં રસ્તાઓના કામોનું આયોજન કરવામાં આવે છે.</li><li>ગામડાઓને એકબીજા સાથે અને મુખ્ય ધોરીમાર્ગો (Highways) સાથે પાકા રસ્તાથી જોડવાનું કામ કરવામાં આવે છે.</li><li>તેનો મુખ્ય હેતુ ગ્રામીણ ક્ષેત્રે પરિવહન સુવિધા વધારી રોજગારીનું સર્જન કરવાનો છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રામ સડક = ગામડાને પાકા રસ્તાથી શહેરો સાથે જોડવા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "બેરોજગારીનો અર્થ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જે વ્યક્તિની ઉંમર 15 થી 60 વર્ષની હોય, જે કામ કરવાની શક્તિ અને ઈચ્છા ધરાવતી હોય, પ્રવર્તમાન વેતન દરે કામ શોધતી હોય, છતાં તેને કામ ન મળતું હોય તેવી સ્થિતિને બેરોજગારી કહેવાય.</li><li>આવી વ્યક્તિને બેરોજગાર ગણવામાં આવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈચ્છા + શક્તિ + લાયકાત + પ્રયત્ન = કામ ન મળે તો બેરોજગાર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "પ્રચ્છન્ન બેરોજગારી (છુપી બેરોજગારી) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>કોઈ વ્યવસાય કે કામમાં જરૂર કરતાં વધુ માણસો રોકાયેલા હોય.</li><li>આ વધારાના માણસોને કામમાંથી ખસેડી લેવામાં આવે તો પણ કુલ ઉત્પાદનમાં કોઈ ઘટાડો થતો ન હોય, તો તેવા વધારાના માણસોને 'પ્રચ્છન્ન બેરોજગાર' કહેવામાં આવે છે.</li><li>આવી બેરોજગારી મુખ્યત્વે ખેતી ક્ષેત્રે જોવા મળે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેખાય કામ કરતા પણ ઉત્પાદનમાં ફાળો 'શૂન્ય' હોય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "ઘર્ષણજન્ય બેરોજગારી એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જ્યારે જૂની ટેકનોલોજીના સ્થાને નવી ટેકનોલોજી આવે ત્યારે શ્રમિકોને નવી ટેકનોલોજી શીખતા અમુક સમય લાગે છે.</li><li>આ સમય દરમિયાન વ્યક્તિએ જે બેરોજગાર રહેવું પડે છે તેને 'ઘર્ષણજન્ય બેરોજગારી' કહેવામાં આવે છે. તે ટૂંકા ગાળાની હોય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવી ટેકનોલોજી = જૂની ટેકનોલોજી સાથે 'ઘર્ષણ'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "મા અન્નપૂર્ણા યોજના વિશે માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ગુજરાત સરકારની આ યોજના હેઠળ અંત્યોદય પરિવારોને અને ગરીબી રેખા નીચે જીવતા (BPL) પરિવારોને પ્રતિ માસ 35 કિલો અનાજ મફત આપવામાં આવે છે.</li><li>ગરીબ મધ્યમ વર્ગના પરિવારોને રાહત દરે (ઘઉં ₹2 અને ચોખા ₹3 કિલો) અનાજ આપવામાં આવે છે, જેથી તેમને ખોરાકની સુરક્ષા મળે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અન્નપૂર્ણા = અનાજ (₹2 ઘઉં, ₹3 ચોખા).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "રોજગાર વિનિમય કેન્દ્રો કઈ રીતે મદદરૂપ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>તે કામ શોધતા બેરોજગાર યુવાનોની નોંધણી કરે છે અને તેમને લાયકાત મુજબ કામ ક્યાં મળી શકે તેની માહિતી આપે છે.</li><li>તેઓ 'રોજગાર' જેવા સામાયિકો અને મેગેઝિન દ્વારા નોકરીની વિગતો પૂરી પાડે છે.</li><li>તેઓ કારકિર્દી માર્ગદર્શન અને મોડેલ કેરિયર સેન્ટર દ્વારા યુવાનોને માર્ગદર્શન આપે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રોજગાર વિનિમય = નામની નોંધણી + નોકરીની જાણકારી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "મોસમી બેરોજગારી એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ભારતમાં ખેતી વરસાદ પર આધારિત છે અને સિંચાઈની પૂરતી સગવડો નથી.</li><li>આથી, ખેતીમાં રોકાયેલા શ્રમિકોને વર્ષમાં માત્ર 5 થી 7 મહિના કામ મળે છે અને બાકીના સમયમાં કામ વગર બેસી રહેવું પડે છે, તેને 'મોસમી બેરોજગારી' કહેવાય.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોસમ પ્રમાણે કામ મળે, મોસમ જાય એટલે બેરોજગાર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "માધ્યમિક કક્ષાએ બેરોજગારી ઘટાડવા માટે સરકારની વ્યાવસાયિક શિક્ષણ નીતિ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>સરકારે શિક્ષણનું વ્યાપારીકરણ કરી 'વોકેશનલ કોર્સ' (વ્યાવસાયિક શિક્ષણ) પર ભાર મૂક્યો છે.</li><li>યુવાનોને તેમની આવડત અને કૌશલ્ય મુજબ તાલીમ મળે અને શિક્ષણ પૂડું કર્યા પછી તરત જ રોજગારી મળી રહે તેવા અભ્યાસક્રમો શરૂ કરવામાં આવ્યા છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુસ્તકિયો જ્ઞાન નહિ પણ 'સ્કિલ' વાળું શિક્ષણ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "ગરીબી ઘટાડવા માટે કુટુંબ નિયોજન શા માટે જરૂરી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ભારતમાં વસ્તી વધારાનો દર ખૂબ ઊંચો છે, જેના કારણે સાધનોની વહેંચણી પર દબાણ આવે છે.</li><li>વધુ વસ્તીને કારણે માથાદીઠ આવક ઘટે છે અને પાયાની જરૂરિયાતો પૂરી કરવામાં મુશ્કેલી પડે છે.</li><li>કુટુંબ નિયોજન દ્વારા વસ્તી નિયંત્રિત કરવાથી માથાદીઠ સુખાકારી વધે છે અને ગરીબી ઘટાડી શકાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓછી વસ્તી = વધુ સુવિધા = ઓછી ગરીબી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "શ્રમશક્તિનું આયોજન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>દેશમાં જે પ્રકારના શ્રમની માંગ હોય તે મુજબના શ્રમિકો પૂરા પાડવા માટે શિક્ષણ અને તાલીમ આપવાની વ્યવસ્થા એટલે શ્રમશક્તિનું આયોજન.</li><li>વર્તમાન સમયમાં જે ક્ષેત્રોમાં વિકાસની શક્યતા વધુ હોય (જેમ કે IT, હોસ્પિટાલિટી), તે મુજબ યુવાનોને તૈયાર કરવા.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેવી માંગ એવો સપ્લાય (શ્રમિકોની ટ્રેનિંગ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "માધ્યમિક શિક્ષણ પછી 'સ્ટાર્ટ અપ ઇન્ડિયા' યોજનાનો શું ફાળો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>નવા વિચારો ધરાવતા યુવાનો પોતાના ઉદ્યોગો શરૂ કરી શકે તે માટે સરકાર આ યોજના હેઠળ આર્થિક સહાય અને લોન પૂરી પાડે છે.</li><li>તેનો મુખ્ય હેતુ યુવાનોને 'નોકરી શોધનારા' ને બદલે 'નોકરી આપનારા' (Entrepreneur) બનાવવાનો છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Start Up = પોતાનો નવો બિઝનેસ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "માળખાગત બેરોજગારી એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ભારતીય અર્થતંત્ર પછાત અને રૂઢિચુસ્ત છે. સામાજિક રિવાજો, નિરક્ષરતા અને માળખાગત સુવિધાઓના અભાવે જે બેરોજગારી ઉદભવે છે તેને માળખાગત બેરોજગારી કહેવાય.</li><li>જ્યારે આર્થિક માળખામાં ફેરફાર થાય પરંતુ શ્રમિકો તેની સાથે અનુકૂલન ન સાધી શકે ત્યારે આ સ્થિતિ સર્જાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માળખાગત = સામાજિક અને આર્થિક પછાતપણું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    }
+  ]
+}
