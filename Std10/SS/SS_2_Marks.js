@@ -1569,3 +1569,100 @@ var Std10_SS_2Marks = {
     }
   ]
 }
+,
+"18": {
+  "chapterName": "પ્રકરણ 18",
+  "chapterTitle": "ભાવવધારો અને ગ્રાહક જાગૃતિ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "સ્થિરતા સાથેનો ભાવવધારો એ આર્થિક વિકાસની પૂર્વશરત છે - વિધાન સમજાવો. (March 2020, 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જ્યારે અર્થતંત્રમાં સ્થિરતા સાથે નજીવો ભાવવધારો થાય છે ત્યારે ઉત્પાદકો કે વ્યાપારીઓનો નફો વધે છે.</li><li>નફારૂપી પ્રોત્સાહન મળવાથી તેઓ નવા મૂડીરોકાણ કરવા પ્રેરાય છે, જેનાથી ઉત્પાદન અને રોજગારી વધે છે.</li><li>આમ, અલ્પ પ્રમાણમાં થતો ભાવવધારો આર્થિક વિકાસને વેગ આપે છે, તેથી તે વિકાસની પૂર્વશરત ગણાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ નફો = વધુ રોકાણ = વધુ વિકાસ (નજીવો ભાવવધારો આ સાંકળને વેગ આપે છે).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board (March 2020)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "ગ્રાહકનું શોષણ કઈ કઈ રીતે થાય છે? (કોઈપણ ચાર રીતે જણાવો) (March 2019, July 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ઓછા વજનમાં કે હલકી ગુણવત્તાવાળો માલ આપીને.</li><li>નક્કી કરેલા ભાવ કરતા વધુ કિંમત વસૂલીને.</li><li>ભેળસેળયુક્ત વસ્તુઓ વેચીને કે આરોગ્ય સાથે ચેડાં કરીને.</li><li>ભ્રામક કે ખોટી જાહેરાતો દ્વારા ગ્રાહકને લલચાવીને.</li><li>વેચાણ પછીની સેવાઓ સંતોષકારક ન આપીને.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વજન-કિંમત-ગુણવત્તા-જાહેરાત (આ ચાર શબ્દો યાદ રાખો).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Imp</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "કાળું નાણું ભાવવધારાનું એક કારણ છે - સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>હિસાબી ચોપડે ન નોંધાયેલ અને જેના પર વેરો ભરાયો નથી તેવી બિનહિસાબી આવકને 'કાળું નાણું' કહે છે.</li><li>કાળું નાણું ધરાવતા લોકો પકડાઈ જવાના ડરથી બિનજરૂરી મોજશોખની વસ્તુઓ ગમે તેટલા ભાવે ખરીદવા તૈયાર હોય છે.</li><li>આનાથી બજારમાં નાણાંનો પુરવઠો વધે છે અને વસ્તુઓની માંગ વધતા ભાવવધારો થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાળું નાણું = બિનહિસાબી આવક = વધુ ખરીદશક્તિ = ભાવવધારો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "ગ્રાહકના 'પસંદગી કરવાના અધિકાર' વિશે ટૂંકમાં જણાવો. (March 2018)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ગ્રાહકને અનેક પ્રકારની વસ્તુઓમાંથી પોતાની અનુકૂળતા મુજબની વસ્તુ પસંદ કરવાનો અધિકાર છે.</li><li>આ અધિકાર મુજબ ગ્રાહક વસ્તુની કિંમત, ગુણવત્તા, કદ અને સેવા તપાસીને શ્રેષ્ઠ વસ્તુ પસંદ કરી શકે છે.</li><li>વ્યાપારી ગ્રાહકને કોઈ ચોક્કસ વસ્તુ ખરીદવા માટે દબાણ કરી શકતો નથી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પસંદગી એટલે 'વિવિધતામાંથી શ્રેષ્ઠની વરણી'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "ભાવ નિયંત્રણમાં 'જાહેર વિતરણ પ્રણાલી' (PDS) ની ભૂમિકા સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>સરકાર વાજબી ભાવની દુકાનો (FPS) દ્વારા અંત્યોદય અને ગરીબી રેખા નીચેના પરિવારોને જીવનજરૂરી ચીજવસ્તુઓ પૂરી પાડે છે.</li><li>ખુલ્લા બજારના ભાવ કરતા આ દુકાનોમાં ભાવ ખૂબ જ ઓછા હોય છે.</li><li>આ વ્યવસ્થા દ્વારા નફાખોરી અને સંગ્રહખોરી પર અંકુશ આવે છે અને ગરીબોનું શોષણ અટકે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PDS = ગરીબો માટે સુરક્ષા કવચ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "ISI અને AGMARK પ્રતીકો કઈ વસ્તુઓ પર લગાડવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>ISI:</strong> ઘરવપરાશની ચીજવસ્તુઓ જેવી કે ઇલેક્ટ્રિક ઉપકરણો (ઇસ્ત્રી, મિક્સર), લોખંડ-પોલાદની વસ્તુઓ વગેરે પર BIS દ્વારા લગાડાય છે.</li><li><strong>AGMARK:</strong> ખેતી આધારિત ઉત્પાદનો, વન પેદાશો અને ખાદ્ય પદાર્થો (જેમ કે મસાલા, ઘી, તેલ) ની ગુણવત્તા માટે લગાડવામાં આવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ISI = ઇલેક્ટ્રિક/ઉદ્યોગ, AGMARK = એગ્રીકલ્ચર (ખેતી).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "ગ્રાહક સુરક્ષામાં લોકઅદાલતોની ભૂમિકા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ગ્રાહકોની ફરિયાદોનું ઝડપી અને સસ્તું નિવારણ લાવવા માટે લોકઅદાલતો કાર્યરત છે.</li><li>તેમાં વકીલ રાખવાની જરૂર પડતી નથી અને બંને પક્ષોને સાંભળીને સ્થળ પર જ ન્યાય આપવામાં આવે છે.</li><li>જેથી ગ્રાહકોના સમય અને નાણાંનો બચાવ થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકઅદાલત = નો વકીલ, નો ફી, ફટાફટ ન્યાય!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "બફર સ્ટોક એટલે શું? તેનાથી ભાવ વધારો કેવી રીતે અટકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>સરકાર દ્વારા અનાજ કે અન્ય જરૂરિયાતની વસ્તુઓનો જે અનામત જથ્થો સંગ્રહવામાં આવે છે તેને 'બફર સ્ટોક' કહે છે.</li><li>જ્યારે બજારમાં કોઈ વસ્તુની અછત સર્જાય અને ભાવ વધવા લાગે, ત્યારે સરકાર આ સ્ટોકમાંથી માલ બજારમાં મૂકે છે.</li><li>જેનાથી વસ્તુનો પુરવઠો વધે છે અને વધતા જતા ભાવ અંકુશમાં આવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બફર સ્ટોક = કટોકટી માટેની બચત.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "આંતરરાષ્ટ્રીય સ્તરે ગુણવત્તાના માનાંક નક્કી કરતી સંસ્થાઓ કઈ છે? (March 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>ISO (International Organization for Standardization):</strong> જેનું મુખ્ય મથક જિનીવામાં છે, જે ઔદ્યોગિક ઉત્પાદનોની ગુણવત્તા નક્કી કરે છે.</li><li><strong>CAC (Codex Alimentarius Commission):</strong> જે ખાદ્ય પદાર્થોના આંતરરાષ્ટ્રીય ધોરણો નક્કી કરે છે, તેનું મુખ્ય મથક રોમ (ઈટાલી) માં છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ISO = જિનીવા, CAC = રોમ (ખાદ્ય પદાર્થ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "ગ્રાહક અદાલતોમાં કયા સ્તરે કેટલી રકમ સુધીના દાવા કરી શકાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>જિલ્લા ફોરમ:</strong> ₹20 લાખ સુધીના દાવા માટે.</li><li><strong>રાજ્ય કમિશન:</strong> ₹20 લાખ થી ₹1 કરોડ સુધીના દાવા માટે.</li><li><strong>રાષ્ટ્રીય કમિશન:</strong> ₹1 કરોડથી વધુ રકમના દાવા માટે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 20 લાખ (જિલ્લો) -> 1 કરોડ (રાજ્ય) -> 1 કરોડથી ઉપર (દેશ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "મોંઘવારી (ભાવવધારો) એ આમજનતાના જીવનધોરણને કેવી રીતે અસર કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ભાવવધારાને કારણે લોકોની ખરીદશક્તિ ઘટે છે, જેથી તેઓ જીવનજરૂરી વસ્તુઓ પણ ઓછી મેળવી શકે છે.</li><li>ગરીબ અને મધ્યમ વર્ગના લોકોની બચતો ઘટી જાય છે અથવા ખર્ચાઈ જાય છે.</li><li>લોકોનું જીવનધોરણ કથળે છે અને સમાજમાં અસંતોષ વધે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોંઘી વસ્તુ = ઓછી ખરીદી = નીચું જીવનધોરણ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "કયા કયા દિવસોને 'ગ્રાહક અધિકાર દિવસ' તરીકે ઉજવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>15 માર્ચ:</strong> વિશ્વ ગ્રાહક અધિકાર દિવસ (World Consumer Rights Day).</li><li><strong>24 ડિસેમ્બર:</strong> રાષ્ટ્રીય ગ્રાહક અધિકાર દિવસ (National Consumer Rights Day) - ભારતમાં આ દિવસે ગ્રાહક સુરક્ષા ધારો અમલમાં આવ્યો હતો.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 15 માર્ચ (વિશ્વ), 24 ડિસેમ્બર (ભારત).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "સરકાર ભાવવધારાને રોકવા માટે કેવા 'નાણાકીય પગલાં' ભરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>મધ્યસ્થ બેંક (RBI) વ્યાજના દરોમાં વધારો કરે છે, જેથી લોન મોંઘી બને અને બજારમાં નાણાંનો પુરવઠો ઘટે.</li><li>સરકારી ખર્ચમાં ઘટાડો કરવામાં આવે છે અને બિનજરૂરી સબસિડી ઓછી કરાય છે.</li><li>આ પગલાંથી લોકોની ખરીદશક્તિ ઘટે છે અને ભાવ નિયંત્રણમાં આવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ વ્યાજ = ઓછી લોન = ઓછો ભાવવધારો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "વસ્તુઓ ખરીદતી વખતે ગ્રાહકે કઈ સાવચેતી રાખવી જોઈએ? (કોઈપણ ચાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>હંમેશા પાકું બિલ (ટેક્સ ઇન્વોઇસ) લેવાનો આગ્રહ રાખવો જોઈએ.</li><li>વસ્તુ પરના ISI, Agmark કે Hallmark જેવા નિશાનો તપાસવા જોઈએ.</li><li>પેકિંગ પરની કિંમત (MRP), વજન અને એક્સપાયરી ડેટ (Expiry Date) જોવી જોઈએ.</li><li>ભ્રામક જાહેરાતોથી પ્રેરાઈને ઉતાવળે ખરીદી કરવી જોઈએ નહીં.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિલ-માર્ક-તારીખ-જાહેરાત (આ ચાર વસ્તુ ચેક કરો).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "નિકાસમાં વધારો ભાવવધારા માટે કેવી રીતે જવાબદાર છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જ્યારે દેશમાં ઉત્પાદિત વસ્તુઓની વિદેશમાં નિકાસ વધે છે, ત્યારે દેશના આંતરિક બજારમાં તે વસ્તુની અછત સર્જાય છે.</li><li>પુરવઠો ઓછો થવાને કારણે તેની કિંમતો વધવા લાગે છે.</li><li>આમ, નિકાસમાં અતિશય વધારો દેશની અંદર ભાવવધારાનું કારણ બને છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધો માલ વિદેશ જાય -> ભારતમાં અછત -> ભાવવધારો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    }
+  ]
+}
