@@ -1375,3 +1375,100 @@ var Std10_SS_2Marks = {
     }
   ]
 }
+,
+"16": {
+  "chapterName": "પ્રકરણ 16",
+  "chapterTitle": "આર્થિક ઉદારીકરણ અને વૈશ્વિકીકરણ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "આર્થિક ઉદારીકરણનો અર્થ સમજાવો. (માર્ચ - 2020, 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સરકાર ઔદ્યોગિક નીતિ દ્વારા ખાનગી ક્ષેત્ર પરના અંકુશો અને નિયંત્રણોમાં ક્રમશઃ ઘટાડો કરે અને વિકાસને પ્રોત્સાહિત કરે તેને 'આર્થિક ઉદારીકરણ' કહેવામાં આવે છે.</p><ul><li>શરૂઆતના તબક્કામાં 18 ઉદ્યોગો સિવાયના અન્ય ઉદ્યોગો માટે પરવાના પદ્ધતિ (Licensing) નાબૂદ કરવામાં આવી.</li><li>રેલવે, અણુશક્તિ અને સંરક્ષણ સિવાયના તમામ ક્ષેત્રો ખાનગી ક્ષેત્ર માટે ખુલ્લા મૂકવામાં આવ્યા.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: ઉદારીકરણ = સરકારની 'ઉદારતા' (નિયમોમાં છૂટછાટ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Previous Year Paper</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "વિશ્વ વ્યાપાર સંગઠન (WTO) ના કોઈ પણ ચાર ધ્યેયો જણાવો. (માર્ચ - 2019, ઓગસ્ટ - 2020)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વિશ્વ વ્યાપાર સંગઠન (WTO) ના મુખ્ય ધ્યેયો નીચે મુજબ છે:</p><ol><li>આંતરરાષ્ટ્રીય વ્યાપાર પરના અવરોધો દૂર કરવા.</li><li>વિદેશ વ્યાપાર માટે દેશના ઉદ્યોગોને આપવામાં આવતું રક્ષણ દૂર કરવું.</li><li>વૈશ્વિક વ્યાપાર નીતિ અને આર્થિક નીતિઓ વચ્ચે સંકલન સાધવું.</li><li>વિશ્વમાં ઉદ્ભવતા વ્યાપારી ઝગડાઓનું નિવારણ લાવવું.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: WTO = વ્યાપારમાં 'અવરોધ મુક્તિ' અને 'ઝગડા મુક્તિ'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "ટકાવ વિકાસ (સુપોષિત વિકાસ) ની સંકલ્પના સમજાવો. (માર્ચ - 2020)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ટકાવ વિકાસ એટલે 'આવી પેઢીની જરૂરિયાતો સંતોષવાની ક્ષમતાને નુકસાન પહોંચાડ્યા વિના વર્તમાન પેઢીની જરૂરિયાતો સંતોષવી'.</p><ul><li>આ સંકલ્પનામાં પર્યાવરણના સંસાધનોની જાળવણી પર ભાર મૂકવામાં આવ્યો છે.</li><li>આર્થિક વિકાસના કારણે પર્યાવરણ પર પડતી અસરોને ધ્યાનમાં રાખીને લાંબા ગાળા સુધી સાધન-સંપત્તિ ટકી રહે તેવો વિકાસ સાધવો.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: ટકાવ વિકાસ = 'આજે વાપરો પણ કાલે ખૂટે નહીં તેમ' (વર્તમાન + ભવિષ્યનો સમન્વય).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT New Syllabus</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "ખાનગીકરણના માર્ગો (પદ્ધતિઓ) જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ખાનગીકરણ મુખ્ય બે માર્ગે થાય છે:</p><ol><li>પહેલાં જે ક્ષેત્રો જાહેર સાહસો માટે અનામત રાખ્યા હોય તે ક્ષેત્રો ખાનગી વિભાગ માટે ખુલ્લા મૂકવા.</li><li>જાહેર ક્ષેત્રના એકમોની માલિકી રાજ્ય પોતાની પાસે રાખે અને સંચાલન ખાનગી કંપનીને સોંપે અથવા સંચાલન રાજ્ય પોતાની પાસે રાખે અને માલિકી ખાનગી કંપનીને સોંપે.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: માલિકી બદલાય અથવા સંચાલન બદલાય તેને ખાનગીકરણ કહેવાય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Notes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "વૈશ્વિકીકરણના લાભો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વૈશ્વિકીકરણના મુખ્ય લાભો નીચે મુજબ છે:</p><ul><li>વૈશ્વિકીકરણને પરિણામે દેશમાં સીધું વિદેશી મૂડીરોકાણ (FDI) પ્રોત્સાહિત થાય છે.</li><li>વિકસિત દેશોમાં ઉત્પન્ન થતી વસ્તુઓ સરળતાથી મળી શકે છે.</li><li>ભારત જેવા વિકાસશીલ દેશો આંતરરાષ્ટ્રીય સ્તરે હરીફાઈમાં ટકી રહેવાની ક્ષમતા પ્રાપ્ત કરે છે.</li><li>નવી ટેકનોલોજીનો લાભ મળે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: વૈશ્વિકીકરણ = વિદેશી પૈસા + વિદેશી ટેકનોલોજી + હરીફાઈ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Page 130</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "ખાનગીકરણના ગેરફાયદા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ખાનગીકરણની નકારાત્મક અસરો નીચે મુજબ છે:</p><ul><li>ખાનગીકરણને પરિણામે આર્થિક સત્તાનું કેન્દ્રીકરણ થયું છે, જેનાથી ઈજારાશાહી (Monopoly) ને વેગ મળ્યો છે.</li><li>ખાનગીકરણથી નાના ઉદ્યોગો અને કુટિર ઉદ્યોગોનો યોગ્ય વિકાસ થઈ શક્યો નથી.</li><li>ભાવ વધારાની સમસ્યા સર્જાઈ છે, કારણ કે ખાનગી ક્ષેત્ર નફાને વધુ મહત્વ આપે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: ખાનગીકરણ = મોટો નફો + મોંઘવારી + ઈજારાશાહી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "પર્યાવરણની સુરક્ષા માટે ભારત સરકારે લીધેલા પગલાંઓ જણાવો. (કોઈ પણ ચાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ol><li>ઈ.સ. 1981માં 'વાયુ પ્રદૂષણ નિયંત્રણ ધારો' પસાર કરવામાં આવ્યો.</li><li>કેન્દ્ર અને રાજ્ય સ્તરે 'પ્રદૂષણ નિયંત્રણ બોર્ડ' ની સ્થાપના કરવામાં આવી.</li><li>પર્યાવરણ જાગૃતિ માટે 5 જૂનને 'વિશ્વ પર્યાવરણ દિન' તરીકે ઉજવવામાં આવે છે.</li><li>શાળાઓમાં પર્યાવરણ શિક્ષણ અને ઈકો-ક્લબ દ્વારા જાગૃતિ લાવવાના પ્રયત્નો શરૂ થયા.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 1981 (વાયુ) + 5 જૂન + પ્રદૂષણ બોર્ડ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Previous Year IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "વૈશ્વિકીકરણ એટલે શું? તેની મુખ્ય પ્રક્રિયા કઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વૈશ્વિકીકરણ એટલે દેશના અર્થતંત્રને વિશ્વના અર્થતંત્ર સાથે જોડવાની પ્રક્રિયા, જેના પરિણામે વસ્તુઓ, સેવાઓ, ટેકનોલોજી અને શ્રમનો પ્રવાહ વિશ્વમાં સરળતાથી પ્રાપ્ત થાય.</p><ul><li>તેની મુખ્ય પ્રક્રિયામાં બે દેશો વચ્ચે વ્યાપારના અવરોધો દૂર કરવા અને મૂડીની હેરફેર સરળ બનાવવાનો સમાવેશ થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: વૈશ્વિકીકરણ = 'વિશ્વ એક બજાર'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "આર્થિક ઉદારીકરણના ગેરફાયદા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ખાનગી ક્ષેત્ર પરના અંકુશો ઘટવા છતાં ઈજારાશાહીના વલણોમાં ઘટાડો થઈ શક્યો નથી.</li><li>માત્ર ઔદ્યોગિક ક્ષેત્ર પર ધ્યાન આપવાથી કૃષિ ક્ષેત્ર વિકાસમાં પાછળ રહી ગયું છે.</li><li>આવકની અસમાનતામાં વધારો થયો છે.</li><li>આયાત વધવાથી અને નિકાસ ઘટવાથી વિદેશી દેવામાં વધારો થયો છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: ઉદારીકરણના માઈનસ પોઈન્ટ = ખેતી પાછળ + દેવું વધ્યું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Study</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "પૃથ્વી પરિષદ (Earth Summit) વિશે ટૂંકી નોંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>પર્યાવરણની સુરક્ષા માટે આંતરરાષ્ટ્રીય સ્તરે પ્રથમ વખત ઈ.સ. 1972માં સ્વીડનના સ્ટોકહોમ ખાતે પૃથ્વી પરિષદ યોજાઈ હતી.</li><li>ત્યારબાદ સમયાંતરે વૈશ્વિક સ્તરે પર્યાવરણ અંગે વિચારણા કરવા માટે બ્રાઝિલના રિયો ડી જાનેરો ખાતે પણ મોટી પરિષદ યોજાઈ હતી.</li><li>જેમાં ગ્લોબલ વોર્મિંગ અને પ્રદૂષણ ઘટાડવા અંગેના મહત્વના ઠરાવો પસાર કરવામાં આવ્યા હતા.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 1972 + સ્ટોકહોમ = પ્રથમ પૃથ્વી પરિષદ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Environment Section, Chapter 16</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "વિશ્વ વ્યાપાર સંગઠનના કાર્યો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ol><li>બહુરાષ્ટ્રીય વ્યાપાર અને તેને લગતા કરારો માટે જરૂરી માળખું ઊભું કરવું.</li><li>વ્યાપાર માટે થતી ચર્ચા-વિચારણા અને વાટાઘાટો માટે ફોરમ (મંચ) તરીકે કામગીરી કરવી.</li><li>ભેદભાવ વગર આંતરરાષ્ટ્રીય વ્યાપારને પ્રોત્સાહન આપવું.</li><li>જુદા જુદા દેશોની રાષ્ટ્રીય નીતિનું અવલોકન કરી તેમાં જરૂરી સુધારા સૂચવવા.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: WTO = વ્યાપારની 'પોલીસ' અને 'પંચાયત'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "કુદરતી સાધનોના સંરક્ષણ માટે કઈ વ્યૂહરચના અપનાવવી જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>પુનઃપ્રાપ્ય સાધનો જેવા કે ખેતીલાયક જમીન, જંગલો અને જળ સંપત્તિનો ઉપયોગ તેની ગુણવત્તા જળવાય તે રીતે કરવો.</li><li>પુનઃ અપ્રાપ્ય સાધનો (કોલસો, પેટ્રોલિયમ) નો ઉપયોગ કરકસરપૂર્વક કરવો.</li><li>વાહન વ્યવહારનું ખર્ચ ઓછું થાય તે રીતે ઉદ્યોગોનું સ્થાપન કરવું.</li><li>સાધનોનો બહુહેતુક ઉપયોગ કરવો (દા.ત. નદી પર બંધ બાંધી વીજળી અને સિંચાઈ બંને મેળવવા).</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: સંરક્ષણ = ગુણવત્તા + કરકસર + બહુહેતુક ઉપયોગ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Sustainable Development Goals</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "નવી ઔદ્યોગિક નીતિ (1991) ના મુખ્ય ત્રણ પાસાંઓ કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ભારત સરકારે 1991માં આર્થિક વિકાસને વેગ આપવા માટે જે નવી નીતિ અમલમાં મૂકી તેના મુખ્ય ત્રણ પાસાંઓ નીચે મુજબ છે:</p><ol><li><strong>ઉદારીકરણ (Liberalization)</strong></li><li><strong>ખાનગીકરણ (Privatization)</strong></li><li><strong>વૈશ્વિકીકરણ (Globalization)</strong></li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: LPG (L - Liberalization, P - Privatization, G - Globalization).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Basic Economy Terminology</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "વૈશ્વિકીકરણની નકારાત્મક અસરો (ગેરફાયદા) જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ગરીબી અને બેરોજગારીની સમસ્યા હલ કરવામાં ધારી સફળતા મળી નથી.</li><li>નિકાસ વૃદ્ધિના પ્રમાણમાં લાભ મળ્યા નથી.</li><li>મોટા ઉદ્યોગોને વધુ લાભ મળ્યો છે, જ્યારે નાના ઉદ્યોગોને નુકસાન થયું છે.</li><li>દેશમાં અમીર અને ગરીબ વચ્ચેના તફાવત (ખાધ) માં વધારો થયો છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: નેગેટિવ = અમીર-ગરીબ વચ્ચેની મોટી દીવાલ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Question Bank</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "ખાનગીકરણના લાભો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>દેશમાં ઔદ્યોગિક એકમોની સંખ્યામાં વધારો થયો છે.</li><li>ખાનગી ક્ષેત્રને કારણે મૂડીરોકાણમાં વધારો થયો છે.</li><li>ઔદ્યોગિક ક્ષેત્રે ઉત્પાદન ક્ષમતામાં સુધારો થયો છે.</li><li>જાહેર ક્ષેત્રના એકમોની કાર્યક્ષમતામાં પણ સુધારો જોવા મળ્યો છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: ખાનગીકરણ = વધુ એકમો + વધુ ઉત્પાદન + વધુ કાર્યક્ષમતા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Quick Revision</p></div>"
+    }
+  ]
+}
