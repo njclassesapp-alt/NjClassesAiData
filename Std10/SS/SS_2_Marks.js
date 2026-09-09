@@ -1278,3 +1278,100 @@ var Std10_SS_2Marks = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "આર્થિક વિકાસ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "આર્થિક વૃદ્ધિ અને આર્થિક વિકાસ વચ્ચેનો મુખ્ય તફાવત સ્પષ્ટ કરો. (March 2020, 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>આર્થિક વૃદ્ધિ:</strong> તે પરિમાણાત્મક ફેરફાર છે. વિકસિત દેશોના સંદર્ભમાં રાષ્ટ્રીય આવકમાં થતો વધારો એટલે આર્થિક વૃદ્ધિ. તે વિકાસ પછીની અવસ્થા છે.</li><li><strong>આર્થિક વિકાસ:</strong> તે ગુણાત્મક ફેરફાર છે. વિકાસશીલ દેશોના સંદર્ભમાં નવી ટેકનોલોજી અને સંશોધનો દ્વારા થતો વધારો એટલે આર્થિક વિકાસ. તે પ્રથમ અવસ્થા છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૃદ્ધિ એટલે 'વધારો' (Quantity) અને વિકાસ એટલે 'સુધારો' (Quality).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Previous Year Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "માથાદીઠ આવક (Per Capita Income) એટલે શું? તેનું સૂત્ર જણાવો. (July 2021)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કોઈપણ દેશની કુલ રાષ્ટ્રીય આવકને તે દેશની કુલ વસ્તી વડે ભાગવાથી જે સરેરાશ આવક પ્રાપ્ત થાય છે, તેને 'માથાદીઠ આવક' કહેવામાં આવે છે.</p><p><strong>સૂત્ર:</strong><br>માથાદીઠ આવક = દેશની કુલ રાષ્ટ્રીય આવક / દેશની કુલ વસ્તી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રાવ' ભાગ્યા 'વવ' (રાષ્ટ્રીય આવક / વસ્તી).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "આર્થિક પ્રવૃત્તિ અને બિનઆર્થિક પ્રવૃત્તિનો તફાવત ઉદાહરણ સાથે સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>આર્થિક પ્રવૃત્તિ:</strong> આવક મેળવવાના કે ખર્ચ કરવાના હેતુથી કરવામાં આવતી પ્રવૃત્તિ. દા.ત. ખેડૂત ખેતી કરે, શિક્ષક શાળામાં ભણાવે.</li><li><strong>બિનઆર્થિક પ્રવૃત્તિ:</strong> જે પ્રવૃત્તિનો હેતુ આવક મેળવવાનો કે ખર્ચ કરવાનો હોતો નથી. દા.ત. માતા દ્વારા પોતાના બાળકનો ઉછેર કરવો, સમાજસેવા કરવી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૈસા મળે તો 'આર્થિક', પ્રેમ-સેવા મળે તો 'બિનઆર્થિક'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Most IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "વિકાસશીલ અર્થતંત્રના કોઈપણ ચાર લક્ષણો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ol><li>નીચી માથાદીઠ આવક.</li><li>વસ્તી વૃદ્ધિનો ઊંચો દર (સામાન્ય રીતે 2% થી વધુ).</li><li>ખેતી પર અતિશય અવલંબન.</li><li>આવકની વહેંચણીમાં અસમાનતા અને બેરોજગારી.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નીખે વબે' (નીચી આવક, ખેતી, વસ્તી, બેરોજગારી).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook Syllabus</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "ઉત્પાદનના સાધન તરીકે 'જમીન' વિશે ટૂંકમાં માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>અર્થશાસ્ત્રની પરિભાષામાં જમીન એટલે તમામ પ્રકારની કુદરતી સંપત્તિ.</li><li>જેમાં પૃથ્વીની સપાટી પર આવેલાં જંગલો, નદીઓ, પર્વતો અને પૃથ્વીના પેટાળમાં રહેલા ખનીજો તથા ધાતુઓનો સમાવેશ થાય છે.</li><li>જમીન એ ઉત્પાદનનું કુદરતી સાધન છે અને તેનું સ્થાન સ્થિર છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમીન = જંગલ + પર્વત + નદી + ખનીજ (કુદરતી ભેટ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Notes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "ભારતીય અર્થતંત્રના 'માધ્યમિક ક્ષેત્ર' માં કયા ઉદ્યોગોનો સમાવેશ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>માધ્યમિક ક્ષેત્રને 'ઉદ્યોગ વિભાગ' તરીકે પણ ઓળખવામાં આવે છે. તેમાં નીચેની બાબતોનો સમાવેશ થાય છે:</p><ul><li>નાના અને મોટા પાયાના ઉદ્યોગો.</li><li>બાંધકામ પ્રવૃત્તિઓ.</li><li>વીજળી, ગેસ અને પાણી પુરવઠો.</li><li>ટાંકણીથી લઈને મોટા યંત્રો સુધીના ઉત્પાદન કરતા એકમો.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાચા માલમાંથી પાકો માલ બનાવતી ફેક્ટરી એટલે માધ્યમિક ક્ષેત્ર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Basic Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "સમાજવાદી પદ્ધતિની કોઈ પણ ચાર મર્યાદાઓ (ગેરફાયદા) જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ol><li>ઉત્પાદનના સાધનોની માલિકી રાજ્યની હોવાથી વ્યક્તિગત પ્રોત્સાહન મળતું નથી.</li><li>સ્પર્ધા કે હરીફાઈના અભાવે અર્થતંત્રમાં સંશોધનને વેગ મળતો નથી.</li><li>વ્યક્તિગત સ્વાતંત્ર્ય જળવાતું નથી.</li><li>રાજ્યના સંપૂર્ણ હસ્તક્ષેપને કારણે અમલદારશાહીનો ભય રહે છે.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરકારનું રાજ એટલે સ્વતંત્રતાની બાદબાકી અને અમલદારશાહીનો સરવાળો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textual Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "ઉત્પાદનના સાધનોની ફાળવણી કઈ બાબતોને ધ્યાનમાં રાખીને કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ol><li><strong>અમર્યાદિત જરૂરિયાતો:</strong> માનવીની જરૂરિયાતો અનંત છે.</li><li><strong>જરૂરિયાતોમાં અગત્યાનુક્રમ:</strong> કઈ જરૂરિયાત વધુ મહત્વની છે તે નક્કી કરવું.</li><li><strong>મર્યાદિત સાધનો:</strong> સાધનો મર્યાદિત હોવાથી તેનો કરકસરપૂર્વક ઉપયોગ.</li><li><strong>સાધનોનો વૈકલ્પિક ઉપયોગ:</strong> એક સાધન અનેક ઉપયોગમાં આવી શકે છે.</li></ol><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જરૂરિયાત 'વધારે', સાધનો 'ઓછા' - માટે કરવી પડે ફાળવણી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Concept Study</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "બજાર પદ્ધતિને 'મુક્ત અર્થતંત્ર' તરીકે કેમ ઓળખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>બજાર પદ્ધતિમાં આર્થિક નિર્ણયોમાં રાજ્યની કોઈ ભૂમિકા હોતી નથી.</li><li>ઉત્પાદનના સાધનોની માલિકી ખાનગી કે વ્યક્તિગત હોય છે.</li><li>બજારમાં સ્પર્ધાનું તત્વ કાર્યક્ષમ હોય છે અને ગ્રાહકોને પસંદગી કરવાની વિશાળ તક મળે છે.</li><li>રાજ્યનો હસ્તક્ષેપ ન હોવાથી તેને 'મુક્ત અર્થતંત્ર' કહે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરકારની ના, નફાની હા - એટલે બજાર પદ્ધતિ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Expert View</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "મિશ્ર અર્થતંત્ર એટલે શું? તેના ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>મિશ્ર અર્થતંત્ર એવી આર્થિક પદ્ધતિ છે જેમાં જાહેર (સરકારી) અને ખાનગી ક્ષેત્રનું સહ-અસ્તિત્વ હોય છે.</li><li>આ બંને ક્ષેત્રો એકબીજાના હરીફ નહીં પણ પૂરક તરીકે કાર્ય કરે છે.</li><li>ભારે ઉદ્યોગો, સંરક્ષણ વગેરે સરકાર હસ્તક હોય છે, જ્યારે ખેતી, વેપાર વગેરે ખાનગી હોય છે.</li><li><strong>ઉદાહરણ:</strong> ભારત, ફ્રાન્સ વગેરે દેશો.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિશ્ર = ખાનગી (Profit) + જાહેર (Service).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board Content</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "આર્થિક વિકાસના માપદંડ તરીકે 'રાષ્ટ્રીય આવક' સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>વર્ષ દરમિયાન દેશમાં ઉત્પાદિત થયેલી તમામ અંતિમ ચીજવસ્તુઓ અને સેવાઓના નાણાકીય મૂલ્યના સરવાળાને રાષ્ટ્રીય આવક કહે છે.</li><li>જો રાષ્ટ્રીય આવકમાં લાંબા ગાળા સુધી સતત વધારો થાય, તો દેશ આર્થિક વિકાસ કરી રહ્યો છે તેમ કહેવાય.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખા દેશની કમાણી એટલે રાષ્ટ્રીય આવક.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Economics Basics</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "શ્રમ (Labor) એટલે શું? તેના ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આર્થિક વળતર મેળવવાની આશાએ કરવામાં આવતા કોઈપણ શારીરિક કે માનસિક કાર્યને 'શ્રમ' કહેવાય છે.</li><li>શ્રમ એ ઉત્પાદનનું જીવંત સાધન છે.</li><li><strong>ઉદાહરણ:</strong> ખેતમજૂરો, કારખાનાના કામદારો, ડોકટરો, શિક્ષકો, એન્જિનિયરો વગેરે દ્વારા કરવામાં આવતી કામગીરી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કામ + વળતરની આશા = શ્રમ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Geography/Economics</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "બજાર પદ્ધતિમાં નફો એ કેવી રીતે પ્રેરકબળ બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>બજાર પદ્ધતિના કેન્દ્રમાં 'નફો' હોય છે. ઉત્પાદકો નફો મેળવવા માટે જ મૂડી રોકાણ કરે છે.</li><li>જે ક્ષેત્રમાં નફો મળવાની શક્યતા વધુ હોય, ત્યાં જ નવા સાધનો અને મૂડી રોકાય છે.</li><li>નફાની લાલચમાં ઉત્પાદકો કાર્યક્ષમતા વધારે છે અને નવા સંશોધનો કરે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ ગાડી પેટ્રોલથી ચાલે, તેમ બજાર પદ્ધતિ 'નફા' થી ચાલે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Conceptual Question</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "વિકાસશીલ દેશોમાં બેરોજગારીનું પ્રમાણ કેટલું હોય છે? તેના પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>વિકાસશીલ દેશોમાં બેરોજગારીનું પ્રમાણ કુલ શ્રમિકોના 3% થી વધુ જોવા મળે છે.</li><li>આવા દેશોમાં મુખ્યત્વે મોસમી બેરોજગારી, છૂપી (પ્રચ્છન્ન) બેરોજગારી અને ઔદ્યોગિક બેરોજગારી જોવા મળે છે.</li><li>આ બેરોજગારી લાંબા ગાળાની હોય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિકાસશીલ દેશોમાં કામ શોધનાર વધુ અને કામ આપનાર ઓછા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook data</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "સાધનોનો વૈકલ્પિક ઉપયોગ એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જ્યારે ઉત્પાદનનું કોઈ સાધન એક કરતાં વધારે ઉપયોગમાં આવી શકતું હોય, ત્યારે તેને વૈકલ્પિક ઉપયોગ ધરાવતું સાધન કહેવાય છે.</li><li>જો સાધનનો એક ઉપયોગ કરવામાં આવે, તો અન્ય ઉપયોગો જતા કરવા પડે છે.</li><li><strong>ઉદાહરણ:</strong> જમીનના ટુકડા પર ઘઉં વાવો તો બાજરી, કપાસ કે શેરડી વાવી શકાશે નહીં.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક વસ્તુ, અનેક કામ - પણ વાપરી શકાય માત્ર એક જ વાર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Logic</p></div>"
+    }
+  ]
+}
