@@ -95,3 +95,100 @@ var Std10_SS_1Marks = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "ભારતનો સાંસ્કૃતિક વારસો: પરંપરાઓ: હસ્ત અને લલિતકલા",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 1,
+      "question": "પાટણના પટોળાની કઈ વિશેષતા તેને ટકાઉપણું આપે છે? (Board 2020, 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પાટણના પટોળામાં વપરાતી 'ઈકત' (વણાટકામ) ની પદ્ધતિ અને તેમાં વપરાતા કુદરતી રંગોને કારણે તે વર્ષો સુધી ફાટતું નથી કે તેનો રંગ જતો નથી. આ વિશેષતા માટે 'પડી પટોળે ભાત, ફાટે પણ ફીટે નહીં' કહેવત જાણીતી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: પટોળું = પાટણ + પાકું (રંગ અને કાપડ બંનેમાં).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board 2022</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 1,
+      "question": "કયા મુસ્લિમ કવિને 'તુતી-એ-હિન્દ' (હિન્દનો પોપટ) તરીકે ઓળખવામાં આવે છે? (Board 2021)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અમીર ખુશરોને તેમની સંગીત અને સાહિત્ય ક્ષેત્રની અનન્ય સેવાઓને કારણે 'તુતી-એ-હિન્દ' (હિન્દનો પોપટ) તરીકે ઓળખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ખુશ'રો હંમેશા 'પોપટ' જેવું મીઠું બોલતા અને ગાતા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 1,
+      "question": "ભવાઈના પિતા (આદ્યપુરુષ) તરીકે કોને ઓળખવામાં આવે છે? (Board 2019, 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અસાઈત ઠાકરને ભવાઈના પ્રણેતા અથવા પિતા તરીકે ઓળખવામાં આવે છે. તેમણે આશરે 700 વર્ષ પહેલાં આ કલાની શરૂઆત કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભવાઈની 'શરૂઆત' = 'અ'સાઈત ઠાકર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 1,
+      "question": "પંડિત નારદે ઈ.સ. 900 ના અરસામાં કયો સંગીત ગ્રંથ લખ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પંડિત નારદે ઈ.સ. 900 ના અરસામાં 'સંગીત મકરંદ' નામનો ગ્રંથ લખ્યો હતો, જેમાં 19 પ્રકારની વીણા અને 101 પ્રકારના તાલનું વર્ણન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નારદ મુનિ હંમેશા 'મકરંદ' (સંગીતનો રસ) ફેલાવતા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT New Syllabus</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 1,
+      "question": "કયા સંગીત ગ્રંથને સંગીતનો સૌથી વધુ પ્રમાણભૂત ગ્રંથ માનવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પંડિત સારંગદેવ રચિત 'સંગીત રત્નાકર' ને સંગીતનો સૌથી વધુ પ્રમાણભૂત અને સંગીતના અંગો સમજવા માટે અનિવાર્ય ગ્રંથ માનવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંગીતનું 'રત્ન' (રત્નાકર) = સૌથી પ્રમાણભૂત.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB SS Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 1,
+      "question": "કચ્છના કયા વિસ્તારની 'મુત્વા' કોમની ભરતગુંથણ કલા વિશ્વભરમાં પ્રખ્યાત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કચ્છના 'બન્ની' વિસ્તારની જત કે મુત્વા જેવી કોમની ભરતગુંથણ કલા અને તેની વિશિષ્ટ શૈલી આખા વિશ્વમાં જાણીતી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કચ્છની 'બન્ની' (બહેન) 'મુત્વા' ભરતકામ કરે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> IMP Cultural Heritage</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 1,
+      "question": "જરીકામ માટે ગુજરાતનું કયું શહેર પ્રાચીન સમયથી જાણીતું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જરીકામ (Zari Work) માટે ગુજરાતનું 'સુરત' શહેર વિશ્વભરમાં પ્રખ્યાત છે. અહીંના પાનતેર, સાડીઓ અને ઘરચોળામાં જરીની બોર્ડર માટે સુરત જાણીતું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ થી સુરત અને સ થી સોનેરી જરી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Notes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 1,
+      "question": "સીદીઓનું નૃત્ય કયા નામે ઓળખાય છે અને તેઓ મૂળ ક્યાંના વતની હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સીદીઓનું નૃત્ય 'ધમાલ નૃત્ય' તરીકે ઓળખાય છે. તેઓ મૂળ 'આફ્રિકા' ના વતની હતા અને હાલ ગીરના મધ્યમાં જાંબુરમાં વસેલા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીદીઓ 'ધમાલ' કરે (મશીરાના તાલે).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Tribal Dances of Gujarat</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 1,
+      "question": "કયા નૃત્યમાં સ્ત્રી અને પુરુષો મુખ ઉપર મુખવટા પહેરીને પાત્રો ભજવે છે? (કથકલીના સંદર્ભમાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કથકલી નૃત્યમાં પાત્રો પોતાની મુખની અભિવ્યક્તિ (facial expressions) અને વિશિષ્ટ મુખવટા (makeup) દ્વારા આખી વાર્તા રજૂ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કથકલી = કેરળ + કલાત્મક મુખવટા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Classical Dances of India</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 1,
+      "question": "ભારતના કયા રાજ્યનું કુચિપુડી નૃત્ય પ્રખ્યાત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કુચિપુડી નૃત્ય એ ભારતનું 'આંધ્રપ્રદેશ' રાજ્યનું પ્રખ્યાત શાસ્ત્રીય નૃત્ય છે, જેની રચના 15મી સદીમાં થઈ હોવાનું મનાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કુચી' (ચાવી) 'આંધ્ર' (અંધારા) માં ખોવાઈ ગઈ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Arts Section</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 1,
+      "question": "ખીજડિયા અને જામનગર પાસે કયા કિંમતી પથ્થરો મળી આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ગુજરાતમાં ખીજડિયા અને જામનગર પાસે 'અકીક' (Agate) અને અન્ય કેલ્સીડોનિક (ચકમક) પથ્થરો મળી આવે છે, જેનો ઉપયોગ ઘરેણાંમાં થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અકીક = નદીઓના ખીણ વિસ્તારનો કિંમતી પથ્થર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Gujarat Mineral Industry</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 1,
+      "question": "ભરતનાટ્યમ નૃત્યશૈલીનું ઉદ્ભવ સ્થાન કયું મનાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ભરતનાટ્યમ નૃત્યશૈલીનું ઉદ્ભવ સ્થાન તમિલનાડુ રાજ્યનો 'તાંજોર' જિલ્લો ગણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભરત નાટ્યમ = તમિલનાડુ (તાંજોર).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 1,
+      "question": "ચૂંદડીની ભાત માટે ગુજરાતનું કયું શહેર જાણીતું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ચૂંદડીની ભાત અને બાંધણી માટે જામનગર, જેતપુર, ભુજ અને માંડવી જાણીતા છે, જેમાં જામનગરની બાંધણી સૌથી વધુ પ્રખ્યાત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાંધણી = જામનગર (રંગબેરંગી).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Gujarat Handicrafts</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 1,
+      "question": "ઈડર અને સંખેડા શાના માટે જાણીતા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ઈડર લાકડાના રમકડાં માટે અને સંખેડા લાકડાના ફર્નિચર (ઝૂલા અને સેટી) પરના લાક્ષણિક નકશીકામ માટે જાણીતા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈડર = રમકડાં, સંખેડા = ફર્નિચર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Woodwork Art</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 1,
+      "question": "સંગીત પારિજાત ગ્રંથની રચના કોણે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પંડિત અહોબલે ઈ.સ. 1665 માં 'સંગીત પારિજાત' ગ્રંથની રચના કરી હતી. તેમણે દરેક રાગને બીજા રાગથી અલગ અને સ્વતંત્ર ગણાવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પારિજાતનું ફૂલ 'અહો' (અહોબલ) કેટલું સુંદર!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Ancient Music Texts</p></div>"
+    }
+  ]
+}
