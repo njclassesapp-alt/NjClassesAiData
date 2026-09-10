@@ -1763,3 +1763,100 @@ var Std10_SS_2Marks = {
     }
   ]
 }
+,
+"20": {
+  "chapterName": "પ્રકરણ 20",
+  "chapterTitle": "ભારતની સામાજિક સમસ્યાઓ અને પડકારો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "બળવાખોરી અને આતંકવાદ વચ્ચેનો તફાવત સ્પષ્ટ કરો. (March - 2020, 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>બળવાખોરી:</strong> તે જે-તે રાષ્ટ્રની સમસ્યા છે અને તે સ્થાનિક લોકોના સહકારથી ચાલે છે. તે મુખ્યત્વે સરકાર વિરુદ્ધ હોય છે.</li><li><strong>આતંકવાદ:</strong> તે એક વૈશ્વિક સમસ્યા છે અને તેને સ્થાનિક લોકોનો સહકાર મળે પણ ખરો અને ન પણ મળે. તે માનવતા વિરુદ્ધ હોય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બળવાખોરી = લોકલ (Local), આતંકવાદ = ગ્લોબલ (Global).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board PYQ</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "ભારતીય બંધારણમાં લઘુમતીઓની વ્યાખ્યા કઈ રીતે આપવામાં આવી છે? (March - 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ભારતના બંધારણમાં 'લઘુમતી' શબ્દની કોઈ ચોક્કસ વ્યાખ્યા આપવામાં આવી નથી.</li><li>ધર્મ કે ભાષાના આધારે કોઈ ચોક્કસ પ્રદેશ કે પ્રદેશોમાં જે સમુદાયની લોકસંખ્યા કુલ વસ્તીના અડધા (50%) થી ઓછી હોય, તેને લઘુમતી કહી શકાય.</li><li>રાષ્ટ્રીય સ્તરે લઘુમતીઓ નક્કી કરવામાં આવે છે તેમ જ રાજ્ય સ્તરે પણ ભાષાકીય કે ધાર્મિક લઘુમતી નક્કી કરવામાં આવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખવાની રીત: 50% થી ઓછી સંખ્યા + ધર્મ/ભાષાનો આધાર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board PYQ</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "બંધારણની કલમ-17 (Article 17) માં કઈ જોગવાઈ કરવામાં આવી છે? (July - 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ભારતીય બંધારણની કલમ-17 મુજબ 'અસ્પૃશ્યતા' નાબૂદ કરવામાં આવી છે.</li><li>અસ્પૃશ્યતાના કારણે લાદવામાં આવતી કોઈપણ અયોગ્યતાનો અમલ કરવો એ કાયદાની રૂએ 'શિક્ષાપાત્ર ગુનો' બને છે.</li><li>આ જોગવાઈ સામાજિક સમાનતા સ્થાપવા માટે અત્યંત મહત્વની છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: કલમ 17 = અસ્પૃશ્યતા ખતમ (End of Untouchability).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "સાંપ્રદાયિકતા દૂર કરવામાં 'શિક્ષણ' કઈ રીતે મદદરૂપ થઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>શિક્ષણમાં તમામ ધર્મોના સારાં તત્ત્વોનો સમાવેશ કરવો જોઈએ.</li><li>શાળાઓમાં સર્વધર્મ પ્રાર્થનાઓ અને સામાજિક ઉત્સવોની ઉજવણી કરવી જોઈએ જેથી બાળકોમાં સહિષ્ણુતા કેળવાય.</li><li>બાળકોમાં વૈજ્ઞાનિક અભિગમ અને બિનસાંપ્રદાયિક મૂલ્યોનું સિંચન કરવું જોઈએ.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખવાની રીત: પ્રાર્થના + ઉત્સવો + વૈજ્ઞાનિક અભિગમ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "નક્સલવાદી આંદોલન વિશે ટૂંકમાં માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>નક્સલવાદી આંદોલન ચીની ક્રાંતિથી પ્રેરિત માઓ-ત્સે-તુંગના નેતૃત્વ નીચે શરૂ થયું હતું.</li><li>ભારતમાં તેની શરૂઆત 1967 માં પશ્ચિમ બંગાળના 'નક્સલબારી' વિસ્તારથી થઈ હતી.</li><li>હાલમાં છત્તીસગઢ, ઝારખંડ, ઓડિશા અને આંધ્રપ્રદેશ જેવા રાજ્યોમાં આ સંગઠનો સક્રિય છે. (દા.ત. પીપલ્સ વોર ગ્રુપ અને માઓવાદી કેન્દ્ર).</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: 1967 + પશ્ચિમ બંગાળ + માઓવાદી વિચારધારા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "આતંકવાદની સામાજિક અસરો જણાવો. (કોઈપણ ચાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>સમાજમાં ભય અને અસલામતીની ભાવના પેદા થાય છે.</li><li>લોકોમાં પરસ્પર વિશ્વાસ ઘટતા શંકા-કુશંકા વધે છે અને ભાઈચારો નષ્ટ થાય છે.</li><li>તહેવારો અને ઉત્સવોની ઉજવણીનો આનંદ ઓસરી જાય છે.</li><li>બાળકોના માનસપટલ પર ડરની વિપરીત અસર પડે છે અને વિકાસ રુંધાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખવાની રીત: ભય + અવિશ્વાસ + ઉત્સવોમાં રુકાવટ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "બંધારણની કલમ-25 ધાર્મિક સ્વતંત્રતા વિશે શું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>કલમ-25 મુજબ ભારતના દરેક નાગરિકને પોતાનો મનપસંદ ધર્મ પાળવાનો અને તેનો પ્રચાર-પ્રસાર કરવાનો અધિકાર છે.</li><li>આ અધિકાર જાહેર વ્યવસ્થા, નૈતિકતા અને સ્વાસ્થ્યને નુકસાન ન થાય તે રીતે ભોગવી શકાય છે.</li><li>તે ભારતના બિનસાંપ્રદાયિક સ્વરૂપને મજબૂત બનાવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: કલમ 25 = મનગમતો ધર્મ પાળવાની છૂટ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Constitutional Provisions</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "આતંકવાદની આર્થિક અસરો જણાવો. (કોઈપણ ચાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>મિલકતોના નાશથી કરોડો રૂપિયાનું નુકસાન થાય છે અને તેના પુનઃનિર્માણમાં ખર્ચ વધે છે.</li><li>વેપાર-ઉદ્યોગ અને પર્યટન ઉદ્યોગને ભારે નુકસાન થાય છે.</li><li>સરકારે સુરક્ષા વ્યવસ્થા પાછળ કરોડો રૂપિયા ખર્ચવા પડે છે, જેનાથી વિકાસકામો માટે ભંડોળ ઘટે છે.</li><li>લોકોના સ્થળાંતરને કારણે જે-તે વિસ્તારની આર્થિક પ્રવૃત્તિઓ મંદ પડી જાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખવાની રીત: સંપત્તિ નુકસાન + સુરક્ષા ખર્ચ + પર્યટન ઘટાડો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "અનુસૂચિત જાતિઓ અને અનુસૂચિત જનજાતિઓનું લિસ્ટ કોણ નક્કી કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>બંધારણના આદેશ મુજબ રાષ્ટ્રપતિ જે-તે રાજ્યના રાજ્યપાલ સાથે પરામર્શ કરીને અનુસૂચિત જાતિ (SC) અને અનુસૂચિત જનજાતિ (ST) ની યાદી નક્કી કરે છે.</li><li>આ યાદીમાં ફેરફાર કરવાનો અધિકાર માત્ર ભારતની સંસદ પાસે જ છે.</li><li>આ લિસ્ટમાં સામેલ જાતિઓને જ ખાસ બંધારણીય રક્ષણ અને લાભો મળે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: રાષ્ટ્રપતિ + રાજ્યપાલ (પરામર્શ) + સંસદ (સુધારો).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Constitutional Articles 341 & 342</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "લઘુમતીઓના કલ્યાણ માટે બંધારણમાં કઈ શૈક્ષણિક અને સાંસ્કૃતિક જોગવાઈઓ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>લઘુમતીઓને પોતાની લિપિ, ભાષા અને સંસ્કૃતિ જાળવી રાખવાનો અધિકાર છે.</li><li>તેઓ પોતાની શૈક્ષણિક સંસ્થાઓ સ્થાપી શકે છે અને તેનું વહીવટ કરી શકે છે.</li><li>રાજ્ય દ્વારા અપાતી શૈક્ષણિક સહાયમાં લઘુમતી સંસ્થાઓ સાથે કોઈ ભેદભાવ રાખી શકાતો નથી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખવાની રીત: પોતાની શાળા + પોતાની લિપિ + સરકારી ગ્રાન્ટ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "સાંપ્રદાયિકતા દૂર કરવાના કોઈપણ બે ઉપાયો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>રેડિયો અને ટીવી:</strong> રાષ્ટ્રીય હિત અને સર્વધર્મ સમભાવના કાર્યક્રમો પ્રસારિત કરવા જોઈએ. દેશભક્તિ વધારતા નાટકો બતાવવા જોઈએ.</li><li><strong>યુવાનોની ભૂમિકા:</strong> યુવાનોમાં સાંપ્રદાયિક ભાવના ન જાગે તે માટે સામાજિક અને શૈક્ષણિક પ્રયત્નો કરવા જોઈએ, જેથી તેઓ રાષ્ટ્રના વિકાસમાં જોડાય.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: મીડિયા + જાગૃત યુવા પેઢી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "કાશ્મીરમાં આતંકવાદ ફેલાવવા માટે કઈ પરિસ્થિતિ જવાબદાર છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ભારતના પડોશી દેશ (પાકિસ્તાન) દ્વારા સરહદ પારથી સીમાપાર આતંકવાદને પ્રોત્સાહન અને મદદ પૂરી પાડવામાં આવે છે.</li><li>તેનો મુખ્ય ઉદ્દેશ્ય કાશ્મીરમાં અસ્થિરતા પેદા કરવાનો અને આઝાદીના નામે ભાગલા પડાવવાનો છે.</li><li>આ કારણે કાશ્મીરના અનેક પંડિતોએ ત્યાંથી હિજરત કરવી પડી છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખવાની રીત: સીમાપાર આતંકવાદ + પડોશી દેશનો સપોર્ટ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 2,
+      "question": "નાગાલેન્ડમાં કયા કયા બળવાખોર સંગઠનો સક્રિય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>નાગાલેન્ડમાં 'નેશનલ સોશિયાલિસ્ટ કાઉન્સિલ ઓફ નાગાલેન્ડ' (NSCN) મુખ્ય બળવાખોર સંગઠન છે.</li><li>આ સંગઠન બે ભાગમાં વહેંચાયેલું છે: NSCN (Isak-Muivah - IM) અને NSCN (Khaplang - K).</li><li>તેમની મુખ્ય માંગ નાગાલેન્ડને અલગ રાષ્ટ્ર અથવા વધુ સ્વાયત્તતા આપવાની છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: NSCN (IM) અને NSCN (K).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Northeast Insurgency Section</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 2,
+      "question": "બંધારણની કલમ-16 (4) અને કલમ-335 ની જોગવાઈઓ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>કલમ-16 (4):</strong> રાજ્ય હસ્તકની નોકરીઓમાં જે પછાત વર્ગોનું પ્રતિનિધિત્વ યોગ્ય નથી, તેમના માટે અનામત બેઠકો રાખવાની જોગવાઈ કરવાની સત્તા રાજ્યને આપે છે.</li><li><strong>કલમ-335:</strong> કેન્દ્ર અને રાજ્યની સેવાઓમાં નિમણૂક કરતી વખતે SC/ST ના ઉમેદવારોના દાવાઓ વહીવટી કાર્યક્ષમતા જળવાય તે રીતે ધ્યાનમાં લેવા જોઈએ.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખવાની રીત: 16(4) = નોકરીમાં અનામત, 335 = નિમણૂકમાં ધ્યાન.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Constitutional Provisions</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 2,
+      "question": "આતંકવાદ એટલે શું? તેની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>આતંકવાદ એ થોડાક લોકો દ્વારા સંગઠિત, આયોજિત અને ઈરાદાપૂર્વક કરવામાં આવતું હિંસક કૃત્ય છે.</li><li>તેનો હેતુ ડર ફેલાવીને રાજકીય કે ધાર્મિક લક્ષ્યાંકો પ્રાપ્ત કરવાનો હોય છે.</li><li>તે કોઈ ખાસ ધર્મ કે જાતિ સાથે જોડાયેલો નથી હોતો, પરંતુ માનવતા માટે ખતરો છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 શોર્ટકટ: આયોજિત હિંસા + ડરનું વાતાવરણ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Definition</p></div>"
+    }
+  ]
+}
