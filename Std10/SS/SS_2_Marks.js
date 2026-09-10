@@ -2006,3 +2006,82 @@ var Std10_SS_2Marks = {
     }
   ]
 }
+,
+"23": {
+  "chapterName": "પ્રકરણ 23",
+  "chapterTitle": "માર્ગ-સલામતી અને વાહનચાલક",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "'ગોલ્ડન અવર' (Golden Hour) એટલે શું? તેનું મહત્વ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>અકસ્માત થયા પછીના પ્રથમ એક કલાકના સમયગાળાને 'ગોલ્ડન અવર' કહેવામાં આવે છે.</li><li>આ સમય દરમિયાન જો ઇજાગ્રસ્ત વ્યક્તિને તાત્કાલિક સારવાર મળે, તો તેના બચવાની શક્યતા સૌથી વધુ હોય છે.</li><li>લોહી વહેતું અટકાવવું અને સમયસર હોસ્પિટલ પહોંચાડવાથી મૃત્યુદર ઘટાડી શકાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોલ્ડન એટલે સોનું અને સોના જેવો કિંમતી સમય એટલે 'પહેલો ૧ કલાક'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "માર્ગ અકસ્માતના કોઈપણ ચાર મુખ્ય કારણો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>૧. ટ્રાફિકના નિયમોનું ઉલ્લંઘન કરવું અને અતિશય ઝડપે વાહન ચલાવવું.</li><li>૨. નશો (દારૂ) પીને વાહન ચલાવવું.</li><li>૩. વાહન ચલાવતી વખતે મોબાઈલ ફોનનો ઉપયોગ કરવો.</li><li>૪. હેલ્મેટ કે સીટ બેલ્ટ જેવા સુરક્ષા સાધનોનો ઉપયોગ ન કરવો.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઝડપ, નશો, મોબાઈલ અને નિયમ ભંગ' - આ ચાર અકસ્માતના યમરાજ છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Most IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "વાહન ચલાવતી વખતે કયા કયા દસ્તાવેજો (Documents) સાથે રાખવા અનિવાર્ય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>૧. ડ્રાઇવિંગ લાયસન્સ (Driving License)</li><li>૨. વાહનનું રજીસ્ટ્રેશન સર્ટિફિકેટ (RC Book)</li><li>૩. વાહનનો વીમો (Insurance)</li><li>૪. પી.યુ.સી. (PUC - Pollution Under Control Certificate)</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'L-I-R-P' (License, Insurance, RC, PUC) યાદ રાખો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "ટ્રાફિક સિગ્નલની ત્રણ લાઈટો (લાલ, પીળી, લીલી) શું સૂચવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>લાલ લાઈટ:</strong> વાહન થોભાવી દેવાનું (STOP) સૂચવે છે.</li><li><strong>પીળી લાઈટ:</strong> વાહન ચાલકે થોભવા માટે તૈયાર થવાનું અથવા જો રસ્તો સાફ હોય તો સાવચેતીપૂર્વક આગળ વધવાનું સૂચવે છે.</li><li><strong>લીલી લાઈટ:</strong> વાહન આગળ વધારવા (GO) માટેની સૂચના આપે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ = સ્ટોપ, પીળી = વેઈટ, લીલી = ગો!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "'ગુડ સમરિટન' (Good Samaritan) કોને કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>જ્યારે કોઈ વ્યક્તિ માર્ગ અકસ્માતમાં ઘવાયેલા વ્યક્તિને નિઃસ્વાર્થ ભાવે મદદ કરી હોસ્પિટલ પહોંચાડે છે, ત્યારે તેને 'ગુડ સમરિટન' કહેવાય છે.</li><li>આવી વ્યક્તિને પોલીસ પૂછપરછ કે કોર્ટના ધક્કામાંથી મુક્તિ મળે છે અને સરકાર દ્વારા તેમને પ્રોત્સાહિત પણ કરવામાં આવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુડ સમરિટન = અકસ્માતમાં મદદ કરનાર 'દેવદૂત'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> New NCERT Syllabus 2024</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "રાત્રિ દરમિયાન વાહન ચલાવતી વખતે કઈ બાબતોનું ધ્યાન રાખવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>૧. વાહનની હેડલાઇટ હંમેશા 'લો-બીમ' (Low Beam) પર રાખવી જેથી સામે આવનાર ચાલકની આંખો અંજાય નહીં.</li><li>૨. રાત્રે વાહનની ગતિ મર્યાદિત રાખવી.</li><li>૩. વળાંક કે ઓવરટેકિંગ વખતે ઈન્ડિકેટરનો યોગ્ય ઉપયોગ કરવો.</li><li>૪. જો થાક લાગે કે ઊંઘ આવે તો વાહન ચલાવવું ટાળવું જોઈએ.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાત પડે એટલે 'લો-બીમ' અને 'લો-સ્પીડ'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "રસ્તો ઓળંગતી વખતે પદયાત્રીએ કયા નિયમોનું પાલન કરવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>૧. હંમેશા રસ્તો ઓળંગવા માટે 'ઝેબ્રા ક્રોસિંગ' (Zebra Crossing) નો જ ઉપયોગ કરવો.</li><li>૨. રસ્તો ઓળંગતા પહેલાં જમણી બાજુ, પછી ડાબી બાજુ અને ફરીથી જમણી બાજુ જોઈને વાહન ન આવતું હોય ત્યારે જ આગળ વધવું.</li><li>૩. જ્યાં ફૂટ ઓવર બ્રિજ કે સબ-વે હોય ત્યાં તેનો ઉપયોગ કરવો.</li><li>૪. ફૂટપાથ હોય ત્યાં ફૂટપાથ પર જ ચાલવું.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદયાત્રી માટે 'ઝેબ્રા' અને 'ફૂટપાથ' બે જ મિત્રો છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board 2023</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "ટ્રાફિક ચિહ્નોના મુખ્ય પ્રકારો જણાવી ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>૧. <strong>ફરજિયાત ચિહ્નો:</strong> ગોળ આકૃતિમાં હોય છે (દા.ત. નો એન્ટ્રી).</li><li>૨. <strong>ચેતવણીરૂપ ચિહ્નો:</strong> ત્રિકોણ આકૃતિમાં હોય છે (દા.ત. આગળ સાંકડો પુલ છે).</li><li>૩. <strong>માહિતીપ્રદ ચિહ્નો:</strong> લંબચોરસ કે ચોરસ આકૃતિમાં હોય છે (દા.ત. હોસ્પિટલ કે પેટ્રોલ પંપ).</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોળ = ઓર્ડર, ત્રિકોણ = એલર્ટ, ચોરસ = ઇન્ફોર્મેશન.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "સીટ-બેલ્ટ બાંધવાના ફાયદા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>અચાનક બ્રેક મારતી વખતે કે અકસ્માત સમયે મુસાફર આગળની તરફ ફેંકાઈ જતો નથી.</li><li>સીટ-બેલ્ટ એરબેગ્સની કાર્યક્ષમતામાં વધારો કરે છે.</li><li>તે ગંભીર ઈજાઓ અને મૃત્યુના જોખમને ૪૫% થી ૫૦% સુધી ઘટાડી શકે છે.</li><li>વાહન ચાલકની બેઠક વ્યવસ્થા જાળવી રાખે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીટ-બેલ્ટ = સુરક્ષાનું કવચ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "108 ઇમરજન્સી સેવા વિશે ટૂંકમાં જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>ગુજરાતમાં માર્ગ અકસ્માત કે અન્ય મેડિકલ ઇમરજન્સી માટે 108 નંબર ડાયલ કરીને ફ્રી એમ્બ્યુલન્સ સેવા મેળવી શકાય છે.</li><li>આ સેવામાં એમ્બ્યુલન્સની અંદર જ પ્રાથમિક સારવાર (First Aid) ની સુવિધા હોય છે.</li><li>તે દર્દીને ગોલ્ડન અવરમાં હોસ્પિટલ પહોંચાડવાનું કાર્ય કરે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 108 = અકસ્માત સમયે જીવન બચાવતી હેલ્પલાઈન.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "વાહન ચલાવતી વખતે મોબાઈલનો ઉપયોગ શા માટે જોખમી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>મોબાઈલ પર વાત કરવાથી ચાલકનું ધ્યાન રસ્તા પરથી હટી જાય છે (Distraction).</li><li>ઝડપી નિર્ણય લેવાની ક્ષમતા ઘટી જાય છે.</li><li>એક હાથે હેન્ડલ પકડવાથી વાહન પરનું નિયંત્રણ નબળું પડે છે.</li><li>આજુબાજુના વાહનોના હોર્નનો અવાજ સંભળાતો નથી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોબાઈલની વાત, અકસ્માતની શરૂઆત.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "રસ્તા પરના 'ઝેબ્રા ક્રોસિંગ' નો અર્થ અને મહત્વ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>રસ્તા પર સફેદ અને કાળા પટ્ટાઓ દોરવામાં આવે છે જેને 'ઝેબ્રા ક્રોસિંગ' કહેવાય છે.</li><li>તે પદયાત્રીઓને રસ્તો ઓળંગવા માટેની સુરક્ષિત જગ્યા સૂચવે છે.</li><li>જ્યારે સિગ્નલ લાલ હોય ત્યારે વાહન ચાલકે વાહન ઝેબ્રા ક્રોસિંગની પહેલાં (Stop Line પર) ઊભું રાખવું જોઈએ જેથી પદયાત્રીઓ ચાલી શકે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝેબ્રા લાઈન્સ = વોકિંગ લાઈન્સ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board</p></div>"
+    }
+  ]
+}
