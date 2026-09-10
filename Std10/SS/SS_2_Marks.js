@@ -1939,3 +1939,70 @@ var Std10_SS_2Marks = {
     }
   ]
 }
+,
+"22": {
+  "chapterName": "પ્રકરણ 22",
+  "chapterTitle": "પ્રકૃતિમાં પોષણ-વ્યવસ્થા",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "પોષણ-કડી (Food Chain) એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સજીવો જે ક્રમમાં એકબીજાને ખાઈને પોષણ મેળવે છે, તે ક્રમિક શ્રેણીને 'પોષણ-કડી' કહે છે. ઉદાહરણ: ઘાસ → તીડ → દેડકો → સાપ → બાજ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કોણ કોનું ભોજન' એ યાદ રાખવાની રીત એટલે પોષણ-કડી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "સ્વયંપોષી સજીવો કોને કહેવાય? બે ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જે સજીવો અકાર્બનિક પદાર્થોમાંથી સૂર્યપ્રકાશની હાજરીમાં પોતાનો ખોરાક જાતે બનાવે છે, તેમને સ્વયંપોષી કહે છે. દા.ત., લીલી વનસ્પતિ અને કેટલાક બેક્ટેરિયા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્વયં' એટલે પોતે - જે પોતાનો રસોઈયો પોતે હોય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "પરપોષી સજીવો એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જે સજીવો પોતાનો ખોરાક જાતે બનાવી શકતા નથી અને ખોરાક માટે અન્ય સજીવો પર આધાર રાખે છે, તેમને પરપોષી સજીવો કહે છે. દા.ત., મનુષ્ય, પ્રાણીઓ, ફૂગ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પર' એટલે બીજા પર આધારિત.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "પરિસ્થિતિકીય પિરામિડ (Ecological Pyramid) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પોષણ-સ્તરો મુજબ સજીવોની સંખ્યા, જૈવભાર કે ઊર્જાના પ્રમાણને દર્શાવતી આલેખિત રચનાને 'પરિસ્થિતિકીય પિરામિડ' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિરામિડ એટલે ત્રિકોણ આકારનું ગ્રાફિકલ પ્રેઝન્ટેશન.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "વિઘટકોનું કાર્ય સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વિઘટકો (જેમ કે ફૂગ અને બેક્ટેરિયા) મૃત જૈવિક પદાર્થોનું જટિલ કાર્બનિક પદાર્થોમાંથી સરળ પદાર્થોમાં રૂપાંતર કરે છે અને પોષક તત્વોને ફરીથી જમીનમાં મુક્ત કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતના 'સફાઈ કામદારો' એટલે વિઘટકો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "પોષણ-જાળ (Food Web) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પર્યાવરણમાં ઘણી બધી પોષણ-કડીઓ એકબીજા સાથે જોડાઈને જે જટિલ જાળ બનાવે છે, તેને પોષણ-જાળ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘણી બધી કડીઓ મળીને બને જાળ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "ઊર્જાનો પ્રવાહ હંમેશા એકમાર્ગી શા માટે હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કારણ કે જ્યારે ઊર્જા એક પોષણ સ્તરથી બીજા સ્તર પર જાય છે, ત્યારે તેનો મોટો ભાગ ઉષ્મા સ્વરૂપે વ્યય પામે છે અને પાછો મૂળ સ્ત્રોતમાં આવતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊર્જા વહે છે નદીની જેમ, પાછી ફરી શકતી નથી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "જૈવ-વિસ્તૃતીકરણ (Biological Magnification) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પોષણ-કડીમાં હાનિકારક રસાયણો (જેમ કે DDT) નું પ્રમાણ દરેક પોષણ સ્તરે ક્રમશઃ વધતું જવાની પ્રક્રિયાને જૈવ-વિસ્તૃતીકરણ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપરના સ્તરે ઝેરનું પ્રમાણ વધારે (Magnification = વધવું).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "દ્વિતીય ઉપભોગીઓના ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>દ્વિતીય ઉપભોગીઓ પ્રાથમિક ઉપભોગીઓ (શાકાહારી પ્રાણીઓ) ને ખાય છે. દા.ત., દેડકો (તીડને ખાય), શિયાળ (સસલાને ખાય).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાકાહારીઓને ખાનાર એટલે માંસાહારી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "પર્યાવરણમાં સંતુલન જાળવવા વિઘટકોનું મહત્વ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વિઘટકો જમીનમાં પોષક તત્વોનું ચક્ર ચાલુ રાખે છે. જો તેઓ ન હોય, તો પૃથ્વી પર મૃત સજીવોના ઢગલા થઈ જાય અને પોષક તત્વોનું ચક્ર અટકી જાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રિસાયકલિંગ કરનારા કુદરતી એજન્ટો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    }
+  ]
+}
