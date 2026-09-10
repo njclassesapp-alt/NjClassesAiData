@@ -1860,3 +1860,82 @@ var Std10_SS_2Marks = {
     }
   ]
 }
+,
+"21": {
+  "chapterName": "પ્રકરણ 21",
+  "chapterTitle": "સામાજિક પરિવર્તન",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "સંયુક્ત રાષ્ટ્રોએ (UN) કયા કયા બાળ અધિકારો જાહેર કર્યા છે? (કોઈપણ ચાર જણાવો) [March-2020]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સંયુક્ત રાષ્ટ્રોએ બાળકોના સર્વાંગી વિકાસ માટે નીચે મુજબના અધિકારો જાહેર કર્યા છે:</p><ul><li>જાતિ, રંગ કે ભાષાના ભેદભાવ વિના જીવન જીવવાનો અધિકાર.</li><li>માતા-પિતા દ્વારા યોગ્ય ઉછેર અને શિક્ષણ મેળવવાનો અધિકાર.</li><li>પોતાના વ્યક્તિત્વના વિકાસ માટે રમતગમત અને મનોરંજનનો અધિકાર.</li><li>સામાજિક સુરક્ષા અને યોગ્ય જીવનસ્તર મેળવવાનો અધિકાર.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 'જીવન-શિક્ષણ-રમત-સુરક્ષા' - આ ચાર શબ્દો યાદ રાખવાથી મુદ્દા સરળતાથી લખાશે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board March 2020</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "વૃદ્ધોને કઈ કઈ સમસ્યાઓનો સામનો કરવો પડે છે? [July-2022]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વૃદ્ધોને મુખ્યત્વે નીચેની સમસ્યાઓ નડે છે:</p><ul><li>શારીરિક નબળાઈ અને માંદગીને કારણે અન્ય પર નિર્ભરતા.</li><li>સંયુક્ત કુટુંબો તૂટતા તેઓ એકલતા અનુભવે છે.</li><li>આર્થિક અસલામતી અને મિલકત બાબતે સંતાનો દ્વારા થતી ઉપેક્ષા.</li><li>માનસિક તણાવ અને પાયાની જરૂરિયાતો મેળવવામાં પડતી મુશ્કેલી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: શારીરિક, આર્થિક, માનસિક અને સામાજિક - આ ચારેય પાસાઓ પરથી સમસ્યાઓ લખવી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board July 2022</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "બાળ મજૂરીના મુખ્ય કારણો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>બાળ મજૂરી માટે જવાબદાર મુખ્ય કારણો નીચે મુજબ છે:</p><ul><li>કુટુંબની અત્યંત ગરીબી અને બેરોજગારી.</li><li>માતા-પિતાની નિરક્ષરતા અને જાગૃતિનો અભાવ.</li><li>કુટુંબના સભ્યોની મોટી સંખ્યા.</li><li>મોટા શહેરોમાં સસ્તી મજૂરીની માંગ અને મજૂરોનું સ્થળાંતર.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: ગરીબી + અજ્ઞાનતા = બાળ મજૂરી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "માહિતી મેળવવાના અધિકાર (RTI) ના કોઈ પણ બે મુખ્ય હેતુઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>RTI કાયદાના મુખ્ય હેતુઓ:</p><ul><li>સરકારી તંત્રના વહીવટમાં પારદર્શિતા લાવવી અને જવાબદારી નક્કી કરવી.</li><li>વહીવટી તંત્રમાં ચાલતા ભ્રષ્ટાચારને નાબૂદ કરવો અને વહીવટને સ્વચ્છ બનાવવો.</li><li>નાગરિકોને શાસન વ્યવસ્થા વિશે માહિતી મેળવવાની સત્તા આપી લોકશાહીને મજબૂત બનાવવી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: RTI = પારદર્શિતા + ભ્રષ્ટાચાર મુક્તિ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB New Syllabus</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "'મા અન્નપૂર્ણા યોજના' હેઠળ કયા કયા કુટુંબોને અનાજ આપવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>આ યોજના હેઠળ નીચેના કુટુંબો આવરી લેવામાં આવ્યા છે:</p><ul><li>રાજ્યના અંત્યોદય કુટુંબો અને ગરીબી રેખા નીચે જીવતા (BPL) કુટુંબો.</li><li>શહેરી અને ગ્રામીણ વિસ્તારના અગ્રતા ધરાવતા કુટુંબો.</li><li>આ યોજનામાં કુટુંબ દીઠ 35 કિલો અનાજ અથવા વ્યક્તિ દીઠ 5 કિલો અનાજ રાહત દરે આપવામાં આવે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: અંત્યોદય + BPL = અન્નપૂર્ણા યોજના.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "ભ્રષ્ટાચાર નાબૂદી માટેના સરકારી પ્રયાસોમાં 'લોકપાલ' અને 'લોકાયુક્ત' ની ભૂમિકા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><strong>લોકપાલ:</strong> કેન્દ્ર કક્ષાએ ઉચ્ચ હોદ્દા ધરાવતા સાર્વજનિક સેવકો વિરુદ્ધ ભ્રષ્ટાચારની ફરિયાદની તપાસ કરવા માટેની સંસ્થા છે.</li><li><strong>લોકાયુક્ત:</strong> રાજ્ય કક્ષાએ મુખ્યમંત્રી અને અન્ય મંત્રીઓ તેમજ ઉચ્ચ અધિકારીઓ સામેના ભ્રષ્ટાચારની તપાસ માટે ગુજરાતમાં લોકાયુક્તની નિમણૂક કરવામાં આવી છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: કેન્દ્ર = લોકપાલ | રાજ્ય = લોકાયુક્ત.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "બાળકોના મફત અને ફરજિયાત શિક્ષણના અધિકારની (RTE) મુખ્ય બે જોગવાઈઓ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>6 થી 14 વર્ષની વયના તમામ બાળકોને પ્રાથમિક શિક્ષણ મફત અને ફરજિયાત આપવું.</li><li>ખાનગી શાળાઓમાં નબળા અને વંચિત જૂથના બાળકો માટે 25% બેઠકો અનામત રાખવી.</li><li>બાળકની પ્રવેશ માટે કોઈ પરીક્ષા કે ઇન્ટરવ્યુ લેવાની મનાઈ છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 6-14 વર્ષ + 25% ક્વોટા = RTE.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes / GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "વૃદ્ધોના રક્ષણ માટે સરકારે કયા કાયદાકીય પગલાં લીધા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>વૃદ્ધોના રક્ષણ માટે 'માતા-પિતા અને વરિષ્ઠ નાગરિકોની સારસંભાળ અને કલ્યાણ સંબંધી કાયદો-2007' અમલમાં મૂક્યો છે.</li><li>આ કાયદા મુજબ સંતાનોને માતા-પિતાની સેવા કરવા કાયદેસર રીતે બાધ્ય કર્યા છે.</li><li>નિરાધાર વૃદ્ધોને પેન્શન આપવાની અને વૃદ્ધાશ્રમોમાં સુવિધા આપવાની જોગવાઈ છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 2007 નો કાયદો - સેવા એ જ ફરજ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB New NCERT Pattern</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "સામાજિક પરિવર્તન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સામાજિક પરિવર્તન એટલે સમાજની સામાજિક સંરચનામાં, સંસ્થાઓમાં, લોકોના સામાજિક સંબંધોમાં અને મૂલ્યોમાં થતું પરિવર્તન.</p><ul><li>તે એક સતત ચાલતી પ્રક્રિયા છે.</li><li>તેમાં સામાજિક દરજ્જો અને કાર્યોમાં ફેરફાર થાય છે.</li><li>પશ્ચિમીકરણ અને આધુનિકીકરણ સામાજિક પરિવર્તનના મુખ્ય પરિબળો છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: સામાજિક માળખું + મૂલ્યો + સંબંધો = સામાજિક પરિવર્તન.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Standard 10</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "ભ્રષ્ટાચારની અસરો જણાવો. (કોઈપણ ચાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>માનવ અધિકારોનું ઉલ્લંઘન થાય છે અને સામાજિક અન્યાય વધે છે.</li><li>રાષ્ટ્રીય વિકાસ અવરોધાય છે અને મોંઘવારી વધે છે.</li><li>લોકોનો નૈતિક મૂલ્યો અને કાયદા પ્રત્યેનો વિશ્વાસ ઘટે છે.</li><li>કાળા નાણાની સમસ્યા ઉદભવે છે જે અર્થતંત્રને નુકસાન કરે છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: અન્યાય + મોંઘવારી + વિશ્વાસભંગ = ભ્રષ્ટાચારની અસર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP Questions</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "રાષ્ટ્રીય અન્ન સુરક્ષા ધારા (NFSA) ના મુખ્ય હેતુઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>દેશની વધતી જતી વસ્તીને પૂરતા પ્રમાણમાં અને પોષણક્ષમ આહાર મળી રહે તેની ખાતરી આપવી.</li><li>ગરીબોને અત્યંત રાહત દરે અનાજ આપી કુપોષણની સમસ્યા હલ કરવી.</li><li>ગર્ભવતી મહિલાઓ અને સ્તનપાન કરાવતી માતાઓને પોષણક્ષમ આહાર દ્વારા સહાય પૂરી પાડવી.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: NFSA = પોષણ + રાહત દર + મહિલા સુરક્ષા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook Page 189</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "કાયદાનું સામાન્ય જ્ઞાન શા માટે જરૂરી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>કાયદાના જ્ઞાનથી નાગરિકો શોષણ અને અન્યાય સામે અવાજ ઉઠાવી શકે છે.</li><li>પોતાના અધિકારો અને ફરજો પ્રત્યે સભાનતા આવે છે.</li><li>કાયદાકીય ગૂંચવણોથી બચી શકાય છે અને સજા કે દંડથી મુક્તિ મળે છે.</li><li>સમાજમાં શાંતિ અને વ્યવસ્થા જાળવવામાં મદદરૂપ થાય છે.</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: કાયદો = રક્ષણ + જાગૃતિ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Special</p></div>"
+    }
+  ]
+}
