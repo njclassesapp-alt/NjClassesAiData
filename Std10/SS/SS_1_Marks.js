@@ -483,3 +483,100 @@ var Std10_SS_1Marks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "ભારતના સાંસ્કૃતિક વારસાનાં સ્થળો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 1,
+      "question": "કોણાર્કના સૂર્યમંદિરને બીજા કયા નામે ઓળખવામાં આવે છે? (Board March-2019, 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કોણાર્કના સૂર્યમંદિરને 'કાળા પેગોડા' (Black Pagoda) તરીકે ઓળખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: સૂર્ય કાળો નથી પણ તેનું મંદિર (પથ્થરો) કાળા છે, એટલે 'કાળા પેગોડા'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 1,
+      "question": "ઈલોરાની ગુફાઓમાં કયા નંબરની ગુફામાં 'કૈલાશ મંદિર' આવેલું છે? (Board March-2020)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ઈલોરાની ગુફાઓમાં ગુફા નંબર 16 માં ભવ્ય 'કૈલાશ મંદિર' આવેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: ઈલોરામાં કુલ 34 ગુફાઓ છે, તેમાં 16 નંબર પર શિવજીનું કૈલાશ છે (16 સોમવાર યાદ રાખી શકાય).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 1,
+      "question": "યુનેસ્કોએ (UNESCO) ગુજરાતના કયા સ્થળને 2004માં વૈશ્વિક વારસાના સ્થળ તરીકે જાહેર કર્યું છે? (Board July-2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>યુનેસ્કોએ વર્ષ 2004માં પંચમહાલ જિલ્લામાં આવેલા 'ચાંપાનેર' (પુરાતત્વીય ઉદ્યાન) ને વૈશ્વિક વારસાનું સ્થળ જાહેર કર્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: ગુજરાતનું પ્રથમ UNESCO સાઈટ = ચાંપાનેર (2004).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board / NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 1,
+      "question": "હુમાયુનો મકબરો કોણે બંધાવ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>હુમાયુના મૃત્યુ બાદ આ મકબરો તેની પત્ની 'હમીદા બેગમે' બંધાવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: હુમાયુ - હમીદા (બંને 'હ' પરથી નામ શરૂ થાય છે).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 1,
+      "question": "બૃહદેશ્વર મંદિરનું નિર્માણ કયા વંશના રાજાએ કરાવ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ચોલ વંશના રાજા 'રાજરાજ પ્રથમ' એ આ મંદિરનું નિર્માણ કરાવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 'રાજરાજ' એ 'બૃહદ' (મોટું) મંદિર બનાવ્યું - રાજરાજેશ્વર મંદિર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 1,
+      "question": "ખજુરાહોના મંદિરો કયા વંશના શાસકોના સમયમાં બંધાયા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ખજુરાહોના મંદિરો બુંદેલખંડના 'ચંદેલ રાજપૂત' રાજાઓના સમયમાં (ઈ.સ. 950 થી 1050) બંધાયા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: ખજુરાહો = ચંદેલ શાસકો (મધ્યપ્રદેશ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 1,
+      "question": "એલિફન્ટાની ગુફાઓને સ્થાનિક માછીમારો કયા નામે ઓળખે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સ્થાનિક માછીમારો એલિફન્ટાની ગુફાઓને 'ધારાપુરી' તરીકે ઓળખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: હાથી (Elephant) જેવો પથ્થર જોયો એટલે પોર્ટુગીઝોએ એલિફન્ટા નામ આપ્યું, પણ માછીમારો માટે તે 'ધારાપુરી' છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 1,
+      "question": "ફતેહપુર સિક્રીમાં આવેલો કયો દરવાજો વિશ્વનો સૌથી ઊંચો દરવાજો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ફતેહપુર સિક્રીમાં આવેલો 'બુલંદ દરવાજો' (Buland Darwaza) વિશ્વનો સૌથી ભવ્ય અને ઊંચો દરવાજો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: બુલંદ એટલે ઊંચો/તાકતવર અવાજ, તેમ દરવાજો પણ બુલંદ છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 1,
+      "question": "હમ્પી (Hampi) કયા સામ્રાજ્યની રાજધાનીનું શહેર હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>હમ્પી એ કર્ણાટક રાજ્યમાં 'વિજયનગર સામ્રાજ્ય'ની રાજધાનીનું શહેર હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: વિજય થયો એટલે 'હમ્પી' (ખુશીના અવાજ જેવું) વગાડ્યું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 1,
+      "question": "કુતુબ મિનારનું બાંધકામ કોણે શરૂ કરાવ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કુતુબ મિનારનું બાંધકામ 12મી સદીના અંતમાં 'કુતુબુદ્દીન ઐબકે' શરૂ કરાવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: કુતુબ - કુતુબુદ્દીન (નામ જ જવાબ છે).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 1,
+      "question": "તાજમહાલના મુખ્ય વાસ્તુશિલ્પી કોણ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>તાજમહાલના મુખ્ય વાસ્તુશિલ્પી 'ઉસ્તાદ અહમદ લાહોરી' હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: લાલ કિલ્લો અને તાજમહાલ બંનેમાં લાહોરીનું નામ યાદ રાખવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 1,
+      "question": "અજંતાની ગુફાઓ કોણે શોધી કાઢી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ઈ.સ. 1819 માં અંગ્રેજ કેપ્ટન 'જોન સ્મિથે' વિસરાઈ ગયેલી અજંતાની ગુફાઓ પુનઃ શોધી કાઢી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 'સ્મિથ' (Smith) એ અજંતાનું સ્મિત પાછું લાવ્યું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 1,
+      "question": "ઈલોરાની ગુફાઓમાં હિન્દુ ધર્મની ગુફાઓ કયા નંબરની છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ઈલોરામાં હિન્દુ ધર્મની ગુફાઓ 13 થી 29 નંબરની છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 1-12 બૌદ્ધ, 13-29 હિન્દુ, 30-34 જૈન.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 1,
+      "question": "લાલ કિલ્લામાં આવેલી કઈ ઈમારત સોના-ચાંદી અને કિંમતી પથ્થરોથી જડેલી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>લાલ કિલ્લામાં આવેલી 'દીવાન-એ-ખાસ' ઈમારત અન્ય ઈમારતોની તુલનામાં વધુ અલંકૃત અને કિંમતી પથ્થરોથી જડેલી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 'ખાસ' એટલે મોંઘુ અને કિંમતી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 1,
+      "question": "ગોવામાં કયા ફાધરનો પાર્થિવ દેહ સાચવીને રાખવામાં આવ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ગોવાના બેસાલિકા ઓફ બોમ જીસસ ચર્ચમાં 'સેન્ટ ફ્રાન્સિસ ઝેવિયર'નો પાર્થિવ દેહ રાખવામાં આવ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: ફ્રાન્સિસ ઝેવિયર - જેમના દેહને ક્યારેય સડો નથી લાગ્યો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    }
+  ]
+}
