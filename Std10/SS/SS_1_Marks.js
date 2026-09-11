@@ -192,3 +192,100 @@ var Std10_SS_1Marks = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "ભારતનો સાંસ્કૃતિક વારસો: શિલ્પ અને સ્થાપત્ય",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 1,
+      "question": "'મોહેં-જો-દડો' શબ્દનો અર્થ શું થાય છે? (March-2020, 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>'મોહેં-જો-દડો' શબ્દનો અર્થ 'મરેલાઓનો ટેકરો' (Mound of the Dead) એવો થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોહેં-જો-દડો = 'મો' એટલે 'મોત' (મરેલા) અને 'ડો' એટલે 'ઢગલો' કે 'ટેકરો'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board (PYQ)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 1,
+      "question": "કયા સ્તંભને ભારતની કલાનો શ્રેષ્ઠ નમૂનો માનવામાં આવે છે? (March-2019)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સારનાથના સ્તંભને ભારતની શિલ્પકલાનો સર્વોત્તમ અને શ્રેષ્ઠ નમૂનો માનવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સાર'નાથમાં ભારતની કલાનો સાચો 'સાર' છુપાયેલો છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board (PYQ)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 1,
+      "question": "લોથલ કઈ બે નદીઓના વચ્ચેના પ્રદેશમાં આવેલું છે? (July-2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>લોથલ અમદાવાદ જિલ્લાના ધોળકા તાલુકામાં 'ભોગાવો' અને 'સાબરમતી' નદીઓના વચ્ચેના પ્રદેશમાં આવેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોથલ = ભોગાવો + સાબરમતી (LSB - Lothal, Sabarmati, Bhogavo).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board (PYQ)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 1,
+      "question": "કોણાર્કનું સૂર્યમંદિર કયા રાજ્યમાં આવેલું છે અને તેનો આકાર કેવો છે? (Board IMP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કોણાર્કનું સૂર્યમંદિર ઓડિશા રાજ્યમાં આવેલું છે અને તેનો આકાર 'રથ' જેવો છે, જેને સાત ઘોડા ખેંચતા હોય તેવું દર્શાવ્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓડિશાનો 'ઓ' અને કોણાર્કનો 'રથ' - પૈડાં યાદ રાખવા (12 જોડ પૈડાં).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 1,
+      "question": "સ્તૂપના અંડાકાર ભાગની ટોચની ચારે બાજુએ આવેલી રેલિંગને શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સ્તૂપના અંડાકાર ભાગની ટોચની ચારે બાજુએ આવેલી રેલિંગને 'હર્મિકા' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હર્મિકા = હાર (રેલિંગ જેવી હાર) જે સ્તૂપને પવિત્ર રાખે છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 1,
+      "question": "ધોળાવીરા કયા ટાપુમાં આવેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ધોળાવીરા કચ્છના ભચાઉ તાલુકાના 'ખદીરબેટ' ટાપુમાં આવેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધોળાવીરા = કચ્છનો 'ખદીર' બેટ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT / GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 1,
+      "question": "મોઢેરાના સૂર્યમંદિરનું નક્ષીકામ કઈ શૈલીમાં થયેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>મોઢેરાના સૂર્યમંદિરનું નક્ષીકામ 'ઈરાની શૈલી'માં થયેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોઢેરા અને ઈરાન - બંનેમાં 'ર' અક્ષર કોમન છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 1,
+      "question": "શિલ્પ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>શિલ્પી પોતાના કૌશલ્ય અને આવડતને છીણી-હથોડી વડે વિવિધ પ્રકારના મનના ભાવો પથ્થર, લાકડું કે ધાતુ પર કંડારે તેને 'શિલ્પ' કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિલ્પ = છીણી + હથોડી + ભાવ + પથ્થર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook Definition</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 1,
+      "question": "ગ્રીક અને ભારતીય શૈલીના મિશ્રણથી બૌદ્ધ ધર્મની કઈ કલાશૈલી વિકસી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ગ્રીક અને ભારતીય શૈલીના સંગમથી 'ગાંધાર શૈલી' વિકસી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધાર = ગ્રીક + ભારતીય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Concept</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 1,
+      "question": "અમદાવાદની કઈ મસ્જિદની જાળીઓ વિશ્વભરમાં પ્રખ્યાત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અમદાવાદની 'સીદી સૈયદની જાળી' તેની અત્યંત બારીક અને સુંદર પથ્થરની નક્ષી માટે વિશ્વભરમાં પ્રખ્યાત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીદી સૈયદ = વનસ્પતિ અને ભૌમિતિક ડિઝાઈનવાળી જાળી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Heritage List</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 1,
+      "question": "દક્ષિણ ભારતની કઈ શૈલીના મંદિરો પિરામિડ આકારના અને બહુમાળી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>દક્ષિણ ભારતની 'દ્રવિડ શૈલી'ના મંદિરો પિરામિડ આકારના અને બહુમાળી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દક્ષિણ = દ્રવિડ (D=D).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 1,
+      "question": "વિશ્વના સૌથી મોટા શિલ્પોમાં કયા જૈન મૂર્તિની ગણના થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કર્ણાટકમાં શ્રવણબેલગોડા ખાતે આવેલી 'ગોમતેશ્વરની મૂર્તિ' (બાહુબલી) વિશ્વના સૌથી મોટા શિલ્પોમાં ગણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોમતેશ્વર = કર્ણાટક (જૈન શિલ્પકલા).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Extra info</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 1,
+      "question": "સ્થાપત્યનો સરળ અર્થ શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સ્થાપત્યનો સરળ અર્થ 'બાંધકામ' એવો થાય છે. સંસ્કૃત ભાષામાં તેના માટે 'વાસ્તુ' શબ્દ પ્રયોજાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થાપત્ય = બાંધકામ (મકાન, કૂવા, કિલ્લા વગેરે).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Textbook Definition</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 1,
+      "question": "મોઢેરાનું સૂર્યમંદિર કયા રાજાના સમયમાં બંધાયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>મોઢેરાનું સૂર્યમંદિર સોલંકી વંશના રાજા 'ભીમદેવ પ્રથમ' ના શાસનકાળ દરમિયાન બંધાયું હતું (ઈ.સ. 1026).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોઢેરા સૂર્યમંદિર - સોલંકી યુગનો સુવર્ણકાળ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 1,
+      "question": "હડપ્પીય સંસ્કૃતિનું સૌથી મોટું બંદર કયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>હડપ્પીય સંસ્કૃતિનું સૌથી મોટું અને મહત્વનું બંદર 'લોથલ' હતું, જે આંતરરાષ્ટ્રીય વેપાર માટે જાણીતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોથલ = લંગર (ડોકયાર્ડ) માટેનું સ્થળ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT History</p></div>"
+    }
+  ]
+}
