@@ -289,3 +289,100 @@ var Std10_SS_1Marks = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "ભારતનો સાહિત્યિક વારસો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 1,
+      "question": "મહર્ષિ પાણિનીનો સંસ્કૃત ભાષાનો કયો મહાન ગ્રંથ જાણીતો છે? (March - 2018, 2020)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>મહર્ષિ પાણિનીનો સંસ્કૃત વ્યાકરણનો સૌથી મહાન ગ્રંથ <strong>'અષ્ટાધ્યાયી'</strong> છે, જે ઈ.સ. પૂર્વે ચોથી સદીમાં લખાયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: અષ્ટાધ્યાયી = 8 (અષ્ટ) અધ્યાય ધરાવતું સંસ્કૃત વ્યાકરણનું પુસ્તક (પાણિની - વ્યાકરણના પિતા).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board (March 2018, 2020)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 1,
+      "question": "હિન્દી સાહિત્યનો પ્રારંભિક ગ્રંથ કયો છે? તેના લેખક કોણ છે? (March - 2019)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>હિન્દી સાહિત્યનો પ્રારંભિક ગ્રંથ <strong>'પૃથ્વીરાજ રાસો'</strong> છે અને તેના લેખક <strong>ચંદબરદાઈ</strong> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: પૃથ્વી પર 'ચંદ' (ચંદ્ર) દેખાય છે = પૃથ્વીરાજ રાસો - ચંદબરદાઈ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board (March 2019)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 1,
+      "question": "ભારતીય સાહિત્યનો પ્રાચીનતમ ગ્રંથ કયો છે? (July - 2021)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ભારતીય સાહિત્ય અને વિશ્વનો સૌથી પ્રાચીનતમ ગ્રંથ <strong>'ઋગ્વેદ'</strong> છે, જેમાં 1028 ઋચાઓનો સંગ્રહ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: ઋગ્વેદ એ 'ઋષિઓનો વેદ' અને સૌથી જૂનો વેદ છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board (July 2021)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 1,
+      "question": "બૌદ્ધ સાહિત્ય કઈ ભાષામાં લખાયેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પ્રારંભિક બૌદ્ધ સાહિત્ય <strong>પાલી</strong> ભાષામાં લખાયેલું છે, જેમાં મુખ્ય ગ્રંથ 'ત્રિપિટક' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 'બૌદ્ધ પાલી' - ભગવાન બુદ્ધે લોકભાષા પાલીનો ઉપયોગ કર્યો હતો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 1,
+      "question": "ભારતનો કયો ગ્રંથ 'વિશ્વનો સૌથી મોટો કાવ્યગ્રંથ' ગણાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ભારતનો <strong>'મહાભારત'</strong> ગ્રંથ વિશ્વનો સૌથી મોટો કાવ્યગ્રંથ છે, જેમાં લગભગ 1 લાખ જેટલા શ્લોકો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: મહાભારત = 'મહાન' અને 'મોટો' (1 લાખ શ્લોક).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 1,
+      "question": "અમીર ખુશરો કયા નામે ઓળખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અમીર ખુશરો પોતાની સાહિત્યિક પ્રવૃત્તિઓને કારણે <strong>'તૂતી-એ-હિંદ' (ભારતના પોપટ)</strong> તરીકે ઓળખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 'ખુશ' રહેવા માટે પોપટ (તૂતી) ની જેમ બોલવું પડે = અમીર ખુશરો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 1,
+      "question": "કયા ગ્રંથને ભારતનો સર્વપ્રથમ ઐતિહાસિક ગ્રંથ માનવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કલ્હણ દ્વારા રચિત <strong>'રાજતરંગિણી'</strong> ને ભારતનો સર્વપ્રથમ ઐતિહાસિક ગ્રંથ માનવામાં આવે છે, જે કાશ્મીરના ઇતિહાસ પર આધારિત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: કાશ્મીરના રાજાઓની તરંગિણી (નદી) = રાજતરંગિણી (કલ્હણ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 1,
+      "question": "મુગલ બાદશાહ બાબરે કઈ આત્મકથા લખી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>મુગલ બાદશાહ બાબરે તુર્કી ભાષામાં <strong>'તુઝુક-એ-બાબરી' (બાબરનામા)</strong> નામની આત્મકથા લખી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: બાબરે લખી બાબરનામા (તુઝુક-એ-બાબરી).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 1,
+      "question": "કન્નડ સાહિત્યની 'ત્રિપુટી' તરીકે કોણ ઓળખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કન્નડ સાહિત્યમાં <strong>પંપા, પોન્ના અને રન્ના</strong> આ ત્રણ કવિઓ 'ત્રિપુટી' તરીકે ઓળખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: PPR (Pampa, Ponna, Ranna) - કન્નડની ત્રિપુટી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 1,
+      "question": "શ્રીમદ્ ભગવદ્ ગીતામાં કયા ત્રણ માર્ગોનું વિવેચન કરવામાં આવ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>શ્રીમદ્ ભગવદ્ ગીતામાં મોક્ષ પ્રાપ્તિ માટે <strong>જ્ઞાન, કર્મ અને ભક્તિ</strong> એમ ત્રણ માર્ગોનું વિવેચન કરવામાં આવ્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: GKB (Gyan, Karma, Bhakti).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 1,
+      "question": "વલ્લભી વિદ્યાપીઠ ગુજરાતના કયા જિલ્લામાં આવેલી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વલ્લભી વિદ્યાપીઠ ગુજરાતના <strong>ભાવનગર</strong> જિલ્લાના વલ્લભીપુર ખાતે આવેલી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: વલ્લભી = ભાવનગર (મેત્રક વંશની રાજધાની).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 1,
+      "question": "કયા ગ્રંથને તમિલ સાહિત્યનો 'બાઈબલ' માનવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>તિરુવલ્લુવર દ્વારા રચિત <strong>'કુરલ'</strong> ગ્રંથને તમિલ સાહિત્યનો 'બાઈબલ' માનવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: તમિલ કુરલ - તિરુવલ્લુવર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 1,
+      "question": "મુલ્લા દાઉદનો કયો ગ્રંથ અવધિ ભાષાનો સૌથી જૂનો ગ્રંથ મનાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>મુલ્લા દાઉદનો ગ્રંથ <strong>'ચંદાયન'</strong> અવધિ ભાષાનો સૌથી જૂનો ગ્રંથ મનાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: દાઉદ - ચંદાયન (અવધિ ભાષા).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 1,
+      "question": "બુદ્ધિશાળી વજીર અબુલ ફઝલે કયા બે મહાન ગ્રંથોની રચના કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અબુલ ફઝલે <strong>'આઈન-એ-અકબરી'</strong> અને <strong>'અકબરનામા'</strong> નામના બે મહાન ગ્રંથોની રચના કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: અબુલ ફઝલ = અકબરના 'આઈન' (નિયમો) લખનાર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 1,
+      "question": "ચોલ વંશના શાસન દરમિયાન કયા કવિએ તમિલ ભાષામાં રામાયણની રચના કરી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ચોલ વંશના શાસન દરમિયાન કવિ <strong>કંબને</strong> તમિલ ભાષામાં રામાયણની રચના કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: તમિલ રામાયણ = કવિ કંબન.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    }
+  ]
+}
