@@ -580,3 +580,70 @@ var Std10_SS_1Marks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "આપણા વારસાનું જતન",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 1,
+      "question": "ભારતનો સાંસ્કૃતિક વારસો કેવો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ભારતનો સાંસ્કૃતિક વારસો અત્યંત વૈવિધ્યપૂર્ણ, સમૃદ્ધ અને ભવ્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વૈવૈસ' (વૈવિધ્ય, વૈભવ, સમૃદ્ધિ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 1,
+      "question": "પ્રાચીન ભારતના વારસાની જાળવણી માટે બંધારણની કઈ કલમમાં જોગવાઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ભારતીય બંધારણની કલમ 51(A) માં નાગરિકોની મૂળભૂત ફરજો દર્શાવવામાં આવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '51 એ' (51st Amendment/Article - વારસાના રક્ષણ માટે યાદ રાખો).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 1,
+      "question": "ભારતીય પુરાતત્વ સર્વેક્ષણ સંસ્થા (ASI) ની સ્થાપના કોણે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ભારતીય પુરાતત્વ સર્વેક્ષણ સંસ્થાની સ્થાપના લોર્ડ કર્ઝને કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ASI-કર્ઝન' (ASI એટલે પ્રાચીન વસ્તુઓનું રક્ષણ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 1,
+      "question": "પ્રાચીન સ્મારકો અને પુરાતત્વીય સ્થળો અને અવશેષોના અધિનિયમ મુજબ કયા સ્મારકોનું જતન કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જે સ્મારકો 100 વર્ષથી વધુ જૂના હોય તેનું જતન કરવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સેન્ચ્યુરી' (100 વર્ષ = એક સદી).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 1,
+      "question": "ભારતીય સંગ્રહાલય ક્યાં આવેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ભારતીય સંગ્રહાલય પશ્ચિમ બંગાળના કોલકાતા શહેરમાં આવેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કોલ-સંગ્રહ' (કોલકાતામાં મોટું સંગ્રહાલય).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 1,
+      "question": "રાષ્ટ્રીય માનવ સંગ્રહાલય કયા શહેરમાં આવેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>રાષ્ટ્રીય માનવ સંગ્રહાલય ભોપાલ (મધ્યપ્રદેશ) માં આવેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'માનવ-ભોપાલ'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 1,
+      "question": "ગુજરાત રાજ્ય પુરાતત્વ વિભાગની મુખ્ય કામગીરી શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>રાજ્યના રક્ષિત સ્મારકો અને પુરાતત્વીય સ્થળોનું ઉત્ખનન અને જાળવણી કરવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શોધ + સંભાળ'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 1,
+      "question": "વારસાના જતન માટે કયા પ્રકારનું અભિગમ જરૂરી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વારસાના જતન માટે સકારાત્મક અને જાગૃત અભિગમ જરૂરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સકારાત્મક-જાગૃતિ'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 1,
+      "question": "યુનેસ્કો (UNESCO) નું કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વિશ્વના સાંસ્કૃતિક અને પ્રાકૃતિક વારસાના સ્થળોની પસંદગી કરીને તેની જાળવણી કરવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વર્લ્ડ હેરિટેજ લિસ્ટર'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 1,
+      "question": "પ્રાચીન કલાકૃતિઓના ગેરકાયદેસર નિકાસને રોકવા કયો કાયદો બનાવવામાં આવ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>પ્રાચીન કલાકૃતિઓ અને પુરાવસ્તુઓ અધિનિયમ, 1972.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '1972 - નિકાસ અટકાવો'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board</p></div>"
+    }
+  ]
+}
