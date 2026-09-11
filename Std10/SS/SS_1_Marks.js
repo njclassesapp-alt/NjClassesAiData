@@ -647,3 +647,100 @@ var Std10_SS_1Marks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "કુદરતી સંસાધનો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 1,
+      "question": "સંસાધન એટલે શું? (March 2020, 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જે વસ્તુ પર માનવી આશ્રિત કે નિર્ભર હોય, જેનાથી માનવીની જરૂરિયાતો પૂરી થતી હોય અને માનવી પાસે તેનો ઉપયોગ કરવાની શારીરિક કે બૌદ્ધિક ક્ષમતા હોય, તેને 'સંસાધન' કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: સંસાધન = જરૂરિયાત + ઉપયોગની ક્ષમતા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board PYQ</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 1,
+      "question": "કયા સંસાધનો એકવાર વપરાયા પછી પુનઃ પ્રાપ્ત કરી શકાતા નથી? (March 2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>અનવીનીકરણીય (પુનઃઅપ્રાપ્ય) સંસાધનો, જેમ કે કોલસો, ખનીજ તેલ અને કુદરતી ગેસ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 'અ' એટલે 'નહિ' - જે ફરી પ્રાપ્ત ન થાય તે અનવીનીકરણીય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board PYQ</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 1,
+      "question": "જમીન ધોવાણ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ગતિશીલ હવા અને પાણી દ્વારા જમીનના ઉપરના કણોનું ઝડપથી એક સ્થળેથી બીજા સ્થળે સ્થળાંતર થવું તેને જમીનનું ધોવાણ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: ધોવાણ = કણોનું સ્થળાંતર (હવા/પાણી દ્વારા).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Text Book</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 1,
+      "question": "કઈ જમીન 'રેગુર' ના નામે પણ ઓળખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ભારતની કાળી જમીન (Black Soil) 'રેગુર' ના નામે ઓળખાય છે, જે કપાસના પાક માટે અત્યંત અનુકૂળ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: કાળી = કપાસ = રેગુર (KKR).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 1,
+      "question": "સર્વસુલભ સંસાધનનું એક ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વાતાવરણમાં રહેલા ઉપયોગી વાયુઓ, જેમ કે ઓક્સિજન અને નાઈટ્રોજન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: સર્વસુલભ એટલે જે બધે જ આસાનીથી મળે (હવા).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Text Book</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 1,
+      "question": "રાતી (લાલ) જમીનનો લાલ રંગ શેને આભારી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>રાતી જમીનમાં રહેલા 'ફેરિક ઓક્સાઈડ' (Ferric Oxide) ને કારણે તેનો રંગ લાલ દેખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: લાલ રંગ = ફેરિક ઓક્સાઈડ (લોહ તત્વ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 1,
+      "question": "'લેટેરાઈટ' જમીનનું નામ કયા લેટિન શબ્દ પરથી પડ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>લેટેરાઈટ જમીનનું નામ લેટિન શબ્દ 'Later' (લેટર) પરથી પડ્યું છે, જેનો અર્થ 'ઈંટ' થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: Later = ઈંટ (Bricks).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Text Book</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 1,
+      "question": "વિરલ સંસાધન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જે સંસાધનોના પ્રાપ્તિસ્થાનો મર્યાદિત હોય તેવા સંસાધનોને 'વિરલ સંસાધન' કહેવાય. દા.ત. કોલસો, પેટ્રોલિયમ, યુરેનિયમ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: વિરલ = બહુ ઓછી જગ્યાએ મળતું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 1,
+      "question": "ભારતીય કૃષિ સંશોધન પરિષદ (ICAR) દ્વારા ભારતની જમીનોને કેટલા પ્રકારમાં વહેંચવામાં આવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ICAR દ્વારા ભારતની જમીનોને મુખ્ય 8 (આઠ) પ્રકારોમાં વહેંચવામાં આવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: જમીનના પ્રકાર = 8 (અષ્ટાંગ જમીન).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Text Book</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 1,
+      "question": "કાંપની જમીન ભારતના કુલ ક્ષેત્રફળના અંદાજે કેટલા ટકા ભાગમાં આવેલી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કાંપની જમીન (Alluvial Soil) ભારતના કુલ ક્ષેત્રફળના અંદાજે 43% ભાગમાં ફેલાયેલી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: કાંપ = સૌથી વધુ વિસ્તાર (43%).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 1,
+      "question": "પર્વતીય જમીન હિમાલયના કયા ઊંચાઈવાળા ક્ષેત્રોમાં જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>હિમાલયના આશરે 2700 થી 3000 મીટર સુધીની ઊંચાઈવાળા ક્ષેત્રોમાં પર્વતીય જમીન જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: 2700 થી 3000 m (શંકુદ્રુમ જંગલોનું ક્ષેત્ર).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Text Book</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 1,
+      "question": "જમીન સંરક્ષણ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જમીન સંરક્ષણ એટલે જમીનનું ધોવાણ રોકીને જમીનની ગુણવત્તા જાળવવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: સંરક્ષણ = બચાવ + ગુણવત્તા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 1,
+      "question": "કયા પ્રકારની જમીન ભીની થાય ત્યારે ચીકણી અને સુકાય ત્યારે તેમાં તિરાડો પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કાળી જમીન (Black Soil) માં ભેજ સંગ્રહવાની શક્તિ વધુ હોવાથી તે ભીની થતા ચીકણી બને છે અને સુકાતા તેમાં મોટી તિરાડો પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: કાળી જમીન = સ્વયં ખેડાતી જમીન (તિરાડોને કારણે).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Text Book</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 1,
+      "question": "દળદલ કે પીટ પ્રકારની જમીન કયા વિસ્તારોમાં જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>આ પ્રકારની જમીન ભેજવાળા વિસ્તારોમાં જૈવિક પદાર્થોના સંચયથી બને છે. ભારતમાં તે ઓડિશા, પશ્ચિમ બંગાળ અને તમિલનાડુના કિનારાના ભાગોમાં જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: દળદલ = વધુ વરસાદ + વધુ ભેજ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 1,
+      "question": "એક જ સ્થળેથી મળી આવતું સંસાધન કયા નામે ઓળખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>એક જ સ્થળેથી મળી આવતા સંસાધનને 'એકલ સંસાધન' (Solitary Resource) કહેવાય છે. દા.ત. ક્રાયોલાઇટ ખનીજ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: એકલ = ફક્ત એક જ જગ્યાએ (ગ્રીનલેન્ડમાં ક્રાયોલાઇટ).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Text Book</p></div>"
+    }
+  ]
+}
