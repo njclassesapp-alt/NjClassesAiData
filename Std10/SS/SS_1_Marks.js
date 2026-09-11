@@ -386,3 +386,100 @@ var Std10_SS_1Marks = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "ભારતનો વિજ્ઞાન અને ટેકનોલોજીનો વારસો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 1,
+      "question": "પ્રાચીન ભારતના કયા વિદ્વાનને 'ભારતીય રસાયણશાસ્ત્રના આચાર્ય' માનવામાં આવે છે? (March-2020, 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>આચાર્ય નાગાર્જુનને ભારતીય રસાયણશાસ્ત્રના આચાર્ય માનવામાં આવે છે. તેઓ નાલંદા વિદ્યાપીઠના બૌદ્ધ આચાર્ય હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: </p><p>ન-ન જોડી: <b>ના</b>ગાર્જુન = <b>ના</b>લંદા વિદ્યાપીઠ અને રસાયણના 'રાજા'.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board PYQ</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 1,
+      "question": "ગણિતશાસ્ત્રના પિતા તરીકે કોને ઓળખવામાં આવે છે? (July-2021)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>આર્યભટ્ટને ગણિતશાસ્ત્રના પિતા તરીકે ઓળખવામાં આવે છે, કારણ કે તેમણે શૂન્યની શોધ અને દશાંશ પદ્ધતિની સમજ આપી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: </p><p><b>A</b>ryabhatta is <b>A1</b> in Mathematics. શૂન્ય અને આર્યભટ્ટ એકબીજાના પર્યાય છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board PYQ</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 1,
+      "question": "મહર્ષિ ચરકે કયો પ્રસિદ્ધ ગ્રંથ લખ્યો છે? (March-2023)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>મહર્ષિ ચરકે 'ચરકસંહિતા' નામનો ગ્રંથ લખ્યો છે, જેમાં 2000 થી વધુ ઔષધિઓનું વર્ણન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: </p><p>લેખકના નામ પરથી જ ગ્રંથનું નામ છે: <b>ચરક</b> -> <b>ચરક</b>સંહિતા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board PYQ</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 1,
+      "question": "બ્રહ્મગુપ્તે કયા સિદ્ધાંત દ્વારા ગુરુત્વાકર્ષણના નિયમોનો ઉલ્લેખ કર્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>બ્રહ્મગુપ્તે 'બ્રહ્મસ્ફુટ સિદ્ધાંત' ગ્રંથમાં ગુરુત્વાકર્ષણના નિયમોનો ઉલ્લેખ કર્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: </p><p><b>બ્રહ્મ</b>ગુપ્ત = <b>બ્રહ્મ</b>સ્ફુટ સિદ્ધાંત.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 1,
+      "question": "મહર્ષિ સુશ્રુતે શલ્યચિકિત્સા માટે કેટલા ધારદાર સાધનોનો ઉલ્લેખ કર્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>મહર્ષિ સુશ્રુતે શલ્યચિકિત્સા (વાઢકાપ) માટે 121 જેટલા ધારદાર સાધનોનો ઉલ્લેખ કર્યો હતો, જે વાળને ઊભા ચીરી શકે તેટલા તીક્ષ્ણ હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: </p><p>સુશ્રુત = સર્જરી (S-S). સંખ્યા યાદ રાખો: 121.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 1,
+      "question": "દિલ્હીમાં આવેલો કયો સ્તંભ 1600 વર્ષ પછી પણ કાટ લાગ્યા વગર અડીખમ ઊભો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>દિલ્હીના મેહરોલી પાસે આવેલો 'વિજયસ્તંભ' (લોહસ્તંભ) જે સમ્રાટ ચંદ્રગુપ્ત બીજાએ બનાવડાવ્યો હતો, તે હજી સુધી કાટ લાગ્યા વગર ઊભો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: </p><p>લોખંડનો સ્તંભ હોવા છતાં 'વિજય' મેળવ્યો કાટ સામે = વિજયસ્તંભ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 1,
+      "question": "ખગોળશાસ્ત્ર ક્ષેત્રે 'બૃહદસંહિતા' નામનો ગ્રંથ કોણે લખ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ખગોળશાસ્ત્ર ક્ષેત્રે 'બૃહદસંહિતા' ગ્રંથની રચના વરાહમિહિરે કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: </p><p><b>વ</b>રાહમિહિર = <b>વ</b>િશાળ (બૃહદ) જ્ઞાન ધરાવનાર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 1,
+      "question": "દેવોના પ્રથમ સ્થપતિ (Architect) કોને માનવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>દેવોના પ્રથમ સ્થપતિ તરીકે ભગવાન વિશ્વકર્માને માનવામાં આવે છે, જેમણે વાસ્તુશાસ્ત્રને 8 ભાગમાં વહેંચ્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: </p><p><b>વિશ્વ</b>નું <b>કર્મા</b> (નિર્માણ) કરનાર = <b>વિશ્વકર્મા</b>.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 1,
+      "question": "આર્યભટ્ટે પૃથ્વીની ધરીભ્રમણ બાબતે કઈ સાબિતી આપી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>આર્યભટ્ટે સાબિત કર્યું હતું કે પૃથ્વી પોતાની ધરી પર ફરે છે અને ચંદ્રગ્રહણનું સાચું કારણ પૃથ્વીનો પડછાયો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: </p><p>ધરીભ્રમણ = આર્યભટ્ટનો 'ગોળ' શૂન્ય અને ગોળ પૃથ્વી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 1,
+      "question": "પ્રાચીન ભારતમાં 'લીલાવતી ગણિત' ગ્રંથની રચના કોણે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ભાસ્કરાચાર્યે ઈ.સ. 1150 માં 'લીલાવતી ગણિત' અને 'બીજગણિત' નામના ગ્રંથો લખ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: </p><p>ભાસ્કરાચાર્યની પુત્રીનું નામ લીલાવતી હતું, તેના પરથી ગણિતનો ગ્રંથ લખ્યો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 1,
+      "question": "સુલતાનગંજમાંથી મળી આવેલી બુદ્ધની તામ્રમૂર્તિ કેટલી ઊંચી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>સુલતાનગંજ (બિહાર) માંથી મળી આવેલી બુદ્ધની તામ્રમૂર્તિ સાડા સાત (7.5) ફૂટ ઊંચી અને 1 ટન વજન ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: </p><p>સુલતાનગંજ = સાડા સાત ફૂટ (S-S).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 1,
+      "question": "વાગ્ભટ્ટે વૈદ્યકશાસ્ત્ર ક્ષેત્રે કયો મહત્વનો ગ્રંથ લખ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વાગ્ભટ્ટે 'અષ્ટાંગ હૃદય' નામનો ગ્રંથ લખ્યો છે, જે નિદાન ક્ષેત્રે ખૂબ જ મહત્વનો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: </p><p>હૃદયની વાત 'વાગ' (વાણી) દ્વારા - વાગ્ભટ્ટ = અષ્ટાંગ હૃદય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 1,
+      "question": "ભાસ્કરાચાર્યે કયા ચિન્હોની શોધ કરી હોવાનું મનાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ભાસ્કરાચાર્યે પ્લસ (+) અને માઇનસ (-) એટલે કે સરવાળા અને બાદબાકીના ચિન્હોની શોધ કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: </p><p>ભાસ્કર (સૂર્ય) ના કિરણો વધે(+) અને ઘટે(-).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 1,
+      "question": "વાસ્તુશાસ્ત્રમાં કોના નામનો સમાવેશ પ્રણેતા તરીકે થતો નથી? (નકારાત્મક પ્રશ્ન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વાસ્તુશાસ્ત્રમાં બ્રહ્મા, નારદ, બૃહસ્પતિ, ભૃગુ, વસિષ્ઠ અને વિશ્વકર્માનો સમાવેશ થાય છે. વિકલ્પો મુજબ આર્યભટ્ટ કે ચરકનો સમાવેશ થતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: </p><p>ઋષિમુનિઓ વાસ્તુ સાથે જોડાયેલા છે, જ્યારે આર્યભટ્ટ ગણિત સાથે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 1,
+      "question": "પાય (π) ની કિંમત 3.14 છે તેમ કયા ભારતીય ગણિતશાસ્ત્રીએ જણાવ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>આર્યભટ્ટે તેમના ગ્રંથ 'આર્યભટ્ટિયમ' માં જણાવ્યું હતું કે પાય (π) ની કિંમત 22/7 એટલે કે 3.14 જેટલી થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક / યાદ રાખવાની રીત: </p><p>વર્તુળના પરિઘ અને વ્યાસનો ગુણોત્તર = પાય = આર્યભટ્ટ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Textbook</p></div>"
+    }
+  ]
+}
