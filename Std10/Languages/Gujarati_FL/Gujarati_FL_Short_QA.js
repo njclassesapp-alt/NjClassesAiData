@@ -397,3 +397,61 @@ var Std10_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"4": {
+  "chapterNumber": 4,
+  "chapterTitle": "તમારી યાદ",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘તમારી યાદ’ કૃતિના સર્જકનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘તમારી યાદ’ કૃતિના સર્જકનું નામ મુકેશ જોષી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તમારી યાદ' એટલે મુકેશ જોષી! યાદ રાખજો: 'મુકેશજીની યાદ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘તમારી યાદ’ કાવ્યનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યનો સાહિત્ય પ્રકાર 'ગઝલ' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગઝલ એટલે શેર-શાયરી. 'તમારી યાદ' આવી એટલે શાયરી યાદ કરી લેવી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કવિ મુકેશ જોષીનો કયો કાવ્યસંગ્રહ જાણીતો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મુકેશ જોષીનો 'ફાંસલો' કાવ્યસંગ્રહ જાણીતો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ફાંસલો' એટલે અંતર, પણ યાદ તો ખૂબ નજીકની છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ખાલી જગ્યા પૂરો: ‘તમારી યાદ’ ગઝલ .......... માંથી લેવામાં આવી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘તમારી યાદ’ ગઝલ 'કળશ' કાવ્યસંગ્રહમાંથી લેવામાં આવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદો કળશમાં ભરેલી હોય, એમ 'કળશ' યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કવિને કોની યાદ કયા સ્વરૂપે આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિને પ્રિયજનની યાદ વરસાદની જેમ ભીંજવે છે અને સંવેદના સ્વરૂપે આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ એટલે ભીંજવતો વરસાદ, બસ આટલું જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કવિ મુકેશ જોષી મૂળ કયા જિલ્લાના વતની છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ મુકેશ જોષી મૂળ વડનગર (જિલ્લો મહેસાણા) ના વતની છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વડનગરના મુકેશભાઈ, મહેસાણાની શાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "‘તમારી યાદ’ કાવ્યમાં કઈ ભાવના વ્યક્ત થઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યમાં પ્રિયજનની સ્મૃતિઓથી સભર વિરહની અને મિલનની ઝંખનાની ભાવના વ્યક્ત થઈ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરહ + મિલન = યાદની ગઝલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કવિ કયા સ્થાને ‘યાદ’ને અનુભવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ પોતાની આસપાસના વાતાવરણમાં, પ્રકૃતિમાં અને પોતાના હૃદયમાં પ્રિયજનની યાદને અનુભવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૃદય અને પ્રકૃતિ - જ્યાં જુઓ ત્યાં યાદ જ યાદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "‘તમારી યાદ’ માં કયા ગુજરાતી સાહિત્યના પ્રકારના તત્વો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તેમાં ગઝલના શેર, રદીફ અને કાફિયા જેવા તત્વો જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગઝલ છે, તો રદીફ-કાફિયા તો હોવાના જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કવિ માટે યાદનો અર્થ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ માટે યાદ એટલે સતત સાથે રહેતી એક મીઠી અને ક્યારેક પીડા આપતી અનુભૂતિ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ એટલે મીઠી પીડા!</p></div>"
+    }
+  ]
+}
