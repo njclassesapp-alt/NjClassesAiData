@@ -264,3 +264,136 @@ var Std10_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"3": {
+  "chapterNumber": 3,
+  "chapterTitle": "શીલવંત સાધુને",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'શીલવંત સાધુને' પદના કવયિત્રીનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'શીલવંત સાધુને' પદના કવયિત્રી ગંગાસતી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગંગા' જેવું 'શીલ' (ચારિત્ર્ય) એટલે ગંગાસતી. સાધુ કેવા હોય? ગંગા જેવા પવિત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'શીલવંત સાધુને' કૃતિનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કૃતિનો સાહિત્ય પ્રકાર 'ભજન' અથવા 'પદ' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંગાસતીના જે પણ કાવ્યો આવે તે મોટે ભાગે 'ભજન' જ હોય, જે પાનબાઈને સંબોધીને લખાયા હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગંગાસતીએ આ ભજનમાં કોને સંબોધન કર્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગંગાસતીએ પોતાની શિષ્યા પાનબાઈને સંબોધન કર્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંગા + પાનબાઈ = ગુરુ + શિષ્યાની જોડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ખાલી જગ્યા પૂરો: 'શીલવંત સાધુને વારે વારે નમીએ, જેના બદલે નહીં _______.'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વર્તમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાધુનું 'વર્તન' ક્યારેય બદલાતું નથી, એટલે 'વર્તમાન' યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "શીલવંત સાધુના ચિત્તની વૃત્તિ કેવી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શીલવંત સાધુના ચિત્તની વૃત્તિ સદાય 'નિર્મળ' હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિર્મળ એટલે જેમાં કોઈ મળ (મેલ) ન હોય તેવું ચોખ્ખું ચિત્ત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સાધુને કોની કૃપા ઊતરેલી જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સાધુ પર પરમાત્માની (મહારાજની) કૃપા ઊતરેલી જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાચો સાધુ એ જ જેના પર 'મહારાજ' (ઈશ્વર) રાજી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "'તુરિયાનો તાર જાગી જવો' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તુરિયાનો તાર જાગવો એટલે સમજણશક્તિનો ઉદય થવો અથવા ચોથી અવસ્થા (બ્રહ્મવસ્થા) પ્રાપ્ત થવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તુરિયા = ત્રીજી આંખ જેવી જાગૃતિ. જ્ઞાનનો પ્રકાશ થવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ગંગાસતી કયા સમયગાળામાં થઈ ગયા હોવાનું મનાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગંગાસતી આશરે ૧૯મી સદીમાં થઈ ગયા હોવાનું મનાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંગાસતી મધ્યકાલીન ભક્તિ પરંપરાના છેલ્લા તબક્કાના કવયિત્રી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સાધુના મનમાં કયો ભાવ હોતો નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સાધુના મનમાં શત્રુ કે મિત્ર એવો કોઈ ભેદભાવ હોતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાધુ માટે આખું જગત એક સમાન છે (સમદ્રષ્ટિ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "શીલવંત સાધુ શામાં પ્રીત રાખે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શીલવંત સાધુ પરમાર્થમાં (પરમ તત્ત્વમાં અથવા પરોપકારમાં) પ્રીત રાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરમાર્થ = પરમ + અર્થ (મોક્ષનો માર્ગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ગંગાસતીની ભજનગંગામાં કુલ કેટલા ભજનો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગંગાસતીએ પાનબાઈને ૫૨ (બાવન) દિવસ સુધી એક-એક ભજન સંભળાવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પત્તાની કેટમાં 52 પાના હોય, તેમ ગંગાસતીના 52 ભજનો પ્રખ્યાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "શીલવંત સાધુના મન, વચન અને વાણીમાં શું જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શીલવંત સાધુના મન, વચન અને વાણીમાં એકરૂપતા (સમાનતા) જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મન-કર્મ-વચન = એકસમાન. જેવું વિચારે તેવું જ બોલે અને કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "શબ્દાર્થ આપો: 'પરમાર્થ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પરમાર્થ એટલે મોક્ષ અથવા પરોપકાર (ઉત્તમ પુરુષાર્થ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર (બીજાનું) + અર્થ (ભલું) અથવા પરમ તત્ત્વની પ્રાપ્તિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "શબ્દાર્થ આપો: 'પ્રહર' (પહોર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પ્રહર એટલે ત્રણ કલાકનો સમય. (આઠ પહોર એટલે ૨૪ કલાક).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 પહોર = 3 કલાક. 8 પહોર = આખો દિવસ-રાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિરોધી શબ્દ આપો: 'શત્રુ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શત્રુ X મિત્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્યમાં 'શત્રુ' માટે 'મિત્ર' શબ્દ જ વપરાયો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સાચા સમાનાર્થી શબ્દો જણાવો: 'નિર્મળ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિર્મળ = પવિત્ર, શુદ્ધ, મેલ વગરનું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ની (નથી) + મળ (કચરો/પાપ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ગંગાસતી કયા જિલ્લાના વતની હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગંગાસતી ભાવનગર જિલ્લાના પાલિતાણા તાલુકાના રાજપરા ગામના વતની હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાવનગરનું ગૌરવ એટલે ગંગાસતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ગંગાસતીએ શીલવંત સાધુને વારે વારે નમવાનું કેમ કહ્યું છે? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગંગાસતી કહે છે કે શીલવંત સાધુ આદર્શ ચારિત્ર્ય ધરાવે છે. તેમના વર્તનમાં ક્યારેય બદલાવ આવતો નથી. તેમની ચિત્તની વૃત્તિ હંમેશા નિર્મળ હોય છે અને તેમના પર પરમાત્માની કૃપા સતત વરસે છે. આવા સાધુના સંગાથથી મોક્ષ મળી શકે છે, તેથી તેમને વારે વારે નમવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (નિર્મળ ચિત્ત + શુદ્ધ ચારિત્ર્ય + હરિની કૃપા) = નમવા યોગ્ય સાધુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "શીલવંત સાધુના મન અને વાણી વિશે ગંગાસતી શું જણાવે છે? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગંગાસતી મુજબ શીલવંત સાધુના મન, વચન અને વાણીમાં એકરૂપતા હોય છે. તેઓ જેવું બોલે છે તેવું જ પાળે છે. તેમની વાણીમાં સચ્ચાઈ અને વિશ્વાસ હોય છે. તેઓ જગતમાં કોઈની પ્રત્યે ભેદભાવ રાખતા નથી અને પરમાત્માના ધ્યાનમાં મગ્ન રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે બોલે તે જ કરે (No double standard).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "શીલવંત સાધુ કયા 'આઠ પહોર' આનંદમાં રહે છે? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શીલવંત સાધુની ચિત્તની વૃત્તિ પરમાત્મામાં લીન હોય છે. તેમને બ્રહ્માવસ્થા (તુરિયાનો તાર) પ્રાપ્ત થયેલી હોય છે. સંસારના મોહ-માયાથી તેઓ મુક્ત હોય છે, તેથી તેઓ ૨૪ કલાક (આઠે પહોર) ઈશ્વરીય આનંદ અને મસ્તીમાં રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈશ્વરનું ધ્યાન = પરમાનંદ (24x7 Happiness).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ગંગાસતીએ ભક્તિના માર્ગે ચાલવા માટે કોને માર્ગદર્શન આપ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગંગાસતીએ પોતાની શિષ્યા પાનબાઈને ભક્તિના માર્ગે ચાલવા માટે માર્ગદર્શન આપ્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાનબાઈએ ગંગાસતી પાસે 52 દિવસ સુધી દીક્ષા લીધી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'જેનું ચારિત્ર્ય શુદ્ધ છે તેવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શીલવંત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શીલ (ચારિત્ર્ય) + વંત (વાળું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "કવિએ સાધુના 'નામ અને રૂપ' વિશે શું કહ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શીલવંત સાધુએ પોતાના નામ અને રૂપને મિથ્યા (ખોટા) કરી નાખ્યા હોય છે એટલે કે તેઓ અહંકાર મુક્ત હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ-રૂપ મિથ્યા = અહંકાર શૂન્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "નીચેના શબ્દની સાચી જોડણી લખો: 'શીલવંત'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શીલવંત (શ મીંડાવાળો 'શ' અને 'શી' દીર્ઘ આવશે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શીલ હંમેશા મોટું (દીર્ઘ) હોવું જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ગંગાસતીની ભજનવાણી કયા નામે જાણીતી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગંગાસતીની ભજનવાણી 'ગંગાસતીની ભજનગંગા' તરીકે જાણીતી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંગા + ભજન = ભજનગંગા.</p></div>"
+    }
+  ]
+}
