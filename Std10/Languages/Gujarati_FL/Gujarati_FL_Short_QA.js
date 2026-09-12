@@ -455,3 +455,136 @@ var Std10_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"5": {
+  "chapterNumber": 5,
+  "chapterTitle": "શ્વેત ક્રાંતિના પ્રણેતાઓ",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'શ્વેત ક્રાંતિના પ્રણેતાઓ' પાઠનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'શ્વેત ક્રાંતિના પ્રણેતાઓ' પાઠનો સાહિત્ય પ્રકાર <strong>રેખાચિત્ર (સંકલિત)</strong> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શ્વેત' એટલે સફેદ દૂધની વાત છે, અને બે મહાન વ્યક્તિઓના જીવનનું 'રેખાચિત્ર' અહીં દોરવામાં આવ્યું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'શ્વેત ક્રાંતિના પ્રણેતાઓ' પાઠમાં કઈ બે મહાન વિભૂતિઓનો પરિચય કરાવવામાં આવ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠમાં ૧. ત્રિભુવનદાસ પટેલ અને ૨. ડૉ. વર્ગીસ કુરિયનનો પરિચય કરાવવામાં આવ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ત્રિભુવન' એટલે પાયો નાખનાર અને 'વર્ગીસ' એટલે એને વિશ્વસ્તરે વિસ્તારનાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ખેડા દૂધ ઉત્પાદક સહકારી મંડળીની સ્થાપના કોણે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ખેડા દૂધ ઉત્પાદક સહકારી મંડળીની સ્થાપના <strong>ત્રિભુવનદાસ પટેલે</strong> કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેડાના ખેડૂતોના 'ત્રિભુવન' (તારણહાર) એટલે ત્રિભુવનદાસ કાકા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ડૉ. વર્ગીસ કુરિયનનો જન્મ ક્યાં અને ક્યારે થયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ડૉ. વર્ગીસ કુરિયનનો જન્મ <strong>૨૬ ઓક્ટોબર, ૧૯૨૧</strong> ના રોજ કેરળના <strong>કેલિકટ</strong> ગામે થયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૨૬-૧૦-૨૧ (કેરળથી કલકત્તા ભણવા ગયા પણ સ્થાયી આણંદમાં થયા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ત્રિભુવનદાસ પટેલને કયા હુલામણા નામથી ઓળખવામાં આવતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ત્રિભુવનદાસ પટેલને લોકો પ્રેમથી <strong>'ત્રિભુવનકાકા'</strong> તરીકે ઓળખતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સહકારી પ્રવૃત્તિના કાકા = ત્રિભુવનકાકા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ડૉ. કુરિયનને કઈ વિશ્વવિખ્યાત સંસ્થાના સ્થાપક અધ્યક્ષ બનાવવામાં આવ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ડૉ. કુરિયનને <strong>NDDB</strong> (નેશનલ ડેરી ડેવલપમેન્ટ બોર્ડ) ના સ્થાપક અધ્યક્ષ બનાવવામાં આવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દૂધ (Dairy) ના વિકાસ માટે NDDB (National Dairy Development Board).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ત્રિભુવનદાસ પટેલને કયા સુવર્ણચંદ્રકથી નવાજવામાં આવ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ત્રિભુવનદાસ પટેલને <strong>'રેમન મેગ્સેસે'</strong> એવોર્ડથી નવાજવામાં આવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેવાના કામમાં જે હંમેશા 'મગ્ન' (Magsaysay) રહે તે ત્રિભુવનકાકા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "'અમૂલ' ડેરીનું આખું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અમૂલ (AMUL) એટલે <strong>Anand Milk Union Limited</strong>.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A-Anand, M-Milk, U-Union, L-Limited (આણંદનું અમૃત દૂધ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ડૉ. કુરિયને કઈ ફિલ્મનું નિર્માણ સહકારી મંડળીના સભ્યોના ફાળાથી કર્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ડૉ. કુરિયને <strong>'મંથન'</strong> ફિલ્મનું નિર્માણ દૂધ ઉત્પાદકોના ફાળાથી કર્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દૂધ વલોવાય ત્યારે 'મંથન' થાય, માટે ફિલ્મનું નામ પણ 'મંથન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ત્રિભુવનદાસ પટેલે કયા સત્યાગ્રહમાં ભાગ લીધો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ત્રિભુવનદાસ પટેલે <strong>દાંડી સત્યાગ્રહ</strong> અને <strong>૧૯૪૨ ના 'હિંદ છોડો' આંદોલનમાં</strong> ભાગ લીધો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આઝાદીના લડવૈયા + ખેડૂતોના બેલી = ત્રિભુવનકાકા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ખાલી જગ્યા પૂરો: ડૉ. કુરિયનના મતે ભારતમાં _________ સૌથી મોટું સંસાધન છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> માનવબળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મશીન કરતાં 'માણસ' (માનવબળ) શક્તિશાળી છે, એવું કુરિયન માનતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ડૉ. કુરિયનને ભારત સરકાર દ્વારા કયા ઉચ્ચ નાગરિક સન્માન આપવામાં આવ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પદ્મશ્રી, પદ્મભૂષણ અને પદ્મવિભૂષણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્રી -> ભૂષણ -> વિભૂષણ (ચડતા ક્રમમાં ત્રણેય 'પદ્મ' એવોર્ડ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ત્રિભુવનદાસ પટેલે નિવૃત્તિ સમયે મળેલી ૬.૮૦ લાખની થેલીનું શું કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તેમણે એ રકમ ખેતીના વિકાસ અને <strong>'ત્રિભુવન ફાઉન્ડેશન'</strong> સ્થાપવા માટે દાનમાં આપી દીધી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનું દિલ દરિયો હોય એ જ નિવૃત્તિની ભેટ પાછી આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ડૉ. કુરિયનને 'શ્વેત ક્રાંતિના પ્રણેતા' શા માટે કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તેમણે <strong>'ઓપરેશન ફ્લડ'</strong> દ્વારા ભારતને વિશ્વમાં સૌથી વધુ દૂધ ઉત્પાદન કરતો દેશ બનાવ્યો હોવાથી તેમને શ્વેત ક્રાંતિના પ્રણેતા કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્વેત = સફેદ (દૂધ), પ્રણેતા = રસ્તો બતાવનાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ડૉ. કુરિયન આણંદમાં કયા સરકારી પ્રોજેક્ટ હેઠળ આવ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ડૉ. કુરિયન આણંદમાં <strong>સરકારી ડેરી (Government Creamery)</strong> માં એન્જિનિયર તરીકે કામ કરવા આવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભણ્યા એન્જિનિયરિંગ પણ લોકસેવા માટે ડેરી ક્ષેત્ર પસંદ કર્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ડૉ. કુરિયને કઈ ડેરીમાં ડેરી એન્જિનિયરિંગમાં અનુસ્નાતક પદવી મેળવી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અમેરિકાની <strong>મિશિગન સ્ટેટ યુનિવર્સિટી</strong> માંથી તેમણે અનુસ્નાતક (Master's) પદવી મેળવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મિશિગન' જઈને મશીન (એન્જિનિયરિંગ) શીખી આવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ખેડૂતોના શોષણ અટકાવવા સરદાર પટેલે ત્રિભુવનદાસને કઈ સલાહ આપી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સરદાર પટેલે સલાહ આપી કે શોષણથી બચવા માટે ખેડૂતોએ પોતે જ <strong>સહકારી મંડળી</strong> સ્થાપવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરદારની સીધી વાત - 'સંગઠનમાં શક્તિ છે'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ડૉ. કુરિયનને કયો એવોર્ડ વિશ્વભરમાં કૃષિ ક્ષેત્રમાં નોબેલ પ્રાઈઝ સમાન માનવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <strong>વર્લ્ડ ફૂડ પ્રાઈઝ</strong> (World Food Prize) ને કૃષિ ક્ષેત્રના નોબેલ સમાન ગણવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દૂધ એ ખોરાક (Food) છે, માટે એવોર્ડ પણ 'World Food Prize'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ડૉ. કુરિયનની આત્મકથાનું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ડૉ. કુરિયનની આત્મકથાનું નામ <strong>'મારું સ્વપ્ન' (I Too Had a Dream)</strong> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરેક ક્રાંતિ એક 'સ્વપ્ન' થી શરૂ થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ડૉ. કુરિયનનું અવસાન ક્યારે થયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ડૉ. કુરિયનનું અવસાન <strong>૯ સપ્ટેમ્બર, ૨૦૧૨</strong> ના રોજ ૯૧ વર્ષની વયે નડિયાદમાં થયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૯-૯-૧૨ (૯૧ વર્ષનું સાર્થક જીવન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ત્રિભુવનદાસ પટેલની વ્યક્તિત્વ વિશેષતા જણાવો. (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ત્રિભુવનદાસ પટેલ વિનમ્ર, પ્રામાણિક અને સેવાભાવી વ્યક્તિત્વ ધરાવતા હતા. તેમણે ખેડૂતોના ઉત્થાન માટે આજીવન કાર્ય કર્યું. સત્તા કે હોદ્દાનો જરા પણ મોહ રાખ્યા વગર તેમણે અમૂલ ડેરી જેવું મોટું સંગઠન ઊભું કર્યું. નિવૃત્તિ સમયે મળેલી ભેટની રકમ પણ તેમણે સમાજ સેવા માટે અર્પણ કરી દીધી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સાદાઈ + સેવા + સમર્પણ' = ત્રિભુવનકાકા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "અમૂલ ડેરીની સ્થાપના પાછળનો મુખ્ય હેતુ શો હતો? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અમૂલ ડેરીની સ્થાપના પાછળનો મુખ્ય હેતુ ખેડૂતોને વચેટિયાઓ અને વેપારીઓના શોષણમાંથી મુક્ત કરવાનો હતો. ખેડૂતોને દૂધના યોગ્ય ભાવ મળે અને દૂધનું વેચાણ સીધું જ ગ્રાહકો સુધી પહોંચે તે માટે સહકારી પદ્ધતિ અપનાવવામાં આવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વચેટિયાઓને હટાવો, ખેડૂતોને બચાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ડૉ. કુરિયનના કાર્યથી ભારતને કયો ગૌરવશાળી દરજ્જો પ્રાપ્ત થયો? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ડૉ. કુરિયનના ભગીરથ પ્રયાસો અને 'ઓપરેશન ફ્લડ' કાર્યક્રમને કારણે ભારત દૂધની અછત ધરાવતા દેશમાંથી વિશ્વમાં સૌથી વધુ દૂધ ઉત્પાદન કરતો દેશ બન્યો. આ શ્વેત ક્રાંતિએ ભારતના ડેરી ઉદ્યોગને વૈશ્વિક સ્તરે માન-સન્માન અપાવ્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારત + દૂધ = વિશ્વમાં નંબર 1 (ડૉ. કુરિયનના પ્રતાપે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "નીચેના શબ્દોની સાચી જોડણી લખો: ૧. વિભૂતિ ૨. એન્જિનિયર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ૧. વિભૂતિ (વિ - હ્રસ્વ, ભૂ - દીર્ઘ) ૨. એન્જિનિયર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિભૂતિમાં 'ભૂ' પર ભાર મૂકાય છે એટલે એ દીર્ઘ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિરોધી શબ્દ આપો: ૧. શ્વેત ૨. સ્વાર્થ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ૧. શ્વેત ✖ શ્યામ (અથવા કૃષ્ણ) ૨. સ્વાર્થ ✖ પરમાર્થ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્વેત એટલે સફેદ, શ્યામ એટલે કાળું. સ્વાર્થ એટલે પોતાનું, પરમાર્થ એટલે બીજાનું.</p></div>"
+    }
+  ]
+}
