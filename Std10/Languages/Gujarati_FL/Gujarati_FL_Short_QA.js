@@ -588,3 +588,136 @@ var Std10_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"6": {
+  "chapterNumber": 6,
+  "chapterTitle": "વાયરલ ઇન્ફેક્શન",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'વાયરલ ઇન્ફેક્શન' પાઠના લેખકનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'વાયરલ ઇન્ફેક્શન' પાઠના લેખકનું નામ ગુણવંત શાહ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણવંત શાહના 'ગુણ' ગાવાથી સ્વાસ્થ્ય સારું રહે - એમ યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'વાયરલ ઇન્ફેક્શન' પાઠનો સાહિત્ય પ્રકાર કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠનો સાહિત્ય પ્રકાર 'નિબંધ' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રોગ વિશે લાંબી ચર્ચાઓ 'નિબંધ' જેવી હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "'વાયરલ ઇન્ફેક્શન' લેખ કયા સંગ્રહમાંથી લેવામાં આવ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'મરો ત્યાં સુધી જીવો' નિબંધ સંગ્રહમાંથી લેવામાં આવ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મરો (મૃત્યુ) અને જીવો (જીવન) વચ્ચે 'વાયરસ' ન આવવો જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "લેખક ગુણવંત શાહનું પૂરું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગુણવંત ભૂષણલાલ શાહ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જી.બી. શાહ (G.B. Shah) - ગુણવંત ભૂષણલાલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ખાલી જગ્યા પૂરો: ભારતમાં ગંદકીથી ભારે ખલેલ પામનાર મહાનુભાવ ________ હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિવેકાનંદ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વિવેક' હોય ત્યાં ગંદકી ન શોભે - વિવેકાનંદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગંદકી અને ગરીબાઈ વચ્ચે કયો સંબંધ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગંદકી અને ગરીબાઈ વચ્ચે વહેમનો અને બહેનપણાનો સંબંધ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંદકી + ગરીબાઈ = બહેનપણીઓ (સાથે જ રહે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "લેખક પ્રમાણે 'વાયરલ ઇન્ફેક્શન' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'વાયરલ ઇન્ફેક્શન' એટલે મોકલનારના સરનામા વગરનું 'પારસલ'.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયરસ ક્યાંથી આવ્યો ખબર નથી હોતી, જેમ કે 'અજાણ્યું પારસલ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ગાંધીજી માંદગીને શું ગણતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગાંધીજી માંદગીને લગભગ એક 'અપરાધ' ગણતા અને પોતાના શરીરની માંદગીને તો 'આધ્યાત્મિક ભૂલ' ગણતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માંદગી = ક્રાઈમ (અપરાધ) + ભૂલ (આધ્યાત્મિક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "હોસ્પિટલની શોભા ક્યારે વધે તેમ લેખક માને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જ્યારે હોસ્પિટલના ખાટલાઓ ખાલી પડી રહે ત્યારે હોસ્પિટલની સાચી શોભા ગણાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાલી ખાટલા = સ્વસ્થ પ્રજા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ભારતની પ્રજામાં કઈ ટેવ નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભારતની પ્રજામાં ગંદકી પ્રત્યે જે સુગ (ચીડ) હોવી જોઈએ તે જોવા મળતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપણે ગંદકીમાં પણ 'એડજસ્ટ' થઈ જઈએ છીએ (જે ખોટું છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "લેખક કયા દેશના ઉદાહરણ દ્વારા ગંદકીની સરખામણી કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક અમેરિકા અને ચીન (ખાસ કરીને ચીનમાં બીમાર પડવું એ સજાપાત્ર ગુનો ગણાતો) ના સંદર્ભ આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિદેશમાં સ્વચ્છતા 'ફરજ' છે, અહીં 'ઓપ્શનલ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "લેખક અનુસાર ડૉક્ટર પાસે ક્યારે જવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક કહે છે કે ખરેખર તો શરીર સંપૂર્ણપણે સ્વસ્થ હોય ત્યારે જ રૂટિન ચેકઅપ માટે ડૉક્ટર પાસે જવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સર્વિસિંગ હંમેશા ગાડી ચાલુ હોય ત્યારે થાય, બંધ પડે ત્યારે નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "હાર્ટ એટેક શેનું પરિણામ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હાર્ટ એટેક એ બેઠાડુ જીવન અને આહાર-વિહારમાં રાખવામાં આવેલી બેદરકારીનું પરિણામ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેઠા રહેશો તો 'હાર્ટ' પણ બેસી જશે (એટેક આવશે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પાણી જેવું જીવન ગાળવા માટે લેખકે કયું સૂત્ર આપ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'પહેલું સુખ તે જાતે નર્યા'.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેલ્થ ઈઝ વેલ્થ = જાતે નર્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "લેખકના મતે પ્રેમનો ઉપચાર શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પ્રેમ એ કોઈ પણ રોગ માટેની સર્વોત્તમ દવા છે, તેનાથી માનસિક અને શારીરિક સ્વાસ્થ્ય સુધરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લવ થેરાપી' (Love Therapy) સૌથી સસ્તી અને શ્રેષ્ઠ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "માણસે પોતે જ પોતાનો શત્રુ કઈ રીતે બને છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> માણસ પોતાના શરીર સાથે નિર્દયતાથી વર્તે છે. તે ગમે તે સમયે, ગમે તેવું અને ગમે તેટલું ખાઈને શરીર પર અત્યાચાર કરે છે. વ્યસનોના રવાડે ચઢીને તે પોતાના જ શરીરને રોગોનું ઘર બનાવે છે. આમ, પોતાની કુટેવો દ્વારા માણસ પોતાનો જ શત્રુ બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુટેવો + બેદરકારી = સ્વ-શત્રુતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "લેખક વ્યસનો વિશે શું માને છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક માને છે કે બીડી, સિગારેટ કે તમાકુના વ્યસનથી હૃદય અને ફેફસાને ગંભીર નુકસાન થાય છે. વ્યસની માણસ પળવારના આનંદ માટે કાયમી માંદગી વહોરી લે છે. લેખક કટાક્ષમાં કહે છે કે જો વ્યસનો જ કરવા હોય તો 'સ્વસ્થ રહેવાનું' વ્યસન કેમ ન રાખવું?</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યસન = વિનાશનું સ્ટેશન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ભારતમાં માંદગીને મજાક કેમ ગણવામાં આવે છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભારતમાં કોઈ બીમાર પડે ત્યારે તેને મળવા જનારાઓની સંખ્યા એટલી મોટી હોય છે કે દર્દીને આરામ મળવાને બદલે વધારે તકલીફ થાય છે. લોકો હોસ્પિટલમાં પણ ગપ્પાં મારવા અને ચા-પાણી પીવા ભેગા થાય છે, જાણે માંદગી કોઈ ઉત્સવ હોય! આથી લેખક આ સ્થિતિ પર કટાક્ષ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દર્દી + મુલાકાતીઓનું ટોળું = માંદગીની મજાક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "માનસિક શાંતિ અને શરીરના સ્વાસ્થ્ય વચ્ચે શું સંબંધ છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જેનું મન ભાંગી પડે તેનું શરીર પણ ભાંગી પડે છે. ચિંતા, ઈર્ષ્યા અને ક્રોધ મન પર અસર કરે છે, જેની સીધી અસર પાચનતંત્ર અને હૃદય પર થાય છે. જો મન પ્રસન્ન હોય તો શરીરના રોગો સામે લડવાની શક્તિ (Immunity) વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેપ્પી માઈન્ડ = હેલ્ધી બોડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ખાલી જગ્યા પૂરો: માંદો માણસ ખરેખર તો પોતાના ________ નો દ્રોહ કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આત્મા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરીર આત્માનું મંદિર છે, ગંદકી એ મંદિરનો દ્રોહ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "લેખક કયા રોગને 'શહેરની ભેટ' ગણાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બેઠાડુ જીવનશૈલીને કારણે થતા હૃદયરોગ (Heart Attack) ને લેખક શહેરની ભેટ ગણાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીટી લાઈફ = બેઠાડુ લાઈફ = હાર્ટ એટેક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સાચી જોડણી લખો: 'નિરોગી' અને 'ઇન્ફેક્શન'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિરોગી (નીરોગી - સાચું), ઇન્ફેક્શન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ની' હંમેશા દીર્ઘ આવે જ્યારે રોગ ન હોય ત્યારે (નીરોગી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિરોધી શબ્દ આપો: 'સભ્ય' અને 'નિરોગી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સભ્ય ✖ અસભ્ય, નિરોગી ✖ રોગી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ' અને 'નિ' પ્રત્યયથી વિરોધી બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: 'ખાવા-પીવાની બાબતમાં સંયમ ન રાખનાર'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અસંયમી અથવા ખાઉધરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંયમ નથી તે 'અ-સંયમી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "'વાયરલ ઇન્ફેક્શન' પાઠમાંથી શું બોધ મળે છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠમાંથી બોધ મળે છે કે આપણે આપણા સ્વાસ્થ્ય પ્રત્યે જાગૃત રહેવું જોઈએ. ગંદકીથી દૂર રહેવું, આહારમાં સંયમ રાખવો અને વ્યસનોથી મુક્ત રહેવું જોઈએ. માંદગી એ માત્ર શારીરિક વ્યાધિ નથી, પણ ઘણીવાર આપણી કુટેવોનું પરિણામ છે. સ્વસ્થ શરીર માટે સ્વસ્થ મન અનિવાર્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાવચેતી એ જ શ્રેષ્ઠ સારવાર (Prevention is better than cure).</p></div>"
+    }
+  ]
+}
