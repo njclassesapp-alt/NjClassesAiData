@@ -744,3 +744,118 @@ var Std10_SS_1Marks = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "વન અને વન્યજીવ સંસાધન",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 1,
+      "question": "વહીવટી દ્રષ્ટિએ જંગલોના પ્રકારો જણાવો. (March 2022)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>વહીવટી દ્રષ્ટિએ જંગલોના મુખ્ય ત્રણ પ્રકારો છે: <br>1. અનામત જંગલ (Reserved Forest) <br>2. સંરક્ષિત જંગલ (Protected Forest) <br>3. અવર્ગીકૃત જંગલ (Unclassified Forest)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ-સ-અ' યાદ રાખવું (અનામત, સંરક્ષિત, અવર્ગીકૃત).</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board March 2022</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 1,
+      "question": "ગુજરાતનું કયું સરોવર શિયાળામાં આવતા યાયાવર પક્ષીઓ માટે જાણીતું છે? (March 2020)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ગુજરાતનું 'નળસરોવર' શિયાળામાં આવતા યાયાવર (પરદેશી) પક્ષીઓ માટે જાણીતું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નળસરોવર એ ગુજરાતનું સૌથી મોટું કુદરતી સરોવર અને પક્ષીઓનું સ્વર્ગ છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board March 2020</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 1,
+      "question": "નિર્વનીકરણ (Deforestation) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>નિર્વનીકરણ એટલે જંગલોનું નષ્ટ થવું તે. અત્યંત ઊંચા દરે થતા વન વિનાશને નિર્વનીકરણ કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિર્ + વન' = વન વગરનું કરવું.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 1,
+      "question": "કઈ સંસ્થા લાલ સૂચિ (Red Data Book) તૈયાર કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>IUCN (International Union for Conservation of Nature) નામની સંસ્થા લાલ સૂચિ (Red Data Book) તૈયાર કરે છે, જેમાં ભય હેઠળની પ્રજાતિઓની યાદી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેડ (લાલ) એટલે ખતરો, IUCN ખતરામાં રહેલા વન્યજીવોની યાદી બનાવે છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB textbook Page 68</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 1,
+      "question": "ભારતમાં વાઘ પરિયોજના (Project Tiger) ક્યારે અમલમાં મૂકવામાં આવી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ભારતમાં વાઘની સંખ્યા બચાવવા માટે વર્ષ 1973 માં 'વાઘ પરિયોજના' (Project Tiger) અમલમાં મૂકવામાં આવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1973 માં 9 રિઝર્વ સાથે શરૂઆત થઈ હતી.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Most IMP for 2025</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 1,
+      "question": "કાઝીરંગા રાષ્ટ્રીય ઉદ્યાન કયા રાજ્યમાં આવેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કાઝીરંગા રાષ્ટ્રીય ઉદ્યાન 'અસમ' (Assam) રાજ્યમાં આવેલું છે, જે એકશિંગી ભારતીય ગેંડા માટે જાણીતું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અસમ = ગેંડા = કાઝીરંગા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Map Based Objective</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 1,
+      "question": "હાથી પરિયોજના (Project Elephant) નો પ્રારંભ ક્યારે થયો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>હાથીઓને તેમના કુદરતી રહેઠાણોમાં રક્ષણ આપવા માટે વર્ષ 1992 માં 'હાથી પરિયોજના' શરૂ કરવામાં આવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાઘ (73) ના 19 વર્ષ પછી હાથી (92) આવ્યા.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 1,
+      "question": "ભારતનું પ્રથમ રાષ્ટ્રીય ઉદ્યાન કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ઉત્તરાખંડમાં આવેલું 'જિમ કોર્બેટ' રાષ્ટ્રીય ઉદ્યાન ભારતનું સૌથી જૂનું અને પ્રથમ રાષ્ટ્રીય ઉદ્યાન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પ્રથમ હોય તે હંમેશા 'Main (જિમ)' હોય.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> General Knowledge for SS</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 1,
+      "question": "ભારતમાં કુલ કેટલા જૈવ આરક્ષિત ક્ષેત્રો આવેલા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ભારતમાં કુલ 18 જૈવ આરક્ષિત ક્ષેત્રો (Biosphere Reserves) આવેલા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંકડો યાદ રાખો: ભારત-18, ગુજરાત-1.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT New Syllabus</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 1,
+      "question": "ગુજરાતમાં કયા જિલ્લામાં જૈવ આરક્ષિત ક્ષેત્ર આવેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ગુજરાતના 'કચ્છ' જિલ્લાના રણને 2008 માં જૈવ આરક્ષિત ક્ષેત્ર જાહેર કરવામાં આવ્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કચ્છનું નાનું રણ અને તેની વિશિષ્ટ પરિસ્થિતિને કારણે તે જૈવ આરક્ષિત છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB textbook</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 1,
+      "question": "ગીધ પરિયોજના (Vulture Project) ક્યારથી અમલમાં છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>કુદરતના સફાઈ કામદાર ગણાતા ગીધની સંખ્યા વધારવા માટે વર્ષ 2004 થી ગીધ પરિયોજના અમલમાં છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગીધની કુલ 9 પ્રજાતિઓ ભારતમાં જોવા મળે છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 1,
+      "question": "દચીગામ રાષ્ટ્રીય ઉદ્યાન કયા પ્રાણી માટે જાણીતું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જમ્મુ-કાશ્મીરમાં આવેલું દચીગામ રાષ્ટ્રીય ઉદ્યાન 'હંગુલ' (કાશ્મીરી હરણ) માટે જાણીતું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દચીગામ = કાશ્મીર = હંગુલ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB textbook Page 71</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "marks": 1,
+      "question": "ઘોરાડ (Great Indian Bustard) પક્ષી કયા વિસ્તારોમાં જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>ઘોરાડ પક્ષી ઘાસભૂમિના વિસ્તારોમાં જોવા મળે છે, ખાસ કરીને રાજસ્થાન અને ગુજરાતના અર્ધશુષ્ક વિસ્તારોમાં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘોરાડ એ અત્યંત વજનદાર અને લુપ્ત થવાને આરે આવેલું પક્ષી છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Environmental Science IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "marks": 1,
+      "question": "સામુદાયિક વન (Community Forest) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>જે જંગલો પર સ્થાનિક સ્વરાજ્યની સંસ્થાઓ (ગ્રામ પંચાયત, નગરપાલિકા, વગેરે) નું નિયંત્રણ હોય તેને સામુદાયિક વન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સામુદાયિક એટલે પંચાયત કે પાલિકાના તાબા હેઠળના જંગલો.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Definition</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "marks": 1,
+      "question": "કયું વન્યજીવ સમગ્ર એશિયામાં માત્ર ગુજરાતના ગીરના જંગલોમાં જ જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>'એશિયાઈ સિંહ' (Asiatic Lion) સમગ્ર એશિયામાં માત્ર ગીરના જંગલોમાં જ જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગીર = સિંહનું એકમાત્ર નિવાસસ્થાન.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> Pride of Gujarat</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "marks": 1,
+      "question": "લાલ પાન્ડા ભારતમાં કયા વિસ્તારોમાં જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>લાલ પાન્ડા ભારતમાં પૂર્વ હિમાલયના શીત વનોમાં (ખાસ કરીને સિક્કિમ, અરુણાચલ પ્રદેશ) જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તે મુખ્યત્વે વાંસના ફણગા અને ઈંડા ખાય છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB textbook Page 70</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "marks": 1,
+      "question": "હિમ દીપડા પરિયોજના ક્યારે શરૂ કરવામાં આવી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>હિમાલયમાં આશરે 3000 મીટરની ઊંચાઈએ જોવા મળતા હિમ દીપડાના સંરક્ષણ માટે વર્ષ 2000 માં આ પરિયોજના શરૂ કરાઈ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '2000' ની સાલમાં હિમ દીપડા પ્રોજેક્ટ.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "marks": 1,
+      "question": "મગરમચ્છ પરિયોજના કયા પ્રકારના મગરો માટે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>મગરમચ્છ પરિયોજના (1975) મીઠા પાણીમાં જોવા મળતી મગરોની 'ઘડિયાલ' પ્રજાતિ માટે શરૂ કરવામાં આવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘડિયાલ મગર એટલે લાંબી ચાંચ જેવું મોઢું ધરાવતા મગર.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Class 10</p></div>"
+    }
+  ]
+}
