@@ -987,3 +987,136 @@ var Std10_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"9": {
+  "chapterNumber": 9,
+  "chapterTitle": "હાથ મેળવીએ",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'હાથ મેળવીએ' કૃતિના કર્તા (કવિ) નું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'હાથ મેળવીએ' કાવ્યના કવિનું નામ <strong>નિરંજન ભગત</strong> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિરંજન' (અંજન વગરના) ભગવંત સામે 'હાથ મેળવી' પ્રાર્થના કરે છે. આમ, 'નિરંજન ભગત' - 'હાથ મેળવીએ' યાદ રહેશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'હાથ મેળવીએ' કાવ્યનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યનો સાહિત્ય પ્રકાર <strong>ઊર્મિકાવ્ય</strong> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈનો હાથ મેળવીએ ત્યારે હૃદયમાં મૈત્રીની 'ઊર્મિ' (લાગણી) જાગે, એટલે 'ઊર્મિકાવ્ય'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "'હાથ મેળવીએ' કાવ્ય કયા કાવ્યસંગ્રહમાંથી લેવામાં આવ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્ય નિરંજન ભગતના પ્રસિદ્ધ કાવ્યસંગ્રહ <strong>'છંદોલય'</strong> માંથી લેવામાં આવ્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથ મિલાવવાથી જીવનમાં એક લય (છંદ) આવે છે, તેથી 'છંદોલય'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કવિ હાથ લંબાવીને શું મેળવવા ઈચ્છે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ હાથ લંબાવીને સામેની વ્યક્તિનો <strong>મૈત્રીભાવ અને હૃદયની ઉષ્મા (હૂંફ)</strong> મેળવવા ઈચ્છે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિને પૈસા નહીં પણ 'પ્રેમ' (ઉષ્મા) જોઈએ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કવિ હાથ વિશે કઈ સ્પષ્ટતા કરે છે? (ખાલી હાથ બાબતે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ કહે છે કે મારો હાથ ભલે ખાલી દેખાતો હોય, પણ એમાં <strong>ધન, સંપત્તિ કે સત્તા નથી</strong>, એમાં તો હૃદયનો સાચો ભાવ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ખાલી હાથ' એટલે સંપત્તિ વગરના, પણ લાગણીથી ભરેલા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કવિ સામેની વ્યક્તિને કઈ રીતે બોલાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ સામેની વ્યક્તિને <strong>'અજાણ્યા'</strong> કહીને સંબોધે છે અને મૈત્રીનો હાથ લંબાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અજાણ્યાને મિત્ર બનાવવાની કલા એટલે 'હાથ મેળવીએ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "હાથમાં શું શું છુપાયેલું હોઈ શકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિના મતે હાથમાં <strong>પુણ્ય અને પાપ, કીર્તિ અને કામ</strong> બધું જ છુપાયેલું હોઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પાપ-પુણ્ય' અને 'કામ-કીર્તિ' ની જોડી યાદ રાખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કવિને સામેની વ્યક્તિ પાસેથી શું નથી જોઈતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિને સામેની વ્યક્તિ પાસેથી કોઈ <strong>ધન, સત્તા કે સંપત્તિ</strong> જોઈતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૈત્રીમાં 'Money' (નાણું) નહિ પણ 'Maitri' (હૂંફ) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "'ઉષ્મા' શબ્દનો સમાનાર્થી શબ્દ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઉષ્મા = <strong>ગરમાવો અથવા હૂંફ</strong>.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિત્રના હાથમાં જે ગરમાવો લાગે તેને 'હૂંફ' (ઉષ્મા) કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "'કીર્તિ' શબ્દનો વિરોધી શબ્દ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કીર્તિ 𝘅 <strong>અપકીર્તિ</strong>.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અપ' ઉપસર્ગ લગાવવાથી વિરોધી બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કવિ હાથ લંબાવીને કઈ બાબતની ખાતરી આપે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ ખાતરી આપે છે કે તેમના હાથમાં કોઈ <strong>છળકપટ કે સ્વાર્થ નથી</strong>, માત્ર નિખાલસ મૈત્રી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિખાલસ હાથ' = સ્વાર્થ વગરનો સાથ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ખાલી જગ્યા પૂરો: 'લવ, હૂં તારો હાથ, ______.'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લવ, હૂં તારો હાથ, <strong>અજાણ્યા</strong>.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્યની પ્રથમ પંક્તિમાં જ 'અજાણ્યા' શબ્દ આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કવિ કયા હાથને 'ખાલી' નથી કહેતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ જે હાથમાં <strong>હૃદયની ઉષ્મા (લાગણી)</strong> હોય તે હાથને ખાલી માનતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાગણીથી ભરેલો હાથ ક્યારેય ખાલી ન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "'હાથ મેળવીએ' કાવ્યમાં કયો ભાવ મુખ્ય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યમાં <strong>પરસ્પર મૈત્રી અને સૌહાર્દ (નિખાલસ પ્રેમ)</strong> નો ભાવ મુખ્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હાથ મેળવવો' એ મૈત્રીનું પ્રતીક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "'નિખાલસ' શબ્દની સાચી જોડણી લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <strong>નિખાલસ</strong> (ન ને હ્રસ્વ 'નિ').</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિ' હંમેશા હ્રસ્વ જ આવે જ્યારે તેનો અર્થ 'વગરનું' થાય (સ્વાર્થ વગરનું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "બે ગુણનો પ્રશ્ન: 'હાથ મેળવીએ' શીર્ષકની યથાર્થતા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'હાથ મેળવીએ' એટલે માત્ર સ્પર્શ કરવો એમ નહીં, પણ બે હૃદયનું મિલન. કવિ આ કાવ્ય દ્વારા માનવીય સંબંધોમાં રહેલી યાંત્રિકતા દૂર કરી ઉષ્માભરી મૈત્રી સ્થાપવા માંગે છે. હાથ દ્વારા હૃદયનો ભાવ વ્યક્ત થતો હોવાથી શીર્ષક અત્યંત યોગ્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથ = મૈત્રીનું પ્રવેશદ્વાર. આ પોઈન્ટ જરૂર લખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "બે ગુણનો પ્રશ્ન: કવિ અજાણ્યા માણસનો હાથ પકડવા કેમ આતુર છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ અજાણ્યા માણસમાં રહેલી માનવતા અને હૃદયની હૂંફને ઓળખવા માંગે છે. તેમને ધન કે સત્તામાં રસ નથી, પણ સામેની વ્યક્તિના હૃદયમાં રહેલી નિખાલસ મૈત્રીને પામવી છે. અજાણ્યાને પોતાના બનાવવાની કલા કવિને પ્રિય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અજાણ્યામાંથી 'પોતાના' બનાવવાની ઈચ્છા = કવિની આતુરતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "બે ગુણનો પ્રશ્ન: 'હાથમાં શું છે?' એમ કહી કવિ શું સૂચવવા માંગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ સૂચવે છે કે હાથ એ માત્ર અવયવ નથી, પણ માણસના કર્મોનું સરવૈયું છે. એમાં કરેલા પુણ્ય-પાપ અને મેળવેલી કીર્તિ છુપાયેલા હોય છે. પરંતુ કવિને એ કશામાં રસ નથી, તેમને તો બસ એ હાથમાં રહેલી હૃદયની સંવેદના જોઈએ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથ = કર્મનું સરનામું (પાપ-પુણ્ય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "બે ગુણનો પ્રશ્ન: 'ધન' અને 'સત્તા' કરતા કવિ મૈત્રીને શા માટે શ્રેષ્ઠ ગણે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધન અને સત્તા ક્ષણભંગુર છે અને તે માણસમાં અહંકાર લાવે છે, જ્યારે મૈત્રી એ હૃદયનો કાયમી ગરમાવો છે. સાચી મૈત્રીમાં કોઈ પણ સ્વાર્થ વગર વ્યક્તિ એકબીજા સાથે જોડાય છે, જે આત્મિક આનંદ આપે છે. આથી કવિ તેને શ્રેષ્ઠ ગણે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંપત્તિ બહાર છે, મૈત્રી અંદર (હૃદયમાં) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "બે ગુણનો પ્રશ્ન: કાવ્યના અંતે કવિ કઈ હકારાત્મકતા વ્યક્ત કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાવ્યના અંતે કવિ હકારાત્મકતા વ્યક્ત કરતા કહે છે કે, ભલે આપણે અજાણ્યા હોઈએ પણ ચાલો આપણે હાથ મેળવીએ. તે કહે છે કે પરસ્પરના સહકારથી અને હૃદયની ઉષ્માથી આ દુનિયા વધુ સુંદર બનાવી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૈત્રીથી દુનિયા સુંદર બને એ જ અંતિમ સંદેશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "'સત્તા' શબ્દનો પર્યાય શબ્દ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સત્તા = <strong>અધિકાર અથવા પ્રભુત્વ</strong>.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેના પર હક હોય તેને 'સત્તા' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "કવિના મતે કેવા હાથમાં 'કશુંક' લેવા જેવું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જે હાથમાં મૈત્રીનો ભાવ અને હૃદયની ઉષ્મા છુપાયેલી હોય, તેવા હાથમાં 'કશુંક' (લાગણી) લેવા જેવું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કશુંક' = કિંમતી લાગણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "'હાથ મેળવીએ' કાવ્યમાં કયા વિરોધાભાસી શબ્દો પ્રયોજાયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાવ્યમાં <strong>પાપ-પુણ્ય</strong> અને <strong>કીર્તિ-કામ</strong> જેવા વિરોધાભાસી શબ્દો પ્રયોજાયા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે વિરોધી પાસાં મળીને આખો મનુષ્ય બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "નિરંજન ભગત કયા યુગના કવિ ગણાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિરંજન ભગત <strong>આધુનિક યુગના (અનુ-ગાંધીયુગના)</strong> મહત્વના કવિ ગણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શહેર અને મનુષ્યના સંબંધોની વાત 'આધુનિક' કવિ જ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "નીચેની પંક્તિનો ભાવાર્થ સમજાવો: 'ખાલી તમારો હાથ? ના, ના, એમાં તો કેટલુંય...'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પંક્તિનો અર્થ છે કે માણસનો હાથ ઉપરથી ભલે ખાલી દેખાય, પણ એની અંદર તેના જીવનના સારા-નરસા કર્મો, તેના હૃદયની લાગણીઓ અને મૈત્રીની હૂંફ ભરેલી હોય છે. હાથ ક્યારેય ખાલી હોતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેખાવ ખાલી છે, પણ અંદર 'ભાવ' નો ખજાનો છે.</p></div>"
+    }
+  ]
+}
