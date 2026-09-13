@@ -1519,3 +1519,136 @@ var Std10_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"13": {
+  "chapterNumber": 13,
+  "chapterTitle": "વતનથી વિદાય થતા (સોનેટ)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'વતનથી વિદાય થતા' કાવ્યના કવિનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'વતનથી વિદાય થતા' કાવ્યના કવિનું નામ <strong>જયંત પાઠક</strong> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'વતન'માં જેનો 'જય' (જયંત) થાય એ જ સાચો કવિ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'વતનથી વિદાય થતા' કૃતિનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કૃતિનો સાહિત્ય પ્રકાર <strong>સોનેટ</strong> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૧૪ લીટીનું કાવ્ય એટલે 'સોનેટ' (૧૪ = ૧ + ૪ = ૫ અક્ષરનું 'સોનેટ' યાદ રાખવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કવિ જયંત પાઠકની કઈ કૃતિમાંથી આ સોનેટ લેવામાં આવ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ સોનેટ કવિના <strong>'અંતરીક્ષ'</strong> કાવ્યસંગ્રહમાંથી લેવામાં આવ્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વતનની યાદ 'અંતર' (અંતરીક્ષ) માં સચવાયેલી રહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કવિના પગ આગળ જવા માંડ-માંડ કેમ ઉપડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિને વતન પ્રત્યે ખૂબ જ લગાવ છે, વતનની માયા અને સ્મૃતિઓ તેમને રોકી રહી હોવાથી તેમના પગ આગળ વધવા તૈયાર નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મન પાછળ વતનમાં હોય ત્યારે પગ 'પથ્થર' જેવા ભારે થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ખાલી જગ્યા પૂરો: 'વતનથી વિદાય થતા' કાવ્યમાં કવિ ______ ને રસ્તે રોકી ઉભેલો જુએ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કૂતરા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગામની સીમમાં છેલ્લો મિત્ર 'કૂતરો' જ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "'વેકુર' શબ્દનો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'વેકુર' એટલે <strong>નદીની રેતી</strong>.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વેકુર = નદીની વેળુ (રેતી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કવિને વતનની હદ પૂરી થતા કોણ પાછું વળી જવા કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વતનની હદ પૂરી થતા ઘરનો પાળેલ કૂતરો કવિને પાછું વળી જવા કહે છે (ભસીને પોતાની હદ પૂરી થયાનો સંકેત આપે છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કુતરો = હદનો રક્ષક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કવિ કયા કારણે રસ્તાને ધૂંધળો જુએ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિની આંખોમાં વતનના વિરહના આંસુ ભરાયા છે, તેથી તેમને રસ્તો ધૂંધળો દેખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આંસુ = ધૂંધળી દ્રષ્ટિ (Emotional Blur).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કવિને નદીની રેતીમાં શું દેખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિને નદીની રેતીમાં (વેકુર) બાળપણમાં રમેલી આંગળીઓની છાપ હજી પણ રમતી હોય તેવું લાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વેકુર + આંગળીઓ = બાળપણની સ્મૃતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "'ભાણ' શબ્દનો પર્યાય શબ્દ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભાણ એટલે <strong>સૂર્ય</strong> અથવા રવિ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભાણુ (સૂર્ય) ઉગ્યો એટલે સવાર પડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "નીચેનામાંથી કઈ જોડી સાચી છે? (અ) જયંત પાઠક - ધ્વનિ (બ) જયંત પાઠક - અંતરીક્ષ (ક) જયંત પાઠક - વનસ્પતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (બ) જયંત પાઠક - અંતરીક્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'અંતરીક્ષ' એ જયંત પાઠકનો પ્રસિદ્ધ સંગ્રહ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કવિ કોની તુલના વેઠિયા સાથે કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ પોતાની જાતને વેઠિયા (મજૂર જેણે પરાણે કામ કરવું પડે) સાથે સરખાવે છે, કારણ કે તેમને ઈચ્છા ન હોવા છતાં વતન છોડવું પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પરાણે કામ કરનાર = વેઠિયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કવિ વતન છોડતી વખતે શું અનુભવે છે? (૧ વાક્યમાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ વતન છોડતી વખતે તીવ્ર વેદના અને વતનની માયા પ્રત્યેની મજબૂરી અનુભવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વતનથી વિદાય = અસહ્ય વેદના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "'ઈતરા' શબ્દનો અર્થ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'ઈતરા' એટલે <strong>બીજા અથવા અન્ય (પશુઓ)</strong>.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઈતર = Other (બીજું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કવિ આંખ લૂછીને શું જુએ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ આંખ લૂછીને પાછળ જોવાનો પ્રયત્ન કરે છે, પણ ત્યાં તેને માત્ર ધૂંધળો રસ્તો જ દેખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રુદન + વતન = ધૂંધળી સ્મૃતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કવિને ભ્રમ શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિને એવો ભ્રમ થાય છે કે તેની માતા દૂરથી હાથ ઊંચો કરીને તેને પાછી બોલાવી રહી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માની મમતા = કવિનો મીઠો ભ્રમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સોનેટ કાવ્યમાં કેટલી પંક્તિઓ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સોનેટમાં કુલ <strong>૧૪ (ચૌદ)</strong> પંક્તિઓ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સોનેટ = 14 Lines (ફિક્સ આંકડો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કવિના મનમાં કઈ કઈ યાદો તાજી થાય છે? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વતનથી વિદાય થતા કવિને બાળપણમાં નદીની રેતીમાં રમેલી રમતો, વતનના ખેતરો, કોતર, ડુંગરો અને સીમની યાદો તાજી થાય છે. નદીની વેકુર (રેતી) માં તેમની આંગળીઓ આજે પણ રમતી હોય એવો તેમને અહેસાસ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રકૃતિના તત્વો (ખેતર, ડુંગર, નદી) + બાળપણની રમત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કૂતરો કવિને શા માટે પાછો વળવા કહે છે? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કૂતરો ગામની સીમ સુધી કવિની સાથે આવે છે. જ્યારે ગામની હદ પૂરી થાય છે ત્યારે કૂતરો ઊભો રહી જાય છે અને ભસે છે. કવિને લાગે છે કે કૂતરો જાણે કહી રહ્યો છે કે 'આ મારી હદ છે, હવે તમે પાછા વળી જાઓ.' આ પશુનો પ્રેમ અને વતન સાથેનો સંબંધ દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પશુની પણ વફાદારી અને પોતાની 'હદ' હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કવિ પગને પથ્થર સાથે કેમ સરખાવે છે? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જેમ ભારે પથ્થરને ખસેડવો મુશ્કેલ છે, તેમ કવિના પગ વતન છોડવા માટે આગળ વધતા નથી. વતન પ્રત્યેનો તેમનો અતિશય પ્રેમ અને સ્મૃતિઓ તેમને જકડી રાખે છે, તેથી મન વતનમાં હોવાથી શરીર અને પગ નિર્જીવ પથ્થર જેવા ભારે લાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લાગણીનો ભાર = પથ્થર જેવા પગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "'વતનથી વિદાય થતા' સોનેટનો મધ્યવર્તી વિચાર જણાવો. (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ સોનેટનો મુખ્ય ભાવ વતન વિરહની વેદના છે. કવિને શહેર જવું પડે છે પણ તેમનું જીવ વતનના પ્રકૃતિ તત્વોમાં પરોવાયેલું છે. વતનની માયા અને પશુ-પક્ષીઓ સાથેનો પ્રેમ અહીં હૃદયસ્પર્શી રીતે વ્યક્ત થયો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વતન પ્રેમ + વિદાયની મજબૂરી = સોનેટનો સાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "કાવ્યની છેલ્લી બે પંક્તિઓનો ભાવાર્થ સમજાવો. (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> છેલ્લી પંક્તિઓમાં કવિને ભ્રમ થાય છે કે તેની માતા તેને દૂરથી બોલાવી રહી છે. આ માત્ર ભ્રમ નથી પણ કવિની વતન પ્રત્યેની અતૂટ મમતાનું પ્રતિબિંબ છે. તે દર્શાવે છે કે વતન ક્યારેય માણસના હૃદયમાંથી દૂર થતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાનો સાદ = વતનની અંતિમ અને અમર યાદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "કવિએ વતનની પ્રકૃતિના કયા કયા અંગોનો ઉલ્લેખ કર્યો છે? (૧ વાક્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિએ ખેતર, કોતર, ડુંગર, નદીની વેકુર અને સીમ જેવા પ્રકૃતિના અંગોનો ઉલ્લેખ કર્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગામડું = ખેતર + ડુંગર + નદી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "'મુકી આઘે' - અહીં 'આઘે' શબ્દનો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'આઘે' એટલે <strong>દૂર</strong> અથવા છેટે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આઘે = દૂરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "'વતનથી વિદાય થતા' કાવ્યમાં કઈ મુખ્ય લાગણી છે? (ક) ક્રોધ (ખ) કરુણતા/વેદના (ગ) આનંદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (ખ) કરુણતા/વેદના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિદાય = હંમેશા દુઃખ (વેદના).</p></div>"
+    }
+  ]
+}
