@@ -854,3 +854,136 @@ var Std10_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"8": {
+  "chapterNumber": 8,
+  "chapterTitle": "સૂરજ તો બધે જ સરખો",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'સૂરજ તો બધે જ સરખો' કૃતિના લેખકનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'સૂરજ તો બધે જ સરખો' પાઠના લેખક વિનોદ ભટ્ટ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સૂરજ' જોઈને 'વિનોદ' (આનંદ) થાય - વિનોદ ભટ્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'સૂરજ તો બધે જ સરખો' પાઠનો સાહિત્ય પ્રકાર કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠનો સાહિત્ય પ્રકાર 'હાસ્ય નિબંધ' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિનોદ ભટ્ટ એટલે ગુજરાતી સાહિત્યના હાસ્ય સમ્રાટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "આ હાસ્ય નિબંધ કયા પુસ્તકમાંથી લેવામાં આવ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ નિબંધ 'ઈદમ તૃતીયમ્' પુસ્તકમાંથી લેવામાં આવ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સૂરજ' ત્રીજી (તૃતીયમ્) આંખ જેવો ગરમ છે - ઈદમ તૃતીયમ્.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સર્વજ્ઞભાઈના મતે આબુમાં જોવા લાયક સ્થળ કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સર્વજ્ઞભાઈના મતે આબુમાં જોવા લાયક સ્થળ 'રબડી' ખાવાનું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આબુ = રબડી (ખાઉધરા મુસાફરની યાદી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "લેખકે કોના પર કટાક્ષ કર્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખકે પ્રવાસમાં જોવા લાયક સ્થળો છોડીને માત્ર ખાણી-પીણીમાં જ રસ ધરાવતા લોકો પર કટાક્ષ કર્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવાસ - કુદરત = માત્ર ખાવાનું (સર્વજ્ઞભાઈ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ખાલી જગ્યા પૂરો: સર્વજ્ઞભાઈના મતે મહાબળેશ્વર જવું હોય તો ..... ખાવા માટે જવું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ચણા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહાબળેશ્વરમાં 'બળ' (તાકાત) માટે 'ચણા' ખાવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સર્વજ્ઞભાઈ માઉન્ટ આબુમાં 'નખી લેક' બાબતે શું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સર્વજ્ઞભાઈ કહે છે કે નખી લેકમાં શું જોવાનું? ત્યાં રબડી જોરદાર મળે છે તે ખાવા જેવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેક (પાણી) કરતાં રબડી (દૂધ) વહાલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "તાજમહલ વિશે સર્વજ્ઞભાઈનો અભિપ્રાય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સર્વજ્ઞભાઈ કહે છે કે તાજમહલ જેવી જ હોટલ આગ્રામાં હોત અને ત્યાં દાળમુઠ મળતી હોત તો તાજમહલ જોવાની મજા આવત.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાજમહલ + દાળમુઠ = સર્વજ્ઞભાઈનો આદર્શ પ્રવાસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "લેખક ક્યાં જવાની વાત કરે છે ત્યારે સર્વજ્ઞભાઈ તેને રોકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક જ્યારે દાર્જિલિંગમાં સૂર્યોદય જોવાની વાત કરે છે ત્યારે સર્વજ્ઞભાઈ તેમને રોકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટાઈટલ જ યાદ રાખો - 'સૂરજ તો બધે જ સરખો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "નીચેનામાંથી કઈ જોડી સાચી નથી? (અ) આબુ - રબડી (બ) મહાબળેશ્વર - ચણા (ક) આગ્રા - જલેબી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (ક) આગ્રા - જલેબી (સાચું: આગ્રા - દાળમુઠ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આગ્રાની 'આગ' માં 'દાળ' શેકાય - દાળમુઠ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સર્વજ્ઞભાઈ દાર્જિલિંગમાં સૂર્યોદય જોવાની બદલે શું સલાહ આપે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સર્વજ્ઞભાઈ કહે છે કે સૂરજ તો બધે જ સરખો ઉગે, એના કરતા ગરમાગરમ 'ઈડલી' અને 'ઢોંસા' ખાઈ લેવા જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાર્જિલિંગની ઠંડીમાં દક્ષિણ ભારતીય નાસ્તો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સર્વજ્ઞભાઈના મતે પ્રવાસ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સર્વજ્ઞભાઈના મતે પ્રવાસ એટલે ખાલી જગ્યા બદલીને ખાવાનું ખાવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લેસ બદલાય, પ્લેટ (Plate) નહિ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "લેખકે સર્વજ્ઞભાઈના સ્વભાવને કેવો ચિતર્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સર્વજ્ઞભાઈ 'નામ તેવા ગુણ' ધરાવે છે, તેઓ બધું જ જાણતા હોય તેવો ડોળ કરે છે અને દરેક વાતને ખાણી-પીણી સાથે જોડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સર્વજ્ઞ = સર્વ + જ્ઞાતા (બધું જાણનાર, પણ માત્ર ખાવાનું!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સર્વજ્ઞભાઈએ લેખકને આગ્રામાં શું સાચવવાની સલાહ આપી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સર્વજ્ઞભાઈએ આગ્રામાં વાંદરાઓથી સાચવવાની સલાહ આપી, કારણ કે તેઓ દાળમુઠની થેલી પકડાવી દે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આગ્રા - વાંદરા - દાળમુઠ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિનોદ ભટ્ટને કયો એવોર્ડ મળેલો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિનોદ ભટ્ટને 'કુમાર સુવર્ણચંદ્રક' અને 'રણજિતરામ સુવર્ણચંદ્રક' મળેલા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટા હાસ્યકારોને મોટા ચંદ્રકો જ મળે (કુમાર અને રણજિતરામ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "લેખકને મહાબળેશ્વર જવાનો કંટાળો કેમ આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખકને મહાબળેશ્વર જવાનો કંટાળો આવે છે કારણ કે ત્યાં પણ આબુ જેવી જ ભીડ અને એ જ પ્રકારનું વાતાવરણ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીડ + ભીડ = કંટાળો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "શેત્રુંજય પર્વત વિશે સર્વજ્ઞભાઈ શું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શેત્રુંજય પર ચઢવા માટે ત્યાંના 'ભાખરી-શાક' વખાણવા જેવો નાસ્તો મળે છે તેવું સર્વજ્ઞભાઈ માને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્વત ચઢવો છે? પહેલા ભાખરી ખાઈ લો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સાચી જોડણી લખો: 'દાર્જિલિંગ' અને 'નિબંધ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દાર્જિલિંગ (જ ને હ્રસ્વ 'િ'), નિબંધ (ન ને હ્રસ્વ 'િ')</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થાનવાચક શબ્દોમાં અંતમાં 'િંગ' આવે ત્યારે આગળ હ્રસ્વ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સર્વજ્ઞભાઈના મતે કઈ જગ્યાએ સૂરજ સૌથી સારો દેખાય છે? (બે ગુણનો પ્રશ્ન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સર્વજ્ઞભાઈના મતે સૂરજ કોઈ પણ સ્થળે જાવ, બધે જ સરખો જ હોય છે. એટલે કે દાર્જિલિંગ જઈને ઠંડીમાં ઠરવા કરતાં ઘરે રહીને ગલીના છેડે સૂરજ જોવો વધારે સારો છે. તેમના માટે સૂરજનું કુદરતી સૌંદર્ય નહિ પણ ખાવાની અનુકૂળતા મહત્વની છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂરજ = ગોળ અને પૂરી = ગોળ, સર્વજ્ઞભાઈને પૂરીમાં રસ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સર્વજ્ઞભાઈ લેખકને મહાબળેશ્વર જવા બાબતે કઈ ચેતવણી આપે છે? (બે ગુણનો પ્રશ્ન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સર્વજ્ઞભાઈ કહે છે કે મહાબળેશ્વર જવું હોય તો હોટલવાળાને પહેલા જ કહી રાખવું કે તે આપણને 'ચણા' સારા ખવડાવે. ત્યાં ગયા પછી જો લોજિંગ-બોર્ડિંગની વ્યવસ્થા ન હોય તો ભૂખ્યા રહેવાનો વારો આવે, માટે ખાવાનું પહેલા જોવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રહેવાની ચિંતા નહિ, પણ ચણાની ચિંતા કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "પાઠના શીર્ષક 'સૂરજ તો બધે જ સરખો' ની યથાર્થતા સમજાવો. (બે ગુણનો પ્રશ્ન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ શીર્ષક સર્વજ્ઞભાઈ જેવા માણસોની માનસિકતા દર્શાવે છે. સામાન્ય માણસો સૂર્યોદય જોવા દૂર દૂર જાય છે, પણ સર્વજ્ઞભાઈ જેવા માટે તો બધે સૂરજ સરખો જ છે કારણ કે તેમને પ્રકૃતિમાં નહિ પણ ખાણી-પીણીમાં રસ છે. આ કટાક્ષ દ્વારા શીર્ષક સચોટ ઠરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાઉધરા માટે કુદરત ગૌણ, ખોરાક મુખ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સર્વજ્ઞભાઈના પાત્ર દ્વારા લેખકે કઈ સામાજિક વૃત્તિ પર પ્રહાર કર્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખકે એવા પ્રવાસીઓ પર પ્રહાર કર્યો છે જેઓ લાખો રૂપિયા ખર્ચીને દેશ-વિદેશ ફરે છે, પરંતુ ત્યાંની સંસ્કૃતિ કે પ્રકૃતિ માણવાને બદલે માત્ર ગુજરાતી ખાણું જ શોધતા ફરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટૂરિસ્ટ (Tourist) vs ફૂડી (Foodie) નો તફાવત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "'સર્વજ્ઞ' શબ્દનો અર્થ અને પાઠમાં તેનો વિરોધાભાસ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'સર્વજ્ઞ' એટલે બધું જ જાણનાર. પાઠમાં સર્વજ્ઞભાઈ સ્થળો વિશે જાણે છે ખરા, પણ તેમની જાણકારી માત્ર 'ખાવા' પૂરતી સીમિત છે. આ એક હળવો કટાક્ષ છે કે તેઓ જ્ઞાની નથી પણ ખાઉધરા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સર્વજ્ઞ = 'ખાવાનું' બધું જ જાણનાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "આબુમાં રબડી ખાવા વિશે સર્વજ્ઞભાઈ શું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સર્વજ્ઞભાઈ કહે છે કે આબુમાં નખી લેક પાસે ત્રણ-ચાર રબડીવાળા બેસે છે. ત્યાં જઈને રબડી એવી ખાવાની કે મોઢામાં પાણી આવી જાય, બાકી પર્વતો તો બધે હોય જ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્વત જોવો નકામો, રબડી ખાવી કામની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિનોદ ભટ્ટની હાસ્યશૈલીની વિશેષતા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિનોદ ભટ્ટની શૈલીમાં તળપદી ભાષા, સીધો કટાક્ષ અને રોજિંદા જીવનના પ્રસંગોમાંથી હાસ્ય નિષ્પન્ન કરવાની અદભૂત કળા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરળ શબ્દો + ધારદાર કટાક્ષ = વિનોદ ભટ્ટ.</p></div>"
+    }
+  ]
+}
