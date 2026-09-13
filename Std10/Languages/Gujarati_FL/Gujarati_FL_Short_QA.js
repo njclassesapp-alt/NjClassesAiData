@@ -1253,3 +1253,136 @@ var Std10_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"11": {
+  "chapterNumber": 11,
+  "chapterTitle": "શિકારીને",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'શિકારીને' કાવ્યના કવિનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'શિકારીને' કાવ્યના કવિ 'કલાપી' (સુરસિંહજી તખ્તસિંહજી ગોહિલ) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ક' થી કલાપી અને 'ક' થી કાવ્યનું નામ (સંબોધન) - શિકારીને. લાઠીના રાજવી એટલે કલાપી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'શિકારીને' કાવ્યનો સાહિત્ય પ્રકાર કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યનો સાહિત્ય પ્રકાર 'સોનેટ' (ઉર્મિકાવ્ય) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કલાપીના સોનેટમાં હંમેશા પ્રકૃતિ અને હૃદયની સંવેદના હોય છે. યાદ રાખો: 'શિકારી-સોનેટ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "'શિકારીને' કાવ્ય કયા સંગ્રહમાંથી લેવામાં આવ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્ય 'કલાપીનો કેકારવ' માંથી લેવામાં આવ્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કલાપીનું નામ આવે એટલે સંગ્રહ 'કેકારવ' જ હોય. કેકારવ એટલે મોરનો ટહુકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "'શિકારીને' કાવ્ય કયા છંદમાં રચાયેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્ય 'અનુષ્ટુપ' છંદમાં રચાયેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 8+8 અક્ષરના ચરણ એટલે અનુષ્ટુપ. કલાપીએ આ છંદનો સુંદર ઉપયોગ કર્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કવિ શિકારીને શું છોડી દેવા કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ શિકારીને પક્ષીઓનો સંહાર (ક્રૂરતા) કરવાનું છોડી દેવા કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંહાર = વિનાશ. કવિ અહિંસાનો સંદેશ આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પક્ષીને મેળવવા માટે કવિ શું કરવાનું સૂચવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પક્ષીને મેળવવા માટે કવિ તેના મધુર ગીત (ટહુકા) ને ક્યાંક છુપાઈને સાંભળવાનું સૂચવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પક્ષી હાથમાં નહીં, પણ કાનમાં (ગીત દ્વારા) મેળવવાનું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કવિના મતે સુંદરતા પામવા માટે શું કરવું જરૂરી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિના મતે સૌંદર્ય પામતા પહેલાં પોતે સુંદર (સૌંદર્યદ્રષ્ટિવાળા) બનવું પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સૌંદર્ય પામવું હોય તો સૌંદર્ય બનવું પડે' - આ પંક્તિ મોઢે કરી લેવી, બોર્ડમાં પૂછાય જ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કવિ પક્ષીના શિકારથી શું પ્રાપ્ત થશે એમ માને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિના મતે પક્ષીના શિકારથી માત્ર તેનું મૃત શરીર (સ્થૂળ શબ) જ પ્રાપ્ત થશે, તેનું સૌંદર્ય કે ગીત નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શિકાર = શબ, પ્રેમ = જીવતું પક્ષી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ખાલી જગ્યા પૂરો: 'સૌંદર્યો વેડફી દેતાં ના ના _____ મળે.'</p>",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સુંદરતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વેડફવું એટલે બગાડવું. બગાડવાથી ક્યારેય સુંદરતા ન મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિશ્વ શેનો આશ્રમ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિના મતે આ સમગ્ર વિશ્વ 'સંતોનો આશ્રમ' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિશ્વ = સંતોનો આશ્રમ (વસુધૈવ કુટુંબકમની ભાવના).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કાવ્યમાં 'ઘટ' શબ્દનો અર્થ શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાવ્યના સંદર્ભમાં 'ઘટ' એટલે હૃદય અથવા શરીર થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘટમાં બિરાજતા રામ - એટલે કે હૃદયમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સૌંદર્યનું જતન કરવું એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સૌંદર્યનું જતન કરવું એટલે તેને માણવું અને તેનું રક્ષણ કરવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જતન = સાચવવું/ઉપભોગ કરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "શિકારીને કાવ્યમાં કવિ કોને ઉદ્દેશીને લખે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ યુવાન શિકારીને ઉદ્દેશીને આ કાવ્ય લખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાવ્યની શરૂઆત 'રે રે રહેવા દે આ યુવાન' થી થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "'સ્થૂળ' શબ્દનો વિરોધી શબ્દ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સૂક્ષ્મ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે દેખાય તે સ્થૂળ, જે અનુભવાય તે સૂક્ષ્મ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પક્ષીના પ્રભુ ક્યાં મળશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પક્ષીના પ્રભુ તેના ગીતોમાં (સંગીતમાં) મળશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પક્ષીનું ગાન = પ્રભુનું સ્થાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કાવ્ય પંક્તિ પૂર્ણ કરો: 'રહેવા દે, રહેવા દે આ _____, _____!'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સંહાર, યુવાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાવ્યની પ્રથમ પંક્તિ હંમેશા યાદ રાખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કવિ ક્યાં જોવાની ના પાડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ પક્ષીને તીરથી મારીને તેના શબને જોવાની ના પાડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તીરથી માત્ર પક્ષી મરે છે, સુંદરતા નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "શિકારી કાવ્યમાં કઈ ભાવના વ્યક્ત થઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યમાં જીવદયા, અહિંસા અને પ્રકૃતિ પ્રેમની ભાવના વ્યક્ત થઈ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગાંધીજીના વિચારો જેવું - અહિંસા પરમો ધર્મ:.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સાચી જોડણી લખો: 'સૌંદર્ય' અને 'શ્રદ્ધા'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સૌંદર્ય, શ્રદ્ધા (નોંધ: આ પ્રશ્નમાં આપેલ શબ્દો શુદ્ધ જ છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સૌ' ઉપર અનુસ્વાર અને 'ર્ય' ની ઉપર રેફ ખાસ ચેક કરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કવિ કઈ બાબતને ક્રૂરતા ગણાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિર્દોષ પક્ષીઓનો શિકાર કરવો અને પ્રકૃતિનો નાશ કરવો તેને કવિ ક્રૂરતા ગણાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વગર કારણે જીવ લેવો એ જ ક્રૂરતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "પક્ષીને પામવા માટે કવિ કેવો પ્રયોગ કરવાનું કહે છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ કહે છે કે પક્ષીને પામવા માટે તેના પર તીર ચલાવવાની જરૂર નથી. જો પક્ષીને ખરેખર પામવું હોય, તો શિકારીએ ક્યાંક છુપાઈને પક્ષીના મધુર કલરવને સાંભળવો જોઈએ. પક્ષીના ગીતોમાં તેના પ્રભુના દર્શન થશે અને તે રીતે પક્ષી તેના હૃદયમાં સ્થાન પામશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પક્ષી મેળવવા માટે 'તીર' નહીં પણ 'ધીર' (ધીરજ) જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "'સૌંદર્ય પામતાં પહેલાં સૌંદર્ય બનવું પડે' - પંક્તિ સમજાવો. (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પંક્તિ દ્વારા કવિ કહે છે કે જો આપણે દુનિયાની સુંદરતાનો આનંદ માણવો હોય, તો પહેલા આપણી દ્રષ્ટિ અને આપણું હૃદય સુંદર હોવું જોઈએ. જે વ્યક્તિના મનમાં ક્રૂરતા હોય તે કદી સાચું સૌંદર્ય જોઈ શકતો નથી. સુંદરતાને માણવા માટે સંસ્કારી અને સંવેદનશીલ બનવું અનિવાર્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેવી દ્રષ્ટિ તેવી સૃષ્ટિ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "કવિ શિકારીને કઈ શિખામણ આપે છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ શિકારીને શિખામણ આપે છે કે તું આ ક્રૂર સંહાર કરવાનું છોડી દે. પક્ષીને મારીને તને માત્ર તેનું માંસ કે હાડકાં મળશે, પણ તેનું જીવંત સૌંદર્ય નહીં મળે. આ જગતમાં પ્રભુએ બનાવેલી દરેક વસ્તુ સુંદર છે, તેને માણવી જોઈએ, તેનો નાશ ન કરવો જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શિખામણ = અહિંસા અને પ્રકૃતિનું રક્ષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "શિકારીને કાવ્યમાં પ્રકૃતિના કયા તત્વોનો ઉલ્લેખ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાવ્યમાં પક્ષી, તરુ (વૃક્ષ), લતા (વેલ), ઝરણાં, ફૂલ અને આભ (આકાશ) જેવા પ્રકૃતિના તત્વોનો ઉલ્લેખ થયો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પક્ષી + વનરાજી = આખું કાવ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કલાપીનું પૂરું નામ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સુરસિંહજી તખ્તસિંહજી ગોહિલ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સુર' અને 'તખ્ત' યાદ રાખો એટલે આખું નામ યાદ રહી જશે.</p></div>"
+    }
+  ]
+}
