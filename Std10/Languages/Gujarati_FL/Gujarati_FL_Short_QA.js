@@ -1652,3 +1652,136 @@ var Std10_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"14": {
+  "chapterNumber": 14,
+  "chapterTitle": "જન્મોત્સવ",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘જન્મોત્સવ’ નવલિકાના લેખકનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘જન્મોત્સવ’ નવલિકાના લેખક સુરેશ જોષી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘સુરેશ’ના ઘરે ‘જન્મોત્સવ’ છે - આ વાક્ય યાદ રાખવાથી લેખકનું નામ ક્યારેય ભુલાશે નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘જન્મોત્સવ’ કૃતિનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કૃતિનો સાહિત્ય પ્રકાર ‘નવલિકા’ (ટૂંકી વાર્તા) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જન્મની ઘટના ‘નવી’ (નવલિકા) રીતે આ પાઠમાં રજૂ થઈ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "‘જન્મોત્સવ’ વાર્તા કયા વાર્તાસંગ્રહમાંથી લેવામાં આવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘જન્મોત્સવ’ વાર્તા સુરેશ જોષીના ‘ગૃહપ્રવેશ’ વાર્તાસંગ્રહમાંથી લેવામાં આવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘ગૃહ’માં બાળકનો ‘જન્મ’ થયો - એટલે ગૃહપ્રવેશ સંગ્રહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "અસિતે એન્જિનિયરિંગનો અભ્યાસ કયા દેશમાં કર્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અસિતે એન્જિનિયરિંગનો અભ્યાસ અમેરિકામાં કર્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અસિત = અમેરિકા (બંને ‘અ’ થી શરૂ થાય છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ખાલી જગ્યા પૂરો: ‘જન્મોત્સવ’ નવલિકામાં એકસાથે ચાલતી ____ પરિસ્થિતિઓનું નિરૂપણ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બે વિરોધાભાસી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એક બાજુ કૃષ્ણજન્મનો આનંદ અને બીજી બાજુ કિશનના જન્મની કરુણતા - એટલે ‘વિરોધાભાસ’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કાનજી અને દેવજી બાળકને લઈને કોની પાસે ગયા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાનજી અને દેવજી બાળકને લઈને વેલજી ડોસા પાસે ગયા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વેલજી ડોસા = ટાંટિયા વાળનાર (હાડકાં ભાંગનાર નિષ્ણાત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વસુદેવ કૃષ્ણને લઈને કઈ નદી ઓળંગીને ગોકુળ ગયા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વસુદેવ કૃષ્ણને લઈને યમુના નદી ઓળંગીને ગોકુળ ગયા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કૃષ્ણ + યમુનાનો નાતો હંમેશા યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "માણેકની ચીસ કયા અવાજમાં દબાઈ ગઈ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> માણેકની ચીસ ભારે વરસાદ અને ટ્રેનના અવાજમાં દબાઈ ગઈ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કુદરતનો પ્રકોપ (વરસાદ) ગરીબની ચીસને ગળી ગયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "અસિતે કયા માધ્યમથી કૃષ્ણજન્મનું દ્રશ્ય ખડું કર્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અસિતે ઇલેક્ટ્રિક કરામત (વીજળીની ટેકનોલોજી) દ્વારા કૃષ્ણજન્મનું દ્રશ્ય ખડું કર્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અસિત = ઇલેક્ટ્રિક જાદુગર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કાનજીએ નવજાત બાળકના પગ કેમ વળાવ્યા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાનજીએ બાળકના પગ વળાવ્યા જેથી તે મોટો થઈને આજીવન અપંગ રહે અને ભીખ માંગીને ગુજરાન ચલાવી શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગરીબીની પરાકાષ્ઠા: પેટ ભરવા માટે અપંગતાનો સહારો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "મુખ્‍ય પાત્ર ‘અસિત’ ના મનમાં શું ચાલી રહ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અસિતના મનમાં પોતાની અમેરિકાથી શીખીને આવેલી ટેકનોલોજી દ્વારા લોકોને આશ્ચર્યચકિત કરી દેવાનો વિચાર ચાલતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અસિત માટે જન્મોત્સવ એક ‘શો’ (Show) હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વેલજી ડોસાએ કાનજીને શું કહ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વેલજી ડોસાએ કહ્યું કે, ‘કુટુંબમાં એકાદો તો એવો પાકવો જોઈએ ને, જે બેઠા બેઠા ખાય!’ (અર્થાત અપંગ થઈને ભીખ માંગે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ વાક્યમાં સમાજની વરવી વાસ્તવિકતા છુપાયેલી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "‘જન્મોત્સવ’ નવલિકાના અંતે કઈ કરુણતા વ્યક્ત થઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અંતે કિશનના પગ તોડી નાખવામાં આવે છે, અને તેની માતા માણેક પોતાના લાડકવાયાને અપંગ હાલતમાં જોઈને આક્રંદ કરે છે, જે અત્યંત કરુણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એક બાજુ માખણ ખાતા કૃષ્ણ અને બીજી બાજુ લોહીલુહાણ કિશન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જોડણી સુધારો: ‘ઉતસવ’ અને ‘ઇલેકટ્રીક’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સાચી જોડણી: ૧. ઉત્સવ , ૨. ઇલેક્ટ્રિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જોડાક્ષર લખતી વખતે ઉચ્ચારણ પર ધ્યાન આપવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: ‘જેનો કોઈ આધાર ન હોય તેવું’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિરાધાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નિ: + આધાર = નિરાધાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સંધિ છોડો: ‘જન્મોત્સવ’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જન્મ + ઉત્સવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અ + ઉ = ઓ (ગુણ સંધિનો નિયમ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સમાસ ઓળખાવો: ‘ગૃહપ્રવેશ’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તત્પુરુષ સમાસ (ગૃહમાં પ્રવેશ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે વિભક્તિ પ્રત્યય (માં, નો, ની, નું) લાગે ત્યારે તત્પુરુષ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "લેખકે વાર્તામાં કયા બે સ્થળોનું વર્ણન કર્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખકે એક બાજુ ધનિકોના બંગલામાં થતી કૃષ્ણજન્મોત્સવની ઉજવણી અને બીજી બાજુ રેલવે સ્ટેશનના પ્લેટફોર્મ પર ગરીબ ઝૂંપડામાં થતા કિશનના જન્મનું વર્ણન કર્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બંગલો vs પ્લેટફોર્મ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "દેવજીએ કાનજીને કેમ શાંત પાડ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જ્યારે કાનજી બાળકના પગ વળાવતા અચકાતો હતો, ત્યારે દેવજીએ તેને વ્યવહારુ થઈને સમજાવ્યું કે જો પગ નહીં વળાવીએ તો આ આખી જિંદગી ભૂખે મરશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગરીબ માટે ભૂખ એ નૈતિકતા કરતા મોટી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "અસિતના ખેલમાં ‘વીજળીના કરામત’ થી શું બતાવવામાં આવ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વીજળીની કરામતથી વસુદેવ કૃષ્ણને લઈને જમુનાના પૂરમાંથી પસાર થતા હોય, નાગ છાયા કરતો હોય અને ગોકુળ પહોંચતા હોય તેવા દ્રશ્યો બતાવવામાં આવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તે જમાનાનું 3D એનિમેશન એટલે અસિતનો ખેલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સમાનાર્થી શબ્દ આપો: ‘આક્રંદ’ અને ‘ઉજાસ’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ૧. આક્રંદ = રુદન / રડવું, ૨. ઉજાસ = પ્રકાશ / અજવાળું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠમાં અંધકાર (ગરીબી) અને ઉજાસ (અમીરી) ની લડાઈ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિરોધી શબ્દ આપો: ‘નસીબદાર’ અને ‘આનંદ’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ૧. નસીબદાર × કમનસીબ / અભાગી, ૨. આનંદ × શોક / દુઃખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કિશન કમનસીબ હતો અને કૃષ્ણનો આનંદ મનાવાતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "તળપદા શબ્દનું શિષ્ટરૂપ આપો: ‘ભવ’ અને ‘ટાંટિયા’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ૧. ભવ = જન્મારો / જિંદગી, ૨. ટાંટિયા = પગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગ્રામ્ય બોલીના શબ્દો વાર્તાને જીવંત બનાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "શ્રીકૃષ્ણના જન્મ સમયે કયું ગીત ગવાતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શ્રીકૃષ્ણના જન્મ સમયે ‘નંદ ઘેર આનંદ ભયો, જય કનૈયા લાલ કી’ ગીત અને આનંદ ઉલ્લાસનું વાતાવરણ હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સુખનું ગીત vs દુઃખનું રુદન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "‘જન્મોત્સવ’ વાર્તા દ્વારા લેખક શું સમજાવવા માંગે છે? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક આ વાર્તા દ્વારા સમાજની આર્થિક અસમાનતા અને ગરીબીની ભયાનકતા સમજાવવા માંગે છે. એક તરફ ભગવાનના જન્મ માટે લાખોનો ખર્ચ થાય છે, જ્યારે બીજી તરફ એક ગરીબ બાળક જન્મે ત્યારે તેને આજીવન ભીખ માંગવા માટે અપંગ બનાવવામાં આવે છે. આ કરુણ વિરોધાભાસ માનવતા સામે પ્રશ્નાર્થ ચિહ્ન મૂકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યાદ રાખવું - ‘ભગવાનનો ઉત્સવ’ vs ‘માણસનો સંઘર્ષ’.</p></div>"
+    }
+  ]
+}
