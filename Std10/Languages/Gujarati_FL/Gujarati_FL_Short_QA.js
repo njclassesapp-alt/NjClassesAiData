@@ -1386,3 +1386,136 @@ var Std10_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"12": {
+  "chapterNumber": 12,
+  "chapterTitle": "જબક જ્યોત",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'જબક જ્યોત' કૃતિના લેખકનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'જબક જ્યોત' કૃતિના લેખક કૃષ્ણલાલ શ્રીધરાણી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'શ્રીકૃષ્ણ' ની 'જ્યોત' કાયમ 'જબક'તી રહે છે. (કૃષ્ણલાલ = જબક જ્યોત)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'જબક જ્યોત' સાહિત્યકૃતિનો પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'જબક જ્યોત' સાહિત્યકૃતિનો પ્રકાર 'એકાંકી' (નાટક) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) એક જ અંકમાં પૂરું થાય તે 'એકાંકી' અને જ્યોત પણ 'એક' જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "'જબક જ્યોત' એકાંકી કયા સંગ્રહમાંથી લેવામાં આવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'જબક જ્યોત' એકાંકી 'ઇન્સાન મિટા દૂં' સંગ્રહમાંથી લેવામાં આવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'ઇન્સાન' મરી જાય પણ તેની દેશભક્તિની 'જ્યોત' અમર રહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "દીપકની ઉંમર આશરે કેટલા વર્ષની હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દીપકની ઉંમર આશરે 8 (આઠ) વર્ષની હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) દીપક 'આઠ' વર્ષનો 'ઠાઠ' વાળો દેશભક્ત હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ખાલી જગ્યા પૂરો: 'દીપક હમણાં જ ..... ચડાવવા ગયો હતો.'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દીપક હમણાં જ <u>રાષ્ટ્રધ્વજ</u> ચડાવવા ગયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) દીપક એટલે પ્રકાશ અને રાષ્ટ્રધ્વજ એટલે દેશનું માન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "દીપકના પિતાનું નામ શું હતું અને તેઓ કયા હોદ્દા પર હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દીપકના પિતાનું નામ સર ધીરજલાલ હતું અને તેઓ અમલદાર (મેજિસ્ટ્રેટ) ના હોદ્દા પર હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ધીરજલાલ = અંગ્રેજ સરકારના 'ધીર' ગંભીર સેવક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "દીપકની બહેનનું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દીપકની બહેનનું નામ ઊર્મિ હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) દીપકના મનમાં દેશભક્તિની 'ઊર્મિ' (તરંગ) જાગી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "દીપકને માથામાં ક્યાં અને કેવી રીતે ઈજા થઈ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દીપક અગાશી પર રાષ્ટ્રધ્વજ ચડાવવા જતાં પટકાયો, જેના કારણે તેને માથામાં ગંભીર ઈજા થઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ધ્વજ માટે પડ્યો, દેશ માટે લડ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મેનાબહેન દીપકની ઈજા જોઈને શું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મેનાબહેન દીપકની ઈજા જોઈને ખૂબ જ વ્યથિત થાય છે અને કહે છે કે, 'બેટા, તારો પાટો હું ફરીથી બાંધી દઉં?'</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) માતાની મમતા અને બાળકની દેશભક્તિનો સંગમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "દીપક ઊર્મિને તેના કપડાં વિશે શું સૂચના આપે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દીપક ઊર્મિને કહે છે કે મારા બધા કપડાં ગરીબોને વહેંચી દેજે અને હવેથી તું પણ ખાદી પહેરજે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) સ્વદેશી અપનાવો, વિદેશી ત્યાગો - દીપકનો સંદેશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સાચી જોડણી લખો: 'એકાંકી', 'મેજિસ્ટ્રેટ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> એકાંકી, મેજિસ્ટ્રેટ (આપેલ શબ્દો શુદ્ધ છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) જોડાક્ષર અને અનુસ્વારનું ખાસ ધ્યાન રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "દીપકને આકાશમાં શું દેખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દીપકને આકાશમાં તારાને બદલે નાના નાના રાષ્ટ્રધ્વજ દેખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) જેવી દ્રષ્ટિ તેવી સૃષ્ટિ; દીપક માટે આખું વિશ્વ જ રાષ્ટ્રધ્વજ હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ડૉક્ટરે દીપકની તબિયત વિશે શું અભિપ્રાય આપ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ડૉક્ટરે અભિપ્રાય આપ્યો કે દીપકની હાલત ગંભીર છે અને હવે તેના જીવન માટે કોઈ આશા રહી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ડૉક્ટર નિષ્ફળ, પણ દેશભક્તિ સફળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "દીપક અગાશી પર કેમ ગયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દીપક દેશપ્રેમથી પ્રેરાઈને અંગ્રેજ સરકારના વિરોધમાં અને ભારતની આઝાદીના પ્રતીક તરીકે રાષ્ટ્રધ્વજ ફરકાવવા માટે અગાશી પર ગયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ઊંચાઈ પર ધ્વજ = રાષ્ટ્રનું સન્માન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "નંદરાય કોણ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નંદરાય એ દીપકના પિતા સર ધીરજલાલના મિત્ર અને અંગ્રેજ સરકારના પક્ષકાર હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) નંદરાય = અંગ્રેજી શાસનનો ટેકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સર ધીરજલાલની માનસિકતામાં શું પરિવર્તન આવ્યું? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શરૂઆતમાં સર ધીરજલાલ અંગ્રેજ ભક્ત હતા અને દીપકના રાષ્ટ્રપ્રેમથી નારાજ હતા. પરંતુ દીપકની અંતિમ ક્ષણોમાં તેની દેશભક્તિ અને બલિદાન જોઈને તેમનું હૃદય પરિવર્તન થાય છે. તેઓ અંતે પુત્રના દેશપ્રેમને સ્વીકારી પોતે પણ રાષ્ટ્રધ્વજને વંદન કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) અંગ્રેજ ભક્તિમાંથી દેશભક્તિ તરફનું પ્રયાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "દીપકની છેલ્લી ઈચ્છા શું હતી? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દીપકની અંતિમ ઈચ્છા હતી કે તેના માથા પર તિરંગો લહેરાવવામાં આવે. તે ઈચ્છતો હતો કે દેશમાં દરેક સ્થળે રાષ્ટ્રધ્વજ લહેરાતો રહે અને તેની બહેન ઊર્મિ હંમેશા ખાદી પહેરે અને દેશની સેવા કરે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) અંતિમ ઈચ્છા પણ 'દેશાભિમાન'ની જ હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "'જબક જ્યોત' શીર્ષકની યથાર્થતા સમજાવો. (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'જબક જ્યોત' એટલે ઝબકતી જ્યોત. દીપક એક નાનકડું બાળક છે જેનું જીવન જ્યોત સમાન ટૂંકું પણ પ્રકાશમય રહ્યું. તે મૃત્યુ પામીને પણ અનેકના મનમાં દેશભક્તિની જ્યોત જલાવતો ગયો. આમ, શીર્ષક તેના બલિદાનને સાર્થક કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) જ્યોત હોલવાઈ ગઈ પણ પ્રકાશ (દેશપ્રેમ) કાયમ રહ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ડૉક્ટર અને નંદરાય વચ્ચેના સંવાદનો મુખ્ય સાર શું છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ડૉક્ટર માનવીય અભિગમ ધરાવે છે અને દીપકની હાલત જોઈ દુઃખી છે, જ્યારે નંદરાય માત્ર અંગ્રેજી કાયદા અને વ્યવસ્થાની વાતો કરે છે. આ સંવાદ દ્વારા લેખકે માનવતા અને કઠોર શાસન વચ્ચેનો તફાવત દર્શાવ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ડૉક્ટર = સંવેદના, નંદરાય = સત્તાનો મોહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "મેનાબહેન દીપકની દેશભક્તિને કેવી રીતે પ્રોત્સાહન આપે છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મેનાબહેન એક આદર્શ માતા છે. તેઓ દીપકને દેશભક્તિ માટે વઢતા નથી પણ તેને સમજાવે છે અને તેના કાર્યોમાં ગર્વ અનુભવે છે. તે ધીરજલાલ સામે પણ દીપકનો પક્ષ ખેંચે છે અને દીપકના અંતિમ સમયે તેની પડખે ઊભા રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) પુત્રની દેશભક્તિમાં માતાનો સહકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "દીપકને સપનામાં શું આવતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દીપકને સપનામાં 'સરઘસ' (Processions) અને 'વંદે માતરમ'ના નારા સંભળાતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) જાગ્રત અવસ્થા હોય કે નિદ્રા, દીપક માટે દેશ સર્વોપરી હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "દીપકને 'રાષ્ટ્રધ્વજ' પ્રત્યે આટલો પ્રેમ કેમ હતો? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દીપક તે સમયના આઝાદીના આંદોલનો અને ગાંધીજીના વિચારોથી પ્રભાવિત હતો. તેને મન રાષ્ટ્રધ્વજ એ માત્ર કાપડનો ટુકડો નહીં પણ ભારત માતાનું સન્માન હતું. તે નાની ઉંમરે સમજી ગયો હતો કે ગુલામી કરતાં આઝાદીનું મૂલ્ય વધુ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) નાની ઉંમર, મોટી સમજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "દીપક ઊર્મિને શું સાચવવાનું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દીપક ઊર્મિને તેનો રાષ્ટ્રધ્વજ અને ખાદીની ટોપી સાચવવાનું કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) વારસો હંમેશા કિંમતી વસ્તુનો જ સોંપાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "એકાંકીના અંતે વાતાવરણ કેવું બની જાય છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> એકાંકીના અંતે દીપકનું મૃત્યુ થતાં આખું વાતાવરણ ગમગીન બની જાય છે. પરંતુ તેની સાથે સાથે દીપકની દેશભક્તિનો વિજય થાય છે, કારણ કે તેના પિતા ધીરજલાલ પણ પરિવર્તિત થઈ રાષ્ટ્રધ્વજ સામે નમે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) કરુણ અંત, પણ વૈચારિક વિજય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કૃષ્ણલાલ શ્રીધરાણીની અન્ય જાણીતી કૃતિનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'કોડિયા' (કાવ્યસંગ્રહ) અને 'વડલો' (બાલનાટક).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) દીપક (જ્યોત) પ્રગટાવવા 'કોડિયા'ની જરૂર પડે.</p></div>"
+    }
+  ]
+}
