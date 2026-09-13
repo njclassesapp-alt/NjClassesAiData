@@ -1120,3 +1120,136 @@ var Std10_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"10": {
+  "chapterNumber": 10,
+  "chapterTitle": "ડાંગવનો અને...",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'ડાંગવનો અને...' પાઠના કર્તા (લેખક) કોણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'ડાંગવનો અને...' પાઠના કર્તા <strong>મહેન્દ્રસિંહ પરમાર</strong> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મહેન્દ્ર' ડાંગના 'પરમ' (પરમાર) પ્રકૃતિ પ્રેમી છે - એમ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'ડાંગવનો અને...' કૃતિનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કૃતિનો સાહિત્ય પ્રકાર <strong>નિબંધ (લલિત નિબંધ)</strong> છે, જે પત્ર સ્વરૂપે લખાયેલો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાંગની સફરનો 'લલિત' પત્ર - લલિત નિબંધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "લેખક મહેન્દ્રસિંહ પરમારના કયા સંગ્રહમાંથી આ પાઠ લેવામાં આવ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠ લેખકના <strong>'પોલિફની'</strong> નામના નિબંધ સંગ્રહમાંથી લેવામાં આવ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાંગમાં 'પોલી' (ઘણી બધી) વનરાજી છે એટલે 'પોલિફની'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "લેખક કોને સંબોધીને આ પત્ર લખી રહ્યા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક તેમના <strong>બાપુજી (પિતાજી)</strong> ને સંબોધીને આ પત્ર લખી રહ્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુત્રનો પ્રેમ પિતા (બાપુજી) માટે પત્રમાં વહ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ખાલી જગ્યા પૂરો: 'ગિરા ધોધ _______ નદી પર આવેલો છે.'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગિરા ધોધ <strong>અંબિકા</strong> નદી પર આવેલો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અંબા' માતાની 'ગિરા' (વાણી) મીઠી હોય - અંબિકા નદી પર ગિરા ધોધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "લેખકે કયા શહેરને 'સનસેટ પોઈન્ટ' ની વિશેષતા તરીકે ઓળખાવ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખકે <strong>આહવા</strong> શહેરના સનસેટ પોઈન્ટની વાત કરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્ય આથમ્યો (સનસેટ) એટલે 'આહ' નીકળી ગઈ - આહવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ડાંગના આદિવાસીઓનું કયું પ્રખ્યાત નૃત્ય લેખકે જોયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખકે ડાંગના આદિવાસીઓનું પ્રખ્યાત <strong>'ડાંગ દરબાર'</strong> વખતે થતું <strong>ચાળો</strong> (ઠાકર્યા ચાળો) નૃત્ય જોયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાંગમાં આદિવાસીઓ કરે 'ચાળો' (નૃત્ય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "'ગિરિમાળ' નો ધોધ કઈ નદી પરથી પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગિરિમાળનો ધોધ <strong>ગિરા</strong> નદી પરથી પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગિરિમાળ = ગિરા નદી (નામમાં જ સામ્ય છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "લેખક મુજબ આહવાની વસાહત કેવી લાગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક મુજબ આહવાની વસાહત <strong>હસ્તરેખા</strong> જેવી લાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આહવા હથેળી જેવું નાનું અને રેખાઓ જેવું સુંદર - હસ્તરેખા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "'પ્રત્યક્ષ' શબ્દનો વિરોધી શબ્દ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પ્રત્યક્ષ × <strong>પરોક્ષ</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સામે હોય તે પ્રત્યક્ષ, નજરે ન હોય તે પરોક્ષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "'ગિરા ધોધ' જોતી વખતે લેખકને કેવો અનુભવ થાય છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગિરા ધોધ જોતી વખતે લેખકને લાગે છે કે નીચે પડતું પાણી રૂપેરી રેખાઓ જેવું દેખાય છે. એનો અવાજ સમગ્ર વાતાવરણમાં ગુંજી ઉઠે છે. લેખકને લાગે છે કે તે પોતે પણ એ ધોધમાં ઓગળી રહ્યા છે અને પ્રકૃતિની સાથે એકાકાર થઈ રહ્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધોધ = રૂપેરી રેખા + પ્રકૃતિ સાથે એકાકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ડાંગના આદિવાસીઓના મૃત્યુના રિવાજ વિશે લેખક શું કહે છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ડાંગના આદિવાસીઓમાં મૃત્યુને પણ ઉત્સવની જેમ ઉજવવામાં આવે છે. તેઓ મૃતકની પાછળ રડવાને બદલે નાચગાન કરે છે અને સરઘસ કાઢે છે. તેઓ મૃત્યુને શોક નહીં પણ જીવનનો એક અનિવાર્ય ભાગ માને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાંગમાં મૃત્યુ = ઉત્સવ (નાચગાન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "નીચેનામાંથી કઈ જોડ સાચી છે? (અ) વનરાતી - વનરાજ (બ) ગિરિમાળ - પર્વતમાળા (ક) ડાંગવનો - શહેર.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સાચો વિકલ્પ (બ) <strong>ગિરિમાળ - પર્વતમાળા</strong> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગિરિ એટલે પર્વત, માળ એટલે માળા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "લેખકે નર્મદા નદીને કેવી કહી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખકે નર્મદા નદીને <strong>'અમરકંટકથી નીકળતી મનસ્વિની'</strong> કહી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નર્મદા પોતાની મરજીથી વહે છે એટલે 'મનસ્વિની'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "'તરુવર' શબ્દનો પર્યાયવાચી શબ્દ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તરુવર = <strong>ઝાડ, વૃક્ષ</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તરુ' એટલે નાનું છોડ કે ઝાડ, 'તરુવર' એટલે શ્રેષ્ઠ ઝાડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "આહવા જવા માટે લેખકે કયા સ્ટેશનનો ઉપયોગ કર્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આહવા જવા માટે લેખક <strong>વઘઈ</strong> સ્ટેશને ઉતર્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાંગની એન્ટ્રી એટલે 'વઘઈ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "'ડાંગવનો અને...' માં લેખકે કયા રંગની વનરાજીની વાત કરી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખકે <strong>લીલા</strong> અને <strong>ભીના</strong> રંગની વનરાજીની વાત કરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાંગ એટલે વરસાદી વન, જે હંમેશા 'લીલું-ભીનું' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "શુદ્ધ જોડણી લખો: 'પિરામિડ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <strong>પિરામિડ</strong> (બંને 'િ' હ્રસ્વ આવશે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિદેશી શબ્દોમાં મોટે ભાગે હ્રસ્વ 'િ' વપરાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "'સૂર્યોદય' શબ્દની સંધિ છૂટી પાડો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સૂર્ય + ઉદય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અ + ઉ = ઓ (નિયમ મુજબ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ડાંગના જંગલોમાં રાત્રે શું દેખાય છે જે લેખકને અદ્ભુત લાગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ડાંગના જંગલોમાં રાત્રે <strong>આજ્ઞા</strong> (Fireflies) દેખાય છે જે અંધકારમાં ઝબકતા તારા જેવા લાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંધારાનો પ્રકાશ એટલે 'આજ્ઞા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "લેખકને આહવામાં કોનો સાથ મળ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખકને આહવામાં તેમના મિત્ર <strong>જગદીશભાઈ</strong>નો સાથ મળ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જગત (જગદીશ) ની સફરે મિત્ર સાથે નીકળ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "'ડાંગવનો અને...' પાઠમાં લેખક પ્રકૃતિને કેવી રીતે જુએ છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક પ્રકૃતિને માત્ર બહારથી જોતા નથી, પણ તેને આત્માથી અનુભવે છે. તે પ્રકૃતિના તત્વો જેવા કે નદી, પહાડ અને વૃક્ષોમાં ઈશ્વરના રૂપને નિહાળે છે. તે પ્રકૃતિને પોતાની સગી માટીના સંબંધ જેવી માને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકૃતિ = આત્મિક અનુભવ + ઈશ્વરીય રૂપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "લેખકે ડાંગના આદિવાસીઓને 'માનવ-મેદની' તરીકે કેમ ઓળખાવ્યા છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જ્યારે ડાંગ દરબાર ભરાય છે ત્યારે હજારોની સંખ્યામાં આદિવાસીઓ ઉમટી પડે છે. તેમની એકતા, પહેરવેશ અને ઉત્સાહ જોઈને લેખકને ત્યાં માનવ-મેદની (મોટું ટોળું) પ્રકૃતિ સાથે ભળી ગયેલું લાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાંગ દરબાર = માનવ મેદનીનો મેળો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "'સાનિધ્ય' શબ્દનો અર્થ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સાનિધ્ય એટલે <strong>સમીપતા</strong> અથવા <strong>નજીક હોવું તે</strong>.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિધિ (પાસે) હોવું તે સાનિધ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "લેખક કઈ બાબતને પોતાની 'લેખિનીની મર્યાદા' ગણાવે છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક કહે છે કે ડાંગની પ્રકૃતિનું સૌંદર્ય એટલું અફાટ અને અદ્ભુત છે કે તેને શબ્દોમાં વર્ણવવું મુશ્કેલ છે. તે જ્યારે કાગળ પર લખવા બેસે છે ત્યારે તેને લાગે છે કે ભાષા ટૂંકી પડે છે, આ જ તેમની લેખિનીની મર્યાદા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌંદર્ય અફાટ + ભાષા ટૂંકી = લેખિનીની મર્યાદા.</p></div>"
+    }
+  ]
+}
