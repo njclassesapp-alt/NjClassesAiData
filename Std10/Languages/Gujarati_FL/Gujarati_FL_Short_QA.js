@@ -2109,3 +2109,136 @@ var Std10_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"18": {
+  "chapterNumber": 18,
+  "chapterTitle": "ભૂખથીય ભૂંડી ભીખ",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'ભૂખથીય ભૂંડી ભીખ' નવલકથાખંડના લેખકનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'ભૂખથીય ભૂંડી ભીખ' નવલકથાખંડના લેખક <strong>પન્નાલાલ પટેલ</strong> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) પન્નાલાલ = 'પ'થી શરૂ થતું નામ અને 'પાત્રોના હૃદય' સુધી પહોંચતી વાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'ભૂખથીય ભૂંડી ભીખ' કૃતિનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કૃતિનો સાહિત્ય પ્રકાર <strong>નવલકથાખંડ</strong> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) મોટી નવલકથા 'માનવીની ભવાઈ' માંથી લીધેલો નાનો 'ખંડ' એટલે નવલકથાખંડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "'ભૂખથીય ભૂંડી ભીખ' અંશ કઈ પ્રસિદ્ધ નવલકથામાંથી લેવામાં આવ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ અંશ પન્નાલાલ પટેલની જ્ઞાનપીઠ પુરસ્કાર વિજેતા નવલકથા <strong>'માનવીની ભવાઈ'</strong> માંથી લેવામાં આવ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'માનવી'ની વાત 'ભૂખ' અને 'ભીખ' સાથે એટલે 'માનવીની ભવાઈ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કાળુના મતે ભૂખથીય ભૂંડું શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાળુના મતે ભૂખથીય ભૂંડી <strong>'ભીખ'</strong> છે, કારણ કે ભૂખ માણસના હાડકાં ગાળે છે, પણ ભીખ તો માણસના આત્માને (સ્વમાનને) હણી નાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ભૂખ < ભીખ. (ભીખ વધારે ખતરનાક છે કારણ કે તે ખુમારી મારી નાખે છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "લેખક પન્નાલાલ પટેલને કયો સર્વોચ્ચ સાહિત્યિક પુરસ્કાર મળ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક પન્નાલાલ પટેલને ભારતીય સાહિત્યનો સર્વોચ્ચ <strong>'ભારતીય જ્ઞાનપીઠ પુરસ્કાર'</strong> મળ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ગુજરાતીમાં જ્ઞાનપીઠ મેળવનાર બીજા લેખક = પન્નાલાલ પટેલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કાળુ અને રાજુ કઈ નવલકથાના મુખ્ય પાત્રો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાળુ અને રાજુ <strong>'માનવીની ભવાઈ'</strong> નવલકથાના મુખ્ય પાત્રો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'કાળુ-રાજુ'ની જોડી એટલે પન્નાલાલની ગ્રામીણ નવલકથાની ઓળખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સુંદરજી શેઠે અનાજ આપવા માટે કઈ શરત રાખી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સુંદરજી શેઠે શરત રાખી હતી કે જેઓ શક્તિમાન છે તેમણે મહાજનના કોઠાર આગળ <strong>કચરો કાઢવો અને આંગણું વળવું</strong>, જેથી તેમને ભીખ માંગતા હોવાનું ન લાગે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) મહેનતનું અનાજ = સ્વમાનનું રક્ષણ. શેઠની શરત એ ભીખને શ્રમમાં બદલવાનો રસ્તો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ખાલી જગ્યા પૂરો: 'માનવીની ભવાઈ' નવલકથા પર ________ ના દુષ્કાળની અસર વર્ણવવામાં આવી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> છપ્પનિયા (વિક્રમ સંવત ૧૯૫૬)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ૧૯૫૬ એટલે કે છપ્પનિયો દુકાળ, જે ગુજરાતી સાહિત્યનો સૌથી ભયાનક દુકાળ મનાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કાળુને કઈ વાતનું દુઃખ હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાળુને એ વાતનું દુઃખ હતું કે જે અનાજ પેદા કરવા માટે તેણે અને ખેડૂતોએ મહેનત કરી હતી, એ જ અનાજ આજે તેમને ભીખ તરીકે લેવું પડી રહ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ઉત્પાદક જ્યારે યાચક બને ત્યારે થતી વેદના એટલે કાળુનું દુઃખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સુંદરજી શેઠ વિશે બે વાક્યો લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સુંદરજી શેઠ ઉદાર દિલના અને પરોપકારી વ્યક્તિ હતા. તેઓ ગરીબોની ભૂખ અને સ્વમાન બંનેની ચિંતા કરનાર સાચા મહાજન હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) નામ પ્રમાણે જ સુંદર વ્યક્તિત્વ ધરાવતા શેઠ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કાળુએ ભીખ લેવાની ના કેમ પાડી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાળુ એક સ્વમાની ખેડૂત હતો. તેને લાગતું હતું કે આ અનાજ એના પોતાના જ ખળાનું છે. પોતે પકવેલું અનાજ હાથ લંબાવીને લેવામાં એને પોતાની મર્યાદા અને ટેક (સ્વમાન) જતી લાગતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ટેક > પેટ. કાળુ માટે પેટની ભૂખ કરતા આત્માનું ગૌરવ મોટું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "'ભૂખથીય ભૂંડી ભીખ' વાર્તામાં કઈ સમસ્યાનું નિરુપણ થયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ વાર્તામાં દુષ્કાળની ભયાનકતા અને ભૂખની સામે ટકરાતા માનવીના સ્વમાનની સમસ્યાનું હૃદયસ્પર્શી નિરુપણ થયું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) મુખ્ય મુદ્દો: ભૂખ વિરુદ્ધ સ્વમાન (Hunger vs Self-respect).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'અનાજ રાખવાનો ઓરડો'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કોઠાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) પાઠમાં મહાજનના 'કોઠાર' ની વાત વારંવાર આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કાળુને કઈ પંક્તિ યાદ આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાળુને યાદ આવે છે કે: 'નથી વેઠતા રામ, નથી વેઠતા...' અને તેને લાગે છે કે આ ધરતી પર હવે ભગવાન પણ રહ્યા નથી જે આવી હાલાકી જોઈ શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ઈશ્વરની ગેરહાજરી અનુભવતો હતાશ માનવી એટલે કાળુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "રાજુ કાળુને કેવી રીતે સમજાવે છે? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રાજુ કાળુને વિનંતી કરતા કહે છે કે માત્ર પોતાના જ નહીં પણ ઘરના બીજા સભ્યો અને રાજુના ખાતર પણ તેણે અનાજ લેવું જોઈએ. તે કાળુને સમજાવે છે કે આ તો કુદરતનો પ્રકોપ છે, એમાં શરમાવા જેવું કંઈ નથી. જો જીવતા રહીશું તો ફરીથી ખેતી કરીને આ બધું ભરપાઈ કરી દઈશું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) વ્યવહારુ દૃષ્ટિકોણ: જીવશો તો ફરી બેઠા થશો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કાળુને શા માટે લાગે છે કે 'ભીખ' એ 'ભૂખ' કરતા ભૂંડી છે? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાળુ માને છે કે ભૂખ તો માત્ર શરીરને દુબળું પાડે છે, પણ ભીખ માણસની ટેક, એનું સ્વમાન અને એના આત્માને હણી નાખે છે. ભીખ માંગતી વખતે જે લાચારી અનુભવાય છે તે કાળુ જેવા ધરતીપુત્ર માટે મૃત્યુ સમાન છે. ભૂખથી માણસ મરે છે, પણ ભીખથી માણસ જીવતા જીવ મરી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ભૂખ = શારીરિક પીડા, ભીખ = માનસિક અને આત્મિક પતન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સુંદરજી શેઠના પાત્રાલેખનના બે મુખ્ય ગુણો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ૧. સંવેદનશીલતા: તેઓ ગરીબોની મનોસ્થિતિ સમજી શકે છે. ૨. વ્યવહારકુશળતા: અનાજ આપવા પાછળ નાનકડું કામ સોંપીને તેઓ ગરીબોનું સ્વમાન જાળવવાનો પ્રયત્ન કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) શેઠ = સંવેદના + સમજદારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "'ધાન' શબ્દનો પર્યાયવાચી શબ્દ પાઠના આધારે આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અનાજ, કણ, ધાન્ય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) પાઠમાં 'કોઠારમાં ધાન છે' તેવો ઉલ્લેખ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "દુષ્કાળની ભયાનકતા દર્શાવતું એક વાક્ય પાઠમાંથી લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'હાડપિંજર જેવા માણસોની કતાર લાગેલી હતી' – આ વાક્ય દુષ્કાળની કરુણતા દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) હાડપિંજર = ભૂખની પરાકાષ્ઠા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કાળુએ સુંદરજી શેઠને શું કહ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાળુએ કહ્યું કે, 'શેઠ, આ અનાજ તો મારું જ છે, મારા જ ખળાનું છે. પણ આજે મારે તે ભીખમાં લેવું પડે છે.'</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ખેડૂતની કરુણતા: પોતાનું જ અનાજ બીજા પાસેથી માંગવું પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "પાઠમાં વપરાયેલ 'ટેક' શબ્દનો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ટેક એટલે પ્રતિજ્ઞા, મક્કમતા અથવા સ્વમાન જાળવવાનો આગ્રહ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) કાળુની ટેક = ભીખ ન માંગવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સુંદરજી શેઠ કાળુને શું કહીને આશ્વાસન આપે છે? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શેઠ કહે છે કે તારી વાત સાચી છે, આ અનાજ તમારું જ છે. પણ અત્યારે આ આપત્તિનો સમય છે. જો તું કામ કરીને અનાજ લઈશ તો એ ભીખ નહીં ગણાય પણ તારા શ્રમનું ફળ ગણાશે. તારી જેવી ખુમારી બધામાં હોય તો દેશ કદી દુઃખી ન થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) શેઠે કાળુના સ્વમાનને શ્રમ સાથે જોડી દીધું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "'ભૂખથીય ભૂંડી ભીખ' પાઠમાં કઈ બોલીનો પ્રભાવ જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠમાં <strong>પાનમ (ઉત્તર ગુજરાત) પંથકની તળપદી બોલી</strong>નો પ્રભાવ જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) પન્નાલાલ પટેલ = તળપદી બોલીના સમર્થ સર્જક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "નીચેનામાંથી કઈ કૃતિ પન્નાલાલ પટેલની છે? (અ) મળેલા જીવ (બ) સરસ્વતીચંદ્ર (ક) સત્યના પ્રયોગો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (અ) મળેલા જીવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'મળેલા જીવ' અને 'માનવીની ભવાઈ' પન્નાલાલની માસ્ટરપીસ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કાળુના પાત્ર દ્વારા લેખકે શું સંદેશ આપ્યો છે? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાળુના પાત્ર દ્વારા લેખકે ભારતીય ખેડૂતની ખુમારી, અસ્મિતા અને સ્વમાનનો સંદેશ આપ્યો છે. ભલે ગમે તેવી કપરી પરિસ્થિતિ આવે, પણ માણસે પોતાનું નૈતિક મૂલ્ય અને ગૌરવ ગુમાવવું જોઈએ નહીં તેવું કાળુના વર્તન દ્વારા સમજાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ખેડૂત જગતનો તાત છે, યાચક નહીં.</p></div>"
+    }
+  ]
+}
