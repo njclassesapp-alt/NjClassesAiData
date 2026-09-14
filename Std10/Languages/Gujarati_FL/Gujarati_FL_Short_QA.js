@@ -1785,3 +1785,61 @@ var Std10_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"15": {
+  "chapterNumber": 15,
+  "chapterTitle": "તમારી નવાઈ ન લાગે (માધવજીના સવાલો)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'તમારી નવાઈ ન લાગે' કૃતિના સર્જક કોણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કૃતિના સર્જક અશોકપુરી ગોસ્વામી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અશોક' એટલે વિશાળ હૃદય ધરાવતા સર્જક, જેમણે પોતાની કલમથી 'નવાઈ' ઉપજાવી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'તમારી નવાઈ ન લાગે' કૃતિનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કૃતિનો સાહિત્ય પ્રકાર હાસ્ય નિબંધ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિબંધ' એટલે જેમાં લેખકે પોતાના વિચારો મુક્તપણે વ્યક્ત કર્યા હોય, અને અહીં એ હાસ્યના રૂપમાં છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "માધવજીના સવાલોમાં કયા વિષયનું નિરૂપણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કૃતિમાં બાળક અને વડીલ વચ્ચેના સંવાદો તથા બાળકના પ્રશ્નોની કુતૂહલવૃત્તિનું નિરૂપણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સવાલો' = બાળક, 'જવાબ' = સમજણ. બાળક હંમેશા સવાલ પૂછીને વડીલની પરીક્ષા લે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "લેખકે માધવજીના સવાલોને 'નવાઈ ન લાગે' એમ કેમ કહ્યા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કારણ કે બાળકના પ્રશ્નો એટલા નિર્દોષ અને અણધાર્યા હોય છે કે સાંભળનારને આશ્ચર્ય થાય પણ નવાઈ ન લાગે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકના મગજની 'ગલી'ઓ અનોખી હોય છે, એટલે તેમના સવાલો હંમેશા અનોખા જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કૃતિમાં માધવજી પાત્ર શું સૂચવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> માધવજી પાત્ર એ એક જીજ્ઞાસુ બાળકની માનસિકતાનું પ્રતિનિધિત્વ કરે છે જે દુનિયાને અલગ દ્રષ્ટિએ જુએ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'માધવ' એટલે પરમાત્માનું નામ, બાળકમાં પરમાત્માનું પ્રતિબિંબ હોય છે, જે દરેક વાતમાં સવાલ શોધે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ખાલી જગ્યા પૂરો: લેખક અશોકપુરી ગોસ્વામી મૂળ ________ ના વતની છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઉત્તર ગુજરાત (મહેસાણા).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અશોકપુરી = 'અ' પરથી ઉત્તર ગુજરાત યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "લેખકની લેખનશૈલીની મુખ્ય વિશેષતા શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હળવી શૈલીમાં ગંભીર વિષયો રજૂ કરવા અને હાસ્ય દ્વારા જીવનદર્શન કરાવવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હળવું ફૂલ' શૈલી પણ અર્થ 'ભારે' = શ્રેષ્ઠ લેખક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "બાળક જ્યારે પ્રશ્ન પૂછે ત્યારે વડીલોની શી સ્થિતિ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વડીલો ક્યારેક મૂંઝાઈ જાય છે તો ક્યારેક હસીને ટાળી દે છે, કારણ કે બાળકના તર્ક વિચિત્ર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મૂંઝવણ' = વડીલોની લાચારી, બાળકની અણધારી સવારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "આ પાઠમાં આવતા મુખ્ય પાત્રોના નામ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મુખ્યત્વે બાળક (માધવજી) અને તેના પ્રશ્નોના સાક્ષી બનતા વડીલ/લેખક.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: M.Q. (Master Questioner) એટલે માધવજી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સાહિત્યિક દ્રષ્ટિએ 'તમારી નવાઈ ન લાગે' કયા સંગ્રહમાંથી લેવામાં આવ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કૃતિ લેખકના જાણીતા હાસ્ય નિબંધ સંગ્રહમાંથી લેવામાં આવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ છુપાયેલું છે - નવાઈ લાગે તેવા સંગ્રહમાંથી!</p></div>"
+    }
+  ]
+}
