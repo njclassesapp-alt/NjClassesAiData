@@ -1843,3 +1843,136 @@ var Std10_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"16": {
+  "chapterNumber": 16,
+  "chapterTitle": "ગતિભંગ",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘ગતિભંગ’ લઘુકથાના લેખકનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘ગતિભંગ’ લઘુકથાના લેખક મોહનલાલ પટેલ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોહનલાલની ‘ગતિ’ હંમેશા યાદ રાખવી (મોહનલાલ પટેલ = ગતિભંગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘ગતિભંગ’ કૃતિનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘ગતિભંગ’ કૃતિનો સાહિત્ય પ્રકાર ‘લઘુકથા’ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાની વાર્તા પણ મોટી અસર = લઘુકથા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "‘ગતિભંગ’ લઘુકથા કયા પુસ્તકમાંથી લેવામાં આવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘ગતિભંગ’ લઘુકથા ‘વિક્રમાદિત્યની વ્યાધિ’ સંગ્રહમાંથી લેવામાં આવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ‘વિક્રમ’ ને ‘વ્યાધિ’ થઈ એટલે ‘ગતિ’ ઓછી થઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ડુંગર અને તેની પત્ની કયા સ્ટેશને જવા નીકળ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ડુંગર અને તેની પત્ની રાજપુર સ્ટેશને જવા નીકળ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજાના ‘રાજપુર’ જવા માટે ડુંગર ઉતરવો પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ડુંગરની પત્નીના પગલાની છાપમાં કોની યાદ દેખાતી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ડુંગરની પત્નીને ધૂળમાં પોતાની મૃત પુત્રી બબલીના પગલાની છાપ દેખાતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બબલીના ડગલા, માની આંખે વળગ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ડુંગર શા માટે પત્ની પર ગુસ્સે થતો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગાડી પકડવાની ઉતાવળ હોવા છતાં તેની પત્ની રસ્તામાં વારંવાર ઊભી રહી જતી હોવાથી ડુંગર ગુસ્સે થતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટ્રેન છૂટી જવાનો ડર = પતિનો ગુસ્સો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ખાલી જગ્યા પૂરો: ‘ગતિભંગ’ લઘુકથામાં માનવીની _________ વેદના વ્યક્ત થઈ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> માતૃત્વની (અથવા સંતાન વિયોગની).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માનું હૃદય હંમેશા સંતાન માટે ‘ગતિ’ રોકે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ડુંગરની પત્ની રસ્તામાં શું શોધી રહી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ડુંગરની પત્ની રસ્તામાં ધૂળમાં પોતાની દીકરીના પગલાની છાપ શોધી રહી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધૂળમાં યાદોની શોધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: ‘ધીમી ગતિએ ચાલવું તે’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મંથરગતિ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મંથર = ધીમું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ડુંગરની પત્ની કયા સમયે રસ્તે ચાલતા થંભી જતી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જ્યારે તે ધૂળમાં નાના બાળકના પગલાં જોતી ત્યારે તે થંભી જતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પગલું જોયું, ગતિ ખોઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "‘ગતિભંગ’ લઘુકથામાં કઈ ગાડી પકડવાની વાત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘ગતિભંગ’ લઘુકથામાં સાંજની ટ્રેન (ગાડી) પકડવાની વાત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાંજનો સમય + ગાડીની ઉતાવળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "નીચેનામાંથી કઈ કૃતિ મોહનલાલ પટેલની છે? (A) જન્મોત્સવ (B) ગતિભંગ (C) ભૂખથી ભૂંડી ભીખ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (B) ગતિભંગ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોહનલાલ = ગતિભંગ (NJ Classes યાદ રાખજો!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "બબલી કોણ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બબલી ડુંગર અને તેની પત્નીની મૃત દીકરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગતિભંગનું મુખ્ય પાત્ર (સ્મૃતિ રૂપે) બબલી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "લેખક મોહનલાલ પટેલનું વતન કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક મોહનલાલ પટેલનું વતન પાટણ જિલ્લાનું ધારપુર ગામ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોહનલાલ પાટણના પટોળા જેવા કિંમતી લેખક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પત્નીના હૃદયમાં શું જોઈને ધ્રાસકો પડ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધૂળમાં દીકરીના પગલા જેવી જ છાપ જોઈને પત્નીના હૃદયમાં ધ્રાસકો પડ્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છાપ જોતા જ યાદ તાજી થઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ડુંગરની પત્ની રસ્તામાં કેમ બેસી ગઈ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પોતાની મૃત દીકરીના પગલાની છાપ ધૂળમાં શોધીને તેને નિહાળવા માટે તે રસ્તામાં બેસી ગઈ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મમતાની બેઠક, ગતિનો અંત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "‘ગતિભંગ’ વાર્તાનો અંત કેવો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વાર્તાનો અંત ચોટદાર અને કરુણ છે, જ્યાં માતાની સ્મૃતિમાં ડુંગર પોતે પણ પીગળી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લઘુકથાનો અંત હંમેશા ‘ચોટદાર’ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિરોધી શબ્દ લખો: ‘સ્મૃતિ’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિસ્મૃતિ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્મૃતિ (યાદ) X વિસ્મૃતિ (ભૂલી જવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ડુંગરે પત્નીને શું કહીને ઠપકો આપ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ડુંગરે કહ્યું, “હવે રસ્તામાં શું ખોળ્યા કરે છે? ઝટ ચાલ, ગાડી છૂટી જશે.”</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડુંગરનો ડર = ગાડી મિસ થવાનો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સાચી જોડણી લખો: ‘વિક્રમાદિત્ય’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિક્રમાદિત્ય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ‘વિ’ અને ‘દિ’ હ્રસ્વ આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21 (2 ગુણ)",
+      "question": "ડુંગરની પત્નીની ગતિ કેમ મંદ પડી ગઈ? (બે-ત્રણ વાક્યમાં ઉત્તર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ડુંગરની પત્ની રાજપુર સ્ટેશન જવા નીકળી હતી, પરંતુ માર્ગમાં ધૂળમાં તેને નાના બાળકના પગલાંની છાપ દેખાય છે. તેને પોતાની મૃત દીકરી બબલીના ડગલાં યાદ આવી જાય છે. પુત્રીના વિયોગની વેદના અને મમતાને કારણે તે સ્તબ્ધ થઈ જાય છે અને તેની ચાલવાની ગતિ મંદ પડી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પગલાંની છાપ = પુત્રીની યાદ = ગતિ મંદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22 (2 ગુણ)",
+      "question": "‘ગતિભંગ’ લઘુકથાના શીર્ષકની યથાર્થતા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘ગતિભંગ’ એટલે ચાલવાની ક્રિયામાં અવરોધ આવવો. વાર્તામાં પાત્રો શારીરિક રીતે ઝડપથી ટ્રેન પકડવા જાય છે, પરંતુ રસ્તામાં દીકરીની યાદ આવતા માનસિક અને શારીરિક ગતિ થંભી જાય છે. બાહ્ય ગતિ (ચાલવું) અને આંતરિક ગતિ (વિચારો) બંનેનો જે ભંગ થાય છે, તે આ શીર્ષક દ્વારા સચોટ રીતે વ્યક્ત થયો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાહ્ય ગતિ અને આંતરિક સ્મૃતિનો સંઘર્ષ એટલે ગતિભંગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23 (2 ગુણ)",
+      "question": "ડુંગરની પત્નીને બબલીના પગલાં ક્યાં દેખાયા? તેણે શું કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ડુંગરની પત્નીને રાજપુર જવાના ધૂળિયા માર્ગ પર નાના બાળકના પગલાંની છાપ દેખાય છે. તે છાપ જોઈને તે થંભી ગઈ અને નીચે નમીને તેને નીરખવા લાગી. તેને ખાતરી થઈ ગઈ કે આ એની બબલીના જ પગલાં છે, અને તે સ્મૃતિમાં ખોવાઈ ગઈ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધૂળિયો માર્ગ + મમતાની આંખ = બબલીના પગલાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24 (2 ગુણ)",
+      "question": "અંતે ડુંગરની મનોદશા કેવી થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શરૂઆતમાં ડુંગર ગાડી પકડવાની ઉતાવળમાં પત્ની પર ગુસ્સે થતો હતો, પણ જ્યારે તેને ખબર પડે છે કે પત્ની બબલીના પગલાં શોધી રહી છે, ત્યારે તેનું હૃદય પણ પીગળી જાય છે. તે પણ પત્નીની પાસે બેસી જાય છે અને તેની આંખમાં પણ દીકરી પ્રત્યેનો પ્રેમ અને કરુણા દેખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કઠોર ડુંગર પણ મમતા સામે પીગળી ગયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25 (2 ગુણ)",
+      "question": "લઘુકથાના અંતે લેખકે કયો ભાવ વ્યક્ત કર્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખકે અંતે પિતૃત્વ અને માતૃત્વની સંયુક્ત વેદના વ્યક્ત કરી છે. ડુંગર જે પત્નીને ઉતાવળ કરવા કહેતો હતો, તે પોતે જ પત્નીની વાત સાંભળીને સ્તબ્ધ થઈ જાય છે. આમ, વાર્તામાં સંતાન વિયોગનું કરુણ ચિત્ર અંકિત થયું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગતિભંગ = હૃદયભંગની પરાકાષ્ઠા.</p></div>"
+    }
+  ]
+}
