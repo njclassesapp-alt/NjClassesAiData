@@ -1976,3 +1976,136 @@ var Std10_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"17": {
+  "chapterNumber": 17,
+  "chapterTitle": "દિવસો જુદાઈના જાય છે",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘દિવસો જુદાઈના જાય છે’ કૃતિના કર્તાનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગની દહીં (અબ્દુલગની અબ્દુલકરીમ દહીં)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જુદાઈમાં 'ગની' (ઘણી) પીડા થાય - એટલે ગની દહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘દિવસો જુદાઈના જાય છે’ કાવ્યનો સાહિત્ય પ્રકાર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગઝલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગની દહીં મોટા ગઝલકાર છે, એટલે કૃતિનો પ્રકાર 'ગઝલ' જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગની દહીંનું વતન કયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સુરત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સુરતનું 'જમણ' અને 'દહીં' બંને વખણાય, એટલે ગની દહીં સુરતના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "‘દિવસો જુદાઈના જાય છે’ ગઝલ કયા સંગ્રહમાંથી લેવામાં આવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘ગની-માત’ માંથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગનીના નામ પરથી જ સંગ્રહનું નામ 'ગની-માત'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ખાલી જગ્યા પૂરો: ‘ધરા સુધી નહિ, પણ છેક _________ સુધી જવાના છીએ.’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગગન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ધરા (નીચે) થી ગગન (ઉપર) - આ આખી સફરની વાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કવિના મતે મિલનની રાત ક્યારે આથમશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિના મતે મિલનની રાત ક્યારેય આથમશે નહીં (અર્થાત્ સદાકાળ રહેશે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રેમીઓ ઈચ્છે કે મિલન ક્યારેય પૂરું ન થાય, એટલે 'કદી ન આથમે'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "નીચેનામાંથી કયો કાવ્યસંગ્રહ ગની દહીંનો નથી? (ગુંજન, મહેક, ગની-માત, મધુશાલા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મધુશાલા (તે હરિવંશરાય બચ્ચનની કૃતિ છે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગની દહીંના ત્રણ મુખ્ય સંગ્રહ: 'ગની-માત', 'મહેક' અને 'ગુંજન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કવિ કયા સ્મિતની વાત કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ વિયોગના સમયે પણ હૃદયમાં જાળવી રાખેલા 'મીઠાં સ્મિત' ની વાત કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિયોગમાં રડવાનું હોય, પણ ગની દહીં સ્મિતની વાત કરી અનોખી આશા જન્માવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "‘નસીબ’ વિશે કવિ ગઝલમાં શું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જો આપણું નસીબ આપણને સાથ નહીં આપે, તો આપણે નસીબ સામે પણ લડી લઈશું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નસીબ = હાથની રેખાઓ. જો રેખાઓ સાથ ન દે તો નસીબ સામે બાથ ભીડવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ગની દહીંએ કઈ નાટ્યસંસ્થાની સ્થાપના કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘સુરતી કલાકાર મંડળ’</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સુરતના વતની હતા, એટલે સંસ્થાના નામમાં 'સુરતી' આવે જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કવિ કયા સ્થળના ત્યાગની વાત કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ વતનના ત્યાગની (રાજલ-ઓ-વતનની) વાત કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વતન છોડીને જવાની વેદના ગઝલનો મુખ્ય વળાંક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: ‘આકાશમાં ફરનાર’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગગનવિહારી / ખેચર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગગન + વિહાર (ફરવું) = ગગનવિહારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સમાનાર્થી શબ્દ આપો: ‘ગુલશન’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બગીચો, ઉદ્યાન, વાટિકા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુલ (ફૂલ) જ્યાં હોય તે ગુલશન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિરુદ્ધાર્થી શબ્દ લખો: ‘જુદાઈ’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મિલન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અલગ થવું એટલે જુદાઈ, મળવું એટલે મિલન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કાવ્યપંક્તિ પૂર્ણ કરો: ‘જઈને પૂછો પેલા...’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘જઈને પૂછો પેલા ગુલશનને, જેના દિવસો ગયા છે ખાન-ખરાબીમાં.’</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખરાબ દિવસોની વાત આવે ત્યારે 'ગુલશન' (બગીચો) યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કવિ મરણ વિશે શું વિચારે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ માને છે કે જો મરણ આવશે તો તે મિલનનું કારણ બનશે અને પ્રભુ પાસે જઈ શકાશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મરણ = મિલનની ટિકિટ (પ્રભુ સાથે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "‘શમી જશે’ નો અર્થ કાવ્યના સંદર્ભમાં શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શાંત થઈ જશે અથવા લુપ્ત થઈ જશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દીવો 'શમે' ત્યારે પ્રકાશ જતો રહે અને શાંતિ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ગઝલના છેલ્લા શેરને શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મકતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મ-કતા (મ એટલે મેઈન એન્ડ - છેલ્લું), જ્યારે પહેલા શેરને 'મતલા' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ગની દહીંની ગઝલોમાં કયો મુખ્ય ભાવ જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પ્રેમ, વિરહ અને માનવીય સંવેદનાનો ભાવ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જુદાઈ છે એટલે 'વિરહ' મુખ્ય હોય જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કાવ્ય મુજબ કવિને કોની સામે લડવું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિને પોતાના પ્રતિકૂળ નસીબ અથવા વિધિના લેખ સામે લડવું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મનુષ્ય પ્રયત્ન vs નસીબ - અહીં કવિ નસીબને પડકારે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21 (2 ગુણ)",
+      "question": "‘કફન’ અને ‘મજાર’ દ્વારા કવિ શું સમજાવવા માંગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ કહે છે કે જ્યારે વ્યક્તિ જીવિત હોય છે ત્યારે દુનિયા તેને એક વસ્ત્ર પણ નથી આપતી, પરંતુ મૃત્યુ પછી તેને કફન ઓઢાડવામાં આવે છે અને ભવ્ય મજાર (કબર) ચણવામાં આવે છે. આ દ્વારા કવિ દુનિયાની વિચિત્રતા અને માણસના મૃત્યુ પછી થતી તેની ખોટી કદર પર કટાક્ષ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જીવતે 'જીવ' વસ્ત્ર નહીં, મુઆ પછી 'કફન' - આ દુનિયાની રીત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22 (2 ગુણ)",
+      "question": "‘દિવસો જુદાઈના જાય છે’ ગઝલમાં જોવા મળતી કવિની આશાવાદી દૃષ્ટિ સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ જુદાઈના દિવસોમાં હતાશ થવાને બદલે શ્રદ્ધા રાખે છે કે આ દિવસો પૂરા થશે અને મિલનની રાત આવશે. તેઓ માને છે કે જો ઈશ્વર સુધી જવું હશે તો પૃથ્વી તો શું, ગગન પણ ટૂંકું પડશે. આ આશાવાદ ગઝલને ઉમદા બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જુદાઈ = અંધકાર, આશા = પ્રકાશ. ગની દહીં અંધકારમાં પણ મિલનનો દીવો જુએ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23 (2 ગુણ)",
+      "question": "કવિ કેવા પ્રકારની સફરની વાત કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ એવી સફરની વાત કરે છે જે માત્ર પૃથ્વીના એક ખૂણેથી બીજા ખૂણે નથી, પરંતુ ધરાથી લઈને છેક ગગન સુધીની છે. આ સફર આધ્યાત્મિક છે, જેમાં આત્મા પરમાત્માને મળવા જાય છે અને રસ્તામાં કોઈ અવરોધ તેમને રોકી શકશે નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સફર = ધરા થી ગગન (નીચેથી છેક ઉપર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24 (2 ગુણ)",
+      "question": "ખાન-ખરાબી અને ગુલશનના ઉદાહરણ દ્વારા કવિ શું સમજાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ કહે છે કે જે બગીચાએ (ગુલશન) ખરાબ દિવસો જોયા હોય તેને જ ખબર હોય કે વસંત શું છે. તેવી જ રીતે જે માણસે જીવનમાં દુઃખ અને જુદાઈ સહન કરી હોય, તેને જ મિલન અને સુખની સાચી કિંમત સમજાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાનખર જોયા વગર વસંતની કિંમત સમજાતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25 (2 ગુણ)",
+      "question": "‘રાત આથમે’ પંક્તિ દ્વારા કવિ શું સૂચવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ કહે છે કે ‘તમારા મિલનની રાત કદી ન આથમે’. અહીં રાત આથમવી એટલે મિલનનો અંત આવવો. કવિ ઈચ્છે છે કે પ્રિયપાત્ર સાથેનું મિલન કાયમી હોય, તેમાં ક્યારેય વિરહનો સૂરજ ન ઊગે અને આ મિલન અનંતકાળ સુધી ચાલતું રહે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મિલનની રાત = સુખનો સમય. સુખ ક્યારેય પૂરું ન થાય એવી કવિની ઈચ્છા છે.</p></div>"
+    }
+  ]
+}
