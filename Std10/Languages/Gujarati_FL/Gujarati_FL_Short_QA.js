@@ -2433,3 +2433,136 @@ var Std10_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"21": {
+  "chapterNumber": 21,
+  "chapterTitle": "ચાંદલિયો",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'ચાંદલિયો' કૃતિનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'ચાંદલિયો' કૃતિનો સાહિત્ય પ્રકાર <strong>લોકગીત</strong> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ચાંદલિયો' એટલે કે ચંદ્ર, જે લોકોના હૃદયમાં વસે છે, એટલે 'લોકગીત'. લોકગીતના કોઈ ચોક્કસ લેખક હોતા નથી, તે લોકો દ્વારા રચાયેલું હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'ચાંદલિયો' લોકગીતના કવિનું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લોકગીતના કોઈ વ્યક્તિગત રચયિતા હોતા નથી; તે સમૂહ દ્વારા રચાય છે. તેથી આમાં કોઈ <strong>ચોક્કસ કવિ નથી</strong>.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યાદ રાખો, 'લોકગીત' એટલે લોકોનું ગીત. પરીક્ષામાં 'અજ્ઞાત' અથવા 'લોકસમૂહ' લખી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "'ચાંદલિયો' લોકગીત કયા સંગ્રહમાંથી લેવામાં આવ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'ચાંદલિયો' લોકગીત ઝવેરચંદ મેઘાણી સંપાદિત <strong>'રઢિયાળી રાત'</strong> સંગ્રહમાંથી લેવામાં આવ્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રાતે 'ચાંદલિયો' ઊગે અને રાત 'રઢિયાળી' લાગે! એટલે ચાંદલિયો = રઢિયાળી રાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "આ ગીતમાં કયા સમયના ઉમંગનું વર્ણન છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ ગીતમાં <strong>શરદ પૂનમની</strong> રાતે ગરબે રમતી યુવતીના હૃદયના ઉમંગનું વર્ણન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ચાંદલિયો' સૌથી સુંદર ક્યારે હોય? - શરદ પૂનમે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કાવ્યનાયિકાએ સસરાની સરખામણી કોની સાથે કરી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાવ્યનાયિકાએ સસરાને <strong>વાડીના ઝાડ</strong> સાથે સરખાવ્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સસરા ઘરના મુખ્ય સ્તંભ જેવા હોય, જેમ વાડીમાં મજબૂત 'ઝાડ' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "નાયિકા સાસુ માટે કયું વિશેષણ વાપરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સાસુ માટે <strong>'વાડીની વેલી'</strong> વિશેષણ વપરાયું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સસરા 'ઝાડ' તો સાસુ તેની આસપાસ વીંટળાયેલી 'વેલ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જેઠની સરખામણી કોની સાથે કરવામાં આવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જેઠની સરખામણી <strong>અષાઢી મેઘ</strong> (વરસાદી વાદળ) સાથે કરવામાં આવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેઠ 'ગંભીર' હોય જેમ ગર્જતા 'અષાઢી મેઘ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જેઠાણી માટે લોકગીતમાં કયું રૂપક વપરાયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જેઠાણી માટે <strong>'ઝબૂકે તેટલી વીજળી'</strong> (અષાઢી મેઘમાં થતી વીજળી) નું રૂપક વપરાયું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વાદળ (જેઠ) હોય તો વીજળી (જેઠાણી) તો હોવાની જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "દિયર અને દેરાણી માટે કયાં પુષ્પોના સંદર્ભ વપરાયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દિયર માટે <strong>ચંપાનો છોડ</strong> અને દેરાણી માટે <strong>ચંપેલીના પાન</strong> નો સંદર્ભ વપરાયો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દિયર-દેરાણી ઘરના ફૂલો જેવા કોમળ છે. દિયર = ચંપો, દેરાણી = પાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "નણંદ અને નણદોઈ માટે ગીતમાં શું કહેવાયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નણંદને <strong>વાડીની વેલ</strong> અને નણદોઈને <strong>વાડીનો મોરલો</strong> કહ્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નણંદ 'વેલ' જેવી લાડકી અને પાવણી, તેનો વર (નણદોઈ) 'મોર' જેવો રૂપાડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "નાયિકાએ પોતાના પતિ માટે કયું ઉપમાન આપ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નાયિકાએ પતિને <strong>'સગી સીસમનો ખૂંટલો'</strong> કહ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સીસમનું લાકડું મજબૂત હોય, પતિ પત્ની માટે મજબૂત આધાર એટલે 'ખૂંટલો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ખાલી જગ્યા પૂરો: 'આસો માસો _____ પૂનમની રાત રે...'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <strong>શરદ</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આસો મહિનામાં નવરાત્રિ પછી 'શરદ' પૂનમ જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "નાયિકાના પતિના માથા પર શું શોભી રહ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નાયિકાના પતિના માથા પર <strong>નવરંગ પાઘડી</strong> શોભી રહી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પતિ 'સવા લાખનો' અને પાઘડી 'નવરંગ'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ચોકમાં શું ઊગ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ચોકમાં <strong>ચાંદલિયો</strong> ઊગ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ ગીતનું શીર્ષક જ એનો જવાબ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "શબ્દ સમજૂતી: 'ખૂંટલો' શબ્દનો અર્થ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ખૂંટલો એટલે <strong>બળદ અથવા ટેકો (થાંભલો)</strong>. અહીં નાયિકાના પતિ માટે સામર્થ્યના અર્થમાં વપરાયો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ખૂંટલો' એટલે મજબૂત પાયો કે આધાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "'નવરંગ પાઘડી' માં કયો સમાસ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <strong>બહુવ્રીહિ</strong> અથવા <strong>કર્મધારય</strong> (નવ રંગની પાઘડી - વિશેષણ-વિશેષ્યનો સંબંધ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'નવરંગ' વિશેષણ છે, જે પાઘડીની વિશેષતા બતાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "નીચેનામાંથી કઈ જોડ સાચી છે? (અ) જેઠ - વીજળી (બ) સાસુ - વેલી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સાચો જવાબ <strong>(બ) સાસુ - વેલી</strong> છે. (જેઠ સાથે અષાઢી મેઘ આવે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યાદ રાખવા માટે: સાસુ-સસરા = વેલી-ઝાડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "શબ્દ સમૂહ માટે એક શબ્દ: આસો મહિનાની શુક્લ પક્ષની પંદરમી તિથિ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <strong>શરદ પૂનમ</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આસો + પૂનમ = શરદ પૂનમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિરોધી શબ્દ આપો: 'સાસરિયું' × ______",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <strong>પિયર</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દીકરીના બે ઘર: પિયર અને સાસરિયું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "'ચાંદલિયો' લોકગીતમાં નાયિકાની કેવી મનોદશા પ્રગટ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નાયિકાની <strong>સુખદ, આનંદિત અને સંતુષ્ટ</strong> મનોદશા પ્રગટ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આખું સાસરિયું 'બાગ' જેવું લાગે તો નાયિકા 'ખુશ' જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21 (2 ગુણ)",
+      "question": "કાવ્યનાયિકાએ સાસરિયાના કયા કયા પાત્રોનો ઉલ્લેખ કર્યો છે અને તેમને કોની સાથે સરખાવ્યા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાવ્યનાયિકાએ સાસરિયાના નીચેના પાત્રોનો ઉલ્લેખ કર્યો છે:<br>૧. સસરાને 'વાડીના ઝાડ' સાથે.<br>૨. સાસુને 'વાડીની વેલી' સાથે.<br>૩. જેઠને 'અષાઢી મેઘ' અને જેઠાણીને 'ઝબૂકતી વીજળી' સાથે.<br>૪. દિયરને 'ચંપાના છોડ' અને દેરાણીને 'ચંપેલીના પાંદ' સાથે.<br>૫. નણંદને 'વાડીની વેલ' અને નણદોઈને 'વાડીના મોરલા' સાથે.<br>૬. પતિને 'સગી સીસમનો ખૂંટલો' કહ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ફેમિલી ટ્રી' યાદ રાખો! દરેકને પ્રકૃતિના તત્વો (ઝાડ, વેલ, વાદળ, ફૂલ) સાથે સરખાવ્યા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22 (2 ગુણ)",
+      "question": "નાયિકા જેઠ અને જેઠાણી વિશે શું કહે છે? શા માટે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નાયિકા જેઠને 'અષાઢી મેઘ' અને જેઠાણીને 'ઝબૂકતી વીજળી' કહે છે. આ દ્વારા નાયિકા જેઠના ગંભીર વ્યક્તિત્વ અને જેઠાણીના ચંચળ તેમજ તેજસ્વી સ્વભાવનું વર્ણન કરે છે. અષાઢ મહિનાના વાદળ જેમ ગંભીર અને વીજળી જેમ ક્ષણિક તેજ આપે તેમ આ બંને ઘરના મહત્વના અંગ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મેઘ (જેઠ) ગર્જે અને વીજળી (જેઠાણી) ચમકે - આ આસમાની જોડી છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23 (2 ગુણ)",
+      "question": "નાયિકાના તેના પતિ પ્રત્યેના ભાવ 'ચાંદલિયો' લોકગીતને આધારે સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નાયિકા પોતાના પતિને 'સગી સીસમનો ખૂંટલો' કહીને તેનું ગૌરવ કરે છે. તેની નવરંગ પાઘડી અને તેના પ્રભાવશાળી વ્યક્તિત્વથી નાયિકા અભિભૂત છે. પતિ તેના માટે માત્ર જીવનસાથી નથી પણ સમગ્ર સંસારનો મજબૂત આધાર છે. નાયિકાને તેના પતિ પર અત્યંત માન અને પ્રેમ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પતિ = શક્તિ + સુંદરતા (સીસમનો ખૂંટલો + નવરંગ પાઘડી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24 (2 ગુણ)",
+      "question": "'ચાંદલિયો' લોકગીતના આધારે આદર્શ ભારતીય કુટુંબ ભાવના સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ લોકગીતમાં નાયિકા સાસરિયાના દરેક સભ્યને પ્રકૃતિના સુંદર તત્વો સાથે સરખાવે છે. આ સૂચવે છે કે સાસરીમાં તે ખૂબ સુખી છે. તે સાસુ-સસરા, જેઠ-જેઠાણી અને દિયર-દેરાણી સૌને માન અને વહાલથી જુએ છે. આ ગીત સંયુક્ત પરિવારના પ્રેમ અને સુમેળભર્યા વાતાવરણની સુંદર રજૂઆત કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાસરિયું નહીં, પણ એક 'સુંદર બગીચો' - આ જ ભારતીય સંસ્કાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જોડણી સુધારો: 'શરદ પૂનમ' અને 'જેઠાંણી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સાચી જોડણી: <strong>શરદ પૂનમ</strong> (પૂ માં દીર્ઘ ઊ) અને <strong>જેઠાણી</strong> (ણી દીર્ઘ, ઉપર અનુસ્વાર નહીં).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્ત્રીલિંગ પ્રત્યય 'આણી' માં હંમેશા 'ણી' દીર્ઘ જ આવે.</p></div>"
+    }
+  ]
+}
