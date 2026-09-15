@@ -2242,3 +2242,136 @@ var Std10_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"19": {
+  "chapterNumber": 19,
+  "chapterTitle": "એક બપોરે",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘એક બપોરે’ કાવ્યના કવિનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘એક બપોરે’ કાવ્યના કવિ રાવજી પટેલ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાવજીભાઈ ‘બપોરે’ ખેતરમાં ગયા - રાવજી (કવિ) + બપોરે (શીર્ષક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘એક બપોરે’ કાવ્યનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યનો સાહિત્ય પ્રકાર ‘ઉર્મિકાવ્ય’ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બપોરની ગરમીમાં ‘ઉર્મિઓ’ જાગી - ઉર્મિકાવ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "‘એક બપોરે’ કાવ્ય કયા સંગ્રહમાંથી લેવામાં આવ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્ય રાવજી પટેલના કાવ્યસંગ્રહ ‘અંગત’ માંથી લેવામાં આવ્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિની પોતાની ‘અંગત’ વેદના છે એટલે ‘અંગત’ સંગ્રહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કવિ છાશની ગોળીમાં શું નાખવાની ના પાડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ છાશની ગોળીમાં ‘રવો’ (છાશ ફેરવવાનું સાધન) નાખવાની ના પાડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ના ખાવો રવો, ના નાખવો રવો - રવો (છાશ માટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કવિએ કયા પક્ષીને ઉડી જતું જોયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિએ ખેતરની હાર (પાળ) પરથી ‘સારસી’ ને ઉડી જતી જોઈ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતરની હાર - ઉડી ગઈ સારસી ધારદાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કવિ બળદને ક્યાં જોતવાની ના પાડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ બળદને હળ સાથે જોતવાની ના પાડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બળદ + હળ = ખેતી બંધ (મૃત્યુની નજીક હોવાથી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ખાલી જગ્યા પૂરો: ‘મારા ખેતરની પાળેથી ઉડી ગઈ ______.’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સારસી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાળેથી - સારસી (યાદ રાખવા માટે પ્રાસ મેળવો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કવિ કોની નીચે બેસીને આરામ કરવા માંગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ મહુડાના ઝાડ નીચે બેસીને આરામ કરવા માંગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મન શાંત કરવા ‘મ’ પરથી ‘મહુડો’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "રાવજી પટેલ કયા યુગના કવિ ગણાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રાવજી પટેલ અનુ-ગાંધીયુગના (આધુનિક) મહત્વના કવિ ગણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાવજી = આધુનિક ઉર્મિના કવિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કવિ ભાતું ખાવાની ના કેમ પાડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિને જીવનનો રસ ઉડી ગયો છે અને મૃત્યુની ગંધ આવી રહી છે, તેથી તેમને ભાતું (ભોજન) ભાવતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસ ગયો, ભાતું પણ ગયું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "‘એક બપોરે’ કાવ્યમાં કઈ ઋતુનો સંકેત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાવ્યમાં ગ્રીષ્મ (ઉનાળો) ઋતુના બપોરનો ઉલ્લેખ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બપોરે તડકો = ઉનાળો (ગ્રીષ્મ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કવિ કયાં સુધી મહુડા નીચે પડી રહેવા માંગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જ્યાં સુધી સૂરજ ડૂબી ન જાય (સાંજ ન પડે) ત્યાં સુધી કવિ મહુડા નીચે પડી રહેવા માંગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂરજ ડૂબે = જીવનનો અંત (સાંજ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "‘સારસી’ શબ્દ અહીં કોનું પ્રતીક છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સારસી અહીં ‘જીવન’ અથવા ‘આત્મા’ અથવા કવિની ‘સર્જક ચેતના’ નું પ્રતીક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સારસી ઉડી = જીવ ઉડ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કવિએ ધુમાડાને કેવો કહ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિએ ધુમાડાને ‘ઘેરો’ (ગૂંગળાવનારો) કહ્યો છે જે એમના ગળાને વળગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધુમાડો = મૃત્યુની ગૂંગળામણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "‘ઢોચકી’ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘ઢોચકી’ એટલે માટીનું વાસણ (દોણી), જેમાં છાશ રાખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઢોચકી = માટીની નાની માટલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કવિ રાવજી પટેલની કઈ નવલકથા જાણીતી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રાવજી પટેલની ‘અશ્રુઘર’ અને ‘ઝંઝા’ જેવી નવલકથાઓ જાણીતી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અશ્રુ (આંસુ) + ઝંઝા (તોફાન) = રાવજીની સંવેદના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "‘આખુંય આભ રેલાતું’ પંક્તિનો અર્થ સમજાવો. (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિને ક્ષય (TB) ના રોગને કારણે મૃત્યુ દેખાઈ રહ્યું છે. સારસી ઉડી જવાથી કવિને હવે જીવનમાં કોઈ જ રસ રહ્યો નથી. આથી આખું આકાશ (આભ) જાણે એમના પર રેલાઈ રહ્યું હોય તેવી શૂન્યતા અને વિષાદનો અનુભવ તેમને થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આભ રેલાવું = દુઃખ અને શૂન્યતા વ્યાપી જવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કવિ છાશ પીવાની અને રોટલો ખાવાની કેમ ના પાડે છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ રાવજી પટેલને મૃત્યુનો આભાસ થઈ રહ્યો છે. જ્યારે માણસ મૃત્યુની નજીક હોય ત્યારે તેને સંસારના પદાર્થોમાં કે ખોરાકમાં રસ રહેતો નથી. સારસી (પ્રાણ) ઉડી જવાની તૈયારીમાં છે, માટે તેમને છાશ અને રોટલા જેવા પૌષ્ટિક ભોજનમાં હવે કોઈ રુચિ રહી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવનનો અંત = સ્વાદનો અંત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "‘એક બપોરે’ કાવ્યમાં ‘બપોર’ શાનું પ્રતીક છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સામાન્ય રીતે બપોર એ કાર્યશીલતાનું પ્રતીક છે, પણ આ કાવ્યમાં બપોર એ ‘જીવનના મધ્યાહ્ન’ (અંતિમ સમય) નું પ્રતીક છે. કવિ નાની ઉંમરે ગંભીર બીમારીનો ભોગ બન્યા હતા, તેથી ભરબપોરે એટલે કે ભરયુવાનીમાં તેમને મૃત્યુનો આભાસ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બપોર = જીવનની અધવચ્ચે આવતું મૃત્યુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કવિ કેમ બળદને હળે જોતવાની મનાઈ કરે છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ ખેડૂત પુત્ર છે. હળ જોતવું એ જીવંત હોવાની અને કર્મ કરવાની નિશાની છે. પણ હવે કવિને મૃત્યુ નજરે દેખાય છે, એટલે જીવનના કાર્યો સમેટી લેવા માંગે છે. હવે કોઈ પણ પ્રકારની ખેતી કે મહેનત કરવાની તેમની શક્તિ કે ઈચ્છા રહી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હળ બંધ = કર્મ બંધ = જીવન બંધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સાચું જોડકું જોડો: (૧) એક બપોરે (૨) અંગત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (૧) એક બપોરે - કૃતિ, (૨) અંગત - કાવ્યસંગ્રહ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુસ્તક મોટું (સંગ્રહ), કાવ્ય નાનું (કૃતિ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "કવિના ગળે શું વળગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિના ગળે ઘેરો ધુમાડો વળગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધુમાડો ગળે વળગવો = શ્વાસ રુંધાવો (મૃત્યુની વેદના).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "શુદ્ધ જોડણી લખો: ‘સારસી’, ‘મહુડો’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (૧) સારસી (૨) મહુડો (બંને સાચી જ છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ‘સી’ દીર્ઘ અને ‘હુ’ હ્રસ્વ યાદ રાખવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "‘એક બપોરે’ કાવ્યમાં કવિની કઈ મનઃસ્થિતિ અનુભવાય છે? (1 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાવ્યમાં કવિની ‘મૃત્યુાભિમુખ’ (મૃત્યુ તરફની) અને ‘વિષાદમય’ મનઃસ્થિતિ અનુભવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાવજી = દર્દ અને વિષાદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કાવ્યના અંતે કવિ કઈ ઈચ્છા વ્યક્ત કરે છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાવ્યના અંતે કવિ ઈચ્છે છે કે હવે તેમને કોઈ ખલેલ ન પહોંચાડે. તેઓ મહુડાના ઝાડની છાયામાં શાંતિથી પડ્યા રહેવા માંગે છે. જ્યાં સુધી જીવનનો સૂરજ આથમી ન જાય ત્યાં સુધી તેઓ આ નીરવ શાંતિમાં રહેવા માંગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લી ઈચ્છા = શાંતિ અને મહુડો.</p></div>"
+    }
+  ]
+}
