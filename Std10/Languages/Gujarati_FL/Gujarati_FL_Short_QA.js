@@ -2375,3 +2375,61 @@ var Std10_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"20": {
+  "chapterNumber": 20,
+  "chapterTitle": "વિરમવું",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘વિરમવું’ પાઠના લેખક કોણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'વિરમવું' પાઠના લેખક સ્વામી આનંદ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આનંદ' લેવા માટે હંમેશા 'વિરમવું' (થોભવું) જરૂરી છે, તેથી સ્વામી આનંદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘વિરમવું’ પાઠનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'વિરમવું' પાઠનો સાહિત્ય પ્રકાર 'લલિત નિબંધ' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલિમા ધરાવતા નિબંધમાં જ 'વિરમી' શકાય, એટલે લલિત નિબંધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સ્વામી આનંદનું મૂળ નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્વામી આનંદનું મૂળ નામ હિંમતલાલ રામચંદ્ર દવે હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિંમત રાખીને આનંદ મેળવો – હિંમતલાલ = આનંદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "‘વિરમવું’ પાઠ કયા પુસ્તકમાંથી લેવામાં આવ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠ 'બૌદ્ધિકોની દુનિયા' પુસ્તકમાંથી લેવામાં આવ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બૌદ્ધિકો પણ વિરમીને જ વિચારે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "માણસના જીવનમાં ‘વિરમાવું’ શા માટે જરૂરી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સતત દોડધામભર્યા જીવનમાં મનની શાંતિ જાળવવા અને આત્મનિરીક્ષણ કરવા માટે વિરમાવું જરૂરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અટકશો તો જ ચિંતન કરી શકશો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "લેખકે પ્રકૃતિના કયા તત્ત્વ સાથે તાદાત્મ્ય સાધવાની વાત કરી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખકે વન, નદી અને પહાડો જેવા પ્રકૃતિના તત્ત્વો સાથે તાદાત્મ્ય સાધવાની વાત કરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વન-નદી-પહાડ = પ્રકૃતિનો ત્રિવેણી સંગમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ખાલી જગ્યા પૂરો: સ્વામી આનંદ ____ સાહિત્યકાર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્વામી આનંદ 'ગાંધીવાદી' સાહિત્યકાર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજીની સત્યની વાતો એટલે જ સ્વામી આનંદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "લેખકના મતે માનવજીવનની સાચી ગતિ કઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખકના મતે સતત દોડવા કરતા ક્યારેક ઠરીઠામ થઈને (વિરમીને) આંતરિક શાંતિ અનુભવવી તે જ સાચી ગતિ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દોડવું = ગતિ, અટકવું = પ્રગતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "‘વિરમવું’ શબ્દનો અર્થ શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિરમવું એટલે થોભવું, અટકવું કે આરામ કરવો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વિરામ' એટલે આરામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "આધુનિક માનવીની સૌથી મોટી સમસ્યા લેખક કઈ માને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આધુનિક માનવીની સૌથી મોટી સમસ્યા તેની સતત દોડધામ અને શાંતિનો અભાવ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દોડધામ = ટેન્શન, વિરરામ = ટેન્શન-ફ્રી.</p></div>"
+    }
+  ]
+}
