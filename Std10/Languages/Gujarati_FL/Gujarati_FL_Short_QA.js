@@ -2699,3 +2699,136 @@ var Std10_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"23": {
+  "chapterNumber": 23,
+  "chapterTitle": "લઘુકાવ્યો (દુહા-મુક્તક-હાઈકુ)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કૃતિ: 'લઘુકાવ્યો' માં સમાવિષ્ટ 'મુક્તક' ના કવિનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રઈશ મણીયાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રઈશ' (શ્રીમંત) માણસ હંમેશા 'મુક્ત' મને દાન આપે - રઈશ મણીયાર = મુક્તક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કૃતિ: 'લઘુકાવ્યો' માં સમાવિષ્ટ 'હાઈકુ' ના કવિનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્નેહરશ્મિ (ઝીણાભાઈ દેસાઈ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્નેહ' ની 'રશ્મિ' (કિરણ) હંમેશા 'ઝીણી' અને સુંદર હોય - સ્નેહરશ્મિ = ઝીણાભાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સાહિત્ય પ્રકાર જણાવો: 'દુહા' કયા પ્રકારનું સાહિત્ય ગણાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લોકસાહિત્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુહા હંમેશા 'લોકો' ના મોઢે ગવાય એટલે તે 'લોકસાહિત્ય' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "હાઈકુ કયા દેશનો કાવ્ય પ્રકાર છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જાપાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હા'ઈકુ અને 'જા'પાન - 'હા-જા' (યાદ રાખવા માટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "હાઈકુ કેટલી પંક્તિ અને કેટલા અક્ષરનું બનેલું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હાઈકુ 3 પંક્તિ અને કુલ 17 અક્ષર (5-7-5) નું બનેલું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોબાઈલ નંબરની જેમ યાદ રાખો: 575 (પાંચ-સાત-પાંચ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ખાલી જગ્યા પૂરો: 'મુક્તક' એટલે મોતી જેવું _______ કાવ્યરૂપ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સંક્ષિપ્ત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુક્તક ટૂંકું હોય પણ ધારદાર હોય, જેમ મોતી નાનું પણ કિંમતી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "દુહામાં કોના જેવો બોધ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કહેવત જેવો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુહા = ટૂંકો બોધ = કહેવત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કવિ રઈશ મણીયાર મુજબ ચેહરો શું જોઈને હસવો જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દર્પણ જોઈને (અરીસામાં પોતાનું મોઢું જોઈને).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપણે અરીસા (દર્પણ) સામે જઈએ ત્યારે જ સ્મિત આપવું જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કયા પ્રકારના માણસોને દુનિયામાં જીતવું અઘરું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જે માણસો અંદરથી પણ હસતા હોય (ખુશમિજાજી હોય).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુનિયા મ્હોરું (Mask) જીતી શકે, પણ મનનું સ્મિત નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "હાઈકુમાં 'સૂકી ડાળે' શું બેઠેલું જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પોપટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુકી ડાળ + પોપટ = સોનેરી પાન (કલ્પના).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "શબ્દાર્થ આપો: 'કુળદીપક'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કુળનો ઉદ્ધાર કરનાર પુત્ર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુળ + દીપક = કુળમાં અજવાળું ફેલાવનાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "દુહા મુજબ કેવા પુત્રથી કુળ લજવાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જે પુત્ર પોતાના કુળને કલંક લગાડે (કુળકપૂત) તેનાથી કુળ લજવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કપૂત' કુળને 'ડુબાડે'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિરોધી શબ્દ આપો: 'સ્મિત'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રુદન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હસવું (સ્મિત) X રડવું (રુદન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "હાઈકુમાં કયા પક્ષીનો ઉલ્લેખ થયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પોપટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાન લીલા ને પોપટ લીલો - હાઈકુ માં રંગોનું મહત્વ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "જોડણી સુધારો: 'શૂકી ડાળે'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સૂકી ડાળે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સૂકી' માં 'સ' સસલાનો અને 'સૂ' દીર્ઘાઉ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "બે વાક્યમાં ઉત્તર: મુક્તકના કવિ કઈ વાતને અઘરી માને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ કહે છે કે કોઈ પણ પરિસ્થિતિમાં ચહેરા પર હાસ્ય લાવીને દુનિયા સામે જવું સહેલું છે, પણ મનથી ખરેખર પ્રસન્ન રહેવું અને અંદરથી હસતા હોવું એ સૌથી અઘરી બાબત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહારનું હાસ્ય = મ્હોરું (સરળ), અંદરનું હાસ્ય = સત્ય (અઘરું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "બે વાક્યમાં ઉત્તર: હાઈકુનો મુખ્ય ભાવાર્થ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હાઈકુમાં કવિ કહે છે કે સૂકી ડાળ પર પોપટ આવીને બેસે છે ત્યારે તે ડાળખી સોનેરી પાનથી ભરાઈ ગઈ હોય તેવું લાગે છે. આ દ્વારા કવિ જીવનમાં આવતા પરિવર્તન અને સકારાત્મકતાનો સંદેશ આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શુષ્ક જીવનમાં (સૂકી ડાળ) પણ આનંદ (પોપટ) થી નવો વળાંક આવી શકે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "બે વાક્યમાં ઉત્તર: 'દુહા' માં 'ઉત્તમ પુત્ર' ના કયા લક્ષણો જણાવ્યા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જે પુત્ર પોતાના કુળમાં દીપક સમાન બની કુળનું નામ રોશન કરે, કુળની આબરૂ વધારે અને પોતાના સત્કર્મો દ્વારા પૂર્વજોનું નામ દીપાવે તેને ઉત્તમ પુત્ર કહ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉત્તમ પુત્ર = કુળદીપક (પ્રકાશ ફેલાવનાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: 'જેની કોઈ સીમા નથી તે'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અસીમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અ (નથી) + સીમ (સીમા) = અસીમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કાવ્ય પંક્તિ પૂર્ણ કરો: 'ચેહરો સહેજ ........... જીતાય છે.'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'ચેહરો સહેજ દર્પણ જોઈ હસવો જોઈએ, બાકી તો મ્હોરાં અહીં જીતાય છે.'</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દર્પણ -> હાસ્ય -> મ્હોરાં (આ ક્રમ યાદ રાખો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "દુહામાં 'ખાનદાની' વિશે શું કહેવાયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ખાનદાન માણસ હંમેશા પોતાના શબ્દો અને વચન પર મક્કમ રહે છે. જેમ વડલો પોતાની જગ્યા છોડતો નથી, તેમ ખાનદાન વ્યક્તિ પોતાની મર્યાદા અને સંસ્કાર છોડતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાનદાની = સ્થિરતા + સંસ્કાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "મુક્તકમાં 'મ્હોરાં' શબ્દનો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મ્હોરાં એટલે મોહરું અથવા કૃત્રિમ ચહેરો (Mask). અહીં તેનો અર્થ દંભ અથવા દેખાવ એવો થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મ્હોરું = નકલી ચહેરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "હાઈકુના લક્ષણો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 1. તે ટૂંકો કાવ્ય પ્રકાર છે. 2. તેમાં ચિત્રાત્મકતા હોય છે. 3. તે 17 અક્ષરનું બંધારણ ધરાવે છે. 4. તે મૂળ જાપાની કાવ્ય પ્રકાર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઈકુ = ચિત્ર + 17 અક્ષર + જાપાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "દુહામાં 'વડલો' કોનું પ્રતીક છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વડલો એ ગંભીરતા, આશ્રયદાતા અને અડીખમ વ્યક્તિત્વનું પ્રતીક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વડલો = રક્ષણ આપનાર મોભી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "પરીક્ષા લક્ષી પ્રશ્ન: લઘુકાવ્યો ભણવાનો મુખ્ય ઉદ્દેશ્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઓછા શબ્દોમાં ઊંડો અર્થ સમજવો અને જીવનની ફિલોસોફીને સરળતાથી ઉતારવી એ આ લઘુકાવ્યોનો મુખ્ય ઉદ્દેશ્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાગરમાં સાગર ભરવો (ઓછામાં વધુ કહેવું).</p></div>"
+    }
+  ]
+}
