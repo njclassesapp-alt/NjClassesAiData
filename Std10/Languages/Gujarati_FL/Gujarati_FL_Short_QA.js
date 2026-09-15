@@ -2566,3 +2566,136 @@ var Std10_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"22": {
+  "chapterNumber": 22,
+  "chapterTitle": "હિમાલયમાં એક સાહસ",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'હિમાલયમાં એક સાહસ' પાઠના લેખકનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'હિમાલયમાં એક સાહસ' પાઠના લેખક જવાહરલાલ નેહરુ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'હિમાલય' જેવું ઊંચું વ્યક્તિત્વ એટલે ભારતના પ્રથમ વડાપ્રધાન 'જવાહરલાલ નેહરુ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'હિમાલયમાં એક સાહસ' કૃતિનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કૃતિનો સાહિત્ય પ્રકાર 'પ્રવાસ નિબંધ' (આત્મકથાખંડ) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હિમાલયમાં 'પ્રવાસ' કર્યો એટલે 'પ્રવાસ નિબંધ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જવાહરલાલ નેહરુના આ પ્રવાસ નિબંધનો ગુજરાતીમાં અનુવાદ કોણે કર્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ નિબંધનો ગુજરાતી અનુવાદ 'મહાદેવભાઈ દેસાઈ' એ કર્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગાંધીજીના મંત્રી મહાદેવભાઈએ જવાહરલાલના અંગ્રેજી લખાણને 'મહાદેવ' (હિમાલય) જેવું ગુજરાતી રૂપ આપ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "'હિમાલયમાં એક સાહસ' પાઠ કયા પુસ્તકમાંથી લેવામાં આવ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠ જવાહરલાલ નેહરુની આત્મકથા 'મારી જીવનકથા' માંથી લેવામાં આવ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નેહરુજીએ પોતાના જીવનની કથા કહી એટલે 'મારી જીવનકથા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જવાહરલાલ નેહરુ કયા વર્ષે લગ્ન બાદ કાશ્મીર ગયા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જવાહરલાલ નેહરુ ઈ.સ. 1916 માં પોતાના લગ્ન બાદ કાશ્મીર ગયા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 19-16 (ઓગણીસો સોળ) માં કાશ્મીરની સાંજ કરી ગોળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "લેખક જવાહરલાલ નેહરુને કઈ ગુફા સુધી જવાની ઈચ્છા હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખકને 'અમરનાથની ગુફા' સુધી જવાની તીવ્ર ઈચ્છા હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાશ્મીરમાં ભક્તિ અને સાહસનો સંગમ એટલે 'અમરનાથ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ઝોજીલા ઘાટ ઓળંગ્યા પછી લેખકે કેવો અનુભવ કર્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઝોજીલા ઘાટ ઓળંગ્યા પછી લેખકને જનશૂન્ય, નગ્ન અને બિહામણી પરંતુ અદભૂત પ્રકૃતિના દર્શન થયા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઝોજીલા = ઝીરો વસ્તી (જનશૂન્ય) અને નગ્ન પહાડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "લેખક અને તેમના સાથીઓ હિમનદી પર કેવી રીતે ચાલતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક અને તેમના સાથીઓ એકબીજાની સાથે સાંકળની જેમ દોરડાથી બંધાઈને ચાલતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હિમમાં પડવાનો ડર એટલે 'દોરડા' ની પકડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "લેખકની સાથે પ્રવાસમાં કોણ કોણ જોડાયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખકની સાથે તેમના પિતરાઈ ભાઈ અને એક સ્થાનિક ગડરિયો (ભરવાડ) પ્રવાસમાં હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભાઈ + ભરવાડ = જોખમી પહાડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "લેખકને બચાવવા માટે કોણે બૂમ પાડી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક જ્યારે હિમતિરાડમાં પડ્યા ત્યારે તેમના પિતરાઈ ભાઈએ ગભરાઈને બૂમ પાડી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લોહીનો સંબંધ (પિતરાઈ) સંકટ સમયે અવાજ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ખાલી જગ્યા પૂરો: 'હિમાલયમાં એક સાહસ' પાઠમાં ________ ઘાટની વાત કરવામાં આવી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઝોજીલા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાશ્મીરથી લડાખ જવાનો રસ્તો એટલે 'ઝોજીલા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "લેખકને અમરનાથ પહોંચતા પહેલા કઈ કુદરતી મુશ્કેલીનો સામનો કરવો પડ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખકને બરફથી ઢંકાયેલી જોખમી 'હિમતિરાડો' અને અતિશય ઊંચાઈ પર શ્વાસ લેવામાં તકલીફ જેવી મુશ્કેલી પડી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બરફની 'તિરાડ' એ મૃત્યુની 'કરાડ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'બરફથી છવાયેલી નદી'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હિમનદી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હિમ (બરફ) + નદી = હિમનદી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "લેખક જવાહરલાલ નેહરુ કેવી રીતે બચી ગયા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક હિમતિરાડમાં પડ્યા ત્યારે તેમની કમરે દોરડું બાંધેલું હોવાથી તેઓ લટકી રહ્યા અને સાથીઓએ તેમને ઉપર ખેંચી લીધા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'દોરડું' એ જીવનની દોરી બની ગયું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "શા માટે લેખકને અમરનાથની ગુફા જોયા વગર પાછા ફરવું પડ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રસ્તામાં અસંખ્ય જોખમી હિમતિરાડો હતી અને તેમની પાસે પૂરતા સાધનો ન હોવાથી તેઓએ પાછા ફરવું પડ્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાધન વિના સાહસ નકામું, જીવ બચાવવા પાછા ફરવું જ પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ઝોજીલા ઘાટના પહાડોને લેખકે કેવા કહ્યા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઝોજીલા ઘાટના પહાડોને લેખકે 'નગ્ન' અને 'વનસ્પતિ વિનાના' કહ્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યાં ઝાડ-પાન નથી, ત્યાં પહાડ 'નગ્ન' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "લેખકના મતે કાશ્મીરની ખીણો અને લડાખના રસ્તા વચ્ચે શું તફાવત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાશ્મીરની ખીણો હરિયાળી અને પુષ્પોથી લચી પડતી છે, જ્યારે લડાખનો રસ્તો વેરાન અને રુક્ષ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખીણ = લીલીછમ, લડાખ = લુખ્ખું-સૂકું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "લેખકની આ યાત્રા કુલ કેટલા દિવસની હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખકની આ પ્રવાસની રઝળપાટ 'બાર દિવસ' ની હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વર્ષના 12 મહિના, નેહરુજીના પ્રવાસના 12 દિવસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "જવાહરલાલ નેહરુને શા માટે પહાડો પ્રત્યે આકર્ષણ હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખકનું કુટુંબ મૂળ કાશ્મીરી હતું, તેથી પહાડો પ્રત્યેનો પ્રેમ અને સાહસની વૃત્તિને કારણે તેમને આકર્ષણ હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મૂળ કાશ્મીરી એટલે પહાડોના વંશજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "નીચેના શબ્દની સાચી જોડણી લખો: 'હિમાલય'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હિમાલય (હ - હ્રસ્વ 'હિ').</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'હિ' હંમેશા નાનો (હ્રસ્વ) જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ટૂંકનોંધ લખો/૨ ગુણનો પ્રશ્ન: નેહરુજીની હિમતિરાડમાં પડવાની ઘટના વર્ણવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હિમનદી પર ચાલતી વખતે બરફથી ઢંકાયેલી એક મોટી તિરાડ પર નેહરુજીએ પગ મૂક્યો. બરફ તાજો હોવાથી તે ધસી પડ્યો અને નેહરુજી ઊંડી ખાઈમાં પડ્યા. સદનસીબે તેઓ કમરેથી દોરડા વડે સાથીઓ સાથે જોડાયેલા હતા, તેથી તેઓ લટકી રહ્યા અને ગડરિયા તથા પિતરાઈ ભાઈએ તેમને મહેનત કરીને બહાર કાઢ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તાજો બરફ + મોટી ખાઈ + મજબૂત દોરડું = જીવનદાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "૨ ગુણનો પ્રશ્ન: અમરનાથ જવા નીકળેલા પ્રવાસીઓની હાલત કેવી થઈ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પ્રવાસીઓ સાવ થાકી ગયા હતા. અતિશય ઊંચાઈને કારણે શ્વાસ લેવામાં તકલીફ પડતી હતી. લોહી થીજવી દે તેવી ઠંડી હતી અને રસ્તામાં ડગલે ને પગલે જોખમી હિમતિરાડો હતી. તેમની પાસે પૂરતા સાધનો પણ નહોતા, છતાં તેઓએ સાહસ કરી આગળ વધવા પ્રયત્ન કર્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): થાક + શ્વાસની તકલીફ + ઠંડી + તિરાડો = જોખમી યાત્રા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "૨ ગુણનો પ્રશ્ન: ઝોજીલા ઘાટ પછીના દ્રશ્યનું વર્ણન કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઝોજીલા ઘાટ ઓળંગ્યા પછી પ્રકૃતિનું સ્વરૂપ સાવ બદલાઈ ગયું. ત્યાં લીલોતરી ગાયબ હતી અને માત્ર વેરાન પહાડો જ હતા. પહાડો બરફથી છવાયેલા હતા અને વાતાવરણ એકદમ શાંત અને બિહામણું લાગતું હતું. લેખકને ત્યાંની હવા વધુ ઠંડી અને નિર્મળ અનુભવાઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઝોજીલા = લીલોતરી EXIT, પથ્થર અને બરફ ENTER.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "૨ ગુણનો પ્રશ્ન: લેખકને અધવચ્ચેથી કેમ પાછા ફરવું પડ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખકને અમરનાથ પહોંચવા માટે હજુ ઘણી હિમનદીઓ અને વિશાળ હિમતિરાડો પાર કરવાની હતી. તેમની પાસે દોરડા સિવાય પહાડ ચડવાના કોઈ ખાસ સાધનો નહોતા. સાથીઓ અને પોતે પણ ખૂબ થાકી ગયા હતા. સમય ઓછો હતો અને જોખમ વધતું જતું હતું, તેથી મન મારીને તેમને પાછા ફરવું પડ્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાધનોનો અભાવ + અનંત તિરાડો = અપૂર્ણ યાત્રા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિરુદ્ધાર્થી શબ્દ આપો: 'સૌભાગ્ય' અને 'નિર્મળ'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સૌભાગ્ય × દુર્ભાગ્ય, નિર્મળ × મલિન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સૌ' નું 'દુઃ' અને 'નિર્મળ' (ચોખ્ખું) નું 'મલિન' (મેલું).</p></div>"
+    }
+  ]
+}
