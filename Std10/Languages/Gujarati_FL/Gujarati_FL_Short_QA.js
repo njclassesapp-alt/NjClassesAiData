@@ -2832,3 +2832,136 @@ var Std10_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"24": {
+  "chapterNumber": 24,
+  "chapterTitle": "ઘોડીની સ્વામીભક્તિ",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'ઘોડીની સ્વામીભક્તિ' લોકકથાના લેખકનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'ઘોડીની સ્વામીભક્તિ' લોકકથાના લેખક ઝવેરચંદ મેઘાણી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઝવેરચંદ' એટલે લોકસાહિત્યના 'ઝવેરી'. ઘોડીની કથા લોકોમાં જાણીતી હોય, એટલે લેખક મેઘાણી જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'ઘોડીની સ્વામીભક્તિ' કૃતિનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કૃતિનો સાહિત્ય પ્રકાર 'લોકકથા' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેઘાણીબાપાની મોટાભાગની વાર્તાઓ 'લોકકથા' જ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "'ઘોડીની સ્વામીભક્તિ' વાર્તા કયા પુસ્તકમાંથી લેવામાં આવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ વાર્તા ઝવેરચંદ મેઘાણી સંપાદિત 'સૌરાષ્ટ્રની રસધાર' માંથી લેવામાં આવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેઘાણી + સૌરાષ્ટ્ર = રસધાર. (સૌરાષ્ટ્રની રસધારમાં જ આવી વીરકથાઓ હોય!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "આંબા પટેલ કયા ગામના વતની હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આંબા પટેલ ભાવનગર જિલ્લાના 'મોણપરી' ગામના વતની હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંબા ઉપર 'મોણ' ચડાવ્યું - મોણપરી ગામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "આંબા પટેલની ઘોડી કઈ જાતની હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આંબા પટેલની ઘોડી 'જાતવાન ઢેલ' (કાઠિયાવાડી) જાતની હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘોડી નથી, પણ 'ઢેલ' જેવી સુંદર અને ચપળ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ખાલી જગ્યા પૂરો: આંબા પટેલના મામાનું ગામ ________ હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રતનપર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મામાનું ઘર 'રતન' (હીરા) જેવું - રતનપર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "મામાએ આંબા પટેલને શું સંદેશો મોકલ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મામાએ સંદેશો મોકલ્યો હતો કે, \"ભાણેજ, જે કામ કરતા હોય તે પડતું મૂકીને મણપર (રતનપર) આવજો, મામાને બહુ ઉતાવળ છે.\"</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કામ પડતું મૂકીને આવવું' એટલે કે અત્યંત જરૂરી કામ હોવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "આંબા પટેલ રતનપર જવા નીકળ્યા ત્યારે પત્નીએ તેમને શું શિખામણ આપી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પત્નીએ શિખામણ આપી કે, \"ચોમાસાના દિવસો છે એટલે શેતરૂંજી નદીમાં પૂર આવ્યું હોય તો નદી ઓળંગવાની સાહસ ન કરતા.\"</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પત્નીની ચિંતા = શેતરૂંજીનું પૂર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "આંબા પટેલ કઈ નદી ઓળંગતા મુશ્કેલીમાં મુકાયા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આંબા પટેલ 'શેતરૂંજી' નદી ઓળંગતા મુશ્કેલીમાં મુકાયા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વામીભક્તિમાં 'સ' અને શેતરૂંજીમાં 'શ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ઘોડીની ચાલ માટે લેખકે કયો શબ્દ વાપર્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખકે ઘોડીની ચાલ માટે 'રેવાળ' શબ્દ વાપર્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેવાળ એટલે ઘોડાની વિશિષ્ટ ઝડપી ચાલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "નદીના પ્રવાહમાં આંબા પટેલનું મન કેમ ડગવા માંડ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શેતરૂંજી નદીમાં બેઉ કાંઠે પૂર આવ્યું હતું અને પાણીનું જોર એટલું હતું કે ઘોડી પણ ફસાઈ જાય તેમ હતી, તેથી આંબા પટેલનું મન ડગવા માંડ્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂરનું જોર + મોતનો ડર = મનનું ડગવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "આંબા પટેલે ઘોડીને પાણીમાં નાખતા પહેલા શું વિચાર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તેમણે વિચાર્યું કે જો હું પાછો વળીશ તો મારી ક્ષત્રિયવટ લાજશે અને લોકો કહેશે કે આંબા પટેલ પૂર જોઈને ડરી ગયા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આબરૂ > જીવ. ક્ષત્રિય પાછો ન વળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ઘોડીએ પોતાના માલિકને બચાવવા માટે શું કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઘોડી નદીના પૂરમાં કૂદી પડી, જ્યારે આંબા પટેલ પૂરના તાણમાં ફસાયા ત્યારે ઘોડીએ હિંમત હાર્યા વગર માલિકને સુરક્ષિત કાંઠે પહોંચાડ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પશુની નિષ્ઠા મનુષ્ય કરતા પણ વધુ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'ઘોડાની ઝડપી ચાલ'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રેવાળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ર' પરથી રફ્તાર અને 'ર' પરથી રેવાળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિરોધી શબ્દ આપો: 'સ્વામીભક્તિ'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્વામીદ્રોહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભક્તિનું વિરોધી 'દ્રોહ' થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'જીવ હથેળીમાં મૂકવો'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જીવ હથેળીમાં મૂકવો એટલે 'મૃત્યુના જોખમે સાહસ કરવું'.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવ હાથમાં આવી જાય એટલું જોખમ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "આંબા પટેલે ઘોડીને ખાણ-દાણ શા માટે ખવડાવવા માંડ્યા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઘોડીએ જીવના જોખમે આંબા પટેલનો જીવ બચાવ્યો હતો, તેની આ સ્વામીભક્તિ અને ઉપકારના બદલામાં આંબા પટેલે તેને પુત્રની જેમ વહાલ કરી ખાણ-દાણ ખવડાવ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રેમ + કૃતજ્ઞતા = ખાણ-દાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સમાનાર્થી શબ્દ આપો: 'તુરંગ'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઘોડો, અશ્વ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તુરંગ એટલે તરત જ દોડતો (ઘોડો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મામાના આગ્રહ છતાં આંબા પટેલ રાત્રે જ કેમ નીકળી ગયા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આંબા પટેલ મામાના ઘરે રોકાયા હોત પણ તેમને ઘરે ખેતીના અને પશુઓના કામની ચિંતા હતી, વળી તેમને પોતાના ગામ જવાની ઉતાવળ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જવાબદાર ખેડૂત ઘરે કામ વગર રહી ન શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "શેતરૂંજી નદીનું પૂર કેવું હતું? (વર્ણન કરો).",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શેતરૂંજી નદીમાં ઘોડાપૂર આવ્યું હતું. નદીના બેઉ કાંઠા ફાટ-ફાટ થતા હતા. પાણીનો પ્રવાહ એટલો વેગીલો હતો કે તેમાં મોટા ઝાડ અને પથરા પણ તણાતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદીના બે કાંઠા = જોરદાર પૂર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "નીચેનામાંથી કયું પાત્ર 'ઘોડીની સ્વામીભક્તિ' પાઠનું નથી? (આંબા પટેલ, મામા, જેઠસુર, દેવાયત પંડિત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દેવાયત પંડિત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંબા પટેલ અને મામા મુખ્ય પાત્રો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "આંબા પટેલની પત્નીને ઘોડી કેમ પસંદ નહોતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આંબા પટેલ ઘોડી પાછળ પાગલ હતા અને ઘોડીની ખૂબ જ સંભાળ રાખતા હતા, પત્નીને લાગતું કે આંબા પટેલ ઘર કરતા ઘોડીનું ધ્યાન વધારે રાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અતિશય લાડ પત્નીને ન ગમ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "પાઠના અંતે આંબા પટેલ ઘોડી વિશે શું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આંબા પટેલ કહે છે કે, \"આ તો મારો જીવ બચાવનાર દેવી છે, આણે જ મને નવું જીવન આપ્યું છે.\"</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવ બચાવનાર = ભગવાન સમાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જોડણી સુધારો: 'શ્વામીભક્તિ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્વામીભક્તિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્વા' માં 'સ' સસલાનો આવે, 'શ' મીંડાવાળો નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "આંબા પટેલની ઘોડીની વિશેષતા શું હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તે જાતવાન હતી, અત્યંત વફાદાર હતી, તેનામાં ગજબની સ્ફૂર્તિ હતી અને તે પોતાના માલિકના ઈશારાને સમજી જતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વફાદારી + વેગ + સમજણ = જાતવાન ઘોડી.</p></div>"
+    }
+  ]
+}
