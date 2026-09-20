@@ -472,3 +472,161 @@ var Std10_Gujarati_FL_Chapter_Grammar = {
     }
   ]
 }
+,
+"4": {
+  "chapterNumber": 4,
+  "chapterTitle": "ભૂલી ગયા પછી (એકાંકી)",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કૃતિ, કર્તા અને સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>કૃતિ: ભૂલી ગયા પછી <br>કર્તા: રઘુવીર ચૌધરી <br>સાહિત્ય પ્રકાર: એકાંકી (નાટક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રઘુવીર' (વીર) પુરુષ 'ભૂલી ગયા પછી' પણ સાહસ નથી ભૂલતા. આ રીતે યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "નીચેના શબ્દનો સમાનાર્થી શબ્દ આપો: 'સૌંદર્ય'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સુંદરતા, લાવણ્ય, રૂપ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંસ્કૃત શબ્દ 'સુંદર' પરથી 'સૌંદર્ય' ભાવવાચક સંજ્ઞા બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "નીચેના શબ્દનો વિરોધી શબ્દ જણાવો: 'નિર્ભય'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભયભીત, ડરપોક.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિર્' ઉપસર્ગ દૂર કરી 'સ' અથવા 'ભય' જોડીને વિરોધી શબ્દ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સાચી જોડણી લખો: 'શારીરીક'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શારીરિક (રી - દીર્ઘ, રિ - હ્રસ્વ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઇક' પ્રત્યય લાગે ત્યારે તેની આગળનો અક્ષર હંમેશા હ્રસ્વ (િ) જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'પર્વત ઉપર ચઢનાર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પર્વતારોહક.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્વત + આરોહક (ચઢનાર). સંધિ યાદ રાખો તો શબ્દસમૂહ આવડી જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'હૃદય પલટો થવો'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિચારોમાં પરિવર્તન આવવું, ભાવના બદલાવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરાટ બાબુનો મનીષા પ્રત્યેનો વિચાર બદલાયો તે આ પાઠનો મુખ્ય વળાંક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સંધિ છૂટી પાડો: 'અભિનંદન'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અભિ + નંદન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપસર્ગ 'અભિ' હંમેશા હ્રસ્વ જ લખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સમાનાર્થી શબ્દ આપો: 'નિત્ય'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હંમેશા, સદાય, કાયમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિત્ય એટલે જે ક્યારેય અટકતું નથી તેવું 'રેગ્યુલર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિરોધી શબ્દ આપો: 'સ્મૃતિ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિસ્મૃતિ (ભૂલી જવું).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્મૃતિ' એટલે યાદ અને 'વિ' એટલે વિરોધી ભાવ દર્શાવતો ઉપસર્ગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'પક્ષીઓ વિશે જાણકારી રાખનાર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પક્ષીવિદ (ઓર્થિનોલોજિસ્ટ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં નરેન વનરક્ષક હોવાથી પ્રકૃતિ અને પક્ષીઓનો જાણકાર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "જોડણી સુધારો: 'જીજ્ઞાસા'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જિજ્ઞાસા (જિ - હ્રસ્વ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાણવાની ઈચ્છા એટલે જિજ્ઞાસા, જેમાં 'જ' હ્રસ્વ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સંધિ જોડો: 'સત્ + આચાર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સદાચાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યંજન સંધિમાં 'ત્' પછી સ્વર આવે તો 'ત્' નો 'દ્' થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'ભાન ભૂલી જવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શુદ્ધિ ન રહેવી, એકાગ્ર થઈ જવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે કોઈ બાબતમાં ખૂબ જ તલ્લીન થઈ જવાય ત્યારે આ રૂઢિપ્રયોગ વપરાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સમાનાર્થી શબ્દ આપો: 'પ્રતિક્રિયા'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વળતો જવાબ, રિસ્પોન્સ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્રતિ' એટલે સામે અને 'ક્રિયા' એટલે કાર્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિરોધી શબ્દ આપો: 'સક્ષમ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અક્ષમ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ' ના સ્થાને 'અ' મુકવાથી વિરોધી શબ્દ બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: 'જેની કોઈ સીમા નથી તે'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અસીમ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અ (નથી) + સીમ (સીમા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જોડણી સુધારો: 'આત્માવિશ્વાસ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આત્મવિશ્વાસ (મ અડધો આવશે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આત્મા' અને 'વિશ્વાસ' જોડતા 'આત્મ' શબ્દ સંયોજિત બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "નીચેના શબ્દનો સમાનાર્થી આપો: 'સ્નેહ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પ્રેમ, હેત, પ્રીતિ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મનીષા અને નરેનનો 'સ્નેહ' આ એકાંકીનો પાયો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિરોધી શબ્દ આપો: 'શક્ય'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અશક્ય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતીમાં ઘણા વિરોધી શબ્દો 'અ' ઉપસર્ગથી બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: 'બહારની દુનિયાથી અજાણ હોવું તે'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અજ્ઞાન અથવા બાહ્યજ્ઞાનનો અભાવ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના સંદર્ભમાં પાત્રોની મનોસ્થિતિ સમજવા આ જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'ગળગળા થઈ જવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભાવુક થઈ જવું, હૃદય ભરાઈ આવવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે વિરાટ બાબુ પોતાની દીકરીના પરાક્રમ વિશે સાંભળે છે ત્યારે ગળગળા થઈ જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જોડણી સુધારો: 'પરીસ્થિતિ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પરિસ્થિતિ (પ-રિ-સ્થિ-તિ, બધા 'િ' હ્રસ્વ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિસ્થિતિમાં ચારેય અક્ષરો હ્રસ્વ (નાના) જ હોય છે. યાદ રાખવા માટે 'all short' ટ્રીક વાપરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સમાનાર્થી શબ્દ આપો: 'અવાજ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રવ, ધ્વનિ, સાદ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિતાઓમાં 'રવ' શબ્દ પક્ષીઓના અવાજ માટે વધુ વપરાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિરોધી શબ્દ જણાવો: 'કોમળ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કઠોર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મનીષા પહેલા 'કોમળ' હતી, પણ તાલીમ પછી તે 'કઠોર' (મક્કમ) બની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સંધિ છૂટી પાડો: 'નિશ્ચય'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિઃ + ચય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિસર્ગ પછી 'ચ' આવે તો વિસર્ગનો 'શ્' થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: 'સહન ન કરી શકાય તેવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અસહ્ય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અ + સહ્ય (સહન કરી શકાય તેવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "રૂઢિપ્રયોગનો અર્થ: 'અચંબિત થઈ જવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નવાઈ લાગવી, આશ્ચર્ય પામવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે રીંછના હુમલા સામે મનીષાને બહાદુરી બતાવતી જોઈ ત્યારે બધા અચંબિત થઈ ગયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "શબ્દ સમજૂતી: 'ગૌરવ' નો અર્થ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મોટાઈ, આદર, અભિમાન (હકારાત્મક અર્થમાં).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગુરુ' શબ્દ પરથી ગૌરવ બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "પાઠના શીર્ષકનો અર્થ શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'ભૂલી ગયા પછી' એટલે કે ભૂતકાળના સંબંધોને વિસરી ગયા પછી ફરીથી નવા સ્વરૂપે સ્વીકારવાની પ્રક્રિયા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અહીં 'ભૂલવું' એ નકારાત્મક નથી પણ પરિવર્તનનો સંકેત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "નીચેનામાંથી કયો શબ્દ 'વન' નો પર્યાય છે? (જંગલ, કાનન, અરણ્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ત્રણેય શબ્દો (જંગલ, કાનન, અરણ્ય) વન ના જ પર્યાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના લેખક રઘુવીર ચૌધરી છે અને નરેન વન અધિકારી છે, એટલે વન ના પર્યાય પૂછાવાની પૂરી શક્યતા છે!</p></div>"
+    }
+  ]
+}
