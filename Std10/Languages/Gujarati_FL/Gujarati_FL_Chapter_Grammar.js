@@ -156,3 +156,161 @@ var Std10_Gujarati_FL_Chapter_Grammar = {
     }
   ]
 }
+,
+"2": {
+  "chapterNumber": 2,
+  "chapterTitle": "રેસનો ઘોડો",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'રેસનો ઘોડો' કૃતિના કર્તા અને સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કર્તા: વર્ષા અડાલજા, સાહિત્ય પ્રકાર: નવલિકા (ટૂંકી વાર્તા).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વર્ષા' પડે ત્યારે 'રેસનો ઘોડો' નવી રીતે દોડે (નવી = નવલિકા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "નીચેના શબ્દોના સમાનાર્થી શબ્દો આપો: (1) નિપુણ (2) લાલસા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (1) નિપુણ - હોશિયાર, પ્રવીણ, કુશળ (2) લાલસા - ઈચ્છા, અભિપ્સા, લોભ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિપુણ' એટલે જે કામમાં 'પુણ' (પૂર્ણ) હોય તે હોશિયાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "નીચેના શબ્દોના વિરોધી શબ્દો લખો: (1) સ્વીકાર (2) સજ્જન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (1) સ્વીકાર × અસ્વીકાર / ઇનકાર (2) સજ્જન × દુર્જન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરોધી શબ્દમાં મોટેભાગે 'અ' અથવા 'દુ' પ્રત્યય લગાવવાથી વિરોધી બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સાચી જોડણી લખો: (1) પરિસ્થિતિ (2) પ્રતીક્ષા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (1) પરિસ્થિતિ (બંને 'ઇ' હ્રસ્વ) (2) પ્રતીક્ષા ('તી' દીર્ઘ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિ-સ્થિતિ: 'પરિ' ઉપસર્ગમાં હંમેશા 'િ' હ્રસ્વ જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'કશુંક મેળવવાની તીવ્ર ઈચ્છા'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઉત્કંઠા અથવા જિજ્ઞાસા (પાઠના સંદર્ભમાં લાલસા પણ કહી શકાય).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તીવ્ર ઈચ્છા = ઉત્કંઠા (કાંઠે આવીને ઉભા રહેવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'ભારે હૈયે'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દુઃખી હૃદયે / અત્યંત દુઃખ સાથે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૈયું ભારે થવું એટલે ગમગીન થવું, વજન વધવું નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સંધિ છોડો: 'આશીર્વાદ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આશીઃ + વાદ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં ર-કાર (ર્) દેખાય ત્યાં વિસર્ગ (ઃ) મૂકવાની કોશિશ કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સમાનાર્થી શબ્દ આપો: (1) સદભાગ્ય (2) હરીફાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (1) સદભાગ્ય - નસીબદાર, ભાગ્યશાળી (2) હરીફાઈ - સ્પર્ધા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સદ + ભાગ્ય = સારું ભાગ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિરોધી શબ્દ આપો: (1) આનંદ (2) સંતોષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (1) આનંદ × શોક / દુઃખ (2) સંતોષ × અસંતોષ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બોર્ડમાં 'શોક' શબ્દ વારંવાર પૂછાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'જેની કોઈ સીમા નથી તેવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અસીમ અથવા અમર્યાદિત.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અ + સીમા = અસીમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "તળપદા શબ્દનું શિષ્ટ રૂપ આપો: 'ભણતર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શિક્ષણ / અભ્યાસ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ભણાવે તે શિક્ષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "નીચેનામાંથી કયો શબ્દ 'પુત્ર' નો સમાનર્થી નથી? (તનુજ, આત્મજ, નંદન, અગ્રજ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અગ્રજ (અગ્રજ એટલે મોટો ભાઈ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જ' એટલે જન્મેલો. તનુ-જ (શરીરથી જન્મેલો પુત્ર), અગ્ર-જ (પહેલા જન્મેલો ભાઈ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સાચી જોડણી શોધો: (જિજ્ઞાશા, જિજ્ઞાસા, જીજ્ઞાશા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જિજ્ઞાસા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જિજ્ઞાસામાં હંમેશા 'સ' સસલાનો આવે, શરણાઈનો નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'ઘોડાની જેમ દોડાવવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સતત કામમાં કે સ્પર્ધામાં જોતરી રાખવું (ખૂબ મહેનત કરાવવી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના શીર્ષક સાથે જોડાયેલો મુખ્ય ભાવ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સંધિ જોડો: 'નિઃ + દોષ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિર્દોષ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિસર્ગ પછી 'દ' આવતા વિસર્ગનો 'ર' થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "'રેસનો ઘોડો' પાઠમાં કયા પાત્રને ભણતરનો ભાર લાગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અંકિતને.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌરભ દોડે છે, અંકિત રમે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિરોધી શબ્દ લખો: 'સ્વદેશ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પરદેશ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્વ' એટલે પોતાનું, 'પર' એટલે બીજાનું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સમાનાર્થી શબ્દ આપો: 'નિર્ધાર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિર્ણય, નિશ્ચય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિર્ધાર કર્યો એટલે નક્કી કર્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'સાથે ભણનાર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સહાધ્યાયી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સહ (સાથે) + અધ્યાયી (ભણનાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "નીચેનામાંથી કઈ જોડણી સાચી છે? (શીખામણ, શિખામણ, શીખામંણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શિખામણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શીખવામાં 'ી' દીર્ઘ હોય પણ શિખામણમાં 'િ' હ્રસ્વ થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'આંખમાં પાણી આવવાં'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રડવું આવવું / ભાવુક થઈ જવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાગણીશીલ અવસ્થા દર્શાવવા વપરાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સમાનાર્થી શબ્દ આપો: 'પરિશ્રમ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મહેનત, પુરુષાર્થ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિશ્રમ એ જ પારસમણિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિરોધી શબ્દ લખો: 'ઉત્સાહ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિરુત્સાહ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંધિ મુજબ: નિઃ + ઉત્સાહ = નિરુત્સાહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "પાઠના આધારે જણાવો: વીનુકાકા અંકિત અને સૌરભને શું બનાવવાની જીદ કરતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તેજસ્વી અથવા રેસના ઘોડાની જેમ પ્રથમ આવનાર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વીનુકાકા = માર્કશીટના પૂજારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'પોતાની જાતે મેળવેલું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્વઅર્જિત.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વ (પોતાની) + અર્જિત (મેળવેલું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "સમાનાર્થી શબ્દ આપો: 'તિરસ્કાર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધિક્કાર, અનાદર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વીકારનું વિરોધી તિરસ્કાર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિરોધી શબ્દ લખો: 'નિર્દોષ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દોષિત / ગુનેગાર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિઃ' કાઢી નાખવાથી વિરોધી બની જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સાચી જોડણી લખો: 'યુનિવર્સિટી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> યુનિવર્સિટી ('યુ' હ્રસ્વ, 'નિ' હ્રસ્વ, 'ટી' દીર્ઘ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંગ્રેજી શબ્દોના અંતે 'ટી' આવે ત્યારે તે હંમેશા દીર્ઘ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'મનમાં ગાંઠ વાળવી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મક્કમ નિર્ધાર કરવો / નક્કી કરી લેવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંઠ વાળવી એટલે હવે છૂટું ન થાય તેમ નક્કી કરવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "'રેસનો ઘોડો' વાર્તાના અંતે કોણ વિજેતા સાબિત થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સંસ્કારો અને માનવતાની દ્રષ્ટિએ 'અંકિત'.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડિગ્રી કરતાં સંસ્કાર મોટા, એ જ આ વાર્તાનો સાર.</p></div>"
+    }
+  ]
+}
