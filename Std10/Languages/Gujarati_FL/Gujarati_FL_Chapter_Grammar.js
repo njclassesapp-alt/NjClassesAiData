@@ -314,3 +314,161 @@ var Std10_Gujarati_FL_Chapter_Grammar = {
     }
   ]
 }
+,
+"3": {
+  "chapterNumber": 3,
+  "chapterTitle": "શીલવંત સાધુને",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કાવ્ય 'શીલવંત સાધુને' ના કવિ (કર્તા) નું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગંગાસતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગંગા'ના પાણીમાં 'પાન' (પાનબાઈ) પલળે અને 'શીલવંત' (ચરિત્રવાન) બને એમ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કાવ્ય 'શીલવંત સાધુને' નો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પદ / ભજન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંગાસતીની તમામ રચનાઓ મોટાભાગે ભજન કે પદ પ્રકારની જ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગંગાસતીએ પોતાની શિષ્યા પાનબાઈને કેટલા દિવસ સુધી એક-એક રચના સંભળાવી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 52 દિવસ સુધી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પત્તાની કેટમાં પણ 52 પત્તા હોય અને ગંગાસતીના ભજન પણ 52 દિવસ ચાલ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "'શીલવંત' શબ્દનો સમાનાર્થી શબ્દ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ચારિત્ર્યવાન, સદાચારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શીલ = ચારિત્ર્ય. જેની પાસે શીલ છે તે શીલવંત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "'મિથ્યા' શબ્દનો વિરોધી શબ્દ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સત્ય / વાસ્તવિક (કાવ્યના સંદર્ભમાં 'મિથ્યા' એટલે ફોગટ/નકામું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ખોટું છે તે મિથ્યા, જે સાચું છે તે સત્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "'ઉર' શબ્દનો સમાનાર્થી શબ્દ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હૃદય, હૈયું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઉર' એટલે જેની અંદર લાગણીઓનો ઉભરો આવે તે હૃદય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "'પ્રહર' શબ્દસમૂહ માટે એક શબ્દ આપો: 'ત્રણ કલાકનો સમય'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પ્રહર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિવસના 4 અને રાતના 4 એમ કુલ 8 પ્રહર હોય છે (8 x 3 = 24 કલાક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "'નિર્મળ' શબ્દની સાચી સંધિ છૂટી પાડો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિઃ + મળ અથવા નિર્ + મળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે 'ર' અડધો હોય ત્યારે વિસર્ગ (ઃ) નો ઉપયોગ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "'પરમાર્થ' શબ્દની સંધિ છૂટી પાડો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પરમ + અર્થ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અ + અ = આ. પરમ (મ માં અ) + અર્થ = પરમાર્થ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "'તુરીયાનો તાર જાગી જવો' રૂઢિપ્રયોગનો અર્થ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સમજણશક્તિનો ઉદય થવો / બ્રહ્મજ્ઞાન થવું / ચોથી અવસ્થા પ્રાપ્ત થવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાગૃતિ, સ્વપ્ન અને સુષુપ્તિ પછીની ચોથી અવસ્થા એટલે તુરીયા વસ્થા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: 'જેનામાં કોઈ પણ પ્રકારનો વિકાર ન હોય તેવું'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિર્વિકારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિઃ (નથી) + વિકાર = નિર્વિકારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "'સતત' શબ્દનો કાવ્યમાં કયો પર્યાય વપરાયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિત્ય / નિરંતર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિરંતર' એટલે જેમાં કોઈ અંતર કે ગેપ ન હોય તેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કાવ્ય પંક્તિ પૂર્ણ કરવા માટે યોગ્ય શબ્દ પસંદ કરો: 'જીને શત્રુ ને મિત્ર એકે નહિ ______'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઉરમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાચો સાધુ એ જ કે જેના હૃદય (ઉર) માં રાગ-દ્વેષ ન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "'લોચન' શબ્દનો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આંખ, નયન, ચક્ષુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોચન પરથી 'સુલોચના' (સારી આંખોવાળી) યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "'નામ ને રૂપ જેણે મિથ્યા કરી જાણ્યું' - આ પંક્તિનો ભાવાર્થ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લૌકિક મોહમાયાનો ત્યાગ કરવો અને અહંકાર છોડી દેવો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જગતમાં બધું જ નાશવંત છે, માત્ર ભક્તિ જ સાચી છે એવો ભાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "નીચેનામાંથી કયો શબ્દ 'નિર્મળ' નો વિરોધી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મલિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિર્મળ (મેલ વગરનું) X મલિન (મેલ વાળું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "'સંગત' શબ્દનો સાચો અર્થ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સોબત, સાથ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનો સંગ કરો તેની અસર થાય, એટલે જ કવિ શીલવંત સાધુની સંગત કરવાનું કહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "'વચન' શબ્દના કાવ્યમાં પ્રયોજાયેલ સંદર્ભ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વચનોમાં વિશ્વાસ હોવો / પરમાત્માના શબ્દો અથવા ગુરુના ઉપદેશમાં શ્રદ્ધા હોવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વચન એટલે માત્ર બોલવું નહીં, પણ પાળવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સાચી જોડણી ઓળખો: (A) શિલવંત (B) શીલવંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (B) શીલવંત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શીલ' માં હંમેશા દીર્ઘ 'ઈ' આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "'મહારાજ' શબ્દનો સમાસ ઓળખાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કર્મધારય સમાસ (મહાન એવા રાજા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે પ્રથમ પદ વિશેષણ (મહા) હોય ત્યારે કર્મધારય સમાસ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ગંગાસતીની ભક્તિ કેવી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> યોગમાર્ગની / જ્ઞાનમાર્ગી ભક્તિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંગાસતી એટલે સૌરાષ્ટ્રના મીરાંબાઈ, પણ તેમની રીત યોગની હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "તળપદા શબ્દનું શિષ્ટ રૂપ આપો: 'રે'વું'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રહેવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તળપદા શબ્દોમાં અક્ષરનો લોપ થતો હોય છે, અહીં 'હ' નો લોપ થયો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "'મન-વચન-કર્મ' માં કયો સમાસ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દ્વન્દ્વ સમાસ (મન અને વચન અને કર્મ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અને' થી વિગ્રહ થાય એટલે દ્વન્દ્વ સમાસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ગંગાસતીના ગુરુનું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અજમલજી (તેમના પતિ પણ હતા અને ગુરુ પણ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પ્રશ્ન પૂરક માહિતી તરીકે ઉપયોગી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: 'જેનું મન શુદ્ધ હોય તેવું'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિર્મળ મન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિર્ + મળ = જે મળ (ગંદકી) વગરનું છે તે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "'આઠે પહોર આનંદ' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હંમેશા પ્રસન્ન રહેવું / બ્રહ્માનંદમાં હોવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 24 કલાક (8 પ્રહર) મોજમાં રહેવું એટલે આઠે પહોર આનંદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "'શીલવંત સાધુને વારે વારે નમીએ' - પંક્તિમાં 'વારે વારે' કયો શબ્દ પ્રયોગ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દ્વિરુક્તિ (એકનો એક શબ્દ બે વાર આવે તે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે વાર ઉક્તિ એટલે દ્વિરુક્તિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "તળપદા શબ્દ 'વિયુ' નો અર્થ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિદ્યા (કાવ્યના લય માટે વપરાયેલ છે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્યમાં પ્રાસ બેસાડવા આવા શબ્દો વપરાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "'ભજન' શબ્દની સાચી જોડણી શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભજન (તેમાં કોઈ ફેરફાર થતો નથી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાદા ત્રણ અક્ષરના શબ્દોમાં સામાન્ય રીતે બધું હ્રસ્વ જ ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "'શીલવંત સાધુને' કાવ્ય કયા પુસ્તકમાંથી લેવામાં આવ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગંગાસતીની ભજનગંગા / ગંગાસતીના પદો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંગાસતીનું નામ જ તેના પુસ્તકના નામમાં હશે.</p></div>"
+    }
+  ]
+}
