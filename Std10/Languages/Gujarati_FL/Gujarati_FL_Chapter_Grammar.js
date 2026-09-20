@@ -630,3 +630,161 @@ var Std10_Gujarati_FL_Chapter_Grammar = {
     }
   ]
 }
+,
+"5": {
+  "chapterNumber": 5,
+  "chapterTitle": "શ્વેતક્રાંતિના પ્રણેતાઓ",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘શ્વેતક્રાંતિના પ્રણેતાઓ’ પાઠના સાહિત્ય પ્રકાર અને મુખ્ય પાત્રોના નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સાહિત્ય પ્રકાર: ચરિત્રલેખ | મુખ્ય પાત્રો: ત્રિભુવનદાસ પટેલ અને ડૉ. વર્ગીસ કુરિયન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શ્વેત એટલે સફેદ (દૂધ) અને ક્રાંતિ લાવનાર બે ‘હીરો’ - ત્રિભુવનદાસ અને કુરિયન. આ પાઠ કોઈ એક લેખકે નહીં પણ ‘સંકલિત’ (Editing team) દ્વારા તૈયાર થયો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "નીચેના શબ્દોના સમાનાર્થી શબ્દો આપો: (1) ક્રાંતિ (2) પ્રણેતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (1) ક્રાંતિ - મોટો ફેરફાર, પલટો (2) પ્રણેતા - માર્ગદર્શક, નેતા, સ્થાપક.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘પ્રણેતા’ શબ્દમાં ‘પ્ર’ એટલે પ્રથમ અને ‘નેતા’ એટલે દોરવણી આપનાર. આમ, શરૂઆત કરનાર એટલે પ્રણેતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "‘શ્વેત’ શબ્દનો વિરોધી શબ્દ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શ્વેત × શ્યામ (અથવા અસિત/કાળું).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શ્વેત એટલે સફેદ, તેનું વિરોધી શ્યામ (કૃષ્ણ વર્ણ) થાય. પરીક્ષામાં ‘શ્યામ’ શબ્દ વધુ માન્ય ગણાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જોડણી સુધારો: ‘યુનીવર્સીટી’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> યુનિવર્સિટી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અંગ્રેજી શબ્દોમાં છેલ્લે આવતો ‘ટી’ કે ‘ડી’ હંમેશા દીર્ઘ (ી) હોય છે, પરંતુ તેની આગળનો ‘સિ’ હ્રસ્વ (િ) થાય. (નિયમ: ઇ-ઇ-ઇ-ઈ)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: ‘પાયો નાખવો’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પાયો નાખવો - શરૂઆત કરવી, પાયાનું કાર્ય કરવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેમ મકાન બનાવતા પહેલા પાયો ખોદાય, તેમ કોઈ પણ મોટા કાર્યની શરૂઆતને પાયો નાખવો કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: ‘સહકાર આપનારી મંડળી’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સહકારી મંડળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સહકાર + ઈ = સહકારી. ગ્રામીણ અર્થતંત્રમાં આ શબ્દ વારંવાર વપરાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સંધિ છૂટી પાડો: ‘નિર્ધાર’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિઃ + ધાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે શબ્દમાં ‘ર્’ (રેફ) આવે ત્યારે વિસર્ગ સંધિ થવાની શક્યતા વધી જાય છે. નિઃ (વિસર્ગ) પછી ‘ધ’ આવતા ‘ર્’ બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સમાનાર્થી શબ્દો આપો: (1) નિષ્ઠા (2) પુરસ્કાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (1) નિષ્ઠા - શ્રદ્ધા, આસ્થા (2) પુરસ્કાર - ઈનામ, સન્માન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ડૉ. કુરિયનને અનેક ‘પુરસ્કાર’ મળ્યા પણ તેમની ‘નિષ્ઠા’ ખેડૂતો પ્રત્યે હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: ‘ગાયોનો સમૂહ’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દૂધના પાઠમાં ગાયોના ટોળાને ‘ટોળું’ નહીં પણ ‘ધણ’ કહેવું વધુ ઉચિત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિરોધી શબ્દ લખો: ‘સ્વાર્થ’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પરમાર્થ (અથવા નિઃસ્વાર્થ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્વ (પોતાનું) નું વિરોધી પર (બીજાનું) થાય, એટલે સ્વાર્થ × પરમાર્થ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સાચી જોડણી લખો: ‘ઈજનેરી’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઇજનેરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘ઇજનેરી’ માં ‘ઇ’ હ્રસ્વ (નાનો) આવે છે. ડૉ. કુરિયન મિકેનિકલ ઇજનેર હતા તે યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "‘અમૂલ’ ડેરીનું આખું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આણંદ મિલ્ક યુનિયન લિમિટેડ (Anand Milk Union Limited).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): A-M-U-L : A(Anand), M(Milk), U(Union), L(Limited). ગુજરાતીમાં ‘આણંદ દૂધ સંઘ’ પણ કહી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: ‘ભગીરથ કાર્ય કરવું’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અતિ મુશ્કેલ કે મોટું કાર્ય કરવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભગીરથ રાજા ગંગાને પૃથ્વી પર લાવ્યા હતા, જે અશક્ય કામ હતું. તેના પરથી આ રૂઢિપ્રયોગ બન્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "‘સ્વપ્નદ્રષ્ટા’ શબ્દનો અર્થ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્વપ્ન જોનાર અથવા ભવિષ્યનું લક્ષ્ય નક્કી કરનાર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દ્રષ્ટા એટલે જોનાર. ત્રિભુવનદાસ પટેલ ખેડૂતોના ઉત્કર્ષના ‘સ્વપ્નદ્રષ્ટા’ હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "જોડણી સુધારો: ‘પરિસ્થિતી’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પરિસ્થિતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘પરિ’ અને ‘સ્થિતિ’ બંનેમાં ‘ઇ’ હ્રસ્વ જ આવે. યાદ રાખવું: ચારેય માત્રા ડાબી બાજુ (િ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સમાનાર્થી આપો: (1) આજીવિકા (2) ગૌરવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (1) આજીવિકા - ગુજરાન, ભરણપોષણ (2) ગૌરવ - આદર, મોભો, પ્રતિષ્ઠા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખેડૂતોની ‘આજીવિકા’ માટે અમૂલ એક ‘ગૌરવ’ સમાન સંસ્થા બની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સંધિ જોડો: ‘સુર + ઇન્દ્ર’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સુરેન્દ્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અ + ઇ = એ. (નિયમ: ગુણ સંધિ). ર માં ‘અ’ છે અને બાજુમાં ‘ઇ’ છે, એટલે ‘રે’ બની જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: ‘જેની કોઈ સીમા નથી તે’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અસીમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અ (નકાર) + સીમા. કુરિયન સાહેબની મહેનત અસીમ હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "‘શ્વેતક્રાંતિના પ્રણેતાઓ’ પાઠમાં કયા શહેરનો ઉલ્લેખ વારંવાર થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આણંદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આણંદ એટલે ભારતની ‘Milk Capital’ (દૂધની નગરી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સાચી જોડણી લખો: ‘વૈજ્ઞાનીક’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વૈજ્ઞાનિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘ઇક’ પ્રત્યય લાગે ત્યારે આગળનો અક્ષર હંમેશા હ્રસ્વ (િ) જ હોય. (દા.ત. સામાજિક, આર્થિક, વૈજ્ઞાનિક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિરોધી શબ્દ લખો: ‘નૂતન’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પ્રાચીન (અથવા પુરાણું).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નૂતન એટલે નવું, પ્રાચીન એટલે જૂનું. આપણે ‘નૂતન વર્ષાભિનંદન’ કહીએ છીએ તે પરથી યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: ‘દૂધની બનાવટો બનાવવાનું કેન્દ્ર’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ડેરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ પાઠનો મુખ્ય વિષય ‘ડેરી ઉદ્યોગ’ જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સમાનાર્થી આપો: (1) ઉત્કૃષ્ટ (2) હિંમત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (1) ઉત્કૃષ્ટ - શ્રેષ્ઠ, ઉમદા (2) હિંમત - ધૈર્ય, બહાદુરી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘ઉત્કૃષ્ટ’ કાર્ય માટે ‘હિંમત’ હોવી જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: ‘સોનામાં સુગંધ ભળવી’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કોઈ સારી વસ્તુમાં વધુ ગુણ ઉમેરાવા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સોનું કિંમતી છે જ, પણ જો તેમાં સુગંધ આવે તો તે વધુ ઉત્તમ બને. તેમ ત્રિભુવનદાસ અને કુરિયનની જોડી સોનામાં સુગંધ સમાન હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સંધિ છૂટી પાડો: ‘પુરસ્કાર’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પુરઃ + કાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યાં અડધો ‘સ’ દેખાય ત્યાં વિસર્ગ (ઃ) સંધિની શક્યતા રહે છે. (નમસ્કાર = નમઃ + કાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: ‘જેનું મૃત્યુ થયું છે તે’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્વર્ગસ્થ (અથવા દિવંગત).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠમાં કુરિયન અને ત્રિભુવનદાસ બંને માટે માનપૂર્વક આ શબ્દ વાપરી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "‘શ્વેતક્રાંતિના પ્રણેતાઓ’ ચરિત્રલેખ આપણને શું સંદેશ આપે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સહકાર, નિષ્ઠા અને સમર્પણ દ્વારા મોટું પરિવર્તન લાવી શકાય છે તેનો સંદેશ આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ પાઠ ‘ટીમવર્ક’ (સહકાર) નો ઉત્તમ નમૂનો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સાચી જોડણી લખો: ‘શ્વેતક્રાંતી’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શ્વેતક્રાંતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘ક્રાંતિ’ માં ‘તિ’ હ્રસ્વ (િ) આવે. મૌલિક શબ્દોમાં અંતે ‘તિ’ હ્રસ્વ જ હોય (શાંતિ, ભક્તિ, ક્રાંતિ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિરોધી શબ્દ લખો: ‘સફળ’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિષ્ફળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘સ’ (સાથે) નું વિરોધી ‘નિઃ’ (વગર) થી બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: ‘બીજાના ભલા માટે કામ કરવું તે’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પરોપકાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પર (બીજા) + ઉપકાર = પરોપકાર.</p></div>"
+    }
+  ]
+}
