@@ -788,3 +788,161 @@ var Std10_Gujarati_FL_Chapter_Grammar = {
     }
   ]
 }
+,
+"6": {
+  "chapterNumber": 6,
+  "chapterTitle": "વાયરલ ઇન્ફેક્શન (નિબંધ)",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'વાયરલ ઇન્ફેક્શન' પાઠના કર્તા અને તેનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કર્તા: ગુણવંત શાહ | સાહિત્ય પ્રકાર: નિબંધ (લલિત નિબંધ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'વાયરલ' એટલે ગુણવંત શાહનો 'નિબંધ' જે 'મરો ત્યાં સુધી જીવો' પુસ્તકમાંથી લેવાયો છે. (યાદ રાખો: ગુણવંત માણસ ક્યારેય વાયરલ બીમારી ન ફેલાવે!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "નીચેના શબ્દનો સમાનાર્થી શબ્દ આપો: 'બેદરકાર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાળજી વગરનું, અસાવધ, ગફલતભર્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'દરકાર' એટલે ચિંતા/કાળજી, 'બે' લાગે એટલે કાળજી વગરનું - આ વિરોધી અર્થ આપતો પૂર્વગ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "નીચેના શબ્દનો વિરોધી શબ્દ આપો: 'તંદુરસ્ત'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> માંદું, બીમાર, અસ્વસ્થ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્વાસ્થ્ય અને તંદુરસ્ત સિક્કાની બે બાજુ છે, માંદગી તેનો વિરોધી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સાચી જોડણી લખો: 'મ્યુનિસિપાલિટી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મ્યુનિસિપાલિટી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મ્યુ-નિ-સિ-પા-લિ-ટી (બધા ઇ હ્રસ્વ છે સિવાય કે 'ટી'). અંગ્રેજી શબ્દોમાં છેલ્લો 'ટી' દીર્ઘ જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'ખાવા-પીવાની અને રહેવાની રીતભાત'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જીવનશૈલી (Life Style)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જીવન જીવવાની 'શૈલી' એટલે જીવનશૈલી. પાઠમાં લેખકે ખોટી જીવનશૈલી પર કટાક્ષ કર્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'હૃદય બેસી જવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભારે આઘાત લાગવો અથવા હિંમત હારી જવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હૃદય 'બેસી' જાય એટલે અવાજ કે હિંમત 'બેસી' જાય. આ પાઠમાં હોસ્પિટલના ખાટલા જોઈને હૃદય બેસી જવાની વાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સંધિ છૂટી પાડો: 'નિર્મળ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિઃ + મળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે 'ર' અડધો (રેફ) હોય, ત્યારે વિસર્ગ (:) સંધિ બને છે. નિઃ + મળ = નિર્મળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સમાનાર્થી શબ્દ આપો: 'અહંકાર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અભિમાન, ગર્વ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લેખક કહે છે કે 'અહંકાર' પણ માંદગી લાવે છે. 'હું' પણું એટલે જ અહંકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિરોધી શબ્દ આપો: 'નિરોગી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રોગી, માંદું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'નિ' એટલે વગરનું. નિ + રોગ = રોગ વગરનું. તેનું ઉલટું 'રોગી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સાચી જોડણી લખો: 'કાર્ડિયોગ્રામ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાર્ડિયોગ્રામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અંગ્રેજી શબ્દોમાં 'કાર્ડિ' માં 'ડિ' હ્રસ્વ આવે છે. રકાર હંમેશા ડ પર આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'હૃદયના ધબકારા માપવાનું યંત્ર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાર્ડિયોગ્રામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'કાર્ડિયો' શબ્દ હૃદય સાથે જોડાયેલો છે અને 'ગ્રામ' એટલે આલેખ/નોંધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'લોહી ઉકળી ઉઠવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અતિશય ગુસ્સો આવવો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગરમ લોહી = ગુસ્સો. જ્યારે માણસ અન્યાય કે ગંદકી જુએ ત્યારે લોહી ઉકળી ઉઠે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સમાનાર્થી શબ્દ આપો: 'વેદના'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પીડા, વ્યથા, દુઃખ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સંવેદના' માં 'વેદના' છુપાયેલી છે. શરીરની પીડા એટલે વેદના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિરોધી શબ્દ આપો: 'સદભાગ્ય'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દુર્ભાગ્ય, કમનસીબ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સદ' (સારી) નું વિરોધી 'દુર' (ખરાબ) થાય. સદભાગ્ય - દુર્ભાગ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સાચી જોડણી લખો: 'ઇન્ફેક્શન'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઇન્ફેક્શન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઇ હ્રસ્વ આવશે અને ફ ઉપર વ્યંજનનો રેફ આવશે નહીં, માત્ર ઇ-ન્ફે-ક્શ-ન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'રોગ ફેલાવનારા અતિ સૂક્ષ્મ જીવાણુ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વાયરસ (વિષાણુ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠનું શીર્ષક 'વાયરલ' છે જે વાયરસ પરથી આવ્યું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સંધિ જોડો: 'સત્ + આચાર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સદાચાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ત' પછી સ્વર આવે તો 'ત' નો 'દ' થઈ જાય છે. ત્ + આ = દા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સમાનાર્થી શબ્દ આપો: 'પરિવાર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કુટુંબ, કબિલો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પરિવાર એટલે સાથે રહેતા લોહીના સગાઓનું જૂથ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિરોધી શબ્દ આપો: 'સ્વચ્છતા'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગંદકી, અસ્વચ્છતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠમાં ગંદકીને માંદગીનું મૂળ કારણ ગણાવ્યું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સાચી જોડણી લખો: 'શિસ્ત'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શિસ્ત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'શ' શરણાઈનો અને 'સ' સસલાનો અડધો 'ત' સાથે જોડાશે. શિ હંમેશા હ્રસ્વ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'શરીરના અવયવોનું યોગ્ય રીતે કાર્ય કરવું તે'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્વાસ્થ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્વ + આસ્થ્ય = સ્વાસ્થ્ય. પોતાની અવસ્થામાં રહેવું તે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સમાનાર્થી શબ્દ આપો: 'સાવધ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જાગૃત, હોશિયાર, સાવચેત.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સ' + 'અવધાન' એટલે કે પૂરા ધ્યાન સાથે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિરોધી શબ્દ આપો: 'અમર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મર્ત્ય, નાશવંત.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'અ' એટલે નહીં અને 'મર' એટલે મરનાર. જે મરે તે 'મર્ત્ય'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સાચી જોડણી લખો: 'પ્રાયશ્ચિત'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પ્રાયશ્ચિત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'શ્ચિ' માં 'શ' અડધો અને 'ચ' ને હ્રસ્વ ઇ ની માત્રા લાગશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સમાનાર્થી શબ્દ આપો: 'નિરપરાધ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગુના વગરનું, નિર્દોષ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નિર + અપરાધ = જેને કોઈ અપરાધ કર્યો નથી તે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'તાડૂકી ઉઠવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગુસ્સે થઈને જોરથી બોલવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોટા અવાજે ખીજાવું એને તાડૂકવું કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "સમાનાર્થી શબ્દ આપો: 'સંકલ્પ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિર્ણય, નિશ્ચય, ટેક.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નવું વર્ષ આવે ત્યારે આપણે 'નિશ્ચય' કરીએ તેને સંકલ્પ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિરોધી શબ્દ આપો: 'સ્વીકાર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અસ્વીકાર, ત્યાગ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘણીવાર માત્ર 'અ' લગાડવાથી વિરોધી શબ્દ બની જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "પાઠના અંતે કયા પુસ્તકનો ઉલ્લેખ છે (સંદર્ભ)?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'મરો ત્યાં સુધી જીવો'</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુણવંત શાહનું આ પ્રસિદ્ધ પુસ્તક છે, જેનું નામ જ હકારાત્મકતા ફેલાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'વધારે પડતો ખર્ચ કરનાર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઉડાઉ (અપવ્યયી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે પૈસાને હવામાં 'ઉડાડે' તેને ઉડાઉ કહેવાય.</p></div>"
+    }
+  ]
+}
