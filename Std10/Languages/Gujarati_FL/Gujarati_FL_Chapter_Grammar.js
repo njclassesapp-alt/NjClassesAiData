@@ -1104,3 +1104,161 @@ var Std10_Gujarati_FL_Chapter_Grammar = {
     }
   ]
 }
+,
+"8": {
+  "chapterNumber": 8,
+  "chapterTitle": "સૂરજ તો બધે જ સરખો",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘સૂરજ તો બધે જ સરખો’ કૃતિના કર્તા અને સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કર્તા: વિનોદ ભટ્ટ, સાહિત્ય પ્રકાર: હાસ્ય નિબંધ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિનોદ એટલે ‘આનંદ/હાસ્ય’, એટલે વિનોદ ભટ્ટની કૃતિ હાસ્ય નિબંધ જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "નીચેનામાંથી ‘અદભુત’ શબ્દનો સમાનાર્થી શબ્દ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અલૌકિક, અપરંપાર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ‘ભુત’ જેવું અજીબ અને મોટું હોય તે અદભુત એટલે કે અલૌકિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "‘આથમણું’ શબ્દનો વિરોધી શબ્દ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઉગમણું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂરજ ‘આથમે’ તે આથમણું (પશ્ચિમ) અને ‘ઉગે’ તે ઉગમણું (પૂર્વ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સાચી જોડણી લખો: ‘વિષુવવૃત્ત’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિષુવવૃત્ત (વ ને હ્રસ્વ ‘િ’ અને ષ ને હ્રસ્વ ‘ુ’ આવશે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ‘વૃત્ત’ માં હંમેશા નીચે ‘ઋ’ ની માત્રા (વૃ) આવે છે, તે યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: ‘જેની કલ્પના ન કરી શકાય તેવું’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અકલ્પ્ય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ‘અ’ (નહીં) + ‘કલ્પ્ય’ (કલ્પના), જેની કલ્પના ન થાય તે અકલ્પ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "‘સૂરજ’ શબ્દના બે સમાનાર્થી શબ્દો આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રવિ, ભાસ્કર, આદિત્ય, ભાનુ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂરજ દાદાના નામ ઘણા છે, પણ ‘રવિ’ અને ‘ભાનુ’ સૌથી સહેલા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: ‘ડાબું-જમણું કરવું’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઉચાપત કરવી અથવા ગોલમાલ કરવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીધા રસ્તે ન જવું અને આજુબાજુ (ડાબે-જમણે) જોવું એટલે કઈક ગોલમાલ કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સંધિ છોડો: ‘સૂર્યોદય’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સૂર્ય + ઉદય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અ + ઉ = ઓ. સૂર્ય (અ) + ઉદય (ઉ) = સૂર્યોદય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "નીચેનામાંથી ‘પ્રસન્ન’ શબ્દનો વિરોધી શબ્દ કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અપ્રસન્ન અથવા ઉદાસ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરોધી શબ્દ બનાવવા માટે આગળ ‘અ’ પ્રત્યય લગાડવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સાચી જોડણી લખો: ‘મહાબળેશ્વર’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મહાબળેશ્વર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહા + બળ + ઈશ્વર. ત્રણ શબ્દો ભેગા મળીને આ નામ બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "‘પાણી’ શબ્દનો સમાનાર્થી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જળ, નીર, વારિ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઈડ્રોજન અને ઓક્સિજન મળે તો ‘જળ’ બને, પાઠમાં ‘પાણી’ પણ બહુ મહત્વનું છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "‘નિર્જન’ શબ્દનો અર્થ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> માણસ વિનાનું, વેરાન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિ: (વગરનું) + જન (માણસ) = નિર્જન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સમાસ ઓળખાવો: ‘સૂર્યકિરણ’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તત્પુરુષ સમાસ (સૂર્યના કિરણ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિગ્રહ કરતી વખતે ‘ના, ની, નું, ના’ આવે તો તે તત્પુરુષ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "‘હોટેલ’ શબ્દનો ગુજરાતી પર્યાય શું હોઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભોજનાલય અથવા વિશ્રામગૃહ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં ભોજન મળે તે ભોજનાલય, લેખક માટે તો આ જ મુખ્ય પ્રવાસ હતો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સાચી જોડણી જણાવો: ‘પ્રદર્શન’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પ્રદર્શન (શ ઉપર રેફ આવશે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દર્શન માં હંમેશા રેફ ‘શ’ પર જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "‘સૂરજ તો બધે જ સરખો’ પાઠમાં કયા હાસ્યરસનો ઉપયોગ થયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કટાક્ષ અને વ્યંગાત્મક હાસ્ય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકો ફરવા જાય પણ ખાવાનું ન ભૂલે, એ મોટી કટાક્ષ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "‘અનાયાસ’ શબ્દનો સમાનાર્થી શબ્દ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સહેલાઈથી, પ્રયત્ન વગર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન આયાસ = જે કરવા માટે ખાસ મહેનત (આયાસ) ન કરવી પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિરુદ્ધાર્થી શબ્દ આપો: ‘સ્વદેશ’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પરદેશ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વ (પોતાનું) નું વિરોધી પર (બીજાનું) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: ‘વધારે પડતું બોલનાર’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વાચાળ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાચા (બોલી) જેની બહુ ચાલે તે વાચાળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "‘ખુશનુમા’ શબ્દની સંધિ કે પ્રત્યય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ખુશ + નુમા (પર પ્રત્યય).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ ફારસી મૂળનો પ્રત્યય છે જે પાછળ લાગે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "‘સૂરજ તો બધે જ સરખો’ એકમમાં લેખક કયા શહેરની વાત કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આબુ, મહાબળેશ્વર, શિલોંગ વગેરે પ્રવાસન સ્થળોની.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ બધા સ્થળો ‘સૂર્યાસ્ત’ જોવા માટે પ્રખ્યાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સંધિ જોડો: ‘નિ: + જન’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિર્જન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિસર્ગ (:) પછી ઘોષ વ્યંજન આવે તો વિસર્ગનો ‘ર્’ (રેફ) થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "‘ટાબુ’ અને ‘આબુ’ વચ્ચેનો રમુજી તફાવત લેખક કેવી રીતે આપે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક કહે છે કે આબુમાં રબડી સારી મળે છે, ટાબુમાં શું મળે છે તેની એમને ખબર નથી!</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેખક માટે સ્થળ કરતા ત્યાંની વાનગી (ખાદ્ય પદાર્થ) વધુ મહત્વની છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિશેષણ શોધો: ‘પેલી સુંદર ટેકરી દેખાય છે.’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સુંદર (ગુણવાચક વિશેષણ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામની આગળ ‘કેવી’ લગાડવાથી જે જવાબ મળે તે વિશેષણ (ટેકરી કેવી? - સુંદર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "‘ધર્મિષ્ઠ’ શબ્દની સાચી જોડણી લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધર્મિષ્ઠ (મ પર રેફ અને ‘િ’ હ્રસ્વ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ‘ઈષ્ઠ’ પ્રત્યયમાં હંમેશા ‘િ’ હ્રસ્વ જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "‘બધે જ’ શબ્દમાં ‘જ’ શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિપાત (ભારવાચક).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે શબ્દ ભાર આપવા વપરાય તે નિપાત કહેવાય (જ, તો, પણ, ય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "‘સૂર્ય’ અને ‘સૂરજ’ વચ્ચે વ્યાકરણની દ્રષ્ટિએ શું તફાવત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘સૂર્ય’ તત્સમ (સંસ્કૃત જેવો) છે, ‘સૂરજ’ તદ્ભવ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંસ્કૃતમાંથી સીધા આવેલા શબ્દો તત્સમ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "નીચેનામાંથી કયો શબ્દ ‘પ્રકાશ’ નો પર્યાય નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અંધકાર (તે વિરોધી છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉજાસ, તેજ, જ્યોતિ એ બધા પ્રકાશના પર્યાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "‘પૃથ્વી’ શબ્દનો સાચો સમાનાર્થી શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વસુધા, ધરા, અવની.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વીના નામો તો ધોરણ 1 થી આપણે શીખ્યા છીએ, ભૂલ ન થવી જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "લેખક વિનોદ ભટ્ટને કયા એવોર્ડથી સન્માનિત કરવામાં આવ્યા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કુમાર ચંદ્રક, રણજિતરામ સુવર્ણચંદ્રક વગેરે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સારા લેખકોને હંમેશા ‘રણજિતરામ સુવર્ણચંદ્રક’ તો મળે જ છે!</p></div>"
+    }
+  ]
+}
