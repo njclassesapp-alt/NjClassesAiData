@@ -1262,3 +1262,161 @@ var Std10_Gujarati_FL_Chapter_Grammar = {
     }
   ]
 }
+,
+"9": {
+  "chapterNumber": 9,
+  "chapterTitle": "માધવને દીઠો છે ક્યાંય?",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કૃતિ: 'માધવને દીઠો છે ક્યાંય?' ના કર્તા (કવિ) કોણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હરીન્દ્ર દવે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'માધવ' અને 'હરિ' બંને ભગવાનના નામ છે, એટલે માધવવાળા કાવ્યમાં 'હરિ'ન્દ્ર દવે જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'માધવને દીઠો છે ક્યાંય?' કૃતિનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઊર્મિગીત (Lyrical Poem)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૃષ્ણની ભક્તિમાં હૃદયની 'ઊર્મિ' (લાગણી) વહે છે, માટે આ 'ઊર્મિગીત' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "'માધવને દીઠો છે ક્યાંય?' કાવ્ય કયા કાવ્યસંગ્રહમાંથી લેવામાં આવ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વરસાદની મોસમ છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૃષ્ણનો રંગ વાદળ જેવો શ્યામ છે, માટે 'વરસાદની મોસમ' યાદ રાખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સમાનાર્થી શબ્દ આપો: 'માધવ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કૃષ્ણ, શ્યામ, કાનજી, ગોપાલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૃષ્ણના 1000 નામ છે, પણ પરીક્ષામાં શ્યામ કે ગોપાલ વધુ પૂછાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સમાનાર્થી શબ્દ આપો: 'સમીર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પવન, વાયુ, અનિલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમીર' પવનની જેમ વહે છે. (નોંધ: અનિલ એટલે પવન, અનલ એટલે અગ્નિ - આ ભૂલતા નહીં!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સમાનાર્થી શબ્દ આપો: 'વિભાવરી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રાત્રિ, નિશા, રજની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિભાવરી એટલે અંધકારવાળી રાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સમાનાર્થી શબ્દ આપો: 'મયંક'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ચંદ્ર, શશી, સુધાકર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાશમાં મયંક (ચંદ્ર) 'અંક' (નિશાન) સાથે દેખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિરોધી શબ્દ આપો: 'વિખૂટું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભેગું, સાથે, જોડાયેલું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે છૂટું પડે તે વિખૂટું, જે મળે તે ભેગું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિરોધી શબ્દ આપો: 'સાંજ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સવાર (પ્રભાત)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ તો સાવ સહેલું છે, સવાર-સાંજની જોડી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિરોધી શબ્દ આપો: 'ભાગ્યવાન'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અભાગી, કમનસીબ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વાન' ની જગ્યાએ 'અ' પ્રત્યય લગાડીને વિરોધી બનાવી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સાચી જોડણી લખો: 'મોરપિચ્છ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મોરપિચ્છ (નોંધ: 'પિ' માં હ્રસ્વ 'ઇ' આવે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંયુક્તાક્ષર (ચ્છ) ની પૂર્વેનો સ્વર હંમેશા હ્રસ્વ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સાચી જોડણી લખો: 'કૃષ્ણ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કૃષ્ણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક ની નીચે 'ઋ' ની માત્રા અને ષ (ફાડી ષ) અડધો આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સાચી જોડણી લખો: 'વ્યાકુળ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વ્યાકુળ (નોંધ: 'કુ' માં હ્રસ્વ 'ઉ' આવશે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યાકુળમાં 'કુ' નાનો (હ્રસ્વ) જ હોય, કારણ કે તે તત્સમ શબ્દ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: 'જેની નીચે બેસીને કૃષ્ણ વાંસળી વગાડતા તે વૃક્ષ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કદંબ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કદંબ = કૃષ્ણનું મનપસંદ વૃક્ષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: 'જેનામાં તેજ હોય તેવું (અહીં ચંદ્રના સંદર્ભમાં)'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તેજસ્વી અથવા તેજપુંજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્યમાં 'તેજની સરવાણી' શબ્દ પ્રયોજાયો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: 'પવનની લહેર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લ્હેરખી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લ્હેર + ખી = લ્હેરખી (નાની લહેર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'માર્ગ જોવો'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રાહ જોવી અથવા પ્રતીક્ષા કરવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંખો રસ્તે મંડાયેલી હોવી એટલે જ માર્ગ જોવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "તળપદા શબ્દનું શિષ્ટરૂપ આપો: 'દીઠો'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જોયો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દીઠો' એ સંસ્કૃત 'દૃષ્ટ' પરથી આવ્યો છે, જેનો અર્થ જોવું થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "તળપદા શબ્દનું શિષ્ટરૂપ આપો: 'વેણુ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વાંસળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેણુ નાદ એટલે વાંસળીનો અવાજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "શબ્દાર્થ: 'પરવાયા' વગરનો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બેપરવા, ચિંતા વગરનું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરવા = ચિંતા, વગર = વગરનું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સંધિ છૂટી પાડો: 'પુનરુક્તિ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પુનઃ + ઉક્તિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિસર્ગનો 'ર' થઈ જાય જ્યારે પાછળ સ્વર હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સંધિ જોડો: 'નિઃ + સાસ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિશ્વાસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિસર્ગ પછી 'સ' હોય તો વિસર્ગ કાયમ રહે અથવા 'શ' માં બદલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "કાવ્ય પંક્તિનો અર્થ: 'યમુનાના વહેણ તમે મૂંગા છો કેમ?' - આ પંક્તિ શું સૂચવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કૃષ્ણના વિરહમાં આખી પ્રકૃતિ શોકમગ્ન (દુઃખી) છે, તેથી યમુનાના વહેણ પણ શાંત થઈ ગયા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૃષ્ણ વગર બધું જ 'મૂંગું' અને 'નિર્જીવ' લાગે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "કાવ્યમાં 'ધૂળ' ને કયો પ્રશ્ન પૂછવામાં આવ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મારા માધવને દીઠો છે ક્યાંય?</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાંસળીનો સૂર સૌથી પહેલા માર્ગની ધૂળને પૂછે છે કારણ કે કૃષ્ણ ત્યાંથી પસાર થયા હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સમાસ ઓળખાવો: 'શ્યામરંગ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કર્મધારય સમાસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિશેષણ + વિશેષ્ય (શ્યામ એ રંગની વિશેષતા છે) = કર્મધારય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "સમાસ ઓળખાવો: 'મોરપિચ્છ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તત્પુરુષ સમાસ (મોરનું પિચ્છ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નું' પ્રત્યયથી વિગ્રહ થાય એટલે ષષ્ઠી તત્પુરુષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિશેષણ શોધો: 'ઝૂકતી તેરી અહીં કદંબની છાય'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઝૂકતી (ગુણવાચક વિશેષણ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છાયા કેવી છે? જવાબ 'ઝૂકતી' મળે, એટલે તે વિશેષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "કાવ્યમાં 'રાધાની આંખ' માં શું હોવાનું કવિ કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઉદાસી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૃષ્ણના વિરહમાં રાધાની આંખમાં હંમેશા ઉદાસી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "લિંગ ઓળખાવો: 'લહરી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્ત્રીલિંગ (લહરી કેવી?)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કેવી' થી પ્રશ્ન પૂછતા જવાબ મળે તે સ્ત્રીલિંગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "કાવ્યમાં 'ચંદ્ર' માટે કયો શબ્દ વપરાયો છે જેનો અર્થ 'હરણ જેવું લાંછન ધરાવનાર' પણ થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મયંક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૃગ (હરણ) જેનું ચિહ્ન છે તે 'મૃગાંક' પરથી 'મયંક'!</p></div>"
+    }
+  ]
+}
