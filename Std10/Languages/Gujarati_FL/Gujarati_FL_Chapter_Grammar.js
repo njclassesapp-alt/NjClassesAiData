@@ -1588,3 +1588,161 @@ var Std10_Gujarati_FL_Chapter_Grammar = {
     }
   ]
 }
+,
+"11": {
+  "chapterNumber": 11,
+  "chapterTitle": "શિકારીને (કાવ્ય)",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'શિકારીને' કાવ્યના કવિનું નામ અને તેમનું ઉપનામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિનું નામ: સુરસિંહજી તખ્તસિંહજી ગોહિલ અને તેમનું ઉપનામ 'કલાપી' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રાજા કલાપી' - લાઠીના રાજવી હોવાથી યાદ રાખવું કે સુરસિંહજી તે જ કલાપી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'શિકારીને' કાવ્યનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યનો સાહિત્ય પ્રકાર 'ઊર્મિકાવ્ય' (સોનેટના લક્ષણો ધરાવતું અનુષ્ટુપ છંદમાં રચાયેલું કાવ્ય) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કલાપીના કાવ્યો હૃદયની 'ઊર્મિ' થી ભરેલા હોય છે, એટલે 'ઊર્મિકાવ્ય'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "નીચેના શબ્દનો સમાનાર્થી શબ્દ આપો: 'સંહાર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નાશ અથવા પ્રલય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંહાર = ખતમ કરી દેવું (નાશ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "નીચેના શબ્દનો સમાનાર્થી શબ્દ આપો: 'તરુ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વૃક્ષ અથવા ઝાડ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તરુ' જે જમીન પર 'તરે' નહીં પણ સ્થિર રહે તે વૃક્ષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "નીચેના શબ્દનો સમાનાર્થી શબ્દ આપો: 'લતા'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વેલ અથવા વેલી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લતા મંગેશકરના સુર 'વેલ' ની જેમ પથરાય છે, એટલે લતા = વેલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "નીચેના શબ્દનો સમાનાર્થી શબ્દ આપો: 'પક્ષી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પંખી, વિહગ અથવા અંડજ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિહગ એટલે આકાશ (વિયત) માં ગતિ કરનાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "નીચેના શબ્દનો સમાનાર્થી શબ્દ આપો: 'ઘટશે'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શોભશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અહીં 'ઘટવું' એટલે ઓછું થવું નહીં, પણ કાવ્યના સંદર્ભમાં 'યોગ્ય લાગવું' કે 'શોભવું'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "નીચેના શબ્દનો વિરોધી શબ્દ આપો: 'સંહાર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સર્જન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તોડવું (સંહાર) vs બનાવવું (સર્જન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "નીચેના શબ્દનો વિરોધી શબ્દ આપો: 'સ્થૂળ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સૂક્ષ્મ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થૂળ એટલે દેખાય તેવું મોટું, સૂક્ષ્મ એટલે સાવ ઝીણું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "નીચેના શબ્દનો વિરોધી શબ્દ આપો: 'કોમળ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કઠોર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂલ કોમળ હોય અને પથ્થર કઠોર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સાચી જોડણી લખો: 'શિકારી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શિકારી (શ - હ્રસ્વ 'િ' અને ર - દીર્ઘ 'ી').</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'િ' પહેલા અને 'ી' છેલ્લે - શિ+કારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સાચી જોડણી લખો: 'સૌંદર્ય'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સૌંદર્ય (સ ની ઉપર બે માત્રા અને ર્ ય ની ઉપર અનુસ્વાર જેવો ઉચ્ચાર રેફમાં).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ય' ની ઉપર હંમેશા રેફ આવે ત્યારે આગળનો અક્ષર દીર્ઘ જેવો વંચાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સાચી જોડણી લખો: 'સૃષ્ટિ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સૃષ્ટિ (સ ની નીચે 'ૃ' અને ષ્ટિ હ્રસ્વ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જોડાક્ષરની પૂર્વેનો 'ઇ' હંમેશા હ્રસ્વ 'િ' હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'કુદરતનું સુંદર સર્જન'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સૃષ્ટિ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું જગત એટલે સૃષ્ટિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'પક્ષીઓનો મધુર અવાજ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કલરવ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષીઓ 'કલર' નથી કરતા પણ 'કલરવ' કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સંધિ છોડો: 'સંહાર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સમ્ + હાર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર અનુસ્વાર હોય ત્યારે સંધિમાં 'મ્' ખોડો આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સંધિ જોડો: 'પરમ + ઈશ્વર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પરમેશ્વર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અ + ઈ = એ (એક માત્રા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "'સૌંદર્યો વેડફી દેતાં, ના મળે સુંદરતા કદી' - આ પંક્તિનો ભાવાર્થ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જો આપણે પ્રકૃતિના સૌંદર્યનો નાશ કરીએ, તો આપણને ક્યારેય સાચું સૌંદર્ય પ્રાપ્ત થતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાશ કરવાથી કંઈ મળતું નથી, રક્ષણ કરવાથી મળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "નીચેના શબ્દનો અર્થ આપો: 'આર્દ્રતા'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભીનાશ અથવા મૃદુતા (દયાવૃત્તિ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આર્દ્ર એટલે ભીનું, અહીં હૃદયની ભીનાશ (દયા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "'રે રે ! સૃષ્ટિ સૌંદર્ય ભરેલી' - આ વાક્યમાં કયો ભાવ પ્રગટ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આશ્ચર્ય અને કુદરતની ભવ્યતાનો ભાવ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રે રે' ઉદ્ગારવાચક શબ્દ લાગણી દર્શાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "'શિકારીને' કાવ્યમાં કવિ કોને સંબોધીને કાવ્ય લખે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શિકારીને (ક્રૂરતા આચરનાર માનવીને).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શીર્ષક જ ઉત્તર છે - 'શિકારીને'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "નીચેનામાંથી કયો શબ્દ 'પથ્થર' નો સમાનાર્થી છે? (પાષાણ, પર્વત, લતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પાષાણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાષાણ યુગ એટલે પથ્થરનો યુગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "'તુજથી' શબ્દમાં કઈ વિભક્તિ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પંચમી વિભક્તિ (અપાદાન - થી પ્રત્યય).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થી, થકી, વડે - તૃતીયા કે પંચમી દર્શાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "નીચેના શબ્દનો વિરોધી શબ્દ આપો: 'મધુર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કડવું અથવા કર્કશ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવાજ માટે 'કર્કશ' અને સ્વાદ માટે 'કડવું'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "'કલાપીનો કેકારવ' એ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કલાપીનો મુખ્ય કાવ્યસંગ્રહ છે, જેમાંથી 'શિકારીને' કાવ્ય લેવામાં આવ્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કલાપી (મોર) અને કેકારવ (મોરનો ટહુકો) - આ રીતે યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "નીચેના શબ્દનો સમાનાર્થી આપો: 'કુસુમ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ફૂલ અથવા પુષ્પ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુસુમ, સુમન અને પુષ્પ ત્રણેય ફૂલના મિત્રો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "'ક્રૂરતા' શબ્દનો પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભાવવાચક સંજ્ઞા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે અનુભવી શકાય પણ સ્પર્શી ન શકાય તે ભાવવાચક સંજ્ઞા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "નીચેના શબ્દનો સમાનાર્થી આપો: 'સુણવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સાંભળવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુણવું = શ્રવણ કરવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "'સૌંદર્ય પામતા પહેલાં સૌંદર્ય બનવું પડે' - આ પંક્તિ શું સૂચવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સુંદરતા જોવા માટે દ્રષ્ટિ પણ સુંદર હોવી જોઈએ (માનસિક પવિત્રતા જરૂરી છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેવું મન, તેવી સૃષ્ટિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "નીચેના શબ્દનો અર્થ આપો: 'સ્થૂળ શરીર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભૌતિક શરીર (જે નશ્વર છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થૂળ એટલે જે પંચમહાભૂતનું બનેલું દેખાય છે તે.</p></div>"
+    }
+  ]
+}
