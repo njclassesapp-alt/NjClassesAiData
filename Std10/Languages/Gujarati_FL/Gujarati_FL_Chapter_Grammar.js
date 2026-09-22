@@ -1904,3 +1904,161 @@ var Std10_Gujarati_FL_Chapter_Grammar = {
     }
   ]
 }
+,
+"13": {
+  "chapterNumber": 13,
+  "chapterTitle": "ક્યારે વાગી (લોકગીત)",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘ક્યારે વાગી’ કૃતિનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લોકગીત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકગીતનો કોઈ એક રચયિતા હોતો નથી, તે 'લોકસમૂહ' દ્વારા રચાયેલું હોય છે. યાદ રાખો: ક્યારે વાગી = લોકગીત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘ક્યારે વાગી’ લોકગીતના કવિનું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અજ્ઞાત (લોકગીત હોવાથી રચયિતા અજ્ઞાત છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે સાહિત્ય પ્રકાર 'લોકગીત' હોય ત્યારે હંમેશા 'અજ્ઞાત' અથવા 'લોકસમૂહ' શબ્દ યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સમાનાર્થી શબ્દ આપો: 'મોરલી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વાંસળી, બંસરી, વેણુ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોરલી એટલે કૃષ્ણનું વાજિંત્ર. વેણુ-નાદ પરથી 'વેણુ' યાદ રાખવું સહેલું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સમાનાર્થી શબ્દ આપો: 'ગગન'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આકાશ, આભ, નભ, વ્યોમ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ કાવ્યમાં 'ગગન ગાજે' પંક્તિ છે, માટે નભ-આકાશના પર્યાય યાદ રાખવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સમાનાર્થી શબ્દ આપો: 'સાદ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અવાજ, બૂમ, હાક.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈને બોલાવવા માટે પાડવામાં આવતો 'અવાજ' એટલે સાદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સમાનાર્થી શબ્દ આપો: 'મૈયર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પિયર, પિતાનું ઘર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માતા પરથી 'મૈયર' શબ્દ આવ્યો છે, જે પિયરનો સમાનાર્થી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સમાનાર્થી શબ્દ આપો: 'વિજોગ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિરહ, જુદાઈ, વિયોગ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંયોગ (ભેગા થવું) નું ઉલટું વિયોગ (વિજોગ). તળપદા શબ્દ તરીકે પણ પૂછાય શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિરોધી શબ્દ આપો: 'સાસરું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પિયર (મૈયર).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ત્રી માટે બે ઘર - પરણ્યા પછીનું સાસરું અને જન્મનું પિયર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિરોધી શબ્દ આપો: 'જાગવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઊંઘવું, સૂવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાગૃત અવસ્થા વિરુદ્ધ નિદ્રાધીન અવસ્થા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિરોધી શબ્દ આપો: 'વિજોગણ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સંયોગણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિજોગ (જુદાઈ) x સંયોગ (મિલન). પાછળ 'ણ' પ્રત્યેય સરખો રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સાચી જોડણી લખો: 'મોરલી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મોરલી (મ ને કાનો માત્ર 'મો', ર અને લ ને દીર્ઘ ઈ 'લી')</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતીમાં મોટાભાગના ઈ-કારાંત શબ્દો દીર્ઘ હોય છે, માટે 'લી' દીર્ઘ આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સાચી જોડણી લખો: 'વિજોગણ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિજોગણ (વ ને હ્રસ્વ ઈ 'વિ')</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વિ' ઉપસર્ગ મોટાભાગે હ્રસ્વ જ હોય છે (દા.ત. વિજ્ઞાન, વિદેશ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સાચી જોડણી લખો: 'શમણું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શમણું (શ મીંડાવાળો, મ અને ણ ને હ્રસ્વ ઉ તથા માથે મીંડું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નપુંસકલીંગ શબ્દોના અંતે 'ણું' હ્રસ્વ આવે અને અનુસ્વાર લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'ગાયોને ચરાવનાર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગોવાળ (ગોવાળિયો).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગો' એટલે ગાય + વાળ (રક્ષણ કરનાર/રાખનાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'જેના મન મોહી લેવાયા હોય તેવી સ્ત્રી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મોહિની / મનમોહી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્યના સંદર્ભમાં ગોપીઓ શ્રીકૃષ્ણની મોરલીથી મોહિત થઈ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "તળપદા શબ્દનું શિષ્ટરૂપ આપો: 'વાગી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વાગી એટલે વાગી (અહીં વગાડવાના અર્થમાં છે - Sounded/Played).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકગીતમાં પ્રાદેશિક લઢણ હોય છે, 'વાગી' એટલે અવાજ થયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'ભાન ભૂલવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બેધ્યાન થવું, શુદ્ધબુદ્ધ ગુમાવવી, તન્મય થઈ જવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોપીઓ મોરલીના નાદમાં એટલી ડૂબી ગઈ કે તે પોતાનું ઘર-બાર બધું ભૂલી ગઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'મન હરવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આકર્ષવું, મોહી લેવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હરવું' એટલે ખેંચી લેવું. મનને જે ખેંચી લે તે મન હરનાર (મનોહર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કાવ્યપંક્તિ પૂર્ણ કરો: 'કાનૂડે કામણ કર્યાં .........'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'કાનૂડે કામણ કર્યાં રે, મોરલી ક્યારે વાગી!'</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કામણ' એટલે જાદુ. કૃષ્ણની મોરલીએ ગોપીઓ પર જાદુ કર્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "શબ્દ સમજૂતી: 'ગજગામિની' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હાથી જેવી મનમોહક ચાલવાળી સ્ત્રી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગજ = હાથી + ગામિની = ચાલનારી. હાથીની ચાલ ગંભીર અને મસ્ત હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "તળપદા શબ્દનું શિષ્ટરૂપ આપો: 'મેલ્યાં'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> છોડ્યાં, ત્યજ્યાં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિયર મેલ્યાં, સાસરડાં મેલ્યાં... એટલે કે બધું છોડીને મોરલી પાછળ દોડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિશેષણ ઓળખાવો: 'ગગન ગાજે છે.'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અહીં 'ગાજે' એ ક્રિયાપદ છે, પણ જો 'ગાજતું ગગન' હોય તો 'ગાજતું' વિશેષણ બને. કાવ્યમાં ગગન ક્યાં ગાજે છે? - તો ગગન એટલે આકાશ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામની વિશેષતા બતાવે તે વિશેષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "કાવ્યમાં 'કાનૂડો' શબ્દ કોના માટે વપરાયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શ્રીકૃષ્ણ માટે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાન, કાનૂડો, કિશન, ગોપાલ - આ બધા કૃષ્ણના જ નામો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "પ્રત્યય ઓળખાવો: 'મોરલી' શબ્દમાં કયો પ્રત્યય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'લી' એ સ્ત્રીલિંગી પ્રત્યય છે (પરપ્રત્યય).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શબ્દની પાછળ લાગે તેને 'પરપ્રત્યય' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સંધિ છૂટી પાડો: 'ગજગામિની'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગજ + ગામિની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ સંયુક્ત શબ્દ છે, જેમાં બે સ્વતંત્ર અર્થ ધરાવતા શબ્દો જોડાયા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "શબ્દ સમજૂતી: 'શમણું' નો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્વપ્ન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શમણું (તળપદું) -> સ્વપ્ન (શિષ્ટ). યાદ રાખો 'સ' પરથી સ્વપ્ન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "કાવ્યમાં મોરલી ક્યાં વાગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગગનમાં (આભમાં).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આભમાં ઝીણી ઝીણી ઝબૂકે વીજળી' અને 'ગગનમાં મોરલી વાગી' આ કલ્પના વ્યાપકતા દર્શાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "કાવ્યના આધારે જણાવો કે કોણ હારી ગયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગોપીનું મન હરાઈ ગયું છે (ભાન ભૂલી ગઈ છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હરવું' એટલે ચોરાઈ જવું. કૃષ્ણે ગોપીનું મન હરી લીધું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "મોરલીના નાદની ગોપીઓ પર શું અસર થઈ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગોપીઓ પિયર અને સાસરું છોડીને, ભાન ભૂલીને મોરલી તરફ ખેંચાઈ ગઈ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોરલીનો નાદ = આકર્ષણ + ત્યાગ + તન્મયતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "લિંગ ઓળખાવો: 'મોરલી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્ત્રીલિંગ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કેવી?' પૂછવાથી જવાબ મળે તે સ્ત્રીલિંગ. મોરલી કેવી? - સ્ત્રીલિંગ.</p></div>"
+    }
+  ]
+}
