@@ -1420,3 +1420,171 @@ var Std10_Gujarati_FL_Chapter_Grammar = {
     }
   ]
 }
+,
+"10": {
+  "chapterNumber": 10,
+  "chapterTitle": "ડાંગવનો અને...",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'ડાંગવનો અને...' નિબંધના લેખકનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પ્રકરણના લેખક <strong>મહેન્દ્રસિંહ પરમાર</strong> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 'ડાંગ' ના જંગલમાં 'મહેન્દ્ર' (ઇન્દ્ર) જેવો રાજા ફરે છે - એમ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'ડાંગવનો અને...' કૃતિનો સાહિત્ય પ્રકાર કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કૃતિનો સાહિત્ય પ્રકાર <strong>લલિત નિબંધ (પ્રવાસ નિબંધ)</strong> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> પ્રવાસનું વર્ણન 'લાલિત્ય' સભર હોય તેને 'લલિત નિબંધ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "આ પ્રકરણ કયા પુસ્તકમાંથી લેવામાં આવ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ નિબંધ મહેન્દ્રસિંહ પરમારના નિબંધ સંગ્રહ <strong>'રખડુનો કાગળ'</strong> માંથી લેવામાં આવ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> પ્રવાસ કોણ કરે? 'રખડુ' માણસ - એટલે 'રખડુનો કાગળ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "નીચેના શબ્દનો સમાનાર્થી શબ્દ આપો: 'સન્નિધ્ય'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સન્નિધ્ય = સમીપતા, સાન્નિધ્ય, નિકટતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> સન્નિધ્ય એટલે જે 'નિધિ' (ખજાના) ની 'સમીપ' હોય તે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "નીચેના શબ્દનો સમાનાર્થી શબ્દ આપો: 'રક્તિમ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રક્તિમ = લાલ રંગનું, લોહી જેવું રાતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> રક્ત = લોહી, રક્તિમ = લોહી જેવું લાલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'આકાશ અને પૃથ્વી જ્યાં મળતા દેખાય તે રેખા'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ક્ષિતિજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> જ્યાં દૃષ્ટિની ક્ષમતા પૂરી થાય તે 'ક્ષિતિજ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "નીચેના શબ્દનો વિરોધી શબ્દ જણાવો: 'વિષાદ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિષાદ × હર્ષ (આનંદ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 'વિષ' (ઝેર) થી દુઃખ થાય (વિષાદ), જ્યારે 'અમૃત' થી 'હર્ષ' થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સાચી જોડણી લખો: 'ગીરાધોધ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગીરાધોધ (ગિરાધોધ પણ પ્રચલિત છે, પણ પાઠ્યપુસ્તક મુજબ 'ગીરાધોધ' સાચું છે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 'ગીરા' એટલે વાણી, 'ધોધ' એટલે પ્રવાહ. બંને દીર્ઘ-કાના માત્રા વાળા શબ્દો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "નીચેના શબ્દનો સમાનાર્થી શબ્દ આપો: 'ઔચિત્ય'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઔચિત્ય = યોગ્યતા, વાજબીપણું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 'ઉચિત' પરથી બનેલો ભાવવાચક શબ્દ એટલે 'ઔચિત્ય'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'હૃદયમાં કોતરાઈ જવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હૃદયમાં કોતરાઈ જવું = યાદ રહી જવું, અમિટ છાપ પડવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> પથ્થર પર કોતરેલું કદી ભુંસાય નહીં, તેમ મનમાં કોતરાયેલું કદી ભુલાય નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સંધિ છૂટી પાડો: 'સચ્ચિદાનંદ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સત્ + ચિત્ + આનંદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> જ્યાં બે 'ચ' ભેગા થાય ત્યાં પ્રથમ 'ત' (ખોડો) બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "નીચેના શબ્દનો વિરોધી શબ્દ જણાવો: 'પ્રત્યક્ષ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પ્રત્યક્ષ × પરોક્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> પ્રતિ+અક્ષ (આંખ સામે) એટલે પ્રત્યક્ષ. પર+અક્ષ (આંખ પાછળ) એટલે પરોક્ષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'દેવને ધરવામાં આવતો ખોરાક'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નૈવેદ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> નૈવેદ્યમાં 'નૈ' (નવું) અને 'વેદ્ય' (જાણવા જેવું) હોય છે, દેવને હંમેશા તાજું ધરાવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સાચી જોડણી લખો: 'તાદૃશ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તાદૃશ (ત્ય નથી, દૃ છે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> દ ની નીચે 'ઋ' ની માત્રા આવે, એટલે કે 'દૃ' (દ્રષ્ટિ જેવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "નીચેના શબ્દનો સમાનાર્થી શબ્દ આપો: 'આદિવાસી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આદિવાસી = વનવાસી, ગિરિજન, આરણ્યક.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> આદિ (શરૂઆતથી) વસતા હોય તે 'આદિવાસી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "નીચેના શબ્દનો વિરોધી શબ્દ જણાવો: 'નમ્ર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નમ્ર × ઉદ્ધત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> જે નમે તે 'નમ્ર', જે ઊંચો ચાલે (અહંકારમાં) તે 'ઉદ્ધત'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'જેનું વર્ણન ન કરી શકાય તેવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અવર્ણનીય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> અ (નહીં) + વર્ણન + ઈય = અવર્ણનીય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સમાસ ઓળખાવો: 'ગિરાધોધ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તત્પુરુષ સમાસ (ગિરાનો ધોધ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> વિગ્રહ કરતી વખતે 'નો, ની, નું, ના' આવે તો આંખો બંધ કરીને 'તત્પુરુષ' લખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સાચી જોડણી લખો: 'નૈસર્ગિક'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નૈસર્ગિક (ન ને બે માત્રા 'નૈ' અને ગ ને માથે રેફ સાથે ઇ હ્રસ્વ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 'ઇક' પ્રત્યય લાગે ત્યારે આગળનો અક્ષર હ્રસ્વ (િ) જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "નીચેના શબ્દનો સમાનાર્થી શબ્દ આપો: 'તળાવ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તળાવ = જળાશય, સરોવર, કાસાર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> તળાવમાં 'જળ'નો 'આશય' (સંગ્રહ) હોય એટલે જળાશય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સમાસ ઓળખાવો: 'નર્મદામૈયા'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મધ્યમપદલોપી સમાસ (નર્મદા રૂપી મૈયા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> જ્યારે બીજું પદ પ્રથમ પદનું રૂપ હોય ત્યારે મધ્યમપદલોપી અથવા કર્મધારય બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "નીચેના શબ્દનો વિરોધી શબ્દ જણાવો: 'સ્મૃતિ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્મૃતિ × વિસ્મૃતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 'સ્મૃતિ' એટલે યાદ, 'વિ' એટલે વિરુદ્ધ - યાદ ન રહે તે 'વિસ્મૃતિ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'પોતાનું અસ્તિત્વ હોવું તે'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અસ્તિત્વ / હયાતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> હોવાપણું એટલે અસ્તિત્વ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "નીચેના શબ્દનો સમાનાર્થી શબ્દ આપો: 'ગુંજારવ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગુંજારવ = ભમરાનો અવાજ, મધુર ધ્વનિ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> ગુંજ + રવ (અવાજ) = ગુંજારવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સંધિ છૂટી પાડો: 'નીરવ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિઃ + રવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> વિસર્ગ સંધિમાં 'નિઃ' પછી 'ર' આવે તો 'નિ' દીર્ઘ (ની) થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "સાચી જોડણી લખો: 'નિર્મળ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિર્મળ (મ ઉપર રેફ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 'નિર્' માં ર ખોડો હોવાથી તે પછીના અક્ષર પર રેફ તરીકે ચઢે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "નીચેના શબ્દનો વિરોધી શબ્દ જણાવો: 'મંગલ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મંગલ × અમંગલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> હકારાત્મક શબ્દની આગળ 'અ' લગાવવાથી વિરોધી બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'આંખ ભરીને જોવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આંખ ભરીને જોવું = ધરાઈને જોવું, એકાગ્રતાથી જોવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> આંખમાં આખું દ્રશ્ય સમાવી લેવું એટલે આંખ ભરીને જોવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "નીચેના શબ્દનો સમાનાર્થી શબ્દ આપો: 'ક્ષણિક'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ક્ષણિક = થોડી વારનું, પલભરનું, ક્ષણવારનું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> જે માત્ર એક 'ક્ષણ' માટે હોય તે ક્ષણિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "સમાસ ઓળખાવો: 'પાદપ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઉપપદ સમાસ (પગ વડે પીનાર - વૃક્ષ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> જે શબ્દના અંતે 'નાર' પ્રત્યય આવે (પાદેઃ પિબતિ ઇતિ પાદપઃ) તે ઉપપદ સમાસ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "લેખક 'ડાંગ' ને કોની સાથે સરખાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક ડાંગના સૌંદર્યને <strong>જાદુઈ લાકડી</strong> અને <strong>રહસ્યમયી દુનિયા</strong> સાથે સરખાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> જંગલમાં જઈને માણસ બધું ભૂલી જાય એટલે તે 'જાદુ' સમાન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "નીચેના શબ્દનો લિંગ ઓળખાવો: 'ચિઠ્ઠી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્ત્રીલિંગ (ચિઠ્ઠી કેવી?)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> કેવો? = પુલ્લિંગ, કેવી? = સ્ત્રીલિંગ, કેવું? = નપુંસકલિંગ. (ચિઠ્ઠી કેવી? - સ્ત્રીલિંગ)</p></div>"
+    }
+  ]
+}
