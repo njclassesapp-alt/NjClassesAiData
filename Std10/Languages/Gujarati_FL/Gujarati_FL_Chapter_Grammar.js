@@ -2062,3 +2062,161 @@ var Std10_Gujarati_FL_Chapter_Grammar = {
     }
   ]
 }
+,
+"14": {
+  "chapterNumber": 14,
+  "chapterTitle": "જન્મોત્સવ",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "1",
+      "question": "‘જન્મોત્સવ’ કૃતિના કર્તા અને સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કર્તા: સુરેશ જોષી, સાહિત્ય પ્રકાર: નવલિકા (ટૂંકી વાર્તા).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સુરેશ' ના 'ગૃહપ્રવેશ' માં 'જન્મોત્સવ' થયો - આ રીતે લેખક, સંગ્રહ અને પાઠ યાદ રહી જશે!</p></div>"
+    },
+    {
+      "questionNumber": "2",
+      "question": "‘જન્મોત્સવ’ વાર્તા કયા વાર્તાસંગ્રહમાંથી લેવામાં આવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘ગૃહપ્રવેશ’ વાર્તાસંગ્રહમાંથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવો જન્મ થાય ત્યારે જ 'ગૃહપ્રવેશ' થાય, માટે સંગ્રહનું નામ 'ગૃહપ્રવેશ'.</p></div>"
+    },
+    {
+      "questionNumber": "3",
+      "question": "સમાનાર્થી શબ્દ આપો: 'રજની'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રાત્રિ, નિશા, શર્વરી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રજની એટલે રાત, જેમાં કૃષ્ણનો જન્મ થયો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "4",
+      "question": "સમાનાર્થી શબ્દ આપો: 'તૃષિત'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તરસ્યું, પિપાસિત.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡Default NJ Trick: 'તૃષા' એટલે તરસ, તેના પરથી 'તૃષિત' એટલે તરસ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "5",
+      "question": "સમાનાર્થી શબ્દ આપો: 'વિષાદ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દુઃખ, ખેદ, શોક.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રસન્નતાનું વિરોધી વિષાદ, જે કાંજીના ચહેરા પર દેખાતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "6",
+      "question": "સમાનાર્થી શબ્દ આપો: 'પરિત્રાણ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રક્ષણ, મુક્તિ, બચાવ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્લોકમાં આવે છે ને - 'પરિત્રાણાય સાધૂનામ્' એટલે કે સજ્જનોના રક્ષણ માટે.</p></div>"
+    },
+    {
+      "questionNumber": "7",
+      "question": "સમાનાર્થી શબ્દ આપો: 'મેઘ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વાદળ, જલધર, અંબુદ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં વરસાદનું વાતાવરણ છે, મેઘ એટલે જે વરસાદ આપે તે.</p></div>"
+    },
+    {
+      "questionNumber": "8",
+      "question": "વિરોધી શબ્દ આપો: 'સનાથ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અનાથ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ' એટલે સાથે અને 'અ' એટલે વગરનું - નાથ વગરનું તે અનાથ.</p></div>"
+    },
+    {
+      "questionNumber": "9",
+      "question": "વિરોધી શબ્દ આપો: 'પ્રકાશ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અંધકાર / અંધારું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અસિતના વીજળીના પ્રકાશ સામે રેલવે સ્ટેશનનું અંધારું - આ પાઠનો મુખ્ય વિરોધાભાસ છે.</p></div>"
+    },
+    {
+      "questionNumber": "10",
+      "question": "વિરોધી શબ્દ આપો: 'આનંદ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શોક / વિષાદ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૃષ્ણ જન્મનો આનંદ vs. માણેકનો વિષાદ.</p></div>"
+    },
+    {
+      "questionNumber": "11",
+      "question": "વિરોધી શબ્દ આપો: 'નિકટ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દૂર / છેટું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિકટ એટલે નજીક, તેનું ઊલટું દૂર.</p></div>"
+    },
+    {
+      "questionNumber": "12",
+      "question": "વિરોધી શબ્દ આપો: 'નિરર્થક'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સાર્થક.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિઃ' પ્રત્યય નકાર બતાવે, 'સ' પ્રત્યય હકાર બતાવે.</p></div>"
+    },
+    {
+      "questionNumber": "13",
+      "question": "વિરોધી શબ્દ આપો: 'કર્કશ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મૃદુ / કોમળ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાનને વાગે એવો અવાજ એટલે કર્કશ, ગમે તેવો એટલે મૃદુ.</p></div>"
+    },
+    {
+      "questionNumber": "14",
+      "question": "સાચી જોડણી લખો: 'પરિસ્થિતિ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પરિસ્થિતિ (ચારેય 'ઇ' હસ્વ આવશે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિ + સ્થિતિ = પરિસ્થિતિ (નિયમ: ઇ + ઇ = હસ્વ જ રહેશે).</p></div>"
+    },
+    {
+      "questionNumber": "15",
+      "question": "સાચી જોડણી લખો: 'ઇલેક્ટ્રિક'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઇલેક્ટ્રિક.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંગ્રેજી શબ્દોમાં સામાન્ય રીતે 'ઇ' હસ્વ વપરાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "16",
+      "question": "સાચી જોડણી લખો: 'નિષ્ક્રીય'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિષ્ક્રિય ('ક્રિ' માં 'ઇ' હસ્વ આવશે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઇય' પ્રત્યય પહેલાનો અક્ષર હસ્વ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "17",
+      "question": "સાચી જોડણી લખો: 'ટીખળ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ટીખળ ('ટી' દીર્ઘ આવશે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટીખળ (મજાક) કરતી વખતે અવાજ 'દીર્ઘ' એટલે કે લાંબો ખેંચાય!</p></div>"
+    },
+    {
+      "questionNumber": "18",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'જેનો કોઈ વાલી કે રક્ષક નથી તે'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અનાથ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અ + નાથ (સ્વામી/રક્ષક), જેનો કોઈ નાથ નથી તે.</p></div>"
+    },
+    {
+      "questionNumber": "19",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'ગાયોનો સમૂહ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગોધન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાયો એ જ જેનું ધન છે તે એટલે ગોધન.</p></div>"
+    },
+    {
+      "questionNumber": "20",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'જન્મ વખતે બાળકને આપવામાં આવતું ગળ્યું પ્રવાહી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગળથૂથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગળ્યું + ઘૂંટી = ગળથૂથી.</p></div>"
+    },
+    {
+      "questionNumber": "21",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'દમ નીકળી જવો'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ખૂબ જ થાકી જવું અથવા શ્વાસ રુદ્ધાઈ જવો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહેનત કરતાં કરતાં 'દમ' (શ્વાસ) બહાર નીકળી જાય એટલે કે થાકી જવું.</p></div>"
+    },
+    {
+      "questionNumber": "22",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'મોં મચકોડવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નાપસંદગી બતાવવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે કોઈ વસ્તુ ન ગમે ત્યારે આપણે મોઢું બગાડીએ છીએ, એ જ મોં મચકોડવું.</p></div>"
+    },
+    {
+      "questionNumber": "23",
+      "question": "સંધિ છોડો: 'જન્મોત્સવ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જન્મ + ઉત્સવ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અ + ઉ = ઓ. જન્મ(અ) + ઉત્સવ(ઉ) = જન્મોત્સવ.</p></div>"
+    },
+    {
+      "questionNumber": "24",
+      "question": "સંધિ છોડો: 'નિર્ધન'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિઃ + ધન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિસર્ગ સંધિનો નિયમ - વિસર્ગનો 'ર' થઈ જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "25",
+      "question": "તળપદા શબ્દનું શિષ્ટરૂપ આપો: 'હોન્યાનું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સોનાનું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાંજી અને દેવજીની બોલીમાં 'સ' નો 'હ' ઉચ્ચાર થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "26",
+      "question": "તળપદા શબ્દનું શિષ્ટરૂપ આપો: 'જલ્પન્થુ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગૂંથાયેલું / જળેલું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ શબ્દ ઝીણી કારીગરી માટે વપરાયો છે.</p></div>"
+    },
+    {
+      "questionNumber": "27",
+      "question": "સમાસ ઓળખાવો: 'કૃષ્ણજન્મ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તત્પુરુષ સમાસ (કૃષ્ણનો જન્મ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નો, ની, નું, ના' થી વિગ્રહ થાય ત્યારે તત્પુરુષ સમાસ જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "28",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'જેની પાસે ધન નથી તે'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિર્ધન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિઃ (વગરનું) + ધન = નિર્ધન.</p></div>"
+    },
+    {
+      "questionNumber": "29",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'પાણીમાં હોમવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વ્યર્થ ગુમાવવું અથવા બરબાદ કરવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યજ્ઞમાં ઘી હોમાય તો પુણ્ય મળે, પણ પાણીમાં હોમો તો બધું નકામું જાય!</p></div>"
+    },
+    {
+      "questionNumber": "30",
+      "question": "‘જન્મોત્સવ’ વાર્તામાં કયા બે જન્મોની તુલના કરવામાં આવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શ્રીકૃષ્ણનો જન્મ (અમીર/ઉત્સવ) અને કાનજીના પુત્રનો જન્મ (ગરીબ/કરુણતા).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક બાજુ વીજળીનો ઝબકાર છે, તો બીજી બાજુ ભૂખનો પોકાર છે.</p></div>"
+    }
+  ]
+}
