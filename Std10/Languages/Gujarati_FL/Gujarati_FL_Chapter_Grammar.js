@@ -2536,3 +2536,161 @@ var Std10_Gujarati_FL_Chapter_Grammar = {
     }
   ]
 }
+,
+"17": {
+  "chapterNumber": 17,
+  "chapterTitle": "દિવસો જુદાઈના જાય છે",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કૃતિ ‘દિવસો જુદાઈના જાય છે’ ના કર્તા અને સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કર્તા: ગની દહીંવાલા (અબ્દુલગની અબ્દુલકરીમ દહીંવાલા) <br> સાહિત્ય પ્રકાર: ગઝલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ‘ગની’ ની ‘ગઝલ’ (બંને ‘ગ’ પરથી શરૂ થાય છે, આ રીતે કર્તા અને પ્રકાર યાદ રાખો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘જુદાઈ’ શબ્દનો સાચો સમાનાર્થી શબ્દ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિયોગ અથવા વિરહ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જુદાઈ એટલે ‘જુદા’ પડવું, જેને ગુજરાતીમાં ‘વિયોગ’ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "‘ધરા’ શબ્દનો સમાનાર્થી શબ્દ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પૃથ્વી, વસુધા, અવની.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ‘ધરા’ એટલે જેણે ભાર ‘ધારણ’ કર્યો છે તે પૃથ્વી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "‘ગગન’ શબ્દનો સમાનાર્થી શબ્દ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આકાશ, નભ, વ્યોમ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગગન-ગંભીર-આકાશ (બધા અક્ષરો ઊંચાઈ દર્શાવે છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "‘સ્મિત’ શબ્દનો સાચો વિરોધી શબ્દ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રુદન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્મિત એટલે હસવું, તો હસવાની સામે હંમેશા ‘રડવું’ (રુદન) આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "‘મિલન’ શબ્દનો વિરોધી શબ્દ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિરહ અથવા જુદાઈ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ કાવ્યનું શીર્ષક જ ‘જુદાઈ’ છે જે મિલનની વિરુદ્ધની સ્થિતિ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "‘ઉદાસ’ શબ્દનો સમાનાર્થી શબ્દ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગમગીન અથવા ખિન્ન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે મન ‘દાસ’ જેવું (લાચાર) અનુભવે ત્યારે માણસ ‘ઉદાસ’ (ગમગીન) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સાચી જોડણી લખો: ‘તુમન્ના’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તમન્ના.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તમન્ના માં ‘મ’ અડધો નથી આવતો પરંતુ ‘ન’ જોડાક્ષર છે (તમન્ના).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સાચી જોડણી શોધો: (અ) જિનદગી (બ) જીંદગી (ક) જિંદગી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (ક) જિંદગી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જિંદગીમાં ‘જિ’ હંમેશા હસ્વ (ઇ) આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "‘શબ્દસમૂહ માટે એક શબ્દ’ આપો: મનની તીવ્ર ઈચ્છા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તમન્ના.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્દૂ ગઝલમાં ઈચ્છાને ‘તમન્ના’ તરીકે ઓળખવામાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "‘શબ્દસમૂહ માટે એક શબ્દ’ આપો: રાત્રે સળગતો દીવો / મીણબત્તી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શમા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શમા અને પરવાનાની જોડી યાદ રાખવી, ‘શમા’ એટલે દીવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "‘દુઆ’ શબ્દનો વિરોધી શબ્દ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બદદુઆ અથવા શ્રાપ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુઆ એટલે આશીર્વાદ, તો તેની સામે શ્રાપ જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "‘નસીબ’ શબ્દનો સમાનાર્થી શબ્દ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભાગ્ય, પ્રારબ્ધ, કિસ્મત.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાગ્યમાં જે લખાયું હોય તે જ નસીબ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "‘સૂર્યોદય’ શબ્દની સંધિ છૂટી પાડો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સૂર્ય + ઉદય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અ + ઉ = ઓ. (સૂર્યના ‘અ’ માં ઉદયનો ‘ઉ’ ભળે ત્યારે ‘ઓ’ બને).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "‘રૂઢિપ્રયોગનો અર્થ’ આપો: દિવસો જવા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સમય પસાર થવો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેલેન્ડરના પાના બદલાય એમ ‘દિવસો જાય’ એટલે કે સમય વીતતો જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "‘દુનિયા’ શબ્દનો સાચો સમાનાર્થી શબ્દ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જગત, વિશ્વ, લોક.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખી દુનિયા એટલે આખું ‘જગત’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સાચી જોડણી લખો: ‘નીર્જન’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિર્જન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે ‘ર’ નો રેફ આવતો હોય ત્યારે તેની આગળનો ‘નિ’ હસ્વ ઇ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "‘શૂન્યતા’ શબ્દનો અર્થ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ખાલીપો અથવા એકલતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્ય એટલે કઈ જ નહીં, એટલે કે ‘ખાલીપો’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "‘પ્રકાશ’ શબ્દનો વિરોધી શબ્દ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અંધકાર અથવા તિમિર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંજવાળાનું વિરોધી હંમેશા અંધારું જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "‘ઝુલ્ફ’ શબ્દનો સમાનાર્થી શબ્દ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વાળની લટ અથવા કેશ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગઝલમાં સૌંદર્યના વર્ણન માટે ‘ઝુલ્ફ’ (વાળ) શબ્દ વપરાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "‘રાજ’ શબ્દનો આ કાવ્યના સંદર્ભમાં અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રહસ્ય (અહીં ‘રાઝ’ શબ્દનો અર્થ છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગઝલમાં ‘રાઝ’ એટલે છૂપી વાત અથવા રહસ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "‘અખૂટ’ શબ્દ માટેનો શબ્દસમૂહ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કદી ન ખૂટે તેવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અ (નહીં) + ખૂટ (ખૂટે તેવું) = જે ક્યારેય ખૂટતું નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "કાવ્ય પંક્તિ પૂર્ણ કરો: ‘ગની’ આ ક્યાં સુધી જઈ આવશે...?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘ગની’ આ ક્યાં સુધી જઈ આવશે? તમે તો ક્યાંય ના જઈ આવશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગઝલના છેલ્લા શેર (મક્તા) માં કવિનું નામ ‘ગની’ આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "‘જવાબ’ શબ્દનો સાચો વિરોધી શબ્દ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સવાલ અથવા પ્રશ્ન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સવાલ અને જવાબની જોડી સાર્વત્રિક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "‘નિર્જન’ શબ્દનો અર્થ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> માણસો વિનાનું અથવા સૂનું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિ: (વગરનું) + જન (માણસ) = જ્યાં કોઈ માણસ નથી તેવું સ્થળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "‘દિવસો જુદાઈના જાય છે’ ગઝલમાં કવિની શ્રદ્ધા શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જુદાઈના દિવસો જશે અને એક દિવસ મિલન જરૂર થશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ ગઝલ ‘આશાવાદ’ પર ટકેલી છે, વિરહમાં પણ મિલનની આશા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "‘સિતારો’ શબ્દનો સમાનાર્થી શબ્દ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તારો અથવા નક્ષત્ર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાશમાં ચમકતા સિતારા એટલે જ ‘તારા’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સાચી જોડણી લખો: ‘મીલન’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મિલન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિલનમાં ‘મિ’ હંમેશા હસ્વ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "‘શમાને પણ ઉદાસ કરી જાય છે’ - આ પંક્તિમાં ‘શમા’ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દીપક અથવા મીણબત્તીની જ્યોત.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગઝલની પરિભાષામાં ‘શમા’ પ્રકાશનું પ્રતીક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "‘દુઆ’ શબ્દનો સમાનાર્થી શબ્દ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આશીર્વાદ અથવા શુભેચ્છા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે કોઈનું ભલું ઈચ્છીએ ત્યારે તેને ‘દુઆ’ (આશીર્વાદ) આપીએ છીએ.</p></div>"
+    }
+  ]
+}
