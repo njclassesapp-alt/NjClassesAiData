@@ -3168,3 +3168,161 @@ var Std10_Gujarati_FL_Chapter_Grammar = {
     }
   ]
 }
+,
+"21": {
+  "chapterNumber": 21,
+  "chapterTitle": "ચાંદલિયો (લોકગીત)",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘ચાંદલિયો’ કૃતિનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લોકગીત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકગીતનો કોઈ લેખક કે કવિ હોતો નથી, તે લોકો દ્વારા રચાયેલું અને ગવાયેલું હોય છે, એટલે તેને 'સંકલિત' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘ચાંદલિયો’ લોકગીત કયા સંગ્રહમાંથી લેવામાં આવ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રઢિયાળી રાત (ઝવેરચંદ મેઘાણી સંપાદિત)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રાત' અને 'ચાંદલિયો' (ચંદ્ર) - બંને સાથે જોડાયેલા શબ્દો છે, એટલે 'રઢિયાળી રાત' યાદ રાખવું સહેલું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સમાનાર્થી શબ્દ આપો: 'રજની'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રાત, નિશા, શર્વરી, યામિની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રજની' એટલે કે જે રાત્રે અંધકાર ફેલાવે છે તે. બોર્ડ માટે 'નિશા' શબ્દ અવારનવાર પૂછાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સમાનાર્થી શબ્દ આપો: 'મેઘ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વાદળ, પયોધર, જલદ, અષાઢ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્યમાં 'જેઠ' ને અષાઢના 'મેઘ' સાથે સરખાવવામાં આવ્યા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિરોધી શબ્દ જણાવો: 'શીતળ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઉષ્ણ (ગરમ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શીતળ એટલે ઠંડુ, તેનું વિરોધી સંસ્કૃત શબ્દ 'ઉષ્ણ' વધુ સચોટ ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સાચી જોડણી લખો: 'પૂનમ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પૂનમ (પૂ - દીર્ઘ ઊ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટાભાગે 'પૂ' થી શરૂ થતા શબ્દોમાં 'પૂ' દીર્ઘ હોય છે (દા.ત. પૂનમ, પૂજા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કાવ્યમાં 'સાસુ' ને કોની સાથે સરખાવ્યા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જનમની જણનારી (માતા) સાથે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સાસુ' એટલે સાક્ષાત 'મા' જેવું પાત્ર આ લોકગીતમાં બતાવ્યું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: 'આસો મહિનાની શુક્લ પક્ષની પંદરમી તિથિ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શરદ પૂનમ (માણેકઠારી પૂનમ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આસો મહિનામાં આવતી રાત એટલે શરદ પૂનમની રાત, જે સૌથી ચાંદનીવાળી રાત હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કાવ્યમાં 'જેઠાણી' ને કોની સાથે સરખાવ્યા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અષાઢી વીજળી સાથે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેઠ = મેઘ (વાદળ), તો જેઠાણી = વીજળી. વાદળ સાથે જ વીજળી હોય, એમ જોડી યાદ રાખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "તળપદા શબ્દનું શિષ્ટરૂપ આપો: 'સીમ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ખેતરની હદ, ગામની ભાગોળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામ પૂરૂં થાય અને ખેતર શરૂ થાય તે વિસ્તાર એટલે 'સીમ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સાચી જોડણી લખો: 'નણદોઈ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નણદોઈ (ણ - ફેણનો ણ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નણંદના પતિ એટલે નણદોઈ. આ શબ્દમાં 'ણ' અને 'ઈ' નું ધ્યાન રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: 'જન્મ આપનારી માતા'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જણનારી (જનની)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જણવું' એટલે જન્મ આપવો, તે પરથી 'જણનારી' શબ્દ બન્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કાવ્યમાં 'નણંદ' માટે કયું રૂપક વપરાયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વાડીની વેલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નણંદ એટલે વાડીની નાજુક વેલ અને નણદોઈ એટલે વેલનું ફૂલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સમાનાર્થી શબ્દ આપો: 'ચોક'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ચોગાન, આંગણું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરની વચ્ચેની ખુલ્લી જગ્યા એટલે ચોક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિરોધી શબ્દ જણાવો: 'સગી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પારકી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકગીતમાં 'સગી જણનારી' (પોતાની મા) શબ્દ વપરાયો છે, તેનું ઉલટું 'પારકી' થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કાવ્યમાં 'દિયર' ને કોની સાથે સરખાવવામાં આવ્યા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ચાંપલિયો (ચંપાનો છોડ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિયર = ચાંપલિયો, તો દેરાણી = ચાંપલિયાની પાંદડી. આ જોડી યાદ રાખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સાચી જોડણી લખો: 'વીજળી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વીજળી (વી - દીર્ઘ ઈ, ળી - દીર્ઘ ઈ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વીજળી' શબ્દમાં બંને બાજુ દીર્ઘ ઈ આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કાવ્યમાં નાયિકા પોતાના પતિ માટે કયો શબ્દ વાપરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પાતળિયો (પરણ્યો પાતળિયો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પાતળિયો' એટલે સશક્ત અને દેખાવડો પતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: 'પતિનો નાનો ભાઈ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દિયર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પતિના મોટા ભાઈને 'જેઠ' કહેવાય અને નાના ભાઈને 'દિયર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "‘સાગરલો’ શબ્દનો અર્થ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સાગર જેવું વિશાળ વ્યક્તિત્વ ધરાવનાર (અહીં સસરા માટે વપરાયું છે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સાગર' એટલે સમુદ્ર. સસરાનું માન સાગર જેટલું મોટું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "તળપદા શબ્દનું શિષ્ટરૂપ: 'પરરિયો'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પરણ્યો (પતિ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકગીતમાં ઉચ્ચારણ મુજબ શબ્દ બદલાય છે, 'પરરિયો' એટલે જેની સાથે લગ્ન થયા છે તે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સંધિ છૂટી પાડો: 'પરમેશ્વર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પરમ + ઈશ્વર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અ + ઈ = એ. પરમનો 'અ' અને ઈશ્વરનો 'ઈ' મળીને 'મે' (એ) થયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "કયા માસની પૂનમનો ઉલ્લેખ કાવ્યમાં છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આસો માસની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આસો માસો' થી જ કાવ્યની પ્રથમ પંક્તિ શરૂ થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સમાસ ઓળખાવો: 'શરદ-પૂનમ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મધ્યમપદલોપી સમાસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરદ (ઋતુમાં આવતી) પૂનમ - વચ્ચેના પદોનો લોપ થયો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કાવ્યમાં નાયિકા કોની સાથે સગપણમાં સૌથી વધુ ખુશ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પોતાના પતિ સાથે (પરણેલા પાતળિયા સાથે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લી પંક્તિ યાદ રાખવી: 'સગપણમાં સગપણ સાચું રે... મારો પરણ્યો પાતળિયો!'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "સમાનાર્થી શબ્દ આપો: 'સૂરજ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સૂર્ય, રવિ, ભાસ્કર, ભાનુ, આદિત્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભાસ્કર' અને 'આદિત્ય' બોર્ડની પરીક્ષામાં પૂછાતા મહત્વના સમાનાર્થી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિરોધી શબ્દ આપો: 'આભ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધરતી (ધરા, પૃથ્વી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આભ એટલે આકાશ, તેનું બિલકુલ વિરૂદ્ધ એટલે જેની પર આપણે રહીએ છીએ તે ધરતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સાચી જોડણી લખો: 'ચાંપલિયો'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ચાંપલિયો (ચિ - હ્રસ્વ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લિયો' પ્રત્યય લાગે ત્યારે તેની આગળનો અક્ષર (લિ) હ્રસ્વ થઈ જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: 'આનંદમાં આવીને ગવાતું ગીત'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હર્ષગીત / લોકગીત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચાંદલિયો એ આનંદ વ્યક્ત કરતું લોકગીત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "કાવ્યની મુખ્ય ભાવના કઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સુખી સંયુક્ત કુટુંબનું ચિત્ર અને સામાજિક સંબંધોની મધુરતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ કાવ્યમાં ક્યાંય ઝઘડા કે દુઃખની વાત નથી, માત્ર મીઠા સંબંધોની વાત છે.</p></div>"
+    }
+  ]
+}
