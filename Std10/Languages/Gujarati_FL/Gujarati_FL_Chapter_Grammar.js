@@ -3010,3 +3010,161 @@ var Std10_Gujarati_FL_Chapter_Grammar = {
     }
   ]
 }
+,
+"20": {
+  "chapterNumber": 20,
+  "chapterTitle": "વિરલ વિભૂતિ",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'વિરલ વિભૂતિ' પાઠના કર્તા અને સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કર્તા: અમીન આઝાદ, સાહિત્ય પ્રકાર: ચરિત્રલેખ (રેખાચિત્ર).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આઝાદ' માણસ જ 'વિભૂતિ' વિશે લખી શકે! વિરલ વિભૂતિ - અમીન આઝાદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "શબ્દ સમજૂતી (સમાનાર્થી): 'અદભુત' શબ્દનો પર્યાય આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અદભુત - અકલ્પ્ય, અનોખું, વિલક્ષણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેની કલ્પના ન થઈ શકે તે 'અ-કલ્પ્ય' એટલે જ અદભુત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "શબ્દ સમજૂતી (સમાનાર્થી): 'સ્મૃતિ' શબ્દનો સમાન અર્થ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્મૃતિ - યાદગીરી, સ્મરણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્મ' એટલે સ્મરણ, જે મનમાં સચવાયેલું રહે તે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "શબ્દ સમજૂતી (સમાનાર્થી): 'દેહ' શબ્દના બે સમાનાર્થી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દેહ - કાયા, તન, શરીર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કાયા' કુંભ જેવી હોય છે, દેહ એટલે શરીર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "શબ્દ સમજૂતી (સમાનાર્થી): 'નિર્મળ' શબ્દનો પર્યાય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિર્મળ - પવિત્ર, શુદ્ધ, સ્વચ્છ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિ: + મળ = જેમાં કોઈ મળ (મેલ) નથી તે નિર્મળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિરોધી શબ્દ: 'સ્થાવર' શબ્દનો વિરોધી શબ્દ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્થાવર ❌ જંગમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પ્રશ્ન બોર્ડમાં વારંવાર પૂછાય છે. સ્થિર તે સ્થાવર, ગતિશીલ તે જંગમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિરોધી શબ્દ: 'મુખ્ય' શબ્દનો વિરોધી લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મુખ્ય ❌ ગૌણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે મોખરે હોય તે મુખ્ય, જે પાછળ હોય તે ગૌણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિરોધી શબ્દ: 'આદિ' શબ્દનો વિરોધી જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આદિ ❌ અંત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આદિ એટલે શરૂઆત અને અંત એટલે પૂર્ણાહુતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિરોધી શબ્દ: 'જિજ્ઞાસુ' શબ્દનો વિરોધી લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જિજ્ઞાસુ ❌ અજ્ઞાની / બિનજિજ્ઞાસુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાણવાની ઈચ્છા રાખનાર જિજ્ઞાસુ, ન રાખનાર અજ્ઞાની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સાચી જોડણી લખો: 'શૃદ્ધાંજલી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શ્રદ્ધાંજલિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો, 'અંજલિ' માં 'લિ' હંમેશા હ્રસ્વ (ઇ) જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સાચી જોડણી લખો: 'જીજ્ઞાસા'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જિજ્ઞાસા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જિ' હંમેશા હ્રસ્વ આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સાચી જોડણી લખો: 'નીસ્પૃહ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિસ્પૃહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિ:' વિસર્ગ સંધિને કારણે 'નિ' હ્રસ્વ રહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: 'મોક્ષ મેળવવાની ઈચ્છા રાખનાર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મુમુક્ષુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મુમુક્ષુ' માં ત્રણેય 'ઉ' હ્રસ્વ આવે છે, જોડણી માટે ખાસ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: 'સો વસ્તુઓ એકસાથે યાદ રાખવાની શક્તિ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શતાવધાની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શત (100) + અવધાન (ધ્યાન) = શતાવધાની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: 'જેને કોઈ સ્પૃહા (ઈચ્છા) નથી તેવો'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિસ્પૃહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિ' એટલે વગરનું અને 'સ્પૃહ' એટલે ઈચ્છા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "રૂઢિપ્રયોગનો અર્થ: 'હૈયું ભરાઈ આવવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અત્યંત ભાવુક થઈ જવું, ગળગળા થઈ જવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે હૃદયમાં લાગણીઓ ઉભરાય ત્યારે હૈયું ભરાઈ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "રૂઢિપ્રયોગનો અર્થ: 'કંઠ રુંધાવો'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગદગદિત થઈ જવું (બોલી ન શકવું).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અતિશય દુઃખ કે હર્ષને કારણે ગળામાંથી અવાજ ન નીકળવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સંધિ છોડો: 'મહોત્સવ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મહા + ઉત્સવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અ/આ + ઉ = ઓ. (મહા + ઉત્સવ = મહોત્સવ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સંધિ છોડો: 'જિજ્ઞાસા'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જ્ઞાતુમ્ + ઇચ્છા (જાણવાની ઈચ્છા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ સંસ્કૃત તદ્ધિત પ્રત્યય આધારિત શબ્દ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સંધિ જોડો: 'નિ: + સ્વાર્ર્થ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિઃસ્વાર્થ અથવા નિસ્વાર્થ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિસર્ગ પછી 'સ' આવે તો વિસર્ગનો 'સ' થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિશેષણ શોધો: 'શ્રીમદ્દ રાજચંદ્ર અદ્ભુત સ્મરણશક્તિ ધરાવતા હતા.'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અદ્ભુત (ગુણવાચક વિશેષણ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ (સ્મરણશક્તિ) ના અર્થમાં વધારો કરે તે વિશેષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સમાસ ઓળખાવો: 'ગુરુદેવ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કર્મધારય સમાસ (દેવ જેવા ગુરુ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે પૂર્વપદ વિશેષણ હોય ત્યારે કર્મધારય બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સમાસ ઓળખાવો: 'રાત-દિવસ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દ્વન્દ્વ સમાસ (રાત અને દિવસ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અને' કે 'અથવા' થી વિગ્રહ થાય તો દ્વન્દ્વ સમાસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "તળપદા શબ્દનું શિષ્ટરૂપ આપો: 'દીકરો'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પુત્ર, આત્મજ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના સંદર્ભમાં સંતાન માટે વપરાયેલો શબ્દ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: 'જેની બુદ્ધિ સ્થિર છે તેવો પુરુષ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્થિતપ્રજ્ઞ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થિત (સ્થિર) + પ્રજ્ઞા (બુદ્ધિ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "નીચેનામાંથી કઈ કૃતિ અમીન આઝાદની છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિરલ વિભૂતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠ 20 ના લેખકનું નામ હંમેશા યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "શ્રીમદ્ રાજચંદ્રનું બાળપણનું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લક્ષ્મીનંદન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પાછળથી રાયચંદ અને પછી શ્રીમદ્ રાજચંદ્ર બન્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ગાંધીજીના આધ્યાત્મિક માર્ગદર્શક કોણ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શ્રીમદ્ રાજચંદ્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજી તેમને પોતાના આધ્યાત્મિક ગુરુ માનતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "પાઠના આધારે 'મૂર્તિમંત વૈરાગ્ય' કોના માટે વપરાયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શ્રીમદ્ રાજચંદ્ર માટે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમનું જીવન જ વૈરાગ્યનું પ્રતીક હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "શબ્દ સમજૂતી: 'અપરિગ્રહ' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જરૂરિયાત કરતાં વધારે સંગ્રહ ન કરવો તે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અ (નહીં) + પરિગ્રહ (સંગ્રહ).</p></div>"
+    }
+  ]
+}
