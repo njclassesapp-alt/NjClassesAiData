@@ -264,3 +264,136 @@ var Std10_English_SL_Short_QA = {
     }
   ]
 }
+,
+"3": {
+  "chapterNumber": 3,
+  "chapterTitle": "An Interview with Arun Krishnamurthy",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "1",
+      "question": "What is the full form of EFI?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> EFI stands for Environmentalist Foundation of India.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: EFI માં E = Environmentalist (પર્યાવરણવાદી), F = Foundation (સંસ્થા), I = India (ભારત). સ્પેલિંગમાં 'Environmentalist' ધ્યાનથી લખવો.</p></div>"
+    },
+    {
+      "questionNumber": "2",
+      "question": "How old was Arun when he founded EFI?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Arun was 17 years old when he founded the NGO Environmentalist Foundation of India (EFI).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૭ વર્ષ (17 years) - આ ઉંમરે અરુણે ક્રાંતિની શરૂઆત કરી હતી, આ આંકડો વિકલ્પોમાં વારંવાર પુછાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "3",
+      "question": "Which was the first activity of EFI?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> The first activity of EFI was a 'Turtle Walk' to save turtle eggs and young hatchlings in Chennai.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Turtle Walk' (કાચબાની ચાલ) - ચેન્નાઈના દરિયાકિનારે આ પ્રથમ પ્રવૃત્તિ હતી.</p></div>"
+    },
+    {
+      "questionNumber": "4",
+      "question": "Which water body did Arun clean first near his house?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Arun first cleaned a beautiful pond next to his house which had become heavily polluted.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Pond next to his house' (ઘર પાસેનું તળાવ) - આ ઘટનાથી અરુણને પ્રેરણા મળી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "5",
+      "question": "What kind of support did Arun get from his parents?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Arun's parents were supportive and understanding. They never stopped him from doing what he loved and ensured he was aware of his responsibilities.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Support + Understanding = No stopping. માતા-પિતાનો સાથ એટલે સફળતાનો પાયો.</p></div>"
+    },
+    {
+      "questionNumber": "6",
+      "question": "What did Arun's teachers teach him?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> His teachers taught him humility, to be simple, and to keep learning all the time. They taught him not to become snobbish or arrogant.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Humility (વિનમ્રતા) અને Learning (શીખતા રહેવું) - આ બે ગુણો શિક્ષકો પાસેથી મળ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "7",
+      "question": "Why did Arun leave his job at Google?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Arun left his job at Google because he wanted to devote his full time to environmental work. He felt he couldn't sit back and enjoy a comfortable life while the environment was suffering.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Full-time for Environment > Google Job. પર્યાવરણ માટે ગૂગલ જેવી નોકરી પણ છોડી દીધી.</p></div>"
+    },
+    {
+      "questionNumber": "8",
+      "question": "Fill in the blank: Arun and his team use _____ and _____ for cleaning lakes.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Rakes and Spades.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Rakes (દાંતી) અને Spades (પાવડા). આ બે સાધનોના નામ અચૂક યાદ રાખવા.</p></div>"
+    },
+    {
+      "questionNumber": "9",
+      "question": "What protective gear do the volunteers wear?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> The volunteers wear nose masks and sanitary gloves for safety during the cleaning process.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Nose Masks + Gloves = Safety. ગંદકીથી બચવા નાક અને હાથની સુરક્ષા જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "10",
+      "question": "True or False: Arun feels that we should first stop throwing trash outside our homes.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> True.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Stop throwing trash' - સફાઈની શરૂઆત ઘરની બહાર કચરો ન નાખવાથી થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "11",
+      "question": "How much time should a student devote to environmental causes according to Arun?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> A student should devote four hours a weekend (two hours on Saturday and two hours on Sunday).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 (Sat) + 2 (Sun) = 4 hours. આ ગણિત યાદ રાખશો તો જવાબ ક્યારેય નહિ ભુલાય.</p></div>"
+    },
+    {
+      "questionNumber": "12",
+      "question": "What is the result of polluted water bodies?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Polluted water bodies lead to the loss of biodiversity as they are home to many life forms like fish, frogs, and turtles.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Water pollution = Loss of life forms. પાણી ગંદુ તો તેમાં રહેતા જીવોનું મૃત્યુ નિશ્ચિત છે.</p></div>"
+    },
+    {
+      "questionNumber": "13",
+      "question": "Does EFI accept volunteers who are students?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Yes, EFI welcomes volunteers from all walks of life, including students, and even offers fellowships to interested students.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: EFI + Students = Fellowship. વિદ્યાર્થીઓને ખાસ પ્રોત્સાહન આપવામાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "14",
+      "question": "What does Arun say about the disposal of trash?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Arun says we must reduce the amount of trash we generate. Everything from tissues to chocolate wrappers should end up in a bin, not in water bodies.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Trash -> Bin (Not in water). કચરો હંમેશા કચરાપેટીમાં જ હોવો જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "15",
+      "question": "Which cities has EFI cleaned so far?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> EFI has cleaned water bodies in Chennai, Hyderabad, Delhi, Coimbatore, and Puducherry.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C-H-D-C-P (Chennai, Hyderabad, Delhi, Coimbatore, Puducherry). આ પાંચ શહેરો યાદ રાખવા માટેનું સૂત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "16",
+      "question": "Arun says, 'I am an environmentalist, not a politician.' True or False?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> True. He clarifies his role clearly in the interview.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Arun = Environmentalist. તે રાજકારણી નથી પણ પર્યાવરણ પ્રેમી છે.</p></div>"
+    },
+    {
+      "questionNumber": "17",
+      "question": "What was the most difficult part of cleaning the pond for Arun initially?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> The most difficult part was the heavy pollution and the variety of trash like diapers and heavy plastic that people threw into the water.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Diapers and Plastic - આ સૌથી ખરાબ પ્રકારનો કચરો હતો જે તળાવમાં મળ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "18",
+      "question": "Why is it important to protect water bodies? (2 Marks)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> It is important to protect water bodies because they are the primary source of water for all living beings. Moreover, they are home to aquatic life like fish and frogs. If these bodies are polluted, it affects the entire ecosystem and biodiversity.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Source of Water + Home for Creatures = Ecosystem Balance. આ ત્રણ પોઈન્ટ્સ લખવાથી પૂરા ૨ ગુણ મળશે.</p></div>"
+    },
+    {
+      "questionNumber": "19",
+      "question": "How did Arun balance his academics and passion? (2 Marks)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Arun balanced both by ensuring he was doing well in school and college while pursuing his interest in the environment. He communicated with his teachers and parents, who supported his decision as long as it didn't affect his studies negatively.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Communication + Support = Balance. સંપર્ક અને સમજાવટથી બધું જ શક્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "20",
+      "question": "Write a short note on: Arun's Team and Equipment. (Short Note)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Arun's team EFI consists of volunteers from different backgrounds, including students. They use tools like rakes and spades to clean lakes. For safety, they use nose masks and sanitary gloves. They also use heavy machinery like desilting equipment and JCBs to clear large trash and weed from the water bodies.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Key Points: 1. Volunteers, 2. Rakes/Spades, 3. Masks/Gloves, 4. Heavy Machinery (JCB). આ ૪ મુદ્દા શોર્ટ નોટમાં હોવા જ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "21",
+      "question": "What does Arun mean by 'Every small action matters'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> It means that even a small act like not littering or spending two hours a week for the environment can lead to a big change in the long run.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Small Action = Big Change. ટીપે ટીપે સરોવર ભરાય - અહીં કચરો ઘટાડવાની વાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "22",
+      "question": "According to Arun, why did he leave Google? (1 Mark)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> He left Google because his interest in the environment was much stronger than staying in a comfortable corporate job.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Interest > Job. હૃદયનો અવાજ સાંભળીને પર્યાવરણને પસંદ કર્યું.</p></div>"
+    },
+    {
+      "questionNumber": "23",
+      "question": "Vocabulary: Give the synonym of 'Humility' from the lesson.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Modesty / Being humble.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Humility એટલે વિનમ્રતા, જે અભિમાન (Arrogance) નું વિરોધી છે.</p></div>"
+    },
+    {
+      "questionNumber": "24",
+      "question": "Fill in the blank: Arun's teachers taught him not to become ______.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Snobbish or arrogant.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Snobbish/Arrogant (અભિમાની). આ શબ્દ પાઠમાં ખૂબ મહત્વનો છે.</p></div>"
+    },
+    {
+      "questionNumber": "25",
+      "question": "What message does Arun give to the youth? (2 Marks)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Arun advises the youth to stop throwing trash and reduce the amount of waste they produce. He encourages students to join his movement and spend at least 4 hours a weekend to work for the environment.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Reduce Waste + Donate Time. યુવાનો માટેનો આ મૂળ મંત્ર છે.</p></div>"
+    }
+  ]
+}
