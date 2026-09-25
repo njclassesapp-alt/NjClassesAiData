@@ -3642,3 +3642,161 @@ var Std10_Gujarati_FL_Chapter_Grammar = {
     }
   ]
 }
+,
+"24": {
+  "chapterNumber": 24,
+  "chapterTitle": "ઘોડીની સ્વામીભક્તિ",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કૃતિ: 'ઘોડીની સ્વામીભક્તિ' ના કર્તા અને સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કર્તા: ઝવેરચંદ મેઘાણી | સાહિત્ય પ્રકાર: લોકવાર્તા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઝવેરચંદ મેઘાણી = રાષ્ટ્રીય શાયર'. ઘોડીની ભક્તિની 'લોકવાર્તા' મેઘાણી જ લખી શકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'ઘોડીની સ્વામીભક્તિ' લોકવાર્તા કયા સંગ્રહમાંથી લેવામાં આવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સૌરાષ્ટ્રની રસધાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેઘાણીની બધી જ ફેમસ લોકવાર્તાઓ 'રસધાર'માં જ હોય. (રસધાર = લોકસાહિત્યનો ધોધ)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "નીચેના શબ્દનો સમાનાર્થી શબ્દ આપો: 'અશ્વ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઘોડો, હય, તુરી, વાજી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અશ્વ એટલે કે જે વેગથી દોડે - ઘોડો/તુરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સમાનાર્થી શબ્દ લખો: 'આયખું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આયુષ્ય, જિંદગી, આયુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આયખું' તળપદો શબ્દ છે, જે સંસ્કૃત 'આયુષ્ય' પરથી આવ્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સમાનાર્થી શબ્દ લખો: 'કાંઠો'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કિનારો, તટ, તીર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદીનો કિનારો એટલે કાંઠો. યાદ રાખો: કાંઠો = તટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સમાનાર્થી શબ્દ લખો: 'ખાંભી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્મારક, પાળિયો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શહીદની યાદમાં જે પથ્થર મુકાય તેને 'ખાંભી' કે 'પાળિયો' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિરોધી શબ્દ આપો: 'સ્વામી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સેવક / દાસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માલિક (સ્વામી) ની સામે કામ કરનાર (સેવક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિરોધી શબ્દ આપો: 'હોશિયાર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઠોઠ / અબુધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેને હોશ (સમજણ) હોય તે હોશિયાર, ન હોય તે ઠોઠ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિરોધી શબ્દ આપો: 'પૂર્વ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પશ્ચિમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ તો દિશાની જોડી છે, પૂર્વ-પશ્ચિમ હંમેશા વિરુદ્ધ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિરોધી શબ્દ આપો: 'ભીનું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સૂકું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીવાળું એટલે ભીનું, પાણી વગરનું એટલે સૂકું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સાચી જોડણી લખો: 'સ્વામીભક્તિ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્વામીભક્તિ (ભ મા 'િ' હ્રસ્વ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભક્તિ' માં 'તિ' હમેશાં હ્રસ્વ (ઇ) જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સાચી જોડણી લખો: 'ઢેલ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઢેલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકરણમાં 'ઢેલ' એ ઘોડીની જાત/નામ તરીકે વપરાયું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'હૈયું હાથ ન રહેવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હિંમત હારી જવી / ખૂબ જ દુઃખ થવું (ભાવનાઓ પર કાબૂ ન રહેવો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે લાગણીનો વેગ વધે ત્યારે હૈયું (દિલ) આપણા કાબૂમાં રહેતું નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'માથું ભાંગવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પરાસ્ત કરવું / હરાવવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માથું ભાંગવું એટલે કોઈને અટકાવવું અથવા હરાવી દેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'ફીણ ચડી જવાં'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ખૂબ જ થાકી જવું (ઘોડી માટે વપરાયું છે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અતિશય દોડવાથી કે મહેનતથી મોઢામાં ફીણ આવે એટલે કે 'ખૂબ થાકી જવું'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'મરણ પાછળ રડવું કે કૂટવું તે'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાણ (અથવા કૂટણું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના સંદર્ભમાં 'કાણ' કરવા જવાનો ઉલ્લેખ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'ઘોડાને બાંધવાની જગ્યા'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કોઢાર / તબેલા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાય માટે ગમાણ, ઘોડા માટે 'કોઢાર' કે 'તબેલો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'ઘોડાની સવારીમાં નિપુણ હોય તે'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અશ્વસવાર / ઘોડેસવાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અશ્વ + સવાર = અશ્વસવાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "તળપદા શબ્દનું શિષ્ટરૂપ આપો: 'મણ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌરાષ્ટ્રની બોલીમાં 'ન' નો 'ણ' થાય છે, માટે મન = મણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "તળપદા શબ્દનું શિષ્ટરૂપ આપો: 'ભેળું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સાથે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપણે કહીએ ને 'ભેળા રહેજો' એટલે કે 'સાથે રહેજો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "તળપદા શબ્દનું શિષ્ટરૂપ આપો: 'શેં'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શા માટે / કેમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શેં ખબર?' એટલે કે 'શા માટે ખબર?' અથવા 'કેમ ખબર?'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સંધિ છૂટી પાડો: 'પરમેશ્વર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પરમ + ઈશ્વર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અ + ઈ = એ. પરમ (અ) + ઈશ્વર (ઈ) = પરમેશ્વર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સંધિ જોડો: 'સુર + ઇન્દ્ર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સુરેન્દ્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અ + ઇ = એ. સુર + ઇન્દ્ર = સુરેન્દ્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "'ઘોડીની સ્વામીભક્તિ' પાઠમાં કઈ નદીનો ઉલ્લેખ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શેત્રુંજી નદી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંબા પટેલ શેત્રુંજીના પૂર ઓળંગતા હતા, યાદ રાખો 'શેત્રુંજી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "'આંબા પટેલ' ના ગામનું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રતતડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રતતડ ના આંબા પટેલ - આ જોડી યાદ રાખી લેવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'ઘોડાના ગળામાં બાંધવાનું ચામડાનું સાધન'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લગામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ઘોડાને નિયંત્રણમાં રાખે તે લગામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "તળપદા શબ્દનું શિષ્ટરૂપ આપો: 'લ્યા'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અલ્યા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંબોધન માટે વપરાતો ગામઠી શબ્દ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સમાનાર્થી શબ્દ આપો: 'મારગ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> માર્ગ, રસ્તો, પંથ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગ' નો લોપ થઈને 'માર્ગ' માંથી 'મારગ' બન્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "સાચી જોડણી લખો: 'નિર્ણય'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિર્ણય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેફ (ર) હંમેશા જે અક્ષર પર બોલાય તેના પછીના અક્ષર પર મુકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'આંખમાં પાણી આવવાં'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રડી પડવું / ભાવુક થઈ જવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંખમાં પાણી એટલે અશ્રુ/આંસુ, જે દુઃખ કે હર્ષમાં આવે.</p></div>"
+    }
+  ]
+}
