@@ -397,3 +397,136 @@ var Std10_English_SL_Short_QA = {
     }
   ]
 }
+,
+"4": {
+  "chapterNumber": 4,
+  "chapterTitle": "A Wonderful Creation (એક અદ્ભુત સર્જન)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Who was creating the 'Wonderful Creation' and why was he taking so much time?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The Lord (God) was creating the 'Wonderful Creation' (a Mother). He was taking so much time because he wanted all her parts to be movable and replaceable, and he was working into his sixth day of overtime.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Lord = Creator, Overtime = 6th Day. માતાના બધા ભાગો 'Movable' અને 'Replaceable' હોવા જોઈએ તે મુખ્ય શરત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "How many pairs of hands should the mother have according to the Lord's plan?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> According to the Lord's plan, the mother should have six pairs of hands.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Hands = 6 pairs (બાર હાથ). આંકડો યાદ રાખવા માટે 'H6' (Hands-6) યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "How many pairs of eyes was the Lord putting in the mother's model?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The Lord was putting three pairs of eyes in the mother's model.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Eyes = 3 pairs (છ આંખો). ત્રણેય જોડીનું કાર્ય અલગ અલગ છે તે યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "What is the function of the first pair of eyes in the mother?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The first pair of eyes is to see her children through closed doors.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1st Pair = Closed Doors (બારણાંની આરપાર જોવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "What is the purpose of the second pair of eyes?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The second pair of eyes is to look at the children and say, \"I understand and I love you,\" without uttering a word.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2nd Pair = Love & Understanding (બોલ્યા વગર પ્રેમ વ્યક્ત કરવો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "What is the function of the third pair of eyes?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The third pair of eyes is to see all secret things without opening them.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3rd Pair = Secret Things (ગુપ્ત વાતો જાણવી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "What can a mother's kiss cure?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> A mother's kiss can cure everything from a broken leg to a broken heart.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Kiss = Cure (શારીરિક અને માનસિક બંને દુઃખનો ઈલાજ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "How many family members can a mother feed with half a kilo of cabbage?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> A mother can feed a family of six members on only half a kilo of cabbage.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/2 kg cabbage = 6 members. મેનેજમેન્ટ શક્તિનો પુરાવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "Why did the Angel think the model of the mother was too soft?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The Angel thought the model was too soft after touching it, but the Lord said she was 'tough' and could endure anything.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Soft outside, Tough inside. (દેખાવમાં કોમળ, પણ કામમાં મજબૂત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "What was the 'miracle' that the Angel noticed on the mother's face?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The Angel noticed a leak (a tear) on the mother's cheek, which the Lord had not put there. It was a miracle.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Tear = Miracle (આંસુ એ કુદરતી ચમત્કાર છે, ભગવાને નહોતું મૂક્યું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "For what reasons could a tear appear on a mother's face?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> A tear could be for pain, for joy, pride, disappointment, or loneliness.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P.J.P.D.L (Pain, Joy, Pride, Disappointment, Loneliness) - પાંચ કારણો યાદ રાખવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "Fill in the blank: The Lord was working with full _____.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> concentration / dedication.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે ભગવાન કામ કરતા હોય ત્યારે 'Concentration' (એકાગ્રતા) શબ્દ પાઠમાં વપરાયો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "True or False: The mother can heal herself when she is sick.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> True. (She would manage a family of six and heal herself when sick.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Self-healing power (પોતાની જાતે સાજા થવાની શક્તિ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "What does the word 'Endure' mean in this chapter?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'Endure' means to bear pain or hardship without complaining (સહન કરવું).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Endure = Bear = સહન કરવું. (Toughness બતાવે છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "Why did the Lord say the mother is 'tough'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The Lord said she is tough because no one can imagine what a mother can do and endure.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Toughness = Endurance (સહનશક્તિ). દેખાવે કોમળ પણ કામમાં સખત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "According to the Lord, what are the qualities of a mother?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> A mother can think, reason, compromise, and endure great hardships.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T.R.C (Think, Reason, Compromise) - બુદ્ધિ અને સમજદારીનું મિશ્રણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "What was the Lord's reaction when the Angel called the tear a miracle?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The Lord was surprised because he had not put the tear there. He called it a mystery.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Tear = Not God's creation, it's a 'Mystery'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "Identify the synonym of 'Standard' from the lesson.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Model (નમૂનો).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં 'Model of Mother' શબ્દ વારંવાર વપરાયો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "True or False: The Angel was very interested in the creation of the mother.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> True. (The angel appeared and commented on the Lord's hard work.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Angel = Curious observer (જિજ્ઞાસુ નિરીક્ષક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "What should be 'movable and replaceable' in a mother?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> All her parts should be movable and replaceable.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: M.R. (Movable & Replaceable). માતાનું શરીર સતત કાર્યરત રહે તે હેતુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "How does a lap disappear according to the lesson?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> A mother has a lap that disappears when she stands up.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Lap = Disappears when stands up. (ખોળો એ બેસવા સમયે જ હોય છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "Why did the Lord create three pairs of eyes for the mother?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> To look after her children in different ways (seeing through doors, expressing love silently, and knowing secrets).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Multi-tasking vision! ત્રણ જોડી = ત્રણ અલગ નજર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "Short Note Point: Mother's multi-tasking ability.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> She can manage 6 members with 1/2 kg cabbage, has 6 pairs of hands to do multiple tasks, and can heal herself.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Multi-tasking = 6 hands + 1/2 kg cabbage + Self-healing.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "What does 'Utter' mean? (Vocabulary)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> To say or speak (બોલવું).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Without 'uttering' a word = એક પણ શબ્દ 'બોલ્યા' વગર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "What is the central theme of 'A Wonderful Creation'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The central theme is the selfless love, strength, and the unique creation of a mother by God.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Theme = Divine Motherhood (માતૃત્વનો દિવ્ય મહિમા).</p></div>"
+    }
+  ]
+}
