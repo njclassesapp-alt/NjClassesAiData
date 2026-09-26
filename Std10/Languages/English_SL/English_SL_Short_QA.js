@@ -663,3 +663,136 @@ var Std10_English_SL_Short_QA = {
     }
   ]
 }
+,
+"6": {
+  "chapterNumber": 6,
+  "chapterTitle": "I Love You, Teacher",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Who is the narrator/author of the chapter 'I Love You, Teacher'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Helen Keller is the narrator and author of this chapter.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ આત્મકથા (Autobiography) હોવાથી પાઠના મુખ્ય પાત્ર જ તેના લેખક હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "What happened to Helen Keller at a very young age?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Helen Keller became deaf and blind at a very young age due to an illness.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Deaf (બહેરા) + Blind (અંધ) = Helen's Condition. આ બે શબ્દો યાદ રાખવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "Who was Anne Sullivan?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Anne Sullivan was a teacher for the blind who helped Helen to learn and communicate.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Anne Sullivan = The Life Changer/Teacher for Helen.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "How did Miss Sullivan teach Helen to spell 'doll'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Miss Sullivan made some finger movements on Helen's palm to spell 'doll'.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Finger movements on palm - આ પદ્ધતિ હેલન માટે શીખવાનું પ્રથમ પગથિયું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "What was the 'awakening' of Helen's soul?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> When Helen understood that 'WATER' meant something wet running over her hand, it was the awakening of her soul.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Connection between 'Word' and 'Object' = Awakening of Soul.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "In which year did Helen learn to speak?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Helen Keller learned to speak in the year 1890.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૮૯૦ (18-90) - આ વર્ષમાં હેલનને વાચા મળી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "How did Helen learn to speak?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> She learned to speak through the sense of touch by feeling the vibrations in her teacher's throat and the movements of her lips.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Sense of touch: Throat vibrations + Lip movements = Speaking.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "What did Helen do at Perkins Institution?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> At Perkins Institution, Helen began to make friends with other blind children and started learning subjects like Latin, German, and Arithmetic.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Perkins = Friends + New Subjects.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "Why was Helen worried about her examinations at Radcliffe College?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Helen was worried because the questions were spelled out on her hand and she had to type the answers on a typewriter, which was a difficult task.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Typewriter + Hand-spelling = Exam stress for Helen.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "What did Helen achieve in 1904?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> In 1904, Helen Keller graduated from Radcliffe College and received a Bachelor of Arts degree.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1904 = Graduation (B.A. Degree).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "Fill in the blank: Helen Keller was the first ______ person to earn a Bachelor of Arts degree.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> deaf-blind</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ વાક્ય 'True/False' માં પણ પૂછાઈ શકે છે, યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "Why did Miss Sullivan's eyes become weak?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Miss Sullivan's eyes became weak because she continuously helped Helen by reading books for her and spelling out everything on her palm.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Over-exertion (વધારે પડતો શ્રમ) caused her blindness.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "State True or False: Miss Sullivan sacrificed her own eyesight for Helen.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> True</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પાઠનો સૌથી ભાવુક અને મહત્વનો મુદ્દો છે: Sacrifice (બલિદાન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "What was Helen's first expression after learning to speak?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Helen felt extremely happy and excited; she felt that every object she touched seemed to quiver with life.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Speak = Life in every object.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "Vocabulary: Find the word from the text which means 'to provide' or 'to give'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Rendered</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Render = Provide/Give. પાઠના અંતિમ ભાગમાં 'rendered all possible help' માં આ શબ્દ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "Write a short note on: Anne Sullivan - A Wonderful Teacher.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Miss Anne Sullivan was a teacher for the blind. She came into Helen's life when Helen was seven. She used finger movements on Helen's palm to teach words. She was patient and used the 'touch and feel' method. She accompanied Helen to college. Most importantly, she sacrificed her eyesight to help Helen succeed. She was not just a teacher but a true friend and guide.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૫ મુખ્ય શબ્દો: Patient, Innovative, Devoted, Sacrifice, Life-changer.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "Why did Helen say, 'I love you, Teacher'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Helen said this because Miss Sullivan opened the world of knowledge for her and sacrificed her own eyesight for Helen's education and progress.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Gratitude (કૃતજ્ઞતા) + Sacrifice (બલિદાન) = 'I Love You, Teacher'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "Which school did Helen join in 1896?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Helen joined the Cambridge School for Young Ladies in Massachusetts in 1896.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1896 = Cambridge School.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "What did Helen do when her father died?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Even though Helen was deeply pained by her father's death, she continued her studies and did her best in the examinations.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Focus on Goal - પિતાના મૃત્યુ છતાં અભ્યાસ ચાલુ રાખ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "Fill in the blank: Helen felt that her teacher was a ______ to her.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> blessing</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં 'blessing' (આશીર્વાદ) શબ્દનો પ્રયોગ શિક્ષિકા માટે થયો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "How did Helen feel when she first spoke a word?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> When Helen spoke her first word, it gave her boundless delight. She felt like she was connected to the whole world.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: First word = Boundless delight (અપાર આનંદ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "What subjects did Helen study at Radcliffe College?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> At Radcliffe College, Helen studied various subjects, although she found it difficult to follow the lectures as they were spelled into her palms rapidly.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Radcliffe = Higher education challenges.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "State True or False: Miss Sullivan became blind in the year 1935.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> True</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1935 = The year Miss Sullivan lost her sight completely.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "What was the second stage of learning for Helen?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The second stage of learning was based on the sense of touch, where she learned to speak by feeling the vibrations of the throat and lip movements.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1st Stage = Palm spelling, 2nd Stage = Speaking by touch.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "What message does Helen give about her teacher at the end?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Helen conveys that she would not have achieved anything without her teacher's support and sacrifice. She highlights the deep bond of love and gratitude between them.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Teacher's sacrifice is the foundation of student's success.</p></div>"
+    }
+  ]
+}
