@@ -1062,3 +1062,136 @@ var Std10_English_SL_Short_QA = {
     }
   ]
 }
+,
+"9": {
+  "chapterNumber": 9,
+  "chapterTitle": "Tune up O Teens",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Who is the chairperson of the seminar 'Tune up O Teens'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Dr. Nasir Mansuri is the chairperson of the seminar.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેમિનારના 'Main Man' એટલે 'M' થી 'Mansuri'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "What is the subject of the seminar?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The subject of the seminar is 'Bring Out Your Best' for students and parents.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેમિનારનો હેતુ તમારી અંદરની શ્રેષ્ઠતા (Best) બહાર લાવવાનો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "Identify the Expert: She is a well-known dietician.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Dr. Mrs. Shelat is the well-known dietician.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Diet' માટે 'Shelat' (Diet-Shelat પ્રાસ બેસે છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "What was the problem of the student named Anuj?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Anuj’s problem was that he used to forget what he had learned even after reading and writing.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Anuj = Amnesia (ભૂલી જવું). અનુજને ભૂલી જવાની તકલીફ હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "True or False: Most students forget because they have poor retentive power.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> False. (They forget because they don't store it properly or lack concentration).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શક્તિ ઓછી નથી હોતી, સંગ્રહ (Storage) કરવાની રીત ખોટી હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "Fill in the blank: Concentration is the key to ________.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Concentration is the key to <b>Retention</b>.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C=R (Concentration = Retention). ધ્યાન આપશો તો યાદ રહેશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "What does Dr. Mansuri advise about reading during exams?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Dr. Mansuri advises students to read with a calm mind and full concentration.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મન શાંત (Calm) રાખશો તો જ સંગ્રહ (Store) થશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "Who asks about the diet of students during exams?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> A mother named Mrs. Virani asks about the diet.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરાણી (Virani) મમ્મીને ખોરાકની ચિંતા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "What kind of food should students avoid during exams?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Students should avoid heavy, oily, and junk food during exams.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'HOJ' (Heavy, Oily, Junk) ને કહો 'No'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "Why is light food recommended during exams?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Light food keeps the body and mind active and prevents laziness.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હલકો ખોરાક = ભારે યાદશક્તિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "What is the effect of deep breathing?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Deep breathing helps to relax the nerves and calm the mind.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંડો શ્વાસ = ચિંતાનો નાશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "Who is Prof. Rayat?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Prof. Rayat is an expert counselor on the panel of the seminar.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Rayat 'Right' સલાહ આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "According to Dr. Shelat, what should a student drink to stay hydrated?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> A student should drink plenty of water and fresh juices.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Fresh Juice & Water' is the best daughter/son power.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "What is 'Exam Anxiety'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> It is a feeling of fear or nervousness that students experience before or during an exam.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Anxiety = ચિંતા. આ પરીક્ષાના ડરનું બીજું નામ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "How can students manage time during exams?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Students can manage time by preparing a proper timetable and following it strictly.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: TimeTable = Time Management.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "Why should students take short breaks while studying?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Short breaks help to refresh the mind and improve concentration.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ્રેક વગરની ગાડી ગરમ થઈ જાય, એમ મગજને પણ 'Break' જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "What role do parents play according to the seminar?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Parents should be supportive and not put excessive pressure on their children.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: No Pressure = More Pleasure in results.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "What is the importance of 'Self-Confidence' in exams?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Self-confidence helps students to face the exam without fear and recall answers easily.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'I Can' એ 'I Can't' કરતા મોટું હોવું જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "Write the synonym of 'Significant'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Important or Noteworthy.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Sign' (નિશાની) હંમેશા 'Important' વસ્તુની હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "What is the advice for 'Visualizing Success'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> It means imagining yourself achieving your goals, which builds confidence.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે આંખોથી જોશો, તે હકીકતમાં મેળવશો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21 (Short Note - 2 Marks)",
+      "question": "Write a short note on: Diet during exams.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> During exams, diet plays a crucial role. Dr. Mrs. Shelat advises students to avoid heavy, oily, and junk food as it causes laziness. Students should eat light meals and plenty of fruits and vegetables. Drinking enough water and juices keeps the brain hydrated. A balanced diet helps in maintaining better concentration and energy levels.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શોર્ટ નોટના મુદ્દા: 1. No Junk 2. Light Food 3. Hydration 4. Energy.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22 (Short Note - 2 Marks)",
+      "question": "Write a short note on: Tips for Better Retention.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> To improve retention, Dr. Mansuri suggests reading with a calm mind. Visualizing what you study and making mind maps helps a lot. Students should not cram (રટ્ટો મારવો) but understand the concepts. Taking adequate sleep and short breaks between study sessions allows the brain to store information effectively.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Retention = Calm mind + Mind Maps + Understanding.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "Why is proper sleep important for students?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Proper sleep (6-8 hours) is necessary to recharge the brain and process the information learned during the day.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંઘ એ મગજનું 'Charging' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "Who should be 'tuned up' according to the chapter?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Teens (adolescents) and their parents should be tuned up for a better approach to exams and life.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Tune up' એટલે યોગ્ય લયમાં લાવવું (વિદ્યાર્થી + વાલી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "What is the message of the chapter?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The message is that with the right strategy, diet, and a positive mindset, any student can overcome exam stress and excel.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Positive Mindset + Strategy = Success.</p></div>"
+    }
+  ]
+}
