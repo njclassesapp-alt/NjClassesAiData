@@ -530,3 +530,136 @@ var Std10_English_SL_Short_QA = {
     }
   ]
 }
+,
+"5": {
+  "chapterNumber": 5,
+  "chapterTitle": "Playing with Fire",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "What is the science of fireworks technically called?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The science of fireworks is technically called 'Pyrotechnics'. (ફટાકડાના વિજ્ઞાનને તકનીકી રીતે 'પાયરોટેકનીક્સ' કહેવામાં આવે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> યાદ રાખો: Greek word 'Pyro' = Fire (આગ) અને 'Technics' = Art (કળા). આગની કળા એટલે પાયરોટેકનીક્સ!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "Which Greek words is 'Pyrotechnics' derived from?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'Pyrotechnics' is derived from the Greek words 'pyro' meaning fire and 'techne' meaning an art.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> P-T યાદ રાખો. P ફોર Pyro (Fire) અને T ફોર Techne (Art).</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "Who are generally considered the pioneers of pyrotechnics?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The Chinese are generally considered the pioneers of pyrotechnics.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> ઇતિહાસની વાત આવે ત્યારે હંમેશા 'ચાઇના' (China) યાદ રાખવું, કારણ કે તેમણે જ બ્લેક પાવડરની શોધ કરી હતી.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "What is the basic material used in fireworks?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The basic material used in fireworks is 'black powder' or 'gunpowder'.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> ફટાકડા હોય કે બંદૂક, બંનેમાં 'કાળો પાવડર' (Black Powder) જ વપરાય!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "Who was Roger Bacon?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Roger Bacon was an English monk of the 13th century who revealed the formula for black powder.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> Roger Bacon = English Monk + 13th Century. તેમણે ફોર્મ્યુલા છુપાવવા માટે 'Code Language' (સાંકેતિક ભાષા) નો ઉપયોગ કર્યો હતો.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "Why did Roger Bacon write the formula for black powder in a code language?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Roger Bacon wrote the formula in a code language because he considered it a very dangerous substance.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> Dangerous Substance = Code Language. તે સમયે બ્લેક પાવડર બહુ જ ખતરનાક ગણાતો એટલે કોડમાં લખ્યું.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "Which proportions of chemicals are used in the manufacturing of black powder?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The mixture of potassium nitrate, charcoal and sulphur is used in the ratio of 75:15:10 by weight.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> ક્રમ યાદ રાખો: K.C.S. (K-Potassium, C-Charcoal, S-Sulphur) અને આંકડા 75-15-10. સરવાળો 100 થશે!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "Which are the two phenomena of producing light in pyrotechnics?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The two phenomena are: (1) Incandescence and (2) Luminescence.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> I & L યાદ રાખો. I = Heat દ્વારા પ્રકાશ, L = Heat વગર (Chemicals) દ્વારા પ્રકાશ.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "How is incandescent light produced?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Incandescent light is produced by heating a substance until it begins to glow.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> Incandescence = Heating until Glowing. જેમ લોખંડ ગરમ થઈને લાલચોળ થાય તેમ!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "When was the import of fireworks from China stopped in India?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The import of fireworks from China was stopped during the Second World War.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> WWII (બીજું વિશ્વયુદ્ધ) = Stop China Import.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "Where are the fireworks manufactured in India?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> In India, fireworks are mainly manufactured in Sivakasi (Tamil Nadu).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> ફટાકડાનું હબ = શિવાકાશી (Sivakasi).</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "Who started manufacturing fireworks in Sivakasi?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> After the Second World War, some safety match producers in Sivakasi started manufacturing fireworks.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> બાકસ (Matches) બનાવતા લોકોએ ફટાકડા બનાવવાનું શરૂ કર્યું.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "Why is the process of manufacturing fireworks considered risky?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The process is risky because it deals with explosive materials and fire, and even a small spark can cause a huge accident.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> Risk = Explosive materials + Spark. શિવાકાશીમાં ઘણા અકસ્માતો થાય છે તે આનું જ પરિણામ છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "How are the colors of fireworks formed?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Colors in fireworks are formed in two ways: Luminescence and Incandescence.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> ફટાકડામાં રંગબેરંગી પ્રકાશ પાછળ 'Metals' (ધાતુઓ) અને ગરમી જવાબદાર છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "What precaution should be taken while lighting fireworks?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Fireworks should never be lit inside a house, near inflammable materials, or while wearing long, loose nylon clothes.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> No Indoor + No Nylon! સુતરાઉ કપડાં પહેરવા જ જોઈએ.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16 (Fill in the blanks)",
+      "question": "The household match is considered a multi-purpose ______ device. (fire/pyrotechnic)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> pyrotechnic</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> ઘરની દિવાસળીમાં પણ ફટાકડા જેવી જ અસરો (ગરમી, પ્રકાશ, ધુમાડો, અવાજ) હોવાથી તેને પાયરોટેકનીક સાધન કહેવાય.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17 (True/False)",
+      "question": "Gunpowder was invented in India according to some historians. (True/False?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> True</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> પાઠ મુજબ શુક્રાંતિ (Shukranti) ગ્રંથમાં ભારતમાં બંદૂકો અને તોપોના ઉલ્લેખ છે, તેથી આ વિધાન સાચું છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "What happens when a substance is heated?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> When a substance is heated, its atoms become excited and release energy in the form of light.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> Heat -> Atoms Excited -> Energy -> Light. આ ક્રમ યાદ રાખો!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "Why are fireworks called 'Playing with Fire'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Fireworks involve chemicals and fire which can cause serious burns and accidents if not handled carefully, hence it's called 'playing with fire'.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> Fire is a good servant but a bad master! ફટાકડા જોખમી હોવાથી આ નામ યોગ્ય છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "How should we treat a burn caused by fireworks?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> If you get a burn, wash it with cold water and go to a doctor immediately. Do not apply oil or ointment.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> Cold Water + Doctor (Yes), Oil/Ointment (No). ઘરગથ્થુ તેલ લગાવવું નહીં!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "What is the principle behind fireworks?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The principle is that when heat is applied to fuel (gunpowder), it burns using oxygen.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> Heat + Fuel = Burning (Light & Sound).</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "Which ancient Indian text mentions weapons similar to guns and cannons?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The ancient Indian text 'Shukranti' mentions weapons similar to guns and projectile weapons.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> Shukranti = Ancient India's science of weapons.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "Why is the color of incandescent light predictable?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Because the color depends on the temperature of the object; as it gets hotter, it changes from red to orange, yellow, and white.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> Temp high -> Color change. (Red -> White).</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24 (Short Note Points)",
+      "question": "Write main points about 'Sivakasi'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (1) Main center of fireworks in India. (2) Located in Tamil Nadu. (3) Started after WWII. (4) Earlier produced safety matches. (5) Supplies fireworks to the whole country.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> Sivakasi = Matches + Fireworks + Tamil Nadu. આ ત્રણ શબ્દો યાદ હશે તો શોર્ટ નોટ બની જશે!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25 (Vocabulary)",
+      "question": "Give the meaning of: 'To Reveal'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> To make something known that was secret. (જાહેર કરવું / ખુલ્લું પાડવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> Reveal = Open Secret. વિરોધી શબ્દ થાય: Hide / Conceal.</div>"
+    }
+  ]
+}
