@@ -796,3 +796,136 @@ var Std10_English_SL_Short_QA = {
     }
   ]
 }
+,
+"7": {
+  "chapterNumber": 7,
+  "chapterTitle": "Kach and Devayani (કચ અને દેવયાની)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Who was Shukracharya?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Shukracharya was a great saint and teacher (guru) of the Asuras (demons). He knew the 'Sanjivani Vidya'.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Shukracharya = Asuras' Guru (Sanjivani Specialist). અસુરોના ગુરુ તરીકે શુક્રાચાર્યનું નામ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "Who was Kach?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Kach was the son of Brihaspati, who was the chief adviser of the Devas (gods).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Kach = Son of Brihaspati (Devas' side). કચ એટલે દેવોના ગુરુ બૃહસ્પતિનો પુત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "What was the 'Sanjivani Vidya'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Sanjivani Vidya was the magic mantra for bringing the dead back to life.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Sanjivani = Life-giving (મૃતસંજીવની). જે મરેલાને જીવતા કરે તે વિદ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "Why did the Devas go to Brihaspati?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The Devas went to Brihaspati to seek help because the Asuras had the advantage of Sanjivani Vidya, which the Devas did not know.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Devas went for help because of disadvantage (ખૂટતી કડી મેળવવા ગયા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "Why did Brihaspati advise the Devas to send someone to Shukracharya?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Brihaspati advised them because only Shukracharya knew the secret of Sanjivani Vidya, and a young person from the Devas side needed to learn it from him.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Learning from Enemy (દુશ્મન પાસેથી વિદ્યા શીખવાની સલાહ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "Fill in the blank: Kach promised to serve Shukracharya as his _______.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> disciple (શિષ્ય)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Student-Teacher Relationship = Disciple-Guru.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "How did Kach win the heart of Shukracharya?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Kach won Shukracharya's heart through his keen devotion and good service (looking after cows, collecting firewood, flowers, etc.).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Service = Success (સેવાથી સિદ્ધિ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "Why did the Asuras hate Kach?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The Asuras hated Kach because he was staying with their guru to learn the secret of Sanjivani Vidya, which would make Devas stronger.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Fear of losing secret (રહસ્ય છીનવાઈ જવાનો ડર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "What did the Asuras do when Kach was grazing cows for the first time?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The Asuras killed Kach, cut his body into pieces, and fed them to the wolves and jackals.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: First Kill = Wolves/Jackals (વરુ અને શિયાળને ખવડાવ્યો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "Why did Shukracharya revive Kach the first time?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Shukracharya revived him because Devayani, his daughter, was in love with Kach and pleaded with her father to bring him back.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Devayani's Request = Kach's Survival (પુત્રીના આગ્રહને વશ થઈને).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "How did the Asuras kill Kach the second time?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The Asuras killed him, ground his body into a paste, and mixed it with the waters of the ocean.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Second Kill = Ocean Paste (સમુદ્રના પાણીમાં ભેળવી દીધો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "What was the most clever plan of the Asuras to kill Kach for the third time?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> They killed Kach, burnt his body, and mixed the ashes with the wine that Shukracharya drank.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Third Kill = Ashes in Wine (દારૂમાં રાખ ભેળવી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "Why was Shukracharya in a dilemma the third time Kach died?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> If he revived Kach, Kach would come out by tearing Shukracharya's stomach, which would kill the guru himself.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Dilemma = Self-death vs. Daughter's grief (પોતાનું મૃત્યુ કે પુત્રીનું દુઃખ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "How did Kach come back to life the third time?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Shukracharya taught Kach the Sanjivani Vidya while he was in his stomach. Kach came out and then used that mantra to revive Shukracharya.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Internal Learning (પેટમાં રહીને જ વિદ્યા શીખી લીધી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "Why did Kach refuse to marry Devayani?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Kach refused because he was born again from Shukracharya’s body, making Shukracharya his father and Devayani his sister.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: New Birth = Brother-Sister relation (નવો જન્મ એટલે ભાઈ-બહેનનો સબંધ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "What curse did Devayani give to Kach?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Devayani cursed Kach that he would not be able to practice the Sanjivani Vidya he had learned.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Curse = Mantra won't work for him (પોતાના માટે મંત્ર નિષ્ફળ જશે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "What was Kach's response to Devayani's curse?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Kach said that even if he couldn't use it, he could teach it to others, and they would be able to use it.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Knowledge Transfer (બીજાને શીખવવાથી વિદ્યા જીવંત રહેશે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "True or False: Kach stayed with Shukracharya for 500 years.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> False (He stayed for a long time, but the text says until he learned the vidya, usually mentioned as a thousand years in myths, but as per text, it doesn't specify '500').</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Focus on 'Thousands' vs 'Hundreds' (હજાર વર્ષની વાત છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "Find the nearest meaning of 'Disciple'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Pupil / Student</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: D=S (Disciple = Student).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "Find the nearest meaning of 'Slay'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Kill / Murder</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Slay sounds like 'Saughter' (વધ કરવો/મારી નાખવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "Fill in the blank: Devayani was _______ when Kach decided to leave.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> heartbroken / disappointed</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Unrequited love = Heartbroken (ભંગ હૃદય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "Short Note: Kach",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Kach was Brihaspati's son. He went to Shukracharya to learn Sanjivani Vidya. He was handsome, intelligent, and devoted. He served his guru for many years. He was killed thrice by Asuras but revived each time by Shukracharya due to Devayani's love. Finally, he succeeded in his mission and returned to Devas.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Kach Note: Son -> Mission -> Service -> Revivals -> Success.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "Short Note: Devayani",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Devayani was Shukracharya's daughter. She fell in love with Kach. She was responsible for Kach being brought back to life three times. She wanted to marry Kach, but he refused. In her anger and disappointment, she cursed him, showing her strong but emotional nature.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Devayani Note: Daughter -> Love -> Pleads Father -> Proposal -> Curse.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "Why did the Asuras kill Kach again and again?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> They didn't want him to learn the Sanjivani Vidya and take it back to the Devas, as it would make the Devas immortal and unbeatable.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Prevent Knowledge = Maintain Power (સત્તા ટકાવવા જ્ઞાન રોકવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "What quality of Kach is highlighted at the end of the story?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> His wisdom and sense of duty are highlighted. He prioritized his moral values (considering Devayani a sister) over personal desires or the fear of a curse.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Duty over Desire (ઇચ્છા કરતા ફરજ મહાન).</p></div>"
+    }
+  ]
+}
