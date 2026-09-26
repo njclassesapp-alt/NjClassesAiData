@@ -929,3 +929,136 @@ var Std10_English_SL_Short_QA = {
     }
   ]
 }
+,
+"8": {
+  "chapterNumber": 8,
+  "chapterTitle": "Our Feathered Friends (આપણા પીંછાવાળા મિત્રો)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Who is Devaangi and what is she studying?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Devaangi is a friend of Shubhangi's brother, Mitra. She is a final year student of Zoology.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Zoology એટલે પ્રાણીશાસ્ત્ર. યાદ રાખો: 'Zoo' (પ્રાણીસંગ્રહાલય) + 'Logy' (અભ્યાસ). દેવાંગી = પ્રાણીઓનો અભ્યાસ કરનાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "Why was Shubhangi excited?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Shubhangi was excited because she saw a beautiful bird and wanted to know more about it from Devaangi.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Excited શબ્દ આવે ત્યારે 'Excited because...' થી વાક્ય જોડી દો. કારણ હંમેશા તેની જાણવાની ઈચ્છા (Curiosity) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "According to the chapter, why do birds migrate?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Birds migrate to avoid the extreme cold, to find food, and for breeding purposes.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Migration ના ૩ કારણો: 1. Cold (ઠંડી), 2. Food (ખોરાક), 3. Breeding (સંતાન ઉત્પત્તિ). આ ત્રણ શબ્દો યાદ રાખો એટલે પૂરા માર્ક્સ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "Fill in the blank: The scientific name of the sparrow is __________.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Passer Domesticus.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Passer' એટલે કે જે દરેકના ઘરે 'Pass' (પસાર) થાય છે અને 'Domesticus' એટલે ઘરગથ્થુ. ચકલી ઘરની સભ્ય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "Which bird is known as the 'Scavenger' and why?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The Vulture is known as the scavenger because it eats dead animals and helps keep the environment clean.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Scavenger = કુદરતનો સફાઈ કામદાર. જે ગંદકી (મૃત પ્રાણીઓ) સાફ કરે તે Scavenger.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "State True or False: The Tailor bird weaves its nest with green grass leaves.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> False. (The Weaver bird weaves with grass, while the Tailor bird stitches leaves together).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુંઝવણ ટાળો! Tailor (દરજી) = Stitch (સીવવું), Weaver (વણકર) = Weave (વણવું). 'સુગરી' વણે, 'દરજીડો' સીવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "What is unique about the Hornbill's beak?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The Hornbill has a large, colorful, and curved beak which often has a casque (a helmet-like structure) on it.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Horn + Bill. Horn એટલે શીંગડું અને Bill એટલે ચાંચ. જેની ચાંચ પર શીંગડા જેવું હેલ્મેટ હોય તે હોર્નબિલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "Why is it difficult to see a female bird easily?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Female birds usually have dull colors so they can hide easily from predators while hatching eggs in the nest.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Dull color = Camouflage (છુપાઈ જવું). સ્ત્રી પક્ષીનો રંગ ફિક્કો હોય છે જેથી શિકારી તેને જોઈ ન શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "Which bird can rotate its neck up to 270 degrees?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The Owl can rotate its neck up to 270 degrees.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘુવડ (Owl) એટલે રાત્રિનો રાજા, તેની ડોક ચારે બાજુ ફરે - આ આંકડો ખાસ યાદ રાખવો 270.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "Vocabulary: Find the word from the text which means 'to travel from one place to another for living'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Migrate.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક જગ્યાએથી બીજી જગ્યાએ જવું = 'Migration' (સ્થળાંતર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "Who helps Devaangi in identifying the birds through the book?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Devaangi uses the book 'Birds of India' by Salim Ali to identify birds.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Salim Ali = Birdman of India. પક્ષીઓની વાત આવે એટલે સલીમ અલીનું નામ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "What is the main difference between a Weaver bird and a Tailor bird's nest building style?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The Weaver bird 'weaves' grass and stalks to make a hanging nest, whereas the Tailor bird 'stitches' two leaves together using plant fiber or silk from spider webs.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Weaver = Weaves (વણવું), Tailor = Stitches (સીવવું). બસ આ બે ક્રિયાપદો જ તફાવત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "What did Devaangi say about the decrease in the number of vultures?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The number of vultures has decreased because they eat dead cattle that were treated with a medicine called 'Diclofenac', which is toxic to vultures.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગીધના મૃત્યુનું કારણ = Diclofenac દવા. સ્પેલિંગ યાદ રાખવા: Di-clo-fen-ac.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "How do migratory birds find their way?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Migratory birds use the sun, stars, and the earth's magnetic field to find their way during their long journeys.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષીઓ પાસે GPS નથી, પણ તેમની પાસે Sun (સૂર્ય), Stars (તારા) અને Magnetic field (ચુંબકીય ક્ષેત્ર) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "Fill in the blank: The _______ is the national bird of India.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Peacock.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ તો નાનપણથી આપણને આવડે જ છે! સૌથી સુંદર પક્ષી = રાષ્ટ્રીય પક્ષી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "State True or False: Devaangi was a student of Psychology.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> False. (She was a student of Zoology).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરીક્ષામાં 'Psychology' અને 'Zoology' માં ભૂલ ન થાય તેનું ધ્યાન રાખવું. Zoo = Animals.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "Which bird is mentioned as having a 'Scissor-like tail'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The Black Drongo (કળિયો કોશી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Black Drongo = Scissor tail. યાદ રાખો 'કાતર જેવી પૂંછડી' એટલે 'કાળો કોશી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "What is the advice given by Devaangi to save sparrows?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> We should offer them grains and water and should not destroy their nests in our houses.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચકલી બચાવો = દાણા (Grains) + પાણી (Water) + રહેઠાણ (No destroying nests).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "Why does Devaangi call the Pelican a migratory bird?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Because Pelicans travel from Siberia and other cold regions to India during the winter.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Pelican = પાંખવાળું વિમાન! જે ઠંડા પ્રદેશમાંથી ગરમ પ્રદેશમાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "What do we call the birds who hunt other animals?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Predators.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Predator = શિકારી. 'P' for Predator, 'P' for પકડવું (શિકાર પકડનાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "Match the bird with its characteristic: Vulture",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Cleans the environment by eating dead animals.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Vulture = Nature's dustbin (કુદરતની કચરાપેટી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "Match the bird with its characteristic: Tailor Bird",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Stitches leaves with plant fiber.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Tailor = દરજી. દરજીનું કામ સીવવાનું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "Match the bird with its characteristic: Weaver Bird",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Weaves a beautiful hanging nest with grass.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Weaver = સુગરી. સૌથી સુંદર માળો વણનાર પક્ષી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "Which bird is the state bird of Gujarat?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Greater Flamingo (સુરખાબ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કચ્છના રણનું માનીતું પક્ષી = Flamingo. તે ગુજરાતનું રાજ્ય પક્ષી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "Short Note Theme: 'The Scavengers of Nature'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Vultures are called scavengers. They don't hunt but eat dead animals. They help in cleaning the earth. Nowadays their number is decreasing due to Diclofenac medicine in cattle. We must protect them to balance the ecosystem.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Short Note લખતી વખતે: ૧. વ્યાખ્યા, ૨. કાર્ય (સફાઈ), ૩. અત્યારની સ્થિતિ (ઘટાડો), ૪. બચાવવા માટેનો સંદેશ - આ ૪ પોઈન્ટ્સ લખો એટલે પૂરા ૩ માર્ક્સ!</p></div>"
+    }
+  ]
+}
