@@ -56,3 +56,61 @@ var Std10_English_SL_Long_QA = {
     }
   ]
 }
+,
+"2": {
+  "chapterNumber": 2,
+  "chapterTitle": "The Human Robot",
+  "contentType": "મુદ્દાસર અને સવિસ્તર ઉત્તરો (3 અને 4 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "Short Note 1",
+      "question": "Write a short note on: Ram Singh-070 - The Human Robot (રામ સિંહ-070 વિશે ટૂંકનોંધ લખો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Ram Singh-070 was a metallic blue robot built by Super Robots Plaza. He was perfectly programmed to function in the household, cleaning, arranging, and even buying groceries. He had an in-built system of three principles: (1) The robot will obey his master, (2) The robot will not harm humans, and (3) The robot will not cause harm to itself. He was very efficient and had a massive storage capacity. However, he was misused by Prem Chopra for stealing precious gems and ornaments. In the end, to resolve the conflict between disobeying his master and telling a lie (harming humans), he chose to destroy himself.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘M-3P’ યાદ રાખો - Metallic blue robot અને 3 Principles (Master, Humans, Self). આ ચાર પોઈન્ટ્સથી આખી ટૂંકનોંધ લખાઈ જશે.</p></div>"
+    },
+    {
+      "questionNumber": "Short Note 2",
+      "question": "Write a short note on: Prem Chopra - The Greedy Master (પ્રેમ ચોપરા - લાલચુ માલિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Prem Chopra was the antagonist of the story. He was a greedy and cunning man. He bought Ram Singh-070 with the sole intention of using him for theft. He discovered that the robot would obey his master blindly. He threatened the robot to 'diffuse' him if he revealed any information. He commanded the robot to steal expensive jewelry from various shops. He believed that a robot would never be caught. However, when the robot was caught, Prem Chopra was also arrested. His greed finally led to his downfall and the destruction of an efficient robot.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘G-T-C’ યાદ રાખો - Greedy, Threaten (ધમકી), અને Caught (પકડાઈ ગયો). આ ક્રમમાં પાત્રાલેખન કરવું.</p></div>"
+    },
+    {
+      "questionNumber": "Question 3",
+      "question": "What were the three principles of Ram Singh-070? (રામ સિંહ-070 ના ત્રણ સિદ્ધાંતો કયા હતા?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Every robot built by Super Robots Plaza, including Ram Singh-070, followed three basic principles in its built-in system:<br>1. The robot will obey his master (રોબોટ તેના માલિકની આજ્ઞાનું પાલન કરશે).<br>2. The robot will not harm humans (રોબોટ મનુષ્યોને નુકસાન પહોંચાડશે નહીં).<br>3. The robot will not cause harm to itself (રોબોટ પોતાની જાતને નુકસાન પહોંચાડશે નહીં).<br>These principles guided the robot's behavior and decisions throughout its operation.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘M-H-S’ સૂત્ર યાદ રાખો - M (Master), H (Humans), S (Self). બસ આ ત્રણ શબ્દો પરથી વાક્યો બનાવો.</p></div>"
+    },
+    {
+      "questionNumber": "Question 4",
+      "question": "Why did Ram Singh-070 destroy himself in the court? (રામ સિંહ-070 એ કોર્ટમાં પોતાની જાતને કેમ નષ્ટ કરી?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Ram Singh-070 was in a deep conflict in the court. If he revealed the truth, he would disobey his master (Prem Chopra), which broke his first principle. If he did not tell the truth, he would harm many people by hiding the facts, which broke his second principle. He could not choose between 'disobeying the master' and 'telling lies'. To solve this inner conflict and to ensure he didn't hurt humans or betray his master, he chose to destroy himself. He preferred to die rather than be dishonest or harm others.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘Conflict of Principles’ - જ્યારે બે સિદ્ધાંતો વચ્ચે ટકરાવ થયો ત્યારે તેણે 'Self-destruction' (આત્મ-વિનાશ) પસંદ કર્યો.</p></div>"
+    },
+    {
+      "questionNumber": "Question 5",
+      "question": "What kind of work could Ram Singh-070 do? (રામ સિંહ-070 કેવા પ્રકારના કામો કરી શકતો હતો?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Ram Singh-070 was a highly efficient and versatile robot. He could perform various household tasks like cleaning, tending the lawn, washing clothes, and arranging things in the house. He could also go to the market to buy groceries and carry heavy bags. He was programmed for household chores, gardening, and shopping. He moved with precision and followed remote-controlled commands within a radius of one kilometer.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘Daily Chores’ યાદ રાખો - ઘરના રોજિંદા કામો (Cleaning, Washing, Grocery Shopping) ની યાદી બનાવી દો.</p></div>"
+    },
+    {
+      "questionNumber": "Question 6",
+      "question": "How was Ram Singh-070 caught stealing? (રામ સિંહ-070 ચોરી કરતા કેવી રીતે પકડાયો?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Ram Singh-070 had stolen many precious items without being noticed. However, while he was stealing expensive 'Afghani Grapes' from a fruit seller, his activities were observed by the fruit seller. Slowly, other shopkeepers also realized that their valuables disappeared when the robot was around. Finally, the police set a trap at Jhaveri Brothers. When Ram Singh tried to lift a precious gem, the computerized cameras recorded his movement, and he was caught red-handed by the police.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘Grapes to Gems’ - અફઘાની દ્રાક્ષથી શરૂઆત થઈ અને ઝવેરી બ્રધર્સના કિંમતી રત્નો પર તે પકડાયો.</p></div>"
+    },
+    {
+      "questionNumber": "Question 7",
+      "question": "Describe the scene in the court during the trial of Ram Singh-070. (રામ સિંહ-070 ના કેસ વખતે કોર્ટનું દ્રશ્ય વર્ણવો.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The court was overcrowded with people curious to see a robot in the witness box. Counselor Goel was questioning the robot with great patience. Prem Chopra was confident that the robot would not betray him because of the 'obey the master' principle. There was a tense atmosphere. When Goel pressured the robot to reveal the names of the items stolen, the robot's system started clicking and whirring. Eventually, a small red light flashed on the robot's forehead signifying 'Danger' and the robot's system collapsed.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘Witness Box’ - રોબોટ સાક્ષીના પાંજરામાં હતો, આ એક અદભૂત અને નવું દ્રશ્ય હતું.</p></div>"
+    },
+    {
+      "questionNumber": "Question 8",
+      "question": "What happened to Ram Singh-070 at the end of the story? (વાર્તાના અંતે રામ સિંહ-070 નું શું થયું?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> At the end of the story, Ram Singh-070 faced a mental conflict between the instructions of his master and the principles of robotics. To avoid telling a lie or hurting people and to stay loyal to his master, he decided to end his own existence. There was a sound of cracking and whirring, and the blue light dimmed. The signal 'System Disintegrated' appeared on his screen. The robot was 'dead' or 'diffused'. He chose to be 'dead' rather than being a 'fake' or 'dishonest' robot.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘System Disintegrated’ - આ શબ્દ યાદ રાખવો, જેનો અર્થ થાય છે સિસ્ટમનું વિખેરાઈ જવું.</p></div>"
+    },
+    {
+      "questionNumber": "Question 9",
+      "question": "Why did Prem Chopra buy Ram Singh-070? (પ્રેમ ચોપરાએ રામ સિંહ-070 ને શા માટે ખરીદ્યો?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Prem Chopra visited Super Robots Plaza to buy a robot for help. When the salesman explained that the robot was programmed to obey his master blindly, Prem Chopra saw a golden opportunity. He thought that if the robot could buy groceries, it could also steal expensive things from shops without being suspected. Thus, his primary motive behind buying the robot was to use it as an 'accomplice' (સાથીદાર) for his criminal activities like stealing jewelry and gems.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘Help + Theft’ - મદદ માટે લીધો પણ ઈરાદો ચોરી કરવાનો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "Question 10",
+      "question": "How did Counselor Goel convince the judge to call the robot to the court? (કાઉન્સેલર ગોયલે જજને રોબોટને કોર્ટમાં બોલાવવા માટે કેવી રીતે મનાવ્યા?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Counselor Goel argued that Ram Singh-070 had a memory tape that contained information about all the activities of the past week. Since many stolen items were still missing, the robot's memory could reveal the truth about where the items were and who ordered him to steal them. He convinced the judge that the robot was a crucial piece of evidence and that 'if a robot can shop, it can also be called to the court.' The judge agreed, and a notice was served to the robot.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘Memory Tape’ - આ શબ્દ કીવર્ડ છે. મેમરી ટેપમાં બધી વિગતો હતી એટલે તેને કોર્ટમાં બોલાવાયો.</p></div>"
+    }
+  ]
+}
