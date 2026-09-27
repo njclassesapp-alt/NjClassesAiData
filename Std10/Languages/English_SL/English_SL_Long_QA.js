@@ -172,3 +172,61 @@ var Std10_English_SL_Long_QA = {
     }
   ]
 }
+,
+"4": {
+  "chapterNumber": 4,
+  "chapterTitle": "A Wonderful Creation",
+  "contentType": "મુદ્દાસર અને સવિસ્તર ઉત્તરો (3 અને 4 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Write a Short Note on: The Mother - A Wonderful Creation. (ધોરણ 10 બોર્ડ માટે મોસ્ટ આઈએમપી ટૂંકનોંધ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> In this chapter, God is busy creating a model of a mother. He wants to make her perfect with many unique qualities. A mother should have all her parts movable and replaceable. She should have a lap that disappears when she stands up. She must have a kiss that can cure everything from a broken leg to a broken heart. God also planned to give her six pairs of hands to manage all the work and three pairs of eyes to look after her children in different ways. She should be able to manage a family of six members on only half a pound of cabbage and feed her children even when she is sick. She is a wonderful creation of God, full of love and endurance.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Mother' ની ટૂંકનોંધમાં 6H (Hands), 3E (Eyes), અને 'Cure-Kiss' આટલા શબ્દો યાદ રાખો એટલે આખી ટૂંકનોંધ તૈયાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "What are the functions of the three pairs of eyes in a mother's model?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The Lord gave three pairs of eyes to the mother for specific purposes:<br>1. <strong>First pair:</strong> To see her children through closed doors (knowing what they are doing without being there).<br>2. <strong>Second pair:</strong> To look at the children and say, 'I understand and I love you' without uttering a word.<br>3. <strong>Third pair:</strong> To see all secret things without opening them. These eyes represent a mother's intuition and her deep understanding of her children's emotions and needs.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Eyes Formula = 1. Closed Door (સુરક્ષા), 2. Look & Love (પ્રેમ), 3. Secret things (રહસ્ય સમજવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "Write a Short Note on: The Secret of Tears in a Mother's Eyes.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The appearance of a tear on the mother's face was a miracle even for God. He had not put it there. The tear was unique and symbolised many emotions. It could be for pain, for joy, for pride, for disappointment, or for loneliness. It showed that even though God made the mother tough, she is also emotional and sensitive. The tear is a symbol of her deep feelings and her strength to endure everything for her family. It was 'a wonderful creation' within a creation.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Tears = PJ PD L (P-Pain, J-Joy, P-Pride, D-Disappointment, L-Loneliness). આ પાંચ શબ્દો યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "Explain the phrase: 'A kiss that could cure everything from a broken leg to a broken heart.'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> This phrase highlights the healing power of a mother's love. 'Broken leg' refers to physical injuries, while 'broken heart' refers to emotional pain, sadness, or failures. A mother's kiss or her touch has the magic to make a child feel safe, loved, and encouraged. It suggests that her love is the best medicine for any kind of trouble a child faces in life. It is not just a physical act but a spiritual healing power given by God to mothers.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Broken Leg' = Physical (શારીરિક) અને 'Broken Heart' = Emotional (માનસિક) - મમ્મીનો પ્રેમ બંને સાજા કરે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "Why did the Angel think that the model of the mother was too soft? What was the Lord's reply?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> When the Angel touched the model of the mother, he felt it was very soft. He thought such a soft creature might not be able to handle the pressures of the world. However, the Lord replied that though she looks soft from the outside, she is very 'tough' from the inside. He said that no one can imagine what a mother can endure and do. She is not only capable of thinking but also of reasoning and compromising. Her toughness is her strength to protect and nurture her family.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Soft outside + Tough inside = Mother. (નારિયેળ જેવું વ્યક્તિત્વ - બહારથી નરમ, અંદરથી મક્કમ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "Describe the physical characteristics of the mother as mentioned in the lesson.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> According to the lesson, the mother's model has several unique physical features planned by God:<br>1. All her parts should be movable and replaceable.<br>2. She has a lap that disappears when she stands up.<br>3. She possesses a kiss that can cure any pain.<br>4. She has six pairs of hands to do multiple tasks simultaneously.<br>5. She has three pairs of eyes to watch and understand her children.<br>6. She can run on any food available (like half a pound of cabbage) and can heal herself when she is sick.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Body Parts યાદ રાખવા માટે: Lap (ખોળો), Hands (6), Eyes (3), Kiss (ચુંબન). બસ આટલું જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "What was the Lord's reaction when the Angel discovered a tear on the mother's face?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> When the Angel noticed a tear on the mother's face and called it a miracle, the Lord was surprised too. He said, 'It is a miracle! I did not put it there.' The Lord explained that the tear was spontaneous. He hadn't added it as a feature; it appeared on its own as a result of the mother's deep emotions. This showed that the creation had become so life-like and perfect that it started expressing feelings like pain and joy automatically.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Tear (આંસુ) = Miracle (ચમત્કાર). ભગવાન માટે પણ આ એક સરપ્રાઈઝ હતું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "How does a mother manage her family with limited resources according to the text?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> A mother is shown as a great manager in this chapter. God says that she should be able to manage a family of six members on only half a pound of cabbage. This highlights her quality of resourcefulness and self-sacrifice. She prioritizes her family's needs over her own. Even when she is sick, she does not stop working; instead, she heals herself and continues to look after her children and household. This shows her immense mental strength and dedication.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Resourcefulness = 'Half a pound cabbage' (અડધો કિલો કોબીજ) + '6 family members'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "What qualities of God are reflected in his creation of 'Mother'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Through the creation of a mother, God's qualities like perfection, love, and creativity are reflected. He wanted to create something that could represent His own love on Earth. By giving her the power to heal, to endure, and to understand without words, God made her a semi-divine being. The Lord's hard work (working for six days with full concentration) shows how much importance He gave to this specific creation. It shows God as a master craftsman who values emotions as much as physical perfection.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: God + Mother = Love. ભગવાનનો પ્રેમ એટલે જ માતાનો પ્રેમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "What is the central theme/message of the chapter 'A Wonderful Creation'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The central theme of the chapter is to glorify the selfless love, strength, and multitasking ability of a mother. It teaches us that a mother is God's most beautiful and complex creation. The chapter emphasizes that a mother's strength is not just physical but emotional and spiritual. She is 'tough' yet 'kind'. The message is to respect and value mothers, as they are the backbone of a family and possess a 'miraculous' power to love and sacrifice without expecting anything in return.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Theme = Respect Mothers. મમ્મીની શક્તિ અને પ્રેમની આ પાઠમાં વાત છે.</p></div>"
+    }
+  ]
+}
