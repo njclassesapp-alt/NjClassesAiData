@@ -114,3 +114,61 @@ var Std10_English_SL_Long_QA = {
     }
   ]
 }
+,
+"3": {
+  "chapterNumber": 3,
+  "chapterTitle": "An Interview with Arun Krishnamurthy",
+  "contentType": "મુદ્દાસર અને સવિસ્તર ઉત્તરો (3 અને 4 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Write a short note on: Arun’s Career and EFI (Arun Krishnamurthy as an Environmentalist). [3 Marks]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Arun Krishnamurthy is a young environmentalist who founded the NGO named 'Environmentalist Foundation of India' (EFI) at the age of 17. He started his work with a 'Turtle Walk' to save turtle eggs and hatchlings in Chennai. Later, he realized the importance of cleaning water bodies like lakes and ponds. Even though he had a well-paying job at Google, he left it to devote his full time to the environment. EFI now works in cities like Chennai, Hyderabad, Delhi, Coimbatore, and Puducherry, cleaning water bodies and planting trees.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: EFI યાદ રાખવા માટે '17-G-L' સૂત્ર યાદ રાખો: 17 વર્ષે શરૂઆત, Google છોડ્યું, અને Lake સફાઈ કરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "Write a short note on: Support from Parents and Teachers. [3 Marks]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Arun believes that his success is due to the support of his parents and teachers. His parents were very understanding; they never stopped him from following his interest in the environment. They only advised him to do well in his studies. His teachers taught him 'humility' (નમ્રતા). They told him not to become snobbish or arrogant because he was doing good work. They encouraged him to keep learning all the time. This support helped Arun maintain a balance between his passion and his life.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'H-P-T' (Humility from Parents & Teachers). માતા-પિતાએ સ્વતંત્રતા આપી અને શિક્ષકોએ નમ્રતા શીખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "How do Arun and his team clean a lake? [3 Marks]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Arun and his team follow a systematic process to clean a lake. First, they use heavy machinery like desilting machines, JCBs, and earthmovers to remove heavy waste and weeds. The volunteers use rakes (પંજેટી) and spades (પાવડા) to collect smaller trash. They wear protective gear like nose masks and hand gloves to ensure safety. They remove all types of garbage, from diapers to broken glass, to ensure the water body is clean for aquatic life.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Tools & Safety' યાદ રાખો. સાધનો: JCB/Rakes અને સુરક્ષા: Mask/Gloves.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "Why did Arun Krishnamurthy leave his job at Google? [3 Marks]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Arun was working at Google, which is a dream job for many. However, he felt that he could not sit comfortably and enjoy his life while the environment was being damaged on such a large scale. He wanted to dedicate his full attention and time to cleaning water bodies and saving the environment. He believed that he could not do justice to both - a full-time job at Google and environmental work. Therefore, he chose his passion over his career and left Google in 2010.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Passion vs Profession'. અરુણે 'Environment' ને 'Google' કરતા વધુ મહત્વ આપ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "What advice does Arun give to students and youth? [3 Marks]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Arun advises students to identify their interest first. He suggests that every individual should devote at least four hours a weekend (two hours on Saturday and two hours on Sunday) to an environmental cause. He believes that small beginnings can lead to a big change. He encourages students to join EFI as volunteers. His main message is: \"Stop throwing trash outside your homes and reduce the amount of waste you generate.\"</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '4 Hours Rule'. અઠવાડિયે માત્ર 4 કલાક પર્યાવરણ માટે આપવાની વાત યાદ રાખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "Write a short note on: Equipment used by EFI. [3 Marks]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> For cleaning lakes, EFI uses both simple tools and heavy machinery. The volunteers use rakes (પંજેટી) and spades (પાવડા) to remove garbage from the surface and edges. For safety, they use nose masks and hand gloves. When the lake has a lot of silt or heavy waste, they use heavy equipment like JCBs and Earthmovers. This combination of manual and mechanical work ensures that the water body is completely cleaned and restored.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'M & M' યાદ રાખો - Manual (Rakes/Spades) & Mechanical (JCB/Earthmovers).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "What was Arun's first experience that moved him to work for the environment? [3 Marks]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Arun lived near a beautiful lake in Chennai that had many birds, frogs, and turtles. Over time, this lake became heavily polluted with garbage. This pollution led to the spread of mosquitoes and turned a lovely place into an ugly neighborhood. Seeing this damage to the environment and the creatures living in the lake deeply moved Arun. This incident motivated him to take action, and he started cleaning the lake with a few friends.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'The Lake Next Door'. પડોશના તળાવની ગંદકીએ અરુણને એન્વાયરમેન્ટલિસ્ટ બનાવ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "Explain the importance of humility in Arun's life. [3 Marks]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Humility (નમ્રતા) played a vital role in Arun's journey. His teachers taught him to stay humble despite his achievements. They told him that he should not think of himself as a 'superstar' just because he is fighting for the environment. Arun believes that once a person becomes snobbish, they stop learning. Being humble allowed him to keep his mind open, learn from nature, and work effectively with his team of volunteers.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'No Snobbishness'. મોટું કામ કર્યા પછી પણ જમીન સાથે જોડાયેલા રહેવું એટલે નમ્રતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "How does pollution in water bodies affect aquatic life? [3 Marks]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> According to Arun, water is the basis of life. When we throw trash like plastic, diapers, and glass into lakes, it pollutes the water. This pollution directly affects aquatic life, including fish, frogs, and turtles. For example, plastic can be fatal if swallowed by animals. Polluted water also leads to a decrease in oxygen levels, making it difficult for creatures to survive. Arun emphasizes that if we protect water bodies, the life forms within them will automatically be protected.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Water = Life'. પાણી ચોખ્ખું તો જીવ સૃષ્ટિ સુરક્ષિત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "What kind of garbage do they find in the lakes? [3 Marks]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> During their cleaning drives, EFI volunteers find almost everything in the lakes. The garbage includes torn clothes, slippers, plastic bags, used diapers, and broken glass. It is heartbreaking to see that people throw things ranging from small pins to large household waste into water bodies. This variety of trash shows how much humans neglect the importance of clean water and its impact on the local ecosystem.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Everything Human'. માણસ જે વાપરે તે બધું જ તળાવમાં જોવા મળે છે.</p></div>"
+    }
+  ]
+}
