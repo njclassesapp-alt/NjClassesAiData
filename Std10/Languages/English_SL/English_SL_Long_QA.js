@@ -230,3 +230,61 @@ var Std10_English_SL_Long_QA = {
     }
   ]
 }
+,
+"5": {
+  "chapterNumber": 5,
+  "chapterTitle": "Playing with Fire",
+  "contentType": "મુદ્દાસર અને સવિસ્તર ઉત્તરો (3 અને 4 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "Short Note 1",
+      "question": "Write a short note on: Pyrotechnics (ફટાકડા બનાવવાનું વિજ્ઞાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>1. The science of fireworks is technically called 'Pyrotechnics'.<br>2. It is derived from the Greek words 'pyre' meaning fire and 'techne' meaning an art.<br>3. Pyrotechnics includes not only fireworks but also a whole range of devices that use similar materials and principles, from safety matches to solid fuel rocket boosters of the Space Shuttle.<br>4. The household match is considered a special pyrotechnic device because all the pyrotechnic effects - heat, smoke, light, gas, and sound - are present in it.<br>5. The basic physics and chemistry of fireworks are the same as any fuel being burnt.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Pyrotechnics = Fire (Pyre) + Art (Techne). યાદ રાખો: દીવાસળી (Matchbox) એ આ વિજ્ઞાનનું સૌથી નાનું અને શ્રેષ્ઠ ઉદાહરણ છે!</p></div>"
+    },
+    {
+      "questionNumber": "Short Note 2",
+      "question": "Write a short note on: Gunpowder (Black Powder) and Roger Bacon",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>1. Gunpowder, also known as black powder, is the basic material used in fireworks.<br>2. Historians believe that the Chinese were the first to invent it more than 1000 years ago.<br>3. Roger Bacon, an English monk of the 13th century (1242), revealed the formula for black powder.<br>4. He considered it such a dangerous substance that he wrote about it in a code language.<br>5. The basic formula of black powder has remained unchanged for centuries. It is a blend of potassium nitrate, charcoal, and sulphur in the ratio of 75:15:10 by weight.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રેશિયો યાદ રાખો: 75:15:10 (Potassium : Charcoal : Sulphur). રોજર બેકને આ ફોર્મ્યુલા 'કોડ લેન્ગ્વેજ' માં લખી હતી કારણ કે તે જોખમી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "Short Note 3",
+      "question": "Write a short note on: Safety Precautions for Fireworks (ફટાકડા ફોડતી વખતે રાખવાની સાવચેતી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>1. Fireworks should be stored, handled, and lit with great care.<br>2. They should never be stored or unpacked near a flame, gas cylinder, or heater.<br>3. One should never wear long loose clothes or nylon clothes when lighting crackers.<br>4. Since the powder in crackers is poisonous, they should never be carried loose in your pocket or hand.<br>5. Fireworks should never be lit inside a house or near electrical wires.<br>6. Never bend over a firework when you are lighting it and never use fireworks to frighten people.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'No Nylon, No Pocket, No Flame'. હંમેશા યાદ રાખો: ફટાકડા જોડે રમત નહીં, સુરક્ષા એ જ પ્રથમ ભક્તિ!</p></div>"
+    },
+    {
+      "questionNumber": "Short Note 4",
+      "question": "Write a short note on: How colors are created in fireworks? (ફટાકડામાં રંગો કેવી રીતે ઉત્પન્ન થાય છે?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>1. Colors in fireworks are created through two main processes: Incandescence and Luminescence.<br>2. Incandescent light is produced when a substance is heated so much that it begins to glow.<br>3. When the temperature of a firework is controlled, the glow of its metallic substances can be manipulated to be a desired color at a proper time.<br>4. Modern chemistry has discovered that substances like Magnesium, Aluminium, and Titanium burn at high temperatures, emitting bright light.<br>5. These metallic substances are used to produce white and other bright colors in fireworks.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બે જ શબ્દો યાદ રાખો: Incandescence (ગરમીથી પ્રકાશ) અને Luminescence (રસાયણથી પ્રકાશ).</p></div>"
+    },
+    {
+      "questionNumber": "Question 5",
+      "question": "Describe the manufacturing of fireworks in India and the role of Sivakasi.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>1. In India, fireworks used to be imported from China earlier.<br>2. During the Second World War, imports from China were stopped, and the safety match producers of Sivakasi in Tamil Nadu began manufacturing fireworks for Deepavali.<br>3. In 1992, the country used about 60 crore worth of fireworks, and 60 to 70 percent of this came from Sivakasi.<br>4. In Sivakasi, fireworks are manufactured in a number of small units.<br>5. Testing facilities for quality and safety are almost non-existent, making it a dangerous place to work.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શિવાકાશી = ફટાકડાનું હબ. યાદ રાખો: 'Second World War' પછી ભારત આત્મનિર્ભર બન્યું!</p></div>"
+    },
+    {
+      "questionNumber": "Question 6",
+      "question": "Explain the chemical reaction and physics behind a firework when it is lit.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>1. The basic principle is that when heat is applied to fuel (gunpowder), it uses oxygen to burn.<br>2. Because the fuel is packed tightly to keep the heat in, the burning takes place all of a sudden.<br>3. This sudden burning causes the characteristic loud noise and bright light.<br>4. The expansion of the hot gases inside the firework creates the force that sends the firework into the air.<br>5. The actual manufacturing process of fireworks is simple, but the safety measures are complex.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Tight Packing = Sudden Burning = Big Bang! ગરમી + ઓક્સિજન + બળતણ = ધડાકો!</p></div>"
+    },
+    {
+      "questionNumber": "Question 7",
+      "question": "Why did Roger Bacon write the formula of black powder in code?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>1. Roger Bacon was an English monk who lived in the 13th century.<br>2. He discovered the formula for black powder in 1242.<br>3. He realized that black powder was extremely dangerous if it fell into the wrong hands.<br>4. It could be used to create weapons of mass destruction.<br>5. To prevent the misuse of this powerful substance, he decided to write the secret formula in a code language so only experts could understand it.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Code = Security. રોજર ભાઈ જાણતા હતા કે 'દારૂગોળો' ખોટા હાથમાં જાય તો અનર્થ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "Question 8",
+      "question": "What should be done if someone gets burned while playing with fire? (જો કોઈ દાઝી જાય તો શું કરવું?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>1. If you get a burn, the first priority is to cool the area.<br>2. Pour cold water on the burn immediately and continuously.<br>3. Do not apply any oil or ointment on the burnt skin as it may trap heat or cause infection.<br>4. Cover the area with a clean cloth if necessary.<br>5. Go to see a doctor as soon as possible for professional medical treatment.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Water Yes, Oil No'. માત્ર ઠંડુ પાણી અને સીધા ડોક્ટર પાસે!</p></div>"
+    },
+    {
+      "questionNumber": "Question 9",
+      "question": "Write about the historical evidence of gunpowder mentioned in Indian scriptures.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>1. Although many credit the Chinese, some historians argue that India had knowledge of pyrotechnics much earlier.<br>2. 'Sukraniti' is an ancient Indian text written more than 2000 years ago.<br>3. It contains references to weapons similar to guns and projectile weapons (missiles).<br>4. This suggests that the knowledge of using explosive substances was present in ancient India.<br>5. However, the modern form of fireworks was popularized much later.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Sukraniti' = Ancient Indian Proof. ભારતનું જ્ઞાન પણ ઘણું જૂનું છે!</p></div>"
+    },
+    {
+      "questionNumber": "Question 10",
+      "question": "Why are safety matches called a 'special' pyrotechnic device?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>1. A safety match is a common household item, but it is scientifically complex.<br>2. It is considered a special pyrotechnic device because it displays all the characteristics of a firework.<br>3. When you strike a match, it produces 'Heat'.<br>4. It produces 'Light' (flame) and 'Smoke'.<br>5. It also releases 'Gas' and a small 'Sound' (hissing or clicking).<br>6. Since it combines all these effects in a small stick, it is a perfect example of pyrotechnics.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 5 Effects: Heat, Light, Smoke, Gas, Sound. દીવાસળી એ 'Pocket Firework' છે!</p></div>"
+    }
+  ]
+}
