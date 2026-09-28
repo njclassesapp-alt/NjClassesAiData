@@ -288,3 +288,61 @@ var Std10_English_SL_Long_QA = {
     }
   ]
 }
+,
+"6": {
+  "chapterNumber": 6,
+  "chapterTitle": "I Love You, Teacher",
+  "contentType": "મુદ્દાસર અને સવિસ્તર ઉત્તરો (3 અને 4 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "1",
+      "question": "Write a Short Note on: Anne Sullivan - A Wonderful Teacher (એન સુલેવાન - એક અદ્ભુત શિક્ષિકા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Anne Sullivan was a teacher for the deaf and blind. She came to Helen's life when Helen was seven years old. She was very patient and kind. She taught Helen to spell words through finger movements on her palm (હથેળીમાં આંગળીઓના હલનચલન દ્વારા). She used to take Helen for a walk in the garden and taught her about nature. Miss Sullivan sacrificed her own eyesight (પોતાની આંખોનું બલિદાન આપ્યું) for Helen. She stayed with Helen until she became a graduate. She was not just a teacher but a true friend and a guide who transformed Helen's dark life into a world of light.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Anne Sullivan માટે 3P યાદ રાખો: Patience (ધીરજ), Passion (જુસ્સો) અને Palm (હથેળીમાં શિક્ષણ).</p></div>"
+    },
+    {
+      "questionNumber": "2",
+      "question": "Write a Short Note on: Helen Keller's Learning Process (First Stage) (હેલન કેલરની શીખવાની પ્રક્રિયા - પ્રથમ તબક્કો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> In the first stage of learning, Miss Sullivan gave Helen a doll and spelled the word 'D-O-L-L' on her palm. Helen copied it and was thrilled to connect the object with the word. Later, she learned to spell many words like 'pin', 'cup', 'sit', etc. A turning point came when Miss Sullivan took Helen to a running water tap. She put Helen's one hand under the water and spelled 'W-A-T-E-R' on the other hand. Helen felt the cool flow and understood that everything has a name. This stage was based on touch and feel (સ્પર્શ અને અનુભવ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Stage 1 = 'Touch and Spell'. યાદ રાખો: 'Doll' થી શરૂઆત અને 'Water' થી આત્મજ્ઞાન.</p></div>"
+    },
+    {
+      "questionNumber": "3",
+      "question": "Write a Short Note on: The Second Stage of Helen’s Learning (હેલન કેલરની શીખવાની પ્રક્રિયા - બીજો તબક્કો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The second stage was based on the sense of touch for learning to speak (બોલતા શીખવું). Helen learned to speak through the movements of the lips and the vibrations in the throat (ગળામાં થતી ધ્રુજારી). Miss Sullivan would speak a word and Helen would put her fingers on her teacher's lips and throat to feel the movement. When Helen uttered her first word, it gave her boundless delight. She started talking with her toys, stones, and trees. This was a miraculous experience for a deaf and blind child.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Stage 2 = 'Lips and Throat'. યાદ રાખો: 'Vibration' એટલે કે ધ્રુજારી દ્વારા શબ્દોની ઓળખ.</p></div>"
+    },
+    {
+      "questionNumber": "4",
+      "question": "Describe Helen’s feelings when she started speaking. (હેલન જ્યારે બોલતા શીખી ત્યારે તેની લાગણીઓનું વર્ણન કરો.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> When Helen uttered her first word, she felt 'boundless delight' (અપાર આનંદ). It was a miracle (ચમત્કાર) for her. She was excited because now she could communicate with the world. She started talking with her dolls, the stones in the garden, and the trees. She felt that everything she touched seemed to 'throb with life' (જીવંત હોય તેવું લાગવું). This new ability changed her perspective towards the world, filling her life with hope and joy.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Miracle of Speech'. યાદ રાખો: Boundless Delight = અપાર ખુશી.</p></div>"
+    },
+    {
+      "questionNumber": "5",
+      "question": "Why did Helen say, \"I love you, Teacher\"? (હેલને શા માટે કહ્યું, \"આઈ લવ યુ, ટીચર\"?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Miss Sullivan was extremely devoted to Helen. She sacrificed her own eyesight to educate Helen. Even when her eyes became weak, she continued to help Helen graduate from Radcliffe College. After graduation, Helen realized how much her teacher had suffered and lost for her. Overwhelmed with gratitude (કૃતજ્ઞતા) and realizing the unconditional love of her teacher, Helen felt deep love and respect, which made her say, \"I love you, Teacher.\"</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Sacrifice = Love. શિક્ષકની આંખો ગઈ પણ હેલનને દુનિયા દેખાડી.</p></div>"
+    },
+    {
+      "questionNumber": "6",
+      "question": "Explain the significance of the 'Water' incident in Helen's life. (હેલનના જીવનમાં 'પાણી' વાળી ઘટનાનું મહત્વ સમજાવો.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The water incident was the most important 'turning point' in Helen's life. Before this, Helen just copied signs without understanding. When Miss Sullivan held Helen's hand under the cool stream of water and spelled W-A-T-E-R, Helen suddenly understood the connection between the object and the word. She realized that 'everything has a name' (દરેક વસ્તુને નામ હોય છે). This awakened her soul and opened the door to knowledge and communication.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Water = Awakening (જાગૃતિ). આ ઘટનાથી હેલનને 'નામ' ની દુનિયા સમજાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "7",
+      "question": "How did Helen study in college? (હેલને કોલેજમાં કઈ રીતે અભ્યાસ કર્યો?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> In college, the lectures were spelled into Helen's palms as rapidly as possible. She used to note down whatever she remembered when she went back home. She wrote her tasks on a typewriter. She faced many difficulties but never gave up. Her teacher, Miss Sullivan, was always there to help her, even though her own eyesight was failing. Helen became the first deaf-blind person to earn a Bachelor of Arts degree.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: College = Palm Notes + Typewriter + B.A. Degree.</p></div>"
+    },
+    {
+      "questionNumber": "8",
+      "question": "Write a Short Note on: Helen Keller - A Gifted Learner (હેલન કેલર - એક પ્રતિભાશાળી વિદ્યાર્થી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Helen was a gifted learner because she had a strong desire to learn despite her disabilities. She quickly mastered the finger-play method. She learned to speak by feeling vibrations, which is a very difficult task. She had a sharp memory (તીવ્ર યાદશક્તિ) and could remember lectures to write them down later. Her determination led her to Radcliffe College, where she succeeded against all odds. She proved that with hard work, any obstacle can be overcome.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Gifted = Sharp Memory + Determination (મક્કમતા).</p></div>"
+    },
+    {
+      "questionNumber": "9",
+      "question": "What message does the chapter 'I Love You, Teacher' convey? (આ પ્રકરણ શું સંદેશ આપે છે?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The chapter conveys a powerful message about the bond between a teacher and a student. It shows that a teacher's patience and sacrifice can change a student's life. It also teaches us that physical disabilities are not barriers to success if one has the will to learn. Helen’s journey from darkness to light and Miss Sullivan's selfless service inspire us to value education and the role of teachers in our lives.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Message = 'Willpower' (ઈચ્છાશક્તિ) and 'Teacher's Sacrifice'.</p></div>"
+    },
+    {
+      "questionNumber": "10",
+      "question": "Why did Miss Sullivan's sacrifice make Helen sad? (એન સુલેવાનના બલિદાને હેલનને શા માટે દુઃખી કરી?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Helen was sad because she realized that Miss Sullivan had ignored her own failing eyesight to help her. Miss Sullivan became completely blind by 1935, just to ensure Helen could complete her education. Helen felt that her teacher had sacrificed her most precious gift—her sight—for Helen's sake. Helen's heart was full of sorrow and gratitude because her success was built on her teacher's physical loss.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Sacrifice = Total Blindness. હેલન માટે શિક્ષિકાએ પોતાની આંખો ખોઈ.</p></div>"
+    }
+  ]
+}
