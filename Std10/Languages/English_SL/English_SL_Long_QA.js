@@ -346,3 +346,61 @@ var Std10_English_SL_Long_QA = {
     }
   ]
 }
+,
+"7": {
+  "chapterNumber": 7,
+  "chapterTitle": "Kach and Devayani",
+  "contentType": "મુદ્દાસર અને સવિસ્તર ઉત્તરો (3 અને 4 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "1",
+      "question": "Write a short note on: Kach’s stay at Shukracharya’s Ashram. (GSEB Most Imp)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Kach was the son of Brihaspati. He went to Shukracharya’s ashram to learn the 'Sanjivani Vidya' (the art of restoring life to the dead). He lived there as a dedicated student. He won Shukracharya’s heart with his devotion and service. He also won the heart of Devayani, Shukracharya’s daughter, by his handsome looks and good character. He used to bring flowers for her and help her with household chores. He stayed there for many years with patience and perseverance to achieve his goal.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>Kach's stay યાદ રાખવા માટે 'Service & Devotion' શબ્દો પકડો. તે માત્ર ભણવા નહોતો આવ્યો પણ સેવા (Service) દ્વારા ગુરુનું મન જીતવા આવ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "2",
+      "question": "Write a short note on: The Asuras’ attempts to kill Kach.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> The Asuras did not want Kach to learn Sanjivani Vidya, so they tried to kill him thrice:<br>1. <strong>First attempt:</strong> They killed Kach while he was grazing cows, cut his body into pieces, and fed them to wolves and jackals.<br>2. <strong>Second attempt:</strong> They killed him, ground his body into a paste, and mixed it with the water of the ocean.<br>3. <strong>Third attempt:</strong> They killed him, burnt his body, and mixed the ashes in the wine (sura) that Shukracharya drank.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ક્રમ યાદ રાખો: 1. પ્રાણીઓ (Wolves), 2. પાણી (Ocean), 3. મિશ્રણ (Wine/Sura). આ ત્રણ સ્ટેપમાં અસુરોએ કારસા ઘડ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "3",
+      "question": "Character Sketch: Devayani.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Devayani was the beautiful daughter of Shukracharya. She fell in love with Kach due to his youthful looks and intelligence. She was very emotional and deeply attached to Kach. Every time Kach was killed by the Asuras, she would weep and request her father to bring him back to life. However, she was also possessive. When Kach refused to marry her because they were like brother and sister, she became furious and cursed him that his knowledge (Sanjivani Vidya) would be useless to him.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>Devayani = Love + Tears + Anger. (પ્રેમમાં પડી, મરવા પર રડી અને છેલ્લે લગ્નની ના પાડતા ગુસ્સે થઈ શ્રાપ આપ્યો.)</p></div>"
+    },
+    {
+      "questionNumber": "4",
+      "question": "Why did Kach refuse to marry Devayani? Explain his reasoning.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> After learning the Sanjivani Vidya, Kach was ready to return home. Devayani proposed marriage to him. Kach refused because, in his third rebirth, he had come out of Shukracharya's stomach. This made Shukracharya his father and Devayani his sister. Kach believed that a brother and sister cannot marry. He prioritized his moral values and the sanctity of the teacher-student relationship over personal desires.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>Kach માટે 'Values > Emotions'. નૈતિકતા એના માટે મોટી હતી, એટલે એણે 'Sister' વાળો તર્ક (Logic) આપ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "5",
+      "question": "How did Shukracharya bring Kach back to life the third time?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> The third time, the Asuras mixed Kach's ashes in Shukracharya’s wine. When Shukracharya realized this, he was in a dilemma. If Kach stayed inside, Shukracharya would live but Kach would die. If Kach came out, Shukracharya would die. To solve this, Shukracharya taught Kach the Sanjivani Vidya while he was still inside his stomach. Then he called Kach out. Kach tore open the stomach and came out, then he used the Vidya to bring his guru back to life.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>આ પ્રસંગને 'Double Revival' કહેવાય. પહેલા ગુરુએ શિષ્યને જીવતો કર્યો, પછી શિષ્યએ ગુરુને!</p></div>"
+    },
+    {
+      "questionNumber": "6",
+      "question": "What curse did Devayani give to Kach and what was Kach's reaction?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> When Kach refused to marry Devayani, she cursed him saying, \"Since you have betrayed my love, the Vidya you have learned shall be useless to you when you need it most.\" Kach remained calm and replied that he didn't deserve the curse as he was only following dharma. He told her that even if he couldn't use the Vidya himself, he could still teach it to others, and thus it would not be totally useless. In return, he cursed Devayani that no Rishi would ever marry her.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>Mutual Curse: Devayani gave 'Useless Vidya' curse, Kach gave 'No Rishi Marriage' curse. (બદલો લેવાની ભાવના નહોતી પણ સત્ય કહેવાની હિંમત હતી.)</p></div>"
+    },
+    {
+      "questionNumber": "7",
+      "question": "Character Sketch: Shukracharya.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Shukracharya was a great saint and teacher of the Asuras. He possessed the secret 'Sanjivani Vidya'. He was a kind-hearted man and a very loving father. He could not see his daughter Devayani in pain, which is why he brought Kach back to life multiple times. He was also an impartial teacher who recognized Kach’s sincerity. Even when he knew the Asuras would be unhappy, he taught the secret Vidya to Kach to ensure that his own life could be restored after Kach came out of his stomach.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>Shukracharya = Master of Sanjivani + Loving Father + Just Teacher. (તેઓ અસુરોના ગુરુ હોવા છતાં દેવોના પુત્ર પ્રત્યે ઉદાર રહ્યા.)</p></div>"
+    },
+    {
+      "questionNumber": "8",
+      "question": "Describe the battle between Devas and Asuras mentioned in the beginning.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> In ancient times, there were frequent wars between the Devas and the Asuras. The Devas were from among the gods, and the Asuras were demons. The Asuras had a great advantage because their priest, Shukracharya, knew the Sanjivani Vidya. He could bring dead Asuras back to life. On the other hand, the Devas did not have anyone who knew that mantra. This made the Asuras stronger in every battle, leading the Devas to seek help from Brihaspati’s son, Kach.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>Advantage Asuras = Sanjivani Vidya. (જેની પાસે સંજીવની તેની જીત પાકી, આ જ મુખ્ય સંઘર્ષ હતો.)</p></div>"
+    },
+    {
+      "questionNumber": "9",
+      "question": "What qualities of Kach make him an ideal student?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Kach possessed all the qualities of an ideal student: <br>1. <strong>Respect:</strong> He showed immense respect to Shukracharya.<br>2. <strong>Service:</strong> He performed all tasks like collecting flowers and grazing cows.<br>3. <strong>Patience:</strong> He stayed for many years to learn the Vidya.<br>4. <strong>Self-control:</strong> He did not get distracted by Devayani’s beauty.<br>5. <strong>Dedication:</strong> His main focus was to help the Devas, and he fulfilled his promise.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>યાદ રાખો: 'S-P-R-D' (Service, Patience, Respect, Dedication). આ ચાર શબ્દો ઉત્તરમાં આવવા જ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "10",
+      "question": "Explain the significance of the Sanjivani Vidya in the story.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Sanjivani Vidya is the central element of the story. It is a secret mantra that can revive a dead person. Its significance is: <br>1. It was the source of the Asuras' power. <br>2. It was the reason Kach risked his life. <br>3. It tested the bond between teacher and student. <br>4. It ultimately led to the conflict between Kach and Devayani. The Vidya represents high knowledge that requires sacrifice and integrity to be truly mastered.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>Sanjivani Vidya = Power of Life. આ વિદ્યા માત્ર એક મંત્ર નહોતો, પણ દેવો અને દાનવો વચ્ચેના સત્તાના સંતુલન (Power Balance) ની ચાવી હતી.</p></div>"
+    }
+  ]
+}
