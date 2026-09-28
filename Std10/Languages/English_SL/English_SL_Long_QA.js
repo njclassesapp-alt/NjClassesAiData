@@ -404,3 +404,61 @@ var Std10_English_SL_Long_QA = {
     }
   ]
 }
+,
+"8": {
+  "chapterNumber": 8,
+  "chapterTitle": "Our Feathered Friends",
+  "contentType": "મુદ્દાસર અને સવિસ્તર ઉત્તરો (3 અને 4 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "1",
+      "question": "Write a short note on: The Indian Grey Hornbill.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The Indian Grey Hornbill is a common bird found in India. It has grey plumage (feathers) all over its body. Its most striking feature is its long, curved beak with a 'casque' on top. This bird is known for its unique nesting habits. The female hornbill enters a hollow in a tree and seals the entrance with its own droppings, leaving only a small slit. The male feeds the female and the chicks through this slit. Once the chicks are big enough, the female breaks the seal and comes out.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Hornbill ને 'તપસ્વી પક્ષી' તરીકે યાદ રાખો. તે માળામાં પુરાઈ રહે છે (Hole in tree) અને નર પક્ષી તેને જમાડે છે.</p></div>"
+    },
+    {
+      "questionNumber": "2",
+      "question": "Write a short note on: The Weaver Bird (Baya).",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The Weaver Bird, commonly known as 'Baya' in Gujarati, is famous for its artistic nest-building skills. It is the male weaver bird that builds the nest using long strips of grass. The nest hangs from the branches of trees, usually over water bodies to protect it from predators. The female bird observes the nests built by various males and chooses the best-built one to lay its eggs. It is truly an 'engineer' among birds because of its intricate weaving technique.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Weaver = વણકર. યાદ રાખો કે માત્ર 'Male' (નર) પક્ષી જ માળો બનાવે છે, અને 'Female' (માદા) માળો પસંદ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "3",
+      "question": "Why are vultures called 'Scavengers'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Vultures are called 'Scavengers' because they feed on the carcasses (dead bodies) of animals. They do not kill other animals for food but eat what is already dead. By doing this, they help in cleaning the environment and preventing the spread of diseases. Unfortunately, the vulture population is decreasing rapidly because of the chemical 'Diclofenac' found in the dead bodies of livestock, which is toxic to them.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Vulture = Nature's Dustbin. તે ગંદકી સાફ કરે છે એટલે તેને Scavenger કહેવાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "4",
+      "question": "Explain the characteristics of Migratory Birds (with reference to Rosy Pastors).",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Migratory birds travel long distances from one region to another to escape harsh weather or find food. Rosy Pastors (વૈયા) are common migratory birds that visit India from Europe and North Asia during winter. They travel in large flocks and are very helpful to farmers because they eat locusts, which are harmful to crops. These birds use the Earth's magnetic field, the sun, and stars to navigate thousands of kilometers.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Migration = પ્રવાસ. Rosy Pastors ખેડૂતોના મિત્ર છે કારણ કે તેઓ 'Locusts' (તીડ) ખાઈ જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "5",
+      "question": "How does the female Hornbill protect herself and her eggs in the nest?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The female Hornbill finds a hollow in a tree trunk for her nest. Once she goes inside, she seals the mouth of the hollow using her own droppings and mud. Only a small slit is left open. This airtight sealing protects her and the eggs from predators like snakes and monkeys. The male bird provides food through that small opening until the chicks hatch and grow. This is a unique survival strategy.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Hornbill Protection = Sealing the hole. (માળાનું મોઢું બંધ કરી દેવું).</p></div>"
+    },
+    {
+      "questionNumber": "6",
+      "question": "Describe the character of Devangi in the chapter.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Devangi is a student of Zoology and a true nature lover. She is knowledgeable, observant, and enthusiastic about birds. In the lesson, she acts as a guide to Shubhangi and Mitrabapa. She explains complex ornithological facts (the study of birds) in simple language. She is patient while answering Shubhangi’s curious questions and shows great concern for the declining population of birds like vultures and sparrows.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Devangi = Bird Expert. તેણી Zoology ની વિદ્યાર્થીની છે એટલે પક્ષીઓ વિશે બધું જ જાણે છે.</p></div>"
+    },
+    {
+      "questionNumber": "7",
+      "question": "What is the importance of birds in our ecosystem?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Birds play a vital role in maintaining the balance of our ecosystem. 1. <strong>Seed Dispersal:</strong> Birds eat fruits and drop seeds in different places, helping in the growth of new trees. 2. <strong>Pest Control:</strong> Many birds eat insects and locusts that destroy crops, thus helping farmers. 3. <strong>Scavenging:</strong> Birds like vultures clean the earth by eating dead animals. Without birds, the natural cycle would be disturbed, leading to an increase in pests and diseases.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Birds are 3-in-1: Cleaners (Vultures), Farmers' friends (Pastors), and Forest makers (Seed dispersal).</p></div>"
+    },
+    {
+      "questionNumber": "8",
+      "question": "Differentiate between a Tailor Bird and a Weaver Bird.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> While both birds are known for their nest-building skills, their methods differ. The <strong>Tailor Bird</strong> (દરજીડો) 'sews' leaves together using plant fibers or silk from spider webs to create a pouch-like nest. On the other hand, the <strong>Weaver Bird</strong> (બાયા) 'weaves' long strips of grass or fine hay to create a hanging, bottle-shaped nest. The Tailor bird uses its beak like a needle, while the Weaver bird uses its beak for intricate knotting.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Tailor = Sewing (સીવવું), Weaver = Weaving (વણવું). નામને યાદ રાખો કામ આપોઆપ યાદ રહી જશે.</p></div>"
+    },
+    {
+      "questionNumber": "9",
+      "question": "Why are sparrows disappearing from our surroundings?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Sparrows, which were once very common, are now rarely seen in cities. The main reasons are: 1. <strong>Modern Architecture:</strong> Modern houses don't have gaps or niches where sparrows can build nests. 2. <strong>Mobile Towers:</strong> The radiation from mobile towers is harmful to their eggs and navigation. 3. <strong>Lack of Food:</strong> Due to the use of pesticides, the insects that baby sparrows eat are disappearing. We need to build artificial birdhouses to save them.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Sparrows (ચકલી) ના દુશ્મન: Radiation (મોબાઈલ ટાવર) અને Concrete Houses (પાકા મકાન).</p></div>"
+    },
+    {
+      "questionNumber": "10",
+      "question": "How do birds find their way during migration?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Navigation during migration is one of nature's wonders. Birds use various methods to find their way over thousands of miles: 1. <strong>Sun and Stars:</strong> They use the position of the sun during the day and stars at night. 2. <strong>Magnetic Field:</strong> Birds have a natural sense to detect the Earth's magnetic field. 3. <strong>Landmarks:</strong> They remember physical features like rivers, mountains, and coastlines. This incredible 'GPS' system helps them return to the same spot every year.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Bird GPS = Sun + Stars + Magnet + Landmarks. આ ચાર શબ્દો યાદ રાખો.</p></div>"
+    }
+  ]
+}
