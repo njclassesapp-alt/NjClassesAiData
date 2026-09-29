@@ -156,3 +156,161 @@ var Std10_English_SL_Chapter_Grammar = {
     }
   ]
 }
+,
+"2": {
+  "chapterNumber": 2,
+  "chapterTitle": "The Human Robot",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Give the synonym (સમાન અર્થ ધરાવતો શબ્દ) of: 'Purchase'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Buy (ખરીદવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P for Purchase અને P for Paisa - પૈસા આપીને વસ્તુ લઈએ તેને Purchase/Buy કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "Give the synonym of: 'Efficient'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Capable / Competent (કાર્યક્ષમ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: E for Efficient અને E for Expert - જે કામમાં એક્સપર્ટ હોય તે Efficient હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "Give the antonym (વિરોધી શબ્દ) of: 'Obedient'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Disobedient (અનાજ્ઞાકારી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરોધી બનાવવા માટે 'Dis' પ્રત્યય આગળ લગાડી દેવો (Dis + Obedient).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "Give the antonym of: 'Expensive'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Cheap / Inexpensive (સસ્તું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ex-pens-ive (ખર્ચાળ) - પેનનો ખર્ચ વધુ એટલે મોંઘુ, ઓછો એટલે Cheap.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "Give the synonym of: 'Confidential'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Private / Secret (ખાનગી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Confidence માં જે વાત કહીએ તે 'Confidential' (ખાનગી) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "Select the correct spelling: (A) Manufecture (B) Manufacture (C) Manifucture",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (B) Manufacture (ઉત્પાદન કરવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Manu + Fac + Ture. મનુ (Manu) ફેક્ટરીમાં (Fac) ટૂર (Ture) કરવા ગયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "Give one word for: 'A person who breaks into a house to steal'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Burglar (ઘરફોડ ચોર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે બંગલા (Bungalow) માં ચોરી કરે તેને Burglar કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "Meaning of the idiom: 'To keep an eye on'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> To watch closely (નજર રાખવી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંખ (Eye) કોઈના પર રાખવી એટલે કે તેને સતત જોતા રહેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "Correct the spelling: 'Robotics'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Robotics</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Robot + ics. રોબોટની પાછળ 'ics' વિજ્ઞાનનો પ્રત્યય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "Give the antonym of: 'Harm'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Help / Benefit (મદદ કરવી/ફાયદો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Harmful (નુકસાનકારક) નું વિરોધી Harmless અથવા Help થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "Joining sentences (સંધિ જેવું કાર્ય): Ram Singh was a robot. He followed his master's command. (Use 'Who')",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Ram Singh was a robot who followed his master's command.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યક્તિ કે રોબોટ (જીવંત જેવું કાર્ય કરનાર) માટે બે વાક્યો જોડવા 'Who' વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "Give the synonym of: 'Generous'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Liberal / Kind-hearted (ઉદાર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'G' for Give - જે આપવાની વૃત્તિ રાખે તે Generous.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "Give one word for: 'The study and design of robots'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Robotics</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ 'Human Robot' છે, તેનું વિજ્ઞાન એટલે 'Robotics'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "Meaning of phrase: 'In accordance with'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> According to (ના નિયમ મુજબ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Accord = સંમતિ. સંમતિ કે નિયમ મુજબ ચાલવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "Correct the spelling: 'Jewellery'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Jewellery / Jewelry</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Jewel (ઝવેરાત) + lery. ડબલ L યાદ રાખવો (બ્રિટિશ સ્પેલિંગમાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "Give the synonym of: 'Grit'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Determination / Courage (મક્કમતા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Grit (ગ્રીટ) એટલે ગ્રેનાઈટ જેવી મજબૂતી - મક્કમ મનોબળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "Give the antonym of: 'Visible'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Invisible (અદ્રશ્ય)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'In' પ્રત્યય લગાડવાથી વિરોધી બને (In + Visible).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "Identify the word: 'A place where cases are decided'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Court (અદાલત)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ram Singh ને ક્યાં લઈ જવામાં આવ્યો હતો? 'Court' માં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "Correct the spelling: 'Groceries'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Groceries (કરિયાણું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Grocer + ies. કરિયાણાવાળાને Grocer કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "Give the synonym of: 'Display'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Show / Exhibit (પ્રદર્શન કરવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોબાઈલની 'Display' આપણને બધું બતાવે (Show કરે) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "Comprehension Paragraph: 'Ram Singh-070 was thoroughly efficient. With tremendous speed and accuracy, he collected the groceries into the shopping trolley...' Question: Mention two qualities of Ram Singh-070.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The two qualities are tremendous speed and accuracy.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફકરામાં 'With' પછી જે ગુણો આપ્યા હોય તે જ તમારા જવાબ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "Give the synonym of: 'Acknowledge'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Accept / Admit (સ્વીકારવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Know (જાણવું) અને સ્વીકારવું = Acknowledge.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "Fill in the blank: 'The robot will never ______ his master.' (disobey / harm / display)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> disobey</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજા સિદ્ધાંત મુજબ 'Robot will not disobey masters'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "Give one word for: 'Information that is kept secret'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Confidential information</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં 'Confidential' શબ્દ ચોરીની બાબતો માટે વપરાયો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "Correct the spelling: 'Assigned'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Assigned (સોંપેલું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Sign (સહી) કરવાની હોય તે કામ સોંપાયેલું (Assigned) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "Give the synonym of: 'Recall'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Remember (યાદ કરવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Re (ફરીથી) + Call (બોલાવવું) - મગજમાં વાત ફરીથી લાવવી એટલે Recall.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "Short Note Question (Board Style): Write a short note on 'Ram Singh-070: The Human Robot'. (Points: Appearance, Principles, Working, The Case, End)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Ram Singh-070 was a metallic blue robot manufactured by Super Robots Plaza. He was perfectly programmed to function in the household, cleaning, and shopping. He operated on three basic principles: (1) The robot will obey his master, (2) The robot will not harm humans, and (3) The robot will not harm itself. He was efficient and accurate. However, Prem Chopra used him for stealing. In the court, to avoid harming humans or lying, and being unable to disobey his master, he chose to diffuse (destroy) himself.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શોર્ટનોટમાં 'Three Principles' અને 'Self-destruction' ખાસ લખવા, પૂરા માર્કસ મળશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "Meaning of: 'Infrared remote control'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> A device to operate the robot from a distance using infrared rays.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટીવીના રીમોટની જેમ જ રોબોટને પણ દુરથી ચલાવવાનું સાધન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "Give the antonym of: 'Success'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Failure (નિષ્ફળતા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Success માં બે 'S' છે, Failure માં 'Fail' છુપાયેલું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "Give one word for: 'A person walking on the street'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Pedestrian (પદયાત્રી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Ped' એટલે પગ. પગપાળા ચાલનાર તે Pedestrian.</p></div>"
+    }
+  ]
+}
