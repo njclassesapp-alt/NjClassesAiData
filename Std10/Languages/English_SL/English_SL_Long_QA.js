@@ -520,3 +520,61 @@ var Std10_English_SL_Long_QA = {
     }
   ]
 }
+,
+"10": {
+  "chapterNumber": 10,
+  "chapterTitle": "Test of True Love",
+  "contentType": "મુદ્દાસર અને સવિસ્તર ઉત્તરો (3 અને 4 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Write a short note on: Hollis Meynell. (હોલીસ મેનેલ વિશે ટૂંકનોંધ લખો.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Hollis Meynell is the central female character of the story. She lived in New York and had been writing letters to Lieutenant Blandford for thirteen months. She was a woman of deep thoughts and wisdom. When Blandford asked for her photograph, she refused, saying that if his feeling for her had any reality, her looks wouldn't matter. She believed that 'true love' is based on the mind and soul, not just physical beauty. To test Blandford's sincerity, she arranged a clever test at Grand Central Station by asking an elderly lady to wear the red rose. This shows that she was intelligent and wanted a partner who valued character over appearance.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>Hollis = Intelligent & Wise. (યાદ રાખો: No Photo + Mind over Beauty = Hollis Meynell).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "Write a short note on: Lieutenant Blandford. (લેફ્ટનન્ટ બ્લેન્ડફોર્ડ વિશે ટૂંકનોંધ લખો.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Lieutenant Blandford was a young army officer. He found Hollis Meynell's name in a book titled 'Of Human Bondage'. He started corresponding with her through letters while he was stationed overseas. Her letters gave him strength and courage during the difficult times of war. He was a man of his word. Even when he saw a beautiful young girl at the station, he did not follow her. Instead, he decided to meet the elderly lady who was wearing the red rose because he believed she was Hollis Meynell. His decision to invite the elderly lady for dinner proves his loyalty, integrity, and the depth of his love.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>Blandford = Man of Word. (યાદ રાખો: Brave Officer + Loyal to Rose = True Gentleman).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "What was the 'Test of True Love' in this story? (આ વાર્તામાં 'સાચા પ્રેમની કસોટી' શું હતી?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The test was designed by Hollis Meynell to see if Blandford's love was based on external beauty or internal character. She asked an elderly lady, who was past forty and had gray hair, to wear the red rose (their signal). Meanwhile, Hollis herself stood nearby, looking very beautiful in a green suit. Blandford was faced with a choice: to follow the beautiful girl or to stay true to the woman (the elderly lady) who he thought had supported him through letters. By choosing to approach the elderly lady, Blandford passed the test, proving that his love was sincere and not superficial.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>Test = Choice between Beauty (Green Suit) and Commitment (Red Rose).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "How did the relationship between Blandford and Hollis Meynell begin? (બ્લેન્ડફોર્ડ અને હોલીસ મેનેલ વચ્ચેના સંબંધની શરૂઆત કેવી રીતે થઈ?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The relationship began in a very unique way. Blandford was reading a book called 'Of Human Bondage'. Throughout the book, he found handwritten notes. He was impressed by the insightful nature of those notes. He looked for the owner's name on the cover and found 'Hollis Meynell'. He found her address in a New York telephone directory and wrote her a letter. She replied, and they started writing to each other for thirteen months. This intellectual connection through letters and a book formed the foundation of their relationship.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>Origin = Book + Notes + Letter. (પુસ્તક અને પત્રોએ તેમને જોડ્યા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "Describe the young woman Blandford saw at the station. (સ્ટેશન પર બ્લેન્ડફોર્ડે જોયેલી યુવતીનું વર્ણન કરો.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> At exactly six o'clock, a young woman passed near Blandford. She was tall and slender. Her eyes were blue, as flowers. Her lips and chin had a gentle firmness. In her pale green suit, she looked like springtime come alive. Blandford was instantly attracted to her and for a moment, he felt an impulse to follow her. However, she was not wearing the red rose, which was the agreed signal between him and Hollis Meynell.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>Young Woman = Green Suit + Blue Eyes + Springtime Beauty.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "Why did Hollis Meynell refuse to send her photograph to Blandford? (હોલીસ મેનેલે બ્લેન્ડફોર્ડને પોતાનો ફોટો મોકલવાની ના કેમ પાડી?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Hollis Meynell believed that physical appearance should not be the basis of a true relationship. When Blandford asked for her photograph, she refused by saying, 'If your feeling for me has any reality, what I look like won't matter.' She further added that if she was beautiful, she would always wonder if he liked her only for her looks. If she was plain, she would fear he only wrote because he was lonely. She wanted their bond to be purely based on their minds and souls.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>No Photo = Focus on Soul, not Face. (ચહેરો નહીં, પણ ચારિત્ર્ય મહત્વનું છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "Describe the elderly lady who was wearing the red rose. (લાલ ગુલાબ પહેરેલી વૃદ્ધ મહિલાનું વર્ણન કરો.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The lady standing directly behind the young girl was a woman past forty. She had gray hair tucked under a worn brown hat. She was rather heavy-built and wore thick-soled shoes. Despite her plain appearance, she had a gentle and kindly face. She was wearing a red rose on her rumpled brown coat. This was the woman Blandford thought was Hollis Meynell, and he decided to honor her presence with respect.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>Elderly Lady = Past 40 + Gray hair + Red Rose + Kind face.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "What were Blandford’s feelings when he saw the elderly lady? (જ્યારે બ્લેન્ડફોર્ડે વૃદ્ધ મહિલાને જોઈ ત્યારે તેની લાગણીઓ શું હતી?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> When Blandford saw the elderly lady with the red rose, he felt a deep sense of disappointment because he had just seen a very beautiful girl. However, he quickly overcame his hesitation. He felt that his interest in the woman who had written him letters was much stronger than his desire for the beautiful girl. He remembered how her letters had supported him during the war. He felt that even if this woman wasn't young or beautiful, she would be a soulmate. He stood straight, saluted her, and prepared to take her to dinner.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>Feelings = Initial shock -> Gratitude -> Determination to be Loyal.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "How did the story end? (વાર્તાનો અંત કેવી રીતે આવ્યો?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The story has a beautiful and surprising ending. When Blandford approached the elderly lady and invited her for dinner, she smiled and told him that she didn't know what was going on. She explained that the young lady in the green suit (the real Hollis Meynell) had asked her to wear the rose. The young lady told her that if the soldier invited her to dinner, she should tell him that she (Hollis) was waiting for him in the restaurant across the street. This revealed that it was a test of character, and Blandford had passed it successfully.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>Ending = Surprise! It was a test. (સાચો પ્રેમ હંમેશા જીતે છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "Explain the significance of the title 'Test of True Love'. (શીર્ષક 'Test of True Love' ની સાર્થકતા સમજાવો.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The title is very appropriate. True love is not about liking someone for their appearance; it is about connecting with their soul and character. In this story, Hollis Meynell creates a situation to test whether Blandford's love is 'true' or just based on 'looks'. Blandford proves his love is true by choosing the person he believes is the author of the letters, regardless of her age or appearance. The story teaches that character is more important than beauty, making the title perfectly suited to the plot.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>True Love = Soul over Skin. (સાચો પ્રેમ એ મનનો વિષય છે, શરીરનો નહીં).</p></div>"
+    }
+  ]
+}
