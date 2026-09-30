@@ -472,3 +472,161 @@ var Std10_English_SL_Chapter_Grammar = {
     }
   ]
 }
+,
+"4": {
+  "chapterNumber": 4,
+  "chapterTitle": "A Wonderful Creation",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "1",
+      "question": "Find the synonym (nearest meaning) for the word: 'Concentration'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Attention / Focus (એકાગ્રતા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘Cent’ એટલે કેન્દ્ર. કેન્દ્ર પર ધ્યાન આપવું એટલે Concentration = Focus.</p></div>"
+    },
+    {
+      "questionNumber": "2",
+      "question": "Find the synonym (nearest meaning) for the word: 'Utter'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Complete / Total (સંપૂર્ણ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Utter' એટલે આખું કે પૂરું. પાઠમાં 'Utter concentration' એટલે પૂરેપૂરી એકાગ્રતા.</p></div>"
+    },
+    {
+      "questionNumber": "3",
+      "question": "Find the synonym (nearest meaning) for the word: 'Endure'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Bear / Tolerate (સહન કરવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘Dure’ એટલે Duration (સમયગાળો). કોઈ પણ મુસીબત લાંબા સમય સુધી સહન કરવી એટલે Endure.</p></div>"
+    },
+    {
+      "questionNumber": "4",
+      "question": "Find the synonym (nearest meaning) for the word: 'Replaceable'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Exchangeable (બદલી શકાય તેવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Re (ફરીથી) + Place (જગ્યા). જેની જગ્યા ફરીથી ભરી શકાય તે Replaceable.</p></div>"
+    },
+    {
+      "questionNumber": "5",
+      "question": "Find the synonym (nearest meaning) for the word: 'Resourceful'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Creative / Skillful (યુક્તિબાજ/કુશળ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેની પાસે 'Source' (સાધન) ન હોવા છતાં કામ કાઢી લે તે 'Resourceful'.</p></div>"
+    },
+    {
+      "questionNumber": "6",
+      "question": "Find the antonym (opposite) for the word: 'Mighty'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Weak / Feeble (નબળું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Might' એટલે શક્તિ. શક્તિશાળીનું વિરોધી નબળું (Weak) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "7",
+      "question": "Find the antonym (opposite) for the word: 'Standard'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Ordinary / Substandard (સામાન્ય/હલકું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Standard એટલે ઊંચી ગુણવત્તાવાળું, Ordinary એટલે સામાન્ય.</p></div>"
+    },
+    {
+      "questionNumber": "8",
+      "question": "Choose the correct spelling:",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Concentration (A) Consantration (B) Consentration (C) Concentration</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Con + cen + tra + tion. ચાર ટુકડામાં યાદ રાખો, ક્યારેય ભૂલ નહીં પડે.</p></div>"
+    },
+    {
+      "questionNumber": "9",
+      "question": "Choose the correct spelling:",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Miracle (A) Mirecle (B) Meracle (C) Miracle</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Mira + cle. 'ચમત્કાર' જોવા માટે 'Mira' (મીરા) એ 'Cle' (ક્લે) કર્યું એમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "10",
+      "question": "Select the correct meaning of the idiom: 'To look into'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> To examine / To investigate (તપાસ કરવી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોઈ પણ વસ્તુની 'અંદર' (Into) 'જોવું' (Look) એટલે એની તપાસ કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "11",
+      "question": "Fill in the blank: Mother has a lap that ________ when she stands up.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Disappears (અદ્રશ્ય થઈ જાય છે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મમ્મી ઊભી થાય ત્યારે ખોળો (Lap) અદ્રશ્ય થાય, આ કુદરતનું 'Disappear' મેજિક છે.</p></div>"
+    },
+    {
+      "questionNumber": "12",
+      "question": "Fill in the blank: Her kiss can cure everything from a broken leg to a ________.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Broken heart (ભગ્ન હૃદય/દુઃખી દિલ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મમ્મીનો પ્રેમ હાડકાં (Broken leg) અને ભાવના (Broken heart) બંને સાજા કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "13",
+      "question": "One word substitution: 'A model of perfection'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Ideal (આદર્શ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે બધી રીતે Perfect હોય તેને Ideal (આદર્શ) કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "14",
+      "question": "Find the odd one out: Joy, Sorrow, Pride, Tough.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Tough</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Joy, Sorrow અને Pride એ લાગણીઓ (Emotions) છે, જ્યારે Tough એ ગુણધર્મ (Quality) છે.</p></div>"
+    },
+    {
+      "questionNumber": "15",
+      "question": "Rewrite using 'Though': The Lord was working with utter concentration, but the angel appeared.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Though the Lord was working with utter concentration, the angel appeared.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Though' વાક્યની શરૂઆતમાં આવે ત્યારે વચ્ચેનો 'but' કાઢી નાખવો અને અલ્પવિરામ (,) મૂકવું.</p></div>"
+    },
+    {
+      "questionNumber": "16",
+      "question": "Comprehension: \"I am working on this model of a mother. All her parts should be movable and replaceable too.\" - What should be movable and replaceable?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> All parts of the mother's model should be movable and replaceable.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ફકરામાં 'All her parts' શબ્દો શોધો, જવાબ તેની આસપાસ જ હશે.</p></div>"
+    },
+    {
+      "questionNumber": "17",
+      "question": "Vocabulary: What is the meaning of 'Compromise' in the context of this chapter?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Adjust / Settle differences (સમાધાન કરવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મમ્મી પાસે 3 જોડ આંખો છે પણ તે કોઈ બાબતમાં Compromise કરતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "18",
+      "question": "Grammar: Identify the tense: \"The Lord was extremely busy those days.\"",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Simple Past Tense</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Was' કે 'Were' પછી કોઈ ક્રિયાપદ (V+ing) ન હોય ત્યારે તે Simple Past Tense ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "19",
+      "question": "Vocabulary: A mother can run on any ________ food.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Available</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Available' એટલે જે હાજર હોય તે. મમ્મી ગમે તે હાજર ખોરાક પર નભી શકે છે.</p></div>"
+    },
+    {
+      "questionNumber": "20",
+      "question": "Grammar: Change into Indirect Speech: The angel asked, \"Are you taking too much care for creating this creature?\"",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The angel asked if he was taking too much care for creating that creature.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રશ્નાર્થ વાક્ય 'Are' થી શરૂ થાય ત્યારે 'If' સંયોજક મૂકવું અને Tense બદલવો.</p></div>"
+    },
+    {
+      "questionNumber": "21",
+      "question": "Short Note: \"The Mother: A Wonderful Creation\" (Key Points)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 1. God was creating a standard model of a mother. 2. Parts should be movable and replaceable. 3. Lap disappears when she stands. 4. Kiss can cure everything. 5. Six pairs of hands and three pairs of eyes. 6. Can endure any situation without getting irritated.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 3 Pairs of Eyes + 6 Pairs of Hands + Kiss + Lap = Best Short Note!</p></div>"
+    },
+    {
+      "questionNumber": "22",
+      "question": "True or False: The mother can feed a family of six members on only half a kilo of cabbage.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> True</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Half a kilo of cabbage' અને 'Six members' આ બે આંકડા યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "23",
+      "question": "Function Identification: \"The mother can heal herself when she is sick.\"",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Describing Ability (Can)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વાક્યમાં 'Can' આવે એટલે તે 'Ability' (ક્ષમતા) દર્શાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "24",
+      "question": "Vocabulary: Find the word meaning 'not easy to break or damage'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Tough</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભગવાન કહે છે 'She is tough' - એટલે કે તે માનસિક રીતે મજબૂત છે.</p></div>"
+    },
+    {
+      "questionNumber": "25",
+      "question": "Fill in the blank: Tears can be for joy, pride or ________.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Desperation / Sorrow</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આંસુ માત્ર દુઃખના જ નહીં પણ ગર્વ (Pride) અને ખુશી (Joy) ના પણ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "26",
+      "question": "Grammar: Identify the type of sentence: \"Oh, Lord! You are so genius!\"",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Exclamatory Sentence (ઉદ્ગાર વાક્ય)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વાક્યના અંતે '!' ચિન્હ હોય એટલે તે Exclamatory હોય.</p></div>"
+    },
+    {
+      "questionNumber": "27",
+      "question": "Vocabulary: What did the angel find on the cheek of the mother?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> A tear (એક આંસુ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): છેલ્લે દેવદૂતે ગાલ પર 'Tear' (આંસુ) જોયું જે ભગવાને નહોતું મૂક્યું.</p></div>"
+    },
+    {
+      "questionNumber": "28",
+      "question": "Antonym: 'Impossible' X ________",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Possible</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Im' પ્રત્યય કાઢી નાખવાથી વિરોધી શબ્દ મળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "29",
+      "question": "Grammar: \"I have to put six pairs of hands.\" - Identify the auxiliary verb.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Have to (ફરજિયાતપણું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Have to' એટલે કંઈક કરવું જ પડશે (Necessity).</p></div>"
+    },
+    {
+      "questionNumber": "30",
+      "question": "Select the correct word: The Lord was in his sixth day of (overtime / free time).",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Overtime</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભગવાન 6 દિવસથી સતત કામ કરતા હતા, એટલે 'Overtime' કરે છે તેમ કહેવાય.</p></div>"
+    }
+  ]
+}
