@@ -788,3 +788,161 @@ var Std10_English_SL_Chapter_Grammar = {
     }
   ]
 }
+,
+"6": {
+  "chapterNumber": 6,
+  "chapterTitle": "I Love You, Teacher",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Give the synonym of the word: 'Awakened'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Roused / Woke up (જાગૃત કરવું/જગાડવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Awake' માં 'Wake' શબ્દ છુપાયેલો છે, જેનો અર્થ ઊંઘમાંથી જગાડવું અથવા જ્ઞાન આપવું થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "Find the synonym for: 'Mystery'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Secret / Something unknown (રહસ્ય)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'M' for Mystery અને 'M' for Magic. જાદુ હંમેશા રહસ્યમય હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "What is the synonym of 'Satisfied'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Contented (સંતોષાયેલું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે આપણે 'Sati' (તૃપ્ત) થઈએ ત્યારે 'Satisfied' કહેવાય. Content એટલે પણ સંતોષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "Give the synonym of: 'Utterance'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Expression / Speech (ઉચ્ચારણ/બોલવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Utter' એટલે બોલવું. મોઢામાંથી નીકળતા શબ્દો એટલે Utterance.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "Find the synonym for 'Devotion' from the text.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Loyalty / Dedication (સમર્પણ/ભક્તિ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Devotion શબ્દ 'Devotee' (ભક્ત) પરથી આવ્યો છે, જે હંમેશા વફાદાર અને સમર્પિત હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "Give the antonym of: 'Visible'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Invisible (અદ્રશ્ય)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોટાભાગના 'V' થી શરૂ થતા શબ્દોમાં વિરોધી બનાવવા આગળ 'In-' લાગે છે (Visible - Invisible).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "Give the antonym of: 'Success'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Failure (નિષ્ફળતા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હેલન કેલરે કીધું હતું કે પ્રયત્ન વિના Success નથી, અને હાર માનો તો જ Failure છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "Give the antonym of: 'Gradually'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Suddenly / Rapidly (એકાએક/ઝડપથી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Grade' (પગથિયું) ધીમે ધીમે ચઢાય એટલે Gradually ધીમું, તેનું ઉલટું Suddenly.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "Find the opposite word for: 'Possible'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Impossible (અશક્ય)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'P' થી શરૂ થતા શબ્દોનું વિરોધી બનાવવા આગળ 'Im-' ઉપસર્ગ લગાડવો (Possible -> Impossible).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "Opposite of 'Boundless':",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Limited (મર્યાદિત)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Bound' એટલે સીમા, 'Boundless' એટલે સીમા વગરનું. તેનું વિરોધી 'Limited'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "Choose the correct spelling: (A) Opportunety (B) Opportunity (C) Oportunity",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (B) Opportunity (તક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Opp' + 'ort' + 'un' + 'ity' - આ રીતે ટુકડા પાડીને યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "Complete the spelling: S_cr_f_ce",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Sacrifice (બલિદાન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Sacri' + 'fice'. Anne Sullivan એ હેલન માટે પોતાની દ્રષ્ટિનું બલિદાન આપ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "Identify the correct spelling: (A) Persuade (B) Persuied (C) Persuaid",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (A) Persuade (સમજાવવું/મનાવવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Per' + 'suade'. છેલ્લે 'ade' આવે છે તે ખાસ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "Select the correct spelling: (A) Inteligent (B) Intelligent (C) Intelligant",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (B) Intelligent (બુદ્ધિશાળી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Double L' અને 'Double E' નો નિયમ યાદ રાખવો. Intelli + gent.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "Choose the word which means 'to communicate':",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Connect / Interact (સંપર્ક સાધવો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હેલન વસ્તુઓને સ્પર્શ કરીને તેની સાથે 'Connect' થતી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "Meaning of the idiom: 'At stake'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> In danger / At risk (જોખમમાં હોવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Stake' એટલે દાવ. જ્યારે કોઈ વસ્તુ દાવ પર લાગે ત્યારે તે જોખમમાં (Risk) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "Meaning of the phrase: 'Deep in thought'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Very busy thinking (ગહન વિચારમાં ડૂબેલા હોવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Deep' એટલે ઊંડું. વિચારોની ઊંડાઈમાં હોવું એટલે મગ્ન હોવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "Use 'set out' in a sentence based on the chapter.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Miss Sullivan and Helen set out for a walk in the garden. (બહાર નીકળવું/પ્રયાણ કરવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Set' થઈને 'Out' (બહાર) નીકળવું એટલે યાત્રા શરૂ કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "Phrase: 'A ray of hope'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> A small sign of possibility (આશાનું કિરણ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અંધારામાં જેમ સુરજનું કિરણ (Ray) દેખાય, તેમ મુશ્કેલીમાં 'Hope' દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "Give one word for: 'A person who cannot see'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Blind (અંધ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હેલન કેલર 'Blind' અને 'Deaf' (બહેરા) બંને હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "Give one word for: 'The ability to speak'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Speech / Utterance (વાચા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Speak' ક્રિયાપદ છે, તેનું નામ (Noun) 'Speech' થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "One word for: 'A place where water flows out from the ground'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Fountain (ફુવારો/ઝરણું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રકરણમાં હેલને પાણીનો અનુભવ 'Water mountain' એટલે કે 'Fountain' પાસે કર્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "Fill in the blank: Helen learned to spell words through _____ play.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Finger (આંગળીઓની રમત)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હેલન જોઈ શકતી નહોતી, એટલે આંગળીઓ (Fingers) તેના માટે આંખ સમાન હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "Identify the Part of Speech: 'Slowly' in 'She walked slowly'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Adverb (ક્રિયા વિશેષણ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોટાભાગે જે શબ્દની પાછળ '-ly' લાગે તે Adverb હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "Change the Voice: 'Miss Sullivan gave me a doll.'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> I was given a doll by Miss Sullivan. (અથવા A doll was given to me by Miss Sullivan.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભૂતકાળ (Gave) હોય તો 'was/were + v3' (was given) મૂકવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "Short Note Topic: Anne Sullivan - A Wonderful Teacher",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>મુખ્ય મુદ્દાઓ:</strong> 1. Taught Helen to spell words. 2. Used finger play. 3. Sacrificed her eyesight. 4. Patient and devoted.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શોર્ટ નોટ લખતી વખતે 'Teacher' અને 'Sacrifice' આ બે શબ્દો પર આખી નોટ બનાવી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "Comprehension Question: What was the first word Helen learned?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The first word Helen learned to spell was 'DOLL'.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'D-O-L-L' - આ ચાર અક્ષરોએ હેલનની દુનિયા બદલી નાખી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "Grammar (Conjunction): 'Helen was blind. She was deaf.' (Join using 'both...and')",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Helen was both blind and deaf.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે એક જ વ્યક્તિના બે ગુણ બતાવવા હોય ત્યારે 'Both [1] and [2]' ફોર્મેટ વાપરવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "What did Helen feel when the water touched her hand?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> She felt the cool flow of water and understood that 'W-A-T-E-R' meant something wet running over her hand.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Water' = 'Wet' (ભીનું). આ સ્પર્શ જ હેલન માટે જ્ઞાનનો ઉદય હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "Why did Helen call her teacher 'A Wonderful Teacher'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Because Miss Sullivan helped Helen connect with the world and sacrificed her own eyesight for Helen's education.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'I Love You, Teacher' શીર્ષક જ દર્શાવે છે કે આ પાઠ કૃતજ્ઞતા (Gratitude) વિશે છે.</p></div>"
+    }
+  ]
+}
