@@ -630,3 +630,161 @@ var Std10_English_SL_Chapter_Grammar = {
     }
   ]
 }
+,
+"5": {
+  "chapterNumber": 5,
+  "chapterTitle": "Playing with Fire",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Find the synonym of the word: 'Spectacular'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Eye-catching / Grand (ભવ્ય)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Spect' એટલે જોવું. જે જોવામાં 'Spectacles' (ચશ્મા) જેવું આકર્ષક હોય તે 'Spectacular'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "Find the synonym of the word: 'Emit'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Give out / Release (બહાર કાઢવું/ઉત્સર્જિત કરવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'E' એટલે Exit. જે પ્રકાશ કે ધુમાડો બહાર કાઢે (Exit કરે) તેને 'Emit' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "Find the synonym of the word: 'Combustible'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Flammable (દહનશીલ/સળગી ઊઠે તેવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'C' for Combustion (દહન). જે 'Burn' થઈ શકે તે 'Combustible'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "Find the synonym of the word: 'Uniform'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Consistent / Even (એકસમાન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્કૂલનો 'Uniform' બધાનો કેવો હોય? 'એક સરખો'! બસ, તે જ 'Uniform' એટલે એકસમાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "Find the synonym of the word: 'Incandescence'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Light produced by heat (ગરમીથી ઉત્પન્ન થતો પ્રકાશ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'In-can-des-cence' માં 'Candle' (મીણબત્તી) જેવો અવાજ આવે છે, જે ગરમીથી પ્રકાશ આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "Find the antonym of the word: 'Safety'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Danger / Peril (જોખમ/ભય)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Safe એટલે સુરક્ષિત, તેનું ઉલટું 'Danger'. પાઠમાં ફટાકડા સાથે 'Safety' રાખવાનું વારંવાર કહેવામાં આવ્યું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "Find the antonym of the word: 'Ancient'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Modern (આધુનિક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'A' for Ancient (જૂનું), 'M' for Modern (નવું). ABC માં A પહેલા આવે એટલે જૂનું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "Find the antonym of the word: 'Import'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Export (નિકાસ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Im' (In) એટલે અંદર લાવવું, 'Ex' (Exit) એટલે બહાર મોકલવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "Find the antonym of the word: 'Reliable'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Unreliable / Dubious (અવિશ્વસનીય)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેની પર 'Rely' (ભરોસો) કરી શકાય તે Reliable. આગળ 'Un' લગાવો એટલે વિરોધી બની જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "Find the antonym of the word: 'Cheap'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Expensive / Costly (મોંઘું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફટાકડા સસ્તા (Cheap) હોય ત્યારે મજા આવે પણ મોંઘા (Expensive) હોય ત્યારે ગજવું ખાલી થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "Choose the correct spelling: (A) Pyrotecnics (B) Pyrotechnics (C) Pirotechnics",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (B) Pyrotechnics</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Pyro (ફાયર) + Technics (ટેકનિક). આ શબ્દ ગ્રીક શબ્દ 'Pyr' (ફાયર) પરથી આવ્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "Choose the correct spelling: (A) Magnesium (B) Magnessium (C) Magnezium",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (A) Magnesium</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિજ્ઞાનનો 'Magnesium' યાદ રાખવો, એમાં ક્યારેય ડબલ 's' આવતો નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "Identify the correct spelling: (A) Luminocity (B) Luminosity (C) Luminousity",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (B) Luminosity</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Luminous' બેટરી આવે છે, તેના પરથી 'Luminosity' (પ્રકાશિતતા) યાદ રહી જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "Choose the correct spelling: (A) Precaution (B) Precausion (C) Preecaution",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (A) Precaution</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Caution (ચેતવણી) ની આગળ 'Pre' (પહેલા) લગાડો. અકસ્માત પહેલાની સાવચેતી એટલે 'Pre-caution'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "Correct spelling of: 'Manufacture'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Manufacture (ઉત્પાદન કરવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Manu + fact + ure. શોર્ટકટ: 'મનુ' ફેક્ટરીમાં કામ કરે એટલે Manufacture.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "Fill in the blank: The art of fireworks is known as ______.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Pyrotechnics</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખા પાઠનો હાર્દ આ એક શબ્દ છે. ફાયર (Fire) = Pyro.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "Fill in the blank: The basic material used in fireworks is ______.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Gunpowder (or Black Powder)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફટાકડામાં જે કાળો પાવડર વપરાય તેને 'Gun' માં વપરાતો પાવડર એટલે 'Gunpowder' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "Roger Bacon wrote the formula for black powder in a ______ code.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Cipher</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Cipher' એટલે ગુપ્ત ભાષા. તેને યાદ રાખવા 'Secret' શબ્દ સાથે જોડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "In India, fireworks were first imported from ______.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> China</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફટાકડાની શોધ ચીને કરી હતી, તેથી તે ત્યાંથી જ આવ્યા હોય ને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "Fireworks should be stored in a cool, ______ and ______ place.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> dry and safe</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીનાશથી ફટાકડા બગડી જાય એટલે 'Dry' (કોરું) અને આગ ન લાગે એટલે 'Safe' જગ્યા જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "Meaning of the phrase: 'To be known as'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તરીકે જાણીતું હોવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈના નામ કે કામની ઓળખ આપવા માટે આ વપરાય છે. Example: Sivakasi is known as the fireworks hub.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "Meaning of the phrase: 'Deal with'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ને લગતું હોવું / કામ પાર પાડવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Pyrotechnics deals with (ને લગતું છે) the science of fireworks.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "Substitute with one word: 'The science of making and using fireworks.'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Pyrotechnics</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પ્રશ્ન GSEB માં ઘણીવાર પૂછાય છે. Fireworks + Science = Pyrotechnics.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "Extract Question: Why did Roger Bacon write the formula in a cipher code?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> He wrote it in a cipher code because he considered it such a dangerous substance that it should not be available to everyone.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જવાબમાં 'Because' વાપરીને મુખ્ય કારણ 'dangerous' શબ્દને ખાસ લખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "Extract Question: What is the main safety precaution for fireworks?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Fireworks should never be stored or lit near a gas cylinder or a heater.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Never' (ક્યારેય નહીં) શબ્દ સાવચેતીના જવાબમાં કી-વર્ડ તરીકે વાપરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "Extract Question: What happens when heat is applied to fuel?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> When heat is applied to fuel (gunpowder), it burns using oxygen.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિજ્ઞાનનો નિયમ: સળગવા માટે 'Oxygen' જરૂરી છે, એ ફિઝિક્સ અહીં યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "True or False: Sivakasi began manufacturing fireworks after the Second World War.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> True</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજું વિશ્વયુદ્ધ (1939-45) પછી જ ભારતમાં શિવાકાશી કેન્દ્ર બન્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "True or False: The formula of black powder has changed drastically over centuries.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> False</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠ મુજબ ગનપાઉડરનું પ્રમાણ (Ratio) વર્ષોથી તે જ (unchanged) રહ્યું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "Short Note Point: What are the three main ingredients of black powder?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Potassium Nitrate (75%), Charcoal (15%), and Sulphur (10%).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'P-C-S' (75-15-10) - આ આંકડા મોઢે રાખવા, શોર્ટ નોટમાં પૂરા માર્કસ અપાવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "Short Note Point: Why is Sivakasi important for fireworks in India?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Sivakasi is the main center for manufacturing matches and fireworks in India, fulfilling nearly all national demand.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Hub of India' - શિવાકાશીને ભારતના ફટાકડાના પાટનગર તરીકે યાદ રાખવું.</p></div>"
+    }
+  ]
+}
