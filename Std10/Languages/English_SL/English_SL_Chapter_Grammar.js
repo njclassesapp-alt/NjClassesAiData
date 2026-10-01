@@ -946,3 +946,161 @@ var Std10_English_SL_Chapter_Grammar = {
     }
   ]
 }
+,
+"7": {
+  "chapterNumber": 7,
+  "chapterTitle": "Kach and Devayani",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "1",
+      "question": "Find the synonym of the word: 'Preceptor' (as used for Shukracharya)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Teacher / Guru (ગુરુ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Pre' એટલે પહેલા અને 'Ceptor' એટલે સ્વીકારનાર - જે જ્ઞાનનો પથ પહેલા સ્વીકારે અને શીખવે તે Preceptor.</p></div>"
+    },
+    {
+      "questionNumber": "2",
+      "question": "Find the synonym of the word: 'Slain'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Killed (મારી નાખવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠમાં અસૂરોએ કચ્છને વારંવાર 'Slain' કર્યો હતો, એટલે કે મારી નાખ્યો હતો. Slay-Slain યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "3",
+      "question": "Find the synonym of the word: 'Restore'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Bring back / Renew (ફરીથી જીવંત કરવું અથવા પાછું લાવવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Re' એટલે ફરીથી અને 'Store' એટલે સંગ્રહવું - જૂની સ્થિતિમાં પાછું લાવવું.</p></div>"
+    },
+    {
+      "questionNumber": "4",
+      "question": "Find the synonym of the word: 'Grudge'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Ill-will / Resentment (અણગમો અથવા વેરભાવ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અસૂરોને કચ્છ પ્રત્યે 'Grudge' હતો. G for Grudge, G for Gussa (ગુસ્સો).</p></div>"
+    },
+    {
+      "questionNumber": "5",
+      "question": "Find the synonym of the word: 'Splendid'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Magnificent / Excellent (ભવ્ય)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'S' થી Splendid અને 'S' થી Superb - બંનેનો અર્થ ઉત્તમ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "6",
+      "question": "Find the antonym of the word: 'Success'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Failure (નિષ્ફળતા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Pass સામે Fail, તેમ Success સામે Failure. આ તો એકદમ સહેલું છે!</p></div>"
+    },
+    {
+      "questionNumber": "7",
+      "question": "Find the antonym of the word: 'Alive'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Dead (મૃત)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'A' થી Alive (જીવંત) અને 'D' થી Dead. શુક્રાચાર્ય કચ્છને Alive કરતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "8",
+      "question": "Find the antonym of the word: 'Impossible'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Possible (શક્ય)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Im' પ્રત્યય કાઢી નાખવાથી વિરોધી શબ્દ મળી જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "9",
+      "question": "Find the antonym of the word: 'Disappointed'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Satisfied / Pleased (સંતુષ્ટ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Dis' એટલે નકારાત્મક ભાવ. તેને દૂર કરો એટલે હકારાત્મક અર્થ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "10",
+      "question": "Find the antonym of the word: 'Curse'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Blessing / Boon (આશીર્વાદ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દેવયાનીએ કચ્છને Curse (શાપ) આપ્યો, જ્યારે ગુરુ Blessing આપે.</p></div>"
+    },
+    {
+      "questionNumber": "11",
+      "question": "Select the correct spelling: (A) Sanjivani (B) Sunjivani (C) Sanjivini",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (A) Sanjivani</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): San-ji-va-ni. ચાર ટુકડામાં યાદ રાખો, ક્યારેય ભૂલ નહીં પડે.</p></div>"
+    },
+    {
+      "questionNumber": "12",
+      "question": "Select the correct spelling: (A) Meditasion (B) Meditation (C) Meditashun",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (B) Meditation (ધ્યાન ધરવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોટાભાગના 'શન' ઉચ્ચાર વાળા શબ્દો પાછળ 'tion' લાગે છે.</p></div>"
+    },
+    {
+      "questionNumber": "13",
+      "question": "Select the correct spelling: (A) Ashuras (B) Asuras (C) Assuras",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (B) Asuras (અસૂરો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અસૂરમાં સિંગલ 's' આવે છે, ડબલ 's' નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "14",
+      "question": "One word substitution: 'The art of bringing dead people to life.'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Sanjivani Vidya (સંજીવની વિદ્યા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Sanjiv' એટલે જીવંત કરવું. આ મંત્ર શુક્રાચાર્ય પાસે જ હતો.</p></div>"
+    },
+    {
+      "questionNumber": "15",
+      "question": "One word substitution: 'Followers of a teacher or guru.'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Disciples (શિષ્યો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Discipline (શિસ્ત) પાળનાર એટલે Disciple (શિષ્ય).</p></div>"
+    },
+    {
+      "questionNumber": "16",
+      "question": "Meaning of the idiom: 'To be fond of'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> To like very much (ખૂબ ગમવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Devayani was fond of Kach. એટલે કે તેને કચ્છ ગમતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "17",
+      "question": "Meaning of the idiom: 'At a loss'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> To be confused / Not knowing what to do (મુંઝવણમાં હોવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે નુકસાન (Loss) થાય ત્યારે માણસ મુંઝાઈ જાય, એમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "18",
+      "question": "Fill in the blank with correct phrase: Kach soon _____ of Shukracharya.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Won the heart (દિલ જીતી લીધું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પોતાની સેવાથી કોઈને ખુશ કરવા એટલે 'Won the heart'.</p></div>"
+    },
+    {
+      "questionNumber": "19",
+      "question": "Give the meaning of: 'To keep one's word'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> To fulfill a promise (વચન પાળવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Word એટલે શબ્દ/વચન. પોતાના વચનને પકડી રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "20",
+      "question": "Meaning of the phrase: 'In vain'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Useless / Without success (નકામું / નિષ્ફળ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અસૂરોએ કચ્છને મારવાના ઘણા પ્રયત્નો કર્યા પણ તે 'In vain' ગયા એટલે કે નિષ્ફળ ગયા.</p></div>"
+    },
+    {
+      "questionNumber": "21",
+      "question": "Comprehension: Why did the Devas go to Brihaspati?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The Devas went to Brihaspati to ask for help because the Asuras had Shukracharya as their preceptor who knew the Sanjivani Vidya.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રશ્નમાં 'Why' હોય તો જવાબમાં 'Because' અથવા 'To + Verb' નો ઉપયોગ કરવો.</p></div>"
+    },
+    {
+      "questionNumber": "22",
+      "question": "Comprehension: Who was Kach? Why did he go to Shukracharya's Ashram?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Kach was the son of Brihaspati. He went to Shukracharya's Ashram to learn the Sanjivani Vidya.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાત્રનો પરિચય (Who) અને હેતુ (Why) બંને સ્પષ્ટ લખવા.</p></div>"
+    },
+    {
+      "questionNumber": "23",
+      "question": "Short Note: Devayani’s love for Kach",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>મુખ્ય મુદ્દાઓ:</strong> 1. Devayani was the daughter of Shukracharya. 2. She fell in love with Kach due to his looks and character. 3. Every time Kach was killed, she requested her father to revive him. 4. She wanted to marry him, but Kach refused as they were like siblings. 5. Finally, she cursed Kach.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શોર્ટ નોટમાં 'Key Points' યાદ રાખો અને તેના પરથી વાક્યો બનાવો.</p></div>"
+    },
+    {
+      "questionNumber": "24",
+      "question": "Join the sentences: The Asuras killed Kach. They ground his body into paste. (Use 'and')",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The Asuras killed Kach and ground his body into paste.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે કર્તા (Subject) સમાન હોય, ત્યારે 'and' થી વાક્ય જોડતી વખતે બીજી વાર કર્તા લખવાની જરૂર નથી.</p></div>"
+    },
+    {
+      "questionNumber": "25",
+      "question": "Join the sentences: Devayani was disappointed. Kach refused to marry her. (Use 'because')",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Devayani was disappointed because Kach refused to marry her.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કારણ દર્શાવવા માટે 'Because' નો ઉપયોગ થાય છે. (પરિણામ + because + કારણ)</p></div>"
+    },
+    {
+      "questionNumber": "26",
+      "question": "Fill in the blank with correct word: Shukracharya _____ life to Kach. (gave/restore/restored)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> restored</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આખી વાર્તા ભૂતકાળમાં છે, તેથી 'ed' વાળું રૂપ (V2) આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "27",
+      "question": "Identify the Part of Speech: 'Successfully' (Kach learned the Vidya successfully.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Adverb (ક્રિયા વિશેષણ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે શબ્દની પાછળ 'ly' લાગે તે મોટાભાગે Adverb હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "28",
+      "question": "Correct the Sentence: Kach was Brihaspati son.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Kach was Brihaspati's son.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માલિકી કે સંબંધ દર્શાવવા માટે સજીવ નામ પાછળ Apostrophe 's ('s) લગાડવો પડે.</p></div>"
+    },
+    {
+      "questionNumber": "29",
+      "question": "Find the word with nearest meaning: 'Eternal'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Everlasting / Forever (શાશ્વત)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'E' થી Eternal અને 'E' થી Everlasting. જેનો કદી અંત ન આવે તે.</p></div>"
+    },
+    {
+      "questionNumber": "30",
+      "question": "One word substitution: 'A place where a hermit or guru lives.'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Ashram / Hermitage (આશ્રમ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠમાં શુક્રાચાર્યના નિવાસસ્થાન માટે 'Ashram' શબ્દ વપરાયો છે.</p></div>"
+    }
+  ]
+}
