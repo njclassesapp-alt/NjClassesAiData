@@ -1104,3 +1104,161 @@ var Std10_English_SL_Chapter_Grammar = {
     }
   ]
 }
+,
+"8": {
+  "chapterNumber": 8,
+  "chapterTitle": "Our Feathered Friends",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "1",
+      "question": "Find the synonym of the word 'Magnificent' from the chapter.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Splendid / Grand (ભવ્ય)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'M' for Magnificent અને 'M' for Majestic – બંનેનો અર્થ ભવ્ય થાય. યાદ રાખો: રાજાનો મહેલ 'Magnificent' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "2",
+      "question": "Give the opposite word (Antonym) of 'Arrival'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Departure (પ્રસ્થાન/વિદાય)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેલવે સ્ટેશન પર 'Arrival' (આવવું) અને 'Departure' (જવું) લખેલું હોય છે, બસ આ જોડી યાદ રાખી લો!</p></div>"
+    },
+    {
+      "questionNumber": "3",
+      "question": "What is the one-word substitute for 'A person who studies birds'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Ornithologist (પક્ષીશાસ્ત્રી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Orni' (ઓર્ની) એટલે પક્ષી અને 'Logist' એટલે નિષ્ણાત. સલીમ અલી ભારતના સૌથી મોટા Ornithologist હતા.</p></div>"
+    },
+    {
+      "questionNumber": "4",
+      "question": "Choose the correct spelling: (A) Migretion (B) Migration (C) Migretion (D) Migrasion",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (B) Migration (સ્થળાંતર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Migrate' ક્રિયાપદ પરથી 'ion' લગાડીને નામ (Noun) બનાવો. 'I' પછી 'a' આવે તે ખાસ ચેક કરવું.</p></div>"
+    },
+    {
+      "questionNumber": "5",
+      "question": "Find the meaning of the phrase 'To be fond of'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> To like something very much (ના શોખીન હોવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Fond' અને 'Favorite' – બંને 'F' થી શરૂ થાય છે. જે ગમતું હોય તેના માટે Fond of વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "6",
+      "question": "Fill in the blank: The Hornbill is often called the '_____' of the forest because of its large beak.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> King (રાજા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટી ચાંચ અને રુઆબદાર દેખાવ એટલે જંગલનો રાજા જેવો પક્ષી.</p></div>"
+    },
+    {
+      "questionNumber": "7",
+      "question": "Give the synonym of 'Ancient'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Very old / Antique (પ્રાચીન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ancient (પ્રાચીન) x Modern (અર્વાચીન). ઇતિહાસના વિષયમાં Ancient History આવે છે તેમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "8",
+      "question": "One who hunts other animals for food is called a _____.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Predator (શિકારી પ્રાણી/પક્ષી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'P' for Predator, 'P' for Prey (શિકાર). શિકારી હંમેશા શિકારની પાછળ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "9",
+      "question": "What is the synonym of 'Rare'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Scarce / Uncommon (દુર્લભ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Rare એટલે જે જલ્દી ન મળે તેવું. 'R' for Rare, 'R' for Remarkable.</p></div>"
+    },
+    {
+      "questionNumber": "10",
+      "question": "Identify the word: 'A place where a bird lives naturally'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Habitat (નિવાસસ્થાન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Habitat એટલે 'Habit' મુજબ રહેવાની 'at' (જગ્યા). પક્ષીઓને તેમનું Habitat વહાલું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "11",
+      "question": "Antonym of 'Native'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Foreign / Alien (પરદેશી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Native એટલે વતની (લોકલ). જેમ કે 'Native Language' (માતૃભાષા).</p></div>"
+    },
+    {
+      "questionNumber": "12",
+      "question": "Correct the spelling: (A) Feather (B) Fether (C) Feathar (D) Faether",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (A) Feather (પીંછું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Eat' (ખાવા) માં જેમ 'ea' આવે છે, તેમ Feather માં પણ 'ea' આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "13",
+      "question": "Fill in the blank with appropriate word: Birds travel thousands of miles without any ____.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Map / Guide (નકશો અથવા માર્ગદર્શક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતે પક્ષીઓના મગજમાં જ In-built GPS (નકશો) આપ્યો છે!</p></div>"
+    },
+    {
+      "questionNumber": "14",
+      "question": "Meaning of 'Extinct'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> No longer in existence (લુપ્ત થઈ ગયેલું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Ex' એટલે બહાર અથવા પૂરું થયેલું. ડાયનાસોર 'Extinct' પ્રાણી છે.</p></div>"
+    },
+    {
+      "questionNumber": "15",
+      "question": "What does 'To take care of' mean?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> To look after / To protect (સંભાળ રાખવી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Care' શબ્દ જ સૂચવે છે કે કાળજી લેવી.</p></div>"
+    },
+    {
+      "questionNumber": "16",
+      "question": "Choose the word which means 'Moving from one place to another for food or weather'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Migratory (સ્થળાંતર કરનાર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાઇબેરિયન ક્રેન એ 'Migratory' પક્ષી છે. મગજમાં પક્ષીઓનું ઉડવું યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "17",
+      "question": "Give the noun form of 'Observe'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Observation (નિરીક્ષણ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટાભાગના '-ve' છેડે આવતા ક્રિયાપદોનું '-tion' પ્રત્યય લગાડી Noun બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "18",
+      "question": "Opposite of 'Common'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Rare / Unique (અસામાન્ય/દુર્લભ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે બધે જોવા મળે તે Common, જે ક્યાંક જ જોવા મળે તે Rare.</p></div>"
+    },
+    {
+      "questionNumber": "19",
+      "question": "Synonym of 'Delicate'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Soft / Fragile (નાજુક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષીઓના માળા અને ઇંડા 'Delicate' (નાજુક) હોય છે, તેને સાચવવા પડે.</p></div>"
+    },
+    {
+      "questionNumber": "20",
+      "question": "Complete the phrase: 'In search ____'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> of (ની શોધમાં)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Search સાથે હંમેશા 'of' પ્રેપોઝિશન યાદ રાખવું. 'In search of food'.</p></div>"
+    },
+    {
+      "questionNumber": "21",
+      "question": "Correct the spelling: (A) Carniverous (B) Carnivorous (C) Carneviorous (D) Carnivorus",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (B) Carnivorous (માંસાહારી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Vorous' એટલે ખાનાર. Carni + vorous = માંસ ખાનાર.</p></div>"
+    },
+    {
+      "questionNumber": "22",
+      "question": "Select the correct one-word: 'The study of the environment and living things'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Ecology (પર્યાવરણશાસ્ત્ર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Eco' એટલે કુદરત/પર્યાવરણ અને 'Logy' એટલે અભ્યાસ.</p></div>"
+    },
+    {
+      "questionNumber": "23",
+      "question": "Find the word for 'Very beautiful or attractive'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Charming / Attractive (આકર્ષક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોર પંખ ફેલાવે ત્યારે કેવો લાગે? 'Charming'!</p></div>"
+    },
+    {
+      "questionNumber": "24",
+      "question": "What is the synonym of 'Gaze'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Stare / Look steadily (એકધારું જોવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Gaze એટલે ટીકી ટીકી ને જોવું. પક્ષીઓ આકાશમાં Gaze કરતા હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "25",
+      "question": "Complete the sentence: 'Weaver birds weave beautiful nests ____ grasses.'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> with / from (ઘાસ વડે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈ સાધન કે વસ્તુથી કામ થાય ત્યારે 'with' વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "26",
+      "question": "Short Note Theme: 'The Weaver Bird (Darji)' (Board Style Points)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>મુદ્દાઓ:</strong> - Skillful architect, - Uses long grass to weave, - Safe nest from predators, - Entrance from below.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Weaver (વણકર) શબ્દ પરથી યાદ રાખો કે તે માળો વણે છે. તે પક્ષીઓમાં 'Architect' ગણાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "27",
+      "question": "Short Note Theme: 'Migratory Birds' (Board Style Points)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>મુદ્દાઓ:</strong> - Travel from cold countries, - Visit Nal Sarovar in Gujarat, - Search for food and warmth, - Travel thousands of kilometers.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Siberia to Nal Sarovar' - આ અંતર યાદ રાખો, આખી નોંધ લખાઈ જશે!</p></div>"
+    },
+    {
+      "questionNumber": "28",
+      "question": "Read the extract and answer: 'Birds have a very sharp eyesight. They can see things from a long distance.' Q: What is special about birds' eyes?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Birds have very sharp eyesight which helps them see things from a long distance.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Comprehension માં પ્રશ્નના શબ્દો પેરેગ્રાફમાં શોધો, આજુબાજુ જ જવાબ હશે!</p></div>"
+    },
+    {
+      "questionNumber": "29",
+      "question": "Identify the Part of Speech: 'Successfully'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Adverb (ક્રિયા વિશેષણ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટાભાગે શબ્દની પાછળ '-ly' લાગે ત્યારે તે 'Adverb' હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "30",
+      "question": "True or False: The Hornbill's nest is completely open.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> False (ખોટું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Hornbill તો માળાને માટીથી બંધ કરી દે છે (Sealing), માત્ર ચાંચ બહાર રહે તેટલી જ જગ્યા રાખે છે.</p></div>"
+    }
+  ]
+}
