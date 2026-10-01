@@ -1420,3 +1420,161 @@ var Std10_English_SL_Chapter_Grammar = {
     }
   ]
 }
+,
+"10": {
+  "chapterNumber": 10,
+  "chapterTitle": "Test of True Love",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "1",
+      "question": "Find the synonym of the word: 'Glimpse'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> A brief look / A quick view (ઝલક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'G' for Glimpse અને 'G' for Glance - બંનેનો અર્થ એક જ વાર જોવું એવો થાય.</p></div>"
+    },
+    {
+      "questionNumber": "2",
+      "question": "Find the synonym of the word: 'Precious'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Valuable / Costly (કિંમતી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હીરો કિંમતી હોય માટે તેને 'Precious stone' કહેવાય, જે 'Price' સાથે જોડાયેલું છે.</p></div>"
+    },
+    {
+      "questionNumber": "3",
+      "question": "Find the synonym of the word: 'Hesitation'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Reluctance / Pause in action (અચકાટ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે આપણે 'Halt' (થોભવું) કરીએ ત્યારે 'Hesitation' થાય.</p></div>"
+    },
+    {
+      "questionNumber": "4",
+      "question": "Find the synonym of the word: 'Radiating'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Glowing / Shining (ચમકતું અથવા ફેલાતું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યના 'Rays' (કિરણો) જેમ ફેલાય તેમ 'Radiating' સ્મિત ફેલાય.</p></div>"
+    },
+    {
+      "questionNumber": "5",
+      "question": "Find the synonym of the word: 'Slender'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Slim / Thin (પાતળું/વિવિધ અંગોવાળું આકર્ષક શરીર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'S' for Slender અને 'S' for Slim. બંનેનો અર્થ પાતળું થાય.</p></div>"
+    },
+    {
+      "questionNumber": "6",
+      "question": "Find the antonym of the word: 'Ordinary'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Extraordinary / Special (અસાધારણ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ordinary ની આગળ 'Extra' લગાડવાથી તેનો વિરોધી શબ્દ બની જશે.</p></div>"
+    },
+    {
+      "questionNumber": "7",
+      "question": "Find the antonym of the word: 'Plump'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Thin / Skinny (દૂબળું/પાતળું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Plump' એટલે ભરાવદાર (જાડું), તો તેનું ઉલટું 'Thin' થાય.</p></div>"
+    },
+    {
+      "questionNumber": "8",
+      "question": "Find the antonym of the word: 'Internal'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> External / Outer (બાહ્ય)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'In' એટલે અંદર, 'Ex' એટલે બહાર. Internal vs External.</p></div>"
+    },
+    {
+      "questionNumber": "9",
+      "question": "Find the antonym of the word: 'Spacious'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Narrow / Congested (સાંકડું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Space એટલે જગ્યા, જો જગ્યા ન હોય તો તે Narrow કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "10",
+      "question": "Find the antonym of the word: 'Courage'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Fear / Cowardice (ડર/કાયરતા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાહસ (Courage) ન હોય તેને ડર (Fear) લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "11",
+      "question": "Identify the correct spelling: (A) Leiutenant (B) Lieutenant (C) Leutenant (D) Lieutanent",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (B) Lieutenant</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'LIE-U-TEN-ANT' (ખોટું બોલ્યો તું ૧૦ કીડીઓ સામે) - આ રીતે સ્પેલિંગ ક્યારેય નહીં ભુલાય.</p></div>"
+    },
+    {
+      "questionNumber": "12",
+      "question": "Choose the correct spelling: (A) Fascinating (B) Facinating (C) Fascinating (D) Fassineting",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (A) Fascinating</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'SC' યાદ રાખો. Science માં આવે તેમ Fascinating માં પણ 'sc' આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "13",
+      "question": "Give one word for: 'The ability to suffer pain or hardship without complaint.'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Endurance (સહનશક્તિ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે લાંબો સમય 'Endure' (ટકી) શકે તેનામાં 'Endurance' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "14",
+      "question": "Give one word for: 'A person who is walking in the street.'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Pedestrian (પદયાત્રી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Ped' એટલે પગ (Foot). પગે ચાલનાર એટલે Pedestrian.</p></div>"
+    },
+    {
+      "questionNumber": "15",
+      "question": "Give one word for: 'Strongly and stoutly built.'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Sturdy (મજબૂત બાંધાનું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Sturdy' એટલે 'Study' ટેબલ જેવું મજબૂત!</p></div>"
+    },
+    {
+      "questionNumber": "16",
+      "question": "Identify the meaning of the idiom: 'To lift one's heart'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> To make someone feel happy and hopeful. (આનંદિત કરી દેવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૃદય 'Lift' (ઊંચકાય) એટલે કે આપણે ખુશ થઈએ ત્યારે હળવાશ અનુભવીએ.</p></div>"
+    },
+    {
+      "questionNumber": "17",
+      "question": "Identify the meaning of the idiom: 'To keep one's word'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> To fulfill a promise. (વચન પાળવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપેલા શબ્દોને સાચવી રાખવા એટલે કે વચન નિભાવવું.</p></div>"
+    },
+    {
+      "questionNumber": "18",
+      "question": "Fill in the blank: Blandford's heart ______ as he saw the girl in the green suit. (leaped, leaped up, leaping)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> leaped</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂતકાળની વાત છે, માટે V2 (leaped) આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "19",
+      "question": "Fill in the blank with proper vocabulary: The woman's face had a _______ quality. (gentle, gently, gentleness)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> gentle</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Quality (નામ) ની આગળ વિશેષણ (Adjective) 'Gentle' આવે.</p></div>"
+    },
+    {
+      "questionNumber": "20",
+      "question": "Fill in the blank: He was ______ by the book he was reading. (absorb, absorbed, absorbing)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> absorbed</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Was + V3 (Passive voice) - કોઈ ક્રિયામાં તલ્લીન હોવું એટલે 'Absorbed in'.</p></div>"
+    },
+    {
+      "questionNumber": "21",
+      "question": "Join the sentences: Blandford was disappointed. He did not let it show on his face. (Use 'Though')",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Though Blandford was disappointed, he did not let it show on his face.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરોધાભાસ દર્શાવવા વાક્યની શરૂઆતમાં 'Though' મૂકવું.</p></div>"
+    },
+    {
+      "questionNumber": "22",
+      "question": "Change into Indirect Speech: \"I am glad you could come,\" she said.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> She said that she was glad he could come.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Am/Is નું Was કરવું અને 'that' સંયોજક વાપરવું.</p></div>"
+    },
+    {
+      "questionNumber": "23",
+      "question": "Correct the underlined error: He <u>wait</u> for the woman for a long time.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> waited</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખી વાર્તા ભૂતકાળમાં છે, તેથી ક્રિયાપદનું ભૂતકાળનું રૂપ (waited) આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "24",
+      "question": "Match the following phrase with meaning: 'To be sustain by'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> To be supported or kept alive by. (ટેકો મળવો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Sustain' એટલે ટકી રહેવું. કોઈના સહારાથી ટકી રહેવું.</p></div>"
+    },
+    {
+      "questionNumber": "25",
+      "question": "Which flower was decided as the sign of identification?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> A red rose.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના નામમાં 'True Love' છે અને પ્રેમનું પ્રતીક 'Red Rose' છે.</p></div>"
+    },
+    {
+      "questionNumber": "26",
+      "question": "Short Note: Miss Meynell's plan to test Blandford.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>મુદ્દાઓ:</strong> 1. Wanted to test his love. 2. Noted his reaction to appearance. 3. Asked an elderly woman to wear the rose. 4. She stood further away. 5. Result: Blandford passed the test of true love.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ શોર્ટ નોટમાં 'Inner beauty vs Outer beauty' આ લાઇન અચુક લખવી.</p></div>"
+    },
+    {
+      "questionNumber": "27",
+      "question": "Short Note: Lieutenant Blandford's character.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>મુદ્દાઓ:</strong> 1. Brave soldier. 2. Fond of reading. 3. Loyal and sincere. 4. Valued soul over face. 5. Kept his promise to meet Meynell.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Blandford માટે 'Man of his word' (વચનનો પાક્કો) શબ્દ વાપરવો.</p></div>"
+    },
+    {
+      "questionNumber": "28",
+      "question": "Identify the function: \"Blandford was waiting at the Grand Central Station.\"",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Describing Location / Specifying Time and Place.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે 'At', 'In', 'On' પછી સ્થળનું નામ હોય ત્યારે 'Location' ફંક્શન આવે.</p></div>"
+    },
+    {
+      "questionNumber": "29",
+      "question": "Fill in the blank: The book was 'Of Human Bondage' ______ the author was Somerset Maugham. (but, and, because)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> and</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે સમાન માહિતી જોડવા 'and' વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "30",
+      "question": "Choose the correct meaning of 'Unfailing':",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Continuous / Constant (અવિરત/હંમેશ માટેનું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ક્યારેય 'Fail' ન થાય તે 'Unfailing' (હંમેશા રહેતું).</p></div>"
+    }
+  ]
+}
