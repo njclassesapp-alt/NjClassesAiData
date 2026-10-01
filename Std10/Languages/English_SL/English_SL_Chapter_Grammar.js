@@ -1262,3 +1262,161 @@ var Std10_English_SL_Chapter_Grammar = {
     }
   ]
 }
+,
+"9": {
+  "chapterNumber": 9,
+  "chapterTitle": "Tune up O Teens!",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "1",
+      "question": "Find the nearest meaning (Synonym) of: 'Counselor'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Adviser / Guide (સલાહકાર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Council' (સભા) માં જે 'Counsel' (સલાહ) આપે તે Counselor.</p></div>"
+    },
+    {
+      "questionNumber": "2",
+      "question": "Find the nearest meaning (Synonym) of: 'Anxiety'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Worry / Eagerness (ચિંતા / આતુરતા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Anxiety = 'A'ndar thi 'X' (ખોટી) ચિંતા થવી.</p></div>"
+    },
+    {
+      "questionNumber": "3",
+      "question": "Find the nearest meaning (Synonym) of: 'Distract'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Divert / Disturb (ધ્યાન ભટકાવવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Track (રસ્તો) પરથી 'Dis' (દૂર) થવું એટલે Distract.</p></div>"
+    },
+    {
+      "questionNumber": "4",
+      "question": "Find the nearest meaning (Synonym) of: 'Retention'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Memory / Ability to remember (યાદશક્તિ / જાળવણી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Retain (જાળવી રાખવું) પરથી Retention બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "5",
+      "question": "Find the nearest meaning (Synonym) of: 'Consult'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Take advice / Discuss (સલાહ લેવી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Consult એટલે 'Con'versation કરીને Result મેળવવું.</p></div>"
+    },
+    {
+      "questionNumber": "6",
+      "question": "Give the opposite word (Antonym) of: 'Effective'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Ineffective (બિનઅસરકારક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અંગ્રેજીમાં ઘણા શબ્દો આગળ 'In-' લગાડવાથી વિરોધી બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "7",
+      "question": "Give the opposite word (Antonym) of: 'Confidence'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Diffidence / Hesitation (આત્મવિશ્વાસનો અભાવ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Confidence માં 'Con' છે, વિરોધીમાં 'Diff' (Difference) યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "8",
+      "question": "Give the opposite word (Antonym) of: 'Encourage'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Discourage (નિરુત્સાહિત કરવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'En' કાઢીને 'Dis' લગાડવાથી વિરોધી ક્રિયાપદ બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "9",
+      "question": "Identify the correct spelling from the options: (A) Shcedule (B) Schedule (C) Scheidule",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (B) Schedule (સમયપત્રક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): S-C-H-E-D-U-L-E : 'S-Che-Dule' યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "10",
+      "question": "Identify the correct spelling: (A) Psychologists (B) Sycologists (C) Psycologists",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (A) Psychologists (મનોવૈજ્ઞાનિકો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આમાં 'P' સાયલન્ટ છે. 'Psy-cho-logists' (પસાય-કો-લોજીસ્ટ) રીતે મોઢે કરો.</p></div>"
+    },
+    {
+      "questionNumber": "11",
+      "question": "Fill in the blank with appropriate phrase: 'The principal asked the students to ______ the new rules.' (deal with, abide by, look for)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> abide by (નિયમોનું પાલન કરવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Rules' શબ્દ આવે ત્યારે મોટેભાગે 'Abide by' (વળગી રહેવું) જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "12",
+      "question": "Give one word for: 'A person whose job is to give advice to people about their problems.'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Counselor (સલાહકાર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Advice + Job = Counselor.</p></div>"
+    },
+    {
+      "questionNumber": "13",
+      "question": "Give one word for: 'A feeling of being very worried.'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Anxiety (ચિંતા / વ્યાકુળતા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્kait ટ્રીક (NJ Classes): Worried = Anxiety (પાઠના શીર્ષક મુજબ).</p></div>"
+    },
+    {
+      "questionNumber": "14",
+      "question": "What is the meaning of the idiom 'To tune up' as per the chapter title?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> To prepare or adjust for better performance (વધારે સારી કામગીરી માટે તૈયાર થવું / સુસંગત થવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેમ રેડિયોમાં ચેનલ સેટ (Tune) કરીએ એમ મગજને પરીક્ષા માટે સેટ કરવું.</p></div>"
+    },
+    {
+      "questionNumber": "15",
+      "question": "Fill in the blanks: Students should have a ______ diet. (balance/balanced)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> balanced (સંતુલિત)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Diet નામ છે, તેથી તેની આગળ 'ed' વાળું વિશેષણ (Balanced) વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "16",
+      "question": "Identify the function: 'I am so confused, what should I do?'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Seeking Advice (સલાહ માંગવી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'What should I...' થી શરૂ થતા વાક્યો સલાહ માંગવા માટે વપરાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "17",
+      "question": "Complete the sentence: If you study regularly, ______ (use 'success' or 'succeed').",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> you will succeed.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Will પછી હંમેશા ક્રિયાપદ (Succeed) આવે, નામ (Success) નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "18",
+      "question": "Select the correct word: Concentration means focusing ______ on one thing. (entire/entirely)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> entirely (સંપૂર્ણપણે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Focusing (ક્રિયા) કેવી રીતે? Entirely (ક્રિયા વિશેષણ - ly).</p></div>"
+    },
+    {
+      "questionNumber": "19",
+      "question": "Find the word from the text which means 'to deal with something successfully'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Cope with (સામનો કરવો / પહોંચી વળવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Cope + With હંમેશા જોડીમાં આવે.</p></div>"
+    },
+    {
+      "questionNumber": "20",
+      "question": "Short Note Question: Mention points for 'Counselor’s Advice to Students'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 1. Follow a balanced diet. 2. Avoid junk food. 3. Proper sleep and exercise. 4. Plan a schedule. 5. Relax your mind.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠમાં આવતા મુખ્ય નિષ્ણાતો (Dr. Mansuri/Dr. Nasir) ના નામ યાદ રાખવા.</p></div>"
+    },
+    {
+      "questionNumber": "21",
+      "question": "Change the degree: Anxiety is the worst enemy of students. (Positive Degree)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> No other enemy of students is so bad as anxiety.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Worst (Superlative) -> Bad (Positive). No other + so...as યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "22",
+      "question": "Find the odd one out: (A) Stress (B) Pressure (C) Relaxation (D) Tension",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (C) Relaxation</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાકીના ત્રણેય શબ્દો ચિંતા બતાવે છે, જ્યારે Relaxation શાંતિ બતાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "23",
+      "question": "What does Dr. Mansuri suggest about 'Heavy Food'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> It makes you feel sleepy and lethargic. (તે ઊંઘ લાવી દે છે અને આળસ પેદા કરે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Heavy Food = Heavy Sleep.</p></div>"
+    },
+    {
+      "questionNumber": "24",
+      "question": "Identify the word: A person who studies the human mind.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Psychologist</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Psycho = મન, Logist = નિષ્ણાત.</p></div>"
+    },
+    {
+      "questionNumber": "25",
+      "question": "Vocabulary check: 'Retention' is related to (A) Eyes (B) Memory (C) Heart",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (B) Memory</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'R'etention = 'R'emembering Power.</p></div>"
+    },
+    {
+      "questionNumber": "26",
+      "question": "Passage Comprehension: Why is a balanced diet important for students?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> It provides necessary nutrients to the brain and helps in better concentration.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Passage માં 'Diet' અને 'Brain' શબ્દો શોધીને જવાબ લખવો.</p></div>"
+    },
+    {
+      "questionNumber": "27",
+      "question": "Join the sentences: You work hard. You will get good marks. (Use 'If')",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> If you work hard, you will get good marks.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'If' હંમેશા શરત (Condition) બતાવતા વાક્યની આગળ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "28",
+      "question": "Meaning of 'Lethargic':",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Lazy / Lacking energy (આળસું / શક્તિ વગરનું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'L'ethargic = 'L'azy.</p></div>"
+    },
+    {
+      "questionNumber": "29",
+      "question": "Correct the underlined word: Students should avoid <u>to eat</u> oily food.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> eating (Students should avoid eating...)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Avoid' ક્રિયાપદ પછી હંમેશા 'ing' વાળું રૂપ (Gerund) આવે.</p></div>"
+    },
+    {
+      "questionNumber": "30",
+      "question": "Short Note: Importance of 'Sharing and Discussion'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Sharing problems with parents or teachers reduces stress. Discussion helps to find solutions and improves confidence.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Sharing = Caring (for mental health).</p></div>"
+    }
+  ]
+}
