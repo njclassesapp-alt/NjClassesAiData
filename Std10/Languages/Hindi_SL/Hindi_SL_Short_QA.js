@@ -264,3 +264,136 @@ var Std10_Hindi_SL_Short_QA = {
     }
   ]
 }
+,
+"3": {
+  "chapterNumber": 3,
+  "chapterTitle": "सवैया (रसखान)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘सवैया’ काव्य के कवि का नाम बताइए।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘सवैया’ काव्य के कवि का नाम <strong>रसखान</strong> है।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સવૈયા' માં કૃષ્ણ ભક્તિનો 'રસ' છે, એટલે કવિ 'રસખાન'! (રસનો ખજાનો)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘सवैया’ काव्य का साहित्य प्रकार क्या है?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘सवैया’ काव्य का साहित्य प्रकार <strong>पद (सवैया)</strong> है।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ જ તેનો સાહિત્ય પ્રકાર છે, જે યાદ રાખવામાં સૌથી સરળ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "कवि मानुष होकर कहाँ बसना चाहते हैं?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> कवि मानुष होकर गोकुल गाँव के ग्वालों के बीच बसना चाहते हैं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માણસ (માનુષ) -> ગામના લોકો (ગ્વાલા). બસ, આ કનેક્શન યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "पक्षी (खग) बनने पर रसखान कहाँ निवास करना चाहते हैं?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> पक्षी बनने पर रसखान यमुना किनारे कदंब के पेड़ की डालियों पर निवास करना चाहते हैं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષી (ખગ) + કદંબનું ઝાડ + યમુના કિનારો = પરફેક્ટ લોકેશન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "कवि पत्थर (पाहन) बनकर किस पर्वत का अंश बनना चाहते हैं?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> कवि पत्थर बनकर <strong>गोवर्धन</strong> पर्वत का अंश बनना चाहते हैं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથ્થર (પાહન) = પર્વત, અને કૃષ્ણનો પર્વત એટલે ગોવર્ધન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "रसखान पशु बनने पर किसकी गायों के बीच चरना चाहते हैं?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> रसखान पशु बनने पर <strong>नंद की धेनु (गायों)</strong> के बीच चरना चाहते हैं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પશુ -> ગાય -> નંદબાબાની ગાયો. આ ક્રમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "श्रीकृष्ण की लाठी और कंबल के लिए कवि क्या न्योछावर करने को तैयार हैं?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> श्रीकृष्ण की लाठी और कंबल के लिए कवि <strong>तीनों लोकों का राज</strong> न्योछावर करने को तैयार हैं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાઠી-ધાબળો (નાની વસ્તુ) vs ત્રણેય લોકનું રાજ (મોટી વસ્તુ). ભક્તિ માટે બધું કુરબાન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "नंद की गायों को चराने के बदले कवि किन सुखों को त्यागना चाहते हैं?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> कवि नंद की गायों को चराने के बदले <strong>आठों सिद्धि और नौ निधियों</strong> के सुख को त्यागना चाहते हैं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '8 સિદ્ધિ + 9 નિધિ' - આ આંકડાકીય જોડી પરીક્ષા માટે ખાસ યાદ રાખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "शब्दार्थ लिखिए: 'लकुटी' और 'कामरिय'।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'लकुटी' का अर्थ है <strong>लाठी</strong> और 'कामरिय' का अर्थ है <strong>कंबल</strong>।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: L-L (Lakuṭi-Lathi) અને K-K (Kamariya-Kambal). ભૂલ ન પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ખાલી જગ્યા પૂરો: 'आठहुँ सिद्धि ________ निधि के सुख नंद की गाइ चराइ बिसारौं।'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> नव</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિન્દુ શાસ્ત્રો મુજબ નિધિ હંમેશા 'નવ' (9) જ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "रसखान अपनी आँखों से क्या देखना चाहते हैं?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> रसखान अपनी आँखों से ब्रज के <strong>बन (वन), बाग और तड़ाग (तालाब)</strong> देखना चाहते हैं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વન-બાગ-તળાવ = વ્રજની સુંદરતા. આ ત્રણ શબ્દો કીવર્ડ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "कवि ब्रज की झाड़ियों (करील के कुंजन) पर क्या न्योछावर करना चाहते हैं?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> कवि ब्रज की झाड़ियों पर <strong>सोने के करोड़ों महल (कलधौत के धाम)</strong> न્યોછાવર કરવા માંગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કાંટાવાળી ઝાડી' (करील) vs 'સોનાના મહેલ'. ભક્તને કુદરત વધુ વહાલી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "पर्यायवाची शब्द दीजिए: 'पाहन' और 'धेनु' ।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> पाहन = पत्थर (पाषाण), धेनु = गाय।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાહન -> પથ્થર, ધેનુ -> ગાય. આ પ્રશ્ન વ્યાકરણ વિભાગમાં વારંવાર પૂછાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "रसखान किस भक्ति शाखा के कवि हैं?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> रसखान <strong>सगुण कृष्ण भक्ति</strong> शाखा के कवि हैं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુસ્લિમ હોવા છતાં કૃષ્ણના અનન્ય ભક્ત, એટલે સગુણ કૃષ્ણ ભક્તિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "विरुद्धार्थी शब्द लिखिए: 'मानुष' और 'सुख' ।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> मानुष × पशु (या अमानुष), सुख × दुःख ।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્યના સંદર્ભમાં 'માનુષ' ની સામે 'પશુ' નો ઉલ્લેખ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ખાલી જગ્યા પૂરો: 'जो खग हौं तो बसेरो करौं मिलि कालिंदी कूल ________ की डारन।'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> कदंब</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૃષ્ણનું મનપસંદ ઝાડ કયું? કદંબ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "कवि गोवर्धन पर्वत का पत्थर क्यों बनना चाहते हैं? (2 marks)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> कवि गोवर्धन पर्वत का पत्थर बनना चाहते हैं क्योंकि इसी पर्वत को श्रीकृष्ण ने इंद्र का मान मर्दन करने के लिए अपनी उँगली पर 'छत्र' की तरह उठाया था। पत्थर बनकर कवि श्रीकृष्ण की उसी उँगली का स्पर्श और सानिध्य पाना चाहते हैं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથ્થર = ગોવર્ધન = શ્રીકૃષ્ણની આંગળીનો સ્પર્શ (સાનિધ્ય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "रसखान ने कृष्ण की किन चीजों पर 'तिहुँ पुर' का राज न्योछावर करने की बात की है? (2 marks)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> रसखान ने श्रीकृष्ण की छोटी <strong>लाठी (लकुटी)</strong> और उनके <strong>कंबल (कामरिय)</strong> पर तीनों लोकों (स्वर्ग, पृथ्वी और पाताल) का सुख और राज्य न्योछावर करने की बात की है। उनके लिए कृष्ण की भक्ति संसार के सर्वस्व वैभव से बढ़कर है।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભક્તિની કિંમત > સામ્રાજ્યની કિંમત. (લાઠી + ધાબળો = 3 લોક)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "कवि यमुना किनारे ही बसेरा क्यों करना चाहते हैं? (2 marks)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> यमुना नदी का किनारा श्रीकृष्ण की लीलाओं का साक्षी रहा है। वहाँ कदंब के वृक्षों पर बैठकर कृष्ण बाँसुरी बजाते थे। रसखान पक्षी बनकर उन्हीं कदंब की डालियों पर रहना चाहते हैं ताकि वे सदैव कृष्ण की लीला-भूमि से जुड़े रहें।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યમુના + કદંબ + પક્ષી = કૃષ્ણની લીલાના સાક્ષી બનવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "निम्नलिखित शब्द का अर्थ दीजिए: 'पुरंदर' ।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'पुरंदर' का अर्थ है <strong>इंद्र</strong>।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેણે વરસાદ પાડ્યો હતો તે દેવ એટલે ઈન્દ્ર (પુરંદર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "कवि रसखान के आराध्य देव कौन हैं?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> कवि रसखान के आराध्य देव <strong>श्रीकृष्ण</strong> हैं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું કાવ્ય કૃષ્ણમય છે, એટલે જવાબ કૃષ્ણ જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "कवि कालिंदी के तट पर किस वृक्ष की डाल पर निवास करना चाहते हैं?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> कवि कालिंदी (यमुना) के तट पर <strong>कदंब</strong> वृक्ष की डाल पर निवास करना चाहते हैं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાલિંદી એટલે યમુના, અને યમુના એટલે કદંબ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ब्रज के वन, बाग और तालाब को देखने के लिए रसखान क्यों लालायित हैं? (2 marks)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> रसखान श्रीकृष्ण के अनन्य भक्त हैं। ब्रज के वन, बाग और तालाब में कृष्ण ने अपनी बाल-लीलाएँ की थीं। कवि को इन स्थानों में कृष्ण की उपस्थिति महसूस होती है, इसलिए वे इन्हें अपनी आँखों से निहारना चाहते हैं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે સ્થળે ઈશ્વર રહ્યા હોય, તે ભક્ત માટે તીર્થ સમાન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "शब्द समूह के लिए एक शब्द लिखिए: 'यमुना नदी का एक नाम' ।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> कालिंदी।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્યમાં 'કાલિંદી કૂલ' શબ્દ વાપરવામાં આવ્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "रसखान अगले जन्म में पशु बनकर कहाँ चरना चाहते हैं?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> रसखान अगले जन्म में पशु बनकर <strong>नंद की गायों के मध्य</strong> चरना चाहते हैं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાય = પશુ, નંદની ગાય એટલે કૃષ્ણનો સાથ.</p></div>"
+    }
+  ]
+}
