@@ -131,3 +131,136 @@ var Std10_Hindi_SL_Short_QA = {
     }
   ]
 }
+,
+"2": {
+  "chapterNumber": 2,
+  "chapterTitle": "बूढ़ी काकी (બૂઢી કાકી)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘बूढ़ी काकी’ पाठ के लेखक का नाम बताइए। (કર્તા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘बूढ़ी काकी’ पाठ के लेखक <strong>प्रेमचन्द</strong> हैं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ‘બૂઢી કાકી’ પ્રત્યે પ્રેમ રાખવો એટલે ‘પ્રેમચંદ’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘बूढ़ी काकी’ किस प्रकारની સાહિત્યકૃતિ છે? (સાહિત્ય પ્રકાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘बूढ़ी काकी’ का साहित्य प्रकार <strong>कहानी</strong> है।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રેમચંદ એટલે વાર્તાના (कहानी) સમ્રાટ, માટે આ એક કહાની છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "बूढ़ी काकी ने अपनी सारी संपत्ति किसके नाम लिख दी थी?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> बूढ़ी काकी ने अपनी सारी संपत्ति अपने भतीजे <strong>बुद्धिराम</strong> के नाम लिख दी थी।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિલકત આપી ‘બુદ્ધિ’ વગરના ‘બુદ્ધિરામ’ ને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "बुद्धिराम की पत्नी का नाम क्या था?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> बुद्धिराम की पत्नी का नाम <strong>रूपा</strong> था।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બુદ્ધિરામનું ‘રૂપ’ એટલે ‘રૂપા’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "बूढ़ी काकी में अब केवल कौन-सी इन्द्रिय शेष थी?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> बूढ़ी काकी में अब केवल <strong>स्वाद</strong> (रसना) की इन्द्रिय ही शेष थी।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૃદ્ધાવસ્થામાં બધું ગયું, પણ ‘જીભનો સ્વાદ’ રહી ગયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "बुद्धिराम के घर किस उत्सव की तैयारी हो रही थी?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> बुद्धिराम के बड़े लड़के <strong>मुखराम के तिलक</strong> का उत्सव था।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુખરામનું મુખ જોઈને ‘તિલક’ કરવાનું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "बूढ़ी काकी अपना दुख कैसे प्रकट करती थीं?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> बूढ़ी काकी अपना दुख <strong>रोकर</strong> प्रकट करती थीं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવાજ નહોતો નીકળતો, પણ ‘રડવું’ એ જ એમની ભાષા હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "लाड़ली ने अपनी पूड़ियाँ काकी को क्यों दी?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> लाड़ली को काकी से बहुत स्नेह था और वह उन्हें भूखा नहीं देख सकती थी।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ ‘લાડલી’ એટલે કાકીને પણ રાખે ‘લાડ’ માં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "रूपा को अन्त में किस बात का पश्चाताप हुआ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> रूपा को काकी को भूखा रखने और उनके साथ बुरा व्यवहार करने का पश्चाताप हुआ।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પસ્તાવો ત્યારે થાય જ્યારે અંદરની ‘માનવતા’ જાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ખાલી જગ્યા પૂરો: बुढ़ापा बहुधा बचपन का _______ हुआ करता है।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> पुनरागमन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરડા માણસ બાળકની જેમ વર્તે એટલે ‘ફરીથી બાળપણ’ (પુનરાગમન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "મુહાવરાનો અર્થ આપો: 'कलेजा धड़कना'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> बहुत डर जाना या आशंकित होना।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૃદયના ધબકારા વધે એટલે ‘ડર’ લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિરોધી શબ્દ આપો: 'सज्जन'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> दुर्जन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સત્ (સારું) vs દુર્ (ખરાબ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કાકીને જૂઠાં પતરાવળાંમાંથી ખાતા જોઈને કોને દુઃખ થયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> रूपा को अत्यधिक दुख और ग्लानि हुई।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પીરસે એને જ દુઃખ થાય કે મહેમાન ખાધું ને ઘરનું ભૂખ્યું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: 'जिसकी बुद्धि कम हो'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> मन्दबुद्धि</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓછી બુદ્ધિ = મંદ બુદ્ધિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "मुहैया करना - અર્થ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> उपलब्ध कराना (હાજર કરવું/પૂરું પાડવું).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુહૈયા = હાજર (Available).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "બૂઢી કાકી શા માટે રડતી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> जब उन्हें समय पर भोजन नहीं मिलता था या उनके साथ बुरा व्यवहार होता था, तब वे रोती थीं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેટની ભૂખ અને મનની વેદના રડાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કાકીને અંધારી કોટડીમાં શાની સુગંધ આવી રહી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> काकी को घी और मसालों की सुगन्ध आ रही थी।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મસાલાની સોડમ ભૂખ વધારે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પર્યાયવાચી શબ્દ આપો: 'निन्दा'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> बुराई / बदनामी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિંદા એટલે કોઈની પીઠ પાછળ ‘બુરાઈ’ કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "રૂપાએ રાત્રે જાગીને શું જોયું? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> रूपा ने देखा कि बूढ़ी काकी जूठे पत्तलों से पूड़ियों के टुकड़े उठा-उठाकर खा रही हैं। यह देखकर रूपा सन्न रह गई और उसे अपनी क्रूरता पर बहुत दुख हुआ।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દૃશ્ય - જૂઠા પતરાવળાં; ભાવ - પસ્તાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "બુદ્ધિરામ કાકી પર કેમ ગુસ્સે થયો? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> जब तिलक के उत्सव में मेहमान खाना खा रहे थे, तब काकी रेंगती हुई कड़ाह के पास आ गई थीं। मेहमानों के सामने अपनी बेइज्जती मानकर बुद्धिराम उन पर चिल्लाया।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહેમાન + કાકીનું આગમન = બુદ્ધિરામનો ગુસ્સો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "કાકીને ખાવા માટે લાડલીએ શું યુક્તિ કરી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> लाड़ली ने अपने हिस्से की पूड़ियाँ अपनी पिटारी में छिपाकर रखी थीं और रात को सो जाने का बहाना करके काकी के पास गई।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકની નિર્દોષતા અને સાચો પ્રેમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "પ્રેમચંદનું બાળપણનું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> धनपत राय</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાહિત્યના ‘ધની’ એટલે ‘ધનપતરાય’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "કહાનીના અંતમાં બૂઢી કાકી શું કરી રહી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> कहानी के अंत में बूढ़ी काकी रूपा द्वारा परोसा गया भोजन बड़े चाव से खा रही थीं और आशीर्वाद दे रही थीं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુખદ અંત - ભોજન અને આશીર્વાદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "મુહાવરાનો અર્થ આપો: 'गला भर आना'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> भावुक हो जाना (ગદગદિત થઈ જવું).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાગણી ભરાઈ આવે ત્યારે ગળું ભરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "રૂપાએ કાકી પાસે માફી કેમ માંગી? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> रूपा को अपनी भूल का अहसास हुआ कि उसने एक असहाय वृद्धा को भूखा रखा। उसने भगवान के कोप से डरकर और आत्मग्लानि के कारण काकी से क्षमा माँगी।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાપનો ડર અને દયાભાવ માફી મંગાવે.</p></div>"
+    }
+  ]
+}
