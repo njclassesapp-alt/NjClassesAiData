@@ -397,3 +397,136 @@ var Std10_Hindi_SL_Short_QA = {
     }
   ]
 }
+,
+"4": {
+  "chapterNumber": 4,
+  "chapterTitle": "एक प्रश्न चार उत्तर",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘एक प्रश्न चार उत्तर’ पाठ के लेखक का नाम बताइए।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘एक प्रश्न चार उत्तर’ पाठ के लेखक <strong>श्री प्रकाश</strong> हैं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'પ્રકાશ' હંમેશા ચારેય દિશામાં ફેલાય છે, એટલે 'ચાર ઉત્તર' વાળો પાઠ 'શ્રી પ્રકાશ' એ લખ્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘एक प्रश्न चार उत्तर’ साहित्य का कौन-सा प्रकार है?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> यह साहित्य का <strong>विचारप्रधान निबंध</strong> प्रकार है।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચાર અલગ અલગ લોકોના 'વિચાર' લેવામાં આવ્યા છે, એટલે આ 'વિચારપ્રધાન નિબંધ' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "लेखक ने अपनी वृद्धा मित्र से क्या प्रश्न पूछा?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> लेखक ने पूछा कि— \"हमारा देश आगे क्यों नहीं बढ़ रहा है, इसकी उन्नति क्यों नहीं हो रही है?\"</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આખા પાઠનો પાયો આ એક જ સવાલ છે: 'ભારત પાછળ કેમ છે?'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "वृद्धा ने भारतीय लोगों की किस कमी की ओर संकेत किया?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> वृद्धा ने कहा कि भारतीयों में <strong>'जिम्मेदारी की भावना' (Sense of responsibility)</strong> की कमी है।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વૃદ્ધ લોકો હંમેશા 'જવાબદારી' (Responsibility) શીખવે, એમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "लेखक के दूसरे मित्र कौन थे और वे कहाँ रहते थे?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> लेखक के दूसरे मित्र एक <strong>सरकारी डॉक्टर</strong> थे, जो बहुत वर्षों तक भारत में रहे थे।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બીજા નંબરે ડોક્ટર સાહેબ આવે છે, જેમણે ગંદકીની વાત કરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "डॉक्टर मित्र के अनुसार भारतीयों में किस गुण का अभाव है?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> डॉक्टर मित्र के अनुसार भारतीयों में <strong>सफाई और टीम वर्क (मिलकर काम करना)</strong> का अभाव है।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ડોક્ટર = સફાઈ. ડોક્ટર હંમેશા સફાઈ રાખવાનું કહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "तीसरे मित्र ने भारतीयों की किस आदत के बारे में बताया?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> तीसरे मित्र ने बताया कि भारतीय लोग <strong>ठीक समय पर काम नहीं करते</strong> और छोटी-छोटी बातों पर ध्यान नहीं देते।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ત્રીજા મિત્ર = ટાઈમ (સમય). આપણે હંમેશા લેટ હોઈએ છીએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "चौथे व्यक्ति ने भारतीयों की किस कमजोरी को स्पष्ट किया?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> चौथे व्यक्ति ने कहा कि भारतीयों में <strong>अनुशासन (Discipline)</strong> की कमी है और वे स्वयं नेता बनना चाहते हैं, पर आज्ञा पालन नहीं जानते।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચોથો માણસ = શિસ્ત (Discipline). 'બધાને નેતા બનવું છે, કોઈને અનુયાયી નહીં'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "रिक्त स्थान भरिए: \"हम लोग अपनी जिम्मेदारी नहीं ______।\"",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> समझते</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ પાઠનું મુખ્ય વાક્ય છે - જવાબદારી સમજવી (Responsibility).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "लेखक ने अपने देशवासियों को क्या सलाह दी है?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> लेखक ने सलाह दी है कि हमें स्वार्थ त्यागकर देश के प्रति अपने कर्तव्यों का पालन करना चाहिए।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લેખકનો નિષ્કર્ષ = 'સ્વાર્થ છોડો, દેશ સેવા કરો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "शब्द समूह के लिए एक शब्द दीजिए: 'जिसकी कोई सीमा न हो'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> असीम</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અ + સીમ (સીમા વગરનું) = અસીમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "मुहावरे का अर्थ लिखिए: ‘नाक कटना’।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> इज्जत जाना या प्रतिष्ठा नष्ट होना।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નાક = ઈજ્જત. નાક કપાય એટલે ઈજ્જત જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "विरोधी (विलोम) शब्द लिखिए: 'उन्नति' × _______।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> अवनति</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉન્નતિ (Up) - અવનતિ (Down). શુદ્ધ વિરોધી શબ્દ જોડકું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "लेखक ने किन लोगों से प्रश्न पूछे थे?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> लेखक ने अलग-अलग क्षेत्र के चार विदेशी मित्रों से प्रश्न पूछे थे।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યાદ રાખો - ચારેય લોકો વિદેશી હતા, એટલે જ તેઓ નિષ્પક્ષ રીતે ભારતની ખામી બતાવી શક્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પર્યાયવાચી શબ્દ આપો: 'अतिथि' ।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> मेहमान, पाहुना।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અ + તિથિ (જેની કોઈ તારીખ નક્કી નથી તે) = મહેમાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "वृद्धा ने कूड़े-करकट के उदाहरण से क्या समझाया?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> वृद्धा ने समझाया कि हम अपने घर की सफाई तो करते हैं, लेकिन कूड़ा पड़ोसी के घर या सड़क पर डाल देते हैं। हम सार्वजनिक सफाई की जिम्मेदारी नहीं समझते।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'મારું ઘર ચોખ્ખું, ગલી ભલે ગંદી' - આ ભારતીય માનસિકતા વૃદ્ધાએ પકડી પાડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "डॉक्टर ने भारतीयों के आलस्य के बारे में क्या कहा?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> डॉक्टर ने कहा कि भारतीय लोग आलसी होते हैं और वे काम को टालने की प्रवृत्ति रखते हैं। वे एक साथ मिलकर (Team Work) काम नहीं कर पाते।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ડોક્ટરની નજરમાં આપણે 'ટીમ વર્ક'માં ઝીરો છીએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "कहावत का अर्थ लिखिए: ‘अधजल गगरी छलकत जाय’ ।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> अल्पज्ञानी व्यक्ति अधिक दिखावा करता है।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઓછું જ્ઞાન = વધુ દેખાડો. અડધો ઘડો વધુ છલકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "तीसरे मित्र (आईसीएस) ने भारतीय रेलवे के अनुभव से क्या बताया?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> उन्होंने बताया कि भारतीय लोग छोटी बातों पर ध्यान नहीं देते। जैसे रेलवे स्टेशन पर समय की पाबंदी न रखना या सुविधाओं का दुरुपयोग करना।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ત્રીજો મિત્ર = રેલવે અને સમય. આપણે સમયની કિંમત કરતા નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "पाठ के आधार पर देश की उन्नति के लिए सबसे आवश्यक क्या है?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> देश की उन्नति के लिए प्रत्येक नागरिक को अपनी जिम्मेदारी समझना, अनुशासन का पालन करना और समय का मूल्य समझना आवश्यक है।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જવાબદારી + અનુશાસન + સમય = દેશની ઉન્નતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21 (2 ગુણ)",
+      "question": "लेखक ने ऐसा क्यों कहा कि हम नागरिक कर्तव्यों को भूल गए हैं?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> लेखक के अनुसार, हम अपने व्यक्तिगत स्वार्थों में इतने डूबे हैं कि सार्वजनिक संपत्ति और सामाजिक स्वच्छता का ध्यान नहीं रखते। हम अधिकारों की बात तो करते हैं, पर कर्तव्यों (जैसे सड़क साफ रखना, नियमों का पालन करना) को निभाने में पीछे रह जाते हैं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'અધિકાર' યાદ છે પણ 'ફરજ' ભૂલી ગયા છીએ. આ જ મુખ્ય મુદ્દો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22 (2 ગુણ)",
+      "question": "चौथे मित्र ने भारतीयों की 'लीडरशिप' (नेतृत्व) के बारे में क्या टिप्पणी की?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> चौथे मित्र ने कहा कि भारत में हर व्यक्ति खुद को नेता समझता है और दूसरों को उपदेश देना चाहता है। यहाँ आज्ञा देने वाले तो बहुत हैं, पर अनुशासन में रहकर आज्ञा का पालन करने वाले (अनुयायी) बहुत कम हैं। इसी कारण बड़े काम नहीं हो पाते।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'બધાને કેપ્ટન બનવું છે, પ્લેયર કોઈને નથી બનવું' - આ શિસ્તનો અભાવ સૂચવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23 (2 ગુણ)",
+      "question": "सफाई के बारे में भारतीय दृष्टिकोण और विदेशी दृष्टिकोण में क्या अंतर बताया गया है?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> भारतीय दृष्टिकोण में केवल 'स्वयं का घर' साफ रखना काफी है, बाहर की गंदगी से हमें मतलब नहीं होता। जबकि विदेशी दृष्टिकोण में 'सार्वजनिक स्वच्छता' भी उतनी ही महत्वपूर्ण है। वे सड़कों और सार्वजनिक स्थानों को भी अपना मानकर साफ रखते हैं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભારત = વ્યક્તિગત સફાઈ, વિદેશ = સામાજિક સફાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24 (2 ગુણ)",
+      "question": "लेखक ने भारतीयों की कार्यक्षमता (Efficiency) पर क्या प्रकाश डाला है?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> लेखक के अनुसार भारतीय लोग काम शुरू तो उत्साह से करते हैं, लेकिन उसे पूर्णता (Precision) तक नहीं ले जाते। छोटी-छोटी गलतियों को वे 'चलता है' कहकर नजरअंदाज कर देते हैं, जिससे काम की गुणवत्ता (Quality) गिर जाती है।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આપણી આદત - 'ચલતા હૈ' એટીટ્યુડ. આ જ આપણી પ્રગતિ રોકે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "उपयुक्त विशेषण बताइए: 'आज्ञा' का विशेषण शब्द क्या होगा?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> आज्ञाकारी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંજ્ઞા પરથી વિશેષણ બનાવતી વખતે પાછળ 'કારી' કે 'પાલક' જેવા શબ્દો લાગે.</p></div>"
+    }
+  ]
+}
