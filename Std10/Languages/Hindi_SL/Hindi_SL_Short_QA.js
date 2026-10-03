@@ -663,3 +663,136 @@ var Std10_Hindi_SL_Short_QA = {
     }
   ]
 }
+,
+"6": {
+  "chapterNumber": 6,
+  "chapterTitle": "कालिदास का प्राणी प्रेम",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘कालिदास का प्राणी प्रेम’ पाठ के लेखक कौन हैं?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> मोहन राकेश</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મોહન' (કૃષ્ણ) પણ પ્રાણીપ્રેમી હતા, એટલે 'મોહન રાકેશ' લેખક છે તેમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘कालिदास का प्राणी प्रेम’ किस प्रसिद्ध नाटक का एक अंश है?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> आषाढ़ का एक दिन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ 'આષાઢ' માં આવે અને કાલિદાસનું 'મેઘદૂત' પણ વાદળ પર છે, એટલે 'આષાઢ કા એક દિન' યાદ રહી જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "घायल हरिण शावक को गोद में लेकर कौन आया?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> कालिदास</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના શીર્ષકમાં જ 'કાલિદાસ' છે, જે કરુણાના પ્રતીક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "कालिदास हरिण शावक के अंगों पर किसका लेप लगाना चाहते थे?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> घृत (घी) का लेप</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઘી' ઠંડક આપે અને ઘા રુઝવે, 'ઘૃત' શબ્દ સંસ્કૃત જેવો લાગે જે કાલિદાસ સાથે બંધ બેસે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "दंतुल कौन था?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> दंतुल एक राजपुरुष था।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દંતુલ' માં 'રાજ' જેવો રૂઆબ છે, તે શિકારી રાજપુરુષ હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "मल्लिका की माँ का नाम क्या था?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> अम्बिका</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ' થી અમ્બિકા અને 'મ' થી મલ્લિકા. મા-દીકરીની જોડી (A+M).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ખાલી જગ્યા પૂરો: कालिदास _______ के साथ सहानुभूति रखते थे।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> प्राणियों / हरिण शावक</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ 'પ્રાણી પ્રેમ' છે એટલે પ્રાણીઓ જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "दंतुल ने किसे अपना शिकार बनाया था?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> एक हरिण शावक को।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હરણનું બાળક એટલે 'હરિણ શાબક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "उज्जयिनी की राज्य सभा का प्रत्येक व्यक्ति कालिदास को किसके लिए जानता था?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'ऋतुसंहार' के लेखक के रूप में।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઋતુ' કાલિદાસ બદલી શકે તેવા મહાન કવિ હતા - 'ઋતુસંહાર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "मल्लिका ने घायल हरिण को क्या पिलाया?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> दूध</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકને મમ્મી દૂધ પીવડાવે તેમ મલ્લિકાએ હરણના બાળકને દૂધ પીવડાવ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "શબ્દાર્થ લખો: 'शावक'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> पशु का बच्चा (Child of an animal)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શાબક' = 'બચ્ચા', યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિરોધી શબ્દ લખો: 'कोमल'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> कठोर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નરમ સામે ગરમ નહીં પણ કઠોર આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "दंतुल को किस बात का गर्व था?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> दंतुल को अपने राजपुरुष होने का और अधिकार का गर्व था।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સત્તાનો નશો એટલે 'રાજપુરુષ' હોવાનો ગર્વ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કાલિદાસે દંતુલને હરિણ શાબક માટે શું કહ્યું? (૧ વાક્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> कालिदास ने कहा कि इस प्रदेश में हरिणों का आखेट नहीं होता।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નો શિકાર ઝોન' (No Hunting Zone) એટલે આખેટ નહીં હોતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પર્યાયવાચી શબ્દ લખો: 'आखेट'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> शिकार</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિકારી આખેટ કરવા જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "मल्लिका क्या देखकर डर गई थी?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> लहूलुहान हरिण शावक को देखकर मल्लिका डर गई थी।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોહી જોઈને મલ્લિકા ગભરાઈ ગઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "दंतुल ने कालिदास को पहचान लेने के बाद क्या किया?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> दंतुल ने कालिदास से क्षमा माँगी और उन्हें सम्मान दिया।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સત્ય જાણીને અહંકાર ઓગળી ગયો - ક્ષમા યાચના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કાલિદાસ માટે હરિણ શાબક શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> कालिदास के लिए हरिण शावक पार्वती की गोद में पलने वाले बच्चे जैसा था।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાણી પણ સંતાન સમાન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "શબ્દ સમૂહ માટે એક શબ્દ: 'जो पुरुष राजा की सेवा में हो'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> राजपुरुष</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજાનો માણસ = રાજપુરુષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "कालिदास हरिण शावक को कहाँ ले जाना चाहते थे?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> कालिदास उसे अपनी कुटिया (आश्रम) ले जाना चाहते थे ताकि वह सुरक्षित रहे।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાયલને ઘર (કુટિયા) જ શાંતિ આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "દંતુલ કયા હેતુથી કાલિદાસની પાછળ પાછળ આવ્યો હતો? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> दंतुल ने हरिण शावक का शिकार किया था। कालिदास उस घायल शावक को उठाकर मल्लिका के घर ले आए थे। दंतुल अपने शिकार पर अपना अधिकार जमाने और उसे वापस लेने के लिए रक्त की बूंदों का पीछा करते हुए वहाँ पहुँचा था।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિકારી હંમેશા લોહીના ડાઘા (રક્ત બિંદુ) શોધીને લક્ષ્ય સુધી પહોંચે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "કાલિદાસે દંતુલને 'સંપત્તિ' વિશે શું સમજાવ્યું? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> कालिदास ने कहा कि जीवित प्राणी किसी की संपत्ति नहीं होते। हरिण शावक इस प्रदेश की 'पार्वती' भूमि की संपत्ति है और यहाँ के लोग पशु-पक्षियों को संतानों की तरह मानते हैं। शिकार करना यहाँ अपराध है।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંપત્તિ પથ્થરની હોય, જીવતા જાગતા પ્રાણીની નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "અમ્બિકા કાલિદાસ પ્રત્યે કેવો ભાવ રાખતી હતી? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> अम्बिका कालिदास के प्रति रूखा और विरोधाभासी भाव रखती थी। उसे लगता था कि कालिदास मल्लिका के जीवन में अस्थिरता ला रहा है और वह केवल भावनाओं में जीता है, वास्तविकता में नहीं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મા હંમેશા દીકરીની સુરક્ષા વિચારે, એટલે અમ્બિકા કડક હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ઘાયલ હરિણ શાબકની દશાનું વર્ણન કરો. (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> दंतुल के बाण से घायल होने के कारण हरिण शावक बहुत भयभीत था। उसके शरीर से रक्त बह रहा था और वह दर्द से कांप रहा था। वह कालिदास की गोद में दुबक कर अपनी आँखें बंद किए हुए था।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભય + દર્દ + રક્ત = ઘાયલ શાબકની દશા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "मुहावरे का अर्थ लिखकर वाक्य प्रयोग कीजिए: 'हृदय भर आना'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>अर्थ:</strong> दुखी होना या करुणा उमड़ना।<br><strong>वाक्य:</strong> घायल पक्षी की दशा देखकर मेरा हृदय भर आया।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દયાના ભાવથી મન ભરાઈ જાય એટલે 'હૃદય ભર આના'.</p></div>"
+    }
+  ]
+}
