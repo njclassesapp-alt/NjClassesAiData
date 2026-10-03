@@ -66,3 +66,71 @@ var Std9_Maths_4Marks = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "બહુપદીઓ",
+  "marks": 4,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 4,
+      "question": "બહુપદી p(x) = x³ - 23x² + 142x - 120 ના અવયવ પાડો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong></p><p>અહીં p(x) = x³ - 23x² + 142x - 120 છે.<br>બધા સહગુણકોનો સરવાળો = 1 - 23 + 142 - 120 = 143 - 143 = 0.<br>તેથી, (x - 1) એ p(x) નો એક અવયવ છે.</p><p>હવે, x³ - 23x² + 142x - 120 ને (x - 1) વડે ભાગતા:<br>x³ - x² - 22x² + 22x + 120x - 120<br>= x²(x - 1) - 22x(x - 1) + 120(x - 1)<br>= (x - 1)(x² - 22x + 120)</p><p>દ્વિઘાત બહુપદી x² - 22x + 120 ના અવયવ પાડતા:<br>x² - 12x - 10x + 120 = x(x - 12) - 10(x - 12) = (x - 12)(x - 10)</p><p>આમ, p(x) ના અવયવો: (x - 1)(x - 10)(x - 12) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો બહુપદીના બધા જ સહગુણકોનો સરવાળો 0 થાય, તો (x-1) હંમેશા અવયવ હોય જ! પછી છેલ્લા પદ 120 ના એવા ભાગ પાડો જેનો સરવાળો મધ્યમ પદ 22 થાય (12 × 10).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 4,
+      "question": "યોગ્ય નિત્યસમનો ઉપયોગ કરીને (2x - y + z)² નું વિસ્તરણ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong></p><p>નિત્યસમ: (a + b + c)² = a² + b² + c² + 2ab + 2bc + 2ca નો ઉપયોગ કરતા.</p><p>અહીં a = 2x, b = -y, અને c = z છે.<br>(2x - y + z)² = (2x)² + (-y)² + (z)² + 2(2x)(-y) + 2(-y)(z) + 2(z)(2x)<br>= 4x² + y² + z² - 4xy - 2yz + 4zx</p><p>આમ, વિસ્તરણ 4x² + y² + z² - 4xy - 2yz + 4zx મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હંમેશા યાદ રાખો કે વર્ગ વાળા પદો (a², b², c²) હંમેશા ધન જ રહેશે, ભલે કૌંસમાં પદ ઋણ હોય! ચિહ્નોમાં ભૂલ ન કરવા માટે પદોને કૌંસમાં લખવાની આદત પાડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 4,
+      "question": "અવયવ પાડો: 8x³ + y³ + 27z³ - 18xyz",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong></p><p>અહીં પદાવલિ 8x³ + y³ + 27z³ - 18xyz ને નીચે મુજબ લખી શકાય:<br>= (2x)³ + (y)³ + (3z)³ - 3(2x)(y)(3z)</p><p>નિત્યસમ: a³ + b³ + c³ - 3abc = (a + b + c)(a² + b² + c² - ab - bc - ca) મુજબ:<br>અહીં a = 2x, b = y, c = 3z</p><p>= (2x + y + 3z)[(2x)² + (y)² + (3z)² - (2x)(y) - (y)(3z) - (3z)(2x)]<br>= (2x + y + 3z)(4x² + y² + 9z² - 2xy - 3yz - 6zx)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ '8-નંબરનું નિત્યસમ' છે. પદોને ગોઠવતી વખતે ચેક કરી લો કે 3abc વાળું પદ (3 * 2 * 1 * 3 = 18) સેટ થાય છે કે નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 4,
+      "question": "ચકાસો: x³ + y³ + z³ - 3xyz = 1/2 (x + y + z) [(x - y)² + (y - z)² + (z - x)²]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong></p><p>જમણી બાજુ (RHS) થી શરૂઆત કરતા:<br>= 1/2 (x + y + z) [(x² - 2xy + y²) + (y² - 2yz + z²) + (z² - 2zx + x²)]<br>= 1/2 (x + y + z) [2x² + 2y² + 2z² - 2xy - 2yz - 2zx]<br>= 1/2 (x + y + z) × 2 [x² + y² + z² - xy - yz - zx]<br>= (x + y + z)(x² + y² + z² - xy - yz - zx)</p><p>આ આપણે જાણીએ છીએ તે નિત્યસમ x³ + y³ + z³ - 3xyz નું વિસ્તરણ છે.<br>તેથી, ડાબી બાજુ (LHS) = જમણી બાજુ (RHS) સાબિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ પ્રશ્નમાં હંમેશા જમણી બાજુથી સાદું રૂપ આપવાનું શરૂ કરવું, જેથી ભૂલ થવાની શક્યતા ઘટી જાય અને અંતે નિત્યસમનું મૂળ સ્વરૂપ મળી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 4,
+      "question": "જો x + y + z = 0 હોય, તો સાબિત કરો કે x³ + y³ + z³ = 3xyz. આના પરથી (-12)³ + 7³ + 5³ ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong></p><p>નિત્યસમ: x³ + y³ + z³ - 3xyz = (x + y + z)(x² + y² + z² - xy - yz - zx)<br>જો x + y + z = 0 હોય, તો:<br>x³ + y³ + z³ - 3xyz = (0) × (x² + y² + z² - xy - yz - zx) = 0<br>તેથી, x³ + y³ + z³ = 3xyz સાબિત થાય છે.</p><p>હવે, (-12)³ + 7³ + 5³ માટે:<br>અહીં x = -12, y = 7, z = 5<br>x + y + z = -12 + 7 + 5 = -12 + 12 = 0<br>તેથી, (-12)³ + 7³ + 5³ = 3(-12)(7)(5)<br>= 3 × (-12) × 35 = -36 × 35 = -1260</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે પણ ત્રણ સંખ્યાઓના ઘનનો સરવાળો કરવાનો હોય, ત્યારે સૌથી પહેલા ચેક કરો કે તે સંખ્યાઓનો સરવાળો 0 થાય છે? જો હા, તો સીધો જ 3 × a × b × c કરી નાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 4,
+      "question": "યોગ્ય નિત્યસમનો ઉપયોગ કરીને 99³ ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong></p><p>99³ ને (100 - 1)³ તરીકે લખી શકાય.<br>નિત્યસમ (a - b)³ = a³ - b³ - 3ab(a - b) નો ઉપયોગ કરતા:<br>અહીં a = 100 અને b = 1</p><p>(100 - 1)³ = (100)³ - (1)³ - 3(100)(1)(100 - 1)<br>= 1000000 - 1 - 300(99)<br>= 1000000 - 1 - 29700<br>= 1000000 - 29701<br>= 970299</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગણતરીમાં ભૂલ ન થાય તે માટે હંમેશા 100 ના પાયાવાળી સંખ્યા પસંદ કરો. 3ab(a-b) માં પહેલા 3ab નો ગુણાકાર કરી પછી કૌંસ સાથે ગુણો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 4,
+      "question": "જો x - 1 એ p(x) = 4x³ + 3x² - 4x + k નો એક અવયવ હોય, તો k ની કિંમત શોધો અને p(x) ના બાકીના અવયવો મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong></p><p>જો (x - 1) અવયવ હોય, તો અવયવ પ્રમેય મુજબ p(1) = 0 થાય.<br>p(1) = 4(1)³ + 3(1)² - 4(1) + k = 0<br>4 + 3 - 4 + k = 0<br>3 + k = 0 => k = -3</p><p>હવે, p(x) = 4x³ + 3x² - 4x - 3 ના અવયવ પાડતા:<br>p(x) = x²(4x + 3) - 1(4x + 3)<br>= (4x + 3)(x² - 1)<br>= (4x + 3)(x - 1)(x + 1)</p><p>આમ, k = -3 અને બાકીના અવયવો (4x + 3) અને (x + 1) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): k ની કિંમત શોધવા માટે x ની કિંમત મુકતી વખતે ચિહ્નોનું ખાસ ધ્યાન રાખો. અહીં પદોની જોડી બનાવતા ડાયરેક્ટ સામાન્ય (common) નીકળે છે, તે અવયવ પાડવાની ઝડપી રીત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 4,
+      "question": "બહુપદી p(x) = x³ + 13x² + 32x + 20 ના અવયવ પાડો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong></p><p>અહીં p(-1) ચેક કરતા:<br>p(-1) = (-1)³ + 13(-1)² + 32(-1) + 20<br>= -1 + 13 - 32 + 20 = 33 - 33 = 0.<br>તેથી, (x + 1) એ p(x) નો અવયવ છે.</p><p>x³ + 13x² + 32x + 20 = x³ + x² + 12x² + 12x + 20x + 20<br>= x²(x + 1) + 12x(x + 1) + 20(x + 1)<br>= (x + 1)(x² + 12x + 20)</p><p>દ્વિઘાત બહુપદી x² + 12x + 20 ના અવયવ પાડતા:<br>x² + 10x + 2x + 20 = x(x + 10) + 2(x + 10) = (x + 10)(x + 2)</p><p>આમ, p(x) = (x + 1)(x + 2)(x + 10).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો બધા પદો ધન હોય, તો (x-1) ક્યારેય અવયવ ન હોય, હંમેશા (x+1) અથવા ઋણ સંખ્યા ચેક કરવી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 4,
+      "question": "વિસ્તરણ કરો: (1/4 a - 1/2 b + 1)²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong></p><p>નિત્યસમ: (x + y + z)² = x² + y² + z² + 2xy + 2yz + 2zx<br>અહીં x = a/4, y = -b/2, z = 1</p><p>= (a/4)² + (-b/2)² + (1)² + 2(a/4)(-b/2) + 2(-b/2)(1) + 2(1)(a/4)<br>= a²/16 + b²/4 + 1 - ab/4 - b + a/2</p><p>આમ, વિસ્તરણ a²/16 + b²/4 + 1 - ab/4 - b + a/2 મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અપૂર્ણાંક જોઈને ગભરાશો નહીં! અંશનો ગુણાકાર અંશ સાથે અને છેદનો ગુણાકાર છેદ સાથે કરો અને 2 સાથે છેદ ઉડતા હોય તો ઉડાડી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 4,
+      "question": "અવયવ પાડો: 27p³ - 1/216 - 9/2 p² + 1/4 p",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong></p><p>આ પદાવલિને (a - b)³ ના સ્વરૂપમાં ગોઠવતા:<br>27p³ = (3p)³<br>1/216 = (1/6)³<br>પદાવલિ: (3p)³ - (1/6)³ - 3(3p)²(1/6) + 3(3p)(1/6)²<br>ચકાસણી: 3(9p²)(1/6) = 9/2 p² અને 3(3p)(1/36) = 1/4 p</p><p>આથી, આ (3p - 1/6)³ નું વિસ્તરણ છે.<br>અવયવો: (3p - 1/6)(3p - 1/6)(3p - 1/6)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે પહેલું પદ અને બીજું પદ પૂર્ણઘન હોય, ત્યારે તે મોટેભાગે (a-b)³ અથવા (a+b)³ નું જ સ્વરૂપ હોય છે. માત્ર મધ્યમ પદોની ચકાસણી કરી લો!</p></div>"
+    }
+  ]
+}
