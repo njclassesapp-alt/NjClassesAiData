@@ -134,3 +134,71 @@ var Std9_Maths_4Marks = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "યામ ભૂમિતિ",
+  "marks": 4,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 4,
+      "question": "કાર્તેઝીય યામ પદ્ધતિમાં નીચેના બિંદુઓનું નિરૂપણ કરો અને તે કયા ચરણમાં અથવા કયા અક્ષ પર આવેલા છે તે જણાવો: (4, 5), (-3, 2), (-4, -5), (2, -3), (0, 5), (-3, 0).",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બિંદુઓનું સ્થાન નીચે મુજબ છે:<br>1. (4, 5) : બંને યામ ધન હોવાથી <strong>પ્રથમ ચરણ</strong>માં છે.<br>2. (-3, 2) : x-યામ ઋણ અને y-યામ ધન હોવાથી <strong>દ્વિતીય ચરણ</strong>માં છે.<br>3. (-4, -5) : બંને યામ ઋણ હોવાથી <strong>તૃતીય ચરણ</strong>માં છે.<br>4. (2, -3) : x-યામ ધન અને y-યામ ઋણ હોવાથી <strong>ચતુર્થ ચરણ</strong>માં છે.<br>5. (0, 5) : x-યામ શૂન્ય હોવાથી આ બિંદુ <strong>Y-અક્ષ</strong> પર છે.<br>6. (-3, 0) : y-યામ શૂન્ય હોવાથી આ બિંદુ <strong>X-અક્ષ</strong> પર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચરણ યાદ રાખવા માટે 'C' આકાર બનાવો (I: +,+, II: -,+, III: -,-, IV: +,-). જો કોઈ યામ 0 હોય, તો તે અક્ષ પર જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 4,
+      "question": "યામ સમતલમાં બિંદુઓ A(1, 1), B(5, 1), C(5, 4) અને D(1, 4) નું નિરૂપણ કરો. આ બિંદુઓને ક્રમમાં જોડતા કઈ આકૃતિ બને છે? તેનું ક્ષેત્રફળ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>1. આલેખપત્ર પર X-અક્ષ અને Y-અક્ષ દોરી આપેલ બિંદુઓ A, B, C અને D ને દર્શાવો.<br>2. બિંદુઓને જોડતા મળતી આકૃતિ <strong>લંબચોરસ</strong> છે.<br>3. લંબાઈ AB = |5 - 1| = 4 એકમ.<br>4. પહોળાઈ BC = |4 - 1| = 3 એકમ.<br>5. ક્ષેત્રફળ = લંબાઈ × પહોળાઈ = 4 × 3 = 12 ચોરસ એકમ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે યામ સમાન હોય ત્યારે તફાવત લેવો. અહીં y સમાન છે તો x નો તફાવત લંબાઈ આપે અને x સમાન હોય તો y નો તફાવત પહોળાઈ આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 4,
+      "question": "નીચેના વિધાનો સત્ય છે કે અસત્ય તે કારણ સહિત જણાવો:<br>1. ઊગમબિંદુના યામ (0, 0) છે.<br>2. જો કોઈ બિંદુનો x-યામ 0 હોય, તો તે X-અક્ષ પર હોય.<br>3. બિંદુ (-2, -3) એ બીજા ચરણમાં છે.<br>4. X-અક્ષ અને Y-અક્ષના છેદબિંદુને ઉગમબિંદુ કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>1. <strong>સત્ય:</strong> કાર્તેઝીય પદ્ધતિમાં અક્ષોના છેદબિંદુને (0,0) લેવાય છે.<br>2. <strong>અસત્ય:</strong> જો x-યામ 0 હોય, તો બિંદુ Y-અક્ષ પર હોય.<br>3. <strong>અસત્ય:</strong> (-2, -3) માં બંને યામ ઋણ હોવાથી તે ત્રીજા ચરણમાં આવે.<br>4. <strong>સત્ય:</strong> બંને પરસ્પર લંબ અક્ષોના છેદબિંદુને જ ઉગમબિંદુ (Origin) કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'X-ઝીરો તો Y-અક્ષ' અને 'Y-ઝીરો તો X-અક્ષ'. આ મંત્ર યાદ રાખો ક્યારેય ભૂલ નહીં પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 4,
+      "question": "બિંદુ P(3, 4) નું X-અક્ષ અને Y-અક્ષથી લંબ અંતર શોધો. તેમજ આ બિંદુનું X-અક્ષ અને Y-અક્ષ સાપેક્ષ પ્રતિબિંબ બિંદુના યામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>1. બિંદુ P(3, 4) નું <strong>X-અક્ષથી લંબ અંતર</strong> એટલે |y-યામ| = |4| = 4 એકમ.<br>2. બિંદુ P(3, 4) નું <strong>Y-અક્ષથી લંબ અંતર</strong> એટલે |x-યામ| = |3| = 3 એકમ.<br>3. X-અક્ષ સાપેક્ષ પ્રતિબિંબમાં y ની નિશાની બદલાય: <strong>(3, -4)</strong>.<br>4. Y-અક્ષ સાપેક્ષ પ્રતિબિંબમાં x ની નિશાની બદલાય: <strong>(-3, 4)</strong>.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અંતર પૂછે ત્યારે ઉલટું વિચારી લો (X-અક્ષથી અંતર = y) અને પ્રતિબિંબ પૂછે ત્યારે જે અક્ષ હોય તેને સ્થિર રાખી બીજાની નિશાની બદલો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 4,
+      "question": "એક શહેરના નકશામાં બે મુખ્ય રસ્તાઓ પરસ્પર ઊગમબિંદુ પર છેદે છે. એક ઘર A એ ઉત્તર દિશામાં 3 કિમી અને પૂર્વ દિશામાં 4 કિમી અંતરે છે. બીજું ઘર B એ દક્ષિણ દિશામાં 2 કિમી અને પશ્ચિમ દિશામાં 5 કિમી અંતરે છે. આ બંને ઘરોના યામ લખો અને કયા ચરણમાં છે તે જણાવો. (પૂર્વ-પશ્ચિમ ને X-અક્ષ અને ઉત્તર-દક્ષિણ ને Y-અક્ષ લો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>1. ઘર A: પૂર્વ (x = +4) અને ઉત્તર (y = +3). યામ: <strong>(4, 3)</strong>. ચરણ: <strong>પ્રથમ</strong>.<br>2. ઘર B: પશ્ચિમ (x = -5) અને દક્ષિણ (y = -2). યામ: <strong>(-5, -2)</strong>. ચરણ: <strong>તૃતીય</strong>.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દિશાને યામમાં ફેરવો: પૂર્વ/ઉત્તર = '+', પશ્ચિમ/દક્ષિણ = '-'. બસ, આટલું યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 4,
+      "question": "નીચેના બિંદુઓ કયા અક્ષ પર આવેલા છે તે જણાવો અને તેનું કારણ આપો: (5, 0), (0, -7), (-3, 0), (0, 8).",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>1. (5, 0): <strong>X-અક્ષ</strong> પર છે, કારણ કે તેનો y-યામ શૂન્ય છે.<br>2. (0, -7): <strong>Y-અક્ષ</strong> પર છે, કારણ કે તેનો x-યામ શૂન્ય છે.<br>3. (-3, 0): <strong>X-અક્ષ</strong> પર છે, કારણ કે તેનો y-યામ શૂન્ય છે.<br>4. (0, 8): <strong>Y-અક્ષ</strong> પર છે, કારણ કે તેનો x-યામ શૂન્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે યામ હાજર હોય, બિંદુ તે અક્ષ પર હોય. જો x છે તો X-અક્ષ, જો y છે તો Y-અક્ષ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 4,
+      "question": "યામ સમતલના સંદર્ભમાં નીચેના પારિભાષિક શબ્દો સમજાવો: (1) ક્ષૈતિજ રેખા (2) શિરોલંબ રેખા (3) કોટિ (4) ભુજ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>1. <strong>ક્ષૈતિજ રેખા:</strong> યામ સમતલમાં આવેલી આડી રેખાને X-અક્ષ અથવા ક્ષૈતિજ રેખા કહે છે.<br>2. <strong>શિરોલંબ રેખા:</strong> યામ સમતલમાં આવેલી ઊભી રેખાને Y-અક્ષ અથવા શિરોલંબ રેખા કહે છે.<br>3. <strong>કોટિ (Abscissa):</strong> બિંદુના x-યામને તેની 'કોટિ' કહેવામાં આવે છે.<br>4. <strong>ભુજ (Ordinate):</strong> બિંદુના y-યામને તેનો 'ભુજ' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોટિ = x (પહેલો અક્ષર 'ક' થી 'ક્ષ'), ભુજ = y (યાદ રાખો 'ભુજાય' એટલે કે ઊભું/Y)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 4,
+      "question": "બિંદુઓ A(-2, 4), B(3, 4), અને C(3, -1) ને યામ સમતલમાં દર્શાવો. ચોથું બિંદુ D એવી રીતે શોધો કે જેથી ABCD એક ચોરસ બને. D ના યામ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>1. બિંદુઓ A, B, C ને આલેખ પર મૂકતા જણાશે કે AB એ આડી રેખા છે અને BC એ ઊભી રેખા છે.<br>2. ચોરસ બનાવવા માટે CD એ આડી અને AD એ ઊભી રેખા હોવી જોઈએ.<br>3. D નો x-યામ A જેટલો એટલે કે -2 હશે.<br>4. D નો y-યામ C જેટલો એટલે કે -1 હશે.<br>5. આમ, <strong>D ના યામ (-2, -1)</strong> થશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચોથા બિંદુ માટે બાકીના બિંદુઓના જે યામ એક-એક વાર વપરાયા હોય તેને ભેગા કરી દો! (-2 અને -1 એકલા હતા, તો જોડી બનાવી દો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 4,
+      "question": "જો (x + 2, 4) = (5, y - 1) હોય, તો x અને y ની કિંમત શોધો. આ બિંદુ (x, y) કયા ચરણમાં હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>1. સમાન યામોને સરખાવતા: x + 2 = 5 => x = 5 - 2 = 3.<br>2. y-યામ સરખાવતા: 4 = y - 1 => y = 4 + 1 = 5.<br>3. બિંદુ (x, y) = (3, 5).<br>4. અહીં x અને y બંને ધન હોવાથી આ બિંદુ <strong>પ્રથમ ચરણ</strong>માં છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સરખામણી હંમેશા 'પહેલા સાથે પહેલું' અને 'બીજા સાથે બીજું' જ કરવી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 4,
+      "question": "ચરણોમાં બિંદુઓના યામની નિશાનીઓ સમજાવો અને દરેક ચરણના બે-બે ઉદાહરણો આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>1. <strong>પ્રથમ ચરણ:</strong> (+, +) ઉદા. (2, 3), (5, 8)<br>2. <strong>દ્વિતીય ચરણ:</strong> (-, +) ઉદા. (-1, 4), (-3, 6)<br>3. <strong>તૃતીય ચરણ:</strong> (-, -) ઉદા. (-2, -2), (-5, -7)<br>4. <strong>ચતુર્થ ચરણ:</strong> (+, -) ઉદા. (4, -2), (7, -5)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાઈન સ્કીમ: 1st અને 3rd એકબીજાથી તદ્દન વિરોધી (+ + vs - -). 2nd અને 4th માં x અને y ની અદલાબદલી નિશાની!</p></div>"
+    }
+  ]
+}
