@@ -530,3 +530,136 @@ var Std10_Hindi_SL_Short_QA = {
     }
   ]
 }
+,
+"5": {
+  "chapterNumber": 5,
+  "chapterTitle": "मीरा के पद",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1 (કર્તા-કૃતિ)",
+      "question": "કૃતિ: 'मीरा के पद' - આ કાવ્યના કવયિત્રી કોણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'मीरा के पद' काव्य की कवयित्री <strong>मीराबाई</strong> हैं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મી' થી મીરા અને 'મી' થી મીઠા પદ (કૃષ્ણ ભક્તિ) - આ રીતે યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2 (૧ વાક્ય)",
+      "question": "मीराबाई ने कौन-सा धन पा लिया है?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> मीराबाई ने 'राम-रतन' रूपी धन पा लिया है।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામ નામ એ જ સાચું રત્ન (Diamond) છે, જે ક્યારેય ખોવાતું નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3 (ખાલી જગ્યા)",
+      "question": "सत की नाव खेवटिया ______, भवसागर तर आयो।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> सतगुरु</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવનની નૌકા પાર ઉતારવા માટે હંમેશા 'ગુરુ' ની જરૂર પડે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4 (વ્યાકરણ - પર્યાયવાચી)",
+      "question": "'अमोलक' शब्द का अर्थ स्पष्ट कीजिए।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> अमोलक का अर्थ है - 'अमूल्य' जिसका कोई मूल्य न हो (Priceless)।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અ + મોલ (કિંમત) = જેની કોઈ કિંમત ન થઈ શકે તેવું કિંમતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5 (૧ વાક્ય)",
+      "question": "राणाजी ने मीरा के लिए क्या भेजा था?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> राणाजी ने मीरा के लिए 'विष का प्याला' (ज़हर) भेजा था।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાણાએ મોકલ્યું ઝેર (विष), પણ કૃષ્ણ ભક્તિમાં તે બની ગયું અમૃત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6 (૨ ગુણ)",
+      "question": "मीराबाई ने राम रतन धन की क्या विशेषताएँ बताई हैं?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> मीराबाई के अनुसार राम रतन धन अमूल्य है। इसे न कोई खर्च कर सकता है और न ही चोर इसे चुरा सकता है। यह धन प्रतिदिन (दिन-दिन) सवाया होकर बढ़ता रहता है।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 No યાદ રાખો: No ખર્ચ, No ચોરી, No ઘટાડો (માત્ર વધારો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7 (વ્યાકરણ - વિરોધી)",
+      "question": "'लाभ' शब्द का विलोम शब्द लिखिए।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> लाभ ❌ हानि</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતી જેવું જ સરળ છે, લાભની સામે નુકસાન (હાનિ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8 (૧ વાક્ય)",
+      "question": "मीराबाई किसकी भक्ति करती हैं?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> मीराबाई श्रीकृष्ण (गिरधर गोपाल) की भक्ति करती हैं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીરા-માધવ (કૃષ્ણ) ની જોડી જગપ્રસિદ્ધ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9 (ખાલી જગ્યા)",
+      "question": "मीरा के प्रभु ______ नागर, हरख-हरख जस गायो।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> गिरधर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગિરિ (પર્વત) ને ધારણ કરનાર એટલે 'ગિરધર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10 (વ્યાકરણ - શબ્દ સમૂહ)",
+      "question": "'नाव चलाने वाला' - शब्द समूह के लिए एक शब्द दीजिए।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> खेवटिया (मल्लाह)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્યમાં 'ખેવટિયા સદગુરુ' શબ્દ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11 (૨ ગુણ)",
+      "question": "मीराबाई ने संसार में क्या खोकर राम रतन धन प्राप्त किया है?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> मीराबाई ने प्रभु की भक्ति के लिए अपनी लोक-लाज और कुल की मर्यादा को छोड़ दिया। उन्होंने सांसारिक सुखों को त्याग दिया और साधुओं की संगति में रहकर ईश्वर को पा लिया।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કંઈક મેળવવા માટે કંઈક ખોવું પડે - અહીં મીરાએ 'લોકલાજ' ખોઈ ભક્તિ મેળવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12 (વ્યાકરણ - સમાનાર્થી)",
+      "question": "'हर्ष' शब्द का पर्यायवाची शब्द लिखिए।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> हर्ष = खुशी, आनंद, प्रसन्नता।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હર્ષ એટલે કે આનંદ (Happiness).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13 (૧ વાક્ય)",
+      "question": "मीરાના ગુરુ કોણ હતા? (मीरा के गुरु कौन थे?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> मीरा के गुरु संत रैदास (रविदास) थे।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ર-ર જોડી: રૈદાસ - रविदास.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14 (ખાલી જગ્યા)",
+      "question": "राणाजी ने विष का प्याला भेजा, पीवत मीरा ______।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> हाँसी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીરાને કૃષ્ણ પર વિશ્વાસ હતો, એટલે તે ઝેર પીતા પણ હસી પડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15 (વ્યાકરણ - મુહાવરો)",
+      "question": "'भवसागर तरना' मुहावरे का अर्थ क्या है?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> भवसागर तरना = संसार रूपी मायाजाल से मुक्त होना (मोक्ष पाना)।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભવ (દુનિયા) + સાગર (સમુદ્ર) = દુનિયાના સાગરને પાર કરવો (મોક્ષ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16 (૧ વાક્ય)",
+      "question": "मीराबाई के आराध्य देव कौन हैं?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> मीराबाई के आराध्य देव श्रीकृष्ण हैं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આરાધ્ય એટલે જેની પૂજા કરીએ છીએ તે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17 (૨ ગુણ)",
+      "question": "मीराबाई ने अपनी भक्ति को किस प्रकार व्यक्त किया है?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> मीराबाई कहती हैं कि उन्होंने जनम-जनम की पूँजी पा ली है। उन्होंने भगवान को अपना सर्वस्व मान लिया है और वे हर्षित होकर उनके यश का गान करती हैं। वे ईश्वर भक्ति को ही जीवन का एकमात्र सत्य मानती हैं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સદગુરુની કૃપા + હર્ષથી ગુણગાન = મીરાની ભક્તિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18 (વ્યાકરણ - વિરોધી)",
+      "question": "'सत्य' शब्द का विलोम शब्द लिखिए।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> सत्य ❌ असत्य</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ' પ્રત્યય લગાવવાથી વિરોધી બની જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19 (૧ વાક્ય)",
+      "question": "मीराबाई किसकी संगति में बैठती थीं?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> मीराबाई साधु-संतों की संगति में बैठती थीं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્ય પંક્તિ - 'સાધુ સંગ બેઠ બેઠ...'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20 (ખાલી જગ્યા)",
+      "question": "पायो जी मैंने राम रतन ______।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> धन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામ નામ એ જ મીરાની ખરી સંપત્તિ (ધન) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21 (વ્યાકરણ - સમાનાર્થી)",
+      "question": "'जगत' शब्द का पर्यायवाची लिखिए।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> जगत = संसार, दुनिया, विश्व।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ગતિમાન છે તે જગત (દુનિયા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22 (૧ વાક્ય)",
+      "question": "मीરાના પદ કઈ ભાષામાં લખાયેલા છે? (મુખ્યત્વે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> मीरा के पद मुख्य रूप से राजस्थानी मिश्रित ब्रजभाषा में हैं।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજસ્થાનની રાજકુમારી હતી, એટલે રાજસ્થાની + કૃષ્ણની ભાષા બ્રજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23 (૨ ગુણ)",
+      "question": "मीराबाई के अनुसार 'नाम-स्मरण' का क्या महत्त्व है?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> मीराबाई मानती हैं कि राम-नाम का स्मरण करने से संसार के सभी दुखों से मुक्ति मिल जाती है। यह एक ऐसी पूँजी है जो मनुष्य को भवसागर से पार उतार देती है और जिसे कोई चुरा नहीं सकता।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ-સ્મરણ = મુક્તિની ચાવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24 (વ્યાકરણ - વિરોધી)",
+      "question": "'दिन' शब्द का विलोમ शब्द लिखिए।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> दिन ❌ रात</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિવસ અને રાત - સાવ સરળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25 (૧ વાક્ય)",
+      "question": "કવિતામાં 'સવાય' થવાનો અર્થ શું છે? (कविता में 'सवाया' होने का क्या अर्थ है?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'सवाया' होने का अर्थ है - पहले से अधिक बढ़ना या वृद्धि होना।</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧.૨૫ (સવા) - એટલે કે મૂળ કરતાં વધારે.</p></div>"
+    }
+  ]
+}
