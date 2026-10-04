@@ -338,3 +338,71 @@ var Std9_Maths_4Marks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "રેખાઓ અને ખૂણાઓ",
+  "marks": 4,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 4,
+      "question": "પ્રમેય 6.1: સાબિત કરો કે, પરસ્પર છેદતી બે રેખાઓથી બનતા અભિકોણો સમાન હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>પક્ષ:</strong> રેખા AB અને CD પરસ્પર O બિંદુમાં છેદે છે.</p><p><strong>સાધ્ય:</strong> (i) ∠AOC = ∠BOD અને (ii) ∠AOD = ∠BOC</p><p><strong>સાબિતી:</strong></p><p>1. કિરણ OA એ રેખા CD પર છે. <br> તેથી, ∠AOC + ∠AOD = 180° (રૈખિક જોડના ખૂણા) --- (1)</p><p>2. કિરણ OD એ રેખા AB પર છે. <br> તેથી, ∠AOD + ∠BOD = 180° (રૈખિક જોડના ખૂણા) --- (2)</p><p>3. સમીકરણ (1) અને (2) પરથી: <br> ∠AOC + ∠AOD = ∠AOD + ∠BOD</p><p>4. બંને બાજુથી ∠AOD બાદ કરતા: <br> ∠AOC = ∠BOD</p><p>તે જ રીતે સાબિત કરી શકાય કે, ∠AOD = ∠BOC. <br> આમ, અભિકોણો સમાન હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘X’ આકાર યાદ રાખો. સામ-સામેના ખૂણા ‘V’ આકાર બનાવે છે. રૈખિક જોડનો સરવાળો 180° લઈને એક સામાન્ય ખૂણો (Common Angle) બંને બાજુથી કાઢી નાખવાથી જવાબ તરત મળી જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 4,
+      "question": "પ્રમેય 6.7: સાબિત કરો કે, ત્રિકોણના ત્રણેય ખૂણાઓનો સરવાળો 180° થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>પક્ષ:</strong> ΔPQR આપેલ છે, જેના ખૂણાઓ ∠1, ∠2 અને ∠3 છે.</p><p><strong>સાધ્ય:</strong> ∠1 + ∠2 + ∠3 = 180°</p><p><strong>રચના:</strong> બિંદુ P માંથી પસાર થતી અને QR ને સમાંતર રેખા XY દોરો.</p><p><strong>સાબિતી:</strong></p><p>1. XY || QR અને છેદિકા PQ છે. <br> તેથી, ∠4 = ∠2 (યુગ્મકોણ) --- (1)</p><p>2. XY || QR અને છેદિકા PR છે. <br> તેથી, ∠5 = ∠3 (યુગ્મકોણ) --- (2)</p><p>3. હવે, XPY એક રેખા છે. <br> તેથી, ∠4 + ∠1 + ∠5 = 180° (સરળકોણ પરના ખૂણા)</p><p>4. સમીકરણ (1) અને (2) ની કિંમતો મુકતા: <br> ∠2 + ∠1 + ∠3 = 180° <br> એટલે કે, ∠1 + ∠2 + ∠3 = 180°.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શિરોબિંદુ પાસે સમાંતર રેખા દોરીને 'Z' આકાર (યુગ્મકોણ) શોધો. યુગ્મકોણોને રૈખિક પટ્ટી (180°) માં ગોઠવતા જ સાબિતી પૂરી થઈ જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 4,
+      "question": "આકૃતિમાં રેખા POQ છે. કિરણ OR રેખા PQ ને લંબ છે. કિરણ OP અને OR વચ્ચે અન્ય એક કિરણ OS આવેલું છે. સાબિત કરો કે, ∠ROS = 1/2 (∠QOS - ∠POS).",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાબિતી:</strong></p><p>1. અહીં OR ⊥ PQ છે, તેથી ∠ROQ = 90° અને ∠ROP = 90°.</p><p>2. હવે, ∠ROS + ∠POS = ∠ROP = 90° <br> તેથી, ∠ROS = 90° - ∠POS --- (1)</p><p>3. વળી, ∠QOS = ∠ROQ + ∠ROS <br> ∠QOS = 90° + ∠ROS <br> તેથી, ∠ROS = ∠QOS - 90° --- (2)</p><p>4. સમીકરણ (1) અને (2) નો સરવાળો કરતા: <br> 2 ∠ROS = (90° - ∠POS) + (∠QOS - 90°) <br> 2 ∠ROS = ∠QOS - ∠POS</p><p>5. તેથી, ∠ROS = 1/2 (∠QOS - ∠POS).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ દાખલામાં ∠ROS ને બે રીતે લખો (એકવાર 90 માંથી બાદ કરીને અને એકવાર 90 માં ઉમેરીને). બંનેનો સરવાળો કરતા જ 90 ઉડી જશે અને જવાબ મળી જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 4,
+      "question": "આકૃતિમાં ΔPQR ની બાજુ QR ને S બિંદુ સુધી લંબાવવામાં આવી છે. જો ∠PQR અને ∠PRS ના દ્વિભાજકો બિંદુ T માં છેદતા હોય, તો સાબિત કરો કે ∠QTR = 1/2 ∠QPR.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાબિતી:</strong></p><p>1. ΔTQR માં, ∠TRS એ બહિષ્કોણ છે. <br> ∠TRS = ∠TQR + ∠QTR <br> ∠QTR = ∠TRS - ∠TQR --- (1)</p><p>2. ΔPQR માં, ∠PRS એ બહિષ્કોણ છે. <br> ∠PRS = ∠PQR + ∠QPR</p><p>3. QT અને RT દ્વિભાજકો હોવાથી: <br> 2∠TRS = 2∠TQR + ∠QPR <br> 2(∠TRS - ∠TQR) = ∠QPR</p><p>4. સમીકરણ (1) ની કિંમત મુકતા: <br> 2∠QTR = ∠QPR <br> ∠QTR = 1/2 ∠QPR.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'બહિષ્કોણ = બે અંતઃસંમુખ કોણનો સરવાળો' - આ નિયમ બે વાર વાપરો (એકવાર નાના ત્રિકોણ માટે અને એકવાર મોટા ત્રિકોણ માટે). દ્વિભાજક એટલે અડધું અથવા બમણું, તે યાદ રાખવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 4,
+      "question": "આકૃતિમાં AB || CD અને CD || EF છે. વળી y : z = 3 : 7 હોય, તો x નું મૂલ્ય શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>1. AB || CD અને CD || EF હોવાથી AB || EF થાય.</p><p>2. AB || EF હોવાથી, x = z (યુગ્મકોણ) --- (1)</p><p>3. AB || CD હોવાથી, x + y = 180° (છેદિકાની એક જ તરફના અંતઃકોણ)</p><p>4. સમીકરણ (1) પરથી, z + y = 180°.</p><p>5. ગુણોત્તર y : z = 3 : 7 આપેલ છે. ધારો કે y = 3k અને z = 7k. <br> 3k + 7k = 180° <br> 10k = 180° => k = 18°.</p><p>6. z = 7k = 7 × 18° = 126°.</p><p>7. x = z હોવાથી, x = 126°.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે ગુણોત્તર આપ્યો હોય ત્યારે 'k' ધારી લેવો. યાદ રાખો કે સમાંતર રેખાઓમાં પહેલી અને છેલ્લી રેખાના ખૂણા હંમેશા 'Z' (યુગ્મકોણ) બનાવતા હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 4,
+      "question": "આકૃતિમાં PQ અને RS બે અરીસા છે જે એકબીજાને સમાંતર છે. આપાતકિરણ AB અરીસા PQ ને B પર અથડાય છે અને પરાવર્તિત કિરણ BC પથ પર ચાલી અરીસા RS ને C પર અથડાય છે અને ફરી પાછું CD પથ પર પરાવર્તિત થાય છે. સાબિત કરો કે AB || CD.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>રચના:</strong> બિંદુ B પર લંબ BM અને C પર લંબ CN દોરો.</p><p><strong>સાબિતી:</strong></p><p>1. વિજ્ઞાનના નિયમ મુજબ, આપાતકોણ = પરાવર્તન કોણ. <br> ∠1 = ∠2 અને ∠3 = ∠4.</p><p>2. BM ⊥ PQ અને CN ⊥ RS છે, વળી PQ || RS હોવાથી BM || CN થાય.</p><p>3. BM || CN અને છેદિકા BC છે, તેથી ∠2 = ∠3 (યુગ્મકોણ).</p><p>4. હવે, 2∠2 = 2∠3 <br> ∠1 + ∠2 = ∠3 + ∠4 (કારણ કે ∠1=∠2 અને ∠3=∠4) <br> ∠ABC = ∠BCD</p><p>5. આ યુગ્મકોણો સમાન હોવાથી, AB || CD સાબિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ 'ઝિગ-ઝેગ' (Zig-Zag) દાખલો છે. લંબ દોરો એટલે બે જોડી સમાન ખૂણા મળશે. યુગ્મકોણનો ઉપયોગ કરીને આખા ખૂણાઓને સમાન બતાવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 4,
+      "question": "જો એક છેદિકા બે સમાંતર રેખાઓને છેદે, તો સાબિત કરો કે અંતઃકોણના દ્વિભાજકો લંબચોરસ બનાવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાબિતી:</strong></p><p>1. ધારો કે બે સમાંતર રેખાઓ AB અને CD ને છેદિકા PS છેદે છે.</p><p>2. દ્વિભાજકો દ્વારા બનતો ચતુષ્કોણ PQRS છે.</p><p>3. છેદિકાની એક જ તરફના અંતઃકોણનો સરવાળો 180° હોય છે. <br> ∠BQR + ∠DRQ = 180°</p><p>4. અડધા ખૂણા લેતા: 1/2 ∠BQR + 1/2 ∠DRQ = 90° <br> ∠SQR + ∠SRQ = 90°</p><p>5. ΔSQR માં, ∠QSR = 180° - 90° = 90°.</p><p>6. આ જ રીતે ચતુષ્કોણના તમામ ખૂણા 90° સાબિત કરી શકાય. જે ચતુષ્કોણના ખૂણા 90° હોય તે લંબચોરસ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યાદ રાખો, સમાંતર રેખાના અડધા ખૂણાઓનો સરવાળો હંમેશા 90° થાય. જો ત્રિકોણમાં બે ખૂણાનો સરવાળો 90° હોય, તો ત્રીજો ખૂણો આપોઆપ 90° (કાટખૂણો) બની જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 4,
+      "question": "આકૃતિમાં જો AB || CD, ∠APQ = 50° અને ∠PRD = 127° હોય, તો x અને y શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>1. AB || CD અને છેદિકા PQ છે. <br> તેથી, ∠PQR = ∠APQ (યુગ્મકોણ) <br> x = 50°.</p><p>2. AB || CD અને છેદિકા PR છે. <br> તેથી, ∠APR = ∠PRD (યુગ્મકોણ) <br> 50° + y = 127°</p><p>3. y = 127° - 50° <br> y = 77°.</p><p>આમ, x = 50° અને y = 77°.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે પણ 'Z' આકાર દેખાય ત્યારે યુગ્મકોણનો નિયમ લગાવો. આ દાખલામાં બે 'Z' બને છે: એક નાનો (x માટે) અને એક મોટો (50+y માટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 4,
+      "question": "પ્રમેય 6.8: સાબિત કરો કે, જો ત્રિકોણની એક બાજુને લંબાવવામાં આવે, તો આ પ્રકારે બનેલ બહિષ્કોણ બંને અંતઃસંમુખકોણના સરવાળા સમાન હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>પક્ષ:</strong> ΔABC આપેલ છે. બાજુ BC ને D સુધી લંબાવતા બહિષ્કોણ ∠ACD બને છે.</p><p><strong>સાધ્ય:</strong> ∠ACD = ∠A + ∠B</p><p><strong>સાબિતી:</strong></p><p>1. ΔABC માં, ∠A + ∠B + ∠ACB = 180° (ત્રિકોણના ખૂણાનો સરવાળો) --- (1)</p><p>2. બિંદુ C આગળ, ∠ACB + ∠ACD = 180° (રૈખિક જોડના ખૂણા) --- (2)</p><p>3. સમીકરણ (1) અને (2) ને સરખાવતા: <br> ∠A + ∠B + ∠ACB = ∠ACB + ∠ACD</p><p>4. બંને બાજુથી ∠ACB દૂર કરતા: <br> ∠A + ∠B = ∠ACD</p><p>આમ, બહિષ્કોણનું માપ અંતઃસંમુખકોણના સરવાળા જેટલું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ સાબિતીમાં '180' એ કોમન કનેક્શન છે. રૈખિક જોડ અને ત્રિકોણના સરવાળાને સરખાવો, જે ખૂણો કોમન હોય તેને કાઢી નાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 4,
+      "question": "જો બે રેખાઓ પરસ્પર છેદે, તો સાબિત કરો કે રૈખિક જોડના ખૂણાઓના દ્વિભાજકો વચ્ચેનો ખૂણો 90° હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાબિતી:</strong></p><p>1. ધારો કે રેખા AB પર બિંદુ O છે અને કિરણ OC આવેલું છે.</p><p>2. ∠AOC અને ∠BOC રૈખિક જોડ બનાવે છે. <br> તેથી, ∠AOC + ∠BOC = 180°.</p><p>3. ધારો કે OX એ ∠AOC નો અને OY એ ∠BOC નો દ્વિભાજક છે.</p><p>4. ∠XOC = 1/2 ∠AOC અને ∠YOC = 1/2 ∠BOC.</p><p>5. હવે, દ્વિભાજકો વચ્ચેનો ખૂણો ∠XOY = ∠XOC + ∠YOC <br> ∠XOY = 1/2 ∠AOC + 1/2 ∠BOC <br> ∠XOY = 1/2 (∠AOC + ∠BOC)</p><p>6. કિંમત મુકતા, ∠XOY = 1/2 (180°) = 90°.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દ્વિભાજક એટલે 'અડધું'. જો આખી લાઇન 180° હોય, તો તેના અડધા ભાગોનો સરવાળો હંમેશા 180 ના અડધા એટલે કે 90° જ થાય!</p></div>"
+    }
+  ]
+}
