@@ -406,3 +406,71 @@ var Std9_Maths_4Marks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "ત્રિકોણ",
+  "marks": 4,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 4,
+      "question": "પ્રમેય 7.1 (ખૂબાખૂ શરત): જો એક ત્રિકોણના બે ખૂણા અને તેની અંતર્ગત બાજુ, બીજા ત્રિકોણના અનુરૂપ બે ખૂણા અને તેની અંતર્ગત બાજુને સમાન હોય, તો તે બે ત્રિકોણો એકરૂપ છે તેમ સાબિત કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પક્ષ: $\\triangle ABC$ અને $\\triangle DEF$ માં $\\angle B = \\angle E$, $\\angle C = \\angle F$ અને બાજુ $BC = EF$.<br>સાધ્ય: $\\triangle ABC \\cong \\triangle DEF$.<br>સાબિતી: અહીં ત્રણ વિકલ્પો શક્ય છે:<br>1) ધારો કે $AB = DE$ છે. તો બાખૂબા શરત મુજબ $\\triangle ABC \\cong \\triangle DEF$ સાબિત થાય.<br>2) ધારો કે $AB > DE$. $AB$ પર બિંદુ $P$ એવું લો કે જેથી $PB = DE$ થાય. હવે $\\triangle PBC$ અને $\\triangle DEF$ માં $PB=DE$, $\\angle B = \\angle E$ અને $BC=EF$ હોવાથી બાખૂબા મુજબ $\\triangle PBC \\cong \\triangle DEF$. આથી $\\angle PCB = \\angle DFE$ (CPCT). પણ પક્ષ મુજબ $\\angle ACB = \\angle DFE$, તેથી $\\angle PCB = \\angle ACB$ જે ત્યારે જ શક્ય છે જ્યારે $P$ અને $A$ એક જ બિંદુ હોય. આમ $AB=DE$.<br>3) ધારો કે $AB < DE$. આ કિસ્સામાં $DE$ પર બિંદુ $M$ લઈને સમાન રીતે સાબિત કરી શકાય કે $AB=DE$.<br>આમ, ત્રણેય કિસ્સામાં $\\triangle ABC \\cong \\triangle DEF$ સાબિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખૂબાખૂ પ્રમેયમાં હંમેશા ત્રણ શક્યતાઓ (વધુ, ઓછું કે સમાન) વિચારીને વિરોધાભાસની રીતથી સાબિતી આપવી સરળ પડે છે. 'CPCT' ને ક્યારેય ભૂલશો નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 4,
+      "question": "$ABC$ એક સમદ્રિબાજુ ત્રિકોણ છે જેમાં $AB = AC$ છે. બાજુ $BA$ ને $D$ સુધી એવી લંબાવો કે જેથી $AD = AB$ થાય. સાબિત કરો કે $\\angle BCD$ કાટખૂણો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> $\\triangle ABC$ માં, $AB = AC$ (પક્ષ) $\\therefore \\angle ABC = \\angle ACB$ (સમાન બાજુના સામેના ખૂણા) --- (1)<br>હવે $AD = AB$ અને $AB = AC$ હોવાથી $AD = AC$ થાય.<br>$\\triangle ADC$ માં, $AD = AC \\therefore \\angle ADC = \\angle ACD$ (સમાન બાજુના સામેના ખૂણા) --- (2)<br>$\\triangle BCD$ ના ત્રણેય ખૂણાનો સરવાળો $180^\\circ$ થાય.<br>$\\angle B + \\angle BCD + \\angle D = 180^\\circ$<br>$\\angle ACB + (\\angle ACB + \\angle ACD) + \\angle ACD = 180^\\circ$ [(1) અને (2) પરથી]<br>$2(\\angle ACB + \\angle ACD) = 180^\\circ$<br>$2(\\angle BCD) = 180^\\circ \\therefore \\angle BCD = 90^\\circ$. આમ, $\\angle BCD$ કાટખૂણો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે કોઈ ખૂણો 90 સાબિત કરવો હોય ત્યારે તેને બે સમાન ખૂણાઓના સરવાળા સ્વરૂપે દર્શાવીને કુલ સરવાળો $180^\\circ$ કરી દો. એટલે કે $2x = 180$, તેથી $x = 90$!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 4,
+      "question": "$ABC$ અને $DBC$ સમાન પાયા $BC$ પર આવેલા બે સમદ્રિબાજુ ત્રિકોણ છે. શિરોબિંદુઓ $A$ અને $D$ એ $BC$ ની એક જ બાજુએ આવેલા છે. જો $AD$ ને લંબાવતા તે $BC$ ને $P$ માં છેદે, તો સાબિત કરો કે: (i) $\\triangle ABD \\cong \\triangle ACD$ (ii) $\\triangle ABP \\cong \\triangle ACP$.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (i) $\\triangle ABD$ અને $\\triangle ACD$ માં: <br>$AB = AC$ (પક્ષ), $BD = CD$ (પક્ષ) અને $AD = AD$ (સામાન્ય બાજુ). <br>બાબાબા શરત મુજબ $\\triangle ABD \\cong \\triangle ACD$. આથી $\\angle BAD = \\angle CAD$ (CPCT).<br>(ii) $\\triangle ABP$ અને $\\triangle ACP$ માં: <br>$AB = AC$ (પક્ષ), $\\angle BAP = \\angle CAP$ (સાબિત કર્યું) અને $AP = AP$ (સામાન્ય બાજુ). <br>બાખૂબા શરત મુજબ $\\triangle ABP \\cong \\triangle ACP$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ પ્રશ્નમાં સાંકળ (Chain) પદ્ધતિ વાપરો. પહેલા નાના ત્રિકોણ સાબિત કરો, તેના પરથી ખૂણો મેળવો અને પછી મોટા ત્રિકોણ સાબિત કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 4,
+      "question": "ત્રિકોણ $ABC$ માં $\\angle A$ નો દ્વિભાજક $AD$ એ બાજુ $BC$ ને લંબ છે. સાબિત કરો કે $AB = AC$ અને $\\triangle ABC$ સમદ્રિબાજુ ત્રિકોણ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> $\\triangle ABD$ અને $\\triangle ACD$ માં,<br>$\\angle BAD = \\angle CAD$ ($AD$ એ $\\angle A$ નો દ્વિભાજક છે)<br>$AD = AD$ (સામાન્ય બાજુ)<br>$\\angle ADB = \\angle ADC = 90^\\circ$ ($AD \\perp BC$)<br>તેથી, ખૂબાખૂ શરત મુજબ, $\\triangle ABD \\cong \\triangle ACD$.<br>હવે, CPCT મુજબ $AB = AC$.<br>જે ત્રિકોણની બે બાજુઓ સમાન હોય તેને સમદ્રિબાજુ ત્રિકોણ કહેવાય. તેથી $\\triangle ABC$ સમદ્રિબાજુ ત્રિકોણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'દ્વિભાજક' અને 'લંબ' શબ્દ દેખાય એટલે સમજી લેવું કે ખૂબાખૂ (ASA) અથવા ખૂબાખૂ (AAS) શરતનો ઉપયોગ થશે જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 4,
+      "question": "પ્રમેય 7.3: ત્રિકોણના સમાન ખૂણાની સામેની બાજુઓ સમાન હોય છે તેમ સાબિત કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પક્ષ: $\\triangle ABC$ માં $\\angle B = \\angle C$.<br>સાધ્ય: $AB = AC$.<br>રચના: $\\angle A$ નો દ્વિભાજક દોરો જે $BC$ ને $D$ માં મળે.<br>સાબિતી: $\\triangle ABD$ અને $\\triangle ACD$ માં,<br>$\\angle B = \\angle C$ (પક્ષ)<br>$\\angle BAD = \\angle CAD$ (રચના)<br>$AD = AD$ (સામાન્ય બાજુ)<br>ખૂખૂબા (AAS) શરત મુજબ, $\\triangle ABD \\cong \\triangle ACD$.<br>તેથી CPCT મુજબ $AB = AC$ સાબિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રમેય સાબિત કરવા માટે હંમેશા એક 'રચના' (Construction) યાદ રાખો. અહીં ખૂણાનો દ્વિભાજક એ જ ચાવી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 4,
+      "question": "$ABC$ એક સમદ્રિબાજુ ત્રિકોણ છે જેમાં $AB = AC$ છે. $BE$ અને $CF$ એ સમાન બાજુઓ $AC$ અને $AB$ પરના વેધ છે. સાબિત કરો કે આ વેધ સમાન છે ($BE = CF$).",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> $\\triangle ABE$ અને $\\triangle ACF$ માં,<br>$\\angle AEB = \\angle AFC = 90^\\circ$ (વેધ હોવાથી)<br>$\\angle A = \\angle A$ (સામાન્ય ખૂણો)<br>$AB = AC$ (પક્ષ)<br>તેથી, ખૂબાખૂ (AAS) શરત મુજબ, $\\triangle ABE \\cong \\triangle ACF$.<br>હવે, CPCT મુજબ $BE = CF$ સાબિત થાય છે. આમ, વેધ સમાન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે વેધ (Altitude) સમાન સાબિત કરવા હોય, ત્યારે હંમેશા તે વેધ જેનો ભાગ હોય તેવા બે ત્રિકોણોની એકરૂપતા તપાસવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 4,
+      "question": "$ABC$ સમદ્રિબાજુ ત્રિકોણ છે જેમાં $AB = AC$. $AD$ એ $BC$ પરનો વેધ છે. સાબિત કરો કે (i) $AD$ એ $BC$ ને દુભાગે છે (ii) $AD$ એ $\\angle A$ ને દુભાગે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> $\\triangle ABD$ અને $\\triangle ACD$ માં,<br>$\\angle ADB = \\angle ADC = 90^\\circ$ ($AD$ વેધ છે)<br>$AB = AC$ (કર્ણ - પક્ષ)<br>$AD = AD$ (સામાન્ય બાજુ)<br>તેથી, કાખબા (RHS) શરત મુજબ, $\\triangle ABD \\cong \\triangle ACD$.<br>(i) $BD = CD$ (CPCT પરથી), તેથી $AD$ એ $BC$ ને દુભાગે છે.<br>(ii) $\\angle BAD = \\angle CAD$ (CPCT પરથી), તેથી $AD$ એ $\\angle A$ ને દુભાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાટકોણ ત્રિકોણ અને કર્ણની વાત આવે ત્યારે 'કાખબા' (RHS) શરત સૌથી પહેલા મગજમાં આવવી જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 4,
+      "question": "$ABC$ અને $PQR$ બે ત્રિકોણ છે. $AB = PQ$, $BC = QR$ અને મધ્યગા $AM = PN$ છે. સાબિત કરો કે $\\triangle ABC \\cong \\triangle PQR$.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મધ્યગા $AM$ એ $BC$ ને દુભાગે છે, તેથી $BM = \\frac{1}{2} BC$.<br>તે જ રીતે $QN = \\frac{1}{2} QR$.<br>પક્ષમાં $BC = QR$ હોવાથી $BM = QN$ થાય.<br>હવે $\\triangle ABM$ અને $\\triangle PQN$ માં,<br>$AB = PQ$, $BM = QN$ અને $AM = PN$.<br>તેથી બાબાબા મુજબ $\\triangle ABM \\cong \\triangle PQN$.<br>આથી $\\angle B = \\angle Q$ (CPCT).<br>હવે $\\triangle ABC$ અને $\\triangle PQR$ માં,<br>$AB = PQ$, $\\angle B = \\angle Q$ અને $BC = QR$.<br>તેથી બાખૂબા મુજબ $\\triangle ABC \\cong \\triangle PQR$ સાબિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મધ્યગા (Median) વાળો દાખલો હોય ત્યારે પાયાના અડધા ભાગ સમાન બતાવી પહેલા નાના ત્રિકોણ એકરૂપ કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 4,
+      "question": "રેખાખંડ $AB$ એ બીજા રેખાખંડ $CD$ ને સમાંતર છે. $O$ એ $AD$ નું મધ્યબિંદુ છે. સાબિત કરો કે (i) $\\triangle AOB \\cong \\triangle DOC$ (ii) $O$ એ $BC$ નું પણ મધ્યબિંદુ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (i) $\\triangle AOB$ અને $\\triangle DOC$ માં:<br>$\\angle OAB = \\angle ODC$ (યુગ્મકોણ, કારણ કે $AB \\parallel CD$)<br>$OA = OD$ ($O$ એ $AD$ નું મધ્યબિંદુ છે)<br>$\\angle AOB = \\angle DOC$ (અભિકોણ)<br>તેથી, ખૂબાખૂ શરત મુજબ $\\triangle AOB \\cong \\triangle DOC$.<br>(ii) CPCT મુજબ $OB = OC$ થાય. તેથી $O$ એ $BC$ નું પણ મધ્યબિંદુ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે સમાંતર રેખાઓ દેખાય ત્યારે 'Z' આકાર શોધો (યુગ્મકોણ) અને જ્યાં 'X' બને ત્યાં અભિકોણ (Vertically Opposite Angles) નો ઉપયોગ કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 4,
+      "question": "પ્રમેય 7.2: સાબિત કરો કે સમદ્રિબાજુ ત્રિકોણની બે સમાન બાજુઓની સામેના ખૂણા સમાન હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પક્ષ: $\\triangle ABC$ માં $AB = AC$.<br>સાધ્ય: $\\angle B = \\angle C$.<br>રચના: $\\angle A$ નો દ્વિભાજક $AD$ દોરો જે $BC$ ને $D$ માં મળે.<br>સાબિતી: $\\triangle ABD$ અને $\\triangle ACD$ માં,<br>$AB = AC$ (પક્ષ)<br>$\\angle BAD = \\angle CAD$ (રચના: $AD$ એ $\\angle A$ નો દ્વિભાજક છે)<br>$AD = AD$ (સામાન્ય બાજુ)<br>બાખૂબા (SAS) નિયમ મુજબ, $\\triangle ABD \\cong \\triangle ACD$.<br>તેથી, CPCT મુજબ $\\angle ABD = \\angle ACD$.<br>એટલે કે $\\angle B = \\angle C$ સાબિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ પ્રકરણનો સૌથી પાયાનો પ્રમેય! 'બાખૂબા' યાદ રાખો અને દ્વિભાજક દોરીને બે ટુકડા કરી દો. જવાબ તૈયાર!</p></div>"
+    }
+  ]
+}
