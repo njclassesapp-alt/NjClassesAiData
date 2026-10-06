@@ -66,3 +66,71 @@ var Std9_Maths_3Marks = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "બહુપદીઓ",
+  "marks": 3,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "અવયવ પાડો: 12x² - 7x + 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અહીં મધ્યમ પદના એવા બે ભાગ પાડવાના છે જેનો ગુણાકાર (12 × 1 = 12) થાય અને સરવાળો (-7) થાય.<br>12 ના એવા અવયવો 4 અને 3 છે (કારણ કે 4 + 3 = 7).<br>12x² - 4x - 3x + 1<br>= 4x(3x - 1) - 1(3x - 1)<br>= (3x - 1)(4x - 1)<br>આમ, અવયવો (3x - 1) અને (4x - 1) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે છેલ્લું પદ ધન (+) હોય, ત્યારે મધ્યમ પદના બંને ભાગની નિશાની મધ્યમ પદ જેવી જ રાખવી. અહીં -7 છે, તો -4 અને -3 લેવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "જો (x - 1) એ p(x) = 4x³ + 3x² - 4x + k નો એક અવયવ હોય, તો k ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જો (x - 1) એ p(x) નો અવયવ હોય, તો શેષ પ્રમેય મુજબ p(1) = 0 થાય.<br>p(1) = 4(1)³ + 3(1)² - 4(1) + k = 0<br>4(1) + 3(1) - 4 + k = 0<br>4 + 3 - 4 + k = 0<br>3 + k = 0<br>k = -3<br>આમ, k ની કિંમત -3 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અવયવ (x-a) હોય તો x = a મૂકવો. અહીં (x-1) છે તો x = 1 મૂકીને સમીકરણ ઉકેલવું. સાદું અને સીધું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "યોગ્ય નિત્યસમનો ઉપયોગ કરીને (99)³ ની કિંમત મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 99 ને (100 - 1) તરીકે લખી શકાય.<br>નિત્યસમ: (a - b)³ = a³ - b³ - 3ab(a - b) નો ઉપયોગ કરતા,<br>(100 - 1)³ = (100)³ - (1)³ - 3(100)(1)(100 - 1)<br>= 1000000 - 1 - 300(99)<br>= 1000000 - 1 - 29700<br>= 1000000 - 29701<br>= 970299</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હંમેશા 10, 100 કે 1000 ની નજીકની સંખ્યામાં ફેરવવું જેથી વર્ગ કે ઘન કરવામાં મીંડાં ગણવામાં ભૂલ ન પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "વિસ્તરણ કરો: (x + 2y + 4z)²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિત્યસમ (a + b + c)² = a² + b² + c² + 2ab + 2bc + 2ca મુજબ,<br>= (x)² + (2y)² + (4z)² + 2(x)(2y) + 2(2y)(4z) + 2(4z)(x)<br>= x² + 4y² + 16z² + 4xy + 16yz + 8zx</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ સૂત્રને 'ત્રણ પદનો વર્ગ' કહેવાય. યાદ રાખો: 'પહેલા ત્રણેયનો વર્ગ + બબ્બેની જોડીનો ગુણાકાર ગુણ્યા 2'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "અવયવ પાડો: x³ - 3x² - 9x - 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અહીં સહગુણકોનો સરવાળો 1-3-9-5 ≠ 0 છે, પણ એકાંતરે પદોનો સરવાળો (1-9 = -8 અને -3-5 = -8) સમાન છે. તેથી (x+1) એક અવયવ છે.<br>બહુપદીને (x+1) વડે ભાગતા અથવા પદ ગોઠવતા:<br>x³ + x² - 4x² - 4x - 5x - 5<br>= x²(x + 1) - 4x(x + 1) - 5(x + 1)<br>= (x + 1)(x² - 4x - 5)<br>= (x + 1)(x² - 5x + x - 5)<br>= (x + 1)[x(x - 5) + 1(x - 5)]<br>= (x + 1)(x - 5)(x + 1) અથવા (x + 1)²(x - 5)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો એકાંતરે પદોના સહગુણકોનો સરવાળો સરખો થાય, તો આંખો બંધ કરીને (x+1) ને પ્રથમ અવયવ માની લેવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "અવયવ પાડો: 27x³ + y³ + z³ - 9xyz",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આપેલ પદાવલીને (3x)³ + (y)³ + (z)³ - 3(3x)(y)(z) તરીકે લખી શકાય.<br>નિત્યસમ: a³ + b³ + c³ - 3abc = (a + b + c)(a² + b² + c² - ab - bc - ca) મુજબ,<br>= (3x + y + z)((3x)² + y² + z² - (3x)(y) - (y)(z) - (z)(3x))<br>= (3x + y + z)(9x² + y² + z² - 3xy - yz - 3zx)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ પ્રકરણનું સૌથી મોટું સૂત્ર છે. પદોને કૌંસમાં ગોઠવીને પહેલા ઘનમૂળ કાઢી લેવા, પછી સૂત્રમાં કિંમત મૂકવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "ચકાસો: x³ + y³ = (x + y)(x² - xy + y²)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જમણી બાજુ (RHS) લેતા:<br>(x + y)(x² - xy + y²)<br>= x(x² - xy + y²) + y(x² - xy + y²)<br>= x³ - x²y + xy² + x²y - xy² + y³<br>= x³ + (-x²y + x²y) + (xy² - xy²) + y³<br>= x³ + 0 + 0 + y³<br>= x³ + y³ = ડાબી બાજુ (LHS)<br>આમ, સાબિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાબિત કરવાના દાખલામાં હંમેશા મોટા પદ (જમણી બાજુ) થી શરૂઆત કરવી, જેથી ગુણાકાર કરીને પદો ઉડાડવામાં સરળતા રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "જો x + y + z = 0 હોય, તો સાબિત કરો કે x³ + y³ + z³ = 3xyz.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આપણે જાણીએ છીએ કે,<br>x³ + y³ + z³ - 3xyz = (x + y + z)(x² + y² + z² - xy - yz - zx)<br>હવે, પ્રશ્ન મુજબ x + y + z = 0 આપેલ છે.<br>કિંમત મુકતા:<br>x³ + y³ + z³ - 3xyz = (0)(x² + y² + z² - xy - yz - zx)<br>x³ + y³ + z³ - 3xyz = 0<br>તેથી, x³ + y³ + z³ = 3xyz</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'શૂન્ય' સાથે કોઈ પણ પદનો ગુણાકાર હંમેશા 'શૂન્ય' જ થાય - આ નિયમ અહીં જાદુ જેવું કામ કરે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "યોગ્ય નિત્યસમનો ઉપયોગ કરી કિંમત શોધો: (104) × (96)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અહીં 104 = (100 + 4) અને 96 = (100 - 4) લખી શકાય.<br>નિત્યસમ: (a + b)(a - b) = a² - b² નો ઉપયોગ કરતા,<br>(100 + 4)(100 - 4) = (100)² - (4)²<br>= 10000 - 16<br>= 9984</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે બે સંખ્યાઓનો તફાવત સરખો હોય (અહીં 100 થી 4 દૂર), ત્યારે (a² - b²) વાળી રીત સૌથી ઝડપી જવાબ આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "અવયવ પાડો: 8x³ + 27y³ + 36x²y + 54xy²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આપેલ પદાવલીને નિત્યસમ (a + b)³ = a³ + b³ + 3a²b + 3ab² સાથે સરખાવતા:<br>= (2x)³ + (3y)³ + 3(2x)²(3y) + 3(2x)(3y)²<br>= (2x + 3y)³<br>= (2x + 3y)(2x + 3y)(2x + 3y)<br>આમ, અવયવો (2x + 3y) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પહેલા અને બીજા પદનું ઘનમૂળ કાઢી લો (2x અને 3y). જો વચ્ચે બધે (+) હોય, તો આખાનો ઘન કરી દેવો!</p></div>"
+    }
+  ]
+}
