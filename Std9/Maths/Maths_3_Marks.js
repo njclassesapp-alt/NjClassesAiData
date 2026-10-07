@@ -65,8 +65,8 @@ var Std9_Maths_3Marks = {
       "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>1. 9.3 એકમ લંબાઈનો રેખાખંડ AB દોરો.<br>2. B થી 1 એકમ અંતરે બિંદુ C લો જેથી AC = 10.3 એકમ થાય.<br>3. AC નું મધ્યબિંદુ O શોધો.<br>4. O ને કેન્દ્ર અને OA ને ત્રિજ્યા લઈ અર્ધવર્તુળ દોરો.<br>5. B માંથી AC ને લંબ રેખા દોરો જે અર્ધવર્તુળને D માં છેદે. અહીં BD = √9.3 છે.<br>6. B ને ઉગમબિંદુ લઈ, BD જેટલી ત્રિજ્યાનો ચાપ દોરો જે સંખ્યારેખાને જ્યાં છેદે તે √9.3 દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોઈપણ √x દોરવા માટે હંમેશા (x + 1) લંબાઈનો રેખાખંડ વાપરવો, આ પદ્ધતિ યુનિવર્સલ છે!</p></div>"
     }
   ]
-}
-,
+},
+
 "2": {
   "chapterName": "પ્રકરણ 2",
   "chapterTitle": "બહુપદીઓ",
@@ -133,8 +133,8 @@ var Std9_Maths_3Marks = {
       "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આપેલ પદાવલીને નિત્યસમ (a + b)³ = a³ + b³ + 3a²b + 3ab² સાથે સરખાવતા:<br>= (2x)³ + (3y)³ + 3(2x)²(3y) + 3(2x)(3y)²<br>= (2x + 3y)³<br>= (2x + 3y)(2x + 3y)(2x + 3y)<br>આમ, અવયવો (2x + 3y) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પહેલા અને બીજા પદનું ઘનમૂળ કાઢી લો (2x અને 3y). જો વચ્ચે બધે (+) હોય, તો આખાનો ઘન કરી દેવો!</p></div>"
     }
   ]
-}
-,
+},
+
 "3": {
   "chapterName": "પ્રકરણ 3",
   "chapterTitle": "યામ ભૂમિતિ",
