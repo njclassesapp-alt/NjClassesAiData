@@ -202,3 +202,71 @@ var Std9_Maths_3Marks = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "દ્વિચલ સુરેખ સમીકરણો",
+  "marks": 3,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "નીચેના સુરેખ સમીકરણોને $ax + by + c = 0$ સ્વરૂપે દર્શાવો અને દરેક કિસ્સામાં $a, b$ અને $c$ ની કિંમતો શોધો: (1) $2x + 3y = 9.355...$ (2) $x - \\frac{y}{5} - 10 = 0$ (3) $x = 3y$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong></p><p>(1) $2x + 3y - 9.355... = 0$, અહીં $a = 2, b = 3, c = -9.355...$</p><p>(2) $1x - \\frac{1}{5}y - 10 = 0$, અહીં $a = 1, b = -\\frac{1}{5}, c = -10$</p><p>(3) $1x - 3y + 0 = 0$, અહીં $a = 1, b = -3, c = 0$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) જ્યારે પદ બરાબરની જમણી બાજુ હોય, ત્યારે તેને ડાબી બાજુ લાવતી વખતે તેની નિશાની બદલવાનું ક્યારેય ન ભૂલવું (+ હોય તો - અને - હોય તો +).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "સમીકરણ $4x + 3y = 12$ ના ચાર અલગ-અલગ ઉકેલ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong></p><p>1) જો $x = 0$ હોય, તો $4(0) + 3y = 12 \\Rightarrow 3y = 12 \\Rightarrow y = 4$. ઉકેલ: $(0, 4)$</p><p>2) જો $y = 0$ હોય, તો $4x + 3(0) = 12 \\Rightarrow 4x = 12 \\Rightarrow x = 3$. ઉકેલ: $(3, 0)$</p><p>3) જો $x = 1$ હોય, તો $4(1) + 3y = 12 \\Rightarrow 3y = 12 - 4 \\Rightarrow y = 8/3$. ઉકેલ: $(1, 8/3)$</p><p>4) જો $x = -3$ હોય, તો $4(-3) + 3y = 12 \\Rightarrow -12 + 3y = 12 \\Rightarrow 3y = 24 \\Rightarrow y = 8$. ઉકેલ: $(-3, 8)$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ઉકેલ શોધવા માટે હંમેશા એકવાર $x=0$ અને એકવાર $y=0$ લેવું, જેથી બે ઉકેલ ખૂબ જ ઝડપથી મળી જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "એક નોટબુકની કિંમત પેનની કિંમત કરતાં બમણી છે. આ વિધાનને દ્વિચલ સુરેખ સમીકરણ સ્વરૂપે દર્શાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong></p><p>ધારો કે, નોટબુકની કિંમત = ₹ $x$</p><p>અને પેનની કિંમત = ₹ $y$</p><p>શરત મુજબ: નોટબુકની કિંમત = 2 $\\times$ પેનની કિંમત</p><p>$x = 2y$</p><p>માટે, પ્રમાણિત સ્વરૂપમાં: $x - 2y + 0 = 0$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) સમીકરણ બનાવતી વખતે જે 'નાનું' હોય તેની સાથે ગુણાકાર કરવો (અહીં પેન સસ્તી છે એટલે તેને 2 વડે ગુણ્યા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "જો $x = 2, y = 1$ એ સમીકરણ $2x + 3y = k$ નો એક ઉકેલ હોય, તો $k$ ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong></p><p>આપેલ સમીકરણ: $2x + 3y = k$</p><p>અહીં $x = 2$ અને $y = 1$ મૂકતા,</p><p>$2(2) + 3(1) = k$</p><p>$4 + 3 = k$</p><p>$7 = k$</p><p>તેથી, $k = 7$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) જ્યારે પણ 'ઉકેલ છે' તેમ કહ્યું હોય, ત્યારે આપેલી કિંમતો સમીકરણમાં મૂકી દેવાથી અજ્ઞાત કિંમત (k) તરત જ મળી જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "એક શહેરમાં ટેક્સી ભાડું પ્રથમ કિલોમીટર માટે ₹ 8 અને ત્યારબાદના દરેક કિલોમીટર માટે ₹ 5 પ્રતિ કિમી છે. કાપેલું અંતર $x$ કિમી અને કુલ ભાડું ₹ $y$ લઈ સુરેખ સમીકરણ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong></p><p>કુલ અંતર = $x$ કિમી</p><p>પ્રથમ 1 કિમીનું ભાડું = ₹ 8</p><p>બાકીનું અંતર = $(x - 1)$ કિમી</p><p>બાકીના અંતરનું ભાડું = $5(x - 1)$</p><p>કુલ ભાડું $y = 8 + 5(x - 1)$</p><p>$y = 8 + 5x - 5 \\Rightarrow y = 5x + 3$</p><p>સમીકરણ: $5x - y + 3 = 0$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) કુલ ભાડું = (પ્રથમ કિમી દર) + (બાકીના કિમી $\\times$ દર). અહીં $8 + (x-1)5$ ડાયરેક્ટ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "સમીકરણ $2x + 1 = x - 3$ નો ઉકેલ મેળવો અને તેને (1) સંખ્યારેખા પર (2) કાર્તેઝીય સમતલમાં દર્શાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong></p><p>$2x - x = -3 - 1 \\Rightarrow x = -4$</p><p>(1) સંખ્યારેખા પર: બિંદુ -4 પર એક ટપકું કરવું.</p><p>(2) કાર્તેઝીય સમતલમાં: તે $x = -4$ એટલે કે $y$-અક્ષને સમાંતર રેખા બનશે જે $x = -4$ માંથી પસાર થશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) જો માત્ર $x$ ની કિંમત હોય, તો રેખા $y$-અક્ષને સમાંતર અને જો માત્ર $y$ ની કિંમત હોય, તો રેખા $x$-અક્ષને સમાંતર હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "જો બિંદુ $(3, 4)$ એ સમીકરણ $3y = ax + 7$ ના આલેખ પરનું એક બિંદુ હોય, તો $a$ ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong></p><p>અહીં બિંદુ $(3, 4)$ એ આલેખ પર હોવાથી $x = 3$ અને $y = 4$ સમીકરણમાં મૂકતા:</p><p>$3(4) = a(3) + 7$</p><p>$12 = 3a + 7$</p><p>$12 - 7 = 3a \\Rightarrow 5 = 3a$</p><p>$a = 5/3$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) કૌંસમાં આપેલી પહેલી કિંમત $x$ અને બીજી કિંમત $y$ હોય છે, તેને અદલાબદલી ન કરવી નહીંતર જવાબ ખોટો આવશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "ફેરનહીટ ($F$) અને સેલ્સિયસ ($C$) વચ્ચેનો સંબંધ દર્શાવતું સમીકરણ $F = (\\frac{9}{5})C + 32$ છે. જો તાપમાન $30^\\circ C$ હોય, તો ફેરનહીટમાં તાપમાન કેટલું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong></p><p>આપેલ સૂત્ર: $F = (\\frac{9}{5})C + 32$</p><p>અહીં $C = 30$ મૂકતા,</p><p>$F = (\\frac{9}{5}) \\times 30 + 32$</p><p>$F = (9 \\times 6) + 32$</p><p>$F = 54 + 32 = 86$</p><p>માટે, તાપમાન $86^\\circ F$ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) છેદ ઉડાડતી વખતે સાવચેતી રાખવી. 30 ને 5 વડે ભાગતા 6 આવશે, પછી જ 9 સાથે ગુણાકાર કરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "ધોરણ 9 ની બે વિદ્યાર્થિનીઓ યામિની અને ફાતિમાએ ભૂકંપગ્રસ્ત લોકો માટે પ્રધાનમંત્રી રાહત ફંડમાં સંયુક્ત રીતે ₹ 100 નો ફાળો આપ્યો. આ માહિતીના આધારે દ્વિચલ સુરેખ સમીકરણ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong></p><p>ધારો કે, યામિનીનો ફાળો = ₹ $x$</p><p>અને ફાતિમાનો ફાળો = ₹ $y$</p><p>બંનેનો કુલ ફાળો ₹ 100 હોવાથી,</p><p>$x + y = 100$</p><p>પ્રમાણિત સ્વરૂપ: $x + y - 100 = 0$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) જ્યારે 'કુલ' શબ્દ વપરાય ત્યારે હંમેશા બંને ચલનો સરવાળો જ થાય ($x + y$).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "નીચેના સમીકરણો માટે $x$ અને $y$ ની કિંમતોના બે ઉકેલ શોધો: (1) $x + 4y = 10$ (2) $2x - 5y = 0$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong></p><p>(1) $x + 4y = 10$: <br> જો $y = 0 \\Rightarrow x = 10$. ઉકેલ $(10, 0)$ <br> જો $y = 2 \\Rightarrow x + 8 = 10 \\Rightarrow x = 2$. ઉકેલ $(2, 2)$</p><p>(2) $2x - 5y = 0$: <br> જો $x = 0 \\Rightarrow y = 0$. ઉકેલ $(0, 0)$ <br> જો $x = 5 \\Rightarrow 10 - 5y = 0 \\Rightarrow 5y = 10 \\Rightarrow y = 2$. ઉકેલ $(5, 2)$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) જો સમીકરણમાં $c=0$ હોય (જેમ કે $2x-5y=0$), તો તેનો એક ઉકેલ હંમેશા ઉગમબિંદુ $(0, 0)$ જ હોય!</p></div>"
+    }
+  ]
+}
