@@ -270,3 +270,71 @@ var Std9_Maths_3Marks = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "યુક્લિડની ભૂમિતિનો પરિચય",
+  "marks": 3,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "યુક્લિડની પાંચ પૂર્વધારણાઓ પૈકી પ્રથમ ત્રણ પૂર્વધારણાઓ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> યુક્લિડની પ્રથમ ત્રણ પૂર્વધારણાઓ નીચે મુજબ છે:<br>૧. પૂર્વધારણા 1: એક બિંદુમાંથી બીજા બિંદુમાં થઈને પસાર થતી એક સીધી રેખા દોરી શકાય.<br>૨. પૂર્વધારણા 2: અંતિત રેખા (શાંત રેખા) ને અનંત સુધી લંબાવી શકાય છે.<br>૩. પૂર્વધારણા 3: કોઈપણ કેન્દ્ર અને કોઈપણ ત્રિજ્યા લઈ વર્તુળ રચી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘રેખા-લંબ-વર્તુળ’ આ ત્રણ શબ્દો યાદ રાખો. ૧-બિંદુ જોડો, ૨-ખેંચો, ૩-ગોળ ફેરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "યુક્લિડના સ્વયંસિદ્ધ સત્યો પૈકી કોઈ પણ ત્રણ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> યુક્લિડના ત્રણ મુખ્ય સ્વયંસિદ્ધ સત્યો:<br>૧. એક જ વસ્તુને સમાન હોય તેવી વસ્તુઓ એકબીજાને સમાન થાય.<br>૨. જો સમાનમાં સમાન ઉમેરવામાં આવે, તો સરવાળા સમાન રહે.<br>૩. જો સમાનમાંથી સમાન બાદ કરવામાં આવે, તો શેષફળ સમાન રહે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગણિતનો નિયમ યાદ રાખો: '=' માં '+' કરો કે '-' કરો, જવાબ '=' જ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "આકૃતિમાં જો AC = BD હોય, તો સાબિત કરો કે AB = CD.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અહીં આપેલ છે કે AC = BD.<br>આકૃતિ પરથી, AC = AB + BC અને BD = BC + CD થાય.<br>હવે, AC = BD માં કિંમતો મુકતા:<br>AB + BC = BC + CD<br>યુક્લિડના સ્વયંસિદ્ધ સત્ય મુજબ, બંને બાજુથી સમાન ભાગ (BC) બાદ કરતા:<br>AB + BC - BC = BC + CD - BC<br>તેથી, AB = CD સાબિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે કોમન છે તેને કાઢી નાખો! (BC ને બંને બાજુથી ઉડાડી દો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "યુક્લિડે આપેલી બિંદુ, રેખા અને સપાટીની વ્યાખ્યાઓ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> યુક્લિડના પુસ્તક 'એલિમેન્ટ્સ' મુજબ:<br>૧. બિંદુ: બિંદુને કોઈ ભાગ નથી (તે અવયવ રહિત છે).<br>૨. રેખા: રેખા એ પહોળાઈ વગરની લંબાઈ છે.<br>૩. સપાટી: સપાટીને માત્ર લંબાઈ અને પહોળાઈ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બિંદુ = શૂન્ય પરિમાણ, રેખા = ૧ પરિમાણ, સપાટી = ૨ પરિમાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "પૂર્વધારણા 5 (યુક્લિડની પાંચમી પૂર્વધારણા) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જો બે સીધી રેખાઓને કોઈ ત્રીજી રેખા છેદે અને આ છેદિકાની એક જ બાજુના બે અંત:કોણોનો સરવાળો બે કાટખૂણા (180°) કરતા ઓછો હોય, તો તે પ્રથમ બે રેખાઓને તે દિશામાં લંબાવતા તેઓ એકબીજાને છેદે છે. આ પૂર્વધારણા સમાંતર રેખાઓના અસ્તિત્વને નકારે છે જ્યાં ખૂણાનો સરવાળો ઓછો હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યાદ રાખો: ખૂણો < 180° = રેખાઓ ભટકાશે (છેદશે)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "જો બિંદુ C એ રેખાખંડ AB નું મધ્યબિંદુ હોય, તો સાબિત કરો કે AC = 1/2 AB.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અહીં C એ AB નું મધ્યબિંદુ છે, તેથી AC = BC થાય.<br>હવે, AB = AC + BC (યુક્લિડનું સ્વયંસિદ્ધ સત્ય: આખું તેના ભાગોના સરવાળા બરાબર હોય).<br>BC ના સ્થાને AC મુકતા:<br>AB = AC + AC<br>AB = 2 AC<br>તેથી, AC = 1/2 AB સાબિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'એકના ડબલ' વાળું લોજિક વાપરો, સાબિતી ચપટીમાં થઈ જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "યુક્લિડના સ્વયંસિદ્ધ સત્ય 4 અને 5 સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>૪. સ્વયંસિદ્ધ સત્ય 4: એકબીજા પર બંધબેસતી આવતી વસ્તુઓ એકબીજાને સમાન હોય છે. (દા.ત. સમાન ત્રિજ્યાવાળા બે સિક્કા).<br>૫. સ્વયંસિદ્ધ સત્ય 5: આખું તેના ભાગ કરતા મોટું હોય છે. (દા.ત. આખો રોટલો તેના ટુકડા કરતા મોટો હોય છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૪ એટલે 'ઝેરોક્ષ કોપી' અને ૫ એટલે 'પપ્પા મોટા અને પુત્ર નાનો' એવું યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "યુક્લિડની ભૂમિતિમાં 'અવ્યાખ્યાયિત પદો' કયા છે? અને શા માટે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આધુનિક ભૂમિતિમાં 'બિંદુ', 'રેખા' અને 'સમતલ' ને અવ્યાખ્યાયિત પદો માનવામાં આવે છે. યુક્લિડે તેની વ્યાખ્યા આપી હતી, પરંતુ તે વ્યાખ્યાઓમાં વપરાતા શબ્દો (જેમ કે 'ભાગ', 'પહોળાઈ') ને ફરીથી વ્યાખ્યાયિત કરવાની જરૂર પડે છે. આ શ્રેણી અનંત સુધી ચાલે છે, તેથી ગણિતશાસ્ત્રીઓએ આ પદોને પાયાના અને અવ્યાખ્યાયિત સ્વીકારી લીધા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેનો કોઈ છેડો નથી, તેને 'અવ્યાખ્યાયિત' કહી દો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "સાબિત કરો કે આપેલ રેખાખંડ પર એક સમબાજુ ત્રિકોણની રચના કરી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધારો કે રેખાખંડ AB આપેલ છે.<br>૧. પૂર્વધારણા 3 મુજબ, A ને કેન્દ્ર લઈ AB ત્રિજ્યા વાળું વર્તુળ દોરો.<br>૨. તે જ રીતે, B ને કેન્દ્ર લઈ BA ત્રિજ્યા વાળું બીજું વર્તુળ દોરો.<br>૩. બંને વર્તુળો જ્યાં છેદે તેને બિંદુ C નામ આપો. AC અને BC જોડો.<br>અહીં AC = AB અને BC = AB હોવાથી, AC = BC = AB થાય. આમ, સમબાજુ ત્રિકોણ બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'પરિકર' ની મદદથી બે ચાપ મારો, ત્રિકોણ તૈયાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "પ્લેફેરની પૂર્વધારણા (Playfair's Axiom) લખો જે પાંચમી પૂર્વધારણાને સમકક્ષ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પ્લેફેરની પૂર્વધારણા મુજબ: \"કોઈપણ રેખા L અને તેના પર ન હોય તેવા બિંદુ P માટે, P માંથી પસાર થતી અને રેખા L ને સમાંતર હોય તેવી અનન્ય (માત્ર એક અને એક જ) રેખા M હોય છે.\" આ વિધાન યુક્લિડની અઘરી પાંચમી પૂર્વધારણાને સરળ રીતે સમજાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એક બિંદુ + એક રેખા = માત્ર એક જ સમાંતર રેખા.</p></div>"
+    }
+  ]
+}
