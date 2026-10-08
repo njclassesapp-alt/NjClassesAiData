@@ -338,3 +338,71 @@ var Std9_Maths_3Marks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "રેખાઓ અને ખૂણાઓ",
+  "marks": 3,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "જો બે રેખાઓ AB અને CD પરસ્પર O બિંદુએ છેદે છે. જો ∠AOC : ∠ROD = 5 : 7 હોય, તો તમામ ખૂણાઓના માપ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>ધારો કે ∠AOC = 5x અને ∠ROD (અહીં ∠AOC અને ∠BOC રૈખિક જોડ બનાવે છે) ∠BOC = 7x છે.<br>રૈખિક જોડના ખૂણાઓનો સરવાળો 180° થાય.<br>∴ 5x + 7x = 180°<br>∴ 12x = 180° => x = 15°<br>હવે, ∠AOC = 5(15) = 75°<br>∠BOC = 7(15) = 105°<br>અભિકોણો સમાન હોય, તેથી:<br>∠BOD = ∠AOC = 75°<br>∠AOD = ∠BOC = 105°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે પણ ગુણોત્તર (Ratio) આપ્યો હોય ત્યારે કુલ સરવાળાને ગુણોત્તરના સરવાળા વડે ભાગી નાખો (180/12 = 15). પછી દરેક ગુણોત્તરને તે સંખ્યા સાથે ગુણી નાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "આકૃતિમાં રેખા PQ અને RS એકબીજાને O બિંદુએ છેદે છે. જો ∠POR + ∠QOS = 140° હોય, તો ∠POS શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>અહીં ∠POR અને ∠QOS એ અભિકોણો છે, તેથી ∠POR = ∠QOS.<br>આપેલ છે કે ∠POR + ∠QOS = 140°<br>∴ 2(∠POR) = 140° => ∠POR = 70°.<br>હવે ∠POR અને ∠POS એ રૈખિક જોડના ખૂણા છે.<br>∠POR + ∠POS = 180°<br>70° + ∠POS = 180°<br>∠POS = 180° - 70° = 110°.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યાદ રાખો, સામ-સામેના 'V' (અભિકોણ) સરખા હોય અને પાસ-પાસેના (રૈખિક જોડ) નો સરવાળો 180° થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "જો AB || CD અને CD || EF હોય તથા y : z = 3 : 7 હોય, તો x નું મૂલ્ય શોધો. (જ્યાં x અને y એ છેદિકાની એક જ તરફના અંત:કોણો છે અને x અને z એ યુગ્મકોણો છે).",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>અહીં AB || CD અને CD || EF હોવાથી AB || EF થાય.<br>તેથી x = z (અંત:યુગ્મકોણ).<br>વળી, x + y = 180° (છેદિકાની એક જ બાજુના અંત:કોણો).<br>x = z હોવાથી, z + y = 180°.<br>y : z = 3 : 7 હોવાથી, ધારો કે y = 3k અને z = 7k.<br>3k + 7k = 180° => 10k = 180° => k = 18°.<br>હવે z = 7(18) = 126°.<br>x = z હોવાથી, x = 126°.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Z' આકાર એટલે યુગ્મકોણ (સમાન) અને 'U' આકાર એટલે અંત:કોણ (સરવાળો 180°). આ 'Z' અને 'U' ની રમત છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "આકૃતિમાં જો AB || CD, ∠APQ = 50° અને ∠PRD = 127° હોય, તો x અને y શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>1) AB || CD અને PQ તેની છેદિકા છે.<br>∴ ∠APQ = ∠PQR (યુગ્મકોણ)<br>∴ 50° = x => x = 50°.<br>2) AB || CD અને PR તેની છેદિકા છે.<br>∴ ∠APR = ∠PRD (યુગ્મકોણ)<br>∠APQ + ∠QPR = 127°<br>50° + y = 127°<br>y = 127° - 50° = 77°.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમાંતર રેખાઓમાં હંમેશા 'Z' શોધો. અહીં બે 'Z' બને છે, એક નાનો અને એક મોટો. તેનાથી x અને y તરત મળી જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "ત્રિકોણ PQR ના ખૂણાઓનો ગુણોત્તર 2 : 3 : 4 છે. ત્રિકોણના ત્રણેય ખૂણાના માપ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>ધારો કે ખૂણાઓ ∠P = 2x, ∠Q = 3x અને ∠R = 4x છે.<br>ત્રિકોણના ત્રણેય ખૂણાઓનો સરવાળો 180° થાય.<br>2x + 3x + 4x = 180°<br>9x = 180° => x = 20°.<br>ખૂણો P = 2(20) = 40°<br>ખૂણો Q = 3(20) = 60°<br>ખૂણો R = 4(20) = 80°.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ત્રિકોણના દાખલામાં હંમેશા યાદ રાખો: 2+3+4=9. સીધું કરો 180 ÷ 9 = 20. હવે 20 ને બધા સાથે ગુણી નાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "સાબિત કરો કે જો બે રેખાઓ પરસ્પર છેદે, તો અભિકોણો સમાન હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>પક્ષ: રેખા AB અને CD પરસ્પર O બિંદુએ છેદે છે.<br>સાધ્ય: ∠AOC = ∠BOD અને ∠AOD = ∠BOC.<br>સાબિતી: કિરણ OA એ રેખા CD પર છે.<br>∴ ∠AOC + ∠AOD = 180° --- (1) (રૈખિક જોડ)<br>કિરણ OD એ રેખા AB પર છે.<br>∴ ∠AOD + ∠BOD = 180° --- (2) (રૈખિક જોડ)<br>(1) અને (2) પરથી: ∠AOC + ∠AOD = ∠AOD + ∠BOD<br>બંને બાજુથી ∠AOD બાદ કરતા, ∠AOC = ∠BOD. તેવી જ રીતે બીજું પરિણામ સાબિત કરી શકાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ પ્રમેયમાં 'કોમન' ખૂણો (∠AOD) શોધીને તેને બંને બાજુથી ઉડાડી દેવાનો છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "આકૃતિમાં, જો QT ⊥ PR, ∠TQR = 40° અને ∠SPR = 30° હોય, તો x અને y શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>∆TQR માં, ∠QTR + ∠TQR + ∠TRQ = 180°<br>90° + 40° + x = 180°<br>130° + x = 180° => x = 50°.<br>હવે, ∆PSR માટે 'y' એ બહિષ્કોણ છે.<br>∴ y = ∠SPR + ∠PSR (અંત:સંમુખકોણનો સરવાળો)<br>y = 30° + x<br>y = 30° + 50° = 80°.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બહિષ્કોણનો નિયમ યાદ રાખો: 'બહારનો ખૂણો = અંદરના બે સામેના ખૂણાનો સરવાળો'. ગણતરી ફટાફટ થઈ જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "રેખાઓ XY અને MN બિંદુ O માં છેદે છે. જો ∠POY = 90° અને a : b = 2 : 3 હોય, તો c શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>∠POX + ∠POY = 180° (રૈખિક જોડ)<br>∠POX + 90° = 180° => ∠POX = 90°.<br>હવે ∠POX = a + b = 90°.<br>a : b = 2 : 3 હોવાથી, a = 2k, b = 3k.<br>2k + 3k = 90° => 5k = 90° => k = 18°.<br>તેથી, b = 3(18) = 54°.<br>હવે રેખા MN પર, b + c = 180° (રૈખિક જોડ)<br>54° + c = 180° => c = 126°.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સીધી રેખા પર ગમે તેટલા ખૂણા હોય, સરવાળો તો 180° જ થાય. આ 'બ્રહ્મવાક્ય' યાદ રાખવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "એક ત્રિકોણના એક બહિષ્કોણનું માપ 110° છે અને તેના એક અંત:સંમુખકોણનું માપ 30° છે, તો ત્રિકોણના બીજા બે ખૂણા શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>ધારો કે ત્રિકોણના અંત:સંમુખકોણો x અને 30° છે.<br>બહિષ્કોણ = અંત:સંમુખકોણોનો સરવાળો<br>110° = x + 30°<br>x = 110° - 30° = 80°.<br>હવે ત્રીજો ખૂણો (y) શોધવા માટે:<br>ત્રણેય ખૂણાનો સરવાળો = 180°<br>80° + 30° + y = 180°<br>110° + y = 180° => y = 70°.<br>આમ, બાકીના ખૂણા 80° અને 70° છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બહિષ્કોણમાંથી એક ખૂણો બાદ કરો એટલે બીજો અંત:સંમુખકોણ મળે (110-30=80). અને રૈખિક જોડથી બાજુનો ખૂણો મળે (180-110=70).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "આકૃતિમાં જો AB || CD, EF ⊥ CD અને ∠GED = 126° હોય, તો ∠AGE, ∠GEC અને ∠FGE શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>1) AB || CD અને GE છેદિકા હોવાથી ∠AGE = ∠GED (યુગ્મકોણ)<br>∴ ∠AGE = 126°.<br>2) ∠GED = ∠GEF + ∠FED<br>126° = ∠GEF + 90° (∵ EF ⊥ CD)<br>∴ ∠GEF = 126° - 90° = 36°.<br>3) ∠AGE + ∠FGE = 180° (રૈખિક જોડ)<br>126° + ∠FGE = 180° => ∠FGE = 54°.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'L' આકાર 90° માટે અને 'Z' આકાર સમાન ખૂણા માટે. આકૃતિમાં 'Z' અને 'L' ને ઓળખતા શીખી જાવ, ભૂમિતિ સરળ થઈ જશે!</p></div>"
+    }
+  ]
+}
