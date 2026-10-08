@@ -474,3 +474,71 @@ var Std9_Maths_3Marks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "ચતુષ્કોણ",
+  "marks": 3,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "એક ચતુષ્કોણના ખૂણાઓનો ગુણોત્તર 3 : 5 : 9 : 13 છે, તો આ ચતુષ્કોણના બધા જ ખૂણાઓ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધારો કે ચતુષ્કોણના ખૂણાઓના માપ 3x, 5x, 9x અને 13x છે.<br>ચતુષ્કોણના ચારેય ખૂણાઓનો સરવાળો 360° થાય છે.<br>∴ 3x + 5x + 9x + 13x = 360°<br>∴ 30x = 360°<br>∴ x = 360 / 30 = 12°<br><br>હવે, દરેક ખૂણાના માપ નીચે મુજબ મળે:<br>1) 3x = 3 × 12 = 36°<br>2) 5x = 5 × 12 = 60°<br>3) 9x = 9 × 12 = 108°<br>4) 13x = 13 × 12 = 156°<br>આમ, ખૂણાઓ 36°, 60°, 108° અને 156° છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુણોત્તરનો સરવાળો (30) કરો. 360 ને તેનાથી ભાગો (12 મળે). હવે આ 12 ને દરેક ગુણોત્તર સાથે ગુણી નાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "સાબિત કરો કે સમાંતરબાજુ ચતુષ્કોણનો કોઈપણ વિકર્ણ તેનું બે એકરૂપ ત્રિકોણોમાં વિભાજન કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધારો કે ABCD સમાંતરબાજુ ચતુષ્કોણ છે અને AC તેનો વિકર્ણ છે.<br>ΔABC અને ΔCDA માં,<br>1. BC || AD અને AC છેદિકા હોવાથી, ∠BCA = ∠DAC (યુગ્મકોણ)<br>2. AB || DC અને AC છેદિકા હોવાથી, ∠BAC = ∠DCA (યુગ્મકોણ)<br>3. AC = CA (સામાન્ય બાજુ)<br>∴ ખૂબાખૂ (ASA) શરત મુજબ, ΔABC ≅ ΔCDA.<br>આમ, વિકર્ણ AC ચતુષ્કોણને બે એકરૂપ ત્રિકોણોમાં વહેંચે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Z' આકાર યાદ રાખો. સમાંતર રેખાઓ હોય ત્યારે 'Z' આકારના ખૂણા (યુગ્મકોણ) હંમેશા સરખા હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "સમાંતરબાજુ ચતુષ્કોણ ABCD માં ∠A = (2x + 10)° અને ∠C = (3x - 20)° હોય, તો x ની કિંમત શોધો અને બધા જ ખૂણાઓના માપ મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સમાંતરબાજુ ચતુષ્કોણમાં સામસામેના ખૂણા સમાન હોય છે.<br>∴ ∠A = ∠C<br>∴ 2x + 10 = 3x - 20<br>∴ 10 + 20 = 3x - 2x<br>∴ x = 30<br><br>હવે ખૂણાઓ:<br>∠A = 2(30) + 10 = 70°<br>∴ ∠C = 70°<br>પાસપાસેના ખૂણા પૂરક હોય છે, તેથી ∠B = 180 - 70 = 110°<br>∴ ∠D = 110°<br>આમ, ખૂણાઓ 70°, 110°, 70°, 110° છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમાંતરબાજુ ચતુષ્કોણમાં 'સામસામે સમાન' અને 'પાસપાસે પૂરક (180)' - આ નિયમ ક્યારેય ના ભૂલતા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "સાબિત કરો કે જો ચતુષ્કોણના વિકર્ણો એકબીજાને કાટખૂણે દુભાગે, તો તે સમબાજુ ચતુષ્કોણ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધારો કે ચતુષ્કોણ ABCD ના વિકર્ણો AC અને BD પરસ્પર O બિંદુએ કાટખૂણે દુભાગે છે.<br>ΔAOB અને ΔAOD માં,<br>1. OB = OD (વિકર્ણ દુભાગે છે)<br>2. ∠AOB = ∠AOD = 90° (કાટખૂણે છે)<br>3. AO = AO (સામાન્ય બાજુ)<br>∴ બાખૂબા શરત મુજબ, ΔAOB ≅ ΔAOD.<br>∴ AB = AD (CPCT)<br>તે જ રીતે AB = BC અને BC = CD સાબિત કરી શકાય.<br>બધી બાજુઓ સમાન હોવાથી ABCD સમબાજુ ચતુષ્કોણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે પાસપાસેની બાજુઓ સમાન સાબિત કરવી હોય, ત્યારે હંમેશા બાખૂબા (SAS) નો ઉપયોગ કરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "ત્રિકોણ ABC માં D, E અને F એ અનુક્રમે બાજુઓ AB, BC અને CA ના મધ્યબિંદુઓ છે. સાબિત કરો કે આ મધ્યબિંદુઓને જોડવાથી ΔABC નું ચાર એકરૂપ ત્રિકોણોમાં વિભાજન થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મધ્યબિંદુ પ્રમેય મુજબ, મધ્યબિંદુઓને જોડતી રેખાઓ ત્રીજી બાજુને સમાંતર હોય છે.<br>અહીં, DE || AC, EF || AB અને DF || BC થશે.<br>આથી, BDEF, DCEF અને AFDE એ સમાંતરબાજુ ચતુષ્કોણ બને છે.<br>આપણે જાણીએ છીએ કે સમાંતરબાજુ ચતુષ્કોણનો વિકર્ણ તેને બે એકરૂપ ત્રિકોણમાં વહેંચે છે.<br>∴ ΔBDF ≅ ΔDEF, ΔDCE ≅ ΔDEF અને ΔAFE ≅ ΔDEF.<br>આમ, ચારેય ત્રિકોણો ΔBDF, ΔDCE, ΔAFE અને ΔDEF એકરૂપ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મધ્યબિંદુ પ્રમેય એટલે 'અડધું અને સમાંતર'. અંદર બનતા 4 ટુકડા હંમેશા એકરૂપ જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "લંબચોરસ ABCD ના વિકર્ણો O માં છેદે છે. જો OA = 2x + 4 અને OD = 3x + 1 હોય, તો x ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લંબચોરસના વિકર્ણો સમાન હોય છે અને પરસ્પર દુભાગે છે.<br>વિકર્ણ AC = BD<br>∴ વિકર્ણના અડધા ભાગ પણ સમાન થાય.<br>∴ OA = OD<br>∴ 2x + 4 = 3x + 1<br>∴ 4 - 1 = 3x - 2x<br>∴ 3 = x<br>∴ x = 3<br>આમ, x ની કિંમત 3 મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લંબચોરસ અને ચોરસમાં કેન્દ્રથી ખૂણા સુધીનું અંતર (વિકર્ણના અડધા) બધા સરખા જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "ચતુષ્કોણ ABCD માં ∠A : ∠B : ∠C : ∠D = 1 : 2 : 3 : 4 હોય, તો દરેક ખૂણાના માપ શોધો. આ કયા પ્રકારનો ચતુષ્કોણ હોઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધારો કે ખૂણા x, 2x, 3x, 4x છે.<br>x + 2x + 3x + 4x = 360°<br>10x = 360° => x = 36°<br>ખૂણાઓ:<br>∠A = 36°, ∠B = 72°, ∠C = 108°, ∠D = 144°<br>અહીં ∠A + ∠D = 36 + 144 = 180° અને ∠B + ∠C = 72 + 108 = 180°.<br>પાસપાસેના ખૂણાઓની જોડ પૂરક હોવાથી (અંતઃકોણો), AB || CD છે.<br>માત્ર એક જોડ સમાંતર હોવાથી આ 'સમલંબ ચતુષ્કોણ' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો એક જ બાજુના અંતઃકોણોનો સરવાળો 180 થાય, તો રેખાઓ સમાંતર હોય જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "એક સમબાજુ ચતુષ્કોણના વિકર્ણોની લંબાઈ 16 સેમી અને 12 સેમી છે. તેની બાજુની લંબાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સમબાજુ ચતુષ્કોણના વિકર્ણો કાટખૂણે દુભાગે છે.<br>વિકર્ણ d1 = 16 સેમી, d2 = 12 સેમી.<br>કાટકોણ ત્રિકોણની બાજુઓ વિકર્ણથી અડધી થશે: 16/2 = 8 સેમી અને 12/2 = 6 સેમી.<br>પાયથાગોરસના પ્રમેય મુજબ:<br>(બાજુ)² = 8² + 6²<br>(બાજુ)² = 64 + 36 = 100<br>∴ બાજુ = √100 = 10 સેમી.<br>આમ, સમબાજુ ચતુષ્કોણની બાજુ 10 સેમી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાયથાગોરિયન ત્રિપુટી યાદ રાખો: 6, 8, 10. જો અડધા વિકર્ણ 6 અને 8 હોય, તો બાજુ 10 જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "સાબિત કરો કે ચોરસના વિકર્ણો સમાન હોય છે અને એકબીજાને કાટખૂણે દુભાગે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 1. સમાનતા: ΔABC અને ΔBAD માં, AB=AB, BC=AD, ∠ABC=∠BAD=90°. બાખૂબા મુજબ ΔABC ≅ ΔBAD, તેથી AC=BD.<br>2. દુભાગે: ચોરસ સમાંતરબાજુ હોવાથી વિકર્ણો દુભાગે જ.<br>3. કાટખૂણો: ΔAOB અને ΔAOD માં, AO=AO, OB=OD, AB=AD (બધી બાજુ સમાન). બાબાબા મુજબ ΔAOB ≅ ΔAOD. તેથી ∠AOB = ∠AOD. રૈખિક જોડ હોવાથી બંને 90° થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચોરસ એ 'સુપર ચતુષ્કોણ' છે, તેમાં લંબચોરસ અને સમબાજુ બંનેના ગુણધર્મો હોય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "ΔABC માં AB = 5 સેમી, BC = 8 સેમી અને AC = 7 સેમી છે. AB અને BC ના મધ્યબિંદુઓ અનુક્રમે P અને Q હોય, તો PQ ની લંબાઈ શોધો. કારણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અહીં ΔABC માં P એ AB નું મધ્યબિંદુ છે અને Q એ BC નું મધ્યબિંદુ છે.<br>મધ્યબિંદુ પ્રમેય મુજબ, \"ત્રિકોણની બે બાજુઓના મધ્યબિંદુઓને જોડતો રેખાખંડ ત્રીજી બાજુને સમાંતર હોય છે અને તેનું માપ ત્રીજી બાજુ કરતા અડધું હોય છે.\"<br>અહીં ત્રીજી બાજુ AC છે.<br>∴ PQ = 1/2 × AC<br>∴ PQ = 1/2 × 7<br>∴ PQ = 3.5 સેમી.<br>આમ, PQ ની લંબાઈ 3.5 સેમી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે બાજુના મધ્યબિંદુ લીધા હોય તે છોડીને વધેલી ત્રીજી બાજુનું માપ અડધું કરી નાખવું!</p></div>"
+    }
+  ]
+}
