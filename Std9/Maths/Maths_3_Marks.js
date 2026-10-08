@@ -406,3 +406,71 @@ var Std9_Maths_3Marks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "ત્રિકોણ",
+  "marks": 3,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "ચતુષ્કોણ ABCD માં AC = AD અને AB એ ∠A નો દ્વિભાજક છે. સાબિત કરો કે ΔABC ≅ ΔABD. તમે BC અને BD વિશે શું કહી શકો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ΔABC અને ΔABD માં,<br>1. AC = AD (પક્ષ - આપેલ છે)<br>2. ∠CAB = ∠DAB (AB એ ∠A નો દ્વિભાજક છે)<br>3. AB = AB (સામાન્ય બાજુ)<br>તેથી, બાખબા (SAS) શરત મુજબ, ΔABC ≅ ΔABD સાબિત થાય છે.<br>CPCT મુજબ, BC = BD થાય. તેથી BC અને BD ની લંબાઈ સમાન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે પણ 'દ્વિભાજક' શબ્દ આવે ત્યારે સમજી લેવું કે બે ખૂણા સમાન આપ્યા છે. 'સામાન્ય બાજુ' (Common Side) હંમેશા શોધી કાઢવી, તે સાબિતીની ચાવી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "સાબિત કરો કે: 'સમદ્વિબાજુ ત્રિકોણની બે સમાન બાજુઓની સામેના ખૂણાઓ સમાન હોય છે.' (પ્રમેય 7.2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પક્ષ: ΔABC માં AB = AC આપેલ છે.<br>સાધ્ય: ∠B = ∠C<br>રચના: ∠A નો દ્વિભાજક AD દોરો જે BC ને D માં મળે.<br>સાબિતી: ΔABD અને ΔACD માં,<br>1. AB = AC (પક્ષ)<br>2. ∠BAD = ∠CAD (રચના)<br>3. AD = AD (સામાન્ય બાજુ)<br>બાખબા શરત મુજબ, ΔABD ≅ ΔACD.<br>તેથી CPCT મુજબ, ∠ABD = ∠ACD એટલે કે ∠B = ∠C.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ પ્રમેયમાં 'રચના' (Construction) યાદ રાખવી ખૂબ જરૂરી છે. ખૂણા A નો દ્વિભાજક દોરવાથી જ બે ત્રિકોણ બનશે જે એકરૂપ સાબિત કરી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "E અને F એ ΔABC ની સમાન બાજુઓ AB અને AC નાં મધ્યબિંદુઓ છે. સાબિત કરો કે BF = CE.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ΔABF અને ΔACE માં,<br>1. AB = AC (આપેલ છે)<br>2. ∠A = ∠A (સામાન્ય ખૂણો)<br>3. AF = AE (કારણ કે AC = AB અને F, E તેમના મધ્યબિંદુઓ છે, તેથી અડધા ભાગ પણ સમાન થાય)<br>તેથી, બાખબા (SAS) શરત મુજબ, ΔABF ≅ ΔACE.<br>એકરૂપ ત્રિકોણના અનુરૂપ અંગો (CPCT) મુજબ, BF = CE સાબિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હંમેશા એવા બે ત્રિકોણ પસંદ કરો જેમાં જે સાબિત કરવાનું છે (BF અને CE) તે બાજુઓ આવતી હોય. અહીં ΔABF અને ΔACE બેસ્ટ ચોઈસ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "ABC એ એક સમદ્વિબાજુ ત્રિકોણ છે જેમાં AB = AC. AD એ પાયા BC પરનો વેધ છે. સાબિત કરો કે AD એ BC ને દુભાગે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાટકોણ ΔABD અને ΔACD માં,<br>1. ∠ADB = ∠ADC = 90° (AD વેધ છે)<br>2. AB = AC (કર્ણ - પક્ષ)<br>3. AD = AD (સામાન્ય બાજુ)<br>કાકબા (RHS) શરત મુજબ, ΔABD ≅ ΔACD.<br>તેથી CPCT મુજબ, BD = CD.<br>આમ, AD એ BC ને દુભાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'વેધ' (Altitude) શબ્દ આવે એટલે કાટકોણ ત્રિકોણ બને જ. ત્યાં હંમેશા 'કાકબા' (RHS) શરત ચેક કરવી, મોટાભાગે એ જ વપરાશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "ΔABC માં AB = AC છે. બાજુ BA ને D સુધી એવી લંબાવી છે કે જેથી AD = AB થાય. સાબિત કરો કે ∠BCD કાટખૂણો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ΔABC માં, AB = AC હોવાથી ∠ABC = ∠ACB ... (1)<br>હવે AD = AB અને AB = AC હોવાથી AD = AC થાય. તેથી ΔADC માં, ∠ADC = ∠ACD ... (2)<br>ΔBCD માં, ∠B + ∠D + ∠BCD = 180°<br>સમીકરણ (1) અને (2) પરથી: ∠ACB + ∠ACD + ∠BCD = 180°<br>2 ∠BCD = 180° (કારણ કે ∠ACB + ∠ACD = ∠BCD)<br>તેથી, ∠BCD = 90°.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ દાખલામાં યાદ રાખો: 'ખૂણાઓનો સરવાળો = 180'. સમાન બાજુઓની સામેના ખૂણા સમાન લઈ સરવાળો કરશો એટલે સીધો 90 જવાબ મળી જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "ΔABC અને ΔDBC એક જ પાયા BC પર આવેલા બે સમદ્વિબાજુ ત્રિકોણ છે. સાબિત કરો કે ∠ABD = ∠ACD.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ΔABC માં, AB = AC હોવાથી ∠ABC = ∠ACB ... (1)<br>ΔDBC માં, DB = DC હોવાથી ∠DBC = ∠DCB ... (2)<br>સમીકરણ (1) અને (2) નો સરવાળો કરતા:<br>∠ABC + ∠DBC = ∠ACB + ∠DCB<br>આકૃતિ પરથી, ∠ABD = ∠ACD સાબિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે બે ત્રિકોણ એક જ પાયા પર હોય અને 'આખા' ખૂણા માંગ્યા હોય, ત્યારે ઉપરના અને નીચેના ખૂણાના સમીકરણોનો માત્ર 'સરવાળો' (Addition) કરવાનો હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "ΔABC માં AD એ BC નો લંબદ્વિભાજક છે. સાબિત કરો કે ΔABC સમદ્વિબાજુ ત્રિકોણ છે જેમાં AB = AC.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ΔABD અને ΔACD માં,<br>1. BD = CD (AD એ BC નો દ્વિભાજક છે)<br>2. ∠ADB = ∠ADC = 90° (AD એ BC પર લંબ છે)<br>3. AD = AD (સામાન્ય બાજુ)<br>બાખબા (SAS) શરત મુજબ, ΔABD ≅ ΔACD.<br>તેથી CPCT મુજબ, AB = AC.<br>આમ, ΔABC એ સમદ્વિબાજુ ત્રિકોણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'લંબદ્વિભાજક' શબ્દ બે માહિતી આપે છે: (1) 90 ડિગ્રી ખૂણો અને (2) બે સમાન ભાગ (BD=CD). આ બંનેનો ઉપયોગ બાખબા શરત માટે કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "ત્રિકોણ ABC માં, ∠A = 90° અને AB = AC હોય, તો ∠B અને ∠C ના માપ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ΔABC માં AB = AC આપેલ છે.<br>સમાન બાજુની સામેના ખૂણા સમાન હોય, તેથી ∠C = ∠B.<br>હવે, ત્રિકોણના ત્રણેય ખૂણાનો સરવાળો 180° થાય.<br>∠A + ∠B + ∠C = 180°<br>90° + ∠B + ∠B = 180° (કારણ કે ∠A=90 અને ∠C=∠B)<br>2 ∠B = 180° - 90° = 90°<br>∠B = 45°. તેથી ∠C = 45°.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાટકોણ સમદ્વિબાજુ ત્રિકોણમાં બાકીના બે ખૂણા હંમેશા 45-45 ડિગ્રીના જ હોય. (90/2 = 45).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "સાબિત કરો કે સમબાજુ ત્રિકોણના બધા જ ખૂણાના માપ 60° હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધારો કે ΔABC સમબાજુ છે, તેથી AB = BC = AC.<br>1. AB = AC હોવાથી ∠C = ∠B (પ્રમેય 7.2 મુજબ)<br>2. BC = AC હોવાથી ∠A = ∠B<br>તેથી, ∠A = ∠B = ∠C.<br>ત્રિકોણના ખૂણાના સરવાળાના ગુણધર્મ મુજબ,<br>∠A + ∠B + ∠C = 180°<br>3 ∠A = 180° (ત્રણેય સમાન હોવાથી)<br>∠A = 180/3 = 60°.<br>આમ, ત્રણેય ખૂણા 60° ના થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'બધી બાજુ સમાન તો બધા ખૂણા સમાન'. બસ, 180 ને 3 વડે ભાગી નાખો એટલે તમારો જવાબ તૈયાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "ΔABC માં, AB = AC છે. ખૂણા B અને C ના દ્વિભાજકો એકબીજાને O માં છેદે છે. સાબિત કરો કે OB = OC.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ΔABC માં AB = AC આપેલ છે.<br>તેથી ∠B = ∠C (સમાન બાજુની સામેના ખૂણા)<br>બંને બાજુ 1/2 વડે ગુણતા, 1/2 ∠B = 1/2 ∠C.<br>∠OBC = ∠OCB (કારણ કે BO અને CO દ્વિભાજકો છે)<br>હવે ΔOBC માં, ∠OBC = ∠OCB હોવાથી, તેમની સામેની બાજુઓ OB = OC થાય (પ્રમેય 7.3 મુજબ). સાબિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ 'પ્રમેય 7.2' નું ઉલટું (Converse) છે. ખૂણા અડધા થાય તો પણ સમાન જ રહે, અને સમાન ખૂણાની સામેની બાજુ હંમેશા સમાન જ હોય!</p></div>"
+    }
+  ]
+}
