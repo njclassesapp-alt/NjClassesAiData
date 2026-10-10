@@ -134,3 +134,71 @@ var Std9_Maths_2Marks = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "યામ ભૂમિતિ",
+  "marks": 2,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "નીચેના બિંદુઓ કયા ચરણમાં અથવા કયા અક્ષ પર આવેલા છે તે જણાવો: (4, -3), (-2, 5), (0, 7), (-3, -3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>1. (4, -3) : અહીં x ધન અને y ઋણ છે, તેથી તે <strong>ચોથા ચરણ</strong>માં છે.<br>2. (-2, 5) : અહીં x ઋણ અને y ધન છે, તેથી તે <strong>બીજા ચરણ</strong>માં છે.<br>3. (0, 7) : અહીં x-યામ શૂન્ય છે, તેથી તે <strong>Y-અક્ષ</strong> પર છે.<br>4. (-3, -3) : અહીં બંને યામ ઋણ છે, તેથી તે <strong>ત્રીજા ચરણ</strong>માં છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચરણ યાદ રાખવા માટે 'C' આકારમાં (++, -+, --, +-) ક્રમ યાદ રાખો. જો એક યામ 0 હોય, તો તે હંમેશા અક્ષ પર જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "કોઈ બિંદુના 'કોટિ' અને 'ભુજ' એટલે શું? બિંદુ (-5, 8) માટે કોટિ અને ભુજ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>કોઈપણ બિંદુના x-યામને <strong>'કોટિ' (Abscissa)</strong> કહેવામાં આવે છે અને y-યામને <strong>'ભુજ' (Ordinate)</strong> કહેવામાં આવે છે.<br><br>બિંદુ (-5, 8) માટે:<br>કોટિ = -5<br>ભુજ = 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'K'oti = 'X' (ક્રમમાં પહેલા આવે), 'Bh'uj = 'Y' (ક્રમમાં બીજા આવે). ભૂલ ન પડે તે માટે (કોટિ, ભુજ) = (x, y) યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "ઉગમબિંદુ એટલે શું? તેના યામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>યામ સમતલમાં પરસ્પર લંબ એવી બે યામ અક્ષો (X-અક્ષ અને Y-અક્ષ) જે બિંદુએ છેદે છે, તે છેદબિંદુને <strong>'ઉગમબિંદુ' (Origin)</strong> કહેવામાં આવે છે.<br><br>ઉગમબિંદુના યામ હંમેશા <strong>(0, 0)</strong> હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉગમબિંદુ એટલે ગણિતનું 'Starting Point'. અહીંથી જ બધું શરૂ થાય એટલે બંને યામ 'ઝીરો-ઝીરો'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "જો કોઈ બિંદુ Y-અક્ષ પર આવેલું હોય અને ઉગમબિંદુથી નીચેની તરફ 5 એકમ અંતરે હોય, તો તેના યામ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>1. બિંદુ Y-અક્ષ પર હોવાથી તેનો x-યામ 0 થશે.<br>2. બિંદુ ઉગમબિંદુથી નીચેની તરફ હોવાથી તેનો y-યામ ઋણ લેવામાં આવશે.<br>3. અંતર 5 એકમ હોવાથી y = -5.<br>તેથી, બિંદુના યામ <strong>(0, -5)</strong> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Y-અક્ષ પર ગાડી ચાલે તો X-યામ 'ઘરે' (એટલે કે 0) હોય. નીચે જાવ તો માઈનસ (-), ઉપર જાવ તો પ્લસ (+).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "બિંદુ P(3, 4) નું X-અક્ષ અને Y-અક્ષથી લંબ અંતર શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>બિંદુ P(x, y) નું X-અક્ષથી લંબ અંતર એટલે |y| અને Y-અક્ષથી લંબ અંતર એટલે |x|.<br><br>અહીં P(3, 4) માટે:<br>1. X-અક્ષથી લંબ અંતર = |y| = <strong>4 એકમ</strong><br>2. Y-અક્ષથી લંબ અંતર = |x| = <strong>3 એકમ</strong></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉલટું યાદ રાખો! X થી અંતર પૂછે તો 'y' ની કિંમત લખવી અને Y થી અંતર પૂછે તો 'x' ની કિંમત લખવી. અંતર ક્યારેય ઋણ ન હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "યામ સમતલના ચારેય ચરણના ચિન્હોની સમજૂતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>1. પ્રથમ ચરણ: (+, +) - બંને યામ ધન હોય.<br>2. દ્વિતીય ચરણ: (-, +) - x-યામ ઋણ અને y-યામ ધન હોય.<br>3. તૃતીય ચરણ: (-, -) - બંને યામ ઋણ હોય.<br>4. ચતુર્થ ચરણ: (+, -) - x-યામ ધન અને y-યામ ઋણ હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સામસામેના ચરણ વિરોધી હોય છે. 1 (++,--) 3 અને 2 (-+,+-) 4. બસ આટલું યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "જો કોઈ બિંદુનો કોટિ 4 હોય અને તે X-અક્ષ પર હોય, તો તે બિંદુના યામ શું થાય? તેને આલેખમાં કઈ બાજુ દર્શાવશો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>1. કોટિ (x-યામ) = 4 આપેલ છે.<br>2. બિંદુ X-અક્ષ પર હોવાથી તેનો y-યામ (ભુજ) 0 થશે.<br>તેથી, બિંદુના યામ <strong>(4, 0)</strong> થાય.<br>આ બિંદુ x-યામ ધન હોવાથી તેને ઉગમબિંદુથી <strong>જમણી બાજુ</strong> X-અક્ષ પર દર્શાવવામાં આવશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'X-અક્ષ પર' એટલે 'Y નકામો (0)'. પોઝિટિવ સંખ્યા એટલે જમણી સાઈડનો રસ્તો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "કાર્તેઝીયન પદ્ધતિમાં અક્ષો દ્વારા સમતલના જે ચાર ભાગ પડે છે તેને શું કહેવાય? તેમના નામ ક્રમમાં લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>કાર્તેઝીયન પદ્ધતિમાં અક્ષો દ્વારા સમતલના જે ચાર ભાગ પડે છે તેને <strong>'ચરણ' (Quadrants)</strong> અથવા <strong>'પાદ'</strong> કહેવાય છે.<br>ક્રમમાં તેમના નામ:<br>1. પ્રથમ ચરણ <br>2. દ્વિતીય ચરણ <br>3. તૃતીય ચરણ <br>4. ચતુર્થ ચરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હંમેશા ઘડિયાળના કાંટાની વિરુદ્ધ દિશામાં (Anti-clockwise) ચાલો, એટલે ચરણનો સાચો ક્રમ મળી જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "નીચેની શરતોનું પાલન કરતા બિંદુઓના યામનું સ્વરૂપ લખો:<br>(i) બિંદુ X-અક્ષ પર હોય. <br>(ii) બિંદુ Y-અક્ષ પર હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>(i) જો બિંદુ X-અક્ષ પર હોય, તો તેનો y-યામ શૂન્ય હોય. તેથી તેનું સ્વરૂપ <strong>(x, 0)</strong> છે.<br>(ii) જો બિંદુ Y-અક્ષ પર હોય, તો તેનો x-યામ શૂન્ય હોય. તેથી તેનું સ્વરૂપ <strong>(0, y)</strong> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે અક્ષનું નામ હોય તે હાજર (કિંમત હોય), જેનું નામ ન હોય તે ગેરહાજર (0)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "બિંદુઓ A(2, 0), B(2, 2) અને C(0, 2) ને જોડવાથી કઈ ભૌમિતિક આકૃતિ બનશે? (ઉગમબિંદુ O લો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>અહીં O(0,0), A(2,0), B(2,2) અને C(0,2) બિંદુઓ આપેલા છે.<br>1. OA = 2 એકમ (X-અક્ષ પર)<br>2. OC = 2 એકમ (Y-અક્ષ પર)<br>3. AB અને BC ની લંબાઈ પણ 2 એકમ થશે અને ખૂણા કાટખૂણા બનશે.<br>બધી બાજુઓ સમાન હોવાથી આ બિંદુઓને જોડતા <strong>'ચોરસ' (Square)</strong> બનશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે (a, 0), (a, a) અને (0, a) જેવા બિંદુઓ હોય ત્યારે હંમેશા 'ચોરસ' જ બને. આ ટ્રીક MCQ માં બહુ કામ લાગશે!</p></div>"
+    }
+  ]
+}
