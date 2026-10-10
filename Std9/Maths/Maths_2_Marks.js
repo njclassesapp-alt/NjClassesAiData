@@ -202,3 +202,71 @@ var Std9_Maths_2Marks = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "દ્વિચલ સુરેખ સમીકરણો",
+  "marks": 2,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "નોટબુકની કિંમત પેનની કિંમત કરતાં બમણી છે. આ વિધાનને દ્વિચલ સુરેખ સમીકરણ સ્વરૂપે દર્શાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધારો કે, નોટબુકની કિંમત = x રૂપિયા અને પેનની કિંમત = y રૂપિયા છે.<br>શરત મુજબ, નોટબુકની કિંમત પેન કરતાં બમણી છે.<br>તેથી, x = 2y<br>પ્રમાણિત સ્વરૂપ: x - 2y = 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે કોઈ એક વસ્તુ બીજી કરતા 'બમણી' હોય, ત્યારે જે નાનું હોય (અહીં પેન) તેને 2 વડે ગુણવાથી સમીકરણ બેલેન્સ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "સમીકરણ 2x + 3y = 9.35 ને ax + by + c = 0 સ્વરૂપે દર્શાવી a, b અને c ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આપેલ સમીકરણ: 2x + 3y = 9.35<br>તેને ax + by + c = 0 સ્વરૂપે લખતા:<br>2x + 3y - 9.35 = 0<br>અહીં, a = 2, b = 3 અને c = -9.35</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બરાબરની જમણી બાજુ હંમેશા '0' રાખવો અને પદની અદલાબદલી કરતી વખતે ચિહ્ન (+ નું -) ખાસ બદલવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "જો x = 2, y = 1 એ સમીકરણ 2x + 3y = k નો એક ઉકેલ હોય, તો k ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સમીકરણ 2x + 3y = k માં x = 2 અને y = 1 મુકતા:<br>2(2) + 3(1) = k<br>4 + 3 = k<br>તેથી, k = 7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ઉકેલ' શબ્દ દેખાય એટલે આપેલી કિંમતો સીધી સમીકરણમાં મૂકી દેવી, જવાબ આપોઆપ આવી જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "સમીકરણ πx + y = 9 ના કોઈ પણ બે ઉકેલ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>1. જો x = 0 લઈએ તો, π(0) + y = 9 ⇒ y = 9. ઉકેલ: (0, 9)<br>2. જો y = 0 લઈએ તો, πx + 0 = 9 ⇒ x = 9/π. ઉકેલ: (9/π, 0)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગમે તેવા અઘરા સમીકરણમાં એકવાર x=0 અને એકવાર y=0 લેવાથી સૌથી ઝડપથી બે ઉકેલ મળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "ચકાસો કે (4, 0) એ સમીકરણ x - 2y = 4 નો ઉકેલ છે કે નહીં?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સમીકરણ x - 2y = 4 ની ડાબી બાજુ (LHS) માં x = 4 અને y = 0 મુકતા:<br>LHS = 4 - 2(0) = 4 - 0 = 4<br>અહીં ડાબી બાજુ = જમણી બાજુ (4 = 4) થાય છે.<br>તેથી, (4, 0) એ આપેલ સમીકરણનો ઉકેલ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો 'ડાબુ = જમણું' થાય તો જ 'હા' પાડવી, બાકી 'ના' પાડી દેવી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "સમીકરણ 2x + y = 7 ના બે ઉકેલ મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>1. જો x = 1 લઈએ, તો 2(1) + y = 7 ⇒ 2 + y = 7 ⇒ y = 5. ઉકેલ: (1, 5)<br>2. જો x = 2 લઈએ, તો 2(2) + y = 7 ⇒ 4 + y = 7 ⇒ y = 3. ઉકેલ: (2, 3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હંમેશા જે ચલનો સહગુણક (આગળની સંખ્યા) મોટો હોય તેની કિંમત ધારવી, જેથી ગણતરી સરળ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "y = 3 ને બે ચલવાળા સુરેખ સમીકરણ તરીકે પ્રમાણિત સ્વરૂપમાં દર્શાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અહીં x ચલ ગેરહાજર છે, તેથી તેનો સહગુણક 0 લેવો પડે.<br>સમીકરણ: 0x + 1y = 3<br>પ્રમાણિત સ્વરૂપ: 0x + 1y - 3 = 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે ચલ રકમમાં ન હોય, તેને '0' ની ભેટ આપીને સમીકરણમાં બેસાડી દેવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "નીચેના સમીકરણને ax + by + c = 0 સ્વરૂપે લખો અને a, b, c શોધો: x - y/5 - 10 = 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આપેલ સમીકરણ: 1x + (-1/5)y + (-10) = 0<br>સરખાવતા: a = 1, b = -1/5, c = -10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): છેદમાં રહેલી સંખ્યાને ચલના સહગુણક તરીકે '1/સંખ્યા' લખવાનું ભૂલશો નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "જો બિંદુ (3, 4) એ સમીકરણ 3y = ax + 7 ના આલેખ પરનું એક બિંદુ હોય, તો a શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બિંદુ (3, 4) એટલે x = 3 અને y = 4.<br>3(4) = a(3) + 7<br>12 = 3a + 7<br>12 - 7 = 3a<br>5 = 3a ⇒ a = 5/3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'આલેખ પરનું બિંદુ' એટલે તે સમીકરણનું પાલન કરે જ. કિંમત મૂકીને સાદું રૂપ આપો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "એક સંખ્યા બીજી સંખ્યા કરતા 5 વધુ છે. તેને દ્વિચલ સુરેખ સમીકરણ સ્વરૂપે દર્શાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધારો કે પ્રથમ સંખ્યા x અને બીજી સંખ્યા y છે.<br>પ્રથમ સંખ્યા (x) એ બીજી સંખ્યા (y) કરતા 5 વધુ છે.<br>તેથી, x = y + 5<br>સમીકરણ: x - y - 5 = 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'વધુ' એટલે '+' અને 'ઓછું' એટલે '-'. જે નાનું હોય તેમાં ઉમેરો કરવાથી સમાનતા જળવાય.</p></div>"
+    }
+  ]
+}
