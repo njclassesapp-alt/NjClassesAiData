@@ -66,3 +66,71 @@ var Std9_Maths_2Marks = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "બહુપદીઓ",
+  "marks": 2,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "જો p(x) = 5x² - 3x + 7 હોય, તો x = 1 માટે બહુપદીની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અહીં p(x) = 5x² - 3x + 7 આપેલ છે.<br>x = 1 મૂકતા,<br>p(1) = 5(1)² - 3(1) + 7<br>p(1) = 5(1) - 3 + 7<br>p(1) = 5 - 3 + 7<br>p(1) = 2 + 7 = 9<br>આમ, બહુપદીની કિંમત 9 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે x = 1 મૂકવાનું હોય, ત્યારે માત્ર સહગુણકોનો સરવાળો કરી નાખો (5 - 3 + 7 = 9). ગણતરી ખૂબ જ ઝડપી થઈ જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "બહુપદી p(x) = 2x + 5 ના શૂન્યો શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બહુપદીનું શૂન્ય શોધવા માટે p(x) = 0 લેતા,<br>2x + 5 = 0<br>2x = -5<br>x = -5/2<br>આમ, બહુપદી p(x) નું શૂન્ય -5/2 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોઈપણ સુરેખ બહુપદી ax + b નું શૂન્ય હંમેશા x = -(અચળ પદ) / (x નો સહગુણક) એટલે કે -b/a જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "શેષ પ્રમેયનો ઉપયોગ કરીને, x³ + 3x² + 3x + 1 ને (x + 1) વડે ભાગતા મળતી શેષ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અહીં ભાજક x + 1 છે, તેથી તેનું શૂન્ય x = -1 થાય.<br>p(x) = x³ + 3x² + 3x + 1 માં x = -1 મૂકતા,<br>p(-1) = (-1)³ + 3(-1)² + 3(-1) + 1<br>p(-1) = -1 + 3(1) - 3 + 1<br>p(-1) = -1 + 3 - 3 + 1 = 0<br>આમ, મળતી શેષ 0 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો ભાજક (x + a) હોય તો p(-a) અને (x - a) હોય તો p(a) શોધવું. ચિહ્નોમાં ભૂલ ન કરવી તે ખાસ યાદ રાખવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "જો x - 1 એ p(x) = x² + x + k નો એક અવયવ હોય, તો k ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અવયવ પ્રમેય મુજબ, જો x - 1 એ p(x) નો અવયવ હોય, તો p(1) = 0 થાય.<br>p(1) = (1)² + (1) + k = 0<br>1 + 1 + k = 0<br>2 + k = 0<br>k = -2<br>આમ, k ની કિંમત -2 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'અવયવ છે' એમ કહ્યું હોય ત્યારે બહુપદી બરાબર 0 મૂકીને જ અજ્ઞાતની કિંમત શોધવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "નિત્યસમનો ઉપયોગ કરીને (2x + 1)³ નું વિસ્તરણ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિત્યસમ (a + b)³ = a³ + b³ + 3ab(a + b) નો ઉપયોગ કરતા,<br>(2x + 1)³ = (2x)³ + (1)³ + 3(2x)(1)(2x + 1)<br>= 8x³ + 1 + 6x(2x + 1)<br>= 8x³ + 1 + 12x² + 6x<br>= 8x³ + 12x² + 6x + 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘનનું વિસ્તરણ કરતી વખતે પદોને ઘાતના ઉતરતા ક્રમમાં ગોઠવવાથી જવાબ પ્રમાણિત સ્વરૂપમાં દેખાશે અને પૂરા માર્ક્સ મળશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "યોગ્ય નિત્યસમનો ઉપયોગ કરીને 103 × 107 ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 103 × 107 = (100 + 3)(100 + 7)<br>નિત્યસમ (x + a)(x + b) = x² + (a + b)x + ab મુજબ,<br>= (100)² + (3 + 7)100 + (3)(7)<br>= 10000 + (10)100 + 21<br>= 10000 + 1000 + 21 = 11021</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે સંખ્યા 100 ની નજીક હોય ત્યારે હંમેશા આધાર 100 લેવો, જેથી વર્ગ કરવો અને શૂન્ય ગણવા સરળ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "અવયવ પાડો: 9x² + 6xy + y²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અહીં પ્રથમ પદ 9x² = (3x)² અને અંતિમ પદ y² = (y)² છે.<br>મધ્યમ પદ = 2(3x)(y) = 6xy છે.<br>આથી, નિત્યસમ a² + 2ab + b² = (a + b)² મુજબ,<br>9x² + 6xy + y² = (3x + y)² અથવા (3x + y)(3x + y)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો પ્રથમ અને છેલ્લું પદ પૂર્ણવર્ગ હોય, તો હંમેશા ચેક કરી લો કે મધ્યમ પદ એ બંનેના વર્ગમૂળના ગુણાકારથી બમણું છે કે નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "નિત્યસમનો ઉપયોગ કરી વિસ્તરણ કરો: (x + 2y + 4z)²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (a + b + c)² = a² + b² + c² + 2ab + 2bc + 2ca મુજબ,<br>= (x)² + (2y)² + (4z)² + 2(x)(2y) + 2(2y)(4z) + 2(4z)(x)<br>= x² + 4y² + 16z² + 4xy + 16yz + 8zx</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ત્રિપદીના વર્ગમાં 3 વર્ગ વાળા પદો અને 3 ગુણાકાર વાળા પદો એમ કુલ 6 પદો આવશે જ, તે યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "અવયવ પાડો: x² - 25/100",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આપેલ પદાવલીને તફાવતની રીતે લખતા:<br>x² - 25/100 = (x)² - (5/10)²<br>નિત્યસમ a² - b² = (a - b)(a + b) મુજબ,<br>= (x - 5/10)(x + 5/10)<br>= (x - 1/2)(x + 1/2)  [અતિસંક્ષિપ્ત રૂપ આપતા]</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બે પદ હોય અને વચ્ચે માઈનસ હોય, તો 99% કિસ્સામાં 'એક વાર વત્તા અને એક વાર ઓછા' (તફાવતની રીત) જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "મધ્યમ પદને વિભાજીત કરી અવયવ પાડો: 12x² - 7x + 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અહીં ગુણાકાર 12 × 1 = 12 અને સરવાળો -7 જોઈએ.<br>એવા બે ભાગ -4 અને -3 છે.<br>12x² - 4x - 3x + 1<br>4x(3x - 1) - 1(3x - 1)<br>(3x - 1)(4x - 1)<br>આમ, અવયવો (3x - 1) અને (4x - 1) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો છેલ્લું પદ ધન (+) હોય, તો બંને ભાગના ચિહ્નો મધ્યમ પદ જેવા જ આવશે.</p></div>"
+    }
+  ]
+}
