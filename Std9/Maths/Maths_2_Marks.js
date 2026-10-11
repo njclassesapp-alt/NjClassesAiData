@@ -338,3 +338,71 @@ var Std9_Maths_2Marks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "રેખાઓ અને ખૂણાઓ",
+  "marks": 2,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "એવો ખૂણો શોધો જે તેના કોટિકોણના માપ જેટલો જ હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધારો કે તે ખૂણાનું માપ x છે.<br>કોટિકોણના માપનો સરવાળો 90° થાય છે.<br>તેથી, x + x = 90°<br>2x = 90°<br>x = 45°<br>આમ, 45° નો ખૂણો તેના કોટિકોણ જેટલો જ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોટિકોણ એટલે 'C' (Corner - 90°). અડધું કરવાનું હોય તો 90/2 = 45° સીધો જવાબ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "રૈખિક જોડના બે ખૂણાઓના માપનો ગુણોત્તર 2 : 3 હોય, તો તે ખૂણાઓના માપ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધારો કે ખૂણાઓના માપ 2x અને 3x છે.<br>રૈખિક જોડના ખૂણાઓનો સરવાળો 180° થાય.<br>2x + 3x = 180°<br>5x = 180°<br>x = 36°<br>ખૂણો 1 = 2(36) = 72°<br>ખૂણો 2 = 3(36) = 108°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુણોત્તરનો સરવાળો કરો (2+3=5). 180 ને 5 વડે ભાગો એટલે 36 મળે. હવે બંનેને 36 થી ગુણી નાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "એક ખૂણાનું માપ તેના પૂરકકોણના માપ કરતા ચાર ગણું છે, તો તે ખૂણાનું માપ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધારો કે પૂરકકોણનું માપ x છે. તેથી તે ખૂણાનું માપ 4x થાય.<br>પૂરકકોણનો સરવાળો = 180°<br>x + 4x = 180°<br>5x = 180°<br>x = 36°<br>માંગેલ ખૂણો = 4x = 4(36) = 144°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પૂરકકોણ એટલે 'S' (Straight line - 180°). ચાર ગણું + એક ગણું = 5 ભાગ. 180/5 = 36. 36 x 4 = 144°!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "જો બે રેખાઓ પરસ્પર છેદે અને બનતા અભિકોણો પૈકી એકનું માપ 50° હોય, તો બાકીના ત્રણેય ખૂણાના માપ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (1) સામેનો અભિકોણ સમાન હોય, તેથી બીજો ખૂણો = 50°.<br>(2) પાસેનો ખૂણો રૈખિક જોડ બનાવે, તેથી ત્રીજો ખૂણો = 180° - 50° = 130°.<br>(3) ત્રીજા ખૂણાનો અભિકોણ પણ સમાન હોય, તેથી ચોથો ખૂણો = 130°.<br>આમ, ખૂણાઓ: 50°, 130°, 50°, 130°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અભિકોણો હંમેશા 'X' આકાર બનાવે. સામ-સામે સરખા અને બાજુ-બાજુમાં સરવાળો 180°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "ત્રિકોણના ત્રણેય ખૂણાઓનો ગુણોત્તર 1 : 2 : 3 હોય, તો સૌથી મોટા ખૂણાનું માપ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધારો કે ખૂણાઓ x, 2x અને 3x છે.<br>ત્રિકોણના ખૂણાઓનો સરવાળો = 180°<br>x + 2x + 3x = 180°<br>6x = 180° => x = 30°<br>સૌથી મોટો ખૂણો = 3x = 3(30) = 90°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1+2+3 = 6. 180 ને 6 વડે ભાગો એટલે 30 મળે. સૌથી મોટા અંક (3) સાથે ગુણી દો, 30 x 3 = 90°!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "જો બે સમાંતર રેખાઓને એક છેદિકા છેદે, અને છેદિકાની એક જ તરફના અંત:કોણો (2x + 10) અને (3x - 20) હોય, તો x શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> છેદિકાની એક જ તરફના અંત:કોણો પૂરક હોય છે.<br>(2x + 10) + (3x - 20) = 180°<br>5x - 10 = 180°<br>5x = 190°<br>x = 38°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અંત:કોણો 'C' આકાર બનાવે. 'C' એટલે 180° યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "એક ત્રિકોણનો બહિષ્કોણ 110° છે અને તેના એક અંતઃસંમુખકોણનું માપ 40° છે, તો બીજા અંતઃસંમુખકોણનું માપ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બહિષ્કોણનું માપ = બે અંતઃસંમુખકોણોના માપનો સરવાળો<br>110° = 40° + બીજો અંતઃસંમુખકોણ<br>બીજો અંતઃસંમુખકોણ = 110° - 40° = 70°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બહારનો ખૂણો = અંદરના બેનો સરવાળો. બાદબાકી કરો એટલે સીધો જવાબ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "જો ∠A અને ∠B કોટિકોણ હોય અને ∠A = ∠B + 20° હોય, તો ∠A અને ∠B શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ∠A + ∠B = 90° (કોટિકોણ)<br>(∠B + 20°) + ∠B = 90°<br>2∠B = 70° => ∠B = 35°<br>∠A = 35° + 20° = 55°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તફાવત 20 છે. (90-20)/2 = 35 (નાનો ખૂણો). 35+20 = 55 (મોટો ખૂણો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "આકૃતિમાં જો AB || CD હોય અને એક યુગ્મકોણ 65° હોય, તો તેની સાથે બનતો બીજો યુગ્મકોણ કેટલો થાય? કારણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બીજો અંતઃયુગ્મકોણ પણ 65° જ થાય.<br>કારણ: જ્યારે બે સમાંતર રેખાઓને એક છેદિકા છેદે ત્યારે બનતા અંતઃયુગ્મકોણો હંમેશા સમાન હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યુગ્મકોણ એટલે 'Z' આકાર. Z ના બંને ખૂણા હંમેશા સમાન (Equal) હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "જો બે રેખાઓ પરસ્પર છેદે અને શિરોબિંદુ આગળ બનતા રૈખિક જોડના ખૂણા સમાન હોય, તો તે દરેક ખૂણાનું માપ કેટલું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રૈખિક જોડના ખૂણાનો સરવાળો 180° થાય.<br>બંને ખૂણા સમાન હોવાથી, ધારો કે માપ x છે.<br>x + x = 180°<br>2x = 180° => x = 90°<br>આમ, દરેક ખૂણો કાટખૂણો (90°) હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રૈખિક જોડ + સમાન = હંમેશા 90°. આ રેખાઓ પરસ્પર લંબ કહેવાય!</p></div>"
+    }
+  ]
+}
