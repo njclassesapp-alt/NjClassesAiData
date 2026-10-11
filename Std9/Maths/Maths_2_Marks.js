@@ -406,3 +406,71 @@ var Std9_Maths_2Marks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "ત્રિકોણ",
+  "marks": 2,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "એકાંતર કોણ અને સંગતતાની દ્રષ્ટિએ ત્રિકોણની એકરૂપતા માટેની 'બાખૂબા' (SAS) શરત લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જો બે ત્રિકોણો માટે, એક ત્રિકોણની બે બાજુઓ અને તેમનો અંતર્ગત ખૂણો બીજા ત્રિકોણની અનુરૂપ બે બાજુઓ અને તેમના અંતર્ગત ખૂણાને સમાન હોય, તો તે બે ત્રિકોણો એકરૂપ છે તેમ કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાખૂબા એટલે 'બાજુ-ખૂણો-બાજુ'. યાદ રાખો કે ખૂણો હંમેશા બે બાજુઓની 'વચ્ચે' જ હોવો જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "ત્રિકોણની એકરૂપતા માટેની 'ખૂબાખૂ' (ASA) શરત સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જો એક ત્રિકોણના બે ખૂણા અને તેમની અંતર્ગત બાજુ, બીજા ત્રિકોણના અનુરૂપ બે ખૂણા અને તેમની અંતર્ગત બાજુને સમાન હોય, તો તે બે ત્રિકોણો એકરૂપ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખૂબાખૂ માં 'બાજુ' બે ખૂણાની વચ્ચે સેન્ડવીચ જેવી હોય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "સાબિત કરો કે સમદ્વિબાજુ ત્રિકોણની સમાન બાજુઓની સામેના ખૂણાઓ સમાન હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધારો કે ΔABC માં AB = AC છે. આપણે સાબિત કરવાનું છે કે ∠B = ∠C. <br>1. ∠A નો દ્વિભાજક AD દોરો જે BC ને D માં મળે. <br>2. ΔABD અને ΔACD માં, AB = AC (પક્ષ), ∠BAD = ∠CAD (રચના) અને AD = AD (સામાન્ય બાજુ). <br>3. બાખૂબા શરત મુજબ ΔABD ≅ ΔACD. <br>4. તેથી CPCT મુજબ, ∠B = ∠C.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમાન બાજુ = સમાન ખૂણા. સામસામેની જોડી હંમેશા પાક્કા મિત્રો જેવી હોય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "CPCT નો અર્થ સમજાવો અને તેનું મહત્વ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> CPCT એટલે 'Corresponding Parts of Congruent Triangles' (એકરૂપ ત્રિકોણના અનુરૂપ અંગો). જ્યારે બે ત્રિકોણ એકરૂપ સાબિત થાય, ત્યારે તેના બાકીના તમામ અંગો (બાજુઓ અને ખૂણાઓ) પણ આપોઆપ સમાન થઈ જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): CPCT એટલે 'એકવાર એકરૂપતા સાબિત કરો, પછી બધું જ ફ્રીમાં સમાન મેળવો'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "ત્રિકોણની એકરૂપતા માટેની 'બાબાબા' (SSS) શરત લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જો એક ત્રિકોણની ત્રણેય બાજુઓ બીજા ત્રિકોણની ત્રણેય અનુરૂપ બાજુઓને સમાન હોય, તો તે બંને ત્રિકોણો એકરૂપ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો ત્રણેય લાકડીઓ (બાજુઓ) ના માપ સરખા હોય, તો ત્રિકોણનો આકાર બદલી શકાય જ નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "કાટકોણ ત્રિકોણ માટે 'કબાખૂ' અથવા 'કાકર્બા' (RHS) શરત સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જો બે કાટકોણ ત્રિકોણમાં, એક ત્રિકોણનો કર્ણ અને એક બાજુ બીજા ત્રિકોણના અનુરૂપ કર્ણ અને બાજુને સમાન હોય, તો તે બે ત્રિકોણો એકરૂપ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): RHS = Right angle (કાટખૂણો), Hypotenuse (કર્ણ), Side (બાજુ). આ શરત માત્ર કાટકોણ ત્રિકોણમાં જ વપરાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "જો ΔABC માં AB = AC અને ∠A = 80° હોય, તો ∠B અને ∠C ના માપ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અહીં AB = AC હોવાથી, ∠B = ∠C (સમાન બાજુની સામેના ખૂણા). <br>ત્રિકોણના ત્રણેય ખૂણાનો સરવાળો 180° થાય. <br>∠A + ∠B + ∠C = 180° <br>80° + 2∠B = 180° (∵ ∠B = ∠C) <br>2∠B = 100° <br>∠B = 50°. તેથી ∠C = 50°.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 180 માંથી ઉપરનો ખૂણો બાદ કરી અડધા કરી નાખો! (180 - 80) / 2 = 50°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "સાબિત કરો કે સમબાજુ ત્રિકોણનો દરેક ખૂણો 60° નો હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સમબાજુ ત્રિકોણમાં ત્રણેય બાજુઓ સમાન હોય છે (AB = BC = AC). <br>તેથી, સામેના ત્રણેય ખૂણા પણ સમાન થાય: ∠A = ∠B = ∠C. <br>ધારો કે ∠A = ∠B = ∠C = x. <br>x + x + x = 180° => 3x = 180° => x = 60°.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સમબાજુ' એટલે બધું જ સરખું! 180 ના ત્રણ સરખા ભાગ એટલે 60!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "ત્રિકોણની અસમાનતાનો ગુણધર્મ જણાવો (બાજુ અને ખૂણાનો સંબંધ).",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કોઈપણ ત્રિકોણમાં, (1) મોટી બાજુની સામેનો ખૂણો મોટો હોય છે. (2) મોટા ખૂણાની સામેની બાજુ લાંબી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેવડું મોટું મોઢું (ખૂણો), એવડી મોટી સામેની લાકડી (બાજુ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "ત્રિકોણની બાજુઓ માટેની અસમતાની શરત લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ત્રિકોણની કોઈપણ બે બાજુઓનો સરવાળો, તેની ત્રીજી બાજુ કરતાં હંમેશા વધારે હોય છે. (a + b > c)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બે નાની બાજુઓ ભેગી મળીને મોટી બાજુને હરાવી જ દેવી જોઈએ, તો જ ત્રિકોણ બને!</p></div>"
+    }
+  ]
+}
