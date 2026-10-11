@@ -474,3 +474,71 @@ var Std9_Maths_2Marks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "ચતુષ્કોણ",
+  "marks": 2,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "એક ચતુષ્કોણના ખૂણાઓનો ગુણોત્તર 3 : 5 : 9 : 13 છે, તો આ ચતુષ્કોણના બધા જ ખૂણાઓ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધારો કે ચતુષ્કોણના ખૂણાઓ 3x, 5x, 9x અને 13x છે.<br>ચતુષ્કોણના બધા જ ખૂણાઓનો સરવાળો 360° થાય.<br>∴ 3x + 5x + 9x + 13x = 360°<br>∴ 30x = 360°<br>∴ x = 360 / 30 = 12°<br>ખૂણાઓ:<br>3x = 3 × 12 = 36°<br>5x = 5 × 12 = 60°<br>9x = 9 × 12 = 108°<br>13x = 13 × 12 = 156°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે ગુણોત્તર આપ્યો હોય ત્યારે તેનો સરવાળો કરી (અહીં 30), 360 ને તેનાથી ભાગી નાખો. જે જવાબ આવે (12) તેને દરેક ગુણોત્તર સાથે ગુણી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "સમાંતરબાજુ ચતુષ્કોણ ABCD માં જો ∠A = 70° હોય, તો બાકીના બધા જ ખૂણાઓના માપ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સમાંતરબાજુ ચતુષ્કોણમાં સામસામેના ખૂણા સમાન હોય અને પાસપાસેના ખૂણા પૂરક (180°) હોય.<br>1. ∠C = ∠A = 70° (સામસામેના ખૂણા)<br>2. ∠A + ∠B = 180° (પાસપાસેના ખૂણા)<br>   70° + ∠B = 180°<br>   ∠B = 180° - 70° = 110°<br>3. ∠D = ∠B = 110° (સામસામેના ખૂણા)<br>આમ, ખૂણાઓ 70°, 110°, 70°, 110° છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સમાંતર' એટલે 'સામસામે સમાન' અને 'પાસપાસે પૂરક'. બસ આટલું યાદ રાખો એટલે જવાબ આવી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "જો સમાંતરબાજુ ચતુષ્કોણના વિકર્ણો સમાન હોય, તો દર્શાવો કે તે લંબચોરસ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધારો કે સમાંતરબાજુ ચતુષ્કોણ ABCD માં AC = BD છે.<br>ΔABC અને ΔDCB માં,<br>AB = DC (સામસામેની બાજુ)<br>BC = BC (સામાન્ય બાજુ)<br>AC = DB (પક્ષ - આપેલ છે)<br>∴ બાબાબા શરત મુજબ ΔABC ≅ ΔDCB.<br>∴ ∠ABC = ∠DCB (CPCT)<br>પરંતુ ∠ABC + ∠DCB = 180° (અંત:કોણો)<br>માટે 2∠ABC = 180° ⇒ ∠ABC = 90°.<br>જે સમાંતરબાજુ ચતુષ્કોણનો એક ખૂણો કાટખૂણો હોય તે લંબચોરસ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લંબચોરસ સાબિત કરવા માટે હંમેશા સમાંતરબાજુ ચતુષ્કોણનો કોઈ પણ એક ખૂણો 90° સાબિત કરી દેવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "ΔABC માં D અને E એ અનુક્રમે AB અને AC ના મધ્યબિંદુઓ છે. જો BC = 12 સેમી હોય, તો DE ની લંબાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મધ્યબિંદુ પ્રમેય મુજબ, 'ત્રિકોણની બે બાજુઓના મધ્યબિંદુને જોડતો રેખાખંડ ત્રીજી બાજુને સમાંતર અને તેનાથી અડધો હોય છે.'<br>અહીં, D અને E મધ્યબિંદુઓ હોવાથી,<br>DE = 1/2 * BC<br>DE = 1/2 * 12<br>DE = 6 સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મધ્યબિંદુ એટલે 'અડધું'. જો મોટી બાજુ આપી હોય તો અડધી કરો, અને જો મધ્યબિંદુ વાળી નાની બાજુ આપી હોય તો ડબલ કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "એક સમબાજુ ચતુષ્કોણના વિકર્ણોની લંબાઈ 16 સેમી અને 12 સેમી છે. તેની બાજુની લંબાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સમબાજુ ચતુષ્કોણના વિકર્ણો પરસ્પર કાટખૂણે દુભાગે છે.<br>વિકર્ણના અડધા ભાગ = 16/2 = 8 સેમી અને 12/2 = 6 સેમી.<br>કાટકોણ ત્રિકોણમાં પાયથાગોરસના પ્રમેય મુજબ:<br>બાજુ² = 8² + 6²<br>બાજુ² = 64 + 36 = 100<br>બાજુ = √100 = 10 સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાયથાગોરસની ત્રિપુટી યાદ રાખો: 6, 8 હોય તો કર્ણ (બાજુ) હંમેશા 10 જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "ચતુષ્કોણ ABCD માં ∠A : ∠B : ∠C : ∠D = 1 : 2 : 3 : 4 હોય, તો સૌથી મોટા ખૂણાનું માપ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ખૂણાઓનો સરવાળો = 1 + 2 + 3 + 4 = 10.<br>ચતુષ્કોણના ખૂણાઓનો કુલ સરવાળો = 360°.<br>સૌથી મોટો ભાગ = 4.<br>સૌથી મોટો ખૂણો = (4 / 10) * 360°<br>સૌથી મોટો ખૂણો = 4 * 36 = 144°.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): (જે શોધવું હોય તેનો ગુણોત્તર / કુલ ગુણોત્તર) × 360. આ ગણતરી સૌથી ઝડપી છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "સમાંતરબાજુ ચતુષ્કોણ ABCD માં ∠A = (2x + 10)° અને ∠B = (3x - 10)° હોય, તો x ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સમાંતરબાજુ ચતુષ્કોણમાં પાસપાસેના ખૂણા પૂરક હોય છે.<br>∠A + ∠B = 180°<br>(2x + 10) + (3x - 10) = 180°<br>5x = 180°<br>x = 180 / 5<br>x = 36°.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાસપાસેના ખૂણામાં x વાળા પદોનો સરવાળો કરી 180 સાથે સરખાવી દેવા. જો સામસામે હોય તો બંનેને એકબીજાની સામે મૂકવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "સાબિત કરો કે સમાંતરબાજુ ચતુષ્કોણનો કોઈપણ વિકર્ણ તેનું બે એકરૂપ ત્રિકોણોમાં વિભાજન કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ABCD સમાંતરબાજુ ચતુષ્કોણ છે અને AC વિકર્ણ છે.<br>ΔABC અને ΔCDA માં,<br>1. BC || AD અને AC છેદિકા હોવાથી ∠BCA = ∠DAC (યુગ્મકોણ)<br>2. AB || DC અને AC છેદિકા હોવાથી ∠BAC = ∠DCA (યુગ્મકોણ)<br>3. AC = CA (સામાન્ય બાજુ)<br>ખૂબાખૂ શરત મુજબ ΔABC ≅ ΔCDA.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમાંતર રેખા દેખાય એટલે 'Z' આકારના યુગ્મકોણો યાદ કરી લેવા, સાબિતી સરળ થઈ જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "લંબચોરસના ગુણધર્મો જણાવો. (કોઈપણ બે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લંબચોરસના મુખ્ય ગુણધર્મો નીચે મુજબ છે:<br>1. લંબચોરસના બધા જ ખૂણા કાટખૂણા (90°) હોય છે.<br>2. લંબચોરસના વિકર્ણોની લંબાઈ સમાન હોય છે અને તે પરસ્પર દુભાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લંબચોરસ = સમાંતરબાજુ ચતુષ્કોણ + બધા ખૂણા 90° + સમાન વિકર્ણો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "ચતુષ્કોણના પ્રકારોના નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મુખ્ય ચતુષ્કોણના પ્રકારો નીચે મુજબ છે:<br>1. સમાંતરબાજુ ચતુષ્કોણ<br>2. લંબચોરસ<br>3. સમબાજુ ચતુષ્કોણ<br>4. ચોરસ<br>5. સમલંબ ચતુષ્કોણ<br>6. પતંગાકાર ચતુષ્કોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સલસચો સપ' - સ(સમાંતરબાજુ), લ(લંબચોરસ), સ(સમબાજુ), ચો(ચોરસ), સ(સમલંબ), પ(પતંગાકાર). આ કોડ યાદ રાખો!</p></div>"
+    }
+  ]
+}
