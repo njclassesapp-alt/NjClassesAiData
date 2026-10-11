@@ -270,3 +270,71 @@ var Std9_Maths_2Marks = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "યુક્લિડની ભૂમિતિનો પરિચય",
+  "marks": 2,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "યુક્લિડની વ્યાખ્યાઓ મુજબ 'બિંદુ', 'રેખા' અને 'સપાટી' ની સમજૂતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> યુક્લિડના મતે:<br>1. <strong>બિંદુ:</strong> બિંદુને કોઈ ભાગ હોતો નથી (તે અવકાશમાં માત્ર સ્થાન દર્શાવે છે).<br>2. <strong>રેખા:</strong> રેખા એ પહોળાઈ વગરની લંબાઈ છે.<br>3. <strong>સપાટી:</strong> સપાટીને માત્ર લંબાઈ અને પહોળાઈ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ડાયમેન્શન યાદ રાખો: બિંદુ = 0D, રેખા = 1D, સપાટી = 2D અને ઘન = 3D.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "યુક્લિડનું પ્રથમ સ્વયંસિદ્ધ સત્ય લખો અને તેનું એક વ્યવહારુ ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <b>સ્વયંસિદ્ધ સત્ય 1:</b> જે વસ્તુઓ એક જ વસ્તુને સમાન હોય, તે એકબીજાને સમાન થાય.<br><strong>ઉદાહરણ:</strong> જો ક્ષેત્રફળ A = ક્ષેત્રફળ B હોય અને ક્ષેત્રફળ B = ક્ષેત્રફળ C હોય, તો ક્ષેત્રફળ A = ક્ષેત્રફળ C થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો 'અ' અને 'બ' મિત્રો હોય, અને 'બ' અને 'ક' મિત્રો હોય, તો 'અ' અને 'ક' પણ મિત્રો જ ગણાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "યુક્લિડની પ્રથમ બે પૂર્વધારણાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br><strong>પૂર્વધારણા 1:</strong> એક બિંદુમાંથી બીજા બિંદુ સુધી એક સીધી રેખા દોરી શકાય.<br><strong>પૂર્વધારણા 2:</strong> શાંત રેખા (રેખાખંડ) ને અનંત સુધી લંબાવી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પૂર્વધારણા 1 એટલે 'રસ્તો' અને પૂર્વધારણા 2 એટલે 'ખેંચાણ' (રેખાને ગમે તેટલી લાંબી કરી શકાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "જો રેખા પર ત્રણ બિંદુઓ A, B અને C હોય અને B એ A અને C ની વચ્ચે હોય, તો સાબિત કરો કે AB + BC = AC.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અહીં યુક્લિડના ચોથા સ્વયંસિદ્ધ સત્ય મુજબ, 'જે વસ્તુઓ એકબીજા પર બંધબેસતી આવે, તે એકબીજાને સમાન હોય છે.'<br>અહીં રેખાખંડ AB અને BC નો સરવાળો એ રેખાખંડ AC પર જ બંધબેસતો આવે છે. તેથી, AB + BC = AC થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'આખું = કટકો + કટકો'. જ્યારે બે નાના ભાગ મળીને મોટી આકૃતિ બનાવે ત્યારે તેનો સરવાળો જ કુલ લંબાઈ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "યુક્લિડની ચોથી પૂર્વધારણા શું છે? સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <strong>પૂર્વધારણા 4:</strong> બધા જ કાટખૂણા એકબીજા સાથે સમાન હોય છે.<br><strong>સમજૂતી:</strong> ભલે કાટખૂણો બનાવતી બાજુઓની લંબાઈ ગમે તેટલી હોય, પણ જો ખૂણો 90° નો હોય તો તે દરેક સ્થિતિમાં સરખો જ રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાટખૂણો એટલે 90 ડિગ્રીનો 'L' આકાર. દુનિયાના કોઈપણ ખૂણે 'L' હંમેશા સમાન જ દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "નીચેના પદોની વ્યાખ્યા આપો: (1) સમાંતર રેખાઓ (2) વર્તુળની ત્રિજ્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br><strong>1. સમાંતર રેખાઓ:</strong> એક જ સમતલમાં આવેલી જે બે રેખાઓ પરસ્પર છેદતી ન હોય તેમને સમાંતર રેખાઓ કહે છે.<br><strong>2. વર્તુળની ત્રિજ્યા:</strong> વર્તુળના કેન્દ્ર અને વર્તુળ પરના કોઈપણ બિંદુને જોડતા રેખાખંડને ત્રિજ્યા કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમાંતર એટલે રેલવેના પાટા (જે કદી ન મળે) અને ત્રિજ્યા એટલે સાયકલના પૈડાનો આરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "સ્વયંસિદ્ધ સત્ય 5 'આખું તેના ભાગ કરતા મોટું હોય છે' ને વૈશ્વિક સત્ય કેમ માનવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ સત્ય માત્ર ગણિત પૂરતું મર્યાદિત નથી, પરંતુ વિજ્ઞાન અને વ્યવહારુ જીવનના દરેક ક્ષેત્રમાં લાગુ પડે છે. કોઈપણ વસ્તુનો ટુકડો તે આખી વસ્તુ માંથી જ કાઢવામાં આવ્યો હોય છે, તેથી તે હંમેશા મૂળ વસ્તુ કરતા નાનો જ રહેવાનો. આ સનાતન હોવાથી તેને વૈશ્વિક સત્ય કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આખા પિઝાનો એક ટુકડો હંમેશા આખા પિઝા કરતા નાનો જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "યુક્લિડની પાંચમી પૂર્વધારણાનું ટૂંકમાં વર્ણન કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જો બે રેખાઓને ત્રીજી રેખા છેદે અને એક જ તરફના બે અંત:કોણોનો સરવાળો બે કાટખૂણા (180°) કરતા ઓછો હોય, તો તે બે રેખાઓને તે દિશામાં લંબાવતા તેઓ એકબીજાને છેદશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સરવાળો < 180° = રેખાઓ ભેગી થશે. સરવાળો = 180° = સમાંતર રહેશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "જો AC = BC હોય અને બિંદુ C એ A અને B ની વચ્ચે હોય, તો સાબિત કરો કે AC = 1/2 AB.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અહીં, AC + CB = AB (સ્વયંસિદ્ધ સત્ય 4 મુજબ).<br>પરંતુ આપેલ છે કે AC = BC.<br>તેથી, AC + AC = AB<br>2 AC = AB<br>માટે, AC = 1/2 AB.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો બે સમાન ભાગ ભેગા કરો તો તે આખા બરાબર થાય, એટલે એક ભાગ આખાથી અડધો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "યુક્લિડના કોઈ પણ બે સ્વયંસિદ્ધ સત્યો (Axioms) લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>1. જો સમાનમાં સમાન ઉમેરવામાં આવે, તો સરવાળા સમાન રહે છે.<br>2. જો સમાનમાંથી સમાન બાદ કરવામાં આવે, તો શેષફળ સમાન રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સરવાળા-બાદબાકીનો નિયમ: 'જેવું કરો તેવું પામો' - બંને બાજુ સરખું કરો તો પરિણામ સરખું જ મળે.</p></div>"
+    }
+  ]
+}
