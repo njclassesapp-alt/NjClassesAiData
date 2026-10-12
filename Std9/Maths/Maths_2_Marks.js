@@ -610,3 +610,71 @@ var Std9_Maths_2Marks = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "હેરોનનું સૂત્ર",
+  "marks": 2,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "એક ત્રિકોણની બાજુઓ 13 સેમી, 14 સેમી અને 15 સેમી હોય, તો તેની અર્ધપરિમિતિ (s) શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અહીં બાજુઓ a = 13 સેમી, b = 14 સેમી અને c = 15 સેમી છે.<br>અર્ધપરિમિતિ (s) = (a + b + c) / 2<br>s = (13 + 14 + 15) / 2<br>s = 42 / 2<br>s = 21 સેમી.<br>આમ, ત્રિકોણની અર્ધપરિમિતિ 21 સેમી થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અર્ધપરિમિતિ એટલે ત્રણેય બાજુના સરવાળાનું અડધું! સરવાળો કરવામાં ભૂલ ન થાય તે માટે સૌથી મોટી અને નાની બાજુનો સરવાળો કરી વચ્ચેની સંખ્યા ઉમેરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "એક ત્રિકોણની બે બાજુઓ 8 સેમી અને 11 સેમી હોય અને તેની પરિમિતિ 32 સેમી હોય, તો ત્રીજી બાજુનું માપ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અહીં a = 8 સેમી, b = 11 સેમી અને પરિમિતિ = 32 સેમી આપેલ છે.<br>પરિમિતિ = a + b + c<br>32 = 8 + 11 + c<br>32 = 19 + c<br>c = 32 - 19<br>c = 13 સેમી.<br>આમ, ત્રીજી બાજુનું માપ 13 સેમી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આપેલ બે બાજુઓનો સરવાળો કરી તેને કુલ પરિમિતિમાંથી બાદ કરો એટલે ત્રીજી બાજુ તરત મળી જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "એક સમબાજુ ત્રિકોણની બાજુનું માપ 10 સેમી હોય, તો હેરોનના સૂત્રની મદદથી તેનું ક્ષેત્રફળ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અહીં a = b = c = 10 સેમી છે.<br>s = (10 + 10 + 10) / 2 = 15 સેમી.<br>ક્ષેત્રફળ = √[s(s-a)(s-b)(s-c)]<br>= √[15(15-10)(15-10)(15-10)]<br>= √[15 × 5 × 5 × 5]<br>= √[3 × 5 × 5 × 5 × 5] = 5 × 5 × √3 = 25√3 ચો.સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમબાજુ ત્રિકોણ માટે સીધું સૂત્ર (√3/4) × a² યાદ રાખવું, પણ જો હેરોનનું સૂત્ર પૂછ્યું હોય તો s શોધીને જ ગણતરી કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "એક ત્રિકોણની બાજુઓ 3 : 4 : 5 ના પ્રમાણમાં છે અને તેની પરિમિતિ 36 સેમી છે, તો સૌથી મોટી બાજુનું માપ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધારો કે બાજુઓ 3x, 4x અને 5x છે.<br>3x + 4x + 5x = 36<br>12x = 36 => x = 3.<br>સૌથી મોટી બાજુ = 5x = 5(3) = 15 સેમી.<br>આમ, સૌથી મોટી બાજુનું માપ 15 સેમી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે પ્રમાણ આપ્યું હોય ત્યારે કુલ ભાગ (3+4+5=12) થી પરિમિતિને ભાગી નાખવો (36/12=3) અને જે બાજુ પૂછી હોય તેની સાથે ગુણી દેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "જો (s - a) = 5 સેમી, (s - b) = 10 સેમી અને (s - c) = 1 સેમી હોય, તો ત્રિકોણનું ક્ષેત્રફળ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હેરોનના સૂત્ર મુજબ s = (s-a) + (s-b) + (s-c)<br>s = 5 + 10 + 1 = 16 સેમી.<br>ક્ષેત્રફળ = √[s(s-a)(s-b)(s-c)]<br>= √[16 × 5 × 10 × 1]<br>= √[16 × 50] = √[800] = √(400 × 2) = 20√2 ચો.સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યાદ રાખજો કે s હંમેશા (s-a), (s-b) અને (s-c) ના સરવાળા બરાબર હોય છે. આ શોર્ટકટથી s શોધવામાં સમય બચશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "એક કાટકોણ ત્રિકોણની બાજુઓ 6 સેમી, 8 સેમી અને 10 સેમી છે. તેનું ક્ષેત્રફળ હેરોનના સૂત્રથી શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> a = 6, b = 8, c = 10. s = (6+8+10)/2 = 12 સેમી.<br>ક્ષેત્રફળ = √[12(12-6)(12-8)(12-10)]<br>= √[12 × 6 × 4 × 2]<br>= √[576] = 24 ચો.સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો ત્રિકોણ કાટકોણ હોય, તો તેના ક્ષેત્રફળનો જવાબ હંમેશા (1/2 × પાયો × વેધ) જેટલો જ આવશે. ચકાસણી માટે (1/2 × 6 × 8 = 24) કરી લેવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "એક સમદ્વિબાજુ ત્રિકોણની પરિમિતિ 30 સેમી અને સમાન બાજુઓ પૈકી દરેકની લંબાઈ 12 સેમી છે, તો અસમાન બાજુ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અહીં સમાન બાજુઓ a = 12 સેમી અને b = 12 સેમી છે. પરિમિતિ = 30 સેમી.<br>ત્રીજી બાજુ c = પરિમિતિ - (a + b)<br>c = 30 - (12 + 12)<br>c = 30 - 24 = 6 સેમી.<br>આમ, અસમાન બાજુનું માપ 6 સેમી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમદ્વિબાજુમાં 'બે બાજુ સરખી' હોય તે ભૂલતા નહીં. 12 ને બે વાર ગણવા પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "જો ત્રિકોણની અર્ધપરિમિતિ 15 સેમી હોય અને બે બાજુઓ 10 સેમી અને 12 સેમી હોય, તો ત્રીજી બાજુ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> s = 15 સેમી છે, તેથી પરિમિતિ = 2s = 2 × 15 = 30 સેમી.<br>બાજુઓ a = 10 સેમી, b = 12 સેમી.<br>ત્રીજી બાજુ c = પરિમિતિ - (a + b)<br>c = 30 - (10 + 12) = 30 - 22 = 8 સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અર્ધપરિમિતિ (s) પરથી પહેલા આખી પરિમિતિ મેળવો, પછી જ બાજુઓની બાદબાકી કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "એક ત્રિકોણનું ક્ષેત્રફળ શોધો જેની બાજુઓ 50 સેમી, 80 સેમી અને 110 સેમી હોય. (માત્ર ક્ષેત્રફળનું પદ મૂકો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> s = (50+80+110)/2 = 240/2 = 120 સેમી.<br>ક્ષેત્રફળ = √[120(120-50)(120-80)(120-110)]<br>= √[120 × 70 × 40 × 10]<br>= √[3360000] = 400√21 ચો.સેમી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે સંખ્યાઓ મોટી હોય ત્યારે મીંડાં (zeros) ને જોડીમાં બહાર કાઢી લેવા, ગણતરી સહેલી થઈ જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "હેરોનનું સૂત્ર લખો અને તેમાં વપરાતા સંકેતોના નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હેરોનનું સૂત્ર: ક્ષેત્રફળ = √[s(s-a)(s-b)(s-c)]<br>જ્યાં,<br>s = અર્ધપરિમિતિ = (a + b + c) / 2<br>a, b, c = ત્રિકોણની ત્રણ બાજુઓના માપ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સૂત્રમાં 's' ને ક્યારેય ભૂલવો નહીં, તે 'Semi-perimeter' છે, આખી પરિમિતિ નથી.</p></div>"
+    }
+  ]
+}
