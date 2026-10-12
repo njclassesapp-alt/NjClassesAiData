@@ -678,3 +678,71 @@ var Std9_Maths_2Marks = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "પૃષ્ઠફળ અને ઘનફળ",
+  "marks": 2,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "એક શંકુની ત્રિજ્યા 7 સેમી અને ત્રાંસી ઊંચાઈ 10 સેમી હોય, તો તેની વક્ર સપાટીનું પૃષ્ઠફળ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>અહીં, ત્રિજ્યા (r) = 7 સેમી, ત્રાંસી ઊંચાઈ (l) = 10 સેમી<br>શંકુની વક્ર સપાટીનું પૃષ્ઠફળ = πrl<br>= (22/7) × 7 × 10<br>= 22 × 10 = 220 સેમી².<br>આમ, શંકુની વક્ર સપાટીનું પૃષ્ઠફળ 220 સેમી² છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે r = 7 હોય, ત્યારે છેદમાં રહેલા 7 સીધા જ ઉડી જશે, એટલે માત્ર (22 × l) કરવાથી જવાબ મળી જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "જેની ત્રિજ્યા 14 સેમી હોય તેવા ગોળાની વક્ર સપાટીનું પૃષ્ઠફળ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>અહીં, ત્રિજ્યા (r) = 14 સેમી<br>ગોળાની વક્ર સપાટીનું પૃષ્ઠફળ = 4πr²<br>= 4 × (22/7) × 14 × 14<br>= 4 × 22 × 2 × 14<br>= 2464 સેમી².<br>આમ, ગોળાની વક્ર સપાટીનું પૃષ્ઠફળ 2464 સેમી² છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગોળાનું ક્ષેત્રફળ એ વર્તુળના ક્ષેત્રફળ કરતા 4 ગણું હોય છે (4 × Area of Circle). r=14 હોય ત્યારે વર્તુળનું ક્ષેત્રફળ 616 થાય, તો 616 × 4 = 2464!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "એક અર્ધગોળાકાર પાત્રની ત્રિજ્યા 7 સેમી છે, તો તેની વક્ર સપાટીનું પૃષ્ઠફળ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>અહીં, ત્રિજ્યા (r) = 7 સેમી<br>અર્ધગોળાની વક્ર સપાટીનું પૃષ્ઠફળ = 2πr²<br>= 2 × (22/7) × 7 × 7<br>= 2 × 22 × 7 = 308 સેમી².<br>આમ, અર્ધગોળાકાર પાત્રની વક્ર સપાટીનું પૃષ્ઠફળ 308 સેમી² છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો ત્રિજ્યા 7 હોય, તો 2πr² એટલે કે (44 × 7) યાદ રાખવું, જે હંમેશા 308 થશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "જેની ત્રિજ્યા 21 સેમી હોય તેવા ગોળાનું ઘનફળ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>અહીં, ત્રિજ્યા (r) = 21 સેમી<br>ગોળાનું ઘનફળ = (4/3)πr³<br>= (4/3) × (22/7) × 21 × 21 × 21<br>= 4 × 22 × 21 × 21 = 38808 સેમી³.<br>આમ, ગોળાનું ઘનફળ 38808 સેમી³ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): છેદમાં 3 × 7 = 21 છે, જે અંશના એક 21 ને ઉડાડી દેશે. હવે માત્ર (88 × 441) ગુણાકાર કરવાનો રહેશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "એક શંકુની ઊંચાઈ 12 સેમી અને ત્રિજ્યા 5 સેમી હોય, તો તેની ત્રાંસી ઊંચાઈ (l) શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>અહીં, h = 12 સેમી, r = 5 સેમી<br>શંકુ માટે, l² = r² + h²<br>l² = (5)² + (12)²<br>l² = 25 + 144 = 169<br>l = √169 = 13 સેમી.<br>આમ, શંકુની ત્રાંસી ઊંચાઈ 13 સેમી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાયથાગોરસની ત્રિપુટી (5, 12, 13) યાદ રાખો. જો બાજુઓ 5 અને 12 હોય, તો કર્ણ (ત્રાંસી ઊંચાઈ) હંમેશા 13 જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "એક લંબવૃત્તીય શંકુનું ઘનફળ શોધો જેની ત્રિજ્યા 6 સેમી અને ઊંચાઈ 7 સેમી હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>અહીં, r = 6 સેમી, h = 7 સેમી<br>શંકુનું ઘનફળ = (1/3)πr²h<br>= (1/3) × (22/7) × 6 × 6 × 7<br>= 22 × 2 × 6 = 264 સેમી³.<br>આમ, શંકુનું ઘનફળ 264 સેમી³ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગણતરીમાં પહેલા છેદ ઉડાડો (7 થી 7 અને 3 થી 6), પછી જ ગુણાકાર કરો જેથી ભૂલ ન પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "એક અર્ધગોળાની કુલ સપાટીનું પૃષ્ઠફળ શોધો જેની ત્રિજ્યા 10 સેમી હોય. (π = 3.14 લો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>અહીં, r = 10 સેમી, π = 3.14<br>અર્ધગોળાની કુલ સપાટીનું પૃષ્ઠફળ = 3πr²<br>= 3 × 3.14 × (10)²<br>= 3 × 3.14 × 100<br>= 3 × 314 = 942 સેમી².<br>આમ, અર્ધગોળાની કુલ સપાટીનું પૃષ્ઠફળ 942 સેમી² છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે r=10 હોય ત્યારે r²=100 થાય, જે પોઈન્ટ (દશાંશ ચિહ્ન) ને બે સ્થાન જમણી બાજુ ખસેડી દેશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "એક ગોળાની સપાટીનું ક્ષેત્રફળ 154 સેમી² હોય, તો તેની ત્રિજ્યા શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>અહીં, પૃષ્ઠફળ = 154 સેમી²<br>4πr² = 154<br>4 × (22/7) × r² = 154<br>r² = (154 × 7) / (4 × 22)<br>r² = (7 × 7) / 4 = 49 / 4<br>r = 7/2 = 3.5 સેમી.<br>આમ, ગોળાની ત્રિજ્યા 3.5 સેમી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 154 એ 22 ના ઘડિયામાં આવે છે (22 × 7 = 154). આ યાદ રાખવાથી છેદ ઉડાડવામાં ઝડપ આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "એક શંકુની વક્ર સપાટીનું પૃષ્ઠફળ 308 સેમી² છે અને તેની ત્રાંસી ઊંચાઈ 14 સેમી છે, તો તેની પાયાની ત્રિજ્યા શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>અહીં, વક્ર સપાટીનું પૃષ્ઠફળ = 308 સેમી², l = 14 સેમી<br>πrl = 308<br>(22/7) × r × 14 = 308<br>22 × r × 2 = 308<br>44r = 308<br>r = 308 / 44 = 7 સેમી.<br>આમ, શંકુની ત્રિજ્યા 7 સેમી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 44 ને 7 વડે ગુણતા 308 મળે તે ગણિતમાં વારંવાર પૂછાતી કિંમત છે, તેને યાદ જ રાખી લેવી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "એક અર્ધગોળાકાર બાઉલની ત્રિજ્યા 3.5 સેમી છે, તો તેમાં કેટલા લિટર પાણી સમાઈ શકે? (માત્ર ઘનફળ શોધો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong><br>અહીં, r = 3.5 સેમી = 7/2 સેમી<br>અર્ધગોળાનું ઘનફળ = (2/3)πr³<br>= (2/3) × (22/7) × (7/2) × (7/2) × (7/2)<br>= (11 × 49) / (3 × 2) = 539 / 6 ≈ 89.83 સેમી³.<br>આમ, બાઉલનું ઘનફળ આશરે 89.83 સેમી³ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે પણ 3.5 આપેલ હોય, ત્યારે તેને 7/2 લેવાથી છેદમાં રહેલા 7 અને 2 ને ઉડાડવા ખૂબ જ સરળ બની જાય છે!</p></div>"
+    }
+  ]
+}
