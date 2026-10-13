@@ -746,3 +746,71 @@ var Std9_Maths_2Marks = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "આંકડાશાસ્ત્ર",
+  "marks": 2,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "પ્રાથમિક માહિતી અને ગૌણ માહિતી વચ્ચેનો તફાવત સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>1. <strong>પ્રાથમિક માહિતી:</strong> જ્યારે તપાસકર્તાએ કોઈ ચોક્કસ હેતુ રાખીને જાતે માહિતી મેળવી હોય, તો તેવી માહિતીને પ્રાથમિક માહિતી કહેવાય. (દા.ત. વર્ગના વિદ્યાર્થીઓની ઊંચાઈ)<br>2. <strong>ગૌણ માહિતી:</strong> જ્યારે તપાસકર્તાએ અગાઉથી એકત્રિત થયેલ માહિતીના સ્ત્રોતમાંથી માહિતી મેળવી હોય, તો તેને ગૌણ માહિતી કહેવાય. (દા.ત. વર્તમાનપત્રમાંથી મળેલ તાપમાનના આંકડા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'પ્રાથમિક' એટલે પોતે મહેનત કરવી અને 'ગૌણ' એટલે બીજાની મહેનતનો ઉપયોગ કરવો (જેમ કે Google સર્ચ!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "માહિતી 10, 20, 30, 40, 50 નો મધ્યક શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>મધ્યક (x̄) = અવલોકનોનો કુલ સરવાળો / અવલોકનોની કુલ સંખ્યા<br>x̄ = (10 + 20 + 30 + 40 + 50) / 5<br>x̄ = 150 / 5<br>x̄ = 30<br>આમ, આપેલી માહિતીનો મધ્યક 30 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો અવલોકનો વચ્ચેનો તફાવત સમાન હોય (સમાંતર શ્રેણી), તો બરાબર વચ્ચે આવતું પદ જ મધ્યક હોય. અહીં 30 વચ્ચે છે, તેથી ગણતરી વગર પણ જવાબ મળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "માહિતી 7, 9, 12, 13, 7, 15, 7, 12, 7 નો બહુલક શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>આપેલી માહિતીમાં અવલોકનોનું નિરીક્ષણ કરતા જણાય છે કે:<br>અવલોકન '7' સૌથી વધુ 4 વખત પુનરાવર્તન પામે છે.<br>બહુલક (Z) = સૌથી વધુ વખત આવતું અવલોકન.<br>તેથી, બહુલક Z = 7.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બહુલક એટલે 'બહુ' એટલે કે 'બહુ બધી વાર' આવતું અવલોકન. જેની સંખ્યા (Frequency) વધુ એ જ આપણો જવાબ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "અવલોકનો 2, 4, 8, 5, 10, 1, 3 નો મધ્યસ્થ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>1. અવલોકનોને ચડતા ક્રમમાં ગોઠવતા: 1, 2, 3, 4, 5, 8, 10<br>2. અહીં અવલોકનોની સંખ્યા n = 7 (એકી સંખ્યા) છે.<br>3. મધ્યસ્થ (M) = (n + 1)/2 મુ અવલોકન<br>M = (7 + 1)/2 = 8/2 = 4 મું અવલોકન<br>4. ચડતા ક્રમમાં 4 મું અવલોકન 4 છે. તેથી મધ્યસ્થ M = 4.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મધ્યસ્થ શોધવા માટે 'ચડતો ક્રમ' એ પાયો છે. જો ક્રમમાં ન ગોઠવો તો જવાબ ખોટો જ પડશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "પ્રથમ પાંચ પૂર્ણ સંખ્યાઓનો મધ્યક શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>પ્રથમ પાંચ પૂર્ણ સંખ્યાઓ: 0, 1, 2, 3, 4<br>અવલોકનોની કુલ સંખ્યા n = 5<br>મધ્યક (x̄) = (0 + 1 + 2 + 3 + 4) / 5<br>x̄ = 10 / 5<br>x̄ = 2<br>આમ, પ્રથમ પાંચ પૂર્ણ સંખ્યાઓનો મધ્યક 2 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યાદ રાખો, 'પ્રાકૃતિક' સંખ્યા 1 થી શરૂ થાય પણ 'પૂર્ણ' સંખ્યા 0 થી શરૂ થાય. આ ભૂલ પરીક્ષામાં ના થવી જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "જો 10 અવલોકનોનો મધ્યક 15 હોય, તો અવલોકનોનો કુલ સરવાળો શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>અહીં, મધ્યક (x̄) = 15 અને અવલોકનોની સંખ્યા (n) = 10.<br>મધ્યકનું સૂત્ર: x̄ = Σx / n<br>15 = Σx / 10<br>Σx = 15 × 10<br>Σx = 150<br>તેથી, અવલોકનોનો કુલ સરવાળો 150 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સરવાળો = મધ્યક × સંખ્યા. બસ, આટલું યાદ રાખો એટલે ગણતરી સેકન્ડોમાં થશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "વર્ગ 25 - 35 ની મધ્યકિંમત અને વર્ગલંબાઈ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>1. મધ્યકિંમત = (અધઃસીમા + ઊર્ધ્વસીમા) / 2<br>મધ્યકિંમત = (25 + 35) / 2 = 60 / 2 = 30<br>2. વર્ગલંબાઈ = ઊર્ધ્વસીમા - અધઃસીમા<br>વર્ગલંબાઈ = 35 - 25 = 10<br>આમ, મધ્યકિંમત 30 અને વર્ગલંબાઈ 10 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મધ્યકિંમત એટલે બંનેનો સરવાળો કરી અડધા કરી નાખવા અને વર્ગલંબાઈ એટલે ગેપ (તફાવત) માપવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "માહિતી 15, 22, 18, 27, 31, 14, 25 નો વિસ્તાર શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>અહીં આપેલી માહિતીમાં:<br>મહત્તમ અવલોકન (સૌથી મોટી કિંમત) = 31<br>ન્યૂનતમ અવલોકન (સૌથી નાની કિંમત) = 14<br>વિસ્તાર = મહત્તમ અવલોકન - ન્યૂનતમ અવલોકન<br>વિસ્તાર = 31 - 14 = 17<br>તેથી, માહિતીનો વિસ્તાર 17 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિસ્તાર એટલે 'મોટાભાઈ' માંથી 'નાનાભાઈ' બાદ કરવા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "જો 5, 10, x, 15, 20 નો મધ્યક 15 હોય, તો x ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>મધ્યક (x̄) = 15, n = 5<br>x̄ = (5 + 10 + x + 15 + 20) / 5<br>15 = (50 + x) / 5<br>15 × 5 = 50 + x<br>75 = 50 + x<br>x = 75 - 50<br>x = 25<br>તેથી x ની કિંમત 25 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આવા દાખલામાં પક્ષ પલટો કરતી વખતે નિશાની બદલવાનું ભૂલશો નહીં. સરવાળો પેલી બાજુ જાય તો બાદબાકી થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "આવૃત્તિ વિતરણ કોષ્ટક બનાવતી વખતે 'આવૃત્તિ ચિહ્નો' (Tally Marks) નો ઉપયોગ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જ્યારે માહિતીમાં અવલોકનોનું પુનરાવર્તન થતું હોય ત્યારે તેને ગણવા માટે ઊભી લીટીઓ (I) કરવામાં આવે છે જેને આવૃત્તિ ચિહ્નો કહે છે. દર 5 માં અવલોકન માટે ચાર ઊભી લીટી પર એક ત્રાંસી લીટી (////) દોરી 5 નું જૂથ બનાવવામાં આવે છે, જેથી ગણતરી સરળ બને.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આવૃત્તિ ચિહ્નમાં 4 લીટી સીધી અને 5 મી લીટી 'બંડલ' બાંધવા માટે ત્રાંસી વાપરવી!</p></div>"
+    }
+  ]
+}
