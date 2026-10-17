@@ -610,3 +610,71 @@ var Std9_Science_3Marks = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "કાર્ય અને ઊર્જા",
+  "marks": 3,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "વૈજ્ઞાનિક દ્રષ્ટિકોણથી 'કાર્ય' એટલે શું? કાર્ય થવા માટેની અનિવાર્ય શરતો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જ્યારે પદાર્થ પર બળ લાગતું હોય અને પદાર્થનું બળની દિશામાં સ્થાનાંતર થતું હોય, ત્યારે કાર્ય થયું છે તેમ કહેવાય. <br><strong>કાર્ય માટેની શરતો:</strong><br>૧. પદાર્થ પર કોઈ બળ લાગવું જોઈએ.<br>૨. પદાર્થનું સ્થાનાંતર થવું જોઈએ.<br>૩. જો બળ શૂન્ય હોય અથવા સ્થાનાંતર શૂન્ય હોય, તો કાર્ય શૂન્ય ગણાય. ગાણિતિક રીતે, W = F × s</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'બળ સાથે ખસવું' - જો પદાર્થ ખસે (s) તો જ કાર્ય (W) થાય, બાકી મહેનત નકામી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "ગતિ ઊર્જાનું સૂત્ર Ek = 1/2 mv² તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધારો કે m દળનો પદાર્થ u વેગથી ગતિ કરે છે. તેના પર F બળ લાગતા s અંતર કાપી v વેગ મેળવે છે.<br>૧. કાર્ય W = F × s<br>૨. ન્યૂટનના બીજા નિયમ મુજબ F = ma<br>૩. ગતિના સમીકરણ મુજબ, v² - u² = 2as તેથી s = (v² - u²) / 2a<br>૪. કિંમતો મુકતા: W = (ma) × [(v² - u²) / 2a] = 1/2 m(v² - u²). જો પદાર્થ સ્થિર હોય (u=0), તો W = 1/2 mv². આ કાર્ય જ ગતિ ઊર્જા (Ek) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગતિ એટલે 'અડધું માસ (1/2 m) ગુણ્યા વેગનો વર્ગ (v²)'. યાદ રાખો: 1/2 mv²</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "સ્થિતિ ઊર્જા એટલે શું? પૃથ્વીની સપાટીથી ચોક્કસ ઊંચાઈએ પદાર્થની સ્થિતિ ઊર્જાનું સૂત્ર મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પદાર્થની અવસ્થા અથવા તેના આકારમાં ફેરફારને કારણે તેમાં સંગ્રહિત થતી ઊર્જાને સ્થિતિ ઊર્જા કહે છે.<br><strong>સૂત્ર તારવણી:</strong><br>૧. m દળના પદાર્થને h ઊંચાઈએ લઈ જવા માટે જરૂરી બળ F = mg (વજન બળ).<br>૨. થયેલ કાર્ય W = બળ × સ્થાનાંતર = mg × h.<br>૩. આ કાર્ય પદાર્થમાં ગુરુત્વીય સ્થિતિ ઊર્જા સ્વરૂપે સંગ્રહ પામે છે. તેથી, Ep = mgh.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'm-g-h' એટલે 'મા-ગ-હ' (માણસ ગયેલો હાઈટ પર). ઊંચાઈ વધે તો Ep વધે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "ઊર્જા સંરક્ષણનો નિયમ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઊર્જા સંરક્ષણના નિયમ મુજબ: <br>૧. ઊર્જાનું નિર્માણ થઈ શકતું નથી કે તેનો વિનાશ થઈ શકતું નથી.<br>૨. ઊર્જાનું માત્ર એક સ્વરૂપમાંથી બીજા સ્વરૂપમાં રૂપાંતર થઈ શકે છે.<br>૩. રૂપાંતરણ પહેલા અને રૂપાંતરણ બાદ કુલ ઊર્જા હંમેશા અચળ રહે છે.<br>૪. દા.ત. મુક્ત પતન કરતા પદાર્થની સ્થિતિ ઊર્જા ઘટે છે પણ ગતિ ઊર્જા તેટલા જ પ્રમાણમાં વધે છે, જેથી કુલ યાંત્રિક ઊર્જા અચળ રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઊર્જા એટલે 'અમર આત્મા' - જે ક્યારેય મરતી નથી, બસ કપડાં (સ્વરૂપ) બદલે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "પાવર (Power) એટલે શું? તેનો SI એકમ વ્યાખ્યાયિત કરો અને 1 kW ને વોટમાં ફેરવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાર્ય કરવાના દરને અથવા ઊર્જાના રૂપાંતરણના દરને પાવર કહે છે. પાવર = કાર્ય / સમય (P = W / t).<br><strong>SI એકમ:</strong> પાવરનો SI એકમ 'વોટ' (Watt) છે. <br><strong>1 વોટની વ્યાખ્યા:</strong> જો કોઈ એજન્ટ 1 સેકન્ડમાં 1 જૂલ કાર્ય કરે, તો તેનો પાવર 1 વોટ કહેવાય. <br><strong>રૂપાંતર:</strong> 1 kW = 1000 W અને 1 MW = 10⁶ W.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'પાવર = કામ / ટાઈમ'. જે ઓછા ટાઈમમાં વધુ કામ કરે, તેનો પાવર મોટો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "ધન કાર્ય, ઋણ કાર્ય અને શૂન્ય કાર્ય એટલે શું? ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>૧. <strong>ધન કાર્ય:</strong> જો બળ અને સ્થાનાંતર એક જ દિશામાં હોય. દા.ત. પદાર્થને ખેંચવો.<br>૨. <strong>ઋણ કાર્ય:</strong> જો બળ અને સ્થાનાંતર પરસ્પર વિરુદ્ધ દિશામાં હોય. દા.ત. ઘર્ષણ બળ દ્વારા થતું કાર્ય અથવા બ્રેક મારવી.<br>૩. <strong>શૂન્ય કાર્ય:</strong> જો બળ અને સ્થાનાંતર પરસ્પર લંબ (90°) હોય અથવા સ્થાનાંતર ન થાય. દા.ત. માથા પર બોજ રાખીને ઉભો રહેલો મજૂર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દિશા સમાન (+) , વિરુદ્ધ (-) , અને લંબ (૦). ખૂણો યાદ રાખો કામ થઈ જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "એક પદાર્થ પર 7 N બળ લાગે છે. બળની દિશામાં પદાર્થનું સ્થાનાંતર 8 m થાય છે. તો થયેલું કાર્ય શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>અહીં, લાગતું બળ (F) = 7 N<br>સ્થાનાંતર (s) = 8 m<br>કાર્ય (W) શોધવાનું છે.<br>સૂત્ર: કાર્ય = બળ × સ્થાનાંતર<br>W = F × s<br>W = 7 N × 8 m<br>W = 56 J<br>આમ, પદાર્થ પર થયેલું કાર્ય 56 જૂલ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દાખલામાં બળ અને અંતરનો સીધો ગુણાકાર કરો એટલે 'કાર્ય' મળી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "ઊર્જાના વ્યવસાયિક એકમ 'યુનિટ' (kWh) સમજાવો અને તેને જૂલમાં ફેરવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જૂલ એ ઊર્જાનો ખૂબ નાનો એકમ હોવાથી મોટા જથ્થા માટે કિલોવોટ-અવર (kWh) વપરાય છે.<br>૧. 1 kWh એટલે કે 1 kW પાવર ધરાવતું સાધન 1 કલાક વપરાય ત્યારે વપરાતી ઊર્જા.<br>૨. 1 kWh = 1 kW × 1 h<br>૩. 1 kWh = 1000 W × 3600 s<br>૪. 1 kWh = 36,00,000 J = 3.6 × 10⁶ J.<br>આ 1 kWh ને જ વ્યવહારમાં '1 યુનિટ' કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'છત્રીસ' નો આંકડો યાદ રાખો. 3.6 અને પાછળ 6 મીંડા (ઘાત)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "15 kg દળનો એક પદાર્થ 4 m/s ના સમાન વેગથી ગતિ કરે છે, તો તેની ગતિ ઊર્જા કેટલી હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>દળ (m) = 15 kg, વેગ (v) = 4 m/s<br>ગતિ ઊર્જા (Ek) = ?<br>સૂત્ર: Ek = 1/2 mv²<br>Ek = 1/2 × 15 × (4)²<br>Ek = 1/2 × 15 × 16<br>Ek = 15 × 8 = 120 J.<br>આમ, પદાર્થની ગતિ ઊર્જા 120 જૂલ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વેગનો વર્ગ કરવાનું ભૂલતા નહીં! 4 નો વર્ગ 16, તેના અડધા 8, અને 15 × 8 = 120!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "60 W નો એક વિદ્યુત બલ્બ દરરોજ 6 કલાક વપરાય છે, તો બલ્બ દ્વારા એક દિવસમાં ખર્ચાતી ઊર્જા યુનિટમાં ગણો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>પાવર (P) = 60 W = 60/1000 kW = 0.06 kW<br>સમય (t) = 6 h<br>ઊર્જા (E) = પાવર × સમય<br>E = 0.06 kW × 6 h<br>E = 0.36 kWh = 0.36 યુનિટ.<br>આમ, બલ્બ દ્વારા એક દિવસમાં 0.36 યુનિટ ઊર્જા વપરાશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વોટને પહેલા 1000 વડે ભાગીને kW માં ફેરવો, પછી કલાક સાથે ગુણાકાર કરો!</p></div>"
+    }
+  ]
+}
