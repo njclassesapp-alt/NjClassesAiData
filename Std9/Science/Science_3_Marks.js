@@ -270,3 +270,71 @@ var Std9_Science_3Marks = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "સજીવનો પાયાનો એકમ",
+  "marks": 3,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 3,
+      "question": "કોષવાદ (Cell Theory) એટલે શું? તેને રજૂ કરનાર વૈજ્ઞાનિકોના નામ અને તેના મુખ્ય મુદ્દાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કોષવાદ જીવવિજ્ઞાનનો પાયાનો સિદ્ધાંત છે.<br>1. <strong>વૈજ્ઞાનિકો:</strong> સ્લાઇડન અને શ્વાન નામના બે જીવવિજ્ઞાનીઓએ સૌપ્રથમ કોષવાદ રજૂ કર્યો હતો. ત્યારબાદ વિર્ચોએ તેમાં સુધારો કર્યો હતો.<br>2. <strong>મુખ્ય મુદ્દાઓ:</strong> <br> (i) બધા જ સજીવો કોષોના બનેલા છે. <br> (ii) કોષ એ સજીવનો રચનાત્મક અને ક્રિયાત્મક એકમ છે. <br> (iii) નવા કોષોનું સર્જન પૂર્વ-અસ્તિત્વ ધરાવતા કોષોમાંથી જ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'SSV' યાદ રાખો (S-Sliden, S-Schwann, V-Virchow) - બધા સજીવો કોષીય છે અને જૂનામાંથી જ નવા બને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 3,
+      "question": "આદિકોષકેન્દ્રી કોષ (Prokaryotic Cell) અને સુકોષકેન્દ્રી કોષ (Eukaryotic Cell) વચ્ચેનો તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>1. <strong>આદિકોષકેન્દ્રી:</strong> તેનું કદ સામાન્ય રીતે નાનું (1-10 um) હોય છે. તેમાં સ્પષ્ટ કોષકેન્દ્ર પટલનો અભાવ હોય છે, જેને ન્યુક્લિઓઇડ કહે છે. પટલમય અંગિકાઓ ગેરહાજર હોય છે.<br>2. <strong>સુકોષકેન્દ્રી:</strong> તેનું કદ સામાન્ય રીતે મોટું (5-100 um) હોય છે. તેમાં કોષકેન્દ્ર પટલથી ઘેરાયેલું સ્પષ્ટ કોષકેન્દ્ર હોય છે. પટલમય અંગિકાઓ (જેમ કે કણાભસૂત્ર, ગોલ્ગી પ્રસાધન) હાજર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Pro' એટલે 'Primary' (જૂનું/કાચું) અને 'Eu' એટલે 'Enhanced' (વિકસિત/પાકું)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 3,
+      "question": "કોષરસપટલને 'પસંદગીમાન પ્રવેશશીલ પટલ' શા માટે કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>1. કોષરસપટલ કોષનું સૌથી બહારનું આવરણ છે જે કોષના ઘટકોને બાહ્ય પર્યાવરણથી અલગ રાખે છે.<br>2. તે કેટલાક દ્રવ્યોને કોષમાં પ્રવેશવા દે છે અથવા બહાર જવા દે છે, જ્યારે અન્ય કેટલાક દ્રવ્યોની ગતિશીલતાને અવરોધે છે.<br>3. આમ, તે દરેક દ્રવ્યને અંદર-બહાર જવા દેતું નથી પણ ફક્ત જરૂરી દ્રવ્યોની જ પસંદગી કરતું હોવાથી તેને 'પસંદગીમાન પ્રવેશશીલ પટલ' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોષરસપટલ એટલે કોષનો 'Security Guard', જે પૂછીને જ અંદર પ્રવેશ આપે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 3,
+      "question": "આશ્રુતિ (Osmosis) એટલે શું? તેના પ્રકારો ટૂંકમાં સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>1. <strong>વ્યાખ્યા:</strong> પાણીના અણુઓની પસંદગીમાન પ્રવેશશીલ પટલ દ્વારા વધુ સાંદ્રતાથી ઓછી સાંદ્રતા તરફ ગતિ કરવાની પ્રક્રિયાને આશ્રુતિ કહે છે.<br>2. <strong>પ્રકારો:</strong> <br> (i) અધોસાંદ્ર (Hypotonic): કોષ ફૂલે છે. <br> (ii) અધિસાંદ્ર (Hypertonic): કોષ સંકોચાય છે. <br> (iii) સમસાંદ્ર (Isotonic): કોષના કદમાં કોઈ ફેરફાર થતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Hypo-Hippo' (ફૂલેલો) અને 'Hyper-Shrink' (સંકોચાયેલું) - પાણી હંમેશા વધારેથી ઓછા તરફ વહે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 3,
+      "question": "અંતઃકોષરસજાળ (Endoplasmic Reticulum) ના પ્રકારો અને તેના કાર્યો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>1. <strong>પ્રકારો:</strong> બે પ્રકાર છે - (i) ખરબચડી (RER) જેની સપાટી પર રિબોઝોમ્સ હોય છે. (ii) લીસી (SER) જેની સપાટી પર રિબોઝોમ્સ હોતા નથી.<br>2. <strong>કાર્યો:</strong> <br> (i) RER પ્રોટીન સંશ્લેષણનું કાર્ય કરે છે. <br> (ii) SER લિપિડ્સ અને સ્ટેરોઇડ્સનું નિર્માણ કરે છે. <br> (iii) કોષીય પદાર્થોના વહન માટે માર્ગ પૂરો પાડે છે અને યકૃત કોષોમાં વિષારી દ્રવ્યોને બિનઝેરી બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'RER = Ribosome = Protein' અને 'SER = Smooth = Lipid'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 3,
+      "question": "ગોલ્ગી પ્રસાધન (Golgi Apparatus) ની રચના અને કાર્યો સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>1. <strong>રચના:</strong> તે એકબીજાને સમાંતર થપ્પીઓમાં ગોઠવાયેલી પટલમય નલિકાઓની બનેલી રચના છે, જેને સિસ્ટરની કહે છે.<br>2. <strong>કાર્યો:</strong> <br> (i) કોષમાં સંશ્લેષિત પદાર્થોનું પેકેજિંગ અને રૂપાંતર કરી જરૂરી સ્થાને મોકલવાનું કાર્ય કરે છે. <br> (ii) તે જટિલ શર્કરાનું સરળ શર્કરામાં રૂપાંતર કરે છે. <br> (iii) તે લાયસોઝોમના નિર્માણમાં પણ ભાગ લે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગોલ્ગી પ્રસાધન એટલે કોષનું 'Amazon Warehouse' - પેકિંગ, શિપિંગ અને ડિલિવરી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 3,
+      "question": "લાયસોઝોમ્સ (Lysosomes) ને કોષની 'આત્મઘાતી કોથળી' શા માટે કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>1. લાયસોઝોમ્સ કોષમાં ઉત્સર્ગ દ્રવ્યોને ત્યજવાનું અને પાચન કરવાનું કાર્ય કરતી અંગિકા છે.<br>2. તેમાં શક્તિશાળી પાચક ઉત્સેચકો હોય છે જે તમામ કાર્બનિક પદાર્થોને તોડવાની ક્ષમતા ધરાવે છે.<br>3. જ્યારે કોષ ઈજાગ્રસ્ત થાય અથવા જીર્ણ થાય, ત્યારે લાયસોઝોમ તૂટે છે અને તેના ઉત્સેચકો પોતાના જ કોષનું પાચન કરી નાખે છે. આથી તેને 'આત્મઘાતી કોથળી' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લાયસોઝોમ એટલે કોષનો 'Bomber' - જો કોષ બગડ્યો તો પોતે ફૂટીને આખા કોષને સાફ કરી દેશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 3,
+      "question": "કણાભસૂત્ર (Mitochondria) ને કોષનું 'શક્તિઘર' શા માટે ગણવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>1. જીવનની વિવિધ રાસાયણિક પ્રવૃત્તિઓ માટે જરૂરી ઉર્જા (Energy) કણાભસૂત્ર દ્વારા મુક્ત થાય છે.<br>2. આ ઉર્જા ATP (એડેનોસાઇન ટ્રાય ફોસ્ફેટ) ના સ્વરૂપમાં સંગ્રહિત થાય છે, જે કોષનું ઉર્જા ચલણ છે.<br>3. કણાભસૂત્ર પાસે પોતાનું DNA અને રિબોઝોમ્સ હોવાથી તે પોતાના પ્રોટીન જાતે બનાવી શકે છે. શક્તિ ઉત્પન્ન કરવાની ક્ષમતાને લીધે તેને 'પાવર હાઉસ' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ATP = Any Time Paisa (શક્તિ) - અને આ શક્તિ આપતી બેંક એટલે કણાભસૂત્ર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 3,
+      "question": "રંજકકણો (Plastids) ના પ્રકારો અને ક્લોરોપ્લાસ્ટનું મહત્વ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>1. <strong>પ્રકારો:</strong> રંજકકણો માત્ર વનસ્પતિ કોષમાં હોય છે. તેના બે મુખ્ય પ્રકાર છે: (i) ક્રોમોપ્લાસ્ટ (રંગીન કણો) અને (ii) લ્યુકોપ્લાસ્ટ (શ્વેત કે રંગહીન કણો).<br>2. <strong>ક્લોરોપ્લાસ્ટ:</strong> જે રંજકકણો હરિતદ્રવ્ય (Chlorophyll) ધરાવે છે તેને હરિતકણ (Chloroplast) કહે છે.<br>3. <strong>મહત્વ:</strong> હરિતકણ વનસ્પતિમાં પ્રકાશસંશ્લેષણની ક્રિયા માટે અત્યંત આવશ્યક છે, જેના દ્વારા વનસ્પતિ પોતાનો ખોરાક બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રંજકકણ એટલે વનસ્પતિનું 'Kitchen' અને કલર બોક્સ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 3,
+      "question": "વનસ્પતિ કોષ અને પ્રાણી કોષ વચ્ચેના મુખ્ય ત્રણ તફાવતો સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>1. <strong>કોષદીવાલ:</strong> વનસ્પતિ કોષમાં સેલ્યુલોઝની બનેલી કોષદીવાલ હાજર હોય છે, જ્યારે પ્રાણી કોષમાં તેનો અભાવ હોય છે.<br>2. <strong>રંજકકણો:</strong> વનસ્પતિ કોષમાં હરિતકણ જેવા રંજકકણો હોય છે, જ્યારે પ્રાણી કોષમાં રંજકકણો હોતા નથી.<br>3. <strong>રસધાની:</strong> વનસ્પતિ કોષમાં કેન્દ્રસ્થ મોટી રસધાની હોય છે, જ્યારે પ્રાણી કોષમાં રસધાનીઓ નાની અથવા ગેરહાજર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Wall-Green-Big Vacuole' = વનસ્પતિ; No Wall-No Color-Small Vacuole = પ્રાણી!</p></div>"
+    }
+  ]
+}
