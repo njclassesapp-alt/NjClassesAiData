@@ -134,3 +134,71 @@ var Std9_Science_2Marks = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "પરમાણુઓ અને અણુઓ",
+  "marks": 2,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "દળ-સંચયનો નિયમ (Law of Conservation of Mass) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કોઈપણ રાસાયણિક પ્રક્રિયામાં દ્રવ્ય (દળ)નું સર્જન થતું નથી કે તેનો વિનાશ થતો નથી. એટલે કે, પ્રક્રિયા દરમિયાન પ્રક્રિયકોનું કુલ દળ અને નીપજોનું કુલ દળ હંમેશા સમાન રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes યાદ રાખો - 'નવું દળ આવે નહીં, જૂનું દળ જાય નહીં' (દળ હંમેશા અચળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "નિશ્ચિત પ્રમાણનો નિયમ ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કોઈપણ રાસાયણિક સંયોજનમાં તત્વો હંમેશા દળથી નિશ્ચિત પ્રમાણમાં હાજર હોય છે. <br>ઉદાહરણ: શુદ્ધ પાણી (H₂O) ગમે તે સ્ત્રોતમાંથી મેળવવામાં આવે, તેમાં હાઇડ્રોજન અને ઓક્સિજનના દળનો ગુણોત્તર હંમેશા 1:8 જ રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંયોજન ગમે ત્યાંનું હોય, તેના તત્વોની 'જોડી' (ગુણોત્તર) ક્યારેય બદલાતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "ડાલ્ટનના પરમાણ્વીય સિદ્ધાંતની કોઈપણ બે અભિધારણાઓ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (1) તમામ દ્રવ્યો પરમાણુઓ તરીકે ઓળખાતા અતિ સૂક્ષ્મ કણોના બનેલા છે. <br>(2) પરમાણુ અવિભાજ્ય કણ છે, જેનો રાસાયણિક પ્રક્રિયા દરમિયાન સર્જન કે વિનાશ કરી શકાતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાલ્ટન બાપાનો નિયમ - 'પરમાણુ = અવિભાજ્ય' (જેના ટુકડા ન થાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "પરમાણ્વીય દળ એકમ (amu અથવા u) ની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાર્બન-12 સમસ્થાનિકના એક પરમાણુના દળના 1/12 મા ભાગને 'પરમાણ્વીય દળ એકમ' કહેવામાં આવે છે. હાલમાં તેને 'u' (unified mass) તરીકે ઓળખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્બન-12 ના 12 ટુકડા કરો, એમાંથી 1 ટુકડો એટલે 1 amu.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "પરમાણ્વીયતા (Atomicity) એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કોઈપણ અણુના બંધારણમાં રહેલા પરમાણુઓની સંખ્યાને તે અણુની 'પરમાણ્વીયતા' કહે છે. <br>ઉદાહરણ: ઓક્સિજન (O₂) ની પરમાણ્વીયતા 2 છે, જ્યારે હિલિયમ (He) ની પરમાણ્વીયતા 1 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અણુમાં કેટલા 'માણસો' (પરમાણુ) છે તેની ગણતરી એટલે પરમાણ્વીયતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "બહુપરમાણ્વીય આયન (Polyatomic Ion) એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પરમાણુઓનો સમૂહ કે જે આયનની માફક વર્તે છે અને તેના પર નિશ્ચિત વીજભાર હોય તેને બહુપરમાણ્વીય આયન કહે છે. <br>ઉદાહરણ: એમોનિયમ આયન (NH₄⁺), કાર્બોનેટ આયન (CO₃²⁻).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરમાણુઓનું 'ગ્રુપ' જ્યારે વીજભાર લઈને ફરે ત્યારે તેને બહુપરમાણ્વીય આયન કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "મેગ્નેશિયમ ક્લોરાઇડ અને એલ્યુમિનિયમ ઓક્સાઈડના રાસાયણિક સૂત્રો લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (1) મેગ્નેશિયમ ક્લોરાઇડ: Mg²⁺ અને Cl¹⁻ સંયોજાઈને <strong>MgCl₂</strong> બનાવે છે. <br>(2) એલ્યુમિનિયમ ઓક્સાઈડ: Al³⁺ અને O²⁻ સંયોજાઈને <strong>Al₂O₃</strong> બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંયોજકતાની 'ચોકડી' (Cross) ગુણાકાર કરો એટલે સૂત્ર તૈયાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "પાણી (H₂O) નું આણ્વીય દળ ગણો. (H=1 u, O=16 u)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> H₂O નું આણ્વીય દળ = 2(H નું પરમાણ્વીય દળ) + 1(O નું પરમાણ્વીય દળ)<br>= 2(1) + 1(16)<br>= 2 + 16 = 18 u.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધા પરમાણુઓના વજનનો સરવાળો = આણ્વીય દળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "મોલ (Mole) અને એવોગેડ્રો અચળાંક એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પદાર્થના જથ્થાના એકમને 'મોલ' કહે છે. 1 મોલ જથ્થામાં રહેલા ઘટક કણોની સંખ્યા નિશ્ચિત હોય છે, જેને એવોગેડ્રો અચળાંક (Nₐ) કહે છે. તેનું મૂલ્ય 6.022 × 10²³ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ 1 ડઝન = 12 નંગ, તેમ 1 મોલ = 6.022 × 10²³ નંગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "પરમાણુ અને અણુ વચ્ચેનો મુખ્ય તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પરમાણુ એ તત્વનો લઘુત્તમ એકમ છે જે સ્વતંત્ર અસ્તિત્વ ધરાવી શકે પણ ખરો અને ન પણ ધરાવે. જ્યારે અણુ એ બે કે તેથી વધુ પરમાણુઓનો સમૂહ છે જે સ્વતંત્ર અસ્તિત્વ ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરમાણુ એટલે 'એકલો' (Single), અણુ એટલે 'જોડીમાં' (Group).</p></div>"
+    }
+  ]
+}
