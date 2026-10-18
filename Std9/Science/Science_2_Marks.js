@@ -270,3 +270,83 @@ var Std9_Science_2Marks = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "સજીવનો પાયાનો એકમ",
+  "marks": 2,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "કોષની શોધ કોણે અને કઈ રીતે કરી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કોષની શોધ રોબર્ટ હૂકે ઈ.સ. 1665માં કરી હતી. તેમણે પોતે બનાવેલા સૂક્ષ્મદર્શક યંત્ર હેઠળ બૂચના પાતળા છેદનું નિરીક્ષણ કર્યું ત્યારે તેમને તેમાં મધપૂડાના ખાના જેવી રચના જોવા મળી, જેને તેમણે 'કોષ' (Cell) નામ આપ્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રોબર્ટ 'હૂક' એ 'બૂચ' માં જોયું 'મધપૂડા' જેવું રૂપ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "કોષરસપટલને 'પસંદગીમાન પ્રવેશશીલ પટલ' શા માટે કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કોષરસપટલ કોષમાં પ્રવેશતા કે કોષમાંથી બહાર નીકળતા દ્રવ્યોના વહનનું નિયમન કરે છે. તે કેટલાક ચોક્કસ દ્રવ્યોને જ અંદર કે બહાર જવા દે છે અને અન્ય દ્રવ્યોની ગતિશીલતાને અટકાવે છે, તેથી તેને પસંદગીમાન પ્રવેશશીલ પટલ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પસંદગીમાન = સોસાયટીનો સિક્યુરિટી ગાર્ડ (જે ગમે તેને અંદર ન આવવા દે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "આશૃતિ (અભિસરણ) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બે જુદી જુદી સાંદ્રતા ધરાવતા દ્રાવણો વચ્ચે અર્ધપ્રવેશશીલ પટલ મૂકવામાં આવે ત્યારે, પાણીના અણુઓ પોતાની વધુ સાંદ્રતાથી ઓછી સાંદ્રતા તરફ ગતિ કરે છે, આ પ્રક્રિયાને આશૃતિ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીનું વહન = 'વધુ' થી 'ઓછું' (ઢાળની દિશામાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "આદિકોષકેન્દ્રી કોષ અને સુકોષકેન્દ્રી કોષ વચ્ચેના કોઈ પણ બે તફાવત લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (1) આદિકોષકેન્દ્રી કોષનું કદ સામાન્ય રીતે નાનું (1-10 μm) હોય છે, જ્યારે સુકોષકેન્દ્રી કોષનું કદ મોટું (5-100 μm) હોય છે. (2) આદિકોષકેન્દ્રીમાં કોષકેન્દ્ર પટલ હોતું નથી, જ્યારે સુકોષકેન્દ્રીમાં સ્પષ્ટ કોષકેન્દ્ર પટલ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આદિ = જૂનું/અવિકસિત, સુ = નવું/વિકસિત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "લાઇસોઝોમ્સને 'આત્મઘાતી કોથળી' તરીકે શા માટે ઓળખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જ્યારે કોષ ઈજાગ્રસ્ત થાય કે જીર્ણ થાય ત્યારે લાઈસોઝોમ્સ ફાટે છે અને તેમાં રહેલા શક્તિશાળી પાચક ઉત્સેચકો પોતાના જ કોષનું પાચન કરી નાખે છે. આથી, લાઈસોઝોમને કોષની 'આત્મઘાતી કોથળી' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાઇસોઝોમ = કોષનો બોમ્બ (પોતાના ઘરને જ ઉડાવી દે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "કણાભસૂત્રને 'કોષનું શક્તિઘર' (Powerhouse) શા માટે કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જીવનની વિવિધ રાસાયણિક પ્રવૃત્તિઓ માટે જરૂરી ઉર્જા કણાભસૂત્ર દ્વારા ATP (એડીનોસાઇન ટ્રાય ફોસ્ફેટ) ના સ્વરૂપમાં મુક્ત થાય છે. કોષ આ ઉર્જાનો ઉપયોગ કરે છે, તેથી કણાભસૂત્રને કોષનું શક્તિઘર કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કણાભસૂત્ર = કોષનું પાવર સ્ટેશન (બેટરી = ATP).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "રંગસૂત્રો શાના બનેલા હોય છે અને તેનું કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રંગસૂત્રો DNA અને પ્રોટીનના બનેલા હોય છે. તેનું મુખ્ય કાર્ય વારસાગત લક્ષણોની માહિતી પિતૃ પેઢીમાંથી નવી સંતતિમાં DNA ના અણુઓના સ્વરૂપમાં મોકલવાનું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રંગસૂત્ર = વારસાગત લક્ષણોનું 'ટ્રક' (માહિતી વહન કરે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "ગોલ્ગી પ્રસાધનનું કાર્ય સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અંતઃકોષરસજાળ દ્વારા સંશ્લેષિત દ્રવ્યોનું ગોલ્ગી પ્રસાધનમાં પેકેજિંગ કરવામાં આવે છે અને તેને કોષની અંદર કે બહાર મુક્ત કરવામાં આવે છે. તે સરળ શર્કરામાંથી જટિલ શર્કરાનું નિર્માણ પણ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોલ્ગી = કોષની કુરિયર સર્વિસ (પેકિંગ + ડિલિવરી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "રસસંકોચન (Plasmolysis) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જ્યારે જીવંત વનસ્પતિ કોષ આશૃતિ દ્વારા પાણી ગુમાવે છે, ત્યારે કોષરસ કોષદીવાલથી સંકોચાઈને દૂર જાય છે. આ ઘટનાને રસસંકોચન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી બહાર + કોષરસનું દીવાલથી અંતર = રસસંકોચન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "વનસ્પતિ કોષ અને પ્રાણી કોષ વચ્ચેના કોઈ પણ બે તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (1) વનસ્પતિ કોષમાં કોષદીવાલ હાજર હોય છે, જ્યારે પ્રાણી કોષમાં કોષદીવાલ હોતી નથી. (2) વનસ્પતિ કોષમાં હરિતકણ હોય છે, જ્યારે પ્રાણી કોષમાં હરિતકણ ગેરહાજર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વનસ્પતિ = લીલી (હરિતકણ) + મજબૂત (દીવાલ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "રકતકણોને શુદ્ધ પાણીમાં રાખતા શું થશે? શા માટે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રકતકણોને શુદ્ધ પાણીમાં રાખતા તે આશૃતિની ક્રિયા દ્વારા પાણી મેળવશે અને ફૂલશે. અંતે તે ફાટી શકે છે, કારણ કે પ્રાણી કોષ પાસે વનસ્પતિ કોષ જેવી મજબૂત કોષદીવાલ હોતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઈપોટોનિક દ્રાવણ = પાણી અંદર = કોષ ફૂલવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "રીબોઝોમ્સનું કાર્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રીબોઝોમ્સ કોષમાં પ્રોટીન સંશ્લેષણ (નિર્માણ) નું કાર્ય કરે છે. તે કોષરસમાં મુક્ત સ્વરૂપે અથવા ખરબચડી અંતઃકોષરસજાળની સપાટી પર ચોંટેલા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રીબોઝોમ = પ્રોટીન બનાવવાની ફેક્ટરી.</p></div>"
+    }
+  ]
+}
