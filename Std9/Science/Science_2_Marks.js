@@ -430,3 +430,71 @@ var Std9_Science_2Marks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "ગતિ",
+  "marks": 2,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "અંતર અને સ્થાનાંતર વચ્ચેના મુખ્ય બે તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ૧. અંતર એ ગતિપથની કુલ લંબાઈ છે, જ્યારે સ્થાનાંતર એ પ્રારંભિક અને અંતિમ બિંદુ વચ્ચેનું લઘુત્તમ અંતર છે. ૨. અંતર અદિશ રાશિ છે (માત્ર મૂલ્ય), જ્યારે સ્થાનાંતર સદિશ રાશિ છે (મૂલ્ય અને દિશા બંને).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'અંતર' એટલે તમે કાપેલો આખો રસ્તો, પણ 'સ્થાનાંતર' એટલે માત્ર શોર્ટકટ રસ્તો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "નિયમિત ગતિ અને અનિયમિત ગતિની વ્યાખ્યા ઉદાહરણ સાથે આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જો કોઈ ગતિમાન પદાર્થ સમયના સમાન ગાળામાં સમાન અંતર કાપતો હોય, તો તેને 'નિયમિત ગતિ' કહેવાય (દા.ત. ઘડિયાળના કાંટાની ગતિ). જો પદાર્થ સમાન સમયમાં સમાન અંતર ન કાપતો હોય, તો તેને 'અનિયમિત ગતિ' કહેવાય (દા.ત. ભીડવાળા રસ્તા પર કારની ગતિ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમય સમાન + અંતર સમાન = નિયમિત, સમય સમાન + અંતર અલગ = અનિયમિત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "પ્રવેગ એટલે શું? તેનું સૂત્ર અને SI એકમ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પદાર્થના વેગમાં થતા ફેરફારના સમયદરને 'પ્રવેગ' કહે છે. <br>સૂત્ર: a = (v - u) / t <br>SI એકમ: m/s² (મીટર/સેકન્ડ²).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વેગમાં થતો ફેરફાર એટલે જ પ્રવેગ! (V-U/T)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "પ્રતિપ્રવેગ એટલે શું? તેનું એક ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જો ગતિમાન પદાર્થનો વેગ સમય સાથે ઘટતો જતો હોય, તો પદાર્થની આવી ગતિને 'પ્રતિપ્રવેગી ગતિ' કહે છે. પ્રતિપ્રવેગ હંમેશા ઋણ (-) હોય છે. <br>ઉદાહરણ: ગતિ કરતી સાયકલને બ્રેક મારતા તેની ગતિ ધીમી પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્પીડ વધે તો પ્રવેગ (+), સ્પીડ ઘટે તો પ્રતિપ્રવેગ (-).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "સરેરાશ ઝડપ એટલે શું? તેનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પદાર્થે કાપેલું કુલ અંતર અને તે અંતર કાપવા માટે લાગતા કુલ સમયના ગુણોત્તરને 'સરેરાશ ઝડપ' કહે છે. <br>સૂત્ર: સરેરાશ ઝડપ = કાપેલું કુલ અંતર / લાગતો કુલ સમય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કુલ અંતરના છેદમાં કુલ સમય = એવરેજ ઝડપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "ઓડોમીટર (Odometer) શું માપે છે? તે ક્યાં જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઓડોમીટર વાહને કાપેલું કુલ અંતર માપે છે. તે મોટરકાર, બાઈક અને બસ જેવા તમામ વાહનોના ડેશબોર્ડમાં જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્પીડોમીટર ઝડપ માપે અને ઓડોમીટર અંતર (કિમી) માપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "નિયમિત વર્તુળમય ગતિ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જ્યારે કોઈ પદાર્થ વર્તુળાકાર પથ પર અચળ ઝડપે ગતિ કરતો હોય, ત્યારે તેની ગતિને 'નિયમિત વર્તુળમય ગતિ' કહે છે. દા.ત. ચંદ્રની પૃથ્વીની આસપાસની ગતિ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અચળ ઝડપ + ગોળ રસ્તો = નિયમિત વર્તુળમય ગતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "અંતર-સમયના આલેખનો ઢાળ શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અંતર (s) વિરુદ્ધ સમય (t) ના આલેખનો ઢાળ પદાર્થની 'ઝડપ' દર્શાવે છે. આલેખ જેટલો વધુ ત્રાંસો (ઢાળવાળો), પદાર્થની ઝડપ એટલી વધુ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'અંતર/સમય' ના લગ્ન થાય તો 'ઝડપ' જન્મે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "સ્થાનાંતરનું મૂલ્ય શૂન્ય ક્યારે હોઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જ્યારે કોઈ ગતિમાન પદાર્થ પોતાની ગતિ પૂરી કરીને ફરી પાછો પોતાના પ્રારંભિક સ્થાને (જ્યાંથી શરૂ કર્યું હતું ત્યાં) આવે, ત્યારે તેનું સ્થાનાંતર શૂન્ય ગણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘરેથી સ્કૂલે જઈ પાછા ઘરે આવો તો સ્થાનાંતર = 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "વેગ અને ઝડપ વચ્ચેનો પાયાનો તફાવત શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઝડપ એ એકમ સમયમાં કાપેલું અંતર છે (દિશા જરૂરી નથી), જ્યારે વેગ એ એકમ સમયમાં થતું સ્થાનાંતર છે (નિશ્ચિત દિશામાં ઝડપ). વેગ બદલવા માટે ઝડપ અથવા દિશા બદલવી પડે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઝડપ + દિશા = વેગ.</p></div>"
+    }
+  ]
+}
