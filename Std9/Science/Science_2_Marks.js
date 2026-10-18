@@ -350,3 +350,83 @@ var Std9_Science_2Marks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "પેશીઓ",
+  "marks": 2,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "પેશી એટલે શું? બહુકોષી સજીવોમાં પેશીની ઉપયોગિતા શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શરીરમાં એક નિશ્ચિત સ્થાનમાં એક નિશ્ચિત કાર્ય કરતા વિશિષ્ટ કોષોના સમૂહને 'પેશી' કહે છે. બહુકોષી સજીવોમાં પેશીઓ શ્રમ વિભાજન દ્વારા કાર્યક્ષમતા વધારે છે. દા.ત., સ્નાયુ પેશી હલનચલન માટે અને અન્નવાહક પેશી ખોરાકના વહન માટે ઉપયોગી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેશી = કોષોનો સમૂહ + ચોક્કસ કાર્ય + શ્રમ વિભાજન. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "વર્ધનશીલ પેશીના કોષોની લાક્ષણિકતાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વર્ધનશીલ પેશીના કોષો ખૂબ જ સક્રિય હોય છે. (1) તેઓ સ્પષ્ટ કોષકેન્દ્ર અને ઘટ્ટ કોષરસ ધરાવે છે. (2) તેમની કોષદીવાલ સેલ્યુલોઝની બનેલી અને પાતળી હોય છે. (3) આ કોષોમાં રસધાનીનો અભાવ હોય છે કારણ કે તેઓ સતત વિભાજન પામતા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સક્રિય કોષો' = પાતળી દીવાલ + મોટું કેન્દ્ર - રસધાની. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "સ્થાનને આધારે વર્ધનશીલ પેશીના પ્રકારો અને તેનું સ્થાન જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્થાનને આધારે વર્ધનશીલ પેશીના ત્રણ પ્રકાર છે: <br>1. <strong>અગ્રસ્થ:</strong> મૂળ અને પ્રકાંડની ટોચના ભાગે.<br>2. <strong>આંતરવિષ્ટ:</strong> પર્ણોના તલપ્રદેશમાં કે ડાળીઓની આંતરગાંઠની બંને તરફ.<br>3. <strong>પાર્શ્વીય:</strong> પ્રકાંડ અને મૂળના પરિઘીય વિસ્તારમાં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ-આ-પા' (અગ્રસ્થ-ટોચ, આંતરવિષ્ટ-ગાંઠ, પાર્શ્વીય-ઘેરાવો). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "સ્થૂલકોણક પેશીના લક્ષણો અને કાર્ય લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લક્ષણો: આ પેશીના કોષો જીવંત, લાંબા અને ખૂણાના ભાગે પેક્ટિનના જમાવને કારણે અનિયમિત રીતે જાડા હોય છે. <br>કાર્ય: તે વનસ્પતિના નમ્ય ભાગો (જેમ કે પર્ણદંડ) ને લવચીકતા અને યાંત્રિક આધાર પૂરો પાડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થૂલકોણક = ખૂણેથી જાડા + લવચીકતા (Flexible support). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "દ્રઢોતક પેશી વિશે ટૂંકમાં માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દ્રઢોતક પેશીના કોષો મૃત, લાંબા અને સાંકડા હોય છે. તેની કોષદીવાલ લિગ્નિનના જમાવને કારણે જાડી હોય છે, જેથી કોષો વચ્ચે આંતરકોષીય અવકાશ હોતો નથી. તે વનસ્પતિને મજબૂતાઈ અને સખતપણું આપે છે. દા.ત. નાળિયેરના રેસાવાળી છાલ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્રઢોતક = લિગ્નિન + મૃત કોષો + નાળિયેરની કાચલી જેવી મજબૂતી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "પર્ણરંધ્ર (Stomata) એટલે શું? તેના કાર્યો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પર્ણના અધિસ્તરમાં આવેલા નાના છિદ્રોને પર્ણરંધ્ર કહે છે, જે રક્ષક કોષો દ્વારા ઘેરાયેલા હોય છે.<br>કાર્યો: (1) વાતાવરણ સાથે વાયુઓનો વિનિમય (O2 અને CO2) કરવો. (2) બાષ્પોત્સર્જનની ક્રિયા દ્વારા વધારાનું પાણી વરાળ સ્વરૂપે બહાર કાઢવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્ણરંધ્ર = વનસ્પતિનું નાક (વાયુ વિનિમય) + પરસેવો (બાષ્પોત્સર્જન). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "જલવાહક પેશીના ઘટકોના નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જલવાહક પેશી મુખ્યત્વે ચાર ઘટકોની બનેલી છે:<br>1. જલવાહિનીકી<br>2. જલવાહિની<br>3. જલવાહક મૃદુતક (જીવંત ઘટક)<br>4. જલવાહક તંતુઓ (દ્રઢોતક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કી-ની-મૃ-તં' (જલવાહિનીકી, જલવાહિની, મૃદુતક, તંતુઓ). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "અન્નવાહક પેશીના ઘટકોના નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અન્નવાહક પેશીના પાંચ ઘટકો છે:<br>1. ચાલની કોષો<br>2. ચાલની નલિકા<br>3. સાથી કોષો<br>4. અન્નવાહક મૃદુતક<br>5. અન્નવાહક તંતુઓ (જે મૃત હોય છે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખોરાકનું વહન = ચાલની + સાથી + મૃદુતક. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "રુધિરને સંયોજક પેશી કેમ કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રુધિર એ પ્રવાહી આંતરકોષીય આધારદ્રવ્ય (પ્લાઝ્મા) ધરાવે છે જેમાં રુધિરકોષો તરતા હોય છે. તે શરીરના એક ભાગને બીજા ભાગ સાથે જોડે છે અને પોષક દ્રવ્યો, વાયુઓ તથા ઉત્સર્ગ દ્રવ્યોનું વહન કરીને સમગ્ર શરીરનું જોડાણ કરે છે, તેથી તેને સંયોજક પેશી કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સંયોજક' એટલે જોડનાર. રુધિર આખા શરીરને 'કનેક્ટ' કરે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "ચેતાકોષની રચનાના મુખ્ય ત્રણ ભાગો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ચેતાકોષ મુખ્ય ત્રણ ભાગોનો બનેલો હોય છે:<br>1. <strong>કોષકાય:</strong> જેમાં કોષકેન્દ્ર અને કોષરસ હોય છે.<br>2. <strong>શિખાતંતુ:</strong> કોષકાયમાંથી નીકળતી ટૂંકી શાખાઓ.<br>3. <strong>અક્ષતંતુ:</strong> કોષકાયમાંથી નીકળતો એક લાંબો પ્રવર્ધ જે સંદેશાનું વહન કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચેતાકોષ = બોડી (કોષકાય) + વાળ (શિખાતંતુ) + પૂંછડી (અક્ષતંતુ). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "marks": 2,
+      "question": "ઐચ્છિક સ્નાયુ અને અનૈચ્છિક સ્નાયુ વચ્ચેનો ભેદ સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <strong>ઐચ્છિક સ્નાયુ:</strong> જે સ્નાયુઓ આપણી ઈચ્છાશક્તિ મુજબ હલનચલન કરી શકે છે (દા.ત. હાથ-પગના સ્નાયુ). <br><strong>અનૈચ્છિક સ્નાયુ:</strong> જે સ્નાયુઓનું હલનચલન આપણી ઈચ્છાને આધીન નથી (દા.ત. અન્નનળી કે રુધિરવાહિનીના સ્નાયુ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઐચ્છિક = મનની મરજી, અનૈચ્છિક = ઓટોમેટિક. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "marks": 2,
+      "question": "અરેખિત સ્નાયુપેશીની લાક્ષણિકતા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (1) આ સ્નાયુકોષો લાંબા અને છેડા પરથી સાંકડા એટલે કે ત્રાકાકાર હોય છે. (2) તેઓ એકકોષકેન્દ્રી હોય છે. (3) આ સ્નાયુઓમાં આડી પટ્ટીઓ જેવી રચના (રેખાઓ) હોતી નથી, તેથી તેને અરેખિત સ્નાયુ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અરેખિત = પટ્ટી વગરના + ત્રાકાકાર + એકકેન્દ્રી. (NJ Classes)</p></div>"
+    }
+  ]
+}
