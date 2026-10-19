@@ -702,3 +702,71 @@ var Std9_Science_2Marks = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "ધ્વનિ",
+  "marks": 2,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "ધ્વનિ કેવી રીતે ઉત્પન્ન થાય છે? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધ્વનિ પદાર્થમાં થતા કંપનો દ્વારા ઉત્પન્ન થાય છે. જ્યારે કોઈ વસ્તુ ધ્રુજારી (કંપન) અનુભવે છે, ત્યારે તે પોતાની આસપાસના માધ્યમના કણોમાં વિક્ષોભ પેદા કરે છે. દા.ત. ખેંચાયેલા રબર બેન્ડને અથડાવતા, શાળાનો ઘંટ વગાડતા કે આપણા ગળામાં રહેલી સ્વરપેટીના કંપનથી ધ્વનિ ઉત્પન્ન થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કંપન (Vibration) = ધ્વનિ (Sound). કંપન નથી તો અવાજ નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "સંગત તરંગો અને લંબગત તરંગો વચ્ચેનો મુખ્ય તફાવત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ૧. <strong>સંગત તરંગો:</strong> જેમાં માધ્યમના કણો તરંગ પ્રસરણની દિશામાં જ આગળ-પાછળ ગતિ કરે છે (દા.ત. ધ્વનિ તરંગો). <br>૨. <strong>લંબગત તરંગો:</strong> જેમાં માધ્યમના કણો તરંગ પ્રસરણની દિશાને લંબરૂપે ઉપર-નીચે ગતિ કરે છે (દા.ત. પ્રકાશના તરંગો અથવા પાણીમાં પેદા થતા તરંગો).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંગત = 'સાથે-સાથે' (સમાંતર), લંબગત = 'લંબરૂપે' (90 ડિગ્રી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "ધ્વનિ તરંગોના પ્રસરણ માટે માધ્યમની જરૂરિયાત શા માટે હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધ્વનિ એ યાંત્રિક તરંગ છે. તે માધ્યમના કણોના કંપન દ્વારા આગળ વધે છે. શૂન્યાવકાશમાં કણો હોતા નથી, તેથી ત્યાં કંપનોનું વહન થઈ શકતું નથી. આથી ધ્વનિના પ્રસરણ માટે હવા, પાણી કે લોખંડ જેવા ભૌતિક માધ્યમની અનિવાર્ય જરૂર પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માધ્યમ = બસ, ધ્વનિ = પેસેન્જર. બસ વગર પેસેન્જર આગળ ન જઈ શકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "તરંગલંબાઈ અને આવૃત્તિની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ૧. <strong>તરંગલંબાઈ (λ):</strong> બે ક્રમિક સંઘનન કે બે ક્રમિક વિઘનન વચ્ચેના અંતરને તરંગલંબાઈ કહે છે. તેનો SI એકમ મીટર (m) છે. <br>૨. <strong>આવૃત્તિ (ν):</strong> એકમ સમયમાં થતા દોલનોની કુલ સંખ્યાને આવૃત્તિ કહે છે. તેનો SI એકમ હર્ટ્ઝ (Hz) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતર એટલે લંબાઈ (λ) અને એક સેકન્ડના ફેરા એટલે આવૃત્તિ (f).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "ધ્વનિની ઝડપ, તરંગલંબાઈ અને આવૃત્તિ વચ્ચેનો સંબંધ દર્શાવતું સૂત્ર તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઝડપ = અંતર / સમય. <br>અહીં, અંતર = તરંગલંબાઈ (λ) અને સમય = આવર્તકાળ (T). <br>v = λ / T <br>પરંતુ, 1/T = ν (આવૃત્તિ) હોવાથી, <br><strong>v = λ × ν</strong> (ઝડપ = તરંગલંબાઈ × આવૃત્તિ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: v = λf (વેલોસીટી = લેમ્બડા ગુણ્યા ફ્રિક્વન્સી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "પડઘો (Echo) સાંભળવા માટેની જરૂરી શરતો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ૧. મૂળ ધ્વનિ અને પરાવર્તિત ધ્વનિ વચ્ચે સમયનો ગાળો ઓછામાં ઓછો 0.1 સેકન્ડ હોવો જોઈએ. <br>૨. ધ્વનિના સ્ત્રોત અને પરાવર્તક સપાટી વચ્ચેનું લઘુત્તમ અંતર આશરે 17.2 મીટર હોવું જોઈએ (સામાન્ય તાપમાને).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0.1 સેકન્ડ અને 17.2 મીટર - આ બે જાદુઈ આંકડા યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "અનુરણન (Reverberation) એટલે શું? તેને કેવી રીતે ઘટાડી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મોટા હોલ કે ઓડિટોરિયમમાં ધ્વનિના વારંવાર થતા પરાવર્તનને કારણે ધ્વનિ લાંબો સમય જળવાઈ રહે છે, જેને અનુરણન કહે છે. <br><strong>ઘટાડવાના ઉપાયો:</strong> હોલની છત અને દીવાલો પર ધ્વનિ શોષક પદાર્થો જેવા કે દબાવેલ ફાઈબર બોર્ડ, રફ પ્લાસ્ટર કે પડદા લગાવવાથી અનુરણન ઘટાડી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનુરણન = અવાજનું ગૂંજવું. શોષક પદાર્થો = અવાજની સ્પોન્જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "મનુષ્ય માટે શ્રાવ્ય ધ્વનિની સીમા જણાવો. અવશ્રાવ્ય અને પરાશ્રાવ્ય ધ્વનિ કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મનુષ્ય માટે શ્રાવ્ય સીમા <strong>20 Hz થી 20,000 Hz</strong> છે. <br>૧. <strong>અવશ્રાવ્ય (Infrasonic):</strong> 20 Hz થી ઓછી આવૃત્તિવાળા ધ્વનિ. <br>૨. <strong>પરાશ્રાવ્ય (Ultrasonic):</strong> 20,000 Hz (20 kHz) થી વધુ આવૃત્તિવાળા ધ્વનિ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 20 થી 20 હજાર - મનુષ્ય સાંભળે આટલી વાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "અલ્ટ્રાસાઉન્ડ (પરાશ્રાવ્ય ધ્વનિ) ના કોઈ પણ બે ઉપયોગો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ૧. <strong>ઉદ્યોગોમાં:</strong> ધાતુના બ્લોકમાં રહેલી તિરાડો કે ખામીઓ શોધવા માટે. <br>૨. <strong>તબીબી ક્ષેત્રે:</strong> ઇકોકાર્ડિયોગ્રાફી (ECG) દ્વારા હૃદયની તપાસ કરવા અથવા ગર્ભસ્થ શિશુની તપાસ કરવા (સોનોગ્રાફી) માટે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અલ્ટ્રાસાઉન્ડ = હાઈ ટેક જાસૂસ (શરીર અને મશીનની અંદર જુએ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "SONAR નું પૂર્ણ નામ લખી તેનો ઉપયોગ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <strong>SONAR:</strong> SOund Navigation And Ranging. <br><strong>ઉપયોગ:</strong> સોનાર ટેકનોલોજીનો ઉપયોગ પાણીની અંદર રહેલી વસ્તુઓ (જેમ કે સબમરીન, આઈસબર્ગ, ડૂબેલા જહાજો) નું અંતર, દિશા અને વેગ માપવા માટે થાય છે. તે પરાશ્રાવ્ય તરંગોના પરાવર્તનના સિદ્ધાંત પર કાર્ય કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરિયાનો 'ગૂગલ મેપ' એટલે SONAR!</p></div>"
+    }
+  ]
+}
