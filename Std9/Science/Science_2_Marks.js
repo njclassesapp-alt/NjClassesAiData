@@ -498,3 +498,71 @@ var Std9_Science_2Marks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "બળ તથા ગતિના નિયમો",
+  "marks": 2,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "સંતુલિત બળો અને અસંતુલિત બળો વચ્ચેનો મુખ્ય તફાવત સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જ્યારે પદાર્થ પર લાગતા તમામ બળોનું પરિણામી બળ શૂન્ય હોય, તો તેને સંતુલિત બળ કહેવાય છે; તેનાથી પદાર્થની ગતિની અવસ્થા બદલાતી નથી. પરંતુ જો પરિણામી બળ શૂન્ય ન હોય, તો તેને અસંતુલિત બળ કહેવાય છે, જે પદાર્થની ગતિ અથવા દિશામાં ફેરફાર લાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંતુલિત = No Change (0 Result), અસંતુલિત = Speed/Direction Change!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "ન્યૂટનનો ગતિનો પ્રથમ નિયમ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દરેક પદાર્થ પોતાની સ્થિર અવસ્થા કે સુરેખ પથ પર અચળ ગતિની અવસ્થા જાળવી રાખે છે, જ્યાં સુધી તેના પર કોઈ બાહ્ય અસંતુલિત બળ ન લાગે. આ નિયમને 'જડત્વનો નિયમ' પણ કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પદાર્થ આળસુ છે! જેવો છે તેવો જ રહેવા માંગે છે જ્યાં સુધી કોઈ ધક્કો (બળ) ન મારે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "જડત્વ એટલે શું? તે કઈ બાબત પર આધાર રાખે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પદાર્થ પોતાની ગતિની અવસ્થામાં થતા ફેરફારનો વિરોધ કરવાના કુદરતી ગુણધર્મને 'જડત્વ' કહે છે. પદાર્થનું જડત્વ તેના દળ (Mass) પર આધાર રાખે છે. જે પદાર્થનું દળ વધારે, તેનું જડત્વ વધારે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જડત્વ ∝ દળ (વધુ વજન = વધુ જડત્વ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "વેગમાન (Momentum) ની વ્યાખ્યા આપી તેનું સૂત્ર અને SI એકમ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પદાર્થના દળ (m) અને તેના વેગ (v) ના ગુણનફળને પદાર્થનું વેગમાન (p) કહે છે. <br>સૂત્ર: p = m × v <br>SI એકમ: kg·m/s (કિલોગ્રામ-મીટર પ્રતિ સેકન્ડ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): P = MV (PMV Formula યાદ રાખો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "ન્યૂટનનો ગતિનો બીજો નિયમ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કોઈ પણ પદાર્થના વેગમાનના ફેરફારનો દર તેના પર લાગતા બાહ્ય અસંતુલિત બળના સમપ્રમાણમાં હોય છે અને તે બળની દિશામાં હોય છે. ગાણિતિક રીતે, F = ma.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): F = ma (બળ = માં! યાદ રાખવું સરળ છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "ક્રિકેટ મેચમાં ફિલ્ડર કેચ પકડતી વખતે હાથ પાછળ કેમ ખેંચે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હાથ પાછળ ખેંચવાથી દડાનો વેગ શૂન્ય થવા માટે લાગતો સમય વધે છે. ન્યૂટનના બીજા નિયમ મુજબ, સમય વધતા વેગમાનના ફેરફારનો દર ઘટે છે, પરિણામે હાથ પર લાગતું બળ ઘટે છે અને ઇજા થતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમય (t) વધે તો બળ (F) ઘટે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "ન્યૂટનનો ગતિનો ત્રીજો નિયમ ઉદાહરણ સાથે સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જ્યારે એક પદાર્થ બીજા પદાર્થ પર બળ લગાડે, ત્યારે બીજો પદાર્થ પણ પ્રથમ પદાર્થ પર તેટલું જ અને વિરુદ્ધ દિશામાં બળ લગાડે છે. (આઘાત અને પ્રત્યાઘાત સમાન અને પરસ્પર વિરુદ્ધ હોય છે). <br>ઉદાહરણ: બંદૂકમાંથી ગોળી છૂટે ત્યારે બંદૂક પાછળ ધકેલાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'જેવા સાથે તેવા' - Action = Reaction (opposite direction).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "વેગમાન સંરક્ષણનો નિયમ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બાહ્ય અસંતુલિત બળની ગેરહાજરીમાં બે પદાર્થોના કુલ વેગમાનમાં કોઈ ફેરફાર થતો નથી, એટલે કે તેમનું કુલ વેગમાન અચળ રહે છે. અથડામણ પહેલાનું કુલ વેગમાન = અથડામણ પછીનું કુલ વેગમાન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વેગમાન નવું બનતું નથી કે નાશ પામતું નથી, માત્ર ટ્રાન્સફર થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "1 ન્યૂટન (1 N) બળની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 1 કિલોગ્રામ (1 kg) દળ ધરાવતા પદાર્થમાં 1 m/s² જેટલો પ્રવેગ ઉત્પન્ન કરવા માટે જરૂરી બળને '1 ન્યૂટન' બળ કહેવામાં આવે છે. <br>1 N = 1 kg × 1 m/s².</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1N = 1kg x 1m/s² (બધું જ 1-1-1).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "બસ અચાનક ચાલુ થાય ત્યારે મુસાફર પાછળની તરફ કેમ નમી પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જ્યારે બસ સ્થિર હોય ત્યારે મુસાફરનું શરીર પણ સ્થિર હોય છે. બસ અચાનક ગતિમાં આવતા મુસાફરના પગ (જે બસના સંપર્કમાં છે) ગતિમાં આવે છે, પરંતુ શરીરનો ઉપરનો ભાગ 'સ્થિરતાના જડત્વ'ના કારણે સ્થિર રહેવા પ્રયત્ન કરે છે, તેથી તે પાછળ નમે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્થિરતાનું જડત્વ = ઊભા રહેવાની જીદ!</p></div>"
+    }
+  ]
+}
