@@ -566,3 +566,71 @@ var Std9_Science_2Marks = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "ગુરુત્વાકર્ષણ",
+  "marks": 2,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "ગુરુત્વાકર્ષણનો સાર્વત્રિક નિયમ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિશ્વનો પ્રત્યેક પદાર્થ બીજા પદાર્થ પર આકર્ષણ બળ લગાડે છે. આ બળ : <br> 1. બંને પદાર્થોના દ્રવ્યમાનના ગુણાકારના સમપ્રમાણમાં હોય છે. <br> 2. તેમની વચ્ચેના અંતરના વર્ગના વ્યસ્ત પ્રમાણમાં હોય છે. <br> સૂત્ર: F = G (M x m) / d²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યાદ રાખો: 'ગુણાકારના સમ, અંતરના વર્ગના વ્યસ્ત' (M1M2 ઉપર, d² નીચે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "મુક્ત પતન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જ્યારે કોઈ પદાર્થ પર ફક્ત પૃથ્વીનું ગુરુત્વાકર્ષણ બળ જ લાગતું હોય અને તે પદાર્થ નીચેની તરફ ગતિ કરે, ત્યારે તે પદાર્થ 'મુક્ત પતન' કરે છે તેમ કહેવાય. મુક્ત પતન કરતા પદાર્થનો પ્રવેગ 'g' (9.8 m/s²) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મુક્ત પતન = માત્ર ગુરુત્વાકર્ષણ બળની અસર હેઠળ ગતિ (બાહ્ય બળ શૂન્ય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "ગુરુત્વાકર્ષણના સાર્વત્રિક નિયમનું મહત્વ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 1. આપણને પૃથ્વી સાથે બાંધી રાખતું બળ સમજાવે છે. <br> 2. પૃથ્વીની ફરતે થતું ચંદ્રનું પરિભ્રમણ સમજાવે છે. <br> 3. સૂર્યની ફરતે થતું ગ્રહોનું પરિભ્રમણ અને ભરતી-ઓટ માટે જવાબદાર બળ સમજાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ત્રણ 'ચ' યાદ રાખો: ચંદ્ર, ચાલવું (પૃથ્વી પર) અને ચક્ર (ગ્રહોનું પરિભ્રમણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "દ્રવ્યમાન (Mass) અને વજન (Weight) વચ્ચેનો તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>1. દ્રવ્યમાન પદાર્થમાં રહેલા દ્રવ્યનો જથ્થો છે, જ્યારે વજન પદાર્થ પર લાગતું ગુરુત્વાકર્ષણ બળ છે. <br>2. દ્રવ્યમાન દરેક સ્થળે સમાન રહે છે, જ્યારે વજન સ્થળ બદલાતા બદલાય છે. <br>3. દ્રવ્યમાનનો એકમ 'kg' છે અને વજનનો એકમ 'Newton' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'દ્રવ્યમાન જિદ્દી છે' (ક્યાંય ન બદલાય), 'વજન લવચીક છે' (સ્થળ મુજબ બદલાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "ચંદ્ર પર પદાર્થનું વજન પૃથ્વી પરના વજન કરતા 1/6 ભાગનું કેમ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ચંદ્રનું દળ અને ત્રિજ્યા પૃથ્વી કરતા ઘણા ઓછા છે. જેના કારણે ચંદ્ર પદાર્થ પર ઓછું આકર્ષણ બળ લગાડે છે. ગણતરી મુજબ, ચંદ્રનું ગુરુત્વાકર્ષણ બળ પૃથ્વીના બળના છઠ્ઠા ભાગનું હોવાથી ત્યાં વજન 1/6 ગણું થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પૃથ્વી 6 ગણી શક્તિશાળી, એટલે ચંદ્ર પર વજન 6 ભાગનું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "પ્લાવક બળ (Buoyant Force) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જ્યારે કોઈ પદાર્થને પ્રવાહીમાં ડૂબાડવામાં આવે છે, ત્યારે પ્રવાહી દ્વારા પદાર્થ પર ઉપરની તરફ એક બળ લાગે છે. આ ઉર્ધ્વગામી બળને 'પ્લાવક બળ' કહેવામાં આવે છે. આ બળને કારણે પ્રવાહીમાં પદાર્થનું વજન ઘટતું જણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાણીનો ધક્કો = પ્લાવક બળ. (હંમેશા ઉપરની તરફ લાગે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "આર્કિમીડિઝનો સિદ્ધાંત લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જ્યારે કોઈ પદાર્થને પ્રવાહીમાં આંશિક કે સંપૂર્ણપણે ડૂબાડવામાં આવે, ત્યારે તે પદાર્થ પર લાગતું પ્લાવક બળ તે પદાર્થ દ્વારા વિસ્થાપિત (ખસેડાયેલા) પ્રવાહીના વજન જેટલું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યાદ રાખો: પ્લાવક બળ = વિસ્થાપિત પ્રવાહીનું વજન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "દબાણની વ્યાખ્યા અને તેનું સૂત્ર આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> એકમ ક્ષેત્રફળ દીઠ સપાટીને લંબરૂપે લાગતા બળ (ધક્કા) ને 'દબાણ' કહે છે. <br> સૂત્ર: દબાણ (P) = બળ (F) / ક્ષેત્રફળ (A) <br> એકમ: ન્યૂટન/મીટર² (N/m²) અથવા પાસ્કલ (Pa).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ક્ષેત્રફળ ઓછું -> દબાણ વધુ. (જેમ કે ખીલીની અણી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "સાપેક્ષ ઘનતા એટલે શું? તેનો એકમ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કોઈ પદાર્થની ઘનતા અને પાણીની ઘનતાના ગુણોત્તરને તે પદાર્થની 'સાપેક્ષ ઘનતા' કહે છે. <br> સાપેક્ષ ઘનતા = પદાર્થની ઘનતા / પાણીની ઘનતા. <br> તે સમાન રાશિઓનો ગુણોત્તર હોવાથી તેને કોઈ એકમ નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સાપેક્ષ' એટલે સરખામણી. સરખામણીમાં એકમ ઉડી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "લોખંડની ખીલી પાણીમાં ડૂબી જાય છે પણ જહાજ તરે છે - વૈજ્ઞાનિક કારણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ખીલી દ્વારા ખસેડાયેલા પાણીનું વજન ખીલીના વજન કરતા ઓછું હોય છે, તેથી તે ડૂબે છે. જ્યારે જહાજની બનાવટ એવી હોય છે કે તેના દ્વારા ખસેડાયેલા પાણીનું વજન (પ્લાવક બળ) જહાજના વજન જેટલું કે તેથી વધુ હોય છે, તેથી જહાજ તરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તરવું હોય તો: પ્લાવક બળ > પદાર્થનું વજન.</p></div>"
+    }
+  ]
+}
