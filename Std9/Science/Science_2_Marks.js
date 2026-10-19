@@ -634,3 +634,71 @@ var Std9_Science_2Marks = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "કાર્ય અને ઊર્જા",
+  "marks": 2,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "વિજ્ઞાનની દ્રષ્ટિએ 'કાર્ય' થયું તેમ ક્યારે કહેવાય? તેની શરતો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિજ્ઞાનમાં કાર્ય થવા માટે નીચેની બે શરતો પૂરી થવી અનિવાર્ય છે:<br>1. વસ્તુ પર કોઈ બળ (Force) લાગવું જોઈએ.<br>2. વસ્તુનું બળની દિશામાં સ્થાનાંતર (Displacement) થવું જોઈએ.<br>જો આ બેમાંથી એક પણ શરતનું પાલન ન થાય, તો કાર્ય શૂન્ય ગણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાર્ય = બળ × બળદ (બળ અને બળની દિશામાં સ્થાનાંતર) - જો ધક્કો માર્યો પણ જગ્યા ન બદલાઈ, તો કામ ઝીરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "1 જૂલ (Joule) કાર્યની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જ્યારે વસ્તુ પર 1 ન્યૂટન (1 N) જેટલું બળ લાગતું હોય અને વસ્તુનું બળની દિશામાં 1 મીટર (1 m) જેટલું સ્થાનાંતર થતું હોય, તો થયેલું કાર્ય 1 જૂલ કહેવાય છે.<br>સૂત્ર: 1 J = 1 N × 1 m</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1 જૂલ = 'એક'ડાની જોડી (1 Newton અને 1 Meter).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "ગતિ ઊર્જા એટલે શું? તેનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વસ્તુ પોતાની ગતિને કારણે કાર્ય કરવાની જે ક્ષમતા ધરાવે છે, તેને વસ્તુની ગતિ ઊર્જા (Kinetic Energy) કહે છે.<br>જો m દળની વસ્તુ v જેટલા સમાન વેગથી ગતિ કરતી હોય, તો તેની ગતિ ઊર્જાનું સૂત્ર:<br>Ek = ½ mv²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગતિ છે તો 'વેગ' (v) છે, અને વેગ છે તો જ Ek છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "સ્થિતિ ઊર્જા એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વસ્તુના આકાર અથવા તેના સ્થાનને કારણે તેમાં સંગ્રહાયેલી ઊર્જાને સ્થિતિ ઊર્જા (Potential Energy) કહે છે.<br>ઉદાહરણ તરીકે: ખેંચાયેલું રબર, ધનુષની ખેંચાયેલી પણછ અથવા બંધમાં સંગ્રહાયેલું પાણી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્થિતિ એટલે 'સ્થાન' અથવા 'આકાર' - જે દેખાય નહીં પણ કામ કરવાની તાકાત રાખે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "ઊર્જા સંરક્ષણનો નિયમ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઊર્જા સંરક્ષણના નિયમ મુજબ: \"ઊર્જા ઉત્પન્ન કરી શકાતી નથી કે તેનો નાશ કરી શકાતો નથી. માત્ર તેને એક સ્વરૂપમાંથી બીજા સ્વરૂપમાં રૂપાંતરિત કરી શકાય છે.\" બ્રહ્માંડની કુલ ઊર્જા હંમેશા અચળ રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઊર્જા એટલે પાવરફુલ આત્મા - જે ક્યારેય મરતી નથી, બસ કપડાં (સ્વરૂપ) બદલે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "પાવર (Power) એટલે શું? તેનો SI એકમ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાર્ય કરવાના સમય દરને 'પાવર' કહેવામાં આવે છે. પાવર એ દર્શાવે છે કે કાર્ય કેટલા ઝડપથી અથવા ધીમેથી થાય છે.<br>સૂત્ર: પાવર (P) = કાર્ય (W) / સમય (t)<br>પાવરનો SI એકમ 'વોટ' (Watt) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાવર એટલે 'કામની સ્પીડ' - જે ઝડપથી કામ કરે એનો પાવર વધારે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "1 kWh અને જૂલ (J) વચ્ચેનો સંબંધ મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 1 kWh = 1 kW × 1 h<br>= 1000 W × 3600 s<br>= 36,00,000 J<br>= 3.6 × 10⁶ J<br>આમ, 1 યુનિટ (kWh) બરાબર 3.6 મિલિયન જૂલ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1 kWh = 36 અને પાછળ 5 મીંડા (3.6 × 10⁶).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "જ્યારે બળ અને સ્થાનાંતર વચ્ચે 90° નો ખૂણો હોય ત્યારે કાર્ય કેટલું થાય? શા માટે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જ્યારે બળ અને સ્થાનાંતર વચ્ચેનો ખૂણો 90° (લંબ) હોય, ત્યારે થયેલું કાર્ય શૂન્ય ગણાય છે. કારણ કે બળની દિશામાં વસ્તુનું કોઈ સ્થાનાંતર થતું નથી. <br>દા.ત. માથા પર ભાર લઈને ઉભેલો માણસ કોઈ કાર્ય કરતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લંબ દિશા = શૂન્ય કામ. (90 Degree = Zero Work).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "ઋણ કાર્ય (Negative Work) ક્યારે થાય છે? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જ્યારે વસ્તુ પર લાગતું બળ અને વસ્તુનું સ્થાનાંતર બંને એકબીજાની વિરુદ્ધ દિશામાં હોય, ત્યારે થયેલું કાર્ય ઋણ ગણાય છે.<br>ઉદાહરણ: ઘર્ષણ બળ દ્વારા થતું કાર્ય અથવા જ્યારે આપણે દડાને હવામાં ઉપર ફેંકીએ ત્યારે ગુરુત્વાકર્ષણ બળ દ્વારા થતું કાર્ય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સામસામે ટક્કર = ઋણ કાર્ય (Opposite direction = Negative).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "યાંત્રિક ઊર્જા એટલે શું? તેના પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કોઈ પણ વસ્તુની ગતિ ઊર્જા અને સ્થિતિ ઊર્જાના સરવાળાને તે વસ્તુની કુલ 'યાંત્રિક ઊર્જા' (Mechanical Energy) કહે છે.<br>યાંત્રિક ઊર્જા = ગતિ ઊર્જા + સ્થિતિ ઊર્જા<br>પ્રકાર: (1) ગતિ ઊર્જા (2) સ્થિતિ ઊર્જા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગતિ + સ્થિતિ = યાંત્રિક (G + S = Y).</p></div>"
+    }
+  ]
+}
