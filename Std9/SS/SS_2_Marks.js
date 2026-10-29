@@ -270,3 +270,71 @@ var Std9_SS_2Marks = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "ભારત: આઝાદી તરફ પ્રયાણ",
+  "marks": 2,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "સાયમન કમિશનનો ભારતીયોએ શા માટે વિરોધ કર્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સાયમન કમિશનમાં કુલ 7 સભ્યો હતા અને તે બધા જ અંગ્રેજો હતા. ભારતના ભાવિ બંધારણના ઘડતર માટે આ કમિશન હતું, છતાં તેમાં એક પણ ભારતીય સભ્યનો સમાવેશ કરવામાં આવ્યો ન હતો. ભારતીયોનું માનવું હતું કે ભારતના દુઃખ-દર્દ ભારતીયો જ સમજી શકે, તેથી ભારતીયોએ સાયમન કમિશનનો બહિષ્કાર કર્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાયમન = 7 (સાત સભ્યો) + 0 (શૂન્ય ભારતીય) = વિરોધ (Simon Go Back!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "પૂર્ણ સ્વરાજનો ઠરાવ ક્યારે અને ક્યાં પસાર કરવામાં આવ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ડિસેમ્બર 1929 માં લાહોર ખાતે જવાહરલાલ નેહરુના અધ્યક્ષપણા હેઠળ રાવી નદીના કિનારે કોંગ્રેસનું અધિવેશન ભરાયું હતું. આ અધિવેશનમાં ભારતીય રાષ્ટ્રીય કોંગ્રેસે 'પૂર્ણ સ્વરાજ' નો ઠરાવ પસાર કર્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રાવી કિનારો + નહેરુનો સથવારો + '29' નું વર્ષ = પૂર્ણ સ્વરાજનો હર્ષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "દાંડીકૂચ ક્યારે અને કયા ઉદ્દેશ્યથી શરૂ કરવામાં આવી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દાંડીકૂચ 12 માર્ચ 1930 ના રોજ અમદાવાદના સાબરમતી આશ્રમથી શરૂ થઈ હતી. તેનો મુખ્ય ઉદ્દેશ્ય અંગ્રેજ સરકાર દ્વારા મીઠા પર લાદવામાં આવેલા અન્યાયી કર (ટેક્સ) નો ભંગ કરવાનો અને સવિનય કાનૂન ભંગની લડત શરૂ કરવાનો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 12-3-30 (બાર ત્રણ ત્રીસ) -> મીઠાનો કર ફિનિશ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "ગાંધી-ઈરવિન સમજૂતીમાં કઈ બાબતો સ્વીકારવામાં આવી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> માર્ચ 1931 માં ગાંધીજી અને વાઈસરોય ઈરવિન વચ્ચે સમજૂતી થઈ જેમાં મુખ્ય બે બાબતોનો સ્વીકાર થયો: (1) મીઠું પકવવાની સ્વતંત્રતા આપવી અને (2) શાંત પીકેટીંગ (ધરણાં) કરવાની સંમતિ આપવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગાંધી + ઈરવિન = મીઠું + શાંત ધરણા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "'કરો યા મરો' (Do or Die) સૂત્ર ગાંધીજીએ ક્યારે આપ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 8 ઓગસ્ટ 1942 ની રાત્રે મુંબઈમાં મળેલી કોંગ્રેસની મહાસમિતિની બેઠકમાં 'હિંદ છોડો' (Quit India) નો ઐતિહાસિક ઠરાવ પસાર કરવામાં આવ્યો. આ પ્રસંગે ગાંધીજીએ પ્રજાને સંબોધતા કહ્યું કે, \"આઝાદી માટે આ મારો અંતિમ લડત છે, હવે તો 'કરો યા મરો'.\"</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 42 નું વર્ષ + મુંબઈની રાત = 'કરો યા મરો' ની મક્કમ વાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "સુભાષચંદ્ર બોઝે કયા લોકપ્રિય સૂત્રો આપ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નેતાજી સુભાષચંદ્ર બોઝે સૈનિકો અને જનતામાં જોશ પૂરવા માટે નીચે મુજબના સૂત્રો આપ્યા હતા:<br>1. 'ચલો દિલ્હી'<br>2. 'તુમ મુજે ખૂન દો, મેં તુમ્હે આઝાદી દૂંગા'<br>3. 'જય હિંદ'</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દિલ્હી ચલો + ખૂન દો = આઝાદી લો (નેતાજી સ્પેશિયલ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "આઝાદ હિંદ ફોજની સ્થાપનામાં કોનો ફાળો મુખ્ય હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આઝાદ હિંદ ફોજની સ્થાપનાનો પ્રથમ વિચાર કેપ્ટન મોહન સિંઘને આવ્યો હતો. ત્યારબાદ જાપાનમાં રાસબિહારી બોઝે 'ઇન્ડિયન ઇન્ડિપેન્ડન્સ લીગ' ની સ્થાપના કરી. અંતે સુભાષચંદ્ર બોઝે તેનું સુકાન સંભાળીને તેને મજબૂત બનાવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોહન (વિચાર) -> રાસબિહારી (સંસ્થા) -> સુભાષ (નેતૃત્વ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "માઉન્ટબેટન યોજના (જૂન 1947) વિશે જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વાઈસરોય માઉન્ટબેટને ભારતની આઝાદી અને ભાગલા માટેની યોજના રજૂ કરી, જેને 'માઉન્ટબેટન યોજના' કહે છે. આ યોજના મુજબ ભારતને બે ભાગો - 'ભારત સંઘ' અને 'પાકિસ્તાન સંઘ' માં વિભાજિત કરી આઝાદી આપવાનું નક્કી કરવામાં આવ્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માઉન્ટબેટન = ભાગલા + આઝાદીનો ફાઈનલ પ્લાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "હિંદ છોડો આંદોલન દરમિયાન કઈ હિંસક ઘટનાઓ બની?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આંદોલન દરમિયાન લોકોએ રેલવે સ્ટેશનો, પોલીસ સ્ટેશનો, પોસ્ટ ઓફિસ અને સરકારી મકાનો પર હુમલા કર્યા. રેલવેના પાટા ઉખાડી નાખ્યા અને ટેલિફોન-તારની લાઈનો કાપી નાખી. દેશમાં મોટા પાયે તોડફોડ અને આગજની થઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સરકારી મિલકત + તોડફોડ = 1942 નું રૌદ્ર સ્વરૂપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "નેહરુ અહેવાલની મુખ્ય માંગણીઓ કઈ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મોતીલાલ નેહરુના અધ્યક્ષપદે બનેલી સમિતિએ જે અહેવાલ આપ્યો તેમાં (1) સંસ્થાનિક સ્વરાજ (Dominion Status), (2) પુખ્ત વય મતાધિકાર, (3) મૂળભૂત અધિકારો અને (4) અખંડ ભારત જેવી બાબતોની માંગણી કરવામાં આવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોતીલાલ નેહરુ = બંધારણીય બ્લુપ્રિન્ટ (1928).</p></div>"
+    }
+  ]
+}
