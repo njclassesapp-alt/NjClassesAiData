@@ -406,3 +406,71 @@ var Std9_SS_2Marks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "સ્વાતંત્ર્યોત્તર ભારત",
+  "marks": 2,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "આઝાદી મળ્યા બાદ ભારત સામે કયા બે મુખ્ય પ્રશ્નો ઉભા થયા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભારત આઝાદ થયા બાદ મુખ્ય બે પ્રશ્નો હતા: (૧) ભારતનું બંધારણ ઘડવું અને (૨) ભારતીય રજવાડાઓનું ભારત સંઘમાં જોડાણ કરી અખંડ ભારતની રચના કરવી. આ ઉપરાંત પાકિસ્તાનથી આવેલા શરણાર્થીઓના પુનઃવસવાટનો પ્રશ્ન પણ મહત્વનો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બં-ર-શ' (બંધારણ, રજવાડા, શરણાર્થી)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "દેશી રાજ્યોના એકીકરણમાં સરદાર વલ્લભભાઈ પટેલનો ફાળો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સરદાર પટેલે પોતાની મજબૂત ઈચ્છાશક્તિ અને કુનેહપૂર્વક 562 દેશી રજવાડાઓને ભારત સંઘમાં જોડ્યા. તેમણે રાજાઓને અપીલ કરી કે તેઓ પોતાની પ્રજા અને ભારતની સુરક્ષા માટે સ્વૈચ્છિક રીતે ભારત સંઘમાં જોડાય, જેના કારણે અખંડ ભારતનું નિર્માણ શક્ય બન્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લોખંડી પુરુષ = અખંડ ભારત'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "જુનાગઢનું ભારત સંઘમાં જોડાણ કેવી રીતે થયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જુનાગઢના નવાબે પાકિસ્તાન સાથે જોડાણ કર્યું હતું, જેનો પ્રજાએ વિરોધ કર્યો અને 'આરઝી હકુમત' સ્થાપી. ભારતે લશ્કરી કાર્યવાહી કરી અને ત્યારબાદ લેવાયેલા 'લોકમત' (Referendum) દ્વારા જુનાગઢના લોકોએ ભારત સાથે રહેવાની ઈચ્છા દર્શાવી, આમ તે ભારત સાથે જોડાયું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જુનાગઢ = લોકમત'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "હૈદરાબાદને ભારત સંઘમાં કેવી રીતે ભેળવવામાં આવ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હૈદરાબાદના નિઝામે સ્વતંત્ર રહેવાનો આગ્રહ રાખ્યો હતો અને રઝાકારો દ્વારા પ્રજા પર અત્યાચાર શરૂ થયા. શાંતિ માટે ભારતે 'ઓપરેશન પોલો' નામની પોલીસ કાર્યવાહી કરી અને હૈદરાબાદને ભારત સંઘમાં ભેળવી દીધું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હૈદરાબાદ = ઓપરેશન પોલો'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "ફ્રેન્ચ હસ્તકના કયા કયા પ્રદેશો ભારતને સોંપી દેવામાં આવ્યા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ફ્રાન્સની સરકાર હસ્તક રહેલા પોન્ડિચેરી, કરાઈકલ, માહે, યનામ અને ચંદ્રનગર નામના પાંચ પ્રદેશો ભારતને સોંપી દેવામાં આવ્યા હતા. ત્યાંની પ્રજા ભારત સાથે જોડાવા આતુર હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પાંચ પાંડવો જેવા પાંચ પ્રદેશો'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "ગોવા મુક્તિ આંદોલન અને 'ઓપરેશન વિજય' વિશે ટૂંકમાં લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પોર્ટુગીઝોએ ગોવા છોડવાની ના પાડતા ભારતે 17-18 ડિસેમ્બર 1961ના રોજ લશ્કરી કાર્યવાહી કરી, જે 'ઓપરેશન વિજય' તરીકે ઓળખાય છે. જેમાં પોર્ટુગીઝ સૈન્યની હાર થઈ અને ગોવા ભારતનો ભાગ બન્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગોવા જીતવા માટે વિજય'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "રાજ્ય પુનઃરચના પંચ (States Reorganisation Commission) શા માટે નિમવામાં આવ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભારતમાં ભાષાવાર રાજ્યોની રચના કરવાની પ્રબળ માંગ ઉઠી હતી. આ માંગણીનો અભ્યાસ કરવા અને રાજ્યોની નવી સીમાઓ નક્કી કરવા માટે વર્ષ 1953માં ફઝલ અલીના અધ્યક્ષપદે રાજ્ય પુનઃરચના પંચ નિમવામાં આવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભાષા = ફઝલ અલી પંચ'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "મહાગુજરાત આંદોલનનું પરિણામ શું આવ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મહાગુજરાત આંદોલનને કારણે દ્વિભાષી મુંબઈ રાજ્યનું વિભાજન થયું. પરિણામે ૧ મે, ૧૯૬૦ના રોજ ગુજરાતી ભાષા બોલનારાઓ માટે 'ગુજરાત' અને મરાઠી ભાષા બોલનારાઓ માટે 'મહારાષ્ટ્ર' એમ બે અલગ રાજ્યોની રચના થઈ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '૧ મે ૧૯૬૦ = ગુજરાતનો જન્મ'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "વી.પી. મેનનનો રજવાડાઓના એકીકરણમાં શો ફાળો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વી.પી. મેનન રજવાડા વિભાગના સચિવ હતા. તેમણે સરદાર પટેલના માર્ગદર્શન હેઠળ રજવાડાઓ માટે 'જોડાણખત' (Instrument of Accession) અને 'જૈસે થે કરાર' ના મુસદ્દાઓ તૈયાર કર્યા હતા, જેનાથી એકીકરણની પ્રક્રિયા સરળ બની હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મેનન = જોડાણખતના જાદુગર'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "ભારત અને પાકિસ્તાન વચ્ચે કયા વર્ષોમાં યુદ્ધો થયા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આઝાદી બાદ ભારત અને પાકિસ્તાન વચ્ચે મુખ્યત્વે ચાર વાર યુદ્ધો થયા છે: (૧) ૧૯૪૭-૪૮ (કાશ્મીર પ્રશ્ને), (૨) ૧૯૬૫, (૩) ૧૯૭૧ (બાંગ્લાદેશ મુક્તિ) અને (૪) ૧૯૯૯ (કારગિલ યુદ્ધ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '૪૭, ૬૫, ૭૧, ૯૯ (વર્ષની હારમાળા)'</p></div>"
+    }
+  ]
+}
