@@ -950,3 +950,71 @@ var Std9_SS_2Marks = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "જળ-પરિવાહ",
+  "marks": 2,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "જળવિભાજક એટલે શું? ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જ્યારે કોઈ પર્વત કે ઉચ્ચભૂમિ બે પડોશી જળ-પરિવાહને એકબીજાથી અલગ કરે, ત્યારે તેને 'જળવિભાજક' કહેવામાં આવે છે. દા.ત. અંબાલા શહેર સિંધુ અને ગંગા નદીના જળ-પરિવાહ વચ્ચે જળવિભાજકનું કાર્ય કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જળ + વિભાજક = પાણીના વહેણને વહેંચતો પર્વત (બોર્ડર જેવું કામ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "હિમાલયની નદીઓ બારેમાસ પાણીથી ભરપૂર કેમ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હિમાલયની નદીઓ બારેમાસ વહે છે કારણ કે ચોમાસામાં તેમને ભારે વરસાદને કારણે પાણી મળે છે, જ્યારે ઉનાળામાં હિમાલયના ઉંચા શિખરો પરના બરફ પીગળવાને કારણે નદીઓમાં સતત પાણીનો પ્રવાહ ચાલુ રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ (ચોમાસું) + બરફ (ઉનાળો) = બારેમાસ પાણી (Evergreen Rivers).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "વૃક્ષાકાર પ્રણાલી અને જાળીકાર પ્રણાલી વચ્ચેનો તફાવત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>1. <strong>વૃક્ષાકાર:</strong> મુખ્ય નદી અને શાખા નદીઓની ગોઠવણી વૃક્ષની ડાળીઓ જેવી લાગે છે (દા.ત. ગંગા). <br>2. <strong>જાળીકાર:</strong> પર્વતીય પ્રદેશમાંથી નીકળતા ઝરણાં ઢોળાવને કારણે એકબીજાને મળે અને જાળી જેવી રચના કરે (દા.ત. નર્મદા).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૃક્ષ = ડાળી જેવો દેખાવ, જાળી = નેટ જેવી રચના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "દ્વીપકલ્પીય નદીઓને 'મોસમી' નદીઓ શા માટે કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દ્વીપકલ્પીય નદીઓનો મુખ્ય આધાર વરસાદ પર હોય છે. ઉનાળા દરમિયાન આ નદીઓના જળના પ્રવાહમાં નોંધપાત્ર ઘટાડો થાય છે અથવા ઘણી નદીઓ સુકાઈ જાય છે. માટે તેને મોસમી નદીઓ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ હોય તો પાણી, ઉનાળામાં ખેંચાતા પાણી = મોસમી નદી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "ગંગા નદીના પ્રવાહ વિશે ટૂંકમાં માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગંગા નદી હિમાલયની ગંગોત્રી હિમનદીમાંથી નીકળે છે. દેવપ્રયાગ પાસે ભાગીરથી અને અલકનંદા એકબીજાને મળે છે. ગંગા ભારતમાં સૌથી મોટો જળ-પરિવાહ ધરાવતી અને સૌથી લાંબી નદી (2500 કિમીથી વધુ) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાગીરથી + અલકનંદા = ગંગા (સ્થળ: દેવપ્રયાગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "ગોદાવરી નદીને 'દક્ષિણની ગંગા' શા માટે કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગોદાવરી દ્વીપકલ્પીય નદીઓમાં સૌથી લાંબી (1465 કિમી) નદી છે. તેની લંબાઈ અને તેના વિશાળ ક્ષેત્રવિસ્તારના કારણે તેને 'દક્ષિણની ગંગા' તરીકે ઓળખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોદાવરી = દક્ષિણ ભારતની સૌથી મોટી નદી = દક્ષિણની ગંગા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "સરોવરોની ઉપયોગીતા જણાવો. (કોઈપણ બે મુદ્દા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 1. સરોવરો નદીઓમાં આવતા પૂરનું નિયંત્રણ કરે છે. <br>2. દુષ્કાળના સમયમાં સરોવરનું પાણી સિંચાઈ અને પીવા માટે ઉપયોગી થાય છે. <br>3. પ્રવાસન સ્થળ તરીકે વિકસાવીને આર્થિક લાભ મેળવી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર કંટ્રોલ + સિંચાઈ + પ્રવાસન = સરોવરના ફાયદા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "નર્મદા બેસિન વિશે ટૂંકમાં માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નર્મદા મધ્યપ્રદેશના અમરકંટક પાસેથી નીકળે છે. તે પશ્ચિમ તરફ વહીને અરબ સાગરને મળે છે. જબલપુર પાસે ધુઆંધાર નામના ધોધની અને 'માર્બલ રોક્સ' (આરસપહાણની ખીણો)ની રચના કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમરકંટક (ઉદ્ભવ) + ધુઆંધાર (ધોધ) = નર્મદા નદી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "નદી પ્રદૂષણ રોકવાના ઉપાયો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 1. ઉદ્યોગોનું કેમિકલયુક્ત પાણી શુદ્ધ કર્યા વગર નદીમાં ન છોડવું જોઈએ. <br>2. શહેરોની ગટરનું પાણી નદીમાં ઠાલવતા પહેલા પ્રોસેસ કરવું જોઈએ. <br>3. લોકોમાં નદીની સ્વચ્છતા માટે જાગૃતિ લાવવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શુદ્ધિકરણ (Filter) + જાગૃતિ (Awareness) = પ્રદૂષણ મુક્ત નદી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "કઈ બે મુખ્ય નદીઓ અરબ સાગરને મળે છે? તેમની લાક્ષણિકતા શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નર્મદા અને તાપી આ બે મુખ્ય દ્વીપકલ્પીય નદીઓ છે જે પશ્ચિમ તરફ વહીને અરબ સાગરને મળે છે. મોટાભાગની અન્ય દ્વીપકલ્પીય નદીઓ પૂર્વમાં બંગાળાની ખાડીને મળે છે, પરંતુ આ બે નદીઓ અપવાદ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પશ્ચિમ વહેણ = નર્મદા + તાપી (યાદ રાખો: 'નતા' પશ્ચિમમાં જાય છે).</p></div>"
+    }
+  ]
+}
