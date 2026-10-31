@@ -882,3 +882,71 @@ var Std9_SS_2Marks = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "ભારત: સ્થાન, ભૂસ્તરીય રચના અને ભૂપૃષ્ઠ - ૨",
+  "marks": 2,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "'દોઆબ' (Doab) એટલે શું? ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'દો' એટલે બે અને 'આબ' એટલે પાણી. આમ, બે નદીઓ વચ્ચેની ભૂમિને 'દોઆબ' કહેવામાં આવે છે. પંજાબ પણ પાંચ નદીઓ દ્વારા બનેલો પ્રદેશ છે (પંજ + આબ). ભારતના ઉત્તરના મેદાનમાં આવી દોઆબની રચના જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'દો' = ૨ અને 'આબ' = પાણી. બે પાણી (નદી) વચ્ચેનો ભાગ એટલે દોઆબ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "ભૂ-આકૃતિના આધારે ઉત્તરના મેદાની પ્રદેશના કયા ચાર વિભાગો પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઉત્તરના વિશાળ મેદાની પ્રદેશને તેની ભૌગોલિક લાક્ષણિકતાઓને આધારે મુખ્ય ચાર વિભાગોમાં વહેંચવામાં આવે છે:<br>1. ભાભર<br>2. તેરાઈ<br>3. બાંગર<br>4. ખાદર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ભા-ત-બા-ખા' (ભાભર, તેરાઈ, બાંગર, ખાદર) - ક્રમમાં યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "'ભાભર' વિશે ટૂંકમાં માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સિંધુ નદીથી તીસ્તા નદી સુધી શિવાલિકની તળેટીમાં કંકર-પથ્થરોની એક પાતળી પટ્ટી નદીઓના પ્રવાહને સમાંતર ગોઠવાયેલી છે. આ પટ્ટી લગભગ 8 થી 16 કિમી પહોળી છે, તેને 'ભાભર' કહે છે. અહીં નદીઓ પથ્થરો નીચે વિલુપ્ત (અદ્રશ્ય) થઈ જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભાભર = પથ્થરવાળી પટ્ટી જ્યાં નદી સંતાઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "ખાદર અને બાંગર વચ્ચેનો તફાવત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> <br>1. <strong>બાંગર:</strong> નદીઓના ઉપરવાસમાં આવેલો જૂનો કાંપ એટલે બાંગર. તે સોપાન (પગથિયા) જેવો આકાર ધરાવે છે.<br>2. <strong>ખાદર:</strong> નદીઓના પૂરના મેદાનોમાં દર વર્ષે પથરાતો નવો કાંપ એટલે ખાદર. તે અત્યંત ફળદ્રુપ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'બા' એટલે જૂનું (બાંગર), 'ખા' એટલે નવું (ખાદર - ખેતી માટે શ્રેષ્ઠ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "ખડકોના મુખ્ય ત્રણ પ્રકારોના નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિર્માણ પ્રક્રિયાના આધારે ખડકોના મુખ્ય ત્રણ પ્રકારો પડે છે:<br>1. આગ્નેય ખડકો (Igneous Rocks)<br>2. પ્રસ્તર અથવા નિક્ષેપિત ખડકો (Sedimentary Rocks)<br>3. રૂપાંતરિત ખડકો (Metamorphic Rocks)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'આ-પ્ર-રૂ' (આગ્નેય, પ્રસ્તર, રૂપાંતરિત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "ધાતુમય ખનિજોનું વર્ગીકરણ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધાતુમય ખનિજોને નીચે મુજબ વહેંચી શકાય:<br>1. કિંમતી ધાતુમય: સોનું, ચાંદી, પ્લેટિનમ.<br>2. હલકી ધાતુમય: મેગ્નેશિયમ, બોક્સાઇટ, ટીટાનિયમ.<br>3. સામાન્ય ઉપયોગમાં લેવાતી: લોખંડ, તાંબુ, સીસું, જસત, કલાઈ, નિકલ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કિંમતી સોનું, હલકું બોક્સાઇટ, સામાન્ય લોખંડ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "લક્ષદ્વીપ ટાપુઓ વિશે માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લક્ષદ્વીપ ટાપુઓ અરબી સમુદ્રમાં કેરલના તટથી થોડે દૂર આવેલા છે. આ ટાપુઓનો આકાર ઘોડાની નાળ જેવો છે અને તે પરવાળાના નિક્ષેપથી બનેલા છે. આ પ્રકારના ટાપુઓને 'એટોલ' (Atoll) પણ કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લક્ષદ્વીપ = અરબી સમુદ્ર + પરવાળા + એટોલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "અંદમાન અને નિકોબાર ટાપુઓ ક્યાં આવેલા છે? તેની વિશેષતા શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અંદમાન અને નિકોબાર ટાપુઓ બંગાળની ખાડીમાં આવેલા છે. આ ટાપુઓ સંખ્યામાં વધારે છે અને પર્વતમાળાઓના ડૂબેલા શિખરો છે. અહીં ભારતના એકમાત્ર સક્રિય જ્વાળામુખી 'બેરન' આવેલો છે. તે વ્યૂહાત્મક રીતે ખૂબ મહત્વના છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અંદમાન = બંગાળની ખાડી + બેરન જ્વાળામુખી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "દક્ષિણના દ્વીપકલ્પીય ઉચ્ચપ્રદેશને શા માટે 'ખનિજોનો ભંડાર' કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દક્ષિણનો ઉચ્ચપ્રદેશ ખૂબ જ પ્રાચીન ખડકોનો બનેલો છે. અહીં વિપુલ પ્રમાણમાં લોખંડ, મેંગેનીઝ, સોનું, તાંબુ અને અબરખ જેવા કિંમતી ખનિજો મળી આવે છે. આ ખનિજ સંપત્તિને કારણે તે દેશના ઔદ્યોગિક વિકાસ માટે પાયો પૂરો પાડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જૂના ખડકો = વધુ ખનિજો = ખનિજોનો ભંડાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "પૂર્વ તટીય મેદાન અને પશ્ચિમ તટીય મેદાન વચ્ચેનો મુખ્ય તફાવત શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પશ્ચિમ તટીય મેદાન સાંકડું છે અને તેમાં કોંકણ તથા મલબાર તટનો સમાવેશ થાય છે, જ્યારે પૂર્વ તટીય મેદાન પશ્ચિમ કરતા વધુ પહોળું છે અને તેમાં ઉત્તર સિરકાર તથા કોરોમંડલ તટનો સમાવેશ થાય છે. પૂર્વમાં નદીઓએ મુખત્રિકોણ પ્રદેશો (Delta) બનાવ્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પશ્ચિમ = સાંકડું (કોંકણ-મલબાર), પૂર્વ = પહોળું (સિરકાર-કોરોમંડલ).</p></div>"
+    }
+  ]
+}
