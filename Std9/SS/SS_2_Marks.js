@@ -1018,3 +1018,71 @@ var Std9_SS_2Marks = {
     }
   ]
 }
+,
+"16": {
+  "chapterName": "પ્રકરણ 16",
+  "chapterTitle": "આબોહવા",
+  "marks": 2,
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "marks": 2,
+      "question": "'હવામાન' અને 'આબોહવા' વચ્ચેનો મુખ્ય તફાવત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હવામાન એ વાતાવરણની ટૂંકા સમયગાળાની (જેમ કે એક દિવસ કે કલાકની) સરેરાશ સ્થિતિ છે, જે ગમે ત્યારે બદલાઈ શકે છે. જ્યારે આબોહવા એ કોઈપણ પ્રદેશની લાંબા સમયગાળાની (આશરે ૩૫ કે તેથી વધુ વર્ષોની) હવામાનની સરેરાશ પરિસ્થિતિ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'હ' થી હવામાન = હાલની સ્થિતિ (ટૂંકી), 'આ' થી આબોહવા = આજીવન સ્થિતિ (લાંબી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "marks": 2,
+      "question": "ભારતની આબોહવાને અસર કરતા પરિબળોના નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભારતની આબોહવાને મુખ્યત્વે નીચેના પરિબળો અસર કરે છે: <br>૧. અક્ષાંશ <br>૨. સમુદ્રથી અંતર <br>૩. સમુદ્ર સપાટીથી ઊંચાઈ <br>૪. વાતાવરણીય દબાણ અને પવનો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સૂત્ર - 'અ-સ-ઉ-દ' (અક્ષાંશ, સમુદ્ર અંતર, ઊંચાઈ, દબાણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "marks": 2,
+      "question": "'લૂ' (Loo) એટલે શું? તેની અસર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઉનાળામાં ઉત્તર અને ઉત્તર-પશ્ચિમ ભારતના મેદાની વિસ્તારોમાં ફૂંકાતા અતિશય ગરમ અને સૂકા પવનોને 'લૂ' કહેવામાં આવે છે. તેના કારણે અતિશય ગરમીથી મનુષ્યો અને પશુ-પંખીઓ માંદગીનો ભોગ બને છે અને ક્યારેક લૂ લાગવાથી મૃત્યુ પણ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉત્તર ભારત + ઉનાળો + ગરમ પવન = લૂ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "marks": 2,
+      "question": "'ઑક્ટોબર હીટ' (ભાદરવી તાપ) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઑક્ટોબર માસમાં આકાશ સ્વચ્છ હોય છે અને જમીન ભેજવાળી હોય છે. સ્વચ્છ આકાશને કારણે તાપમાન વધે છે અને જમીનના ભેજને કારણે હવામાં અસહ્ય ઉકળાટ અને બફારો થાય છે. આ સ્થિતિને 'ઑક્ટોબર હીટ' અથવા ગુજરાતમાં 'ભાદરવી તાપ' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તાપ + ભેજ = ભાદરવી તાપ (ઉકળાટ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "marks": 2,
+      "question": "'આમ્રવર્ષા' (Mango Showers) એટલે શું? તેનું મહત્વ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઉનાળાના અંતમાં (મે મહિનામાં) મલબાર કિનારે (કેરળ અને કર્ણાટકમાં) થતા થોડા વરસાદને 'આમ્રવર્ષા' કહે છે. આ વરસાદ કેરીના પાકને જલ્દી પકવવામાં મદદરૂપ થતો હોવાથી તેને 'આમ્રવર્ષા' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કેરળ + કેરી પકવતો વરસાદ = આમ્રવર્ષા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "marks": 2,
+      "question": "જેટ સ્ટ્રીમ (Jet Stream) વિશે ટૂંકમાં માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વાતાવરણમાં ખૂબ ઊંચાઈએ (૮ થી ૧૫ કિમી) વહેતા અતિશય વેગીલા પવનોને 'જેટ સ્ટ્રીમ' કહે છે. શિયાળામાં તે હિમાલયની દક્ષિણે વાય છે, જે ભારતમાં ચક્રવાત લાવવામાં અને વરસાદ પાડવામાં મદદરૂપ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેટ પ્લેન જેવી ઝડપ (વેગીલા પવન) = જેટ સ્ટ્રીમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "marks": 2,
+      "question": "ભારતની આબોહવાને 'મોસમી આબોહવા' કેમ કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભારતમાં પવનોની દિશા ઋતુ પ્રમાણે બદલાતી રહે છે. શિયાળામાં પવનો જમીન પરથી સમુદ્ર તરફ અને ઉનાળામાં સમુદ્ર પરથી જમીન તરફ વાય છે. આમ, ઋતુ (મોસમ) મુજબ દિશા બદલતા પવનોને કારણે ભારતની આબોહવાને 'મોસમી આબોહવા' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોસમ પ્રમાણે બદલાતા પવન = મોસમી આબોહવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "marks": 2,
+      "question": "'કાળ વૈશાખી' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઉત્તર-પૂર્વ ભારતમાં (ખાસ કરીને પશ્ચિમ બંગાળમાં) ઉનાળામાં આવતા ધૂળની ડમરીઓ અને ગાજવીજ સાથેના તોફાની વરસાદને 'કાળ વૈશાખી' કહેવામાં આવે છે. બંગાળમાં તે 'નોર્વેસ્ટર' તરીકે પણ ઓળખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બંગાળ + વૈશાખ મહિનો + તોફાન = કાળ વૈશાખી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "marks": 2,
+      "question": "નૈઋત્યના મોસમી પવનો ભારતમાં કઈ બે શાખાઓમાં વહેંચાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભારત દ્વીપકલ્પ આકારનો હોવાથી નૈઋત્યના મોસમી પવનો બે ભાગમાં વહેંચાય છે: <br>૧. અરબ સાગર પરથી આવતા મોસમી પવનો <br>૨. બંગાળની ખાડી પરથી આવતા મોસમી પવનો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભારતની ડાબી બાજુ (અરબ સાગર) + જમણી બાજુ (બંગાળની ખાડી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "marks": 2,
+      "question": "શિયાળામાં ઉત્તર ભારતમાં વધુ ઠંડી પડવાના બે કારણો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ૧. ઉત્તર ભારત સમુદ્રથી દૂર હોવાથી ત્યાં વિષમ આબોહવા હોય છે. <br>૨. શિયાળામાં હિમાલયમાં થતી હિમવર્ષાને કારણે ત્યાંથી આવતા ઠંડા પવનો ઉત્તર ભારતના મેદાનોમાં તાપમાન ઘટાડી દે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હિમાલયની હિમવર્ષા + દરિયાથી દૂરી = વધુ ઠંડી.</p></div>"
+    }
+  ]
+}
