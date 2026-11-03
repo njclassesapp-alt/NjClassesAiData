@@ -397,3 +397,136 @@ var Std9_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "ગોપાળબાપા (પાઠ)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'ગોપાળબાપા' પાઠના લેખકનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'ગોપાળબાપા' પાઠના લેખક મનુભાઈ પંચોળી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મનુષ્ય (મનુભાઈ) જ્યારે ગોપાળ (કૃષ્ણ) ને જુએ ત્યારે 'દર્શક' બની જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "મનુભાઈ પંચોળીનું ઉપનામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મનુભાઈ પંચોળીનું ઉપનામ 'દર્શક' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મનુ-દર્શક (M-D) જોડી યાદ રાખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "'ગોપાળબાપા' પાઠનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠનો સાહિત્ય પ્રકાર 'નવલકથાખંડ' (નવલકથાનો અંશ) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટી વાર્તા એટલે 'નવલકથા', તેમાંથી લીધેલો ટુકડો એટલે 'ખંડ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "'ગોપાળબાપા' પાઠ કઈ નવલકથામાંથી લેવામાં આવ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠ 'ઝેર તો પીધાં છે જાણી જાણી' નવલકથામાંથી લેવામાં આવ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોપાળે 'ઝેર' પીધું - એમ લિંક કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ગોપાળબાપા કઈ નદીના કોતરો ખરીદવા ઈચ્છતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગોપાળબાપા મહીસાગર નદીના કોતરો ખરીદવા ઈચ્છતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહીસાગરના કોતરો, રક્ષણ કરે કરોડો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગોપાળબાપાએ મહારાજા સયાજીરાવને ભેટમાં શું આપ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગોપાળબાપાએ મહારાજાને લીંબુ જેવાં મોટાં 'બોર' ભેટમાં આપ્યાં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરીબના ફળ 'બોર', મહારાજાને આપ્યા જોરશોર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ગોપાળબાપા કોતર કેમ ખરીદવા માંગતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પોતાના મિત્રના દીકરાના ભવિષ્ય માટે અને ત્યાં ખેતી કરીને જમીન સુધારવા માટે ગોપાળબાપા કોતર ખરીદવા માંગતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિત્રતા નિભાવવા માટે જમીન માંગવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "મહારાજા સયાજીરાવ ક્યાંના રાજા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મહારાજા સયાજીરાવ વડોદરા રાજ્યના રાજા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વડોદરાના વડ જેવા મોટા મહારાજા સયાજીરાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ગોપાળબાપાના ગુરુનું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગોપાળબાપાના ગુરુનું નામ માંડણ ભગત હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોપાળ અને માંડણ - બે પ્રેમી ભક્તો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "મહારાજા સયાજીરાવે ગોપાળબાપાની કઈ પરખ કરી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મહારાજાએ ગોપાળબાપાની નીડરતા, ઈમાનદારી અને પારખુ નજરની પરખ કરી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાચો હીરો પારખવામાં મહારાજા એક્સપર્ટ હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કોતરોની જમીનમાં કયા ફળની ખેતી થઈ શકે તેમ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કોતરોની જમીનમાં શિંગોડા અને ખાસ કરીને બનારસી લંગડો કેરીની ખેતી થઈ શકે તેમ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોતરમાં કેરી અને શિંગોડાનો પાક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ગોપાળબાપાએ મહારાજા પાસે શું માંગ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગોપાળબાપાએ મહારાજા પાસે મહીસાગરના કોતરોની જમીન વાજબી કિંમતે માંગી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમીન માંગી પણ પોતાના માટે નહીં, પરોપકાર માટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "માંડણ ભગત ક્યાંના વતની હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> માંડણ ભગત ધોરાજી પાસેના ગામના વતની હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધોરાજીના ધબકાર એટલે માંડણ ભગત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ગોપાળબાપાએ મહારાજાને સલામ કેમ ન કરી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગોપાળબાપા સ્વમાની અને ભગત માણસ હતા, તેઓ મિથ્યા આડંબરમાં માનતા નહોતા અને મહારાજાના વ્યક્તિત્વથી અંજાયા વગર સહજ રીતે વાત કરતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાચો ભગત કોઈની ગુલામી ન કરે, આદર કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "મહારાજાએ ગોપાળબાપાને શું બાંધવાની સલાહ આપી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મહારાજાએ જમીન આપવાની શરતે ગોપાળબાપાને ત્યાં એક શિવાલય (મંદિર) બાંધવાની અને તેની પૂજા કરવાની સલાહ આપી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમીન જોડે પુણ્યનું કામ - મંદિર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ગોપાળબાપાએ મંદિર બાંધવાની કેમ ના પાડી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગોપાળબાપા માનતા હતા કે આપણે બધા ભગવાનની મૂર્તિઓ જ છીએ અને આપણને રહેવા જગ્યા નથી, તો પથ્થરની મૂર્તિ પધરાવીને શું કામ? (જીવંત મનુષ્યસેવામાં તેઓ વધુ માનતા હતા).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂર્તિ પૂજા કરતા માનવ પૂજા મોટી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ગોપાળબાપાએ મંદિરને બદલે શું બનાવવાનું નક્કી કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગોપાળબાપાએ મંદિરને બદલે મુસાફરો અને સાધુ-સંતો માટે 'ધર્મશાળા' બનાવવાનું નક્કી કર્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથ્થરના ભગવાન કરતા જીવતા માણસને આશરો આપવો સારો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પાઠમાં 'પારખુ નજર ધરાવનાર' કોને કહ્યા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મહારાજા સયાજીરાવ ગાયકવાડને પારખુ નજર ધરાવનાર કહ્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજા હંમેશા રત્ન પારખી જાણે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ગોપાળબાપાએ મહારાજાને કયા જાનવરનો ભય બતાવ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગોપાળબાપાએ મહારાજાને કહ્યું કે 'તમારા પડખેના દીપડા ન રંજાડે તોય ઘણું છે'. (અહીં દીપડા એટલે મહારાજાના અમલદારોની વાત છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દીપડા એટલે ક્રૂર અમલદારો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "માંડણ ભગતના વ્યક્તિત્વની એક ખાસિયત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> માંડણ ભગત એટલા સિદ્ધ પુરુષ હતા કે ગલુડિયાને પંપાળતા ત્યારે ગલુડિયા પણ તેમનામાં એકાકાર થઈ જતા અને તેઓ પશુ-પક્ષીઓની ભાષા સમજી શકતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પશુ-પ્રેમી સંત એટલે માંડણ ભગત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ગોપાળબાપાના મિત્રનું અવસાન થતાં તેમણે શું ચિઠ્ઠી લખી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગોપાળબાપાના મિત્રએ ચિઠ્ઠીમાં લખ્યું હતું કે 'મારા ગયા પછી મારા છોકરાને અને મિલકતને તમારા ભરોસે સોંપતો જાઉં છું'.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિત્રતાની પરાકાષ્ઠા એટલે આ પાઠ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ગુરુ માંડણ ભગતે ગોપાળબાપાને કયું નામ આપ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પાઠમાં ગોપાળબાપાના ગુરુ દ્વારા તેમને કોઈ ખાસ નામ આપ્યાનો ઉલ્લેખ નથી, પરંતુ ગોપાળબાપા તેમના પરમ શિષ્ય હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં શું છે? કામમાં ગુરુની છાપ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ગોપાળબાપાના પાત્રના બે ગુણો જણાવો. (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ૧. નિડરતા: તેઓ મહારાજા સામે પણ સત્ય બોલતા અચકાતા નથી. ૨. પરોપકાર: તેઓ પોતાના માટે નહીં પણ મિત્રના દીકરા માટે જમીન માંગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોપાળબાપા = નિડર + પરોપકારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "મહારાજા સયાજીરાવ વિશે ટૂંકમાં જણાવો. (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મહારાજા સયાજીરાવ પ્રજાવત્સલ અને માણસ પારખનારા રાજા હતા. તેઓ ગોપાળબાપાની નિખાલસતા જોઈ ગુસ્સે થવાને બદલે તેમને મદદ કરે છે અને તેમની શક્તિને ઓળખી લે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજા હોય તો સયાજીરાવ જેવા, જે ગુણને પૂજે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ગોપાળબાપા પાઠમાંથી આપણને શું બોધ મળે છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠમાંથી આપણને મિત્રતા નિભાવવાનો, નિડરતાથી સત્ય બોલવાનો અને સાચી માનવસેવા એ જ પ્રભુસેવા છે તેવો બોધ મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેવા, સત્ય અને સ્નેહનો ત્રિવેણી સંગમ.</p></div>"
+    }
+  ]
+}
