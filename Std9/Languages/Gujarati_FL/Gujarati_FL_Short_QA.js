@@ -131,3 +131,136 @@ var Std9_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "ચોરી અને પ્રાયશ્ચિત્ત (પાઠ)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'ચોરી અને પ્રાયશ્ચિત્ત' પાઠના લેખકનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'ચોરી અને પ્રાયશ્ચિત્ત' પાઠના લેખક ગાંધીજી (મોહનદાસ કરમચંદ ગાંધી) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ચોરી' અને 'સત્ય' (ગાંધીજી) હંમેશા સાથે યાદ રાખવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'ચોરી અને પ્રાયશ્ચિત્ત' પાઠનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠનો સાહિત્ય પ્રકાર 'આત્મકથાખંડ' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પોતાની કથાનો ભાગ એટલે 'આત્મકથાખંડ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "'ચોરી અને પ્રાયશ્ચિત્ત' પ્રસંગ ગાંધીજીની કઈ આત્મકથામાંથી લેવામાં આવ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પ્રસંગ ગાંધીજીની આત્મકથા 'સત્યના પ્રયોગો' માંથી લેવામાં આવ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગાંધીજી + સત્ય = સત્યના પ્રયોગો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ગાંધીજી અને તેમના સગાને કઈ ટેવ પડી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગાંધીજી અને તેમના સગાને બીડી પીવાની ટેવ પડી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બીડી પીવાની કુટેવથી જ ચોરીની શરૂઆત થઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ગાંધીજીને બીડી પીવાની ઈચ્છા કેમ થઈ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાકાને બીડી પીતા જોઈને અને બીડીના ધુમાડા કાઢવામાં મજા આવશે એમ વિચારીને ગાંધીજીને બીડી પીવાની ઈચ્છા થઈ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જોયું અનુકરણ, જાગી ઈચ્છા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "બીડી ખરીદવા માટે ગાંધીજીએ શેની ચોરી કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બીડી ખરીદવા માટે ગાંધીજીએ નોકરના ગજવામાંથી કરજિયા (પૈસા) ચોરવાની શરૂઆત કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બીડી માટે 'નોકરના પૈસા' ચોર્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ગાંધીજીએ આપઘાત કરવા માટે કયા બીજ ખાવાનું નક્કી કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગાંધીજીએ આપઘાત કરવા માટે ધાતુરાના ડોડવાના બીજ ખાવાનું નક્કી કર્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ધાતુરાના બી = ઝેરી બી (યાદ રાખવા માટે 'ધ' થી 'ધાતુરા').</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "આપઘાત કરવા માટે ગાંધીજી કયા મંદિરે ગયા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આપઘાત કરવા માટે ગાંધીજી રામજી મંદિરે (કેદારનાથજી) ગયા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શાંતિ માટે 'રામજી મંદિર' પસંદ કર્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ગાંધીજીએ આપઘાતનો વિચાર કેમ માંડી વાળ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બે-ત્રણ બીજ ખાધા પછી મૃત્યુની બીક લાગી અને તુરંત મૃત્યુ નહીં થાય તો? એવા વિચારથી આપઘાતનો વિચાર માંડી વાળ્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'મૃત્યુની બીક' એ જ આપઘાતનો વિરોધી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ગાંધીજીએ બીજી કઈ મોટી ચોરી કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગાંધીજીએ તેમના માંસાહારી ભાઈનું દેવું ચૂકવવા માટે તેમના સોનાના કડામાંથી કટકો કાપીને ચોરી કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બીજી ચોરી = સોનાનું કડું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ગાંધીજીના ભાઈ પર કેટલું દેવું થયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગાંધીજીના ભાઈ પર પચ્ચીસેક રૂપિયાનું દેવું થયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આંકડો યાદ રાખો: 25 રૂપિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સોનાના કડામાંથી કેટલું સોનું ચોરવામાં આવ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સોનાના કડામાંથી એક તોલું સોનું કાપીને ચોરવામાં આવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૧ તોલું = ભાઈનું દેવું પૂરું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ગાંધીજીએ પિતાજી પાસે દોષની કબૂલાત કેવી રીતે કરી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગાંધીજીએ પિતાજી સામે બોલવાની હિંમત ન હોવાથી ચિઠ્ઠી લખીને પોતાના દોષની નિખાલસ કબૂલાત કરી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બોલી ન શક્યા એટલે 'ચિઠ્ઠી' લખી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ચિઠ્ઠી વાંચતી વખતે ગાંધીજીના પિતાની પ્રતિક્રિયા શું હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પિતાજીની આંખમાંથી મોતીના બિંદુ જેવા આંસુ ટપક્યા અને તેમણે ચિઠ્ઠી ફાડી નાખી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મૌન આંસુ = ક્ષમાનો ઉત્તમ પ્રકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ગાંધીજીએ કઈ બાબતને 'શુદ્ધ પ્રાયશ્ચિત્ત' ગણાવ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગાંધીજીના મતે પોતાના દોષનો નિખાલસપણે એકરાર કરવો અને ફરી ક્યારેય તે ન કરવાની પ્રતિજ્ઞા લેવી એ જ 'શુદ્ધ પ્રાયશ્ચિત્ત' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કબૂલાત + પ્રતિજ્ઞા = શુદ્ધ પ્રાયશ્ચિત્ત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ગાંધીજીના પિતાજી કયા રોગથી પીડાતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગાંધીજીના પિતાજી ભગંદર (Fistula) ના રોગથી પીડાતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભગંદર એટલે ખાટલાવશ પિતાજી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "બીડીનો ઠૂંઠો ચોરવો એ ગાંધીજીના મતે કેવો દોષ હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગાંધીજીના મતે બીડીના ઠૂંઠા ચોરવા એ હલકા પ્રકારનો દોષ હતો, પરંતુ કડાની ચોરી એ ગંભીર દોષ હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઠૂંઠું = નાની ભૂલ, સોનું = મોટી ભૂલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ગાંધીજીએ આપઘાતનો વિચાર શા માટે કર્યો? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગાંધીજી અને તેમના સગાને બીડી પીવાની ટેવ પડી હતી. તેમની પાસે પૈસા નહોતા અને વડીલોની આજ્ઞા વગર કઈ પણ થઈ શકે તેમ નહોતું. આ પરાધીનતા તેમને ડંખતી હતી. આ પરાધીનતામાંથી મુક્તિ મેળવવા અને પોતે કંઈ જ કરી શકતા નથી તેવા દુઃખને કારણે તેમણે આપઘાતનો વિચાર કર્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પરાધીનતા = આપઘાતનો વિચાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ગાંધીજીએ ચિઠ્ઠીમાં શું લખ્યું હતું? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગાંધીજીએ ચિઠ્ઠીમાં પોતાના ભાઈના દેવા માટે સોનાના કડામાંથી કટકો ચોર્યાનો ગુનો કબૂલ કર્યો હતો. તેમણે પિતાજીને આ ગુના માટે યોગ્ય સજા કરવાની વિનંતી કરી અને ભવિષ્યમાં ક્યારેય આવી ભૂલ ન કરવાની પ્રતિજ્ઞા પણ લીધી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુનો + સજાની માંગણી + પ્રતિજ્ઞા = ચિઠ્ઠીનું લખાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પિતાજીના આંસુની ગાંધીજી પર શું અસર થઈ? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પિતાજીના આંસુ જોઈને ગાંધીજીનું હૃદય પીગળી ગયું. તેમને લાગ્યું કે પિતાજી કદાચ ગુસ્સો કરશે કે માથું કૂટશે, પણ પિતાજીએ શાંત રહીને જે પ્રેમ દર્શાવ્યો તેનાથી ગાંધીજીને અહિંસાનો પાઠ શીખવા મળ્યો. આ ઘટનાથી ગાંધીજીના મનમાં પિતાજી પ્રત્યે આદર વધ્યો અને તેમનું મન નિર્મળ થયું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પિતાના આંસુ = ગાંધીજી માટે અહિંસાનો પ્રથમ પાઠ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ગાંધીજીએ કયા ઝાડના ઠૂંઠા પીવાની શરૂઆત કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગાંધીજીએ 'એરંડા'ના (કે કોઈ એક પ્રકારના છોડના) પોલા લાકડા પીવાની શરૂઆત કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઠૂંઠા ન મળે ત્યારે 'પોલા લાકડા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "લેખક મુજબ કઈ વસ્તુનો ત્યાગ કરવો સહેલો છે પણ આપઘાત કરવો અઘરો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક મુજબ આપઘાતનો વિચાર કરવો સહેલો છે, પણ આપઘાત કરવો અઘરો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિચાર = સહેલો, અમલ = કઠિન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "મોટા થયા પછી ગાંધીજીએ બીડી પીવાની ટેવ વિશે શું અભિપ્રાય આપ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મોટા થયા પછી ગાંધીજીને લાગ્યું કે બીડી પીવાની ટેવ એ જંગલી, ગંદી અને હાનિકારક છે. તેમને આશ્ચર્ય થતું કે દુનિયામાં લોકો બીડી પાછળ આટલા ઘેલા કેમ છે!</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બીડી = જંગલી + ગંદી + હાનિકારક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ચોરી અને પ્રાયશ્ચિત્ત પાઠમાં ગાંધીજીના કયા ગુણો દેખાય છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠમાં ગાંધીજીની નીડરતા, પ્રામાણિકતા, સત્યપ્રિયતા અને પોતાની ભૂલ સ્વીકારવાની હિંમત જેવા ગુણો દેખાય છે. પિતાજી સામે ગુનો કબૂલ કરીને ફરી તે ન કરવાની પ્રતિજ્ઞા લેવી એ તેમની નૈતિકતા દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભૂલનો એકરાર એ જ મહાત્માનો સાચો સંસ્કાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ગાંધીજીએ ચિઠ્ઠી લખી ત્યારે પિતાજી ક્યાં બેઠા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગાંધીજીએ જ્યારે ચિઠ્ઠી આપી ત્યારે પિતાજી માંદગીને કારણે લાકડાના પાટ (ખાટલા) પર સૂતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્થળ: લાકડાની પાટ.</p></div>"
+    }
+  ]
+}
