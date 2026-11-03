@@ -264,3 +264,136 @@ var Std9_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "પછે શામળિયોજી બોલિયા (કાવ્ય)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘પછે શામળિયોજી બોલિયા’ કાવ્યના કવિનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યના કવિનું નામ પ્રેમાનંદ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રેમાનંદ = આખ્યાન શિરોમણી. 'પ' થી પછે અને 'પ' થી પ્રેમાનંદ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘પછે શામળિયોજી બોલિયા’ કાવ્યનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યનો સાહિત્ય પ્રકાર ‘આખ્યાનખંડ’ (કડવું) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રેમાનંદ એટલે આખ્યાનના બાદશાહ, માટે પ્રકાર હંમેશા 'આખ્યાનખંડ' જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "આ કાવ્ય પ્રેમાનંદની કઈ કૃતિમાંથી લેવામાં આવ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્ય પ્રેમાનંદના ‘સુદામાચરિત્ર’ આખ્યાનમાંથી લેવામાં આવ્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૃષ્ણ-સુદામાની મિત્રતા એટલે 'સુદામાચરિત્ર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સાંદીપનિ ઋષિના આશ્રમમાં શ્રીકૃષ્ણ અને સુદામા કેટલા સમય રહ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શ્રીકૃષ્ણ અને સુદામા સાંદીપનિ ઋષિના આશ્રમમાં 'બે માસ' (બે મહિના) રહ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે મિત્રો (કૃષ્ણ-સુદામા) = બે માસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "શ્રીકૃષ્ણ અને સુદામા કયા ઋષિના આશ્રમમાં ભણતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શ્રીકૃષ્ણ અને સુદામા સાંદીપનિ ઋષિના આશ્રમમાં ભણતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાંદીપનિ = જ્ઞાનનો દીવો (દીપ) પ્રગટાવનાર ઋષિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગોરાણીએ શ્રીકૃષ્ણ અને સુદામાને કયું કામ સોંપ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગોરાણીએ શ્રીકૃષ્ણ અને સુદામાને જંગલમાંથી લાકડાં (સમિધ) લઈ આવવાનું કામ સોંપ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોરાણીનું કામ = લાકડાં લાવવાનું કામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "‘પછે શામળિયોજી બોલિયા’ કાવ્યમાં કોની અતૂટ મૈત્રીનો મહિમા ગવાયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યમાં શ્રીકૃષ્ણ અને સુદામાની અતૂટ મૈત્રીનો મહિમા ગવાયો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શામળિયો (કૃષ્ણ) + વિપ્ર (સુદામા) = પાક્કી ભાઈબંધી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જંગલમાં લાકડાં કાપતી વખતે કઈ આફત આવી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જંગલમાં લાકડાં કાપતી વખતે મુસળધાર વરસાદ (સાંબેલાધારે વરસાદ) પડવાની આફત આવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આફત = ભારે વરસાદ + ગાજવીજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ઋષિ જ્યારે ગામડેથી પાછા આવ્યા ત્યારે તેમણે શું કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઋષિ ગામડેથી પાછા આવ્યા ત્યારે તેમણે ગોરાણી પર ગુસ્સો કર્યો અને બંને શિષ્યોને હૃદય સાથે ચાંપ્યા (ભેટ્યા).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પસ્તાવો (ગોરાણી પર) + પ્રેમ (શિષ્યો પર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સુદામાએ શ્રીકૃષ્ણને કયા શબ્દોમાં માન આપ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સુદામાએ કહ્યું, ‘મહારાજ, તમે જગતના આધાર છો, તમે મારી પાસે વિદ્યા શીખો એ તમારી મોટાઈ (નમ્રતા) છે.’</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જગતનો આધાર = શ્રીકૃષ્ણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "‘ખોડ’ એટલે શું? કાવ્યના સંદર્ભમાં જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘ખોડ’ એટલે મોટું અને જૂનું લાકડું (ઝાડનું થડ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખોડ = જંગલનું જાડું લાકડું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "શ્રીકૃષ્ણ અને સુદામા કઈ રીતે સૂતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શ્રીકૃષ્ણ અને સુદામા ઘાસની પથારી (સાથરો) કરીને એકસાથે સૂતા અને સુખ-દુઃખની વાતો કરતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાથરો = ઘાસની પથારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કાવ્યમાં ‘તમો’ અને ‘અમો’ શબ્દ કોના માટે વપરાયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘તમો’ શ્રીકૃષ્ણ માટે અને ‘અમો’ સુદામા માટે વપરાયા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાતચીતમાં સામેની વ્યક્તિ 'તમો' અને બોલનાર 'અમો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ગુરુ સાંદીપનિએ બંને શિષ્યોને કયો આશીર્વાદ આપ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગુરુએ આશીર્વાદ આપ્યા કે ‘તમે જે ભણ્યા છો તે વિદ્યા તમને ફળજો (યાદ રહેજો).’</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુરુનો આશીર્વાદ = વિદ્યા ફળદાયી બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "‘ભિન્ન ભિન્ન’ રીતે લાકડાં ફાડવાના કેટલા ભાગ કર્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાવ્યમાં ઉલ્લેખ છે કે તેમણે લાકડાના ‘ત્રણ’ ભારા (ભાગ) કર્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાકડાના ભાગ = ત્રણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "આ આખ્યાનખંડમાં કયા કયા ભાવ વ્યક્ત થયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યમાં મૈત્રીભાવ, વિવેક, નમ્રતા, ગુરુભક્તિ અને સ્મરણાનંદનો ભાવ વ્યક્ત થયો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિત્રતા + ભક્તિ + યાદો = આ કાવ્યનો હાર્દ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "શ્રીકૃષ્ણ પોતાની કઈ વાત સુદામા આગળ સ્વીકારે છે? (1 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શ્રીકૃષ્ણ સ્વીકારે છે કે સુદામાએ જ એમની વિદ્યામાં વધારો કર્યો છે અને પોતે સુદામા પાસે જે શીખ્યા તે એમનું અહોભાગ્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભગવાનની નમ્રતા = સુદામાના ગુણગાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "‘સમિધ’ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘સમિધ’ એટલે યજ્ઞમાં હોમવા માટેના પવિત્ર લાકડાં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યજ્ઞના લાકડાં = સમિધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પ્રેમાનંદને કયા બિરુદથી નવાજવામાં આવ્યા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પ્રેમાનંદને ‘માણભટ્ટ’ અને ‘કવિ શિરોમણી’ ના બિરુદથી નવાજવામાં આવ્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રેમાનંદ = માણ વગાડનાર 'માણભટ્ટ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વરસાદમાં પલળ્યા પછી બંને મિત્રોની હાલત કેવી થઈ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વરસાદમાં પલળવાથી બંનેના શરીરે ટાઢ (ઠંડી) વાતી હતી અને ધ્રૂજતા હતા, તેમ છતાં એકબીજાના ગાઢ આલિંગનમાં હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠંડીમાં ધ્રૂજારી + અતૂટ મૈત્રીનો હૂંફ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "શ્રીકૃષ્ણ અને સુદામા વચ્ચેના સંવાદની શૈલી કેવી છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શ્રીકૃષ્ણ અને સુદામા વચ્ચેનો સંવાદ અત્યંત આત્મીય, વિનમ્ર અને યાદોથી ભરેલો છે. શ્રીકૃષ્ણ જ્યારે ભૂતકાળની વાતો યાદ કરે છે ત્યારે સુદામા એમાં ‘તને સાંભરે રે’ અને ‘મને કેમ વિસરે રે’ જેવા પદ દ્વારા પુષ્ટિ આપે છે. આ શૈલી દ્વારા બંનેની પ્રગાઢ મિત્રતા અને પરસ્પર પ્રત્યેનો આદર વ્યક્ત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંવાદ શૈલી = પ્રશ્ન-ઉત્તર અને સ્મરણ (Memories).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સાંદીપનિ ઋષિએ પાછા આવીને શું કર્યું? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સાંદીપનિ ઋષિ જ્યારે પરગામથી પાછા આવ્યા, ત્યારે તેમણે જોયું કે ગોરાણીએ બાળકોને જંગલમાં લાકડાં લેવા મોકલ્યા હતા. આથી તેમણે ગોરાણી પર ક્રોધ વ્યક્ત કર્યો અને કહ્યું કે ‘તેં બાળકો પર જુલમ કર્યો છે.’ ત્યારબાદ તેઓ દોડતા જંગલમાં ગયા, શિષ્યોને શોધી કાઢ્યા અને તેમને હૃદયે ચાંપીને આશીર્વાદ આપ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુરુનું વાત્સલ્ય = પત્ની પર ક્રોધ + શિષ્યોને આલિંગન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "જંગલમાં આવેલ આફતનું વર્ણન કરો. (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શ્રીકૃષ્ણ અને સુદામા જ્યારે લાકડા લેવા ગયા ત્યારે આકાશમાં અચાનક વાદળો ઘેરાયા અને મુસળધાર (સાંબેલાધારે) વરસાદ પડવા લાગ્યો. વીજળીના કડાકા-ભડાકા થવા લાગ્યા અને નદીઓમાં પૂર આવ્યા. અંધકાર વ્યાપી ગયો અને ટાઢને કારણે બંને મિત્રોના શરીર ધ્રૂજવા લાગ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ + પૂર + અંધકાર + ઠંડી = કુદરતી આફત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "શ્રીકૃષ્ણની નમ્રતા કાવ્યના આધારે સમજાવો. (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શ્રીકૃષ્ણ પોતે દ્વારિકાના રાજા હોવા છતાં પોતાના ગરીબ બ્રાહ્મણ મિત્ર સુદામા સામે પોતાની મોટાઈ બતાવતા નથી. તેઓ સુદામાને કહે છે કે ‘તમે તો મારા ગુરુ સમાન છો, તમારી પાસેથી જ હું વિદ્યા શીખ્યો છું.’ આમ, સાંદીપનિ ઋષિના આશ્રમની યાદો વાગોળીને કૃષ્ણ પોતાની નિરભિમાની પ્રકૃતિનો પરિચય આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભગવાન હોવા છતાં મિત્રને ગુરુ માનવા = સાચી નમ્રતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સુદામા શ્રીકૃષ્ણને શા માટે ‘જગતના આધાર’ કહે છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સુદામા જાણે છે કે શ્રીકૃષ્ણ સાક્ષાત વિષ્ણુનો અવતાર છે અને સમગ્ર સૃષ્ટિનું પાલન કરે છે. જ્યારે શ્રીકૃષ્ણ એમ કહે છે કે ‘સુદામા તમારી પાસે વિદ્યા શીખ્યો એ મારી મોટાઈ છે’, ત્યારે સુદામા તેમની આ વિનમ્રતા જોઈને કહે છે કે ‘મહારાજ, તમે તો જગતનો આધાર છો, તમે મને માન આપીને તમારી મહાનતા સાબિત કરો છો.’</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિપ્ર (સુદામા) ની સમજણ = કૃષ્ણ તો વિશ્વના માલિક છે.</p></div>"
+    }
+  ]
+}
