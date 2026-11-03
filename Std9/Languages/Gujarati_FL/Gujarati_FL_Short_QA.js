@@ -530,3 +530,136 @@ var Std9_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "ગુર્જરીના ગૃહકુંજે (કાવ્ય)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'ગુર્જરીના ગૃહકુંજે' કાવ્યના કવિનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'ગુર્જરીના ગૃહકુંજે' કાવ્યના કવિનું નામ સુંદરમ્ (ત્રિભુવનદાસ પુરુષોત્તમદાસ લુહાર) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સુંદર' ગુજરાતની કવિતા એટલે 'સુંદરમ્'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'ગુર્જરીના ગૃહકુંજે' કાવ્યનો સાહિત્ય પ્રકાર કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યનો સાહિત્ય પ્રકાર 'ગીતકાવ્ય' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુર્જરીના ગીત ગાઈએ - ગીતકાવ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "'ગુર્જરીના ગૃહકુંજે' કાવ્ય કયા કાવ્યસંગ્રહમાંથી લેવામાં આવ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્ય સુંદરમ્ના 'વસુધા' કાવ્યસંગ્રહમાંથી લેવામાં આવ્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વસુધા (ધરતી) ઉપર જ આપણું ઘર (ગૃહકુંજ) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કવિની આંખ સૌથી પહેલાં ક્યાં ખૂલી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિની આંખ સૌથી પહેલાં 'ગુર્જરીના ગૃહકુંજે' (ગુજરાતની ભૂમિ પર) ખૂલી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જન્મ ગુજરાતમાં એટલે આંખ પણ ત્યાં જ ખૂલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કવિએ પ્રથમ ડગલાં ક્યાં ભર્યાં હતાં?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિએ પોતાના જીવનના પ્રથમ ડગલાં ગુજરાતની ધરતી પર ભર્યાં હતાં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આંખ ખૂલી અને ડગલાં ભર્યા - બધું જ 'ગુર્જરીના ગૃહકુંજે'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કવિએ 'ગૃહકુંજ' કોને કહ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિએ ગુજરાતની વનરાજી અને માતૃભૂમિને 'ગૃહકુંજ' કહ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગૃહ એટલે ઘર અને કુંજ એટલે વનરાજી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કવિએ શિયાળામાં કઈ રીતે ઠંડી ઉડાડી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિએ શિયાળામાં સગડી સળગાવીને તાપણું કરીને ઠંડી ઉડાડી હતી (તાપ્યાં તાપણે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શિયાળો = તાપણું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "અષાઢ માસમાં કવિને શું સંભળાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અષાઢ માસમાં કવિને વાદળોનો ગર્જનાભર્યો અવાજ (ગર્જન) સંભળાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અષાઢ = મેઘગર્જના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કવિ કઈ ઋતુમાં કોકિલનો અવાજ સાંભળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ વસંત ઋતુમાં કોકિલ (કોયલ) ના મધુર ટહુકા સાંભળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વસંત = કોયલનો ટહુકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કવિ ગુજરાતના કયા પર્વતો અને નદીઓમાં ભમ્યા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ ગુજરાતના ગિરિમાળાઓ (પર્વતો) અને નદીઓના કોતરોમાં ભમ્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ડુંગર અને નદી - કવિનું રખડપટ્ટીનું સરનામું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કવિએ પોતાનું આખું જીવન ક્યાં સમર્પિત કર્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિએ પોતાનું આખું જીવન ગુજરાતની ભૂમિ પર કાર્યરત રહીને સમર્પિત કર્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'જીવન નર્સે' એટલે કે જીવન કાર્યો દ્વારા સમર્પણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કવિ વિશ્વવાડીમાં ભમ્યા છતાં ક્યાં પાછા ફર્યા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ આખા વિશ્વમાં ભમ્યા હોવા છતાં છેવટે પોતાની માતૃભૂમિ ગુજરાતમાં જ પાછા ફર્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દુનિયા આખી ફરો, પણ ઘર (ગુજરાત) તો ઘર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "'ગુંજે ભર્યું' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'ગુંજે ભર્યું' એટલે સતત ગુંજારવથી ભરેલું અથવા સતત જીવંત રહેવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુંજારો = અવાજ/જીવંતતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કવિએ ગુજરાતની ભૂમિને કેવી કહી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિએ ગુજરાતની ભૂમિને મમતાળુ અને ગૌરવશાળી કહી છે, જ્યાં તેમનું બાળપણ વીત્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુજરાત = ગૌરવ અને મમતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કવિના યોવનની વાદળી ક્યાં વરસી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિના યોવનની (યુવાનીની) વાદળી ગુજરાતના પાદરોમાં વરસી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યોવનની વાદળી = યુવાનીના સપના અને સ્મૃતિઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "'આંખ અમારી ખુલી અહીં પ્રથમ' પંક્તિનો ભાવ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પંક્તિ દ્વારા કવિ કહેવા માંગે છે કે તેમનો જન્મ ગુજરાતની ભૂમિ પર થયો હતો અને તેમણે આ દુનિયાના પ્રથમ દર્શન અહીં જ કર્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આંખ ખુલવી = જન્મ થવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કવિએ પનઘટનો ઉલ્લેખ કેમ કર્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિએ પનઘટ (જ્યાં સ્ત્રીઓ પાણી ભરતી હોય તે જગ્યા) નો ઉલ્લેખ ત્યાના મધુર વાતાવરણ અને જીવનની ગતિશીલતા દર્શાવવા કર્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પનઘટ = ગામડાની સંસ્કૃતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કવિએ પોતાનો દેહ ક્યાં ધર્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિએ પોતાનો દેહ એટલે કે પોતાનું સર્વસ્વ ગુજરાતની ધરતી માટે અર્પણ કર્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દેહ ધરવો = માતૃભૂમિની સેવા કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કાવ્યમાં 'ખેતરમાં, ડુંગરમાં, કોતરમાં' જેવી શબ્દાવલી શું સૂચવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ શબ્દાવલી કવિનો પ્રકૃતિ પ્રેમ અને તેમનું બાળપણ ગુજરાતના પ્રાકૃતિક તત્વો સાથે કેવી રીતે જોડાયેલું હતું તે સૂચવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્થળના નામ = બાળપણની મસ્તી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "'ગૃહકુંજ' શબ્દનો પર્યાય શબ્દ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'ગૃહકુંજ' એટલે 'ઘરની વનરાજી' અથવા 'ઘર જેવી શીતળતા આપનાર સ્થાન'.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગૃહ + કુંજ = ઘર + બગીચો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "કવિએ માતૃભૂમિ પ્રત્યેનો પ્રેમ કઈ રીતે વ્યક્ત કર્યો છે? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિએ માતૃભૂમિ પ્રત્યેનો પ્રેમ વ્યક્ત કરતા કહ્યું છે કે તેમનો જન્મ, બાળપણ અને યુવાની અહીં જ વીત્યા છે. તેમણે વિશ્વમાં ગમે ત્યાં ભ્રમણ કર્યું હોય, પણ તેમનું હૈયું હંમેશા ગુજરાતની ધરતીમાં જ પરોવાયેલું રહ્યું છે. તેઓ પોતાનું સમગ્ર જીવન આ ધરતીને સમર્પિત કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જન્મ, યુવાની અને સમર્પણ - ત્રણેય ગુજરાત માટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "કવિએ કાવ્યમાં કઈ કઈ ઋતુઓનું વર્ણન કર્યું છે? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિએ કાવ્યમાં મુખ્યત્વે ત્રણ ઋતુઓનું વર્ણન કર્યું છે: શિયાળામાં સગડી તાપીને ઠંડી ઉડાડી, વસંતમાં કોકિલના ટહુકા સાંભળ્યા અને અષાઢ માસમાં વાદળોના ગડગડાટ સાથે વર્ષા ઋતુનો આનંદ માણ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શિયાળો (તાપણું), વસંત (કોયલ), અષાઢ (વાદળો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "'અમે ભમ્યા અહીંના ખેતરમાં, ડુંગરમાં, કોતરમાં' પંક્તિનો અર્થ સમજાવો. (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પંક્તિ દ્વારા કવિ કહે છે કે તેઓ ગુજરાતની પ્રકૃતિના ખોળે ઉછર્યા છે. તેઓ ખેતરોમાં, પર્વતોમાં અને નદીઓના કોતરોમાં ઘૂમ્યા છે. તેમણે નદીઓમાં સ્નાન કર્યું છે અને ગુજરાતની ભૌગોલિક વિવિધતાનો ખૂબ જ નજીકથી અનુભવ કર્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખેતર + ડુંગર + કોતર = ગુજરાતનું ભ્રમણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "કવિના મતે 'વિશ્વવાડી' એટલે શું? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિના મતે 'વિશ્વવાડી' એટલે સમગ્ર જગત. કવિ કહે છે કે તેઓ જ્ઞાન અને અનુભવ મેળવવા માટે સમગ્ર વિશ્વમાં ભમ્યા છે, પણ જે શાંતિ અને આત્મીયતા તેમને પોતાની ગુજરાતની ભૂમિ પર મળી છે, તેવી ક્યાંય મળી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિશ્વવાડી = આખી દુનિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કાવ્યના અંતે કવિ કઈ વાત પર ભાર મૂકે છે? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાવ્યના અંતે કવિ ભાર મૂકે છે કે ભલે તેઓ આખા વિશ્વમાં ફર્યા હોય, પણ તેઓ ક્યારેય પોતાની માતૃભૂમિને ભૂલ્યા નથી. તેઓ પોતાના મૂળ (roots) સાથે જોડાયેલા રહ્યા છે અને પોતાનું સર્વસ્વ ગુજરાતની ધરતીના ઉત્કર્ષ માટે ખર્ચ્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અંતે તો 'ગુર્જરી' જ વહાલી છે.</p></div>"
+    }
+  ]
+}
