@@ -1390,3 +1390,4 @@ var Std10_Gujarati_FL_Long_QA = {
     }
   ]
 }
+};
