@@ -796,3 +796,136 @@ var Std9_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "કામ કરે ઈ જીતે (કાવ્ય)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘કામ કરે ઈ જીતે’ કાવ્યના કવિનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘કામ કરે ઈ જીતે’ કાવ્યના કવિનું નામ નાથાલાલ દવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'નાથ' (પરમાત્મા) પણ એના જ થાય જે 'કામ' (મહેનત) કરે. - નાથાલાલ દવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘કામ કરે ઈ જીતે’ કાવ્યનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યનો સાહિત્ય પ્રકાર ‘ગીતકાવ્ય’ (પરિશ્રમ ગીત) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કામ કરતાં કરતાં ગીત ગાવાની મજા આવે, એટલે 'ગીતકાવ્ય'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કવિ નાથાલાલ દવેનું પૂરું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ નાથાલાલ દવેનું પૂરું નામ નાથાલાલ ભાણજી દવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નાથાલાલ + ભાણજી (સૂર્ય - મહેનતનું પ્રતીક) = નાથાલાલ ભાણજી દવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "‘કામ કરે ઈ જીતે’ કાવ્ય કયા સંગ્રહમાંથી લેવામાં આવ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્ય ‘સોનાપંખી’ કાવ્યસંગ્રહમાંથી લેવામાં આવ્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 sનિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મહેનત કરવાથી નસીબ 'સોના' જેવું ચમકે - સોનાપંખી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "આ કાવ્યમાં કવિએ શાનું મહત્વ સમજાવ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યમાં કવિએ શ્રમ (પરિશ્રમ) અને સ્વાવલંબનનું મહત્વ સમજાવ્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જીતવા માટે માત્ર એક જ મંત્ર: શ્રમ + સ્વાવલંબન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "આપણો દેશ આપણી પાસે શું માગી રહ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આપણો વિશાળ દેશ આપણી પાસે સહિયારો પુરુષાર્થ (મહેનત) માગી રહ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દેશ માંગે મહેનત, નહિ કે વાતોની રમત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ખેતર ખેડવા માટે કયા સાધનોની જરૂર પડશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ખેતર ખેડવા માટે ત્રિકમ અને કોદાળીની જરૂર પડશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ત-ક' યાદ રાખો: ત્રિકમ અને કોદાળી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "દુનિયાને કઈ રીતે બદલી શકાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દુનિયાને બાવડાના બળે (શારીરિક શ્રમ દ્વારા) બદલી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાવડાનું બળ = સાચું પરિવર્તન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કવિના મતે કેવા માણસની જીત થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જે માણસ મહેનત કરે છે (કામ કરે છે) તેની જ જીત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કામ = વિજય (Success Formula).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "‘સીમ કરે છે સાદ’ – આ પંક્તિમાં સાદનો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8_px;'><p><strong>ઉત્તર:</strong> સાદનો અર્થ ‘બૂમ’ અથવા ‘બોલાવવું’ (આમંત્રણ આપવું) થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સીમ બોલાવે છે કામ કરવા માટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કાવ્યમાં ‘બાહુબળ’ શબ્દ કોના માટે વપરાયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘બાહુબળ’ શબ્દ માનવીની શારીરિક શક્તિ અને મહેનત માટે વપરાયો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હાથની તાકાત = દેશનું ભાગ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કવિ કઈ રીતે પૃથ્વીને રૂપાળી બનાવવાનું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મહેનત કરીને ખેતરોમાં મોલ લહેરાવીને પૃથ્વીને રૂપાળી બનાવવાનું કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પૃથ્વીનું રૂપ = મહેનતનું ફળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "‘માલમ’ શબ્દનો અર્થ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘માલમ’ એટલે વહાણ હાંકનાર અથવા વહાણનો માલિક; અહીં કાવ્યમાં દેશને દોરવણી આપનાર નાગરિકના અર્થમાં છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માલમ = નાવિક (દેશની નૌકા ચલાવનાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કવિ દેશના વિકાસ માટે શાના પર ભાર મૂકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ દેશના વિકાસ માટે સ્વનિર્ભરતા અને સામુદાયિક શ્રમ પર ભાર મૂકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાથે મળીને મહેનત = દેશનો વિકાસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ઘર ઘર ગુંજવો જોઈએ એવો કયો અવાજ કવિ ઈચ્છે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ ઈચ્છે છે કે દરેક ઘરમાં રેંટિયાનો અવાજ ગુંજવો જોઈએ (જે સ્વાવલંબનનું પ્રતીક છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રેંટિયો = આત્મનિર્ભરતાનો અવાજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "‘કામ કરે ઈ જીતે’ કાવ્યમાં કઈ રાષ્ટ્રીય ભાવના વ્યક્ત થઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યમાં શ્રમજીવીઓના ગૌરવ અને રાષ્ટ્રનિર્માણમાં સામૂહિક શ્રમના ફાળાની ઉમદા રાષ્ટ્રીય ભાવના વ્યક્ત થઈ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શ્રમ એ જ રાષ્ટ્રભક્તિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કવિ કયા કયા ઓજારો હાથમાં લેવાનું કહે છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ ખેતી અને ગ્રામોદ્ધાર માટે નીચેના ઓજારો લેવાનું કહે છે:<br>1. ખેતર ખેડવા માટે 'કોદાળી' અને 'ત્રિકમ'.<br>2. ઘેર ઘેર કાંતવા માટે 'રેંટિયો'.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ત્રિકમ, કોદાળી (ખેતર માટે) + રેંટિયો (ઘર માટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "દેશને સ્વાવલંબી બનાવવા કવિ શું સૂચવે છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દેશને સ્વાવલંબી બનાવવા કવિ કહે છે કે, આપણે નદીઓના નીરને બાંધીને ખેતી સમૃદ્ધ કરવી જોઈએ અને દરેક ઘરમાં રેંટિયો ચલાવીને આત્મનિર્ભર બનવું જોઈએ. કોઈના પર આધાર રાખ્યા વગર પોતાના બાવડાના બળે કામ કરવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નદીનું પાણી + રેંટિયો + પોતાનું બળ = સ્વાવલંબી ભારત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "‘લિખિયો હાર રે કપાલે’ પંક્તિ દ્વારા કવિ શું કહેવા માંગે છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સામાન્ય રીતે લોકો નસીબ પર આધાર રાખીને બેસી રહે છે. પરંતુ કવિ કહે છે કે મહેનત કરનાર માણસના કપાળે સિદ્ધિનો હાર (સફળતા) લખાયેલો જ હોય છે. જે કામ કરે છે તેનું જ નસીબ ઊઘડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નસીબ (કપાળ) ત્યારે જ ચમકે જ્યારે હાથ કામ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કાવ્યના આધારે શ્રમજીવીની અભિલાષા જણાવો. (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શ્રમજીવીની અભિલાષા છે કે તે પોતાના બાવડાના બળે આખી દુનિયાને બદલી નાખે. તે કોઈની પાસે લાચાર બનીને હાથ ફેલાવવા માંગતો નથી, પરંતુ પરિશ્રમ કરીને ગૌરવભેર જીવવા માંગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લાચારી છોડો, પરિશ્રમ જોડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "નાથાલાલ દવેના કોઈ પણ બે કાવ્યસંગ્રહોના નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 1. કાલિંદી 2. જાનવી (અથવા સોનાપંખી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાલિંદી અને જાનવી સોનાપંખી જેવી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "‘કામ કરે ઈ જીતે’ કાવ્યની મધ્યવર્તી વિચારધારા શું છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યની મુખ્ય વિચારધારા એ છે કે પરસેવો પાડનાર (પરિશ્રમી) વ્યક્તિ જ સફળ થાય છે. દેશના વિકાસ માટે રસ્તા પર ઉતરીને મહેનત કરવી જરૂરી છે. માત્ર વાતો કરવાથી કે નસીબના ભરોસે બેસવાથી પ્રગતિ થતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પરસેવો = પ્રગતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "કવિ સીમમાં જઈને શું કરવાનું સૂચવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ સીમમાં જઈને ખેતર ખેડવાનું અને ધરતીને હરિયાળી બનાવવાનું સૂચવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સીમ = ખેતીનું મેદાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિશ્વના ફલક પર ભારતને ચમકાવવા શું કરવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિશ્વના ફલક પર ભારતને ચમકાવવા માટે દરેકે ખભેખભા મિલાવીને શ્રમ કરવો જોઈએ અને વિજ્ઞાન તેમજ ઉદ્યોગ સાથે ખેતીને પણ વેગ આપવો જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંગઠિત શ્રમ = વિશ્વવિજય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "‘બાવડાના બળે’ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘બાવડાના બળે’ એટલે પોતાની શારીરિક મહેનત અને આત્મવિશ્વાસ દ્વારા કામ કરવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હાથની શક્તિ = બાવડાનું બળ.</p></div>"
+    }
+  ]
+}
