@@ -663,3 +663,136 @@ var Std9_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "લોહીની સગાઈ (પાઠ)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘લોહીની સગાઈ’ કૃતિના લેખકનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘લોહીની સગાઈ’ કૃતિના લેખક ઈશ્વર પેટલીકર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘ઈશ્વર’ ની ‘લોહીની સગાઈ’ કદી તૂટતી નથી. (ઈશ્વર પેટલીકર = લોહીની સગાઈ)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘લોહીની સગાઈ’ પાઠનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘લોહીની સગાઈ’ પાઠનો સાહિત્ય પ્રકાર ‘નવલિકા’ (ટૂંકી વાર્તા) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નવલિકા એટલે નવી અને ટૂંકી વાર્તા. ‘સગાઈ’ હંમેશા ‘નવી’ (નવલિકા) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "‘લોહીની સગાઈ’ વાર્તા કયા સંગ્રહમાંથી લેવામાં આવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘લોહીની સગાઈ’ વાર્તા ‘લોહીની સગાઈ’ નામના વાર્તાસંગ્રહમાંથી જ લેવામાં આવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે પાઠનું નામ છે તે જ તેના સંગ્રહનું નામ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "અમૃતકાકીને કુલ કેટલાં સંતાનો હતાં?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અમૃતકાકીને કુલ ચાર સંતાનો હતાં (બે દીકરા અને બે દીકરીઓ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 2 + 2 = 4 (બે ભાઈઓ અને બે બહેનો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મંગુની ઉંમર કેટલી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મંગુની ઉંમર ચૌદ વર્ષની હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મંગુ ‘ચૌદ’ વર્ષની થઈ પણ બુદ્ધિ ‘બે’ વર્ષની પણ નહોતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "અમૃતકાકી દવાખાનાને કોની ઉપમા આપતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અમૃતકાકી દવાખાનાને ‘પાંજરાપોળ’ (ગૌશાળા જેવી જગ્યા જ્યાં અશક્ત પશુઓ રખાય) ની ઉપમા આપતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દ - પાં (દવાખાનું = પાંજરાપોળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "મંગુને કઈ બીમારી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મંગુ જન્મથી જ ગાંડી અને મૂંગી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગા-મૂ (ગાંડી અને મૂંગી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ગામની કઈ દીકરી ગાંડી થઈને સાજી થઈ ગઈ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગામની ‘કુસુમ’ નામની દીકરી ગાંડી થઈને સાજી થઈ ગઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કુસુમ એટલે ફૂલ, જે સાજું થઈને ખીલી ગયું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "અમૃતકાકી મંગુ માટે કયા ભગવાનને બાધા-આખડી રાખતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અમૃતકાકી મંગુ માટે અનેક દેવી-દેવતાઓની સાથે સાથે મેલડી માતાની પણ બાધા રાખતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માની મમતા એટલે હર કોઈ ભગવાનની માનતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જોષીએ મંગુ માટે શું ભવિષ્ય ભાખ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જોષીએ ભાખ્યું હતું કે આવતા માગશર મહિનામાં મંગુના ગ્રહો સારા છે એટલે તે સાજી થઈ જશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મંગુ માટે ‘માગશર’ મહિનો મંગળકારી ગણાતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "અમૃતકાકીની આંખમાં આંસુ ક્યારે આવી જતાં?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જ્યારે લોકો તેમને મંગુને દવાખાને મૂકવાની સલાહ આપતા ત્યારે તેમની આંખમાં આંસુ આવી જતાં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સલાહ = આંસુ (અમૃતકાકી માટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "અમૃતકાકી મંગુને ઘરે કેમ રાખવા માંગતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કારણ કે તેમને ડર હતો કે દવાખાનામાં તેમની મંગુને કોણ જમાડશે, કોણ સુવડાવશે અને તેની ચાકરી કોણ કરશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘મા’ જેવી સેવા બીજે ક્યાંય નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કુસુમ સાજી થઈને આવી ત્યારે અમૃતકાકીએ તેને શું પૂછ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અમૃતકાકીએ તેને દવાખાનામાં કેવી રીતે રાખવામાં આવે છે અને તે કેવી રીતે સાજી થઈ તેના વિશે પૂછ્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કુસુમની સાજા થવાની પ્રક્રિયા જ અમૃતકાકીની આશા બની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "મંગુને દવાખાને મૂકવા જતી વખતે અમૃતકાકીની સ્થિતિ કેવી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અમૃતકાકી ખૂબ જ દુઃખી હતા અને તેમનું હૃદય ભરાઈ આવ્યું હતું, જાણે તેઓ પોતાની કાળજાના કટકાને અલગ કરી રહ્યા હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દીકરી વિદાય જેવું દુઃખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વાર્તાના અંતે અમૃતકાકીની કેવી દશા થઈ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વાર્તાના અંતે અમૃતકાકી મંગુના વિરહમાં પોતે પણ ગાંડા થઈ ગયા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘લોહીની સગાઈ’ એટલે જ કે પુત્રી ગાંડી તો માતા પણ ગાંડી થઈ ગઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "અમૃતકાકીની દૃષ્ટિએ મંગુની સાચી સેવા કોણ કરી શકે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અમૃતકાકીની દૃષ્ટિએ મંગુની સાચી સેવા માત્ર એક માતા જ કરી શકે. તેમને લાગતું હતું કે દવાખાનાના કર્મચારીઓ તો પગારદાર હોય, તેઓ મંગુની ઝાડો-પેશાબની કે ખાવા-પીવાની ચીવટ નહીં રાખે. માતા જ બાળકની દરેક નાની જરૂરિયાત અને ઈશારાઓ સમજી શકે, જે બીજું કોઈ ન સમજી શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મા તે મા, બીજા બધા વગડાના વા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "અમૃતકાકીએ દવાખાનામાં નર્સ પાસે કઈ આજીજી કરી? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અમૃતકાકીએ નર્સને આજીજી કરતા કહ્યું કે મંગુને રાત્રે ઓઢાડજો, તેને દહીં બહુ ભાવે છે તો આપજો, અને જો તે રાત્રે ન ઊંઘે તો તેને પ્રેમથી પંપાળજો. તેમણે નર્સને વિનંતી કરી કે તેમની મંગુ સાવ ભોળી છે, તો તેને કોઈ વઢે નહીં તેનું ધ્યાન રાખજો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખાવાની ચીજો + સુવાની આદતો = માની ચિંતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "મંગુને દવાખાને મૂકવા બાબતે અમૃતકાકીના દીકરાઓના વિચારો કેવા હતા? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અમૃતકાકીના દીકરાઓ વ્યવહારુ હતા. તેઓ માનતા હતા કે મંગુની આવી હાલતમાં તેને દવાખાને મૂકવી એ જ શ્રેષ્ઠ ઉપાય છે જેથી ઘરમાં શાંતિ રહે અને માતાને પણ આરામ મળે. જોકે તેઓ ક્રૂર નહોતા, પણ તેમને મંગુના સાજા થવાની આશા ઓછી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દીકરાઓ વ્યવહારુ હતા, પણ અમૃતકાકી લાગણીશીલ હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કુસુમે સાજા થયા પછી દવાખાના વિશે શું અભિપ્રાય આપ્યો? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કુસુમે જણાવ્યું કે દવાખાનામાં ગાંડાઓને સાચવવા માટે પૂરતી સુવિધા હોય છે. ત્યાંના ડોક્ટરો અને નર્સ માયાળુ હોય છે. તેણે અમૃતકાકીને ધરપત આપી કે મંગુને ત્યાં કોઈ તકલીફ નહીં પડે અને જો યોગ્ય સારવાર મળશે તો તે ચોક્કસ સાજી થશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કુસુમનો અનુભવ = અમૃતકાકીનો નિર્ણય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "‘લોહીની સગાઈ’ શીર્ષકની યથાર્થતા સમજાવો. (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ શીર્ષક અત્યંત સચોટ છે કારણ કે આ વાર્તા માતૃત્વના અતૂટ બંધન પર આધારિત છે. માતા અને પુત્રી વચ્ચે લોહીનો સંબંધ છે. મંગુ ગાંડી હોવા છતાં અમૃતકાકી જે નિઃસ્વાર્થ પ્રેમ આપે છે તે લોહીની સગાઈનું પરિણામ છે. અંતે માતા પણ પુત્રીના દુઃખમાં ગાંડી થઈ જાય છે, જે આ સગાઈની પરાકાષ્ઠા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સગાઈ એટલે સંબંધ, અને લોહી એટલે ગાઢ માતૃત્વ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "અમૃતકાકીએ મંગુને દવાખાને મૂકવાની છેલ્લે સંમતિ કેમ આપી? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જ્યારે ગામની દીકરી કુસુમ દવાખાને જઈને સાજી થઈને પાછી આવી, ત્યારે અમૃતકાકીને આશા જન્મી કે કદાચ મંગુ પણ સાજી થઈ જાય. બીજું, તેમની વધતી ઉંમરને કારણે તેમને ચિંતા હતી કે તેમના ગયા પછી મંગુને કોણ સાચવશે, તેથી ભારે હૃદયે તેમણે સંમતિ આપી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કુસુમની સુધારણા + ભવિષ્યની ચિંતા = નિર્ણય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "શહેરના દવાખાનામાં અમૃતકાકીએ કયો દ્રશ્ય જોયું જે તેમને ખટક્યું? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જ્યારે અમૃતકાકી દવાખાને ગયા ત્યારે તેમણે જોયું કે ગાંડાઓને જે વોર્ડમાં રાખવામાં આવતા હતા ત્યાં મુલાકાતીઓને અંદર જવા દેવામાં આવતા નહોતા. વળી, એક ગાંડી સ્ત્રીએ નર્સને જે રીતે લાત મારી અને નર્સે જે ધીરજથી કામ લીધું તે જોઈને તેમને નવાઈ લાગી, છતાં તેમને ડર હતો કે મંગુ એકલી કેવી રીતે રહેશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નર્સની ધીરજ vs અમૃતકાકીનો ડર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "દવાખાનેથી પાછા આવ્યા પછી અમૃતકાકીની રાત કેવી રીતે વીતી? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આખી રાત અમૃતકાકીને ઊંઘ ન આવી. તેમને વારંવાર મંગુના વિચારો આવતા હતા. તેમને થતું હતું કે મંગુને ટાઢ વાતી હશે, તેને કોઈએ ઓઢાડ્યું હશે કે નહીં? તે રડતી હશે તો તેને કોણ છાની રાખશે? આ પસ્તાવામાં તેઓ આખી રાત તરફડતા રહ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વગર મંગુની રાત, અમૃતકાકી માટે કાત (કરવત) જેવી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "અમૃતકાકી પોતાની પુત્રી મંગુને કઈ રીતે જમાડતા હતા? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અમૃતકાકી મંગુને પોતાના હાથે કોળિયા ભરાવીને જમાડતા. મંગુને દહીં બહુ ભાવતું, તેથી તેઓ તેને દહીં સાથે રોટલો કે જે હોય તે પ્રેમથી ખવડાવતા. મંગુને ખાવામાં કોઈ તકલીફ ન પડે તેનું તેઓ સતત ધ્યાન રાખતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હાથની સગાઈ અને મોઢાનો કોળિયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "‘લોહીની સગાઈ’ વાર્તાનો અંત આપણને શું શીખવે છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વાર્તાનો અંત માતૃત્વની પરાકાષ્ઠા બતાવે છે. તે શીખવે છે કે સાચો પ્રેમ શરતો વગરનો હોય છે. સંતાન ગમે તેવું અશક્ત હોય, માતા માટે તે ક્યારેય બોજ નથી હોતું. છેલ્લે અમૃતકાકીનું ગાંડા થઈ જવું એ સાબિત કરે છે કે લાગણીશીલ સંબંધો બુદ્ધિશાળી નિર્ણયો કરતાં વધુ મજબૂત હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રેમ + ત્યાગ = માતૃત્વ.</p></div>"
+    }
+  ]
+}
