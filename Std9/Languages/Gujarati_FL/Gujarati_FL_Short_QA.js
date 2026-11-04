@@ -929,3 +929,136 @@ var Std9_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "છાલ, છોતરાં અને ગોટલા (પાઠ)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘છાલ, છોતરાં અને ગોટલા’ પાઠના કર્તા (લેખક) નું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘છાલ, છોતરાં અને ગોટલા’ પાઠના કર્તા ‘બકુલ ત્રિપાઠી’ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બકુલ' ભાઈ 'બકુ' જેવી વાતો કરીને 'હાસ્ય' પીરસે છે - બકુલ ત્રિપાઠી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘છાલ, છોતરાં અને ગોટલા’ પાઠનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠનો સાહિત્ય પ્રકાર ‘હાસ્ય નિબંધ’ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છાલ પર પગ લપસે તો 'હાસ્ય' જ આવે - હાસ્ય નિબંધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "બકુલ ત્રિપાઠીનું પૂરું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખકનું પૂરું નામ ‘બકુલ પદ્મમણિશંકર ત્રિપાઠી’ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ. પ. ત્રિ. (બકુલ પદ્મમણિશંકર ત્રિપાઠી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "‘છાલ, છોતરાં અને ગોટલા’ પાઠ કયા પુસ્તકમાંથી લેવામાં આવ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠ ‘હાસ્ય એટલે પ્રભુ સાથે મૈત્રી’ પુસ્તકમાંથી લેવામાં આવ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રભુ સાથે મિત્રતા (મૈત્રી) હોય તો જ આવું હાસ્ય લખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "લેખકના મતે આપણી પ્રાચીન ભારતીય સંસ્કૃતિ કઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખકના મતે વેદ, પુરાણ અને ઉપનિષદની સંસ્કૃતિ એ આપણી પ્રાચીન ભારતીય સંસ્કૃતિ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વે.પુ.ઉ. = વેદ, પુરાણ, ઉપનિષદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "લેખકના મતે ભારતની નવી સંસ્કૃતિ કઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખકના મતે ભારતની નવી સંસ્કૃતિ ‘છાલ, છોતરાં અને ગોટલા’ ની સંસ્કૃતિ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ જ નવી સંસ્કૃતિ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "આપણે પરમેશ્વરની ભક્તિ ક્યાં કરીએ છીએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આપણે મંદિરોમાં, મૂર્તિઓમાં અને ગીતા-પુસ્તકોમાં પરમેશ્વરની ભક્તિ કરીએ છીએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મં-મૂ-પુ (મંદિર, મૂર્તિ, પુસ્તક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "લેખકના મતે આપણે ગોટલા ક્યાં ફેંકીએ છીએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખકના મતે આપણે ગોટલા જાહેર રસ્તાઓ પર કે ઉકરડા પર ગમે ત્યાં ફેંકીએ છીએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપણે બહુ ઉદાર છીએ, એટલે આખી દુનિયાને ગોટલા વહેંચીએ છીએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "લેખક મગફળીના છોતરાં માટે કઈ રમતનો ઉલ્લેખ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક મગફળીના છોતરાં ઉડાડવાની સરખામણી ઓલિમ્પિકમાં રમાતી ‘ભાલા ફેંક’ કે ‘ચક્ર ફેંક’ જેવી રમતો સાથે વ્યંગમાં કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મગફળીના છોતરાં + પવન = નેશનલ સ્પોર્ટ્સ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "લેખકના મતે આપણે ‘જીવદયા’ કેવી રીતે બતાવીએ છીએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આપણે મગફળીના છોતરાં ગમે ત્યાં ફેંકીએ છીએ જેથી કીડીઓ જેવી જીવતરોને ખોરાક મળે, આ રીતે લેખક વ્યંગમાં જીવદયાની વાત કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કીડીઓનું કલ્યાણ એટલે આપણી જીવદયા (કટાક્ષમાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કેળાંની છાલ ફેંકવા માટે લેખક કઈ પદ્ધતિ શ્રેષ્ઠ ગણાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કેળાંની છાલ ફેંકવાની એવી પદ્ધતિ જેમાં છાલ બારીની બહાર પડે અને કોઈને નુકસાન ન થાય તે પદ્ધતિ લેખક ‘સંસ્કારી’ ગણાવે છે (કટાક્ષમાં).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બારીની બહાર ફેંકાયેલી છાલ એટલે 'સંસ્કારી છાલ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "આપણે કયાં કયાં પવિત્ર સ્થળોએ ગંદકી કરીએ છીએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આપણે મંદિરોની આસપાસ, સોમનાથ, દ્વારકા કે કાશી જેવા યાત્રાધામોમાં ગંદકી કરીએ છીએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં ભક્તિ ત્યાં શક્તિ અને (લેખકના મતે) ત્યાં જ ગંદકી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "લેખક કયા અમેરિકન ખેલાડીની વાત કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક ‘છોતરાં ફેંક’ ની સ્પર્ધામાં અમેરિકન ખેલાડીઓને પડકારવાની વાત કરે છે (હાસ્ય નિપજાવવા માટે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રીક અને અમેરિકન ખેલાડીઓ આપણી 'છોતરાં ફેંક' માં હારી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "મગફળીના ફોતરાં વિશે લેખક શું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક કહે છે કે આપણે મગફળીના ફોતરાં સર્વત્ર વેરતા રહીએ છીએ, કારણ કે આપણે ‘અદ્વૈત’ ભાવનામાં માનીએ છીએ કે બધું જ એક જ ધરતી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફોતરાં + ધરતી = અદ્વૈત ભાવ (બધું એક જ છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "‘છાલ, છોતરાં અને ગોટલા’ માં કઈ વિસંગતતા જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠમાં ભારતની ભવ્ય પરંપરા અને વર્તમાન સમયની ગંદકી કરવાની ટેવ વચ્ચેની વિસંગતતા જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભવ્ય ભૂતકાળ vs ગંદો વર્તમાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "લેખક ‘ગોટલા’ ને કઈ જગ્યાએ પવિત્ર માને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક કટાક્ષમાં કહે છે કે ઉનાળામાં આપણે ગલીઓમાં ‘ગોટલા’ ની પૂજા (ઢગલો) કરીએ છીએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોટલાનો ઢગલો એટલે આપણી કેરી-ભક્તિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "આપણે ગંદકી બાબતે કોની દયા ખાઈએ છીએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આપણે ગાયો, મધમાખીઓ અને કીડીઓની દયા ખાઈને તેમને જમવાનું (ગંદકી) પીરસીએ છીએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાણીઓ પ્રત્યેની 'ખોટી' જીવદયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "લેખક મગફળીના ફોતરાં ક્યાં ફેંકવાનું સૂચવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક વ્યંગમાં કહે છે કે ફોતરાં બગીચામાં, થિયેટરમાં કે રસ્તામાં ગમે ત્યાં ફેંકી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગમે ત્યાં ફેંકો, બધું 'આપણું જ' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19 (2 માર્ક)",
+      "question": "લેખક ‘છાલ, છોતરાં અને ગોટલા’ સંસ્કૃતિને ભારતીય ગણાવે છે. શા માટે? (કટાક્ષમાં સમજાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક કટાક્ષમાં જણાવે છે કે આપણી પ્રાચીન સંસ્કૃતિ ભલે વેદ-પુરાણોની હોય, પણ અત્યારે આપણે ગમે ત્યાં ગંદકી કરીએ છીએ. આપણે કેરીના ગોટલા, મગફળીના ફોતરાં અને કેળાની છાલ ગમે ત્યાં ફેંકીએ છીએ. આ ટેવ દરેક ભારતીયમાં એટલી વણાઈ ગઈ છે કે તેને લેખક નવી ‘ભારતીય સંસ્કૃતિ’ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ ટેવ લોહીમાં વણાઈ ગઈ છે, એટલે જ સંસ્કૃતિ બની ગઈ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20 (2 માર્ક)",
+      "question": "મગફળીના છોતરાં બાબતે લેખક ‘જીવદયા’ નો કેવો મહિમા ગાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક કહે છે કે આપણે દયાળુ છીએ. જો આપણે મગફળીના ફોતરાં ડસ્ટબિનમાં નાખીએ, તો બિચારી કીડીઓને ખોરાક મેળવવા છેક ડસ્ટબિન સુધી જવું પડે. કીડીઓ બિચારી થાકી ન જાય, માટે આપણે આખા મેદાનમાં કે ઘરમાં ફોતરાં વેરીએ છીએ જેથી તેને હોમ ડિલિવરી મળે. આ લેખકનો તીક્ષ્ણ કટાક્ષ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કીડીઓ માટે હોમ ડિલિવરી એટલે મગફળીના ફોતરાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21 (2 માર્ક)",
+      "question": "કેળાની છાલ ફેંકવાની બાબતે લેખકે ‘ઓલિમ્પિક’ નો સંદર્ભ કેમ લીધો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભારતીયો કેળાં ખાઈને છાલ જે રીતે ઉડાડીને રસ્તા પર ફેંકે છે, તે જોઈને લેખકને લાગે છે કે આમાં તો નિપુણતા જોઈએ. જો ઓલિમ્પિકમાં ‘કેળાની છાલ ફેંક’ ની સ્પર્ધા રાખવામાં આવે, તો ભારતીયોને ચોક્કસ સુવર્ણચંદ્રક મળે. આમ, લેખક ભારતીયોની અસ્વચ્છતા પ્રત્યેની કુશળતા પર વ્યંગ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેળાની છાલ + ભારતીય = ઓલિમ્પિક ગોલ્ડ મેડલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22 (2 માર્ક)",
+      "question": "લેખકે ‘અદ્વૈત ભાવ’ ને ગંદકી સાથે કેવી રીતે જોડ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભારતીય દર્શનમાં ‘અદ્વૈત’ એટલે કે બધું એક જ છે તેવો ભાવ છે. લેખક કટાક્ષમાં કહે છે કે આપણે ફોતરાં બધે વેરીએ છીએ કારણ કે આપણા માટે મંદિર, રસ્તો કે ઘર બધું સરખું જ છે. આપણે માનીએ છીએ કે ધરતી માતા છે અને બધું તેના પર જ છે, આથી ગમે ત્યાં ફેંકવામાં કંઈ ખોટું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધી જગ્યાએ ગંદકી = અદ્વૈત ભાવ (બધું એક સમાન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "લેખકના મતે ગાયોને આપણે કઈ રીતે મદદરૂપ થઈએ છીએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આપણે કેરી ખાઈને ગોટલા રસ્તા પર ફેંકી દઈએ છીએ જેથી ગાયો તેમાંથી પોષણ મેળવી શકે. લેખક આને આપણી ‘ઉદારતા’ ગણાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોટલા + રસ્તો = ગાયમાતાનું ભોજન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "આ પાઠમાં લેખકનો મુખ્ય ઉદ્દેશ્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠનો મુખ્ય ઉદ્દેશ્ય હાસ્ય દ્વારા ભારતીય પ્રજામાં રહેલી ગંદકી પ્રત્યેની અસંવેદનશીલતા અને સ્વચ્છતા પ્રત્યેની બેદરકારી પર કટાક્ષ કરવાનો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હસતા હસતા ગંદકી દૂર કરવાનો સંદેશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "‘છાલ, છોતરાં અને ગોટલા’ પાઠનો બોધ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠ આપણને ગમે ત્યાં કચરો ન ફેંકવા અને જાહેર સ્થળોને સ્વચ્છ રાખવા માટે પ્રેરણા આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વચ્છતા ત્યાં પ્રભુતા - કચરો પેટીમાં જ નાખવો.</p></div>"
+    }
+  ]
+}
