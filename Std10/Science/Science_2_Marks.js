@@ -25,7 +25,7 @@ var Std10_Science_2Marks = {
       "questionNumber": "પ્રશ્ન 4",
       "marks": 2,
       "question": "વિઘટન પ્રક્રિયા એટલે શું? એક ઉદાહરણ આપો.",
-      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><b>વ્યાખ્યા:</b> જે રાસાયણિક પ્રક્રિયામાં એક જ પ્રકારના પ્રક્રિયકને ગરમ કરતા અથવા ઉર્જા આપતા તે તૂટીને બે કે તેથી વધુ સરળ નીપજો આપે, તેને વિઘટન પ્રક્રિયા કહે છે.</li><li><b>ઉદાહરણ:</b> કેલ્શિયમ કાર્બોનેટને ગરમ કરતા કેલ્શિયમ ઓક્સાઈડ અને કાર્બન ડાયોક્સાઈડ મળે છે.</li><li>CaCO₃ (s) <span style='font-size:20px;'>$\xrightarrow{\Delta}$</span> CaO (s) + CO₂ (g)</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક માંથી અનેક બને (1 → Many) એટલે વિઘટન.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li><b>વ્યાખ્યા:</b> જે રાસાયણિક પ્રક્રિયામાં એક જ પ્રકારના પ્રક્રિયકને ગરમ કરતા અથવા ઉર્જા આપતા તે તૂટીને બે કે તેથી વધુ સરળ નીપજો આપે, તેને વિઘટન પ્રક્રિયા કહે છે.</li><li><b>ઉદાહરણ:</b> કેલ્શિયમ કાર્બોનેટને ગરમ કરતા કેલ્શિયમ ઓક્સાઈડ અને કાર્બન ડાયોક્સાઈડ મળે છે.</li><li>CaCO₃ (s) <span style='font-size:20px;'>$\\xrightarrow{\\Delta}$</span> CaO (s) + CO₂ (g)</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક માંથી અનેક બને (1 → Many) એટલે વિઘટન.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes IMP</p></div>"
     },
     {
       "questionNumber": "પ્રશ્ન 5",
