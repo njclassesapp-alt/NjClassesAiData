@@ -1,4 +1,4 @@
-var Std10_Maths_4Marks = [
+var Std10_Maths_4Marks = { 
 "1": {
   "chapterName": "પ્રકરણ 1",
   "chapterTitle": "વાસ્તવિક સંખ્યાઓ",
