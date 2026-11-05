@@ -1195,3 +1195,136 @@ var Std9_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "ભારતીય સંસ્કૃતિની સિદ્ધિ (પાઠ)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'ભારતીય સંસ્કૃતિની સિદ્ધિ' પાઠના કર્તા કોણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'ભારતીય સંસ્કૃતિની સિદ્ધિ' પાઠના કર્તા વિનોબા ભાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભારતીય સંસ્કૃતિ' ની રક્ષા 'વિનોબા' (વિનયી બા) કરે છે - એમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'ભારતીય સંસ્કૃતિની સિદ્ધિ' પાઠનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠનો સાહિત્ય પ્રકાર લલિત નિબંધ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંસ્કૃતિ વિશે હંમેશા 'નિબંધ' જ લખાય - NJ Classes.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિનોબા ભાવેનું પૂરું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિનોબા ભાવેનું પૂરું નામ વિનાયક નરહરિ ભાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિનોબા = વિનાયક (ગણેશજીનું નામ) + નરહરિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "'ભારતીય સંસ્કૃતિની સિદ્ધિ' પાઠ કયા પુસ્તકમાંથી લેવામાં આવ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠ 'વિચારલહરી' પુસ્તકમાંથી લેવામાં આવ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતીય સંસ્કૃતિના 'વિચારો' ની 'લહરી' એટલે વિચારલહરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિનોબા ભાવેને કયા સન્માનથી ઓળખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિનોબા ભાવેને 'આચાર્ય' ના સન્માનથી ઓળખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આચાર્ય એટલે સંસ્કારી - વિનોબા ભાવે એટલે આચાર્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "લેખકના મતે 'પ્રકૃતિ' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પ્રકૃતિ એટલે સહજ સ્વભાવ, જે માણસમાં જન્મજાત હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકૃતિ = 'Normal' (જેવું છે તેવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "લેખકના મતે 'સંસ્કૃતિ' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સંસ્કૃતિ એટલે પ્રકૃતિથી ઉપર ઉઠીને કરવામાં આવતું સુધારણાત્મક કાર્ય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંસ્કૃતિ = 'Better' (સુધારેલું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "લેખકના મતે 'વિકૃતિ' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિકૃતિ એટલે પ્રકૃતિથી નીચે પડવું અથવા સહજ સ્વભાવને બગાડવો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિકૃતિ = 'Worse' (બગડેલું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ભૂખ લાગે ત્યારે ખાવું એ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભૂખ લાગે ત્યારે ખાવું એ માણસની 'પ્રકૃતિ' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જરૂરિયાત મુજબ કામ કરવું = પ્રકૃતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ભૂખ ન હોય છતાં ખાવું એ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભૂખ ન હોય છતાં ખાવું એ 'વિકૃતિ' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ખોટું છે તે વિકૃતિ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ઉપવાસ કરવો એ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભૂખ હોવા છતાં ભગવદ સ્મરણ માટે ન ખાવું એ 'સંસ્કૃતિ' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંયમ અને નિયમ એટલે સંસ્કૃતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ભારત પાસે કઈ અદ્વિતીય વસ્તુ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભારત પાસે હજારો વર્ષોનો પુરાણો અતૂટ વિચાર વૈભવ અને આધ્યાત્મિક વારસો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારત = વિચારોનો અખૂટ ખજાનો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "દુનિયાના અન્ય દેશોમાં શું જોવા મળે છે અને ભારતમાં શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અન્ય દેશોમાં ઇતિહાસ બદલાય છે, જ્યારે ભારતમાં હજારો વર્ષોથી મૌલિક વિચારો અને સંસ્કૃતિ અતૂટ રહ્યાં છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પશ્ચિમમાં પરિવર્તન, ભારતમાં પરંપરા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ભારતીય સંસ્કૃતિનો પાયો શેના પર ટકેલો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભારતીય સંસ્કૃતિનો પાયો અહિંસા, સહિષ્ણુતા અને આધ્યાત્મિકતા પર ટકેલો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અહિંસા પરમો ધર્મ: - આ ભારતનો પાયો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "લેખક પશ્ચિમના દેશોમાંથી શું સ્વીકારવાનું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક પશ્ચિમના દેશોમાંથી તેમનું વિજ્ઞાન અને સંશોધનવૃત્તિ સ્વીકારવાનું કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પશ્ચિમનું વિજ્ઞાન + ભારતનું અધ્યાત્મ = શ્રેષ્ઠ જીવન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ભારતનો સાંસ્કૃતિક વારસો કેવો છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભારતનો સાંસ્કૃતિક વારસો અત્યંત સમૃદ્ધ અને પ્રાચીન છે. હજારો વર્ષોથી અહીં અનેક પરિવર્તનો આવ્યા છતાં પાયાના વિચારો બદલાયા નથી. ભારતે દુનિયાને અહિંસા, સત્ય અને વિશ્વશાંતિનો સંદેશ આપ્યો છે. ઉપનિષદો અને વેદોના વિચારો આજે પણ જીવંત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતનો વારસો = જૂનો છતાં નિત્ય નવો (સનાતન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પ્રકૃતિ, સંસ્કૃતિ અને વિકૃતિ વચ્ચેનો તફાવત ઉદાહરણ સાથે સમજાવો. (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભૂખ લાગે ત્યારે ખાવું એ માણસની સહજ 'પ્રકૃતિ' છે. ભૂખ ન હોય છતાં સ્વાદ માટે ખાવું એ 'વિકૃતિ' છે. પરંતુ, ભૂખ હોવા છતાં બીજાને ખવડાવીને પોતે ઉપવાસ કરવો એ 'સંસ્કૃતિ' છે. આમ, સંસ્કૃતિ પ્રકૃતિને શુદ્ધ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સહજ (P), બગડેલું (V), સુધારેલું (S).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "લેખકના મતે સાચો વિકાસ કોને કહેવાય? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખકના મતે માત્ર ભૌતિક સગવડો વધારવી એ જ વિકાસ નથી. જ્યારે માણસ પોતાની પશુવૃત્તિમાંથી બહાર આવી, ઇન્દ્રિયો પર સંયમ મેળવી આધ્યાત્મિક પ્રગતિ કરે અને તેની વૃત્તિઓ સંસ્કારી બને, તેને જ સાચો વિકાસ કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૌતિક વિકાસ + આંતરિક સુધારણા = સાચો વિકાસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ભારત ભૂમિની વિશેષતા શું છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભારત ભૂમિની વિશેષતા એ છે કે અહીં હજારો વર્ષોથી માનવ-ચિંતનની ધારા સતત વહેતી રહી છે. બીજા દેશોમાં જે પ્રકારે જૂનું ભુલાઈ જાય છે, તેમ ભારતમાં થતું નથી. અહીં પ્રાચીન કાળના ઋષિઓના વિચારો આજે પણ લોકોના જીવનમાં વણાયેલા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતની વિશેષતા = સાતત્ય (Continuity).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિકૃતિને ક્યારેય સ્વીકારવી ન જોઈએ - સમજાવો. (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પશ્ચિમના દેશોમાં કે અન્યત્ર કોઈ બાબત વિજ્ઞાનના નામે ચાલતી હોય પણ જો તે વિકૃતિ હોય, તો તેને ક્યારેય સ્વીકારવી જોઈએ નહીં. વિકૃતિ હંમેશા ત્યાજ્ય હોય છે. આપણે માત્ર પ્રકૃતિને સ્વીકારી તેનું સંસ્કૃતિમાં રૂપાંતર કરવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભલે વિદેશી હોય, જો બગડેલું હોય તો 'ના' પાડવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'સારી રીતે ઘડાયેલું'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સંસ્કૃત / સુસંસ્કૃત.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંસ્કારથી જે બને તે સુસંસ્કૃત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિરોધી શબ્દ આપો: પ્રાચીન, સાવધ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પ્રાચીન × અર્વાચીન, સાવધ × અસાવધ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અ- પ્રત્યય લગાડીને વિરોધી બને છે - NJ Classes.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિનોબા ભાવેના મતે માણસમાં કઈ બે વૃત્તિઓ રહેલી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> માણસમાં પશુવૃત્તિ અને માનવવૃત્તિ એમ બે વૃત્તિઓ રહેલી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પશુતાથી માનવતા તરફની ગતિ એટલે સંસ્કૃતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "આપણે પશ્ચિમ પાસેથી શું લેવું જોઈએ અને શું ન લેવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આપણે પશ્ચિમ પાસેથી તેમનું વિજ્ઞાન અને પ્રયોગશીલતા લેવી જોઈએ, પણ તેમની જીવનશૈલીની વિકૃતિઓ લેવી જોઈએ નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સારા વિચારો ગમે ત્યાંથી લો (ઋગ્વેદનો મંત્ર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "આ પાઠનો મુખ્ય ઉદ્દેશ્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠનો મુખ્ય ઉદ્દેશ્ય ભારતીય સંસ્કૃતિની શ્રેષ્ઠતા અને તેની અખંડિતતા સમજાવી, વિદ્યાર્થીઓમાં સંસ્કારનું સિંચન કરવાનો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંસ્કૃતિને જાણવી એ જ સાચું શિક્ષણ છે.</p></div>"
+    }
+  ]
+}
