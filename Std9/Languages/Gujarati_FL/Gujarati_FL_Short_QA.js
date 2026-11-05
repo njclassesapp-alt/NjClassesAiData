@@ -1328,3 +1328,136 @@ var Std9_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "મરજીવિયા (કાવ્ય)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘મરજીવિયા’ કાવ્યના કવિનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘મરજીવિયા’ કાવ્યના કવિનું નામ પૂજાલાલ રણછોડદાસ દલવાડી (પૂજાલાલ) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મરજીવિયા હંમેશા ભગવાનની ‘પૂજા’ કરે એમ યાદ રાખો - પૂજાલાલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘મરજીવિયા’ કાવ્યનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘મરજીવિયા’ કાવ્યનો સાહિત્ય પ્રકાર ‘સોનેટ’ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘મરજીવિયા’ 14 અક્ષર જેવું મોટું નામ નથી પણ સોનેટ 14 પંક્તિનું હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "મરજીવિયાના હૃદયમાં શું ભરેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મરજીવિયાના હૃદયમાં અદમ્ય ઉત્સાહ અને હિંમત ભરેલા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મરજીવિયા = મનથી જીવનારા (હિંમતવાન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મરજીવિયા દરિયા તરફ કેવી રીતે દોડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મરજીવિયા દરિયા તરફ અત્યંત વેગથી અને ઉત્સાહથી હર્ષનાદ કરતા દોડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘વેગ’ અને ‘હર્ષ’ – આ બે શબ્દો યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મરજીવિયાને વારવા માટે કોણ આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મરજીવિયાને વારવા (રોકવા) માટે તેમના પ્રિયજનો અને સ્નેહીજનો આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘વારવું’ એટલે રોકવું અને રોકે કોણ? જે પ્રેમ કરતું હોય તે (પ્રિયજનો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સમુદ્રનું વર્ણન કવિએ કયા શબ્દોમાં કર્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિએ સમુદ્રને ‘અફાટ’, ‘વિકરાળ’, ‘ઘુઘવતો’ અને ‘ગહન’ કહ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમુદ્રના 3 ‘ગ’ યાદ રાખો: ગહન, ગરજતો (ઘુઘવતો), અને ગજબનો વિકરાળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "મરજીવિયા સમુદ્રના તળિયેથી શું લઈને બહાર આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મરજીવિયા સમુદ્રના તળિયેથી ‘મણિ-મોતી’નો અખૂટ ખજાનો લઈને બહાર આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મરજીવિયા = મ (મણિ) + મો (મોતી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "મરજીવિયા એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જે જીવના જોખમે સમુદ્રમાં ડૂબકી લગાવી મોતી કાઢી લાવે તેને ‘મરજીવિયા’ કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મર + જીવ = જે મરવા માટે પણ તૈયાર હોય (હિંમતવાન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કવિ પૂજાલાલનું જન્મસ્થળ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ પૂજાલાલનું જન્મસ્થળ આણંદ જિલ્લાનું નાપા ગામ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પૂજાલાલના ‘પ’ પરથી ‘નાપા’ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પ્રિયજનો મરજીવિયાને કેવી શિખામણ આપે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પ્રિયજનો મરજીવિયાને શિખામણ આપે છે કે આ ‘વિનાશક આંધળી સાહસિકતા’ છોડી દો અને અકાળે મૃત્યુને ન વરો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શિખામણ = ‘આંધળું સાહસ’ ન કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "મરજીવિયા માટે કયા છંદનો પ્રયોગ થયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ સોનેટ ‘પૃથ્વી’ છંદમાં રચાયેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મરજીવિયા પૃથ્વી (જમીન) છોડીને પાણીમાં જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "‘મરજીવિયા’ કાવ્યમાં કયો મુખ્ય ભાવ વ્યક્ત થયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યમાં દ્રઢ નિશ્ચય, સાહસ અને પુરુષાર્થનો ભાવ વ્યક્ત થયો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાહસ વિના સિદ્ધિ નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સમુદ્રના તળિયે કેવું વાતાવરણ હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સમુદ્રના તળિયે અંધકારમય (તમસ) અને અકળ વાતાવરણ હતું, જ્યાં મૃત્યુના જડબાં સમાન ગુફાઓ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તળિયે = તમસ (અંધકાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "મરજીવિયા કેવી રીતે સમુદ્રમાં ખાબક્યા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મરજીવિયા જરા પણ ડર્યા વગર ‘કૂદ્યા અગાધ જળમાં’ - એટલે કે અત્યંત ઊંડા પાણીમાં સાહસપૂર્વક કૂદી પડ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ડર્યા વગર કૂદવું એ જ સાચું સાહસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કાવ્યમાં ‘અગમ’ શબ્દનો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘અગમ’ એટલે જ્યાં પહોંચવું મુશ્કેલ હોય અથવા જે જાણી ન શકાય તેવું ‘અપાર’.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અગમ = અગમ્ય (ન સમજાય તેવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મરજીવિયાએ કમર શા માટે કસી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મરજીવિયાએ સમુદ્રના તળિયેથી મોતી લાવવાના દ્રઢ નિશ્ચય સાથે સાહસ કરવા માટે ‘કમર કસી’.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કમર કસવી = દ્રઢ નિશ્ચય કરવો (રૂઢિપ્રયોગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "‘મહારવ’ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘મહારવ’ એટલે મોટો અવાજ અથવા સમુદ્રનો ગર્જના કરતો અવાજ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મહા + રવ = મોટો + અવાજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "મરજીવિયા કાવ્યમાં કયા પર્વતનો ઉલ્લેખ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મરજીવિયા કાવ્યમાં સમુદ્રના મોજાં માટે ‘ગિરિ’ (પર્વત) જેવા ઊંચા મોજાંનો ઉલ્લેખ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોજાં પર્વત જેવા ઊંચા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મરજીવિયા પાછા ફર્યા ત્યારે તેમની પાસે શું હતું? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મરજીવિયા જ્યારે સમુદ્રના પેટાળમાંથી પાછા ફર્યા, ત્યારે તેમની પાસે ‘મણિ-મોતીનો અખૂટ ખજાનો’ હતો. તેઓ જે અસાધારણ સાહસ ખેડીને ગયા હતા, તેમાં સફળ થયા અને મોંઘા મોતીઓ હસ્તગત કરીને વિજયી બનીને બહાર આવ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સફળતાનું ફળ = અખૂટ મોતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "મરજીવિયાના સાહસને કવિ ‘આંધળું સાહસ’ શા માટે કહે છે? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મરજીવિયાના સાહસને ‘આંધળું સાહસ’ પ્રિયજનો કહે છે કારણ કે તેમાં જીવનું ભારે જોખમ હતું. સમુદ્ર અફાટ હતો, તેના મોજાં ભયાનક હતા અને તેના તળિયે અંધકાર અને મૃત્યુની ગુફાઓ જેવી સ્થિતિ હતી. વગર વિચાર્યે મૃત્યુને ભેટવું એ દુન્યવી દ્રષ્ટિએ આંધળું સાહસ લાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જીવનું જોખમ = આંધળું સાહસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "મરજીવિયા સોનેટનો મધ્યવર્તી વિચાર સ્પષ્ટ કરો. (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યનો મધ્યવર્તી વિચાર એ છે કે જે વ્યક્તિ જીવનમાં મુશ્કેલીઓથી ડર્યા વગર, અડગ નિશ્ચય સાથે સાહસ ખેડે છે, તેને જ જીવનમાં ‘મણિ-મોતી’ જેવી કિંમતી સફળતા પ્રાપ્ત થાય છે. ડરપોક લોકો કિનારે બેસી રહે છે, પણ સાહસિકો જ ખજાનો મેળવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાહસિક = સફળતા, ડરપોક = નિષ્ફળતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "મરજીવિયાની ચાલ અને આંખોમાં શું દેખાતું હતું? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મરજીવિયાની ચાલમાં ‘ગર્વ’ હતો અને તેમની આંખોમાં ‘તેજ’ ઝળકતું હતું. તેમનામાં ક્યાંય પણ ડર કે ગભરાટ નહોતો, પરંતુ કંઈક મેળવી લાવવાની દ્રઢતા અને આત્મવિશ્વાસ છલકાતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આંખમાં તેજ + ચાલમાં ગર્વ = મરજીવિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સમુદ્રના જળમાં મરજીવિયાએ કેવી સ્થિતિનો સામનો કર્યો? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સમુદ્રના જળમાં મરજીવિયાએ અગાધ ઊંડાણ, ઘોર અંધકાર અને વિકરાળ મોજાંનો સામનો કર્યો. કવિ કહે છે કે ત્યાં મૃત્યુની ગુફાઓ (તળિયે) હતી, છતાં મરજીવિયાએ ડર્યા વગર આ ભયાનક સ્થિતિને પાર કરી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અંધકાર + મૃત્યુની ગુફા = સમુદ્રનું તળિયું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "નીચેની પંક્તિનો ભાવાર્થ સમજાવો: ‘ગયા ગરજતા અફાટ વિકરાળ રત્નાકરે...’ (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પંક્તિનો અર્થ છે કે મરજીવિયાઓ ગર્જના કરતા, અત્યંત વિશાળ અને ભયાનક એવા સમુદ્રમાં (રત્નાકર) પ્રવેશ્યા. સમુદ્ર અશાંત અને ડરામણો હતો છતાં મરજીવિયાનો ઉત્સાહ ઓછો થયો નહિ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રત્નાકર = રત્નોની ખાણ (સમુદ્ર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "મરજીવિયાના પ્રિયજનો શા માટે રડવા લાગ્યા? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પ્રિયજનો મરજીવિયાના જીવની ચિંતામાં રડવા લાગ્યા. તેમને લાગતું હતું કે મરજીવિયા વિના કારણે મૃત્યુને આમંત્રણ આપી રહ્યા છે. સમુદ્રનું તોફાન અને ઊંડાણ જોતા તેમને ડર હતો કે મરજીવિયા ક્યારેય પાછા નહિ ફરે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચિંતા + પ્રેમ = રુદન (રડવું).</p></div>"
+    }
+  ]
+}
