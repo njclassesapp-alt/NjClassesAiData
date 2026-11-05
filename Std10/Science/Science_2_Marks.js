@@ -61,7 +61,7 @@ var Std10_Science_2Marks = {
       "questionNumber": "પ્રશ્ન 10",
       "marks": 2,
       "question": "સૂર્યપ્રકાશમાં સિલ્વર ક્લોરાઈડનું વિઘટન સમજાવો.",
-      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>સફેદ રંગના સિલ્વર ક્લોરાઈડ (AgCl) ને સૂર્યપ્રકાશમાં રાખતા તેનું પ્રકાશીય વિઘટન થાય છે.</li><li>આ પ્રક્રિયામાં સિલ્વર (Ag) ધાતુ અને ક્લોરિન વાયુ (Cl₂) છૂટા પડે છે, જેના કારણે તેનો રંગ રાખોડી (Grey) થઈ જાય છે.</li><li><b>સમીકરણ:</b> 2AgCl(s) <span style='font-size:20px;'>$\xrightarrow{sunlight}$</span> 2Ag(s) + Cl₂(g)</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તડકામાં AgCl પોતાનો રંગ બદલી નાખે છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Top Priority</p></div>"
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>સફેદ રંગના સિલ્વર ક્લોરાઈડ (AgCl) ને સૂર્યપ્રકાશમાં રાખતા તેનું પ્રકાશીય વિઘટન થાય છે.</li><li>આ પ્રક્રિયામાં સિલ્વર (Ag) ધાતુ અને ક્લોરિન વાયુ (Cl₂) છૂટા પડે છે, જેના કારણે તેનો રંગ રાખોડી (Grey) થઈ જાય છે.</li><li><b>સમીકરણ:</b> 2AgCl(s) <span style='font-size:20px;'>$\\xrightarrow{sunlight}$</span> 2Ag(s) + Cl₂(g)</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તડકામાં AgCl પોતાનો રંગ બદલી નાખે છે.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NJ Classes Top Priority</p></div>"
     },
     {
       "questionNumber": "પ્રશ્ન 11",
@@ -91,7 +91,7 @@ var Std10_Science_2Marks = {
       "questionNumber": "પ્રશ્ન 15",
       "marks": 2,
       "question": "લેડ નાઈટ્રેટ પાવડરને ગરમ કરતા શું અવલોકન જોવા મળે છે? સમીકરણ આપો.",
-      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>લેડ નાઈટ્રેટ [Pb(NO₃)₂] ને ગરમ કરતા કથ્થઈ (Brown) રંગનો ધુમાડો નીકળે છે.</li><li>આ કથ્થઈ ધુમાડો <b>નાઈટ્રોજન ડાયોક્સાઈડ (NO₂)</b> વાયુનો હોય છે.</li><li><b>સમીકરણ:</b> 2Pb(NO₃)₂(s) <span style='font-size:20px;'>$\xrightarrow{\Delta}$</span> 2PbO(s) + 4NO₂(g) + O₂(g)</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કથ્થઈ ધુમાડો = NO₂ વાયુની નિશાની.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook Observation</p></div>"
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><ul><li>લેડ નાઈટ્રેટ [Pb(NO₃)₂] ને ગરમ કરતા કથ્થઈ (Brown) રંગનો ધુમાડો નીકળે છે.</li><li>આ કથ્થઈ ધુમાડો <b>નાઈટ્રોજન ડાયોક્સાઈડ (NO₂)</b> વાયુનો હોય છે.</li><li><b>સમીકરણ:</b> 2Pb(NO₃)₂(s) <span style='font-size:20px;'>$\\xrightarrow{\\Delta}$</span> 2PbO(s) + 4NO₂(g) + O₂(g)</li></ul><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કથ્થઈ ધુમાડો = NO₂ વાયુની નિશાની.</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> NCERT Textbook Observation</p></div>"
     }
   ]
 }
@@ -401,7 +401,7 @@ var Std10_Science_2Marks = {
       "questionNumber": "પ્રશ્ન 2",
       "marks": 2,
       "question": "પ્રકાશસંશ્લેષણની વ્યાખ્યા આપી તેનું સમીકરણ લખો. (March 2022)",
-      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>વ્યાખ્યા:</strong> ક્લોરોફિલ ધરાવતા સજીવો (લીલી વનસ્પતિ) સૂર્યપ્રકાશની હાજરીમાં CO₂ અને પાણીનો ઉપયોગ કરી પોતાનો ખોરાક (કાર્બોદિત) બનાવે તે પ્રક્રિયાને પ્રકાશસંશ્લેષણ કહે છે.</p><p><strong>સમીકરણ:</strong></p><p style='text-align:center; background:#fff; padding:10px; border-radius:5px;'>6CO₂ + 12H₂O <span style='color:orange;'>$\xrightarrow{સૂર્યપ્રકાશ, ક્લોરોફિલ}$</span> C₆H₁₂O₆ + 6O₂ + 6H₂O</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખવાની રીત: 6-12-6 (CO2-H2O-O2) અને વચ્ચે ગ્લુકોઝ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board 2022</p></div>"
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p><strong>વ્યાખ્યા:</strong> ક્લોરોફિલ ધરાવતા સજીવો (લીલી વનસ્પતિ) સૂર્યપ્રકાશની હાજરીમાં CO₂ અને પાણીનો ઉપયોગ કરી પોતાનો ખોરાક (કાર્બોદિત) બનાવે તે પ્રક્રિયાને પ્રકાશસંશ્લેષણ કહે છે.</p><p><strong>સમીકરણ:</strong></p><p style='text-align:center; background:#fff; padding:10px; border-radius:5px;'>6CO₂ + 12H₂O <span style='color:orange;'>$\\xrightarrow{સૂર્યપ્રકાશ, ક્લોરોફિલ}$</span> C₆H₁₂O₆ + 6O₂ + 6H₂O</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 યાદ રાખવાની રીત: 6-12-6 (CO2-H2O-O2) અને વચ્ચે ગ્લુકોઝ!</p><p style='color:#64748b; font-size:14px;'><strong>Reference:</strong> GSEB Board 2022</p></div>"
     },
     {
       "questionNumber": "પ્રશ્ન 3",
