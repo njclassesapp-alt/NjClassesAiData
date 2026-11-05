@@ -1062,3 +1062,136 @@ var Std9_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "પુત્રવધૂનું સ્વાગત (કાવ્ય)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘પુત્રવધૂનું સ્વાગત’ કાવ્યના કવિનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘પુત્રવધૂનું સ્વાગત’ કાવ્યના કવિ મકરંદ દવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પુત્રવધૂના સ્વાગતમાં ‘મકરંદ’ (મધ) જેવી મીઠાશ હોય છે – એટલે મકરંદ દવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘પુત્રવધૂનું સ્વાગત’ કાવ્યનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યનો સાહિત્ય પ્રકાર ‘ગીત’ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્વાગતમાં હંમેશા ‘ગીત’ ગવાય – એટલે ગીત કાવ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કવિએ પુત્રવધૂને કોના જેવી કહી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિએ પુત્રવધૂને ‘સાક્ષાત્ લક્ષ્મી’ (લખમી) જેવી કહી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પુત્રવધૂ એટલે ઘરની ‘લક્ષ્મી’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પુત્રવધૂના આવવાથી ઘરમાં કેટલા દીવા થયા હોય તેવો અનુભવ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પુત્રવધૂના આવવાથી ઘરમાં ‘સો સો’ દીવા થયા હોય તેવો અનુભવ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વહુના પગલે ‘સો-સો’ગણો પ્રકાશ ફેલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પુત્રવધૂની આંગળીઓ કેવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પુત્રવધૂની આંગળીઓ ‘ચંદન’ જેવી શીતળ અને સુગંધિત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્પર્શ એવો કે જાણે ‘ચંદન’ ટપકતું હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પુત્રવધૂ કેટલા કુળને ઉજાળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પુત્રવધૂ પિયર અને સાસરી એમ ‘બે-બે’ કુળને ઉજાળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્ત્રી હંમેશા ‘બે’ પક્ષ (કુળ) સાચવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કવિ પુત્રવધૂને ઘરની શું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ પુત્રવધૂને ઘરની ‘છત્ર’ અને ‘છાંયડી’ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): છત્ર (રક્ષણ) + છાંયડી (શાંતિ) = પુત્રવધૂ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પુત્રવધૂના વેણ કેવા લાગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પુત્રવધૂના વેણ વ્હાલપથી નિતરતા અને ટિડવાછત (શાંત) જેવા લાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વેણ માં ‘વ્હાલપ’ હોય એ જ આદર્શ વહુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મકરંદ દવેનું જન્મસ્થળ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મકરંદ દવેનો જન્મ રાજકોટ જિલ્લાના ‘ગોંડલ’ ગામમાં થયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મકરંદભાઈ ‘ગોંડલ’ના ગરાસિયા જેવી કવિતા લખતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પુત્રવધૂના હાસ્યને કવિ કોની સાથે સરખાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પુત્રવધૂના હાસ્યને કવિ ‘ઝરતા મોતી’ સાથે સરખાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હસવું એવું કે જાણે ‘મોતી’ ઝરતા હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કાવ્યમાં ‘ઉત્સવ’ (ઉચ્છબ) ક્યારે અનુભવાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જ્યારે પુત્રવધૂના પગલાં ઘરમાં પડે છે, ત્યારે ઘરમાં ‘ઉત્સવ’ અનુભવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લક્ષ્મી પધારે ત્યારે જ દિવાળી (ઉત્સવ) આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પુત્રવધૂના સ્પર્શની કેવી અસર થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પુત્રવધૂના સ્પર્શથી જે ભીંતો સૂની હતી, ત્યાં ‘શણગાર’ (સુગંધ) રેલાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્પર્શ થી ‘ભીંતો’ પણ બોલી ઉઠે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પુત્રવધૂને ‘ઘરનું આકાશ’ કેમ કહેવામાં આવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પુત્રવધૂ ઘરની છત સમાન વડીલોનું માન જાળવે છે અને આકાશની જેમ વિશાળ હૃદય રાખીને સૌને સાચવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આકાશ એટલે ‘વિશાળતા’ – જે પુત્રવધૂમાં છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પુત્રવધૂના આગમનથી કવિ કયા ફેરફાર જુએ છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પુત્રવધૂના આગમનથી ઘરમાં ઉત્સવ જેવું વાતાવરણ સર્જાય છે. કવિને લાગે છે કે ઘરમાં સાક્ષાત્ લક્ષ્મી પધાર્યા છે. જે ભીંતો અગાઉ સૂની હતી, ત્યાં હવે વહુના સ્પર્શથી સુગંધ ફેલાઈ છે અને આખું ઘર સો-સો દીવાઓના પ્રકાશથી ઝળહળી ઊઠ્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લક્ષ્મી + પ્રકાશ + સુગંધ = નવું ઘર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "‘ઘરનું છત્ર’ અને ‘ઘરની છાંયડી’ પંક્તિ સમજાવો. (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘ઘરનું છત્ર’ એટલે પુત્રવધૂ ઘરની આબરૂની રક્ષક છે. જેમ છત્ર તડકા-વરસાદથી બચાવે તેમ તે મુશ્કેલીમાં પરિવારને ઢાલ બને છે. ‘ઘરની છાંયડી’ એટલે તે આખા ઘરમાં પોતાની શીતળતા અને શાંતિથી સુખનો અનુભવ કરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): છત્ર = રક્ષણ, છાંયડી = શાંતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કવિએ પુત્રવધૂને ‘પૂર્વજ’ કે ‘કુલદીપક’ ને બદલે ‘લક્ષ્મી’ કેમ કહી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પુત્રવધૂના આવવાથી ઘરમાં સમૃદ્ધિ, પ્રેમ અને મંગલમય વાતાવરણ સર્જાય છે. તે માત્ર એક વ્યક્તિ નથી, પણ આખા ઘરનું સૌભાગ્ય છે, તેથી તેને ‘લક્ષ્મી’ કહી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વહુ ના પગલાં એટલે લક્ષ્મીની કૃપા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "‘બે-બે કુળને ઉજાળતી’ એટલે શું? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘બે-બે કુળ’ એટલે પિયર (જ્યાં તેનો જન્મ થયો) અને સાસરી (જ્યાં તે પરણીને આવી). પુત્રવધૂ પોતાના સંસ્કાર અને સદ્દગુણો દ્વારા બંને પક્ષની પ્રતિષ્ઠા વધારે છે, તેથી તેને બે-બે કુળને ઉજાળનારી કહી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પિયર + સાસરી = બે કુળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "મકરંદ દવેને કયો પુરસ્કાર મળ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મકરંદ દવેને ‘રણજિતરામ સુવર્ણચંદ્રક’ એનાયત કરવામાં આવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુજરાતી સાહિત્યનો ટોચનો ‘રણજિતરામ’ મકરંદ દવેને મળ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "‘ટોડલિયે બેઠાં પંખી’ જેવી ઉપમા કોને આપવામાં આવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પુત્રવધૂના મીઠા બોલ અને તેની હાજરીને ટોડલિયે બેઠેલાં પંખીની ટિડવાછત (શાંત ટહુકા) સાથે સરખાવવામાં આવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પંખીના ટહુકા જેવી મીઠી વાણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ભીંતોમાં સુગંધ ફેલાવવાનો અર્થ શો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભીંતોમાં સુગંધ ફેલાવવી એટલે પુત્રવધૂના આગમનથી ઘરના જડ અને નિર્જીવ વાતાવરણમાં પણ સ્નેહ અને સંસ્કારની મહેક પ્રસરી જવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વહુના પગલે ઘર ‘મહેકી’ ઊઠે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "કાવ્યની પ્રથમ પંક્તિ ‘આજ લક્ષ્મી આવ્યા મારે આંગણે’ માં કવિનો ભાવ કેવો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પંક્તિમાં કવિનો પુત્રવધૂ પ્રત્યેનો આદર, ગૌરવ અને અત્યંત આનંદનો ભાવ પ્રગટ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પહેલી પંક્તિ = પૂરો આનંદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "‘જીવતરની હૂંફ’ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જીવતરની હૂંફ એટલે જીવનના સુખ-દુઃખમાં પરિવારને મળતો માનસિક ટેકો અને પ્રેમ, જે પુત્રવધૂ લાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હૂંફ એટલે વહાલાપણું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "કવિ પુત્રવધૂને ‘અગાશીનું આકાશ’ કેમ કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અગાશી જેમ ઘરનું સૌથી ઊંચું અને ખુલ્લું સ્થાન છે, તેમ પુત્રવધૂ પણ ઘરની મર્યાદા જાળવીને સૌને મોકળાશ (આઝાદી અને પ્રેમ) આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અગાશી = ખુલ્લું મન (મોકળાશ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સમાનાર્થી શબ્દ આપો: ‘આંગણું’ અને ‘વેણ’.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આંગણું – ફળિયું, વેણ – વચન/બોલ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આંગણે પગલાં પડે અને વેણ મીઠાં હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "પુત્રવધૂના આવવાથી કવિને દિવાળી જેવો અનુભવ કેમ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દિવાળીમાં જેમ દીવા અને લક્ષ્મીપૂજનથી આનંદ છવાય છે, તેમ પુત્રવધૂના આવવાથી ઘર પ્રકાશિત અને મંગલમય બની જાય છે, તેથી કવિને દિવાળી જેવો અનુભવ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પુત્રવધૂ = ઘરની દિવાળી.</p></div>"
+    }
+  ]
+}
