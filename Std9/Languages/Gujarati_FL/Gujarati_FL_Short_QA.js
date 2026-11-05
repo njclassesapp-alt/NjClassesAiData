@@ -1461,3 +1461,136 @@ var Std9_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "સખી! માર્કંડી (પાઠ)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘સખી! માર્કંડી’ પાઠના લેખકનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘સખી! માર્કંડી’ પાઠના લેખક કાકાસાહેબ કાલેલકર (દત્તાત્રેય બાલકૃષ્ણ કાલેલકર) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'કાકા' હંમેશા 'સખી' માર્કંડીની વાતો કરે છે - કાકાસાહેબ કાલેલકર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘સખી! માર્કંડી’ કૃતિનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કૃતિનો સાહિત્ય પ્રકાર ‘લલિત નિબંધ’ (પ્રવાસ નિબંધ) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નદી સાથેનો પ્રવાસ એટલે લલિત નિબંધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "‘સખી! માર્કંડી’ પાઠ કયા પુસ્તકમાંથી લેવામાં આવ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠ કાકાસાહેબ કાલેલકરના ‘લોકમાતા’ પુસ્તકમાંથી લેવામાં આવ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નદી એ જ 'લોકમાતા' - પુસ્તકનું નામ યાદ રાખવું સરળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "લેખક માર્કંડીને શું માને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક માર્કંડીને પોતાની નાનપણની ‘સખી’ (મિત્ર) માને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શીર્ષકમાં જ જવાબ છે - 'સખી'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "માર્કંડી નદી કયા પહાડમાંથી નીકળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> માર્કંડી નદી પશ્ચિમ ઘાટના ‘વેજૈનાથ’ (વૈજનાથ) ના ડુંગરમાંથી નીકળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માર્કંડી = વૈજનાથ (MV - માર્કેટિંગ વેલ્યુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "માર્કંડી ઋષિના પિતાનું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> માર્કંડી ઋષિના પિતાનું નામ ‘મૃકંડુ’ ઋષિ હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માર્કંડેય પરથી મૃકંડુ યાદ રાખવું (મ-મ કનેક્શન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "મૃકંડુ ઋષિએ સંતાનપ્રાપ્તિ માટે કોની તપસ્યા કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મૃકંડુ ઋષિએ સંતાનપ્રાપ્તિ માટે ભગવાન શિવ (મહાદેવ)ની તપસ્યા કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શિવાલય અને લિંગની પૂજા = મહાદેવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "મહાદેવે મૃકંડુ ઋષિને કયા બે વિકલ્પો આપ્યા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મહાદેવે બે વિકલ્પો આપ્યા: ૧) ૧૬ વર્ષ જીવનાર સદ્ગુણી બાળક અથવા ૨) ૧૦૦ વર્ષ જીવનાર મૂઢ (જડ) બાળક.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 16 (ગુણી) vs 100 (મૂઢ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મૃકંડુ ઋષિ અને તેમના પત્નીએ કયો વિકલ્પ પસંદ કર્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મૃકંડુ ઋષિ અને તેમના પત્નીએ ૧૬ વર્ષ જીવનાર ‘સદ્ગુણી’ બાળકનો વિકલ્પ પસંદ કર્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુણ જ હંમેશા ઉત્તમ ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "યમરાજ માર્કંડેયને લેવા આવ્યા ત્યારે તે શું કરતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> યમરાજ આવ્યા ત્યારે માર્કંડેય શિવાલયમાં બેસીને શિવલિંગની પૂજા કરતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પૂજામાં લીન = ભક્તિની શક્તિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "માર્કંડેયને બચાવવા માટે શિવલિંગમાંથી કોણ પ્રગટ થયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> માર્કંડેયને બચાવવા માટે શિવલિંગ ફાટ્યું અને તેમાંથી ત્રિશૂળધારી ‘શિવજી’ (મહાદેવ) પ્રગટ થયા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લિંગમાંથી શિવનું પ્રાગટ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "મહાદેવે યમરાજને શું કહ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મહાદેવે યમરાજને ધમકાવ્યા અને કહ્યું કે મારા ભક્તને અડવાની હિંમત કેમ કરી?</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મહાદેવની ધમકીથી કાળ (યમ) પણ ડરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "માર્કંડી લેખકને શું આપે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> માર્કંડી લેખકને અમૃત જેવું મીઠું પાણી અને શીતળ પવન આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નદીનું દાન = મીઠું પાણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "લેખક અને માર્કંડી વચ્ચે કઈ ભાષામાં સંવાદ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક અને માર્કંડી વચ્ચે મૌન અને પ્રેમની ભાષામાં સંવાદ થાય છે, જેમાં લેખક તેની સાથે જૂની વાતો કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાચો પ્રેમ શબ્દોનો મોહતાજ નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "નદીને ‘લોકમાતા’ કોણે કહી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નદીને ‘લોકમાતા’ કાકાસાહેબ કાલેલકરે કહી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'લોકમાતા' કાકાનું પ્રિય સંબોધન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "લેખક માર્કંડીને ‘લોકમાતા’ કેમ નથી કહેતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક માર્કંડીને લોકમાતા નથી કહેતા કારણ કે તે લેખકની નાનપણની ‘સખી’ છે અને તેની સાથે લેખકનું અંગત નાતું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માતા કરતાં સખીનું અંતર નજીક હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "માર્કંડેયની આયુષ્ય કેટલી થઈ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મહાદેવના આશીર્વાદથી માર્કંડેય ‘મૃત્યુંજય’ થયા અને તે ચિરંજીવી (અમર) બન્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મૃત્યુ પર વિજય એટલે મૃત્યુંજય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "લેખક માર્કંડીના કાંઠે શું કરતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક માર્કંડીના કાંઠે કલાકો સુધી બેસતા, ગીતો ગાતા અને તેની સાથે વાતો કરતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સખી સાથે તો વાતો જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સમાનાર્થી શબ્દ આપો: ૧. સખી, ૨. અરણ્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ૧. સખી - બહેનપણી/મિત્ર, ૨. અરણ્ય - જંગલ/વન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અરણ્યમાં રણ નથી હોતું, જંગલ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિરોધી શબ્દ આપો: ૧. અમૃત, ૨. સગુણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ૧. અમૃત × ઝેર/વિષ, ૨. સગુણ × દુર્ગુણ/નિર્ગુણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અ-ઝે (અમૃત-ઝેર) જોડકું યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "‘સખી! માર્કંડી’ માં કઈ ઋતુનું વર્ણન છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠમાં મુખ્યત્વે શરદ ઋતુની ચાંદની અને વસંત ઋતુના વાતાવરણનો આભાસ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નદીના કાંઠે ચાંદની અને ખળખળ વહેતું પાણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "યમરાજ પોતાનું કયું શસ્ત્ર ફેંકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> યમરાજ માર્કંડેયના ગળામાં પોતાનો ‘પાસ’ (દોરડું/ફાંસો) ફેંકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યમનો પાસ = પ્રાણ લેવાનો ફાંસો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "લેખક નદીના પાણીમાં પગ બોળીને બેસે ત્યારે તેમને શું અનુભવાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક જ્યારે પાણીમાં પગ બોળે છે ત્યારે તેમને ખૂબ શાંતિ મળે છે અને માર્કંડી જાણે તેમની સાથે વાતો કરતી હોય તેવું લાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્પર્શ એ જ સંવાદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "કાકાસાહેબ કાલેલકર કયા નામે જાણીતા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાકાસાહેબ કાલેલકર ‘સવાઈ ગુજરાતી’ તરીકે જાણીતા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગાંધીજીએ આપેલું બિરુદ - 'સવાઈ ગુજરાતી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "‘માર્કંડી’ નામ કેવી રીતે પડ્યું હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> માર્કંડેય ઋષિના નામ પરથી આ નદીનું નામ ‘માર્કંડી’ પડ્યું હશે તેવી લોકવાયકા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઋષિનું નામ = નદીનું નામ.</p></div>"
+    }
+  ]
+}
