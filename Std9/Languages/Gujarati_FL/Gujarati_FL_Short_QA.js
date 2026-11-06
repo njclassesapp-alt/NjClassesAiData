@@ -1727,3 +1727,136 @@ var Std9_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "વાડી પરનાં વહાલાં (પાઠ)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘વાડી પરનાં વહાલાં’ પાઠના લેખકનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘વાડી પરનાં વહાલાં’ પાઠના લેખકનું નામ ઈસ્માઈલભાઈ નાગોરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) વાડીમાં ‘ઈસ્માઈલ’ (સ્મિત) સાથે ‘નાગોરી’ ચા પીવાની મજા આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘વાડી પરનાં વહાલાં’ કૃતિનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કૃતિનો સાહિત્ય પ્રકાર ‘લલિત નિબંધ’ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) વાડીનું વર્ણન ‘લલિત’ (સુંદર) ‘નિબંધ’ જેવું હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ઈસ્માઈલભાઈ નાગોરીનું વતન કયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઈસ્માઈલભાઈ નાગોરીનું વતન રાજકોટ જિલ્લાનું વાંકાનેર હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) વાડીમાં જવા માટે ‘વાંકા’ ચૂકા રસ્તે ‘વાંકાનેર’ જવું પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વાડીની દુનિયામાં કયા કયા જીવજંતુઓનો સમાવેશ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વાડીની દુનિયામાં વંદા, વીંછી, કાનખજૂરા, ગરોળી, ગોકળગાય, ભમરા અને અનેક પ્રકારના મંકોડા-કીડીઓનો સમાવેશ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) વાડી = જીવજંતુઓનું મોટું ‘ફેમિલી ગેટ-ટુગેધર’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ચોમાસામાં વાડીમાં કયા અવાજો સાંભળવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ચોમાસામાં વાડીમાં દેડકાના ડ્રાઉં-ડ્રાઉં અને તમરાના તીણા અવાજો સાંભળવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ચોમાસું એટલે વાડીનું ‘નેચરલ મ્યુઝિક કોન્સર્ટ’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વાડીમાં રાત્રિના સમયે કયા પશુ-પક્ષીઓ જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વાડીમાં રાત્રિના સમયે વહુવારુ, શેળો, વણીયર, જબાદિયા અને ઘુવડ જેવા નિશાચર પ્રાણીઓ જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) રાત્રે વાડીમાં ‘નાઈટ શિફ્ટ’ વાળા પક્ષીઓ જાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "લેખકે વાડીને કોની ઉપમા આપી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખકે વાડીને એક ‘નાનકડા બ્રહ્માંડ’ અથવા ‘જીવતી-જાગતી પાઠશાળા’ જેવી ગણાવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) વાડી = નાનું બ્રહ્માંડ (સીમિત જગ્યામાં અસીમ જીવન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વાડીમાં લોકો ક્યારે ભેગા થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વાડીમાં લોકો હુતાશણી (હોળી) ના દિવસે, રજાઓના દિવસે અથવા ઉજાણી કરવા માટે ભેગા થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) તહેવાર + રજા = વાડીમાં મજા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વાડીના જલસામાં કઈ વાનગીઓનો સમાવેશ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વાડીના જલસામાં શેરડીના ગંડેરી, મકાઈના ડોડા, ઊંધિયું અને દેશી ભોજનનો સમાવેશ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ખેતરની તાજી ‘મકાઈ’ અને ‘ગંડેરી’ એટલે વાડીની લિજ્જત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "શેળો (શાહુડી) પોતાના બચાવ માટે શું કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શેળો પોતાના બચાવ માટે પોતાના શરીર પરના કાંટા ઉભા કરે છે અને દુશ્મન સામે પાછળના ભાગેથી હુમલો કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) શેળો એટલે ‘કાંટાવાળો બોડીગાર્ડ’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વાડીમાં કયા સાપ જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વાડીમાં ધામણ, નાગ અને બિનઝેરી સાપ જેવા કે આંધળી ચાકણ વગેરે જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) વાડીના રક્ષકોમાં ‘નાગ’ અને ‘ધામણ’ મુખ્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ઈસ્માઈલભાઈ નાગોરીએ કયા વિષયમાં સ્નાતકની પદવી મેળવી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઈસ્માઈલભાઈ નાગોરીએ ફ્રાન્સની યુનિવર્સિટીમાંથી ‘કૃષિ સ્નાતક’ (B.Sc. Agriculture) ની પદવી મેળવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ખેતી વિશે લખ્યું કારણ કે પોતે ‘ખેતીના નિષ્ણાત’ (કૃષિ સ્નાતક) હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વાડી પરના લોકોની ઉદારતા કેવી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વાડી પરના લોકો ઉદાર મનનાં હોય છે, તેઓ આવનાર મહેમાનને પ્રેમથી તાજું ફળ કે શાકભાજી આપે છે અને જમાડ્યા વગર જવા દેતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) વાડીનો માણસ = ખુલ્લું દિલ અને તાજું ભાણું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વાડીમાં ‘મંકોડા’ નું સામ્રાજ્ય ક્યાં હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વાડીમાં મોટા મંકોડા ખાસ કરીને આંબાના ઝાડ પર અથવા ભેજવાળી જગ્યાએ પોતાનું સામ્રાજ્ય જમાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) મંકોડા એટલે વાડીના ‘લાલ લશ્કરી સૈનિકો’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પાઠના આધારે ‘વહુવારુ’ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘વહુવારુ’ એ વાડીમાં જોવા મળતું એક નિશાચર પક્ષી છે, જે રાત્રે સક્રિય થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) નામ ‘વહુ’ જેવું પણ કામ રાત્રે ફરવાનું (પક્ષી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વાડીમાં કયા કયા પક્ષીઓનો કલરવ સંભળાય છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વાડીમાં સવાર પડતા જ પક્ષીઓનો મીઠો કલરવ શરૂ થાય છે. જેમાં હોલા, ચકલી, કાબર, તેતર, મોર, કપોત અને કોયલ જેવા પક્ષીઓનો સમાવેશ થાય છે. આ પક્ષીઓ વાડીના વાતાવરણને જીવંત અને મધુર બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) મોર-ચકલી-કાબર-હોલા, વાડીના કાયમી રહેવાસીઓ ભલા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વાડીમાં દિવસ અને રાત્રિના દ્રશ્યોમાં શો તફાવત હોય છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દિવસે વાડીમાં ખેડૂતોની ચહલપહલ, બળદોનો અવાજ અને પક્ષીઓનો કલરવ હોય છે. જ્યારે રાત્રે શાંતિ છવાઈ જાય છે પણ તમરાના અવાજો અને નિશાચર પ્રાણીઓ જેવા કે ઘુવડ, શેળો અને વણીયરની હિલચાલથી વાડીનું એક જુદું જ રહસ્યમય વિશ્વ પ્રગટ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) દિવસ = માનવ અવાજ, રાત = વન્ય પ્રાણીઓનો રાજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "લેખક વાડીને ‘બ્રહ્માંડ’ કેમ કહે છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક વાડીને બ્રહ્માંડ કહે છે કારણ કે વાડીમાં પશુ, પક્ષી, જીવજંતુ અને વનસ્પતિ એમ તમામ પ્રકારના સજીવો વસે છે. ત્યાં જન્મ, મરણ, ખોરાક માટેનો સંઘર્ષ અને સહઅસ્તિત્વના દ્રશ્યો સતત જોવા મળે છે, જે એક નાના વિશ્વ કે બ્રહ્માંડ જેવું જ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) વાડીમાં આખી સૃષ્ટિના દર્શન થાય એટલે એ ‘નાનું બ્રહ્માંડ’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વાડીમાં જીવજંતુઓનું જગત કેવું હોય છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વાડીમાં જીવજંતુઓનું જગત અત્યંત વૈવિધ્યસભર હોય છે. ત્યાં કીડીઓ અને મંકોડાના દરો હોય છે, પતંગિયા અને ભમરા ફૂલો પર ગુંજન કરે છે, તો કાનખજૂરા અને વીંછી પથ્થરો નીચે છુપાયેલા હોય છે. આ નાનકડા જીવો વાડીની જૈવવિવિધતાનો મુખ્ય ભાગ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) જીવજંતુઓ = વાડીના ‘ગ્રાઉન્ડ લેવલ’ ના સભ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વાડી પરના લોકોના ખોરાક અને આતિથ્ય વિશે જણાવો. (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વાડી પરના લોકો સાદું અને પૌષ્ટિક ભોજન જમે છે. તેઓ ઉજાણીમાં રીંગણાનો ઓળો, બાજરાનો રોટલો અને તાજી છાસ લે છે. તેમનું આતિથ્ય સત્કાર ખૂબ જ પ્રેમાળ હોય છે; આવનાર કોઈપણ વ્યક્તિને તેઓ હૃદયપૂર્વક આવકારે છે અને વાડીની પેદાશ જેવી કે શેરડી કે મકાઈ પ્રેમથી આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) વાડીનું ભોજન = કુદરતનો સ્વાદ + ખેડૂતનો પ્રેમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "‘વાડી પરનાં વહાલાં’ શીર્ષકની યથાર્થતા સમજાવો. (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પાઠમાં વાડીમાં રહેતા પશુ-પક્ષીઓ અને જીવજંતુઓ પ્રત્યે લેખકને ખૂબ જ આત્મીયતા છે. આ જીવો વાડીની શોભા વધારે છે અને પ્રકૃતિનું સંતુલન જાળવે છે. લેખક આ તમામ જીવોને વાડીના અંગત સભ્યો ગણે છે, તેથી ‘વાડી પરનાં વહાલાં’ શીર્ષક સર્વથા યોગ્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) વહાલાં = વાડીમાં વસતા તમામ જીવો (Family Members).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "તમરાંના અવાજનું વર્ણન લેખકે કેવી રીતે કર્યું છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક કહે છે કે ચોમાસાની રાત્રે તમરાંનો અવાજ વાડીમાં સતત ગુંજ્યા કરે છે. આ તીણો અવાજ ક્યારેક કાન ચીરી નાખે તેવો લાગે છે, તો ક્યારેક તે રાત્રિની શાંતિમાં એક લયબદ્ધ સંગીત જેવો ભાસે છે. તમરાંનો અવાજ વાડીના રાત્રિના અસ્તિત્વની ઓળખ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) તમરાં = વાડીના ‘નાઈટ વોચમેન’ જે સીટી વગાડ્યા કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વાડીમાં ચોમાસામાં કયા ફેરફારો થાય છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ચોમાસામાં વાડી હરિયાળીથી છવાઈ જાય છે. ધરતી પર લીલું ઘાસ ઊગી નીકળે છે. દેડકાં અને તમરાંના અવાજોથી વાડી ગુંજી ઉઠે છે. ખેડૂતો વાવણીના કામમાં વ્યસ્ત બની જાય છે અને પશુ-પક્ષીઓ માટે ખોરાકની વિપુલતા સર્જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ચોમાસું = વાડીનો ‘નવો જન્મ’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "પાઠમાં કયા નિશાચર પ્રાણીઓનો ઉલ્લેખ છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પાઠમાં વહુવારુ (એક પક્ષી), શેળો (શાહુડી), વણીયર, જબાદિયા અને ઘુવડ જેવા નિશાચર પ્રાણીઓનો ઉલ્લેખ છે. આ પ્રાણીઓ રાત્રે જ ખોરાકની શોધમાં નીકળે છે અને વાડીના રાત્રિજીવનને ધબકતું રાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) નિશાચર = રાત્રે જાગતા ‘વાડીના મુસાફરો’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વાડીનો પાઠ આપણને શું શીખવે છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠ આપણને પ્રકૃતિ સાથે પ્રેમથી જીવતા શીખવે છે. વાડીમાં રહેતા નાના-મોટા દરેક જીવનું મહત્વ છે. માનવીએ અહંકાર છોડીને કુદરતના આ અંશો સાથે સહઅસ્તિત્વ કેળવવું જોઈએ અને પર્યાવરણનું જતન કરવું જોઈએ તેવી શીખ મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) વાડીનો સંદેશ = ‘જીવો અને જીવવા દો’ (Live and Let Live).</p></div>"
+    }
+  ]
+}
