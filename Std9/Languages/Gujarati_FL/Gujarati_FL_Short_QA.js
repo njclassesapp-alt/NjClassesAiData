@@ -1594,3 +1594,136 @@ var Std9_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "રસ્તો કરી જવાના (કાવ્ય)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘રસ્તો કરી જવાના’ કાવ્યના કવિનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘રસ્તો કરી જવાના’ કાવ્યના કવિનું નામ અમૃત ‘ઘાયલ’ (અમૃતલાલ લાલજીભાઈ ભટ્ટ) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમૃત પીધા પછી કોઈ ‘ઘાયલ’ ન થાય, પણ તે મુશ્કેલીમાં ‘રસ્તો કરી જાય’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘રસ્તો કરી જવાના’ કૃતિનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘રસ્તો કરી જવાના’ કૃતિનો સાહિત્ય પ્રકાર ‘ગઝલ’ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ‘ઘાયલ’ કવિ ગઝલના ગઢવી ગણાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કવિ અમૃત ‘ઘાયલ’ નું આખું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ અમૃત ‘ઘાયલ’ નું આખું નામ અમૃતલાલ લાલજીભાઈ ભટ્ટ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ‘અ-લા-ભ’ (અમૃતલાલ લાલજીભાઈ ભટ્ટ) - કોઈ પણ લાભ વગર ગઝલ લખે તે ઘાયલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કવિ કઈ રીતે રસ્તો કરી જવાના એમ કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ કહે છે કે જો જીવનમાં મુશ્કેલીઓ આવશે અને કોઈ માર્ગ નહીં જડે, તો અમે અમારી કોઠાસૂઝ અને આત્મબળથી નવો ‘રસ્તો કરી જવાના’.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસ્તો ન મળે તો રસ્તો બનાવો (Be a Pathmaker, not just a Pathseeker).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "‘દુનિયાથી હારી જવાના’ – આ પંક્તિનો વિરોધી ભાવ કાવ્યમાં કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પંક્તિનો વિરોધી ભાવ ‘રસ્તો કરી જવાના’ છે, જે મનુષ્યની અડગ ખુમારી દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુનિયા હરાવે તે પહેલાં આપણે રસ્તો શોધી લેવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કવિના હૃદયમાં શું ભરેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિના હૃદયમાં અનેક વ્યથાઓ (દુઃખ) હોવા છતાં તેમાં ભવ્યતા અને સ્મિતના ‘ફૂલો’ ભરેલા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૃદયમાં વ્યથા હોય તોય મુખ પર ‘સ્મિતનું ફૂલ’ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કવિ દીપક ઓલવાઈ જાય ત્યારે શું કરવાનું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ કહે છે કે જો મુશ્કેલીરૂપી અંધકારમાં દીપક ઓલવાઈ જશે, તો અમે આકાશમાં ચમકતી વીજળીના પ્રકાશમાં પણ આગળ વધી જવાના.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દીપક ગયો તો ફિકર નહીં, વીજળીના ઝબકારે કામ પતાવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કવિ મૃત્યુ સામે કયો પડકાર ફેંકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ મૃત્યુને પડકારતા કહે છે કે ‘હે કાળ (મૃત્યુ)! તું અમને ડરાવીશ નહીં, અમે તો ખુદ ઈશ્વરના દરબારમાં જઈને ઊભા રહી જવાના.’</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૃત્યુથી ડરવાનું નહીં, સીધું ભગવાન પાસે જવાનું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કવિ પોતાને કેવા માણસો માનતા નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ કહે છે કે અમે એવા પામર (સામાન્ય) માણસો નથી કે જે માત્ર નસીબના ભરોસે બેસી રહે અથવા સંકટ આવતા કરમાઈ જાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નસીબના બહાના એટલે નબળાના નિશાના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "‘રસ્તો કરી જવાના’ ગઝલનો મુખ્ય સંદેશ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ ગઝલનો મુખ્ય સંદેશ અડગ આત્મવિશ્વાસ, ખુમારી અને કોઈપણ વિપરીત પરિસ્થિતિમાં હાર ન માનવાનો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આત્મવિશ્વાસ + પુરુષાર્થ = સફળતાનો રસ્તો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "‘કયા વિચારે મરી જવાના?’ પંક્તિમાં કયો ભાવ વ્યક્ત થયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અહીં નિરાશાવાદનો ત્યાગ અને હકારાત્મકતાનો ભાવ વ્યક્ત થયો છે. કવિ કહે છે કે અમે કઈ એમ હારીને મરી જવાના નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મરવાની વાત છોડો, રસ્તો શોધવાની વાત પકડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "‘ભર્યું છે હૈયું’ પંક્તિ દ્વારા કવિ શું સમજાવવા માંગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ કહે છે કે અમારું હૈયું ભલે વ્યથાઓથી ભરેલું હોય, પણ અમે એ વ્યથાને પણ સ્મિતમાં બદલીને દુનિયા સામે સ્મિત વેરવાના છીએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદર દુઃખ, બહાર સુખ - એ જ સાચું જીવનમુખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "‘સ્વયં પ્રકાશ’ નો સંદર્ભ કાવ્યમાં કઈ રીતે લેવાયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ કહે છે કે જો બાહ્ય સાધનો (દીપક) સાથ ન આપે, તો અમે અમારા આંતરિક તેજ અને વીજળીના ઝબકારા જેવા આત્મબળથી પ્રકાશ ફેલાવીશું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોતાનો પ્રકાશ પોતે જ બનો (અપ્પ દીપો ભવ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કવિ ઈશ્વરના દરબારમાં કઈ રીતે જશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ કોઈ ડર વગર, સીનાતાન ગજવીને, પૂરા આત્મવિશ્વાસ સાથે ઈશ્વરના દરબારમાં જશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભક્ત અને ભગવાન વચ્ચે ડર નહીં, પ્રેમ અને ખુમારી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ગઝલના છેલ્લા શેરમાં કવિની કઈ લાક્ષણિકતા દેખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> છેલ્લા શેરમાં કવિની અડગતા અને મક્કમતા દેખાય છે કે તેઓ દુનિયાના ગમે તેવા દુઃખોથી ડર્યા વગર પોતાનો માર્ગ કાઢી જ લેશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગઝલનો અંત હંમેશા ખુમારીમાં હોવો જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16 (બે ગુણ)",
+      "question": "‘રસ્તો કરી જવાના’ કાવ્યમાં કવિના આત્મવિશ્વાસનું વર્ણન કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ અમૃત ‘ઘાયલ’ અત્યંત આત્મવિશ્વાસથી ભરેલા છે. તેઓ કહે છે કે મુશ્કેલીઓ ભલે આવે, અમે તેનો સામનો કરીશું. જો રસ્તો બંધ જણાશે તો અમે નવો માર્ગ કંડારીશું. નસીબ પર આધાર રાખવાને બદલે તેઓ પુરુષાર્થમાં માને છે. દીપક ઓલવાય તો વીજળીના પ્રકાશે ચાલવાની હિંમત અને ઈશ્વરના દરબારમાં પણ નીડરતાથી જવાની તૈયારી તેમની અજોડ ખુમારી દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આત્મવિશ્વાસ એટલે ‘ગમે તેવી સ્થિતિમાં ગમતીલી સ્થિતિ’ બનાવવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17 (બે ગુણ)",
+      "question": "કવિ કઈ પરિસ્થિતિમાં પણ હાર માનવા તૈયાર નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ કહે છે કે દુનિયાના દુઃખો કે મુશ્કેલીઓ તેમને હરાવી શકશે નહીં. જ્યારે ચારે બાજુ અંધકાર હોય અને સહાયના કોઈ સાધન ન હોય, ત્યારે પણ તેઓ હાર માનશે નહીં. મરણ સામે આવે તો પણ તેઓ ડર્યા વગર ઈશ્વર પાસે જઈને ન્યાય માંગવાની હિંમત રાખે છે. તેઓ માને છે કે માનવીએ ક્યારેય સંજોગોને આધીન થઈ મરવું જોઈએ નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુશ્કેલી એ ‘રસ્તો’ બદલવાની તક છે, ‘લક્ષ્ય’ છોડવાનું બહાનું નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કાવ્યમાં ‘વીજળી’ શેનું પ્રતીક છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાવ્યમાં ‘વીજળી’ એ મુશ્કેલીના સમયમાં મળતા અચાનક આત્મસ્ફૂરણા કે આશાના કિરણનું પ્રતીક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંધકારમાં જે ઝબકે તે આશાની વીજળી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કવિ અમૃત ‘ઘાયલ’ ના કોઈપણ બે ગઝલસંગ્રહના નામ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> (1) રૂપ (2) રંગ (3) ઝલક (4) આયુધ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ‘રૂપ’ અને ‘રંગ’ ની ‘ઝલક’ જોઈને દુશ્મન ‘ઘાયલ’ થયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કવિના મતે કોણ રસ્તો કરી શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જે મનુષ્ય હિંમતવાન છે, જેનામાં ખુમારી છે અને જે નસીબના ભરોસે બેસી રહેવા માંગતો નથી, તે જ રસ્તો કરી શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિંમતે મર્દા તો મદદે ખુદા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "‘વિચારોના સમીપ’ કવિ કોને બેસાડવાનું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ કહે છે કે તેઓ વિચારોની એવી ઊંચાઈ પર છે જ્યાં ઈશ્વર (ખોદા) પણ તેમની નજીક આવીને બેસે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંચા વિચારો ઈશ્વરને પણ પાસે લાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "કાવ્યમાં વપરાયેલા ‘ખુદા’ શબ્દનો પર્યાય લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ખુદા એટલે ભગવાન, ઈશ્વર, પરમેશ્વર અથવા અલ્લાહ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ અનેક પણ ઈશ્વર એક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "‘રસ્તો કરી જવાના’ કાવ્યમાં કઈ ભાવના મુખ્ય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યમાં આશાવાદ અને હકારાત્મક દ્રષ્ટિકોણની ભાવના મુખ્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Always Be Positive (ABP).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "નીચેના શબ્દની જોડણી સુધારો: ‘વીજળી’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વીજળી (વી - દીર્ઘ, જ, ળી - દીર્ઘ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાશની ‘વીજળી’ હંમેશા દીર્ઘ (મોટી) હોય એટલે ‘વી’ અને ‘ળી’ દીર્ઘ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "આ કાવ્યનો મુખ્ય રસાસ્વાદ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યનો મુખ્ય રસાસ્વાદ મનુષ્યની અડગતા અને વિષમ પરિસ્થિતિમાં પણ ‘રસ્તો’ કાઢવાની મથામણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગમે તે થાય, ‘રસ્તો’ તો કરીને જ રહેવાનો!</p></div>"
+    }
+  ]
+}
