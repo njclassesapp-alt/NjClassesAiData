@@ -1860,3 +1860,136 @@ var Std9_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "તે બેસે અહીં (કાવ્ય)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘તે બેસે અહીં’ કાવ્યના કવિનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘તે બેસે અહીં’ કાવ્યના કવિ ‘સ્નેહરશ્મિ’ (ઝીણાભાઈ રતનજી દેસાઈ) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સ્નેહ' થી 'ઝીણવટ' પૂર્વક લખાયેલું કાવ્ય એટલે સ્નેહરશ્મિ (ઝીણાભાઈ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘તે બેસે અહીં’ કાવ્યનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યનો સાહિત્ય પ્રકાર ‘ગઝલ’ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'તે બેસે અહીં' - બેસવા માટે ગઝલ (ગાદી) જેવું સુંદર આસન જોઈએ, માટે આ ગઝલ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કવિ સ્નેહરશ્મિનું પૂરું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ સ્નેહરશ્મિનું પૂરું નામ ઝીણાભાઈ રતનજી દેસાઈ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઝીણાભાઈ = સ્નેહરશ્મિ. (ઝીણી રશ્મિ જેવો સ્નેહ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કવિ કઈ વ્યક્તિને અહીં બેસવા પાત્ર ગણે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જે વ્યક્તિ બીજાના દુઃખમાં સહભાગી થાય અને હૃદયથી સંવેદના અનુભવે તેને કવિ અહીં બેસવા પાત્ર ગણે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પરદુઃખભંજન = લાયક વ્યક્તિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "‘શૂળ’ શબ્દનો અર્થ કાવ્યના સંદર્ભમાં જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાવ્યના સંદર્ભમાં ‘શૂળ’ એટલે કાંટો અથવા અત્યંત દુઃખ કે પીડા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શૂળ = કાંટો, જે બીજાને ન વાગે તેનું ધ્યાન રાખનાર જ સાચો માણસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કવિના મતે કોના આંસુ લૂછનાર વ્યક્તિ અહીં બેસી શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બીજાના આંસુ લૂછતી વખતે જેના પોતાના આંસુ વહેતા હોય (અર્થાત પરદુઃખે દુઃખી હોય) તેવી વ્યક્તિ અહીં બેસી શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આંસુથી આંસુ લૂછવા એટલે સાચી સંવેદના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "‘કોઈના નિશ્વાસને પવન પાવે’ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કોઈના દુઃખ કે નિસાસાને સાંભળીને તેને ઠંડક પહોંચાડવી અથવા તેના દુઃખમાં રાહત આપવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નિશ્વાસ + પવન = શાંતિ અને રાહત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કવિએ ‘હાથ’ માટે કઈ શરત મૂકી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જે હાથોએ કદી કોઈ પણ પ્રકારની મદદ કે ઉપકારની અપેક્ષા રાખ્યા વગર કામ કર્યું હોય તેવા નિઃસ્વાર્થ હાથ હોવા જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હાથ = નિઃસ્વાર્થ સેવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "આ કાવ્યમાં કયા ગુણની મહત્તા દર્શાવવામાં આવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યમાં માનવતા, સંવેદનશીલતા અને નિઃસ્વાર્થ પરોપકારના ગુણની મહત્તા દર્શાવવામાં આવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માનવતા + પરોપકાર = યોગ્યતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કવિના મતે સિંહાસન પર બેસવાની પાત્રતા કોણ ધરાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જે વ્યક્તિમાં અભિમાનનો લેશ પણ ન હોય અને જેનું હૃદય કોમળ હોય તે જ સિંહાસન (અહીં યોગ્ય સ્થાન) પર બેસવાની પાત્રતા ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સિંહાસન = ગર્વ રહિત હૃદય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "‘તે બેસે અહીં’ કાવ્યમાં ‘અહીં’ શબ્દ કોના માટે વપરાયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘અહીં’ શબ્દ ઉચ્ચ માનવીય આસન અથવા ઈશ્વરના દરબાર જેવી પવિત્ર જગ્યા માટે વપરાયો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અહીં = શ્રેષ્ઠતાનું સ્થાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કાવ્યમાં ‘રડવું’ એ કઈ બાબતનું પ્રતીક છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘રડવું’ એ બીજાના દુઃખ પ્રત્યેની અત્યંત સંવેદનશીલતા અને સહાનુભૂતિનું પ્રતીક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રડવું = દયાનો ભાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પથ્થર ઉપર શું લખવાની વાત કવિ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પથ્થર ઉપર પરોપકારની ગાથા લખવાની વાત કવિ કરે છે, પણ શરત એ છે કે તે લખવામાં ગર્વ ન હોવો જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પથ્થર પર લેખ = કાયમી પરોપકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "‘નિરાશા’ માં શું જોવાની વાત કાવ્યમાં છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કોઈના જીવનની ઘેરી નિરાશામાં આશાનું કિરણ જન્માવવાની શક્તિ ધરાવનાર વ્યક્તિની વાત અહીં છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નિરાશામાં આશા = સાચી મદદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સ્નેહરશ્મિની ઓળખ કયા કાવ્ય પ્રકારથી વધુ થઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્નેહરશ્મિની મુખ્ય ઓળખ ‘હાઈકુ’ કાવ્ય પ્રકારને ગુજરાતીમાં લાવનાર કવિ તરીકે છે, જોકે પ્રસ્તુત કાવ્ય ગઝલ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્નેહરશ્મિ = હાઈકુના પ્રણેતા (જાપાની પ્રકાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કવિના મતે કોનું હૃદય પથ્થર જેવું ન હોવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જે વ્યક્તિ અહીં બેસવા ઈચ્છે છે તેનું હૃદય જડ કે પથ્થર જેવું નહીં પણ સંવેદનાથી ભરેલું હોવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પથ્થર ≠ હૃદય (હૃદય તો કોમળ જોઈએ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "‘તે બેસે અહીં’ કાવ્યમાં કઈ નૈતિકતાની વાત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યમાં આત્મનિરીક્ષણ અને બીજાની પીડાને પોતાની સમજવાની નૈતિકતાની વાત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નૈતિકતા = પોતાને પ્રશ્ન પૂછવો કે 'શું હું લાયક છું?'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "શબ્દ સમજૂતી આપો: ‘પાવે’.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘પાવે’ એટલે પીવડાવે અથવા અહીં પવન આપવાની ક્રિયા (શાંતિ આપવી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પા (પીવડાવવું) + વે = પાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19 (૨ ગુણ)",
+      "question": "કાવ્યની પ્રથમ પંક્તિ ‘જેના હૃદયમાં વાગે છે શૂળ’ દ્વારા કવિ શું સમજાવવા માંગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પંક્તિ દ્વારા કવિ સમજાવે છે કે જ્યારે બીજા કોઈને દુઃખ થાય (કાંટો વાગે) ત્યારે તેની પીડા જો પોતાના હૃદયમાં અનુભવાય, તો જ તે વ્યક્તિ સાચો માનવ છે. જે વ્યક્તિ બીજાના દર્દને પોતાનું માને છે, તે જ આ ઉચ્ચ સ્થાને બેસવા માટે પાત્ર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બીજાનું દર્દ + પોતાનું હૃદય = શ્રેષ્ઠતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20 (૨ ગુણ)",
+      "question": "કવિ કઈ વ્યક્તિને સિંહાસન પર બેસવાનો અધિકાર નથી તેમ માને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જે વ્યક્તિ બીજાના આંસુ લૂછતી વખતે પોતે સંવેદના અનુભવતી નથી, જે સેવા કરીને ઉપકાર ગણે છે અથવા જેનામાં અહંકાર ભરેલો છે, તેવી વ્યક્તિને સિંહાસન પર બેસવાનો કોઈ અધિકાર નથી. માત્ર દેખાડો કરનાર અહીં બેસી શકતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અહંકાર + સ્વાર્થ = અયોગ્યતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21 (૨ ગુણ)",
+      "question": "‘જેના હાથ ઉપકાર કરવા માટે ક્યારેય ઊંચા થયા નથી’ – આ પંક્તિનો ગૂઢાર્થ સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ કહેવા માંગે છે કે સાચો પરોપકારી તે છે જે મદદ તો કરે છે, પણ તેને ‘ઉપકાર’ માનીને બીજા પર જતાવતો નથી. જેના હાથ સેવા માટે ઉઠે પણ અભિમાન માટે નહીં, અને જેણે ક્યારેય કોઈ પર ઉપકાર કર્યો છે તેવો અહેસાસ સુધ્ધાં ન કર્યો હોય, તે જ સાચો સેવક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુપ્ત દાન/સેવા = સાચો ઉપકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22 (૨ ગુણ)",
+      "question": "કાવ્યમાં આવતા ‘નિશ્વાસ’ અને ‘પવન’ શબ્દો દ્વારા કયો ભાવ વ્યક્ત થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘નિશ્વાસ’ એ દુઃખી હૃદયની આહ અથવા પીડાનું પ્રતીક છે, જ્યારે ‘પવન’ એ તેને મળતી ઠંડક અને આશ્વાસનનું પ્રતીક છે. કોઈના નિસાસામાં જો પવન ફૂંકીને તેને શાંત કરી શકાય, તો તે વ્યક્તિ માનવતાના શિખરે બિરાજે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નિશ્વાસ (ગરમી) + પવન (ઠંડક) = માનવતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23 (૨ ગુણ)",
+      "question": "‘તે બેસે અહીં’ કાવ્યનો કેન્દ્રીય વિચાર (સંદેશ) શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યનો મુખ્ય સંદેશ એ છે કે પદ, પૈસો કે સત્તા વ્યક્તિને મહાન બનાવતા નથી, પરંતુ બીજા પ્રત્યેની સંવેદના, નિઃસ્વાર્થ સેવા અને નમ્રતા વ્યક્તિને સાચા અર્થમાં ‘ઉચ્ચ સ્થાને’ બેસવા લાયક બનાવે છે. આત્મખોજ દ્વારા પોતાની લાયકાત તપાસવાનો અહીં બોધ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંવેદના = સર્વોચ્ચ લાયકાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24 (૨ ગુણ)",
+      "question": "કવિએ ‘પરોપકાર’ વિશે શું નવો દ્રષ્ટિકોણ આપ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ કહે છે કે માત્ર બીજાની મદદ કરવી એ જ પૂરતું નથી, પરંતુ તે મદદ કરતી વખતે મદદ કરનારની આંખમાં પણ આંસુ હોવા જોઈએ (સંવેદના) અને મદદ કર્યા પછી તેનો ગર્વ ન હોવો જોઈએ. ઉપકાર કરીને ભૂલી જવો એ જ સાચો પરોપકાર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉપકાર + શૂન્ય અહંકાર = પરમ તત્વ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25 (૨ ગુણ)",
+      "question": "કાવ્યના અંતે ‘પોતાને પૂછ્યું’ એમ કહી કવિ શું સૂચવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ દરેક માણસને આત્મનિરીક્ષણ કરવા પ્રેરે છે. કોઈપણ ઉચ્ચ પદ કે સન્માન સ્વીકારતા પહેલા માણસે પોતાને પ્રશ્ન પૂછવો જોઈએ કે શું તેનામાં ઉપર મુજબના માનવીય ગુણો છે? જો હૃદય ‘હા’ પાડે, તો જ તે સ્થાને બેસવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આત્મનિરીક્ષણ = લાયકાતની ચાવી.</p></div>"
+    }
+  ]
+}
