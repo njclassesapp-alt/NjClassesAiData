@@ -2126,3 +2126,136 @@ var Std9_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"17": {
+  "chapterName": "પ્રકરણ 17",
+  "chapterTitle": "મારા સપનામાં આવ્યા હરિ (કાવ્ય)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘મારા સપનામાં આવ્યા હરિ’ કાવ્યના કવિનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યના કવિનું નામ રમેશ પારેખ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રમેશભાઈના 'સપના'માં 'હરિ' આવ્યા. (રમેશ પારેખ = સપનામાં આવ્યા હરિ)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘મારા સપનામાં આવ્યા હરિ’ કાવ્યનો સાહિત્ય પ્રકાર કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યનો સાહિત્ય પ્રકાર ‘ઊર્મિગીત’ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હરિ પ્રેમમાં 'ઊર્મિ' (લાગણી) જાગે એટલે 'ઊર્મિગીત'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કવિ રમેશ પારેખનું આખું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ રમેશ પારેખનું આખું નામ રમેશભાઈ ઓઝામલભાઈ પારેખ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રમેશ + ઓઝામલ = RO (આર.ઓ. ફિલ્ટર જેવી શુદ્ધ કવિતા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "આ કાવ્ય કયા સંગ્રહમાંથી લેવામાં આવ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્ય રમેશ પારેખના કાવ્ય સંગ્રહ ‘છ અક્ષરનું નામ’ માંથી લેવામાં આવ્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ર-મે-શ-પા-રે-ખ (કુલ 6 અક્ષર) = છ અક્ષરનું નામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ભગવાનને સપનામાં આવેલા જોઈ ગોપીએ શું કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભગવાનને સપનામાં આવેલા જોઈ ગોપી તેમને મળવા માટે આકુળવ્યાકુળ (બાહરી) બની ગઈ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હરિને જોઈ ગોપી થઈ ગઈ 'બાહરી' (ઘેલી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "હરિએ સપનામાં આવીને ગોપીને કેવી રીતે બોલાવી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હરિએ સપનામાં આવીને ગોપીને 'બોલાવી, ઝુલાવી અને વહાલી કરી'.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રમ યાદ રાખો: બોલાવી -> ઝુલાવી -> વહાલી કરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "શ્રીકૃષ્ણ ગોપીની સામે ઊભા રહીને શું કરતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શ્રીકૃષ્ણ ગોપીની સામે મરકત મરકત (મંદ મંદ) હસતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હરિનું હાસ્ય = મરકત મરકત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "‘મરકત મરકત’ શબ્દનો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘મરકત મરકત’ એટલે મંદ મંદ હાસ્ય અથવા સ્મિત.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મરકત = મુસ્કુરાહટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ગોપીએ કંસાર રાંધવા માટે કયું રાંધણ (અંધણ) મેલ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગોપીએ કંસાર રાંધવા માટે મેલ્યું હતું તે અંધણમાં તેણે પોતાના આંસુ (મેલ્યા) હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંધણમાં શું? = મેના (આંસુ) ના ડૂબા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "‘સંસાર મેં મેલ્યો ઓરી’ પંક્તિનો ભાવાર્થ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પંક્તિ દ્વારા ગોપી પોતાના તમામ સાંસારિક સુખ-દુઃખ અને મમત્વ ભગવાનના ચરણે સમર્પિત કરી દેવાની વાત કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓરવું = અર્પણ કરવું (સંપૂર્ણ સમર્પણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કાવ્યના અંતે હરિએ કયા શબ્દો કહ્યા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાવ્યના અંતે હરિએ કહ્યું: ‘બાવરી!’ (અર્થાત્ હે ઘેલી/પ્રેમમાં પાગલ!).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હરિનો છેલ્લો સંવાદ = બાવરી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "‘અંધણ’ શબ્દનો અર્થ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘અંધણ’ એટલે રસોઈ તૈયાર કરવા માટે મૂકેલું ગરમ પાણી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાંધવા માટે ગરમ પાણી = અંધણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ગોપીએ મંગળ પ્રસંગે કઈ વાનગી રાંધવાનું નક્કી કર્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગોપીએ ભગવાનના આગમનના હરખમાં ‘કંસાર’ રાંધવાનું નક્કી કર્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શુભ પ્રસંગ + મીઠાઈ = કંસાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કવિ રમેશ પારેખનો જન્મ ક્યાં થયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિ રમેશ પારેખનો જન્મ અમરેલીમાં થયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રમેશભાઈ 'અમર' (અમરેલી) છે સાહિત્યમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "‘મારા સપનામાં આવ્યા હરિ’ કાવ્યમાં કોના મિલનનું વર્ણન છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યમાં ભક્ત (ગોપી) અને ભગવાન (શ્રીકૃષ્ણ) ના ભાવમય મિલનનું વર્ણન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોપી + હરિ = આત્મા અને પરમાત્માનું મિલન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ગોપી શા માટે બાવરી બની ગઈ હતી? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગોપીના સપનામાં અચાનક ભગવાન શ્રીકૃષ્ણ આવ્યા. હરિએ આવીને તેને બોલાવી, ઝુલાવી અને વહાલ કર્યું. હરિનું આ રૂપ અને સ્મિત જોઈને ગોપી ભાન ભૂલી ગઈ અને ભગવાન પ્રત્યેના અતિશય પ્રેમને કારણે તે બાવરી બની ગઈ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હરિનું વહાલ + મનનું આકર્ષણ = બાવરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ભગવાને ગોપીના આંસુને કેવી રીતે લૂછ્યા? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગોપી જ્યારે ભગવાનના મિલનથી ભાવવિભોર થઈ રડવા લાગી, ત્યારે ભગવાને તેને પ્રેમથી પંપાળી અને માત્ર ‘બાવરી!’ એમ કહીને તેના આંસુ લૂછ્યા. આ શબ્દમાં ભગવાનનો અપાર પ્રેમ અને સાંત્વના છુપાયેલા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શબ્દો દ્વારા આશ્વાસન = આંસુ લૂછવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "‘કંસાર’ નું આંધણ ઓરવાને બદલે ગોપીએ શું કર્યું? શા માટે? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગોપીએ હરિના આગમનની ખુશીમાં કંસાર રાંધવા માટે આંધણ મૂક્યું હતું, પણ હરિના પ્રેમમાં તે એવી ઘેલી બની ગઈ કે તેણે આંધણમાં પોતાના સંસારના સુખ-દુઃખ અને આંસુ ઓરી દીધા. તે ઈચ્છતી હતી કે હવે તેનો સંપૂર્ણ સંસાર શ્રીકૃષ્ણમય બની જાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કંસાર (વાનગી) < સંસાર (સમર્પણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કવિએ હરિના હસવા માટે કયો શબ્દ વાપર્યો છે અને તેનો અર્થ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કવિએ ‘મરકત મરકત’ શબ્દ વાપર્યો છે. તેનો અર્થ મંદ-મંદ હાસ્ય અથવા અત્યંત મનોહર સ્મિત એવો થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મ-મ-મ (મરકત = મંદ = મુસ્કાન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "‘સુબા’ એટલે શું? કાવ્યના સંદર્ભમાં સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સામાન્ય રીતે ‘સુબા’ એટલે પ્રાંતનો વડો કે અમલદાર. પણ કાવ્યમાં શ્રીકૃષ્ણને દ્વારિકાના સુબા (રાજા) તરીકે ઓળખાવ્યા છે જે ભક્તના સપનામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુબા = દ્વારિકાના રાજા કૃષ્ણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "નીચેના શબ્દની સાચી જોડણી લખો: 'આકુળવ્યાકુળ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આકુળવ્યાકુળ (બંને 'કુ' હ્રસ્વ આવશે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ-કુ-ળ-વ્યા-કુ-ળ (કુ = નાનું ઉ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ગોપીના સપનામાં કોણ આવ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગોપીના સપનામાં હરિ (શ્રીકૃષ્ણ) આવ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સપનું + ગોપી = હરિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "આ કાવ્યમાં ‘શામળિયા’ શબ્દ કોના માટે વપરાયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘શામળિયા’ શબ્દ શ્રીકૃષ્ણ માટે વપરાયો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શામળિયો = શ્યામ રંગનો કૃષ્ણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "‘સપનામાં આવ્યા હરિ’ કાવ્યમાં કયો ભાવ મુખ્ય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યમાં ‘ભક્તિ અને પ્રેમ’ નો ભાવ મુખ્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભક્ત + ભગવાન = ભક્તિભાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "હરિએ ગોપીને કેવી કહીને સંબોધી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હરિએ ગોપીને ‘બાવરી’ કહીને સંબોધી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રેમમાં પાગલ એટલે 'બાવરી'.</p></div>"
+    }
+  ]
+}
