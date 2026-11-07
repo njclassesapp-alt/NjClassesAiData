@@ -2259,3 +2259,136 @@ var Std9_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"18": {
+  "chapterName": "પ્રકરણ 18",
+  "chapterTitle": "પંગું લંઘયતે ગિરિમ (પાઠ)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘પંગું લંઘયતે ગિરિમ’ પાઠનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘પંગું લંઘયતે ગિરિમ’ પાઠનો સાહિત્ય પ્રકાર ‘રેખાચિત્ર’ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠમાં અરૂણિમાના જીવનની રેખાઓ (ઘટનાઓ) આલેખાઈ છે, એટલે ‘રેખાચિત્ર’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘પંગું લંઘયતે ગિરિમ’ રેખાચિત્રના મુખ્ય પાત્રનું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ રેખાચિત્રના મુખ્ય પાત્રનું નામ ‘અરૂણિમા સિંહા’ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અરૂણિમા = સૂર્યનું પહેલું કિરણ, જે અંધકાર (મુશ્કેલી) ને ચીરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "અરૂણિમા કઈ રમતની રાષ્ટ્રીય કક્ષાની ખેલાડી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અરૂણિમા ‘વોલીબોલ’ રમતની રાષ્ટ્રીય કક્ષાની ખેલાડી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘વોલીબોલ’માં નેટ ઓળંગવાની હોય, અરૂણિમાએ પર્વત ઓળંગ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ટ્રેનમાં અરૂણિમા સાથે કઈ દુર્ઘટના ઘટી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ટ્રેનમાં બદમાશોએ અરૂણિમાની સોનાની ચેન ખેંચવા પ્રયત્ન કર્યો અને તેને ચાલતી ટ્રેને બહાર ફેંકી દીધી, જેમાં તેનો ડાબો પગ કપાઈ ગયો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચેન-ટ્રેન-પગ; આ ત્રણ શબ્દો ઘટના યાદ રાખવા પૂરતા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બરેલીની હોસ્પિટલમાં કઈ સુવિધાનો અભાવ હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બરેલીની હોસ્પિટલમાં ‘એનેસ્થેસિયા’ (બેભાન કરવાની દવા) અને લોહીની સુવિધાનો અભાવ હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એનેસ્થેસિયા વગર ઓપરેશન એટલે અરૂણિમાની અડગતાની શરૂઆત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "હોસ્પિટલમાં પથારીમાં પડેલી અરૂણિમાએ શું સંકલ્પ કર્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હોસ્પિટલમાં પથારીમાં પડેલી અરૂણિમાએ ‘પર્વતારોહણ’ (એવરેસ્ટ સર કરવા) નો અશક્ય લાગતો સંકલ્પ કર્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પગ તૂટ્યો પણ હિંમત નહીં, હોસ્પિટલમાંથી જ હિમાલય દેખાયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "અરૂણિમાને પર્વતારોહણ માટે કોણે પ્રોત્સાહન અને માર્ગદર્શન પૂરું પાડ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> એવરેસ્ટ સર કરનાર પ્રથમ ભારતીય મહિલા ‘બચેન્દ્રી પાલ’ એ અરૂણિમાને માર્ગદર્શન અને પ્રોત્સાહન પૂરું પાડ્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બચેન્દ્રી પાલ = અરૂણિમાના ‘પર્વતીય ગુરુ’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "બચેન્દ્રી પાલે અરૂણિમાને કયું પ્રેરક વાક્ય કહ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બચેન્દ્રી પાલે કહ્યું, “તેં તારા મનમાં તો એવરેસ્ટ સર કરી જ લીધો છે, હવે તો માત્ર દુનિયાને સાબિત કરવા ત્યાં ચડવાનું બાકી છે.”</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મન જીત્યું એટલે જંગ જીત્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "અરૂણિમાએ એવરેસ્ટ કઈ તારીખે અને કયા સમયે સર કર્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અરૂણિમાએ ૨૧ મે, ૨૦૧૩ ના દિવસે સવારે ૧૦:૫૫ કલાકે એવરેસ્ટ સર કર્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૨૧ મે (ઉનાળો) + ૧૦:૫૫ (બપોર પહેલાનો સમય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "‘પંગું લંઘયતે ગિરિમ’ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘પંગું લંઘયતે ગિરિમ’ સંસ્કૃત સૂક્તિનો અર્થ ‘પાંગળો (અપંગ) પણ પર્વત ઓળંગી શકે છે’ તેવો થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પંગુ = અપંગ, ગિરિ = પર્વત, લંઘયતે = ઓળંગવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "અરૂણિમા માટે પર્વતારોહણ સમયે કઈ બાબત સૌથી પડકારજનક હતી? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અરૂણિમા માટે પર્વતારોહણ સમયે તેનો કૃત્રિમ પગ સૌથી મોટો પડકાર હતો. ચઢાણ વખતે કૃત્રિમ પગ વારંવાર ફરી જતો, ખસી જતો અને તેના પર શરીરનું વજન લેવાતું નહીં. વળી, હિલારી સ્ટેપ પાસે ઓક્સિજન ખતમ થઈ રહ્યો હતો, છતાં તેણે હિંમત હારી નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કૃત્રિમ પગ + ઓક્સિજનની અછત = અરૂણિમાની ખરી કસોટી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "અરૂણિમાએ એવરેસ્ટના શિખર પર પહોંચીને શું કર્યું? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> એવરેસ્ટના શિખર પર પહોંચી અરૂણિમાએ ભારતનો તિરંગો ધ્વજ લહેરાવ્યો. તેણે પોતાના ગુરુઓને યાદ કર્યા અને દુનિયાને બતાવી આપ્યું કે મક્કમ મનોબળ હોય તો કંઈ પણ અશક્ય નથી. તેણે ત્યાં ફોટા પડાવ્યા અને વીડિયો પણ બનાવડાવ્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તિરંગો + ગુરુસ્મરણ + વિજયઘોષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "શેરપાએ અરૂણિમાને પાછા વળી જવાની સલાહ કેમ આપી? (૧ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અરૂણિમાનો ઓક્સિજનનો બાટલો ખાલી થઈ રહ્યો હતો, તેથી તેના જીવનું જોખમ હોવાથી શેરપાએ તેને પાછા વળી જવાની સલાહ આપી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઓક્સિજન પૂરો = શેરપાની ‘પાછા વળો’ બૂમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ટ્રેન દુર્ઘટના સમયે લોકોએ અરૂણિમા વિશે શું ધારણા કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લોકોએ ધાર્યું હતું કે અરૂણિમા હવે લાચાર અને અપંગ બની જશે, તેની કારકિર્દી ખતમ થઈ ગઈ છે અને તે માંડ માંડ જીવી શકશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લોકોની ધારણા ‘લાચારી’, અરૂણિમાનો જવાબ ‘શક્તિ’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "અરૂણિમાના પાત્રમાંથી આપણને કયો બોધ મળે છે? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અરૂણિમાના પાત્રમાંથી બોધ મળે છે કે માણસ શરીરથી નહીં પણ મનથી અપંગ બને છે. જો દ્રઢ સંકલ્પશક્તિ અને અડગ આત્મવિશ્વાસ હોય, તો ગમે તેવી શારીરિક ખામી કે મુશ્કેલી સફળતાના માર્ગમાં આડે આવતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મન જીતે તે જગ જીતે - આ પાઠનો સાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "બરેલીની હોસ્પિટલના ડોક્ટરોએ અરૂણિમા માટે શું કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ડોક્ટરો અને ફાર્માસિસ્ટોએ પોતાનું લોહી આપ્યું અને એનેસ્થેસિયા વગર જ અરૂણિમાના પગનું ઓપરેશન કરીને તેની માનવતા બતાવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ડોક્ટરનું લોહી + અરૂણિમાની સહનશક્તિ = નવું જીવન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "અરૂણિમાને દિલ્હીની કઈ હોસ્પિટલમાં ખસેડવામાં આવી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અરૂણિમાને દિલ્હીની ‘AIIMS’ (એઈમ્સ) હોસ્પિટલમાં સારવાર માટે ખસેડવામાં આવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): AIIMS = અરૂણિમાની આશાનું કેન્દ્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "અરૂણિમાએ પર્વતારોહણની તાલીમ ક્યાં લીધી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અરૂણિમાએ ઉત્તરકાશીમાં આવેલી ‘ટાટા સ્ટીલ એડવેન્ચર ફાઉન્ડેશન’ માં બચેન્દ્રી પાલના માર્ગદર્શન હેઠળ તાલીમ લીધી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તાલીમ = ટાટા સ્ટીલ + બચેન્દ્રી પાલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પર્વતારોહણ દરમિયાન અરૂણિમાની કઈ કસોટીઓ થઈ? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તાલીમ દરમિયાન લોખંડની લાકડી જેવા કૃત્રિમ પગ સાથે બરફીલા પહાડો ચડવા, થીજી જતી ઠંડી, લોહી થીજાવી દેતા પવનો અને અન્ય પર્વતારોહકો સાથેની હરીફાઈ અરૂણિમાની મુખ્ય કસોટીઓ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઠંડી, પવન અને કૃત્રિમ પગ - આ ત્રણ વિઘ્ન હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "અરૂણિમા માટે કયો દિવસ ‘ઐતિહાસિક’ હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ૨૧ મે, ૨૦૧૩ નો દિવસ અરૂણિમા માટે ઐતિહાસિક હતો કારણ કે તે દિવસે તેણે વિશ્વનું સર્વોચ્ચ શિખર એવરેસ્ટ સર કર્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૨૧ મે = એવરેસ્ટ વિજય દિવસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "અરૂણિમાએ તેના વિડિયો અને ફોટા શેરપા પાસે કેમ પડાવ્યા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અરૂણિમા જાણતી હતી કે તેની પાસે ઓક્સિજન ઓછો છે અને તે કદાચ જીવતી નીચે ન પણ પહોંચે, તેથી તેણે ફોટા-વિડિયો પડાવ્યા જેથી દુનિયાને તેના સંઘર્ષની ખબર પડે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પુરાવો એટલે ફોટો-વિડિયો, પછી ભલે જીવ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "અરૂણિમાએ એવરેસ્ટ ઉપરાંત બીજું કયું શિખર સર કર્યું હતું? (પાઠના આધારે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અરૂણિમાએ આફ્રિકાનું ‘કિલિમાંજરો’ અને યુરોપનું ‘એલબ્રુસ’ શિખર પણ સર કર્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કિલિમાંજરો (આફ્રિકા) + એલબ્રુસ (યુરોપ) = સાત ખંડ વિજેતાનો લક્ષ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "રેખાચિત્રમાં અરૂણિમાની કઈ લાક્ષણિકતા ઊભરી આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અરૂણિમાની અડગ આત્મવિશ્વાસ, જીજીવિષા, સહનશીલતા અને ક્યારેય હાર ન માનવાની વૃત્તિ ઊભરી આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘Never Give Up’ એટલે અરૂણિમા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "અરૂણિમા ટ્રેનમાંથી નીચે પડી ત્યારે શું થયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તે સામેથી આવતી ટ્રેન સાથે અથડાઈને નીચે પડી અને તેનો પગ ટ્રેનના પૈડાં નીચે આવી કચડાઈ ગયો. તે આખી રાત મદદ માટે બૂમો પાડતી રહી પણ કોઈ આવ્યું નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ટ્રેન સામે ટ્રેન અને વચ્ચે અરૂણિમાનો પગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "પાઠના અંતે કઈ સંસ્કૃત પંક્તિ સાર્થક થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પાઠના અંતે ‘પંગું લંઘયતે ગિરિમ’ (અપંગ પર્વત ઓળંગે છે) સૂક્તિ અરૂણિમાના અસાધારણ કાર્ય દ્વારા સાર્થક થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શીર્ષક જ વિજયનું પ્રતીક છે.</p></div>"
+    }
+  ]
+}
