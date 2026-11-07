@@ -2392,3 +2392,136 @@ var Std9_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"19": {
+  "chapterName": "પ્રકરણ 19",
+  "chapterTitle": "પપ્પા હવે ફોન મૂકું? (કાવ્ય)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'પપ્પા હવે ફોન મૂકું?' કાવ્યના કવિનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'પપ્પા હવે ફોન મૂકું?' કાવ્યના કવિનું નામ 'મનોહર ત્રિવેદી' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મ'નોહર પપ્પા 'મ'નોહર દીકરી - પપ્પાના મન હરી લેતી વાત એટલે મનોહર ત્રિવેદી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'પપ્પા હવે ફોન મૂકું?' કાવ્યનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્યનો સાહિત્ય પ્રકાર 'ગીત' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફોન પર 'ગીત' ગાતી દીકરી - એમ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "આ કાવ્ય કયા કાવ્યસંગ્રહમાંથી લેવામાં આવ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્ય 'ગજવામાં ગામ' કાવ્યસંગ્રહમાંથી લેવામાં આવ્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પપ્પાના 'ગજવામાં' આખું 'ગામ' (પ્રેમ) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "દીકરી ક્યાં રહીને અભ્યાસ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દીકરી હોસ્ટેલમાં (છાત્રાલયમાં) રહીને અભ્યાસ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હોસ્ટેલનો 'હ' અને હિંમતથી રહેતી દીકરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કાવ્યની પ્રથમ પંક્તિ કઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાવ્યની પ્રથમ પંક્તિ 'તમને તે ફાવશે કે નહીં? - એવો પ્રશ્ન મને જાળમાં નાખી દે છે' તેવી છે. (મુખ્ય પંક્તિ: 'પપ્પા હવે ફોન મૂકું?')</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શીર્ષક એ જ પ્રારંભ અને અંતની મથામણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "'સૂકા લાકડામાં પણ ફણગા ફૂટ્યા' - આ શબ્દો દ્વારા દીકરી શું કહેવા માંગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આનો અર્થ એ છે કે હોસ્ટેલના નીરસ વાતાવરણમાં પણ દીકરી હવે આનંદથી રહેવા લાગી છે અથવા તો પપ્પાના પ્રેમથી સુખદ અનુભૂતિ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂકું લાકડું = કઠિન સમય; ફણગા = નવી આશા/આનંદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "દીકરીએ મમ્મી વિશે શું પ્રશ્ન પૂછ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દીકરીએ પૂછ્યું કે 'મમ્મી હજી પણ એના જેવું ઊંઘમાં પણ મારું નામ બોલે છે?'</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મમ્મીનો પ્રેમ = ઊંઘમાં પણ સંતાનનું નામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "દીકરી પપ્પાને ફોન કરવાનું કેમ ભૂલતી નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દીકરીને તેના પપ્પા પ્રત્યે અત્યંત પ્રેમ છે અને તે તેમના સમાચાર જાણવા માટે ઉત્સુક હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફોન = હૃદય સાથેનું જોડાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "'એસ.ટી.ડી.ની ડાબલી' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> એસ.ટી.ડી.ની ડાબલી એટલે પબ્લિક ટેલિફોન બૂથ, જ્યાંથી દીકરી ફોન કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાબલી = નાનું બૂથ (જુના જમાનાનો સિક્કા વાળો ફોન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કાવ્યમાં દીકરી પપ્પાને શું કહેવાની ના પાડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દીકરી પપ્પાને મમ્મીને ધઘરાવવાની (ખિજાવાની) ના પાડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દીકરી હંમેશા મમ્મીની પક્ષધર હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "મમ્મીની ભોળપણ વિશે દીકરી શું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મમ્મી ભોળી છે, તે ચિંતા કરે છે એટલે પપ્પાએ તેની મજાક ન ઉડાવવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભોળી માતા, પ્રેમાળ દીકરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "હોસ્ટેલ કેવી છે એવું દીકરી કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હોસ્ટેલ તો કાંટા જેવી છે, પણ ત્યાં તે ફૂલની જેમ રહે છે (સારી રીતે રહે છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હોસ્ટેલ = કાંટા; દીકરી = ફૂલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કાવ્યમાં 'લીલાછમ ખેતર' કોના માટે વપરાયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાવ્યમાં 'લીલાછમ ખેતર' સુખ અને સમૃદ્ધિ અથવા હકારાત્મક જીવનના પ્રતીક તરીકે વપરાયું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીલાછમ = આનંદિત જીવન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પપ્પાનો સ્વભાવ કેવો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પપ્પા ઉપરથી કડક પણ અંદરથી ખૂબ પ્રેમાળ છે, જે દીકરીની ચિંતા કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાળિયેર જેવો સ્વભાવ - ઉપરથી કઠણ, અંદરથી નરમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "દીકરી ફોન કેમ મૂકતી નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દીકરીને ઘરની અને પપ્પાની એટલી યાદ આવે છે કે વાતો કરતા મન ધરાતું નથી, તેથી તે વારંવાર પૂછે છે 'ફોન મૂકું?' પણ મૂકી શકતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રેમમાં પૂર્ણવિરામ હોતું નથી, માત્ર અલ્પવિરામ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "હોસ્ટેલના વાતાવરણને દીકરી કેવી રીતે સ્વીકારે છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દીકરી કહે છે કે હોસ્ટેલ કાંટા જેવી હોવા છતાં તે ત્યાં ફૂલ બનીને ખીલી છે. ભલે ત્યાંની સુવિધાઓ ઘર જેવી ન હોય, પણ તે સંઘર્ષ સામે હસતા મુખે ટકી રહે છે અને પપ્પાને ચિંતા ન કરવા જણાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાંટામાં ફૂલ - પરિસ્થિતિ સામે સમજૂતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "મમ્મી વિશે દીકરી પપ્પાને કઈ ભલામણ કરે છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દીકરી કહે છે કે મમ્મી ભોળી છે અને તે દીકરીની ચિંતામાં દુબળી થતી હશે. પપ્પાએ મમ્મીને વઢવું નહીં કે તેની મજાક ઉડાવવી નહીં, ઉલટું તેને પ્રેમથી રાખવી તેવી ભલામણ દીકરી કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માતાની સંભાળ - પપ્પાને પ્રેમભરી સૂચના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કાવ્યના અંતે 'પપ્પા હવે ફોન મૂકું?' પ્રશ્ન શું સૂચવે છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પ્રશ્ન દીકરીની અનિચ્છા સૂચવે છે. તેને વાતો તો ઘણી કરવી છે, પણ સમય કે સંજોગોને વશ થઈને તે પૂછે છે. આમાં પિતૃપ્રેમની તીવ્રતા અને ઘર પ્રત્યેનો લગાવ છલકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રશ્નાર્થ ચિહ્ન પાછળ છુપાયેલું વહાલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "દીકરીના મતે પપ્પાનો સ્વભાવ કેવો છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પપ્પા થોડા શિસ્તબદ્ધ અને ઉપરથી કઠોર લાગે તેવા છે, પણ દીકરી જાણે છે કે પપ્પા તેને ખૂબ યાદ કરે છે. પપ્પા મમ્મી પર ખિજાતા હોય તો પણ તેમાં એક પ્રકારનો હક અને પ્રેમ છુપાયેલો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિસ્ત + પ્રેમ = આદર્શ પિતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કવિએ 'સૂકા લાકડા'નો પ્રયોગ શા માટે કર્યો છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'સૂકા લાકડા' એટલે પપ્પાનો કઠોર સ્વભાવ અથવા ઘરનું નીરસ વાતાવરણ. પણ જ્યારે દીકરીનો ફોન આવે છે ત્યારે તેમાં પણ જાણે 'ફણગા' ફૂટે છે, એટલે કે ખુશીની લહેર દોડી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂકું લાકડું = કઠોરતા; ફણગા = પ્રેમની કૂંપળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "દીકરીને હોસ્ટેલમાં ફાવે છે કે નહીં તે કેવી રીતે કહી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દીકરી કહે છે કે 'તમને તે ફાવશે કે નહીં?' - એટલે કે દીકરીને હોસ્ટેલમાં ગોઠવાઈ ગઈ છે પણ પપ્પાને તેની ચિંતા છે, એટલે તે હસતા હસતા હકારાત્મક જવાબ આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દીકરીની સમજદારી = મા-બાપની ચિંતા દૂર કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "કાવ્યમાં 'આભલાં' અને 'મોજાં' શબ્દો શું સૂચવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ શબ્દો દીકરીના મનના ઉમળકા અને પપ્પા સાથેની વાતોના આનંદના પ્રવાહને સૂચવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉમળકો = મોજાંની જેમ ઉછળતો પ્રેમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "દીકરીના સ્વભાવની કઈ વિશેષતા કાવ્યમાં દેખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દીકરી સંવેદનશીલ, સમજદાર અને પરિવારના દરેક સભ્યની કાળજી રાખનારી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દીકરી = ઘરનું સંસ્કારી સંતાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "કાવ્યના કેન્દ્રમાં કયા બે પાત્રો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાવ્યના કેન્દ્રમાં દીકરી અને પિતા (પપ્પા) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંવાદ દીકરીનો, અનુભૂતિ પપ્પાની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "'પપ્પા હવે ફોન મૂકું?' કાવ્ય આપણને કયો સંદેશ આપે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કાવ્ય પિતા-પુત્રીના અતૂટ અને પ્રેમાળ સંબંધોનો સંદેશ આપે છે. દૂર રહીને પણ મનથી સતત જોડાયેલા રહેવાની વાત અહીં મુખ્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતર ગમે તેટલું હોય, પ્રેમ જોડે છે.</p></div>"
+    }
+  ]
+}
