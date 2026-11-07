@@ -1993,3 +1993,136 @@ var Std9_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"16": {
+  "chapterName": "પ્રકરણ 16",
+  "chapterTitle": "કુદરતી (એકાંકી)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘કુદરતી’ એકાંકીના લેખકનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘કુદરતી’ એકાંકીના લેખકનું નામ લાભશંકર ઠાકર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'લાભ' લેવા માટે 'કુદરતી' રીતે જીવવું પડે - લાભશંકર ઠાકર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "લેખક લાભશંકર ઠાકરનું ઉપનામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લેખક લાભશંકર ઠાકરનું ઉપનામ ‘પુનર્વસુ’ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઠાકરનો 'પુનર્'જન્મ થયો - પુનર્વસુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "‘કુદરતી’ કૃતિનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘કુદરતી’ કૃતિનો સાહિત્ય પ્રકાર ‘એકાંકી’ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કુદરતનો 'એક' જ નિયમ - એકાંકી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "‘કુદરતી’ એકાંકી કયા સંગ્રહમાંથી લેવામાં આવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘કુદરતી’ એકાંકી ‘મરીચિકા’ એકાંકી સંગ્રહમાંથી લેવામાં આવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કુદરતી રીતે 'મરી' ગયા પછી સ્વર્ગ મળે - મરીચિકા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બાબુ કેટલો સમય મૃત્યુ પામીને ફરી જીવતો થયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બાબુ આશરે દોઢ-બે કલાક મૃત્યુ પામીને ફરી જીવતો થયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દોઢ-બે કલાકમાં બાબુનો 'દોઢ' ડાહ્યો પ્રવાસ પૂરો થયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સ્વર્ગમાં બાબુનું સ્વાગત કોણે કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્વર્ગમાં બાબુનું સ્વાગત દેવદૂતોએ અને ઈન્દ્રરાજાએ કર્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાબુ ગયો 'ઇન્દ્ર'ના દરબારમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "બાબુને સ્વર્ગમાં લઈ જવા માટે શું આવ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બાબુને સ્વર્ગમાં લઈ જવા માટે દેવદૂતો વિમાન લઈને આવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આકાશી સવારી એટલે વિમાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "બાબુને કયા પુણ્યના કારણે સ્વર્ગ મળ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રસ્તામાં પેશાબ કરતી વખતે એક કીડીને મરતી બચાવી (કુદરતી રીતે થયેલું પુણ્ય) હોવાથી બાબુને સ્વર્ગ મળ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'કીડી' બચાવો, 'સ્વર્ગ' પામો - કુદરતી પુણ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સ્વર્ગમાં બાબુએ કયું ભોજન જમ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્વર્ગમાં બાબુએ ગરમાગરમ રોટલી, ગાયનું ચોખ્ખું ઘી અને ખાંડ (સાકર) જમ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘી-સાકરનો લ્હાવો એટલે સ્વર્ગનું ખાણું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "બાબુના પિતાનું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બાબુના પિતાનું નામ કૃપાશંકર હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પિતાની 'કૃપા' હોય તો જ બાબુ સ્વર્ગે જાય - કૃપાશંકર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "હરિલાલ બાબુના શું થતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હરિલાલ બાબુના કાકા (પાડોશી) થતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હરિ (ભગવાન) જેવો કાકો - હરિલાલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સ્વર્ગમાં કઈ અપ્સરા નાચતી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્વર્ગમાં ઉર્વશી નામની અપ્સરા નાચતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉર્વશીનો 'ઉ' એટલે ઉત્સાહથી નાચવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "બાબુને સ્વર્ગમાંથી પાછા કેમ મોકલવામાં આવ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બાબુનું આયુષ્ય હજી બાકી હોવાથી તેને પૃથ્વી પર પાછો મોકલવામાં આવ્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આયુષ્ય બાકી તો ધરતી નકી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ઇન્દ્રરાજાએ પુણ્ય વિશે બાબુને શું સમજાવ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઇન્દ્રરાજાએ સમજાવ્યું કે કોઈ પણ પુણ્ય કામ ‘કુદરતી’ રીતે (આપમેળે) થવું જોઈએ, દેખાડો કરવા માટે નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કામ કરો કુદરતી, ફળ મળે જબરદસ્તી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "બાબુના મિત્રનું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બાબુના મિત્રનું નામ ચંદુ હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાબુ અને ચંદુની જોડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સ્વર્ગમાં મળતી રોટલી કેવી હતી? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્વર્ગની રોટલી એકદમ પોચી, રૂ જેવી સફેદ અને ગરમાગરમ હતી. એ રોટલી ઉપર ગાયનું ચોખ્ખું ઘી અને સાકર ભભરાવેલી હતી. બાબુને એ ખાતા જ ઓડકાર આવી ગયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પોચી + ઘી + સાકર = સ્વર્ગની રોટલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "બાબુએ સ્વર્ગમાં દેવલાને કેવી રીતે ઓળખ્યો? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દેવલો અપ્સરાના રૂપમાં નાચતો હતો. નાચતી વખતે તેની આંગળી બાબુને અડી ગઈ અને તેની સુગંધ તથા તે જે રીતે આંખ મારીને હસ્યો, તેના પરથી બાબુને જૂના ભાઈબંધ દેવલાની યાદ આવી ગઈ અને તે ઓળખી ગયો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અપ્સરા બનીને આવ્યો દેવલો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "હરિલાલ કાકાને કઈ વાતનું આશ્ચર્ય થતું હતું? (1 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હરિલાલ કાકાને એ વાતનું આશ્ચર્ય થતું હતું કે બાબુ સાચે જ મરી ગયા પછી ફરી કેવી રીતે જીવતો થયો અને સ્વર્ગની વાતો કેવી રીતે કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મરેલો જીવતો થાય તો નવાઈ તો લાગે જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સ્વર્ગમાં બાબુની જમવાની થાળી કોણે પીરસી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્વર્ગમાં બાબુની જમવાની થાળી ખુદ ઈન્દ્રરાજાએ પીરસી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રાજા પીરસે ને બાબુ જમે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "બાબુએ સ્વર્ગના અનુભવમાં અપ્સરાઓ વિશે શું કહ્યું? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બાબુએ કહ્યું કે સ્વર્ગમાં અપ્સરાઓ બહુ સુંદર હોય છે. તે ઝીણા કપડાં પહેરીને ગાય અને નાચે છે. દેવલો પણ હવે અપ્સરા બની ગયો છે અને એ લોકોનું નાચવું-ગાવું સાંભળીને મન પ્રસન્ન થઈ જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અપ્સરા એટલે રૂપ અને નૃત્યની ખાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ચંદુ અને હરિલાલ પુણ્ય કરવા માટે શું વિચારતા હતા? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ચંદુ અને હરિલાલ વિચારતા હતા કે જો કીડી બચાવવા જેવા નાના કામથી સ્વર્ગ મળતું હોય, તો આપણે પણ એવું પુણ્ય કરવું જોઈએ. પણ બાબુએ સમજાવ્યું કે આવું વિચારીને કરેલું કામ પુણ્ય નથી ગણાતું, એ તો ‘કુદરતી’ રીતે થવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પુણ્ય 'કરવું' ના પડે, પુણ્ય 'થઈ' જવું જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "બાબુના મતે કયા માણસોને સ્વર્ગમાં સ્થાન મળે છે? (1 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જે માણસોના હાથે અજાણતા કે કુદરતી રીતે કોઈ મોટું પુણ્ય થઈ જાય, તેને સ્વર્ગમાં સ્થાન મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કુદરતી પુણ્ય = સ્વર્ગની ટિકિટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "નાટકને અંતે કાશીબા બાબુને શું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નાટકને અંતે કાશીબા બાબુને ધાબળો ઓઢાડીને સુઈ જવાનું કહે છે જેથી તેને આરામ મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માતાની મમતા અને આરામની શીખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "બાબુને પૃથ્વી પર આવતા પહેલા દેવલાએ શું કહ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દેવલાએ બાબુને કહ્યું કે પૃથ્વી પર જઈને કોઈ એવું પુણ્યનું કામ કરજે જેથી ફરીથી તું સ્વર્ગમાં આવી શકે અને આપણે સાથે રહીએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મિત્રતા સ્વર્ગમાં પણ સાથ શોધે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "‘કુદરતી’ એકાંકીનો મુખ્ય સંદેશ શું છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ એકાંકીનો મુખ્ય સંદેશ એ છે કે દેખાડો કરવા કે સ્વાર્થ માટે કરેલા પુણ્ય કરતા, સહજ ભાવે અને કુદરતી રીતે કોઈની મદદ કે ભલું કરવાનું કાર્ય સાચું પુણ્ય છે. સાચું પુણ્ય જ માણસને ઉચ્ચ ગતિ અપાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નિઃસ્વાર્થ સેવા એ જ સાચું મેવા!</p></div>"
+    }
+  ]
+}
