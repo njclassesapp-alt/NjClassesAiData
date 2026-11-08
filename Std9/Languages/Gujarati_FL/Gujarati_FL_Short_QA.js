@@ -2658,3 +2658,136 @@ var Std9_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"21": {
+  "chapterName": "પ્રકરણ 21",
+  "chapterTitle": "તેજમલ (લોકગીત)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘તેજમલ’ કાવ્યનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘તેજમલ’ કાવ્યનો સાહિત્ય પ્રકાર <strong>લોકગીત</strong> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - લોકગીતના કોઈ ચોક્કસ લેખક ન હોય, તે 'લોકો દ્વારા રચાયેલું' હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘તેજમલ’ લોકગીતના કવિનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લોકગીત એ સમૂહ કંઠની રચના છે, તેથી તેના કોઈ વ્યક્તિગત કવિ હોતા નથી. તે પરંપરાગત રીતે મળેલું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ યાદ રાખો - લોકગીત = લેખક વગરની કૃતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "દાદા શા માટે રડતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દુશ્મનોનું સૈન્ય (શત્રુઓ) યુદ્ધ કરવા આવ્યું હતું અને દાદાને સાત-સાત દીકરીઓ હોવા છતાં લડવા માટે કોઈ પુત્ર નહોતો, તેથી તેઓ રડતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - પુત્રનો અભાવ = દાદાના આંસુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "તેજમલ દાદાને શું આશ્વાસન આપે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તેજમલ દાદાને કહે છે કે, \"દાદા, તમે રડશો નહીં, હું પોતે જ યુદ્ધમાં લડવા જઈશ અને તમારી વ્હારે આવીશ.\"</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ હિંમત - દીકરી તેજમલ જ હવે દીકરો બનશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "દાદાની નજરમાં દીકરી અને દીકરા વચ્ચે શો તફાવત હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દાદા માનતા હતા કે દીકરી તો 'પારકું થાપણ' કહેવાય, જ્યારે યુદ્ધના મેદાને તો પુત્ર જ લડવા જઈ શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - જૂની માન્યતા = સ્ત્રી એટલે અબળા, પણ તેજમલ સબળા નીકળી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કાનના આકોટા છુપાવવા તેજમલે શું કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાનના આકોટા છુપાવવા તેજમલે માથે મોટો પાઘડો (ફેંટો) બાંધ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ છુપાવવાની કળા - આકોટા = પાઘડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "હાથના ત્રાજવા છુપાવવા તેજમલે શું ઉપાય કર્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હાથના ત્રાજવા છુપાવવા માટે તેજમલે બાયલ (બાંય) વાળા ચણિયા ચોળીને બદલે પુરુષોના લાંબી બાંયના વસ્ત્રો પહેર્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - ત્રાજવા એટલે ટેટૂ, જે બાયલ (બાંય) થી છુપાવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "તેજમલની ઓળખ માટે કઈ બે દુકાનોએ કસોટી થઈ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તેજમલની ઓળખ માટે સોનીની દુકાને અને વાણિયાની (કાપડની) દુકાને કસોટી થઈ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - સોની = ઘરેણાં, વાણિયો = કાપડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સોનીની દુકાને તેજમલે શું પસંદ કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સોનીની દુકાને તેજમલે સ્ત્રીઓના ઘરેણાં છોડીને પુરુષોના પહેરવાના ‘બેરેખા’ પસંદ કર્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - સ્ત્રી = હાર, પુરુષ = બેરેખા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વાણિયાની દુકાને તેજમલે શું પસંદ કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વાણિયાની દુકાને તેજમલે સ્ત્રીઓનું મોહક કાપડ છોડીને પુરુષોને છાજે તેવો ‘દશરથનો મોરિયો’ (પાઘડી) પસંદ કર્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - સ્ત્રી = ચીર, પુરુષ = મોરિયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "તેજમલે પગના અસલ ત્રાજવા વિશે શું બહાનું કાઢ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તેજમલે કહ્યું કે જ્યારે તે નાના હતા ત્યારે મોસાળમાં ગયા હતા અને મામીએ હોંશમાં ત્રાજવા ત્રોફાવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ બહાનું - મોસાળની યાદગીરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "નાક વીંધાવવા વિશે તેજમલે શું જવાબ આપ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તેજમલે બહાનું કાઢ્યું કે અમારી માતાને અમે ખૂબ વ્હાલા હતા, તેથી નજર ન લાગે તે માટે નાક વીંધાવ્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - માનો પ્રેમ = નાક વીંધાવવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "તેજમલ યુદ્ધમાં કેવી રીતે લડ્યા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તેજમલ યુદ્ધમાં પુરુષના વેશમાં વીરતાપૂર્વક લડ્યા અને સૌથી પહેલા દુશ્મનોના સૈન્ય પર તૂટી પડ્યા અને વિજય મેળવ્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ વીરતા - પહેલા ઘા તેજમલના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "યુદ્ધ જીતીને પાછા ફરતા તેજમલનું સ્વાગત કેવી રીતે થયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દાદાએ તેજમલને મોતીડે વધાવ્યા અને આખા ગામમાં ઉત્સવ જેવો માહોલ છવાઈ ગયો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ સ્વાગત - મોતીથી વધામણાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "‘હળવે હળવે હિંડોળે કોણ રડતું હતું?’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હળવે હળવે હિંડોળે તેજમલના દાદા રડતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ વિગત - રડતા દાદા, પૂછતી તેજમલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "તેજમલ પાઠમાંથી આપણને શું બોધ મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્ત્રી પણ પુરુષ સમોવડી બની શકે છે અને જરૂર પડે ત્યારે શૌર્ય બતાવી કુટુંબ કે દેશનું રક્ષણ કરી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ મેસેજ - નારી તું નારાયણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "તેજમલના સૈન્યમાં કોણ કોણ જોડાયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તેજમલ સાથે તેના કાકાના દીકરાઓ (કાકાના વછેરા) સૈન્યમાં જોડાયા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - કાકાના વછેરા = પિતરાઈ ભાઈઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "દાદાએ તેજમલને કઈ રીતે ઓળખાવી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દાદાએ તેજમલને પોતાની સાત દીકરીઓમાં સૌથી ડાહી અને ચતુર દીકરી તરીકે ઓળખાવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - સાત દીકરીમાં તેજમલ અગ્રેસર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ચતુર સ્ત્રીઓ દુકાને જઈ શું જુએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સામાન્ય રીતે સ્ત્રીઓ સોનીની દુકાને ઝૂમણાં (ઘરેણાં) અને વાણિયાની દુકાને રેશમી કાપડ (ચીર) જુએ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - સ્ત્રી સહજ સ્વભાવ = શણગાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "તેજમલની ચતુરાઈ કઈ બાબતમાં દેખાઈ આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પોતાની સ્ત્રી સહજ ઓળખ છુપાવવા માટે તેજમલે જે બહાના કાઢ્યા અને જે પુરુષોના કપડાં/ઘરેણાં પસંદ કર્યા તેમાં તેની ચતુરાઈ દેખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - બુદ્ધિશાળી બહાના = તેજમલની ચતુરાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "‘દાદા રે વ્હારે ધાજો’ નો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પંક્તિનો અર્થ થાય છે - હે દાદા, અમારી મદદે આવો. જ્યારે શત્રુઓ ચડી આવે ત્યારે રક્ષણ માટે બોલાવવામાં આવતી બૂમ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ શબ્દાર્થ - વ્હારે ધાવું = મદદ માટે દોડવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "દાદા શા માટે દીકરો હોત તો સારું એમ ઈચ્છતા હતા? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દાદાની સીમમાં શત્રુઓનું સૈન્ય યુદ્ધ માટે આવી પહોંચ્યું હતું. તે સમયની સામાજિક માન્યતા મુજબ યુદ્ધમાં સ્ત્રીઓ જઈ શકતી નહોતી. જો દીકરો હોત તો તે શસ્ત્રો સજીને દુશ્મનોનો સામનો કરી શકત. દાદાને સાત દીકરીઓ હોવા છતાં વંશ ચલાવવા અને રક્ષણ કરવા માટે કોઈ વારસ નહોતો, તેથી તેઓ દીકરો ઈચ્છતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ કારણ - યુદ્ધ + વંશ = પુત્રની જરૂરિયાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "તેજમલે પોતાની ઓળખ છુપાવવા કયા વસ્ત્રો અને આભૂષણો ધારણ કર્યા? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તેજમલે સ્ત્રીઓના વસ્ત્રો ત્યાગીને પુરુષોના લાંબી બાંયના અંગરખા પહેર્યા જેથી હાથના ત્રાજવા છુપાઈ જાય. માથે મોટો પાઘડો બાંધ્યો જેથી કાનના આકોટા દેખાય નહીં. સોનીની દુકાને જઈ તેને ‘બેરેખા’ (પુરુષોનું ઘરેણું) અને કાપડની દુકાને જઈ મોરિયો (પાઘડી) ખરીદ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ વેશભૂષા - બેરેખા + મોરિયો + પાઘડી = પુરુષ વેશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "દળ કટક (સૈન્ય) માં તેજમલની શૌર્યગાથા વર્ણવો. (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તેજમલ જ્યારે સૈન્યમાં ગયા ત્યારે તે કોઈ ડરપોક સ્ત્રી નહોતા પણ એક વીર યોદ્ધા હતા. સૈન્યમાં સૌથી પહેલો ઘા તેજમલે કર્યો હતો. તેમણે દુશ્મનોને હરાવ્યા અને વિજય પ્રાપ્ત કર્યો. તેમના પરાક્રમથી શત્રુઓ પણ સ્તબ્ધ થઈ ગયા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ શૌર્ય - અગ્રેસર રહેવું એ જ સાચી વીરતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "‘તેજમલ’ લોકગીતના આધારે સ્ત્રી શક્તિ વિશે લખો. (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ લોકગીત સાબિત કરે છે કે સ્ત્રી માત્ર ઘરના કામ માટે જ નથી. જો જરૂર પડે તો તે રણમેદાનમાં પણ દુશ્મનોને ધૂળ ચટાડી શકે છે. તેજમલની હિંમત, ચતુરાઈ અને દેશદાઝ દરેક સ્ત્રી માટે પ્રેરણારૂપ છે. સ્ત્રી અબળા નથી પણ શક્તિનું સ્વરૂપ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ બોધ - દીકરી પણ કુળનું નામ રોશન કરી શકે છે.</p></div>"
+    }
+  ]
+}
