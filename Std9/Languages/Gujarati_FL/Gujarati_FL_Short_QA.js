@@ -2791,3 +2791,136 @@ var Std9_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"22": {
+  "chapterName": "પ્રકરણ 22",
+  "chapterTitle": "બોળો (પાઠ)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'બોળો' પાઠના લેખકનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'બોળો' પાઠના લેખક ઝવેરચંદ મેઘાણી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બોળો' ખાતા-ખાતા 'મેઘ' (મેઘાણી) વર્ષ્યા - એમ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'બોળો' કૃતિનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'બોળો' કૃતિનો સાહિત્ય પ્રકાર લોકવાર્તા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકોમાં બોલાતી વાર્તા એટલે 'બોળો' લોકવાર્તા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "'બોળો' પાઠ કયા સંગ્રહમાંથી લેવામાં આવ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'બોળો' પાઠ ઝવેરચંદ મેઘાણી સંપાદિત 'સૌરાષ્ટ્રની રસધાર' માંથી લેવામાં આવ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બોળો એ સૌરાષ્ટ્રનો 'રસ' છે એટલે 'સૌરાષ્ટ્રની રસધાર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ઝવેરચંદ મેઘાણીને ગાંધીજીએ કયું બિરુદ આપ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઝવેરચંદ મેઘાણીને ગાંધીજીએ 'રાષ્ટ્રીય શાયર'નું બિરુદ આપ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાષ્ટ્ર માટે ગાનારા 'રાષ્ટ્રીય શાયર' મેઘાણીબાપા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ભાવનગરના કયા મહારાજાની ઉદારતા આ પાઠમાં વર્ણવાયેલી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભાવનગરના મહારાજા વજેસંગ (વજેશંકર) ની ઉદારતા આ પાઠમાં વર્ણવાયેલી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વજ' જેવા મજબૂત પણ દિલના ઉદાર 'વજેસંગ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સોંડો માળી કયા ગામનો રહેવાસી હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સોંડો માળી ભાવનગર રાજ્યના 'કાળતળાવ' ગામનો રહેવાસી હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોંડો = કાળતળાવ (કાળા તળાવ પાસે માળી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ઘોડેસવાર કયા ડુંગરામાં ભટકી ગયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઘોડેસવાર (મહારાજા વજેસંગ) 'ખોખરા' ના ડુંગરામાં ભટકી ગયા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂખથી 'ખોખરા' થઈ ગયેલા રાજા ખોખરાના ડુંગરામાં ભટક્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "'બોળો' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'બોળો' એટલે છાશમાં રાંધેલું ધાન (બાજરો) કે થૂલી જેવું એક દેશી ભોજન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બોળો = છાશ + બાજરો (દેશી આઈસ્ક્રીમ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સોંડાએ અજાણ્યા ઘોડેસવારને બોળો શેમાં પીરસ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સોંડાએ અજાણ્યા ઘોડેસવારને ખાખરાના પાનનો 'દડિયો' (પડિયો) બનાવીને તેમાં બોળો પીરસ્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરીબ માળી પાસે 'દડિયો' જ વાસણ ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સોંડો મહારાજાને કેમ ગાળો દેતો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રાજ્યના કરવેરા, અમલદારોનો ત્રાસ અને અત્યંત ગરીબીને કારણે સોંડો મહારાજાને ગાળો દેતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂખ અને દુઃખ માણસને કડવું બોલાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "મહારાજાએ સોંડાને બોળો ખાધા પછી શું આપ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તે સમયે કંઈ નહીં, પણ પછીથી બોલાવીને 12 સાંતીની જમીન અને રહેવા માટે ઘર (ગરાસ) આપ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક દડિયો બોળો = 12 સાંતીની જમીન (રાજાની ઉદારતા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સોંડાના કોશમાં વરતને બદલે શું બાંધેલું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સોંડાના કોશમાં વરત (દોરડું) તૂટી ગયું હોવાથી તેને બદલે લૂગડાના ચીંથરા અને આકડાના વેલા બાંધેલા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અત્યંત ગરીબી બતાવવા 'ચીંથરા ને વેલા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "મહારાજા વજેસંગના ઘોડાનો રંગ કેવો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મહારાજા વજેસંગના ઘોડાનો રંગ 'રોઝડો' (ભૂરો કે બદામી મિશ્રિત) હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજાનો 'રોઝડો' ઘોડો, કાળતળાવમાં દોડ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સિપાઈઓ જ્યારે સોંડાને તેડવા આવ્યા ત્યારે સોંડાને શું લાગ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સોંડાને લાગ્યું કે પેલા અજાણ્યા ઘોડેસવારે રાજાને બધી વાત કરી દીધી છે અને હવે રાજા તેને જેલમાં નાખશે અથવા મારી નાખશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાળો દીધી એનો ડર = જેલની બીક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "રાજાએ સોંડાની કઈ વાતથી ખુશ થઈને તેને ઈનામ આપ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સોંડાની નિખાલસતા, નિર્દોષતા અને મહેમાનગતિ (બોળો ખવડાવ્યો તે) થી ખુશ થઈને રાજાએ ઈનામ આપ્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાળો પાછળનો પ્રેમ અને સાચું બોલવાની હિંમત રાજાને ગમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મહારાજા વજેસંગની ઉદારતાના બે ઉદાહરણ આપો. (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 1. પોતાને ગાળો દેનાર ખેડૂત સોંડા પર ગુસ્સે થવાને બદલે તેને જમીન અને ગરાસ ભેટમાં આપ્યા. <br>2. ધોળાજી નામના બીજા એક ખેડૂતની સહજતા જોઈને પણ તેને જાગીર આપી તેની વંશપરંપરાગત સુરક્ષા કરી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિક્ષા નહીં પણ ક્ષમા અને દાન - એ જ સાચી ઉદારતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સોંડાએ ઘોડેસવારને જમતી વખતે શું કહ્યું? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સોંડાએ કહ્યું કે 'બાપ, તારે તો કંઈ ભૂખ લાગે છે!' તેણે રાજાને વધુ બોળો લેવા આગ્રહ કર્યો અને હસતા હસતા કહ્યું કે જો વજેસંગ રાજા મારો બોળો ખાઈ લે તો મારો વસ્તાર સુખી થઈ જાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોંડાની બોલીમાં કડવાશ હતી પણ ભાવમાં અમૃત હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સોંડો માળી પસ્તાવો કેમ કરવા લાગ્યો? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જ્યારે સિપાઈઓ તેને લેવા આવ્યા ત્યારે તેને સમજાયું કે જે મુસાફરને તેણે ગાળો દીધી હતી તે બીજું કોઈ નહીં પણ ખુદ મહારાજા વજેસંગ હતા. તેને પોતાની જીભ પર અફસોસ થયો કે તેણે રાજાને અપશબ્દો કહ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અજાણતા કરેલી ભૂલનું ભાન થતા સોંડો ગભરાયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કચેરીમાં સોંડાની દશા કેવી હતી? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સોંડો ગભરાયેલો હતો, તેના કપડાં ફાટેલા હતા અને શરીર ધ્રૂજતું હતું. મોટા દરબારમાં આટલા બધા ઉમરાવો જોઈને તેને ફાંસીનો ડર લાગતો હતો, પણ અંતે મહારાજાનું સ્મિત જોઈ તે શાંત થયો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજાનો ઠાઠ અને સોંડાની ફાટ (બીક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સોંડાના પાત્રના ગુણો જણાવો. (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સોંડો એક મહેનતુ, નિખાલસ અને નીડર ખેડૂત હતો. તે જે મનમાં હોય તે મોઢે કહી દેતો (સ્પષ્ટવક્તા). ગરીબી હોવા છતાં તેની પાસે અતિથિ સત્કારની ઉમદા ભાવના હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મનનો સાચો, મહેનતમાં પાકો - એવો સોંડો માળી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "મહારાજાએ સોંડાને આપેલી ભેટની યાદી આપો. (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મહારાજાએ સોંડાને 1. બાર સાંતીની જમીન, 2. એક વાડો, 3. રહેવા માટે ઘર (ગરાસ), 4. મૂર અને 5. સોનાના કડાંની જોડ આપી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમીન, વાડો, ઘર ને સોનાના કડાં - સોંડો થયો માલામાલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સોંડાએ જમતી વખતે ઘોડેસવારને કેમ ટોક્યો? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઘોડેસવાર ખૂબ ભૂખ્યો હતો અને ફટાફટ બોળો ખાતો હતો. સોંડાએ તેને ટોકતા કહ્યું, 'ધીરે બાપ ધીરે! આ કંઈ તમારી રાણીનો કેસરિયો ભાત નથી, આ તો સોંડાનો બોળો છે!'</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાત VS બોળો - ખેડૂતની મીઠી ટકોર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "'બોળો' પાઠનો બોધ શું છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠ પરથી બોધ મળે છે કે રાજાએ હંમેશા પ્રજાના દુઃખને સમજવું જોઈએ અને પ્રજાએ પણ અન્યાય સામે અવાજ ઉઠાવવો જોઈએ. સાચો રાજા એ જ છે જે ટીકાને પણ આશીર્વાદ સમજીને પ્રજાનું કલ્યાણ કરે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટીકા કરનાર પ્રજા પણ રાજા માટે પ્યારી હોવી જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સોંડાની પત્ની કેમ ગભરાઈ ગઈ? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સોંડાને પકડવા માટે જ્યારે રાજમહેલના સિપાઈઓ ઘોડા લઈને આવ્યા, ત્યારે સોંડાની પત્નીને લાગ્યું કે તેના પતિએ અજાણ્યા માણસ સામે જે રાજા વિશે ખરાબ બોલ્યું હતું તેના ફળ હવે ભોગવવા પડશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘર આંગણે સિપાઈ = આફતની નિશાની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "તામ્રપત્ર પર રાજાએ શું લખી આપ્યું? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તામ્રપત્ર પર રાજાએ સોંડાને આપેલી જમીન અને ગરાસના લેખ કરી આપ્યા, જેથી ભવિષ્યમાં કોઈ તેની પાસેથી તે પડાવી ન શકે અને સોંડો કાયમી સુખી થઈ જાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તામ્રપત્ર = કાયમી સરકારી દસ્તાવેજ.</p></div>"
+    }
+  ]
+}
