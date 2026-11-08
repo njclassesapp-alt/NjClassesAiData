@@ -2525,3 +2525,136 @@ var Std9_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"20": {
+  "chapterName": "પ્રકરણ 20",
+  "chapterTitle": "સમાજસમર્પિત શ્રેષ્ઠી (પાઠ)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘સમાજસમર્પિત શ્રેષ્ઠી’ પાઠના કર્તા (લેખક) કોણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠ કોઈ એક વ્યક્તિ દ્વારા નહીં પરંતુ ‘સંકલિત’ (સંપાદિત) કરવામાં આવેલ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સમાજ' માટે 'સંકલિત' યાદ રાખવું - સ પરથી સ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘સમાજસમર્પિત શ્રેષ્ઠી’ કૃતિનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠનો સાહિત્ય પ્રકાર ‘રેખાચિત્ર’ (ચરિત્ર લેખ) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મહાન વ્યક્તિના જીવનની રેખા દોરીએ એટલે 'રેખાચિત્ર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "આ પાઠમાં કયા મહાનુભાવના જીવન વિશે વાત કરવામાં આવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠમાં નાનજીભાઈ કાલિદાસ મહેતાના જીવન અને કવન વિશે વાત કરવામાં આવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નાનજીભાઈ - જે નાનકડા ગામથી નીકળી મોટા 'શ્રેષ્ઠી' બન્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "નાનજીભાઈ કાલિદાસ મહેતાનો જન્મ ક્યાં થયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નાનજીભાઈનો જન્મ પોરબંદર જિલ્લાના ‘ગોહાણા’ ગામમાં થયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગાયોના ‘ગોંદરે’ જન્મેલા ‘ગોહાણા’ ના રત્ન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "નાનજીભાઈ કેટલા વર્ષની ઉંમરે યુગાન્ડા જવા નીકળ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નાનજીભાઈ માત્ર ૧૩ વર્ષની નાની ઉંમરે યુગાન્ડા જવા નીકળ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એકડો-તગડો તેર, દરિયામાં લહેર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "નાનજીભાઈએ આફ્રિકામાં કયા પાકની ખેતી કરી અજાણ્યા પ્રદેશમાં નવો ઇતિહાસ રચ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નાનજીભાઈએ યુગાન્ડામાં કપાસ, ચા અને કોફીની ખેતીની શરૂઆત કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ક-ચ-કો (કપાસ, ચા, કોફી) - ખેતીનો નવો લ્હાવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "યુગાન્ડાના રાજાએ નાનજીભાઈને કયા સન્માનથી નવાજ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> યુગાન્ડાના રાજાએ તેમને ‘બેરન’ (Baron) નો ઇલકાબ આપ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યુગાન્ડાના 'બેરન', ભારતના 'શરણ'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "નાનજીભાઈએ પોરબંદરમાં કયા ભવનનું નિર્માણ કરાવ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નાનજીભાઈએ પોરબંદરમાં ગાંધીજીના સ્મરણાર્થે ‘કીર્તિમંદિર’ બંધાવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગાંધીજીની કીર્તિ એટલે કીર્તિમંદિર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "નાનજીભાઈએ આર્ય સમાજમાં કરેલા ફાળા બદલ કયો ઇલકાબ મળ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નાનજીભાઈને ‘આર્યરત્ન’ ઇલકાબથી નવાજવામાં આવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આર્ય સમાજના હીરા એટલે 'આર્યરત્ન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "નાનજીભાઈએ સ્ત્રી શિક્ષણ માટે કઈ સંસ્થાની સ્થાપના કરી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નાનજીભાઈએ પોરબંદરમાં ‘આર્ય કન્યા ગુરુકુળ’ ની સ્થાપના કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કન્યાઓ માટેનું 'આર્યધામ' એટલે આર્ય કન્યા ગુરુકુળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "નાનજીભાઈ મહેતા કઈ ફિલોસોફીમાં માનતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નાનજીભાઈ ‘સમાજ પાસેથી જે મેળવ્યું છે, તે સમાજને પાછું આપવું જોઈએ’ એ સિદ્ધાંતમાં માનતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘આદાન-પ્રદાન’ એજ શ્રેષ્ઠીની પહેચાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "નાનજીભાઈએ કયા સ્થળે ‘ભારત મંદિર’ નું નિર્માણ કરાવ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નાનજીભાઈએ પોરબંદરમાં ‘ભારત મંદિર’ (નહેરુ પ્લેનેટોરિયમ પાસે) બંધાવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પોરબંદરના કિનારે, આખું ભારત પધારે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "નાનજીભાઈના હૃદયમાં કોના પ્રત્યે અપાર પ્રેમ હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નાનજીભાઈના હૃદયમાં માતૃભૂમિ (ભારત) અને પોરબંદર પ્રત્યે અપાર પ્રેમ હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વતન પ્રેમ - આફ્રિકામાં કમાયા પણ દિલ ભારતમાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "નાનજીભાઈએ આફ્રિકામાં કઈ ક્રાંતિ કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નાનજીભાઈએ આફ્રિકાના જંગલો સાફ કરી શેરડીના વાવેતર દ્વારા ‘સફેદ સોનું’ (ખાંડ) પેદા કરવાની ક્રાંતિ કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જંગલમાંથી 'મંગલ' અને શેરડીમાંથી 'સફેદ સોનું'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "નાનજીભાઈએ કીર્તિમંદિરમાં કયા ધર્મોના પ્રતીકો મુકાવ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નાનજીભાઈએ કીર્તિમંદિરમાં સર્વધર્મ સંભાવના પ્રતીક તરીકે વિવિધ ધર્મોના ચિહ્નો અંકિત કરાવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સર્વધર્મ સમભાવ = કીર્તિમંદિરનો સ્વભાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "આ પાઠમાં નાનજીભાઈને કેવા શ્રેષ્ઠી કહ્યા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠમાં નાનજીભાઈને ‘સમાજસમર્પિત’ અને ‘યુગપુરુષ’ જેવા શ્રેષ્ઠી કહ્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સમાજ માટે સમર્પિત' એટલે ટાઈટલ જ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "નાનજીભાઈની સફળતા પાછળ કયા ગુણો રહેલા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નાનજીભાઈની સફળતા પાછળ અદમ્ય ઉત્સાહ, પુરુષાર્થ, નિષ્ઠા અને પ્રમાણિકતા જેવા ગુણો રહેલા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉ-પુ-નિ-પ્ર (ઉત્સાહ, પુરુષાર્થ, નિષ્ઠા, પ્રમાણિકતા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "નાનજીભાઈએ પોરબંદરમાં બાળકો માટે શું બનાવ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નાનજીભાઈએ બાળકોના જ્ઞાનવર્ધન માટે ‘જવાહર પ્લેનેટોરિયમ’ (તારા મંડળ) બનાવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાળકો માટે આકાશની સફર એટલે પ્લેનેટોરિયમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કીર્તિમંદિરની ઊંચાઈ કેટલી રાખવામાં આવી છે અને શા માટે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કીર્તિમંદિરની ઊંચાઈ ૭૯ ફૂટ રાખવામાં આવી છે, કારણ કે ગાંધીજી ૭૯ વર્ષ જીવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૧ વર્ષ = ૧ ફૂટ; ૭૯ વર્ષ = ૭૯ ફૂટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "નાનજીભાઈએ હરિજન ઉત્થાન માટે કયું કાર્ય કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નાનજીભાઈએ અસ્પૃશ્યતા નિવારણ માટે અને હરિજનોના શિક્ષણ માટે આર્થિક મદદ અને આશ્રય આપ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગાંધીજીના અનુયાયી એટલે હરિજન સેવા અનિવાર્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "નાનજીભાઈ મહેતાના જીવનનો મુખ્ય મંત્ર શું હતો? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નાનજીભાઈના જીવનનો મુખ્ય મંત્ર ‘પરમાર્થ’ હતો. તેઓ માનતા હતા કે સંપત્તિ એ ઈશ્વરની દેન છે અને તેનો ઉપયોગ સમાજના કલ્યાણ માટે જ થવો જોઈએ. ‘મારું નથી, બધું સમાજનું છે’ એ ભાવના સાથે તેમણે હોસ્પિટલો, શાળાઓ અને મંદિરો બાંધ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્વાર્થ છોડી પરમાર્થ પકડવો એજ નાનજીભાઈનો મંત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "યુગાન્ડામાં નાનજીભાઈએ કરેલી પ્રગતિ વિશે ટૂંકમાં જણાવો. (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નાનજીભાઈએ યુગાન્ડાના જંગલોને ખેતીલાયક બનાવ્યા. તેમણે ત્યાં કપાસ અને શેરડીનું મબલખ ઉત્પાદન કર્યું. ખાંડના કારખાના સ્થાપ્યા અને હજારો લોકોને રોજગારી આપી. તેમની આ ઉદ્યોગ સાહસિકતાને કારણે યુગાન્ડાની અર્થવ્યવસ્થા મજબૂત બની, જેથી તેમને ‘બેરન’ નો ખિતાબ મળ્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જંગલમાંથી ઉદ્યોગનગર બનાવનાર જાદુગર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "આર્ય કન્યા ગુરુકુળની સ્થાપના પાછળનો હેતુ શું હતો? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નાનજીભાઈ ઈચ્છતા હતા કે ભારતની દીકરીઓ માત્ર અક્ષરજ્ઞાન જ નહીં, પણ સંસ્કાર અને સ્વાવલંબનના પાઠ શીખે. ઋષિકાળની ગુરુકુળ પરંપરા મુજબ કન્યાઓ સશક્ત બને અને રાષ્ટ્ર નિર્માણમાં ફાળો આપે તે હેતુથી તેમણે પોરબંદરમાં આર્ય કન્યા ગુરુકુળ સ્થાપ્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શિક્ષણ + સંસ્કાર = આર્ય કન્યા ગુરુકુળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "નાનજીભાઈને ‘સમાજસમર્પિત શ્રેષ્ઠી’ કેમ કહેવામાં આવે છે? (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નાનજીભાઈએ પોતાની અઢળક કમાણીનો મોટો હિસ્સો શિક્ષણ, આરોગ્ય અને ધાર્મિક કાર્યોમાં વાપર્યો હતો. તેમણે ક્યારેય પણ સંપત્તિનો અહંકાર કર્યો નહોતો. સમાજના ઉત્થાન માટે પોતાનું જીવન અને કમાણી હોમી દેનાર વ્યક્તિ સાચા અર્થમાં ‘શ્રેષ્ઠી’ કહેવાય, તેથી તેમને સમાજસમર્પિત શ્રેષ્ઠી કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કમાણી પોતાની, પણ ઉપયોગ બીજાનો - એટલે સમર્પિત શ્રેષ્ઠી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "નાનજીભાઈની રાષ્ટ્રભક્તિ વિશે જણાવો. (૨ ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નાનજીભાઈ વિદેશમાં હોવા છતાં તેમનું મન હંમેશા ભારતની ચિંતા કરતું. તેમણે આઝાદીની લડતમાં આર્થિક સહયોગ આપ્યો હતો. ગાંધીજીના વિચારોને ફેલાવવા કીર્તિમંદિર બનાવ્યું અને ભારતીય સંસ્કૃતિના જતન માટે ભારત મંદિર બનાવ્યું. તેઓ વિદેશમાં ભારતની આન, બાન અને શાન વધારતા રહ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દેહ યુગાન્ડામાં, પણ પ્રાણ ભારતમાં!</p></div>"
+    }
+  ]
+}
