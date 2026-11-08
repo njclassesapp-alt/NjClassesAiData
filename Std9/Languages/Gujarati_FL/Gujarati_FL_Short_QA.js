@@ -2924,3 +2924,136 @@ var Std9_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"23": {
+  "chapterName": "પ્રકરણ 23",
+  "chapterTitle": "લઘુકાવ્યો (દુહા, મુક્તક, હાઈકુ)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘દુહા’ એ કયા પ્રકારનું સાહિત્ય સ્વરૂપ ગણાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘દુહા’ એ ‘લોકસહિત્ય’નું અત્યંત લાઘવયુક્ત અને ચોટદાર સાહિત્ય સ્વરૂપ ગણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes યાદ રાખજો - 'દુહા' એટલે લોકો દ્વારા, લોકો માટે રચાયેલું 'લોકસાહિત્ય'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "હાઈકુ સાહિત્ય પ્રકારનો ઉદભવ કયા દેશમાં થયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હાઈકુ સાહિત્ય પ્રકારનો ઉદભવ ‘જાપાન’ દેશમાં થયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હા-જા (હાઈકુ - જાપાન) - આ બે અક્ષરની જોડી ક્યારેય ન ભૂલતા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "હાઈકુમાં કુલ કેટલા અક્ષરો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હાઈકુમાં કુલ 17 (સત્તર) અક્ષરો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ મેજિક નંબર: 5 + 7 + 5 = 17. આ બંધારણ હાઈકુની ઓળખ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "‘સ્નેહરશ્મિ’ કોનું તખલ્લુસ (ઉપનામ) છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘સ્નેહરશ્મિ’ એ ઝીણાભાઈ રતનજી દેસાઈનું તખલ્લુસ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઝીણી સ્નેહની રશ્મિ' - ઝીણાભાઈ (ઝીણી) અને સ્નેહરશ્મિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મુક્તકના લેખક કોણ છે? (તમારા પાઠ્યપુસ્તક મુજબ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પ્રસ્તુત પ્રકરણમાં આપેલ મુક્તકના લેખક ‘રાઈસાહેબ’ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુક્તક હંમેશા 'રાઈ' જેવડું નાનું પણ ગુણકારી હોય - રાઈસાહેબ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કેવા ઘરે ન જવું જોઈએ તેવું દુહામાં કહેવાયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જે ઘરે આપણને જોઈને આંખોમાં સ્નેહ કે આનંદ (નેહ) ન દેખાય, તેવા ઘરે જવું જોઈએ નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આંખમાં નેહ નહીં, તો ત્યાં જવું સેફ નહીં!'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "લીમડાના ઉદાહરણ દ્વારા દુહામાં શું સમજાવ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લીમડો ભલે કડવો હોય પણ તેની છાયા શીતળ હોય છે, તેમ આપણા ભાઈ-ભાંડુ (સ્વજનો) ગમે તેવા કડવા વેણ કહે તો પણ મુશ્કેલીમાં તેઓ જ આપણી પડખે ઊભા રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કડવો લીમડો = કડવા સ્વજન; શીતળ છાયા = સાચી મદદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "મુક્તકમાં ‘દીપક’ (દીવો) કોને કહેવામાં આવ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મુક્તકમાં એવા સપૂતને ‘દીપક’ કહ્યો છે જે પોતાની આવડત કે સદગુણોથી આખા કુળને ઉજાળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સપૂત = કુળદીપક (પ્રકાશ ફેલાવનાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "હાઈકુમાં સૂકા પર્ણો અને લીલા પર્ણો વચ્ચેનો તફાવત શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સૂકા પર્ણો ખરખર અવાજ કરીને વન ગજવે છે (દેખાડો કરે છે), જ્યારે લીલા પર્ણો હંમેશા શાંત રહીને પ્રકૃતિની સુંદરતા વધારે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અધૂરો ઘડો છલકાય (સૂકાં પર્ણો), ગંભીર માણસ શાંત (લીલાં પર્ણો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સાચો મિત્ર ક્યારે ઓળખાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સાચો મિત્ર ત્યારે ઓળખાય જ્યારે આપણે કોઈ મોટી મુસીબતમાં હોઈએ અથવા દુઃખમાં હોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કસોટીના સમયે જે પાસ થાય, એ જ સાચો મિત્ર ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "‘મુક્તક’ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘મુક્તક’ એટલે મોતી. જેવી રીતે નાનું મોતી કિંમતી હોય છે, તેમ બે કે ચાર પંક્તિના મુક્તકમાં ઊંડો વિચાર ભરેલો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુક્તક = કાવ્યનું 'મોતી' (નાનું પણ તેજસ્વી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "દુહામાં ‘કંચન વરસે મેઘ’ પંક્તિનો અર્થ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પંક્તિનો અર્થ છે કે જો સામેવાળી વ્યક્તિના ઘરે સોનાનો વરસાદ થતો હોય (એટલે કે તે ખૂબ ધનવાન હોય), તો પણ જો ત્યાં આદર ન હોય તો જવું જોઈએ નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૈસો નહીં, પ્રેમ (આદર) મોટો છે - NJ Classes મંત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "હાઈકુનું બંધારણ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હાઈકુ ત્રણ પંક્તિનું કાવ્ય છે. તેની પ્રથમ પંક્તિમાં 5, બીજીમાં 7 અને ત્રીજીમાં 5 અક્ષરો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5-7-5 નો લય, એ જ હાઈકુનો વિજય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "‘રાઈસાહેબ’ના મુક્તકમાં કોની મહત્તા ગાવામાં આવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘રાઈસાહેબ’ના મુક્તકમાં સદગુણી સંતાન (સપૂત) ની મહત્તા ગાવામાં આવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક જ દીવો આખા રૂમને અજવાળે, એક જ સપૂત આખા કુળને તારે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "હાઈકુમાં ‘વન ગજવતાં’ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘વન ગજવતાં’ એટલે સૂકાં પાંદડાં જ્યારે ખરે છે ત્યારે અવાજ કરે છે, જાણે તે આખું વન ગજવી મૂકતા હોય તેમ લાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂકાં પાન = અવાજ/ઘોંઘાટ; લીલાં પાન = શાંતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "‘આવ નહીં, આદર નહીં’ દુહાનો મુખ્ય ઉપદેશ શું છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ દુહાનો મુખ્ય ઉપદેશ અતિથિ સત્કાર અને સ્વાભિમાનનો છે. કવિ કહે છે કે જે વ્યક્તિને ત્યાં જવાથી આપણને આવકાર (આવ) ન મળે, માન-સન્માન (આદર) ન મળે અને જેની આંખોમાં સ્નેહ ન હોય, તેવા શ્રીમંત વ્યક્તિને ઘેર પણ ક્યારેય ન જવું જોઈએ. માણસે પોતાનું સ્વાભિમાન જાળવવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સન્માન વગરનું ધન નકામું છે. 'આદર > સોનું'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "‘કડવા હોય લીમડા, પણ શીતળ એની છાંય’ સમજાવો. (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પંક્તિ દ્વારા કવિ કૌટુંબિક પ્રેમ અને રક્તના સંબંધોનું મહત્વ સમજાવે છે. લીમડો સ્વાદમાં કડવો છે પણ ગરમીમાં તે ઠંડક આપે છે. તેવી જ રીતે આપણા ભાઈઓ કે સગાઓ ક્યારેક કડવું બોલે કે લડે, પણ મુશ્કેલીના સમયે તેઓ જ ઢાલ બનીને આપણી વહારે આવે છે. બાહ્ય કડવાશ કરતાં આંતરિક પ્રેમ વધુ મહત્વનો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભલે બોલે કડવું, પણ લોહીનું સગપણ છે આપણું સાચું વળવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સપૂત અને કુલદીપકની સરખામણી કેવી રીતે કરવામાં આવી છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મુક્તકમાં કહેવાયું છે કે જેમ એક નાનકડો દીવો આખા ઓરડાના અંધકારને દૂર કરી પ્રકાશ ફેલાવે છે, તેમ કુળમાં જન્મેલો એક સદગુણી પુત્ર (સપૂત) પોતાના કાર્યોથી આખા કુળની પ્રતિષ્ઠા વધારે છે અને કુળનું નામ રોશન કરે છે. અહીં દીવો એ જ્ઞાન અને સદગુણનું પ્રતીક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક સપૂત, સો કાપૂત પર ભારે. દીવો = તેજસ્વી કાર્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "હાઈકુ દ્વારા કવિ માનવ સ્વભાવ વિશે શું કહેવા માંગે છે? (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હાઈકુમાં સૂકા અને લીલા પાન દ્વારા માનવ સ્વભાવનું દર્શન કરાવ્યું છે. અલ્પજ્ઞાની કે દેખાડો કરનારા લોકો સૂકા પાંદડાની જેમ બહુ અવાજ કરે છે (બડાશ હાંકે છે), જ્યારે ગંભીર, વિદ્વાન અને ગુણવાન વ્યક્તિઓ લીલા પાંદડાની જેમ હંમેશા શાંત રહીને પોતાનું કાર્ય કરે છે. મૌનનું મહત્વ અહીં સમજાવ્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂકું પાન = બોલકો (ખાલી) માણસ; લીલું પાન = શાંત (જ્ઞાની) માણસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "લઘુકાવ્યોના પ્રકારો જણાવી તેની વિશેષતા લખો. (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લઘુકાવ્યોમાં દુહા, મુક્તક અને હાઈકુનો સમાવેશ થાય છે. 1) દુહા: લોકસાહિત્ય છે, જેમાં નીતિ અને મૂલ્યોની વાત હોય છે. 2) મુક્તક: બે કે ચાર પંક્તિમાં ગંભીર વિચાર રજૂ કરે છે. 3) હાઈકુ: 17 અક્ષરનું ટૂંકું કાવ્ય છે જે કોઈ ચિત્ર કે ભાવ રજૂ કરે છે. આ ત્રણેય પ્રકારોમાં 'ગાગરમાં સાગર' ભરવાની શક્તિ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લઘુકાવ્ય = નાનું પણ નાગ જેવું (ચોટદાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "દુહામાં ‘બાંધવ’ શબ્દનો અર્થ અને મહત્વ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘બાંધવ’ એટલે ભાઈ અથવા પોતાના સ્વજન. દુહામાં બાંધવનું મહત્વ એ છે કે તેઓ ગમે તેટલા કડવા હોય તો પણ આપણી પડખે ઊભા રહે છે, કારણ કે લોહીના સંબંધો મુશ્કેલીમાં ક્યારેય સાથ છોડતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાંધવ = જે મુશ્કેલીમાં 'બાંય' (હાથ) પકડીને ઉભા રાખે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "‘સ્નેહરશ્મિ’ એ કયા કાવ્ય પ્રકારને ગુજરાતીમાં લોકપ્રિય બનાવ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘સ્નેહરશ્મિ’ (ઝીણાભાઈ દેસાઈ) એ ‘હાઈકુ’ કાવ્ય પ્રકારને ગુજરાતી સાહિત્યમાં લોકપ્રિય બનાવ્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ classes યાદ રાખજો - સ્નેહરશ્મિ = હાઈકુના પ્રણેતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "દુહા મુજબ સાચા આતિથ્ય સત્કારના લક્ષણો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સાચા આતિથ્ય સત્કારમાં મહેમાનને જોતા જ યજમાનની આંખોમાં હરખ હોવો જોઈએ, મુખ પર મીઠો આવકાર (આવ) હોવો જોઈએ અને મનમાં આદર હોવો જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવકાર + આદર + પ્રેમ = સાચો સત્કાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "‘સૂકાં પર્ણો વન ગજવતાં’ હાઈકુનો મુખ્ય ભાવ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ હાઈકુનો મુખ્ય ભાવ એ છે કે અજ્ઞાની વ્યક્તિ હંમેશા બહુ દેખાડો કરે છે અને અવાજ કરે છે, જ્યારે સાચા જ્ઞાની અને સ્થિર વ્યક્તિઓ હંમેશા શાંત રહીને પોતાનું કાર્ય સિદ્ધ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાંતિ એ જ શક્તિ છે, ઘોંઘાટ એ નબળાઈ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "મુક્તકની કોઈપણ બે વિશેષતાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 1) મુક્તક ટૂંકું (બે કે ચાર પંક્તિનું) હોય છે. 2) મુક્તકમાં વિચારની સચોટતા અને ચોટદાર અંત હોય છે જે વાચક પર ઊંડી અસર કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનું પણ ચોટદાર - એ જ મુક્તકનો ધાર!</p></div>"
+    }
+  ]
+}
