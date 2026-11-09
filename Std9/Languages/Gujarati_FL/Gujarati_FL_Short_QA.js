@@ -3057,3 +3057,136 @@ var Std9_Gujarati_FL_Short_QA = {
     }
   ]
 }
+,
+"24": {
+  "chapterName": "પ્રકરણ 24",
+  "chapterTitle": "પ્રેરક પ્રસંગો (પૂરક વાચન)",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘પ્રેરક પ્રસંગો’ કૃતિનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘પ્રેરક પ્રસંગો’ કૃતિનો સાહિત્ય પ્રકાર ‘જીવન પ્રસંગ’ (સંકલિત) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રેરણા આપતા 'પ્રસંગો' એટલે જીવન 'પ્રસંગ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "લાલબહાદુર શાસ્ત્રીના જીવનનો મુખ્ય ગુણ કયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લાલબહાદુર શાસ્ત્રીના જીવનનો મુખ્ય ગુણ નિખાલસતા, સાદગી અને અટલ પ્રામાણિકતા હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શાસ્ત્રીજી = સાદગી + સચ્ચાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "રવીન્દ્રનાથ ટાગોરને કયા વિષય પ્રત્યે ઊંડો પ્રેમ હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રવીન્દ્રનાથ ટાગોરને પ્રકૃતિ અને કલા પ્રત્યે ઊંડો પ્રેમ હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રવીન્દ્ર એટલે સૂર્ય, અને સૂર્ય પ્રકૃતિનો ભાગ છે, માટે પ્રકૃતિપ્રેમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "લાલબહાદુર શાસ્ત્રીજીએ સરકારી ગાડીનો ઉપયોગ કોના માટે કર્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શાસ્ત્રીજીના પુત્ર સુનીલે અંગત કામ માટે સરકારી ગાડીનો ઉપયોગ કર્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગાડી સરકારી, કામ અંગત - આ વિરોધાભાસ યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "શાસ્ત્રીજીએ ગાડીના અંગત વપરાશ બદલ શું કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શાસ્ત્રીજીએ ગાડી જેટલા કિલોમીટર ચાલી હતી તેના પૈસા સરકારી તિજોરીમાં જમા કરાવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રામાણિકતા = પૈસા જમા કરાવવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "રવીન્દ્રનાથ ટાગોરે મોડી રાત્રે શું અનુભવ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રવીન્દ્રનાથ ટાગોરે મોડી રાત્રે મીણબત્તી ઓલવતા જ બારીમાંથી આવતા ચંદ્રના શીતળ પ્રકાશ અને કુદરતી સૌંદર્યનો અનુભવ કર્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કૃત્રિમ પ્રકાશ (મીણબત્તી) જાય તો જ કુદરતી (ચંદ્ર) દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "શ્રી અરવિંદ ઘોષે કયો મહામંત્ર આપ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શ્રી અરવિંદ ઘોષે રાષ્ટ્રભક્તિ અને આધ્યાત્મિકતાનો સમન્વય સાધવાનો મંત્ર આપ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અરવિંદ = આધ્યાત્મિકતા + રાષ્ટ્રભક્તિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "શાસ્ત્રીજીના મતે જાહેર મિલકતનો ઉપયોગ કેવી રીતે કરવો જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શાસ્ત્રીજીના મતે જાહેર મિલકતનો ઉપયોગ અત્યંત સાવચેતીપૂર્વક અને માત્ર જાહેર હિત માટે જ કરવો જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જાહેર મિલકત ≠ અંગત મિલકત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ટાગોરની દ્રષ્ટિએ સાચું સૌંદર્ય ક્યાં છુપાયેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ટાગોરની દ્રષ્ટિએ સાચું સૌંદર્ય પ્રકૃતિના સાનિધ્યમાં અને સાદગીમાં છુપાયેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રકૃતિ જ પરમેશ્વરનું સૌંદર્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "આ પાઠના પ્રસંગો વાંચીને વિદ્યાર્થીઓમાં કયા ગુણો વિકસે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠના પ્રસંગોથી વિદ્યાર્થીઓમાં પ્રામાણિકતા, રાષ્ટ્રપ્રેમ, સાદગી અને સંવેદનશીલતા જેવા ગુણો વિકસે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રેરક પ્રસંગો = જીવન ઘડતરના મૂલ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "મીણબત્તી ઓલવ્યા પછી ટાગોરને શું પશ્ચાતાપ થયો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ટાગોરને પશ્ચાતાપ થયો કે નાનકડી મીણબત્તીના પ્રકાશને કારણે તેઓ આટલી વાર સુધી બહારના ભવ્ય ચંદ્રપ્રકાશનો આનંદ માણી શક્યા નહોતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અહંકારની મીણબત્તી ઓલવાય તો જ જ્ઞાનનો ચંદ્ર દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "શાસ્ત્રીજીના જીવનમાંથી ‘જવાબદારી’નો કયો પાઠ શીખવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શાસ્ત્રીજીના જીવનમાંથી શીખવા મળે છે કે ઊંચા પદ પર હોવા છતાં વ્યક્તિએ પોતાની મર્યાદા અને જવાબદારી ચૂકવી જોઈએ નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોટું પદ = મોટી જવાબદારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "શ્રી રવીન્દ્રનાથ ટાગોરને કયું સન્માન મળ્યું હતું? (પાઠના સંદર્ભે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રવીન્દ્રનાથ ટાગોર ‘વિશ્વકવિ’ તરીકે ઓળખાય છે અને તેમને ‘ગીતાંજલિ’ માટે નોબેલ પારિતોષિક મળ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ટાગોર = ગીતાંજલિ + નોબેલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "‘પ્રેરક પ્રસંગો’ પાઠમાં કોના જીવન પ્રસંગોનું આલેખન છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠમાં લાલબહાદુર શાસ્ત્રી અને રવીન્દ્રનાથ ટાગોર જેવા મહાનુભાવોના પ્રેરક પ્રસંગોનું આલેખન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મુખ્ય પાત્રો: શાસ્ત્રીજી અને ટાગોર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "શાસ્ત્રીજીએ ડ્રાઈવર પાસે શું માંગ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શાસ્ત્રીજીએ ડ્રાઈવર પાસે લોગબુક (વાહન વપરાશની નોંધપોથી) માંગી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હિસાબ માટે લોગબુક જરૂરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ટાગોર કયા સમયે ડાયરી લખતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ટાગોર મોડી રાત્રિ સુધી ડાયરી લખતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શાંત વાતાવરણ એટલે રાત્રિનો સમય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "શાસ્ત્રીજીના પુત્રનું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શાસ્ત્રીજીના પુત્રનું નામ સુનીલ હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સુનીલ શાસ્ત્રી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ગાડી કેટલા કિલોમીટર ચાલી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શાસ્ત્રીજીની ગેરહાજરીમાં સરકારી ગાડી ૧૪ કિલોમીટર ચાલી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આંકડો યાદ રાખો - ૧૪ (Fourteen).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "શાસ્ત્રીજીએ કેટલા પૈસા જમા કરાવ્યા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શાસ્ત્રીજીએ ૧૪ કિલોમીટરના હિસાબે તે સમયના દર મુજબ પૈસા જમા કરાવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેટલા કિ.મી. એટલા પૈસા (પારદર્શકતા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ટાગોરના પ્રસંગમાંથી કયો બોધ મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ટાગોરના પ્રસંગમાંથી બોધ મળે છે કે ઘણીવાર આપણે કૃત્રિમ સાધનોમાં એટલા ખોવાઈ જઈએ છીએ કે કુદરતી સૌંદર્ય માણી શકતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કૃત્રિમ ત્યાગો, કુદરત પામો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "શાસ્ત્રીજીના પ્રસંગનું શીર્ષક શું આપી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શાસ્ત્રીજીના પ્રસંગનું શીર્ષક 'આદર્શ વડાપ્રધાન' અથવા 'પ્રામાણિકતાની મૂર્તિ' આપી શકાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાત્રના ગુણ પરથી શીર્ષક નક્કી થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ટાગોરે મીણબત્તી કેમ ઓલવી નાખી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ટાગોરે ઊંઘવા માટે અને બહારના પ્રકાશને જોવા માટે મીણબત્તી ઓલવી નાખી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઓલવવું = અંત લાવવો (કૃત્રિમતાનો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ટૂંક નોંધ લખો: લાલબહાદુર શાસ્ત્રીની પ્રામાણિકતા (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લાલબહાદુર શાસ્ત્રી ભારતના વડાપ્રધાન હોવા છતાં ખૂબ જ સાદગીપૂર્ણ જીવન જીવતા હતા. એકવાર તેમના પુત્રએ તેમની ગેરહાજરીમાં સરકારી ગાડીનો ૧૪ કિલોમીટર ઉપયોગ કર્યો. શાસ્ત્રીજીને જાણ થતા તેમણે તરત જ લોગબુક મંગાવી અને ૧૪ કિલોમીટરના અંગત વપરાશના પૈસા સરકારી તિજોરીમાં જમા કરાવ્યા. આ પ્રસંગ તેમની અટલ પ્રામાણિકતા અને જાહેર મિલકત પ્રત્યેની નિષ્ઠા દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યાદ રાખો: વડાપ્રધાન + સરકારી ગાડી + ૧૪ કિ.મી. + પૈસા જમા = પ્રામાણિકતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ટાગોરના પ્રસંગ દ્વારા કુદરતી સૌંદર્યનું મહત્વ સમજાવો. (2 ગુણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રવીન્દ્રનાથ ટાગોર મોડી રાત સુધી મીણબત્તીના પ્રકાશમાં લખતા હતા. જેવી તેમણે મીણબત્તી ઓલવી કે તરત જ બારીમાંથી ચંદ્રનો અદભૂત પ્રકાશ ઓરડામાં રેલાયો. તેમને સમજાયું કે નાનકડી મીણબત્તીના અહંકાર જેવા પ્રકાશે તેમને આટલી વાર સુધી કુદરતના ભવ્ય સૌંદર્યથી વંચિત રાખ્યા હતા. કુદરતનું સૌંદર્ય શાંત અને મંત્રમુગ્ધ કરનારું હોય છે, જે માત્ર હૃદયની આંખે જ જોઈ શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યાદ રાખો: મીણબત્તી = મર્યાદિત જ્ઞાન, ચંદ્રપ્રકાશ = અનંત કુદરત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "પૂરક વાચનનો હેતુ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પૂરક વાચનનો મુખ્ય હેતુ વિદ્યાર્થીઓના વાચન કૌશલ્યનો વિકાસ કરવો અને તેમને મહાન વ્યક્તિઓના જીવનમાંથી પ્રેરણા પૂરી પાડવાનો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પૂરક = વધારાનું પણ મૂલ્યવાન જ્ઞાન.</p></div>"
+    }
+  ]
+}
