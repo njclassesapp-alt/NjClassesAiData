@@ -1,4 +1,4 @@
-var njQuestionsDatabase = [
+var njQuestionsDatabase = {
 "1": {
   "chapterName": "પ્રકરણ 1",
   "chapterTitle": "વનસ્પતિમાં પોષણ",
