@@ -472,3 +472,161 @@ var Std9_Gujarati_FL_Chapter_Grammar = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "ગોપાળબાપા (પાઠ)",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'ગોપાળબાપા' પાઠના લેખકનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મનુભાઈ પંચોળી 'દર્શક'</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યાદ રાખો - 'મનુ' અને 'દર્શક' બંને એક જ છે, જેમણે ગોપાળબાપાની નિષ્ઠાના દર્શન કરાવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'ગોપાળબાપા' પાઠનો સાહિત્ય પ્રકાર કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નવલકથાખંડ (અંશ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ પાઠ એક મોટી નવલકથાનો નાનો 'ટુકડો' એટલે કે 'ખંડ' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "'ગોપાળબાપા' અંશ કઈ પ્રસિદ્ધ નવલકથામાંથી લેવામાં આવ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઝેર તો પીધાં છે જાણી જાણી (ભાગ-1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ઝેર' અને 'જાણી' - બંને 'જ' થી શરૂ થાય છે, દર્શકનું સૌથી મોટું કામ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સમાનાર્થી શબ્દ આપો: 'કોતર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નદીના પ્રવાહથી બનેલો ઊંડો ખાડો / બખોલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોતર = જે કુદરતે કોતરેલું (કોતરણી કરેલું) હોય તે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સમાનાર્થી શબ્દ આપો: 'ભેખડ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નદી કાંઠાનો માટીનો કરાડ / ઊંચો કિનારો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભેખડ = નદી પાસેનો માટીનો પહાડ જેવો ભાગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સમાનાર્થી શબ્દ આપો: 'વેકરો'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નદીની રેતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'વેકરો' એટલે નદીમાં પથરાયેલી 'રેતી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સમાનાર્થી શબ્દ આપો: 'ગીંગોડો'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગાય, ભેંસ કે કુતરાના શરીર પર બાઝતો એક જીવડો (ઈતરડી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગીંગોડો = જે 'ચોંટી' જાય એવો જીવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સમાનાર્થી શબ્દ આપો: 'પરમાર્થ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પરોપકાર / બીજાનું ભલું કરવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પર + અર્થ = બીજાના અર્થ (ભલા) માટે કરેલું કામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સમાનાર્થી શબ્દ આપો: 'ભાઠો'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નદીમાં રેતીના ઠરવાથી બનેલો નવો પ્રદેશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નદીની વચ્ચે જે જમીન જેવું દેખાય તે 'ભાઠો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિરોધી શબ્દ આપો: 'અસલ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નકલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઓરિજિનલ (અસલ) ની સામે ડુપ્લીકેટ (નકલ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિરોધી શબ્દ આપો: 'સ્વાર્થ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પરમાર્થ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્વ (પોતાનું) vs પર (બીજાનું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિરોધી શબ્દ આપો: 'શાણો'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મૂર્ખ / ઠોઠ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શાણો એટલે ડાહ્યો, જેનો વિરોધી મૂર્ખ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિરોધી શબ્દ આપો: 'આઝાદી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગુલામી / પરાધીનતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): છૂટા હોવું (આઝાદી) vs બંધનમાં હોવું (ગુલામી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિરોધી શબ્દ આપો: 'નિવારસ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સવારસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'નિ' એટલે વગરનું અને 'સ' એટલે સાથેનું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સાચી જોડણી લખો: 'શિવાલય'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શિવાલય (શ્ ને હ્રસ્વ 'િ')</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શિવ + આલય. 'શિવ' હંમેશા હ્રસ્વ જ લખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સાચી જોડણી લખો: 'મૂર્તિ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મૂર્તિ (મ્ ને દીર્ઘ 'ૂ' અને ત્ ને હ્રસ્વ 'િ')</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'મૂર્તિ' માં 'મૂ' લાંબો ખેંચાય છે (દીર્ઘ) અને 'તિ' ટૂંકો છે (હ્રસ્વ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સાચી જોડણી લખો: 'વિષાદ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિષાદ (વ્ ને હ્રસ્વ 'િ' અને ષટકોણનો 'ષ')</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિષાદ એટલે દુઃખ, જેમાં હંમેશા ષટકોણનો 'ષ' આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સાચી જોડણી લખો: 'સૂર્યમુખી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સૂર્યમુખી (સ્ ને દીર્ઘ 'ૂ' અને ખ્ ને દીર્ઘ 'ી')</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સૂર્ય' હંમેશા દીર્ઘ 'ૂ' સાથે જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સાચી જોડણી લખો: 'ચિઠ્ઠી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ચિઠ્ઠી (ચ્ ને હ્રસ્વ 'િ' અને ઠ્ઠ ને દીર્ઘ 'ી')</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઠ્ઠી એટલે બે 'ઠ' જોડાયેલા છે તે ધ્યાન રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'જેનો કોઈ વારસદાર ન હોય તેવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિવારસ / અપુત્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નિ: (વગરનું) + વારસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'પથ્થર પર કોતરાયેલો લેખ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શિલાલેખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શિલા (પથ્થર) + લેખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'ગાયોનું મોટું ટોળું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ગાયો' માટે 'ધણ' શબ્દ જ વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'શિવનું મંદિર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શિવાલય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શિવ + આલય (રહેઠાણ/મંદિર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'લગામ વગરનું (નિયંત્રણ વગરનું)'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રાંઢું / છૂટું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠમાં 'રાંઢું' શબ્દ બળદ કે ઢોર માટે વપરાયો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'પેટ મોટા હોવા'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઉદાર દિલના હોવું / ઉદાર હોવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોટું પેટ = મોટી ઉદારતા (સયાજીરાવ ગાયકવાડ માટે વપરાયું છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'ગળે વળગવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જવાબદારી આવી પડવી / માથે પડવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોઈ કામ પરાણે સ્વીકારવું પડે ત્યારે 'ગળે વળગ્યું' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'ભૂખ મારવી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગુજરાન ચલાવવું / ભૂખ સંતોષવી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠમાં ગરીબોની ભૂખ મારવાની વાત એટલે તેમને રોજીરોટી આપવાની વાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "તળપદા શબ્દનું શિષ્ટરૂપ આપો: 'અત્યારે'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અત્યારે (અટાણે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અટાણે = અત્યારે. ગામડાની બોલીમાં 'ટાણું' એટલે સમય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "તળપદા શબ્દનું શિષ્ટરૂપ આપો: '્યીં' (ઈં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ત્યાં / અહીં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગોપાળબાપાની બોલીમાં 'ઈં' એટલે કોઈ સ્થળનો નિર્દેશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "'ગોપાળબાપા' પાઠમાં કયા બે વ્યક્તિઓનો સંવાદ મુખ્ય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગોપાળબાપા અને મહારાજા સયાજીરાવ ગાયકવાડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એક બાજુ સાચો ખેડૂત (ગોપાળબાપા) અને બીજી બાજુ પ્રજાવત્સલ રાજા (સયાજીરાવ).</p></div>"
+    }
+  ]
+}
