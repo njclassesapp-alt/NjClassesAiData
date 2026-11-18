@@ -630,3 +630,161 @@ var Std9_Gujarati_FL_Chapter_Grammar = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "ગુર્જરીના ગૃહકુંજે (કાવ્ય)",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'ગુર્જરીના ગૃહકુંજે' કાવ્યના કવિનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સુંદરમ્ (ત્રિભુવનદાસ પુરુષોત્તમદાસ લુહાર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સુંદર ગુર્જરી' - આટલું યાદ રાખો એટલે કાવ્ય અને કવિનું નામ સેટ થઈ જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'ગુર્જરીના ગૃહકુંજે' કાવ્યનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગીતકાવ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે પણ વતનના પ્રેમની વાત ગાઈને કરવામાં આવે ત્યારે તેને 'ગીત' પ્રકારનું કાવ્ય સમજવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સુંદરમ્‌નું ઉપનામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ત્રિશૂળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સુંદરમ્ કવિના બે નામ પ્રખ્યાત છે: 1. સુંદરમ્ 2. ત્રિશૂળ. (સુંદર ત્રિશૂળ)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "'ગૃહકુંજ' શબ્દનો સમાનાર્થી શબ્દ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઘરરૂપી વનરાજી / ઘરનો બગીચો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગૃહ = ઘર અને કુંજ = વનરાજી કે ઝાડની ઘટા. બંનેને ભેગા કરો એટલે અર્થ મળી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "'ગુર્જરી' શબ્દનો અર્થ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગુજરાતી ભાષા / ગુજરાતની ધરતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુર્જરી એટલે ગુજરાતનું ગૌરવ દર્શાવતી વાણી કે ભૂમિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિરોધી શબ્દ લખો: 'શીતળ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઉષ્ણ (ગરમ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શીત એટલે ઠંડુ, તો એનું ઉલટું ઉષ્ણ એટલે ગરમ થાય. (શીતળતા vs ઉષ્ણતા)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જોડણી સુધારો: 'ગુંજરી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગુર્જરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ર્' નો રેફ હંમેશા તેના પછીના અક્ષર પર આવે, એટલે 'જ' ની ઉપર રેફ આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સમાનાર્થી શબ્દ આપો: 'ગર્જન'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગર્જના / મોટો અવાજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગર્જન એટલે વાદળ કે સિંહનો હચમચાવી દે તેવો અવાજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'ઝાડ કે લતાની ઘટાથી છવાયેલી જગ્યા'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કુંજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કુંજ એટલે કુદરતી ગ્રીન હાઉસ, જ્યાં લતાઓ છવાયેલી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'આંખ ખુલવી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જન્મ લેવો (કાવ્યના સંદર્ભમાં) / સાચી સમજ આવવી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ કાવ્યમાં 'આંખ ખુલવી' એટલે દુનિયા જોવી, એટલે કે જન્મ ધારણ કરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સમાનાર્થી શબ્દ આપો: 'ઉર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હૃદય / હૈયું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉર એટલે અંદરનું દિલ, જે ભાવનાઓથી ભરેલું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિરોધી શબ્દ લખો: 'મંગલ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અમંગલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુજરાતી વ્યાકરણમાં ઘણા શબ્દો આગળ 'અ' લગાવવાથી વિરોધી બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "જોડણી સુધારો: 'પૌરુષ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પૌરુષ (શ - ષ નો ભેદ ધ્યાન રાખવો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પૌરુષમાં હંમેશા ષટ્કોણનો 'ષ' જ વપરાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'નવા પાનથી છવાયેલું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પલ્લવિત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પલ્લવ એટલે પાંદડું અને પલ્લવિત એટલે પાંદડાંવાળું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સમાનાર્થી શબ્દ આપો: 'મયૂખ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કિરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સૂર્યના કિરણોને સંસ્કૃતમાં 'મયૂખ' કહેવાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "'અમે અહીં રોયા કલ્લોલ્યા' - કાવ્યપંક્તિનો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અમે અહીં જ સુખ-દુઃખનો અનુભવ કર્યો અને અહીં જ આનંદ કર્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રોયા = દુઃખ અને કલ્લોલ્યા = સુખ/આનંદ. જીવનના બંને પાસા વતનમાં જ જોયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિરોધી શબ્દ લખો: 'સ્મિત'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રુદન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્મિત એટલે હસવું, તેનું ઉલટું રડવું એટલે કે રુદન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સમાનાર્થી શબ્દ આપો: 'ભૂમિ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધરતી / વસુધા / ધરણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાવ્યમાં વતનની ભૂમિને માતૃભૂમિ તરીકે પૂજવામાં આવી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "જોડણી સુધારો: 'શિયળો'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શિયાળો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શિયાળામાં 'િ' (હ્રસ્વ ઇ) આવે અને છેલ્લે 'ળો' આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'જગતના લોકોનો સમૂહ કે દુનિયાનો બગીચો'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિશ્વવાડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિશ્વ એટલે આખી દુનિયા અને વાડી એટલે બગીચો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સમાનાર્થી શબ્દ આપો: 'વારિ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પાણી / જળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વારિ, નીર, જળ, તોય અને પાણી - આ બધા પર્યાય શબ્દો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિરોધી શબ્દ લખો: 'પહેલી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> છેલ્લી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શરૂઆત (પહેલી) અને અંત (છેલ્લી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "'પગલી ભરી અહીં પહેલી' - પંક્તિમાં કયા તબક્કાની વાત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બાળપણમાં ચાલતા શીખવાની વાત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નાનું બાળક જ્યારે ચાલતા શીખે ત્યારે તેને 'પગલી' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સમાનાર્થી શબ્દ આપો: 'સંદેહ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શંકા / સંશય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નિસંદેહ એટલે શંકા વગરનું અને સંદેહ એટલે શંકા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જોડણી સુધારો: 'પ્રજવલીત'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પ્રજ્વલિત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અહીં 'જ' અને 'વ' જોડાક્ષર છે અને 'લિ' હ્રસ્વ આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "કાવ્યમાં કવિએ 'ખેતર, ડુંગર અને કોતર' દ્વારા શું દર્શાવ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વતનની પ્રકૃતિ પ્રત્યેનો પ્રેમ અને સાન્નિધ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કવિએ બાળપણ વતનની નદીઓ, ખેતરો અને કોતરોમાં વિતાવ્યું છે તે યાદ કર્યું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "'વસુધા' શબ્દનો અર્થ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પૃથ્વી / ધરતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'વસુ' એટલે દ્રવ્ય/રત્ન અને તેને ધારણ કરનાર એટલે વસુધા (ધરતી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સમાનાર્થી શબ્દ આપો: 'તાપ્યા'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તાપણું કરવું / હૂંફ મેળવવી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શિયાળામાં ઠંડી ઉડાડવા અગ્નિ પાસે બેસવાની ક્રિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "'ગુર્જરીના ગૃહકુંજે' કાવ્ય કયા કાવ્યસંગ્રહમાંથી લેવામાં આવ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> 'વસુધા' કાવ્યસંગ્રહમાંથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સુંદરમ્‌ની 'વસુધા' માંથી આ અદ્ભુત ગીત લેવાયું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "'અમે અહીં રોમરોમ પ્રજ્વલિત' - આ પંક્તિમાં કવિ શું કહેવા માંગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વતનની માટી માટે કવિની નસેનસમાં ઉત્સાહ અને દેશપ્રેમ વહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રોમરોમ પ્રજ્વલિત એટલે અંતરની ઊંડી ભાવનાઓ જાગૃત થવી.</p></div>"
+    }
+  ]
+}
