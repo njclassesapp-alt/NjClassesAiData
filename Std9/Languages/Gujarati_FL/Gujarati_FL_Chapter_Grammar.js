@@ -788,3 +788,161 @@ var Std9_Gujarati_FL_Chapter_Grammar = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "લોહીની સગાઈ (પાઠ)",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘લોહીની સગાઈ’ કૃતિના લેખકનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઈશ્વર પેટલીકર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ઈશ્વર' ને 'લોહીની સગાઈ' સાચી હોય છે - આ રીતે લેખકનું નામ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘લોહીની સગાઈ’ પાઠનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નવલિકા (ટૂંકી વાર્તા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'લોહીની સગાઈ' એક હૃદયસ્પર્શી ટૂંકી વાર્તા (નવલિકા) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "‘લોહીની સગાઈ’ નવલિકા કયા વાર્તાસંગ્રહમાંથી લેવામાં આવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘લોહીની સગાઈ’ વાર્તાસંગ્રહમાંથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે પાઠનું નામ છે, એ જ સંગ્રહનું નામ છે - યાદ રાખવું સાવ સરળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સમાનાર્થી શબ્દ આપો: 'વલોપાત'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રુદન, ભારે દુઃખ, આક્રંદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મનનો 'પાત' (પતન/દુઃખ) એટલે વલોપાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સમાનાર્થી શબ્દ આપો: 'ઉપચાર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સારવાર, ઇલાજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બિમારીમાં 'ઉપરથી' જે મદદ મળે તે 'ઉપચાર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સમાનાર્થી શબ્દ આપો: 'પરિચારિકા'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સેવિકા, નર્સ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે સેવામાં 'ચારે' બાજુ હાજર હોય તે પરિચારિકા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિરોધી શબ્દ આપો: 'કૃતજ્ઞ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કૃતઘ્ન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'જ' (જાણનાર) નું વિરોધી 'ઘ્ન' (હણનાર/ભૂલી જનાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિરોધી શબ્દ આપો: 'પ્રત્યક્ષ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પરોક્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે આંખ સામે (પ્રતિ+અક્ષ) હોય તે પ્રત્યક્ષ, જે દૂર હોય તે પરોક્ષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિરોધી શબ્દ આપો: 'ભીનું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સૂકું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મંગુ પથારી 'ભીની' કરતી, અમૃતકાકી 'સૂકું' કરી આપતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સાચી જોડણી લખો: 'ઇસ્પિતાલ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઇસ્પિતાલ (હૉસ્પિટલ માટે વપરાતો તળપદો/જૂનો શબ્દ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અહીં 'ઇ' હસ્વ આવશે અને 'પ' અડધો આવશે નહીં, આખું લખાશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સાચી જોડણી લખો: 'શિલાલેખ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શિલાલેખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'શિ' હસ્વ ઇ (short i) આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સાચી જોડણી લખો: 'પરિચારિકા'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પરિચારિકા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'પરિ' અને 'રિકા' બંનેમાં હસ્વ 'ઇ' આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'હૈયે હોળી સળગવી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અતિશય દુઃખ થવું / મનમાં ચિંતા કે વ્યથા થવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હોળી ગરમ હોય, હૃદયમાં ગરમી લાગે એટલે કે અતિશય પીડા થવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'આકાશ તૂટી પડવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અચાનક મોટી આફત આવી પડવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આકાશ મોટું છે, તે તૂટે તો આફત પણ મોટી જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'હૈયું ભરાઈ આવવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અત્યંત ભાવુક થઈ જવું / રડવું આવવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે લાગણી હૃદયમાં સમાતી નથી ત્યારે તે આંસુ બનીને બહાર આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'પથ્થર પર કોતરાયેલો લેખ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શિલાલેખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શિલા = પથ્થર, લેખ = લખાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'જેનું મન ઠેકાણે ન હોય તેવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અસ્થિરમગજનું અથવા ગાંડું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે સ્થિર નથી તે 'અસ્થિર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'ગાયોનો સમૂહ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગૌધણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગૌ એટલે ગાય અને ધણ એટલે ટોળું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "‘મંગુ’ કોણ હતી અને તે કેવી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મંગુ અમૃતકાકીની સૌથી નાની દીકરી હતી. તે જન્મથી જ ગાંડી અને મૂંગી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મંગુ = ગાંડી + મૂંગી + અમૃતકાકીની વહાલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સંધિ છૂટી પાડો: 'પરિચારિકા'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પરિ + ચારિકા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'પરિ' એટલે આસપાસ, સેવા માટે આસપાસ રહેતી સ્ત્રી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "તળપદા શબ્દનું શિષ્ટરૂપ આપો: 'ભણી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તરફ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'આ ભણી આવ' એટલે 'આ તરફ આવ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "તળપદા શબ્દનું શિષ્ટરૂપ આપો: 'મયણું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મયણું શબ્દ મરણ (Death) પરથી ઉતરી આવ્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિશેષણ ઓળખાવો: 'અમૃતકાકી મંગુને ખૂબ વહાલ કરતા.'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ખૂબ (પરિમાણવાચક વિશેષણ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કેટલું વહાલ? તો કે 'ખૂબ'. જથ્થો દર્શાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'પથ્થર પર પાણી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કરેલો પ્રયત્ન નિષ્ફળ જવો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પથ્થર પર પાણી રેડો તો તે શોષાય નહીં, એમ શિખામણ અસર ન કરે તો તેને પથ્થર પર પાણી કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'મૃત્યુ પછી કરવામાં આવતી ઉત્તરક્રિયા'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શ્રાદ્ધ / મયણું (પાઠના સંદર્ભમાં)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાછળની ક્રિયા એટલે 'ઉત્તરક્રિયા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "સાચી જોડણી લખો: 'કૃતાર્થ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કૃતાર્થ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'થ' ઉપર રેફ આવશે, કારણ કે 'ર્' નો ઉચ્ચાર થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "‘લોહીની સગાઈ’ વાર્તાનું મુખ્ય પાત્ર કોણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અમૃતકાકી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વાર્તામાં માતૃત્વની પરાકાષ્ઠા અમૃતકાકી દ્વારા દર્શાવાઈ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ગામમાં બીજી કઈ છોકરી ગાંડી થઈ ગઈ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કુસુમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કુસુમ સાજી થઈ એટલે જ અમૃતકાકી મંગુને દવાખાને મૂકવા તૈયાર થયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિરોધી શબ્દ આપો: 'સાર્થક'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિરર્થક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ (સાથે) અને નિર (વગર) - અર્થ સાથે અને અર્થ વગર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વાક્યનો પ્રકાર ઓળખાવો: 'મંગુને દવાખાને મૂકવી એ તો તેને મોતના મોંમાં ધકેલવા જેવું છે.'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિધાન વાક્ય (સાદું વાક્ય)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે વાક્યમાં હકીકતનું સીધું કથન હોય તે વિધાન વાક્ય.</p></div>"
+    }
+  ]
+}
