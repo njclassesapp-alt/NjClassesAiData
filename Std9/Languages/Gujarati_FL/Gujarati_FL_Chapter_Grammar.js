@@ -1420,3 +1420,161 @@ var Std9_Gujarati_FL_Chapter_Grammar = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "ભારતીય સંસ્કૃતિની સિદ્ધિ (પાઠ)",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘ભારતીય સંસ્કૃતિની સિદ્ધિ’ પાઠના લેખકનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિનોબા ભાવે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'વિનોબા' માં 'વિ' એટલે વિચારક અને સંસ્કૃતિના 'સિદ્ધ' પુરુષ - આમ લેખક યાદ રહી જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘ભારતીય સંસ્કૃતિની સિદ્ધિ’ કૃતિનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિબંધ (લલિત નિબંધ/વિચારાત્મક નિબંધ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંસ્કૃતિ વિશે 'નિબંધ' દ્વારા જ સચોટ માહિતી 'બં'ધાયેલી રીતે આપી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સમાનાર્થી શબ્દ આપો: 'સંસ્કૃતિ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સુધારેલી સ્થિતિ, સંસ્કારિતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંસ્કૃતિ = સુધારેલી (સમ + કૃતિ), જે સારું કરવામાં આવ્યું છે તે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સમાનાર્થી શબ્દ આપો: 'પ્રકૃતિ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સહજ સ્વભાવ, કુદરત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'પ્રકૃતિ' એટલે જે 'પ્ર'થમેથી એટલે કે જન્મેથી જ સાથે છે તે સ્વભાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સમાનાર્થી શબ્દ આપો: 'વિકૃતિ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બગડેલી સ્થિતિ, અસ્વાભાવિક ફેરફાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'વિકૃતિ' માં 'વિ' એટલે વિષમ અથવા ખરાબ કરેલી કૃતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિરોધી શબ્દ આપો: 'પ્રાચીન'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અર્વાચીન / નૂતન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રાચીન (જૂનું) vs અર્વાચીન (નવું) - આ જોડી પરીક્ષામાં વારંવાર પૂછાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિરોધી શબ્દ આપો: 'સાવધ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અસાવધ / ગાફેલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સ' એટલે સાથે અને 'અ' એટલે વગર; સાવધ (જાગૃત) - અસાવધ (બેદરકાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સાચી જોડણી લખો: 'શારિરીક'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શારીરિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'રિક' પ્રત્યય હંમેશા હ્રસ્વ (િ) હોય છે, અને આગળનો 'રી' દીર્ઘ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સાચી જોડણી લખો: 'પરિસ્થિતી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પરિસ્થિતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સ્થિતિ' શબ્દમાં બંને 'િ' હ્રસ્વ આવે તે ધ્યાનમાં રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: 'જેનો કોઈ જોટો ન હોય તેવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અદ્વિતીય / અજોડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અ + દ્વિતીય = જેના જેવું બીજું કોઈ નથી તે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: 'સદાય ટકી રહે તેવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શાશ્વત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'શાશ્વત' નો અર્થ જ થાય છે જેનો ક્યારેય અંત ન આવે, જે અમર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'પાયો નાખવો'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શરૂઆત કરવી / પાયાનું કાર્ય કરવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેમ મકાન બનાવતા પહેલા પાયો ખોદાય, તેમ કોઈપણ મહાન કાર્યની શરૂઆત કરવી એટલે પાયો નાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિનોબા ભાવે કયા આંદોલન માટે જાણીતા છે? (પાઠના આધારે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભૂદાન આંદોલન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિનોબા એટલે 'ભૂદાન' - જમીનનું દાન કરાવનાર સંત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સમાનાર્થી શબ્દ આપો: 'વર્જ્ય'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ત્યજવા જેવું, ત્યાગ કરવા યોગ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'વર્જ્ય' એટલે જેને આપણે આપણા જીવનમાંથી 'વર્જી' દેવાનું છે (દૂર કરવાનું છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિરોધી શબ્દ આપો: 'સામ્ય'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વૈષમ્ય / તફાવત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સામ્ય એટલે સમાનતા, વૈષમ્ય એટલે વિષમતા અથવા જુદાપણું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: 'આત્માને લગતું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આધ્યાત્મિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અધિ + આત્મ = આધ્યાત્મ. જે આત્માની સાથે જોડાયેલું છે તે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સાચી જોડણી લખો: 'નિતી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નીતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'નીતિ' માં 'ની' હંમેશા દીર્ઘ આવે, રીત-નીતિ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સમાનાર્થી શબ્દ આપો: 'અદભૂત'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અનોખું, આશ્ચર્યકારક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે જોઈને 'અદ' (આશ્ચર્ય) થાય તે અદભૂત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પાઠના આધારે જણાવો: 'ભૂખ લાગે ત્યારે ખાવું' એ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પ્રકૃતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સહજ રીતે થતી ક્રિયા એટલે પ્રકૃતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પાઠના આધારે જણાવો: 'ભૂખ ન હોય છતાં ખાવું' એ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિકૃતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જરૂરિયાત વગરનો અતિરેક એટલે જ વિકૃતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "પાઠના આધારે જણાવો: 'ભૂખ હોવા છતાં એકાદશીના કારણે ન ખાવું' એ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સંસ્કૃતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉચ્ચ આદર્શ માટે કરેલો ત્યાગ એટલે જ સંસ્કૃતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિરોધી શબ્દ આપો: 'સાવધાન'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અસાવધાન / બેદરકાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'અ' ઉપસર્ગ લગાડવાથી વિરોધી શબ્દ બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: 'જેનો નાશ ન થાય તેવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અવિનાશી / અક્ષય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અ + વિનાશ = જેનો વિનાશ શક્ય નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સમાનાર્થી શબ્દ આપો: 'ક્ષીણ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઘસાયેલું, નબળું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ક્ષીણ થવું એટલે ઓછું થવું અથવા નબળું પડવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સાચી જોડણી લખો: 'વિજ્ઞાન'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિજ્ઞાન (આ શબ્દ શુદ્ધ જ છે, પણ ઘણીવાર વીજ્ઞાન લખાય છે જે ખોટું છે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'વિ' ઉપસર્ગમાં હંમેશા હ્રસ્વ 'િ' આવે (જેમ કે વિચાર, વિજય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિરોધી શબ્દ આપો: 'સજ્જન'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દુર્જન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સત્ (સારું) + જન vs દુર્ (ખરાબ) + જન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "સમાનાર્થી શબ્દ આપો: 'નિરંતર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સતત, હરહંમેશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેમાં કોઈ 'અંતર' (Gap) નથી તે એટલે નિરંતર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: 'પોતાનામાં જ મગ્ન રહેનાર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આત્મરત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આત્મા + રત (તલ્લીન). જે પોતાની અંદર જ આનંદ શોધે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિનોબા ભાવેનું પૂરું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિનાયક નરહરિ ભાવે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'વિનાયક' (ગણેશજીનું નામ) યાદ રાખો, જે તેમના મૂળ નામની ઓળખ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "સમાનાર્થી શબ્દ આપો: 'અવિચળ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્થિર, અડગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અ + વિચળ = જે ડગે નહીં, જે ચલિત ન થાય તેવું.</p></div>"
+    }
+  ]
+}
