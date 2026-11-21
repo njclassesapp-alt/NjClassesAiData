@@ -1578,3 +1578,161 @@ var Std9_Gujarati_FL_Chapter_Grammar = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "મરજીવિયા (કાવ્ય)",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'મરજીવિયા' કાવ્યના કવિનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પૂજાલાલ રણછોડદાસ દલવાડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'મરજીવિયા' દરિયામાં 'પૂજા' કરવા નથી જતા પણ મોતી લેવા જાય છે - કવિનું નામ 'પૂજાલાલ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'મરજીવિયા' કાવ્યનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સોનેટ (Sonnet)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સોનેટમાં ૧૪ પંક્તિ હોય અને મરજીવિયામાં પણ ૧૪ પંક્તિ છે, એટલે 'મરજીવિયા = સોનેટ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "'રત્નાકર' શબ્દનો સમાનાર્થી શબ્દ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સમુદ્ર, દરિયો, સાગર, અબ્ધિ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રત્ન + આકર (ભંડાર) = જેમાં રત્નોનો ભંડાર છે તેવો સમુદ્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "'અગાધ' શબ્દનો અર્થ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અતિ ઊંડું, જેનો તાગ ન મળે તેવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'અ + ગાધ' - જેની ગાધ (માપ) ન આવે તેવું એટલે 'અગાધ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "'મરજીવિયા' શબ્દનો શબ્દસમૂહ માટે એક શબ્દ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સમુદ્રના તળિયેથી મોતી કાઢી લાવનાર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મરવા જેવી હિંમત રાખીને જીવ (જીવના જોખમે) કામ કરનાર એટલે 'મરજીવિયા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "'ઉત્સાહ' શબ્દનો વિરોધી શબ્દ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિરુત્સાહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોટાભાગના 'ઉ' થી શરૂ થતા શબ્દોમાં વિરોધી બનાવવા 'નિર્' પ્રત્યય લાગે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "'મહારવ' શબ્દનો સમાનાર્થી શબ્દ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મોટો અવાજ, ગર્જના.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મહા (મોટો) + રવ (અવાજ) = મહારવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "'મરજીવિયા' શબ્દની સાચી જોડણી લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મરજીવિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'જી' દીર્ઘ અને 'વિ' હ્રસ્વ - જીવ બચાવવા 'વિ' નમ્ર થવું પડે (જી-દીર્ઘ, વિ-હ્રસ્વ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "'હામ ન હારવી' રૂઢિપ્રયોગનો અર્થ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હિંમત ન ખોવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હામ એટલે હિંમત. હામ હારે તે હારે, હામ રાખે તે જીતે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "'તમસ' શબ્દનો અર્થ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અંધકાર / અંધારું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'તમોગુણ' માં અંધકાર હોય, તેમ 'તમસ' એટલે અંધકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "'પ્રિયજનો' શબ્દનો વિગ્રહ કરી સમાસ ઓળખાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પ્રિય એવા જનો - કર્મધારય સમાસ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે પ્રથમ પદ વિશેષણ (પ્રિય) હોય ત્યારે તે કર્મધારય સમાસ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "'તળ' શબ્દનો વિરોધી શબ્દ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સપાટી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દરિયામાં સૌથી નીચે 'તળ' હોય અને સૌથી ઉપર 'સપાટી' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "'ગર્જવું' ક્રિયાપદનો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગર્જના કરવી, મોટો અવાજ કરવો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વાદળ કે સિંહની જેમ સાગર પણ 'ગર્જે' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "'સજલ' શબ્દનો વિરોધી શબ્દ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિર્જલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સ' (સાથે) નું વિરોધી 'નિર્' (વગર) થાય. સજલ x નિર્જલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "'વરિયા' શબ્દનો અર્થ કાવ્યના સંદર્ભમાં જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વર્યા, પસંદ કર્યા, મેળવ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મરજીવિયાએ મોતી 'વર્યા' એટલે કે મોતી પ્રાપ્ત કર્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "'મણિ' શબ્દની સાચી જોડણી લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મણિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બે અક્ષરના શબ્દમાં 'ણિ' હ્રસ્વ આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "'અખૂટ' શબ્દનો સમાનાર્થી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ખૂટે નહીં તેવું, અપાર, પુષ્કળ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અ + ખૂટ = જે કદી ખૂટે જ નહીં તે 'અખૂટ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "'કૂદી પડ્યા' ક્રિયાપદ શું સૂચવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સાહસ અને ત્વરિત નિર્ણય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિચાર્યા વગર કે ડર્યા વગર લક્ષ્ય તરફ ધસવું એટલે કૂદી પડવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "'જલધિ' શબ્દનો અર્થ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સમુદ્ર (જે જળને ધારણ કરે છે તે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ધિ' એટલે ધારણ કરનાર. જલ + ધિ = જલધિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "'શીખ' શબ્દનો અર્થ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બોધ, શિખામણ, સલાહ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વડીલો જે 'શીખ' આપે તેને સાંભળવી જોઈએ પણ મરજીવિયાએ પોતાની હિંમત સાંભળી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "'ખોળવા' શબ્દનો સમાનાર્થી શબ્દ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શોધવા, તપાસવા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ખોળવું' એટલે અજાણી વસ્તુને શોધવાની ક્રિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "'પૂજાલાલ' નું પૂરું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પૂજાલાલ રણછોડદાસ દલવાડી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પૂજાલાલ (P) રણછોડદાસ (R) દલવાડી (D) = PRD.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "'તરંગ' શબ્દનો સમાનાર્થી શબ્દ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લહેર, મોજું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમુદ્રમાં 'તરંગ' (મોજાં) ઊછળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "'મરણ' શબ્દનો વિરોધી શબ્દ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જન્મ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મરણ એટલે અંત અને જન્મ એટલે શરૂઆત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "'સ્મિત' શબ્દનો વિરોધી શબ્દ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રુદન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હસવું x રડવું એટલે કે સ્મિત x રુદન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "'રત્નાકર' માં કઈ સંધિ રહેલી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રત્ન + આકર (સ્વર સંધિ - અ + આ = આ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બે 'અ/આ' ભેગા થાય ત્યારે મોટો 'આ' બને - રત્નાકર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "'અગાધ જલ' માં વિશેષણ ઓળખાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અગાધ (ગુણવાચક વિશેષણ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાણી કેવું છે? - 'અગાધ'. 'કેવું' પૂછવાથી વિશેષણ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "'ડર્યા' શબ્દનો વિરોધી શબ્દ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિર્ભય / નિડર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મરજીવિયા ક્યારેય ડરે નહીં, તેઓ 'નિડર' હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "'ઉર' શબ્દનો સમાનાર્થી શબ્દ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હૃદય, હૈયું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ઉર' માં ઉમંગ હોય, એટલે કે હૃદયમાં ઉત્સાહ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "'મરજીવિયા' કાવ્યમાં કઈ ભાવના વ્યક્ત થઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અડગ આત્મવિશ્વાસ અને સાહસની ભાવના.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે ડરે છે તે મરે છે, અને જે સાહસ કરે છે તે મોતી મેળવે છે.</p></div>"
+    }
+  ]
+}
