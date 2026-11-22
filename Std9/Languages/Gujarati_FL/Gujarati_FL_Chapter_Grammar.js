@@ -2551,3 +2551,161 @@ var Std9_Gujarati_FL_Chapter_Grammar = {
     }
   ]
 }
+,
+"17": {
+  "chapterName": "પ્રકરણ 17",
+  "chapterTitle": "મારા સપનામાં આવ્યા હરિ (કાવ્ય)",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘મારા સપનામાં આવ્યા હરિ’ કાવ્યના કવિનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રમેશ પારેખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સપના'માં 'રમેશ' (કવિ) ભગવાન સાથે 'રમે' છે - એમ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘મારા સપનામાં આવ્યા હરિ’ કાવ્યનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઉર્મિગીત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હૃદયની 'ઉર્મિ' (લાગણી) જ્યારે ગીત બનીને વહે ત્યારે તેને 'ઉર્મિગીત' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "આ કાવ્ય રમેશ પારેખના કયા સંગ્રહમાંથી લેવામાં આવ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘છ અક્ષરનું નામ’ માંથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ર-મે-શ-પા-રે-ખ = 6 અક્ષર, માટે સંગ્રહનું નામ પણ 'છ અક્ષરનું નામ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સમાનાર્થી શબ્દ આપો: હરિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કૃષ્ણ, પ્રભુ, ઈશ્વર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હરિ એટલે જે હરણ (દૂર) કરે દુઃખને તે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સમાનાર્થી શબ્દ આપો: મેશ (મેંશ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાજળ, અંજન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આંખમાં 'આંજવાનું' એટલે 'અંજન' અથવા 'કાજળ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સમાનાર્થી શબ્દ આપો: આંચકો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધક્કો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અચાનક આવે તે આંચકો (ધક્કો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સમાનાર્થી શબ્દ આપો: સંસાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જગત, દુનિયા, વિશ્વ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંસાર = સમ + સાર (જેનો કોઈ સાર નથી છતાં સુંદર છે તે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિરોધી શબ્દ આપો: મલકાવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કરમાવું / રડવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હસવું એનો વિરોધી રડવું, તેમ ખીલવું (મલકાવું) એનો વિરોધી કરમાવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિરોધી શબ્દ આપો: ભીંજવવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સુકવવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભીનું X સૂકું (આ ટ્રીક હંમેશા યાદ રાખવી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: રાંધવા માટે તૈયાર રાખેલું અનાજ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આંધણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રસોઈ માટે ગરમ કરવા મૂકેલું પાણી એટલે 'આંધણ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: ઘઉંના ફાડાની એક મીઠી વાનગી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કંસાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુજરાતી પરંપરામાં શુભ પ્રસંગે 'કંસાર' રાંધવામાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: આંખમાં આંજવાનું કાળું દ્રવ્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મેંશ (મેશ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મેંશ = મેશ = કાજળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "જોડણી સુધારો: ‘સૂબા’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સૂબા (સાચી જ છે, પણ અર્થ ધ્યાને લેવો: અહીં 'સૂબા' એટલે પ્રાંતનો વડો, પરંતુ કાવ્યમાં આ શબ્દ લય માટે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સૂ' દીર્ઘ આવશે - સૂબા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જોડણી સુધારો: ‘અમ્રુત’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અમૃત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ઋ' કાર આવશે, 'રુ' નહીં (અ + મ્ + ઋ + ત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: ‘સંસાર ઓરી દેવો’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જીવન સમર્પિત કરી દેવું / સર્વસ્વ ત્યાગી દેવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેમ આંધણમાં લોટ ઓરીએ તેમ ભગવાનની ભક્તિમાં પોતાનું જીવન 'ઓરી' (નાખી) દેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: ‘મન ભીંજવી દેવું’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પ્રેમથી તરબોળ કરી દેવું / મન પ્રસન્ન કરી દેવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભીંજાવું એટલે પ્રેમમાં ઓતપ્રોત થવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "તળપદા શબ્દનું શિષ્ટરૂપ આપો: ‘મેલ્યા’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મૂક્યા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દેશી ભાષામાં મૂકવાની ક્રિયાને 'મેલવું' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "તળપદા શબ્દનું શિષ્ટરૂપ આપો: ‘બાવરી’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વ્યાકુળ / ઘેલી / બેબાકળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રેમમાં પાગલ કે વ્યાકુળ હોય તેને 'બાવરી' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કાવ્યમાં ‘હરિ’ કેવી રીતે આવ્યા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગોપીના સપનામાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શીર્ષકમાં જ જવાબ છે - 'મારા સપનામાં આવ્યા હરિ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ભગવાને ગોપીને બોલાવવા માટે કયા શબ્દનો પ્રયોગ કર્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘બાવરી’</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કૃષ્ણ ગોપીને વહાલથી 'બાવરી' કહીને સંબોધે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "‘આંધણ મેલ્યા’તા કરવા કંસાર’ - આ પંક્તિનો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગોપીએ શુભ પ્રસંગ ઉજવવા માટે મીઠી વાનગી (કંસાર) બનાવવાની તૈયારી કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કંસાર = ખુશી/મંગળમય પ્રસંગનું પ્રતીક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "‘એમાં ઓરી દીધો મેં મારો સંસાર’ - આ પંક્તિમાં ગોપીની કઈ ભાવના પ્રગટ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સંપૂર્ણ સમર્પણની ભાવના (Self-surrender)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સંસાર ઓરવો' એટલે ભક્તિમાં બધું જ ભગવાનને અર્પણ કરી દેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "જોડણી સુધારો: ‘પ્રસન્ન’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પ્રસન્ન (સાચી જોડણી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ન' બેવડાય છે (જોડાયેલો આવે), પ્ર + સન્ન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિરોધી શબ્દ આપો: સ્મિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રુદન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હળવું હસવું (સ્મિત) X જોરથી રડવું (રુદન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સમાનાર્થી શબ્દ આપો: સ્વપ્ન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સપનું, ખ્વાબ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્વપ્ન એ સંસ્કૃત તત્સમ શબ્દ છે, સપનું એ તદ્દભવ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "‘મારા સપનામાં આવ્યા હરિ’ કાવ્યમાં કઈ ભક્તિના દર્શન થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સખ્યભાવ અને માધુર્યભાવની ભક્તિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગોપી-કૃષ્ણનો પ્રેમ એટલે માધુર્ય ભાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "કાવ્યમાં ‘સૂબા’ શબ્દ કોના માટે વપરાયો હોઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અહીં ‘સૂબા’ એટલે કાવ્યના લય મુજબ ‘મેં તો મૂક્યા છે’ એવો અર્થ પણ સૂચવે છે (શબ્દ રમૂજ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કવિ રમેશ પારેખ શબ્દો સાથે રમત કરવા માટે જાણીતા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સમાનાર્થી શબ્દ આપો: નયન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આંખ, લોચન, ચક્ષુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'નયન' એટલે જેના દ્વારા આપણે ન્યાળી શકીએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભક્તિ ઓળખાવો: ‘સપનામાં’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સપ્તમી વિભક્તિ (અધિકરણ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'માં' પ્રત્યય આવે ત્યારે હંમેશા સાતમી (અધિકરણ) વિભક્તિ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "કાવ્યના અંતે હરિએ શું કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હરિએ ગોપીના આંસુ લૂછ્યા અને ‘બાવરી’ કહીને હૈયાધારણ આપી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભગવાન હંમેશા ભક્તના આંસુ લૂછવા (દુઃખ હરવા) આવે છે.</p></div>"
+    }
+  ]
+}
