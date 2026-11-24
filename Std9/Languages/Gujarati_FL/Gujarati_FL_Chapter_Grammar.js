@@ -3025,3 +3025,161 @@ var Std9_Gujarati_FL_Chapter_Grammar = {
     }
   ]
 }
+,
+"20": {
+  "chapterName": "પ્રકરણ 20",
+  "chapterTitle": "સમાજસમર્પિત શ્રેષ્ઠી (પાઠ)",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘સમાજસમર્પિત શ્રેષ્ઠી’ પાઠનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠનો સાહિત્ય પ્રકાર <strong>રેખાચિત્ર</strong> (ચરિત્ર લેખ) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> વ્યક્તિના જીવનના મુખ્ય પ્રસંગોનું 'ચિત્ર' શબ્દો દ્વારા દોરાય તેને 'રેખાચિત્ર' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "આ પાઠ કોના જીવન પર આધારિત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પાઠ ગુજરાતના મહાન ઉદ્યોગપતિ અને દાનવીર <strong>નાનજીભાઈ કાલિદાસ મહેતા</strong>ના જીવન પર આધારિત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> નાનજીભાઈ = સમાજને સમર્પિત 'શ્રેષ્ઠી' (મહાજન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "નાનજીભાઈ મહેતાની આત્મકથાનું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નાનજીભાઈ મહેતાની આત્મકથાનું નામ <strong>'મારી જીવનકથા'</strong> છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> પોતાનું જીવન એટલે 'મારી જીવનકથા' - સાવ સરળ નામ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સમાનાર્થી શબ્દ આપો: ‘શ્રેષ્ઠી’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શ્રેષ્ઠી = મહાજન, નગરશેઠ, પ્રતિષ્ઠિત વેપારી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> જે 'શ્રેષ્ઠ' કાર્ય કરે અને સમાજમાં ઊંચું સ્થાન ધરાવે તે 'શ્રેષ્ઠી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સમાનાર્થી શબ્દ આપો: ‘પુરુષાર્થ’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પુરુષાર્થ = મહેનત, ઉદ્યમ, પરિશ્રમ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 'પુરુષ' (માણસ) દ્વારા કરવામાં આવતું 'અર્થ'પૂર્ણ કાર્ય એટલે મહેનત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સમાનાર્થી શબ્દ આપો: ‘કીર્તિ’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કીર્તિ = ખ્યાતિ, નામના, પ્રશંસા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> કીર્તિ એટલે તમારી 'ખુશબૂ' જે ચારેબાજુ ફેલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સમાનાર્થી શબ્દ આપો: ‘દરિયો’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દરિયો = સમુદ્ર, રત્નાકર, અબ્ધિ, સાગર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> નાનજીભાઈએ સાત સમંદર પાર કર્યા હતા, રત્નોનો ભંડાર એટલે 'રત્નાકર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિરોધી શબ્દ આપો: ‘ઉદાર’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઉદાર × કંજૂસ (અથવા લોભી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> નાનજીભાઈ 'ઉદાર' હતા, પણ એમનાથી ઉલટું જે હાથ ન ખોલે તે 'કંજૂસ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિરોધી શબ્દ આપો: ‘નૂતન’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નૂતન × પુરાતન (પ્રાચીન).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> નૂતન વર્ષાભિનંદન (નવું) અને પુરાતન (જૂનું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિરોધી શબ્દ આપો: ‘સ્વદેશ’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્વદેશ × પરદેશ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 'સ્વ' એટલે પોતાનું અને 'પર' એટલે બીજાનું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિરોધી શબ્દ આપો: ‘સાર્થક’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સાર્થક × નિરર્થક.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> અર્થ સાથે (સાર્થક) અને અર્થ વગરનું (નિરર્થક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિરોધી શબ્દ આપો: ‘સંપત્તિ’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સંપત્તિ × વિપત્તિ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 'સ' અને 'વિ' નો તફાવત યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સાચી જોડણી લખો: ‘પુરૂષાર્થ’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પુરુષાર્થ (પ માં હ્રસ્વ 'ુ' અને ર માં હ્રસ્વ 'ુ' આવશે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> પુરુષાર્થમાં બંને 'ુ' હ્રસ્વ (નાના) જ આવે, યાદ રાખજો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સાચી જોડણી લખો: ‘શ્રેષ્ઠી’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શ્રેષ્ઠી (ઠ સાથે જોડાયેલ 'ી' દીર્ઘ આવશે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 'શ્રેષ્ઠ' પાછળ મોટી 'ઈ' લગાડો એટલે 'શ્રેષ્ઠી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સાચી જોડણી લખો: ‘કીર્તિસ્તંભ’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કીર્તિસ્તંભ (કી - દીર્ઘ, ર્તિ - હ્રસ્વ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 'કી' ને લાંબી ખેંચો (દીર્ઘ) અને 'તિ' ને ટૂંકી (હ્રસ્વ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સાચી જોડણી લખો: ‘ગુરુકુળ’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગુરુકુળ (ગ - હ્રસ્વ 'ુ', ર - હ્રસ્વ 'ુ', ક - હ્રસ્વ 'ુ').</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> ગુરુકુળમાં બધા જ 'ુ' હ્રસ્વ હોય છે. શિસ્તની જેમ નાનું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સાચી જોડણી લખો: ‘પરિસ્થિતિ’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પરિસ્થિતિ (પ-રિ-સ્થિ-તિ : ત્રણેય 'િ' હ્રસ્વ આવશે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> પરિસ્થિતિ જ્યારે આવે ત્યારે બધું જ 'હ્રસ્વ' (નાનું) થઈ જાય, એટલે બધી 'િ' નાની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: ‘જેનો કોઈ શત્રુ નથી તે’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અજાતશત્રુ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> અ + જાત (જન્મેલો) + શત્રુ = જેનો શત્રુ હજુ જન્મ્યો જ નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: ‘પથ્થર પર કોતરેલો લેખ’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શિલાલેખ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> શિલા એટલે પથ્થર અને લેખ એટલે લખાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: ‘કન્યાઓનું ભણવાનું ધામ’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કન્યાગુરુકુળ (આર્યકન્યા ગુરુકુળ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> પાઠમાં નાનજીભાઈએ પોરબંદરમાં 'આર્યકન્યા ગુરુકુળ' સ્થાપ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: ‘બુદ્ધિશાળી અને આબરુદાર વેપારી’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શ્રેષ્ઠી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> પાઠનું શીર્ષક જ આ જવાબની ચાવી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: ‘જીવનના મુખ્ય પ્રસંગોનું આલેખન કરતું લખાણ’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> રેખાચિત્ર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> શબ્દો દ્વારા દોરાયેલું 'રેખાઓ'નું ચિત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: ‘જીવન સાર્થક કરવું’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જીવન સફળ બનાવવું / જીવનનો હેતુ સિદ્ધ કરવો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> કંઈક સારું કામ કરીને વિદાય લેવી એટલે જીવન સાર્થક કર્યું કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: ‘પાયો નાખવો’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શરૂઆત કરવી / પાયાનું કાર્ય કરવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> ઇમારત ચણતા પહેલા જેમ પાયો નખાય, તેમ સંસ્થાની 'શરૂઆત' કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: ‘નામના મેળવવી’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પ્રસિદ્ધિ મેળવવી / યશ મેળવવો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> નામ ચારે બાજુ ગાજતું કરવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: ‘રસ્તો કાઢવો’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઉપાય શોધવો / મુશ્કેલીમાંથી માર્ગ શોધવો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> જ્યારે બધું બંધ લાગે ત્યારે જે 'બુદ્ધિ' વાપરીને રસ્તો શોધે તે નાનજીભાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "શબ્દનો અર્થભેદ આપો: ‘દિન’ અને ‘દીન’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દિન (હ્રસ્વ) = દિવસ, દીન (દીર્ઘ) = ગરીબ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> નાનજીભાઈ 'દીન' (ગરીબો) ની સેવા દર 'દિન' (દિવસે) કરતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિશેષણ ઓળખાવો: ‘નાનજીભાઈએ ઉમદા કાર્ય કર્યું.’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વિશેષણ: <strong>ઉમદા</strong> (ગુણવાચક વિશેષણ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> કાર્ય કેવું હતું? જવાબ મળે 'ઉમદા'. જે વધારો કરે તે વિશેષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "શબ્દનો પ્રત્યય ઓળખાવો: ‘માનવતા’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> માનવ + તા (પર-પ્રત્યય).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> શબ્દની 'પાછળ' લાગે તેને પર-પ્રત્યય કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "પાઠના આધારે જણાવો: નાનજીભાઈને યુગાન્ડાના કયા રાષ્ટ્રપતિએ બિરદાવ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> યુગાન્ડાના પ્રમુખ <strong>મિલ્ટન ઓબોટે</strong> નાનજીભાઈને ‘યુગાન્ડાના સર્વોચ્ચ નાગરિક’ તરીકે બિરદાવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> ‘ઓબોટે’ એ આપ્યા ‘વોટ’ (માન) નાનજીભાઈને!</p></div>"
+    }
+  ]
+}
