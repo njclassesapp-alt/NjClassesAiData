@@ -3183,3 +3183,161 @@ var Std9_Gujarati_FL_Chapter_Grammar = {
     }
   ]
 }
+,
+"21": {
+  "chapterName": "પ્રકરણ 21",
+  "chapterTitle": "તેજમલ (લોકગીત)",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘તેજમલ’ કૃતિનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લોકગીત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકગીતનો કોઈ ચોક્કસ લેખક નથી હોતો, તે 'લોકસમૂહ' દ્વારા રચાયેલું હોય છે. NJ Classes યાદ રાખજો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘તેજમલ’ લોકગીતનો મુખ્ય વિષય કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તેજમલ નામની વીર કન્યાનું ચાતુર્ય અને તેની શૌર્યગાથા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેજમલ = સ્ત્રી સશક્તિકરણ અને વીરતાનું પ્રતીક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સમાનાર્થી શબ્દ આપો: ‘દળ’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સૈન્ય, લશ્કર, ફોજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્યમાં 'શત્રુનું દળ' એટલે દુશ્મનનું આખું લશ્કર એમ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સમાનાર્થી શબ્દ આપો: ‘કટક’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સૈન્ય, લશ્કર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ‘કટક’ અને ‘દળ’ બંને સૈન્યના જ પર્યાય છે, પરીક્ષામાં વારંવાર પુછાય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિરોધી શબ્દ જણાવો: ‘વીર’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાયર અથવા ડરપોક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેજમલ વીર હતી, જ્યારે દુશ્મન માટે કાયર શબ્દ વપરાય શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિરોધી શબ્દ જણાવો: ‘દુશ્મન’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મિત્ર અથવા દોસ્ત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુશ્મન સામે લડવાનું હોય, મિત્ર સાથે રમવાનું હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: ‘જેને સંતાનમાં પુત્ર ન હોય તે’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વાંઝિયો (અહીં કાવ્યના સંદર્ભમાં પુત્ર વગરનો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્યમાં દાદા પોતાની જાતને વાંઝિયો ગણે છે કારણ કે તેમને લડવા માટે દીકરો નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: ‘માથા પર બાંધવાનું રેશમી લુગડું’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મોળિયું (પાઘડી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોળિયું એટલે માથાનું આભૂષણ - મોભાદાર વસ્ત્ર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સાચી જોડણી લખો: ‘શણગાર’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શણગાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીંડાવાળો 'શ' વાપરવો, ફાડી 'ષ' કે સસલાનો 'સ' નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સાચી જોડણી લખો: ‘કુંવારી’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કુંવારી (ક ઉપર અનુસ્વાર અને ર ને દીર્ઘ-ઈ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ત્રીવાચક શબ્દોમાં અંતે મોટેભાગે દીર્ઘ 'ઈ' આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: ‘આંખમાં ઝળઝળિયાં આવવા’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આંખમાં આંસુ આવી જવા (ખૂબ દુઃખ થવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝળઝળિયાં = જળ (પાણી) જેવું, એટલે કે રડવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સમાનાર્થી શબ્દ આપો: ‘સીમાડો’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પાદર, ગામની હદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામ પૂડું થાય ત્યાં 'સીમા' શરૂ થાય, એટલે સીમાડો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કાવ્ય પંક્તિનો અર્થ સમજાવો: ‘દાદા રે વેશ દેખાડો ન હોય તેજમલ’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તેજમલ કહે છે કે દાદા, માત્ર વેશ બદલવાથી ઓળખાઈ જવાશે નહીં, હું પૂરેપૂરી સાવચેતી રાખીશ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેજમલની ચપળતા આ પંક્તિમાં છુપાયેલી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: ‘ઘોડા પર સવારી કરનાર’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઘોડેસવાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેજમલ ઘોડેસવાર બનીને રણે ચઢી હતી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સમાનાર્થી શબ્દ આપો: ‘બાય’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્ત્રી અથવા બહેન (અહીં સંબોધન માટે છે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકબોલીમાં સ્ત્રીને આદરપૂર્વક 'બાઈ' અથવા 'બાય' કહેવાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિરોધી શબ્દ લખો: ‘ઉત્તર’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પ્રશ્ન (અથવા દિશાના સંદર્ભમાં દક્ષિણ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્યના વ્યાકરણમાં મોટેભાગે પ્રશ્ન-ઉત્તરનો સંદર્ભ કામ લાગે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સાચી જોડણી લખો: ‘ચતુર’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ચતુર (ત ને હ્રસ્વ-ઉ)</p><hr><p style='color:#d32f2f; padding:15px; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચતુર' માં હંમેશા 'તુ' હ્રસ્વ આવે છે, યાદ રાખી લેજો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: ‘કાનમાં પહેરવાનું ઘરેણું’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અકોટા / કુંડળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્યમાં તેજમલના કાનના અકોટા છુપાવવાની વાત આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: ‘હૈયું ભરાઈ આવવું’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લાગણીવશ થઈ જવું અથવા રડવું આવવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે દાદા લાચાર બને છે ત્યારે તેમનું હૈયું ભરાઈ આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સમાનાર્થી શબ્દ આપો: ‘સૂરો’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બહાદુર, શૂરવીર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સૂરો' શબ્દ શૌર્ય રસ સાથે જોડાયેલો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સાચી જોડણી લખો: ‘પરિવાર’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પરિવાર (ર ને હ્રસ્વ-ઈ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પરિ' ઉપસર્ગ વાળા શબ્દોમાં 'રિ' હંમેશા હ્રસ્વ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિરોધી શબ્દ લખો: ‘પુત્ર’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પુત્રી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેજમલ પુત્રી હોવા છતાં પુત્ર સમાન લડી હતી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સમાનાર્થી શબ્દ આપો: ‘તલાવડી’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નાનું તળાવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તળાવનું નાનું સ્વરૂપ એટલે તલાવડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: ‘જેનો પતિ જીવિત છે તેવી સ્ત્રી’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સધવા / સૌભાગ્યવતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિધવાનો વિરોધી 'સધવા' થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કાવ્ય પંક્તિમાં ‘ચાલાકી’ માટે કયો શબ્દ વપરાયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ચાતુર્ય અથવા ચતુરાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેજમલે સોનીની અને વાણિયાની હાટ (દુકાન) પર ચતુરાઈ વાપરી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "સમાનાર્થી શબ્દ આપો: ‘હાટ’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દુકાન, બજાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હાટ' એટલે બજારમાં આવેલી નાની દુકાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "સાચી જોડણી લખો: ‘હુતાશણી’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હુતાશણી (હ ને હ્રસ્વ-ઉ અને ણી દીર્ઘ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હોળીના તહેવારને લોકબોલીમાં હુતાશણી કહેવાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિરોધી શબ્દ લખો: ‘જીત’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હાર અથવા પરાજય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેજમલે દુશ્મનોને હાર આપી અને વિજય મેળવ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ: ‘આંગળીમાં પહેરવાનું ઘરેણું’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વીંટી અથવા વેઢ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેઢ એટલે આંગળીના સાંધા પર પહેરાતી મોટી વીંટી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "કાવ્ય પંક્તિ પૂર્ણ કરો: ‘દાદા રે કાગળ આવ્યા...’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ‘દાદા રે કાગળ આવ્યા રે સીમાડેથી, વાંચે રે દાદો ને ઝળઝળિયાં આવે’</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પંક્તિથી જ લોકગીતની વેદના અને શરૂઆત થાય છે!</p></div>"
+    }
+  ]
+}
