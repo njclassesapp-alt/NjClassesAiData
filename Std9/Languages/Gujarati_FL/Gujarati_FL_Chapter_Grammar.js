@@ -3499,3 +3499,161 @@ var Std9_Gujarati_FL_Chapter_Grammar = {
     }
   ]
 }
+,
+"23": {
+  "chapterName": "પ્રકરણ 23",
+  "chapterTitle": "લઘુકાવ્યો (દુહા, મુક્તક, હાઈકુ)",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "દુહા, મુક્તક અને હાઈકુનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ કૃતિઓનો સાહિત્ય પ્રકાર 'લઘુકાવ્યો' છે. જેમાં દુહા એ લોકસાહિત્યનો પ્રકાર છે, મુક્તક એ ટૂંકો અને મર્મવેધક પ્રકાર છે, અને હાઈકુ એ જાપાનીઝ કાવ્યપ્રકાર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દુ-મુ-હા' એટલે નાનું પણ નાગ જેવું (લઘુકાવ્યો) - કદમાં નાનું પણ અર્થમાં મોટું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "હાઈકુ કાવ્યપ્રકારમાં કુલ કેટલા અક્ષરો હોય છે અને તેનું બંધારણ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હાઈકુમાં કુલ 17 અક્ષરો હોય છે. તેનું બંધારણ 5 - 7 - 5 (ત્રણ પંક્તિ) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઈકુ = 5 + 7 + 5 = 17 (પાંચડે સાતડે પાંચડે સત્તર - યાદ રાખવું સ્તર!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પાઠ્યપુસ્તકમાં આપેલ 'હાઈકુ' ના કવિ કોણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સ્નેહરશ્મિ (ઝીણાભાઈ દેસાઈ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્નેહ' થી 'હાઈકુ' લખ્યા (સ્નેહરશ્મિ = હાઈકુના પ્રણેતા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સમાનાર્થી શબ્દ આપો: 'બાંધવ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભાઈ, સગો, સહোদર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેની સાથે લોહીનો 'બંધ' હોય તે 'બાંધવ' (ભાઈ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સમાનાર્થી શબ્દ આપો: 'શીતળ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઠંડું, સીતળ, સોમ્ય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શીત' એટલે ઠંડી, અને 'શીતળ' એટલે ઠંડક આપનારું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિરોધી શબ્દ આપો: 'કડવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મીઠું, મધુર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કારેલું કડવું અને સાકર મીઠી - યાદ રહી જશે ઝટપટ ચિઠ્ઠી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિરોધી શબ્દ આપો: 'દુશ્મન'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દોસ્ત, મિત્ર, ભેરુ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દ' પરથી દુશ્મન અને 'દ' પરથી દોસ્ત - સામસામે વિરોધી હોસ્ટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સાચી જોડણી લખો: 'હાઈકુ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હાઈકુ (હ-ને કાનો 'હા', ઈ-ઈયળનો, ક-ને હસ્વઉ 'કુ').</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઈકુમાં 'ઈ' હંમેશા હ્રસ્વ (નાનો) જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'લોકોમાં પરંપરાથી ચાલતું સાહિત્ય'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લોકસાહિત્ય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોક + સાહિત્ય = લોકો દ્વારા રચાયેલું સાહિત્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "શેખાદમ આબુવાલાના મુક્તકનો મુખ્ય વિષય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મિત્ર અને દુશ્મનની ઓળખ તથા નિખાલસતાથી હસવાની વાત.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શેખાદમ = 'હસી લેવું' (ખુશમિજાજ કવિ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સમાનાર્થી શબ્દ આપો: 'માયલો'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અંતરાત્મા, અંદરનો માણસ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માયલો = જે આપણી 'માય' (અંદર) રહેલો છે તે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કાવ્યપંક્તિ પૂર્ણ કરો: 'કડવા હોય લીમડા, પણ...'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કડવા હોય લીમડા, પણ સીતળ એની છાંય; બાંધવ હોય અબોલડા, તોય પોતાની બાંય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીમડો કડવો પણ છાયડો ઠંડો - ભાઈ રિસાયેલો પણ મુસીબતમાં બેલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સમાનાર્થી શબ્દ આપો: 'બાંય'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હાથ, સહારો, મદદગાર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાંય પકડવી એટલે મદદ કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'પોતાની બાંય હોવી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મુસીબતના સમયે પોતાના જ લોકો મદદગાર થવા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાંય = હાથ; પોતાનો હાથ જગન્નાથ એટલે કે પોતાનો માણસ જ ખરેખર મદદ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "હર્ષદ ત્રિવેદીના મુક્તકમાં 'પક્ષી' અને 'ઝાડ' દ્વારા કયો ભાવ વ્યક્ત થયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પરોપકાર અને અતૂટ સંબંધનો ભાવ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષી ઊડી જાય પણ ઝાડ ફળ આપે - નિઃસ્વાર્થ ભાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સમાનાર્થી શબ્દ આપો: 'વેણ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> વચન, શબ્દ, બોલ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વેણ' એટલે જે મોઢેથી 'વણાય' એવા શબ્દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'બોલ્યા ચાલ્યા વિનાનું/રિસાયેલું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અબોલડા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અ + બોલ = જે બોલતા નથી તે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિરોધી શબ્દ આપો: 'સીતળ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઉષ્ણ, ગરમ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠંડુ (સીતળ) vs ગરમ (ઉષ્ણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સાચી જોડણી લખો: 'શીતળ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શીતળ (શ-શરણાઈનો દીર્ઘ 'શી').</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શીતળ' માં શરણાઈ જેવી ઠંડક એટલે 'શ' શરણાઈનો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "હાઈકુ કયા દેશનો કાવ્યપ્રકાર છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જાપાન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાપાનીઝ 'હાઈકુ' - નાનું ને ટાકુ (ચબરાક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સમાનાર્થી શબ્દ આપો: 'નકાબ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બુરખો, મહોરું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અસલી ચહેરો છુપાવવા વપરાય તે 'નકાબ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "શેખાદમ આબુવાલાના મુક્તક મુજબ ક્યારે ચેતી જવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જ્યારે દુશ્મન ગળે લગાડે અને દોસ્ત સ્મિત કરે (નકાબ પહેરીને આવે) ત્યારે ચેતવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ પડતી મીઠાશ પાછળ કંઈક કડવાશ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિરોધી શબ્દ આપો: 'દોસ્ત'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> દુશ્મન, વેરિ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભેરુનો ઉલટો વેરિ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સાચી જોડણી લખો: 'નિખાલસ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિખાલસ (ન-ને હસ્વ 'નિ').</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિ' પ્રત્યય હમેશા હસ્વ જ હોય છે (જેમ કે નિખાલસ, નિર્દોષ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "હાઈકુ: 'સૂકેલી ડાળે પોપટ બેઠો, ડાળ અરે! ઝળકી પાંદડે.' - આમાં કયો રંગ છુપાયેલો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લીલો રંગ (પોપટના આવવાથી સૂકી ડાળ પણ જાણે પાનથી લીલી થઈ ગઈ હોય તેવો ભાસ થાય છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોપટ = લીલો રંગ; ડાળ પણ ભ્રમમાં લીલી લાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "સમાનાર્થી શબ્દ આપો: 'ઝળકવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ચમકવું, દીપવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝળક = ચમક; જે પ્રકાશ આપે તે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "કયા લઘુકાવ્યમાં 'આવડત' અને 'દંભ' ની વાત કરવામાં આવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શેખાદમ આબુવાલાના મુક્તકમાં (નકાબની વાત).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નકાબ' એટલે જ 'દંભ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સમાનાર્થી શબ્દ આપો: 'પુષ્પ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ફૂલ, કુસુમ, સુમન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂલ અને પુષ્પ એકબીજાના પાકા ભાઈબંધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "હાઈકુ: 'ફૂલ્યા લ્હાયમાં, આઘા રહીને ખેલે, લાલ ગુલમહોર.' - આમાં કયો અર્થ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગ્રીષ્મની ભયાનક ગરમીમાં પણ ગુલમહોર પોતાની મસ્તીમાં ખીલેલો રહે છે (જીવનની મુશ્કેલીમાં ખીલવાની વાત).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લ્હાય = ગરમી; ગરમીમાં પણ ખીલે તે વીર ગુલમહોર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "મુક્તકની સૌથી મોટી વિશેષતા કઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ચમત્કૃતિ અને ટૂંકાણમાં મોટો અર્થ (સાગરમાં ગાગર).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુક્તક એટલે 'મુક્ત' - ટૂંકું પણ ધારદાર!</p></div>"
+    }
+  ]
+}
