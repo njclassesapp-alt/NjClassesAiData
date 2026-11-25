@@ -3341,3 +3341,161 @@ var Std9_Gujarati_FL_Chapter_Grammar = {
     }
   ]
 }
+,
+"22": {
+  "chapterName": "પ્રકરણ 22",
+  "chapterTitle": "બોળો (પાઠ)",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘બોળો’ પાઠના લેખકનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઝવેરચંદ મેઘાણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'લોકસાહિત્યના કસબી' અને 'રાષ્ટ્રીય શાયર' એટલે મેઘાણી - બોળો પીવડાવનાર પણ મેઘાણી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘બોળો’ કૃતિનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> લોકવાર્તા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મેઘાણીની બધી જ મુખ્ય વાર્તાઓ 'લોકવાર્તા' જ હોય, જે જનમાનસમાં વસેલી હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "‘બોળો’ પાઠ શેમાંથી લેવામાં આવ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સૌરાષ્ટ્રની રસધાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મેઘાણી + લોકવાર્તા = સૌરાષ્ટ્રની રસધાર (આ આંધળો નિયમ યાદ રાખવો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સમાનાર્થી શબ્દ આપો: અસવાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઘોડેસવાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અશ્વ (ઘોડો) પર સવાર એટલે 'અસવાર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સમાનાર્થી શબ્દ આપો: રૈયત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પ્રજા / જનતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રાજા માટે તેની 'રૈયત' એટલે તેના બાળકો જેવી પ્રજા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સમાનાર્થી શબ્દ આપો: તાપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગરમી / આતપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તડકામાં 'તાપ' લાગે અને 'તપ' પણ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સમાનાર્થી શબ્દ આપો: કોસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કૂવામાંથી પાણી કાઢવાનું ચામડાનું સાધન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રાચીન ખેતી પદ્ધતિમાં 'કોસ' એ પાણી ખેંચવાનું 'એન્જિન' હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સમાનાર્થી શબ્દ આપો: વંશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કુળ / પેઢી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એક જ મૂળમાંથી નીકળતી શાખાઓ એટલે વંશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિરોધી શબ્દ આપો: ઉદાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કંજૂસ / લોભી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે દિલ ખોલીને આપે તે ઉદાર, જે દિલ દબાવીને રાખે તે કંજૂસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિરોધી શબ્દ આપો: ન્યાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અન્યાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'અ' પ્રત્યય લગાડવાથી વિરોધી બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિરોધી શબ્દ આપો: હાજર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગેરહાજર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ગેર' પૂર્વપ્રત્યય યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિરોધી શબ્દ આપો: ઠંડું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગરમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બોળો ઠંડો હોય અને તાપ ગરમ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિરોધી શબ્દ આપો: આકાશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પાતાળ / ધરતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉપર આકાશ, નીચે પાતાળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: દહીંમાં બાજરાનો લોટ રાંધીને બનાવેલી વાનગી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> બોળો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ પાઠનું શીર્ષક જ આ વાનગી પરથી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: પાણી જવાની નાની નીંક.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ધોરિયો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાણી જ્યાંથી 'દોડે' તે 'ધોરિયો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: સાથળ સુધી પહોંચતું કસવાળું અંગરખું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કેડિયું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે 'કેડ' સુધી કે નીચે સુધી હોય તે કેડિયું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: મુસાફરી દરમિયાન સાથે રાખવાનું ખાવાનું (ભાથું).",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સિદું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠમાં વજેસંગજી માટે વપરાતો તળપદો શબ્દ 'સિદું' પણ કહી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: કાળજાનો કટકો હોવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ખૂબ જ વહાલા હોવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાળજું (હૃદય) અને તેનો કટકો - જે સૌથી નજીક હોય તે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: મોંમાં આંગળા નાખવા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ખૂબ આશ્ચર્ય પામવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે કશું ન બોલી શકાય તેવું નવાઈભર્યું બને ત્યારે આ વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: જીવ હેઠે બેસવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શાંતિ થવી / નિરાંત થવી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચિંતા દૂર થાય એટલે જીવ 'હેઠે' બેસે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "શબ્દની સાચી જોડણી લખો: 'નિતી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નીતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ની' દીર્ઘ અને 'તિ' હ્રસ્વ - આ યાદ રાખવાની ટ્રીક 'નીતિ' માં કામ આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "શબ્દની સાચી જોડણી લખો: 'હુતાસણી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> હુતાશણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અહીં 'શ' શરણાઈનો આવે, સગડીનો નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "તળપદા શબ્દનું શિષ્ટરૂપ આપો: ‘બાઈડી’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પત્ની / સ્ત્રી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સૌરાષ્ટ્રની લોકબોલીમાં પત્ની માટે 'બાઈડી' શબ્દ પ્રચલિત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "તળપદા શબ્દનું શિષ્ટરૂપ આપો: ‘મ’રાજા’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મહારાજા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બોલતી વખતે 'હ' લોપ પામે ત્યારે લોપચિહ્ન (’) મૂકાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિશેષણ ઓળખાવો: ‘સોન્ડાએ ઠંડો બોળો ખવરાવ્યો.’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઠંડો (ગુણવાચક વિશેષણ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વસ્તુ 'કેવી' છે? પૂછવાથી વિશેષણ મળે. બોળો કેવો? ઠંડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "કર્મણિ વાક્ય બનાવો: ‘સોન્ડાએ રાજાને ગાળો દીધી.’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સોન્ડાથી રાજાને ગાળો દેવાઈ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કર્તાને 'થી' લગાડો અને ક્રિયાપદમાં 'આ' પ્રત્યય ઉમેરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "શબ્દનો અર્થ સમજાવો: ‘વાણા વાવા’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સમય પસાર થવો / દિવસો વીતવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'વહાલાના વાણા વાવા' એટલે કે પ્રિય વ્યક્તિની રાહ જોતા સમય જવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સંધિ છૂટી પાડો: ‘મહોત્સવ’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મહા + ઉત્સવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ + ઉ = ઓ. આ સંધિનો પાયાનો નિયમ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: ખેતરની ચારે બાજુની હદ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સીમ / પાદર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગામની હદ એટલે પાદર, ખેતરની હદ એટલે સીમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વજેસંગજી ક્યાના રાજા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ભાવનગરના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બોળો પાઠમાં ભાવનગરના મહારાજા વજેસંગજીની ઉદારતાની વાત છે.</p></div>"
+    }
+  ]
+}
