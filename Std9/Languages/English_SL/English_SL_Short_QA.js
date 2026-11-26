@@ -131,3 +131,136 @@ var Std9_English_SL_Short_QA = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "Dental Health",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "What was Sonia suffering from?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Sonia was suffering from a severe toothache. (સોનિયાને દાંતનો સખત દુખાવો થઈ રહ્યો હતો.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Suffering from + [બીમારીનું નામ]. દાંતનો દુખાવો એટલે Tooth + Ache = Toothache.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "Who was Dr. Bansi Sharma?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Dr. Bansi Sharma was a young and competent dentist. (ડો. બંસી શર્મા એક યુવાન અને સક્ષમ દાંતના ડોક્ટર હતા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Dentist = દાંતના ડોક્ટર. યાદ રાખો: 'Young & Competent'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "Why could Sonia not eat anything?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Sonia could not eat anything because of her severe toothache. (સોનિયા તેના દાંતના સખત દુખાવાને કારણે કંઈ ખાઈ શકતી નહોતી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Because of' નો ઉપયોગ કારણ દર્શાવવા થાય છે. Toothache = No food!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "Who took Sonia to the dentist?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Sonia's uncle, Ashokbhai, took her to the dentist. (સોનિયાના કાકા અશોકભાઈ તેને ડેન્ટિસ્ટ પાસે લઈ ગયા હતા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાત્ર યાદ રાખો: અશોકભાઈ = કાકા (Uncle).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "What did the doctor see in Sonia's mouth after a check-up?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The doctor saw a cavity in one of Sonia's premolars. (ડોક્ટરે સોનિયાના એક દાઢમાં કેવિટી (પોલાણ) જોઈ.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Cavity = સડો/પોલાણ. Premolar = નાની દાઢ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "What is the first requirement of dental hygiene?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The first requirement of dental hygiene is cleaning your mouth. (દાંતના આરોગ્યની પ્રથમ જરૂરિયાત મોઢું સાફ રાખવું તે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Hygiene = સ્વચ્છતા. First rule = Cleaning.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "According to Dr. Sharma, how many times should we brush our teeth?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> According to Dr. Sharma, we should brush our teeth twice a day—once in the morning and once before going to bed. (ડો. શર્માના મતે, આપણે દિવસમાં બે વાર બ્રશ કરવું જોઈએ - સવારે અને રાત્રે સૂતા પહેલા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Twice = બે વાર (M+B: Morning & Bedtime).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "What do the tiny food particles do if we don't clean our mouth?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Tiny food particles stick to the surface of the teeth and in the spaces between the teeth. (ખોરાકના નાના કણો દાંતની સપાટી પર અને દાંત વચ્ચેની જગ્યામાં ચોંટી જાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Tiny particles + Stick = Cavity starts.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "What is the job of germs in the mouth?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Germs feed on the food particles and eventually eat up parts of the teeth. (જંતુઓ ખોરાકના કણોને ખાય છે અને અંતે દાંતના ભાગોને પણ ખાઈ જાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Germs + Food = Tooth destruction!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "Which is the uppermost layer of the tooth?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Enamel is the uppermost, white, and hardest layer of the tooth. (એનેમલ એ દાંતનું સૌથી ઉપરનું, સફેદ અને સૌથી સખત પડ છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Top Layer = Enamel (White & Hardest).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "What is the second layer of the tooth called?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The second layer is called dentine, which is slightly yellowish. (બીજા પડને ડેન્ટિન કહેવામાં આવે છે, જે થોડું પીળાશ પડતું હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 2nd Layer = Dentine (Yellowish).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "What is the innermost part of the tooth?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The innermost part of the tooth is called dental pulp. (દાંતના સૌથી અંદરના ભાગને ડેન્ટલ પલ્પ કહેવામાં આવે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Inner Layer = Pulp.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "How many types of teeth are there? Name them.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> There are two types of teeth: Deciduous teeth (milk teeth) and Permanent teeth. (દાંતના બે પ્રકાર છે: ખરી જાય તેવા દૂધિયા દાંત અને કાયમી દાંત.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Types = Deciduous vs Permanent.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "What are 'Incisors' and 'Canines'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Incisors are the front teeth used for cutting, and canines are the pointed teeth next to them. (ઇન્સાઇઝર્સ એ આગળના દાંત છે જે કાપવા માટે વપરાય છે, અને કેનાઇન્સ તેની બાજુમાં રહેલા અણીદાર દાંત છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Incisors = Front/Cut, Canines = Pointed.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "Why did the doctor say that Sonia was a brave girl?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Sonia was brave because she went to the dentist alone despite having a severe toothache. (સોનિયા બહાદુર હતી કારણ કે સખત દુખાવો હોવા છતાં તે ડોક્ટર પાસે જવા તૈયાર થઈ હતી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Brave = Facing the fear/pain.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "Explain the right way of brushing according to the doctor.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The right way is to move the brush upward and downward so that it removes the tiny bits of food stuck between the teeth. (બ્રશ કરવાની સાચી રીત તેને ઉપર અને નીચેની તરફ ફેરવવાની છે જેથી દાંત વચ્ચે ફસાયેલા ખોરાકના કણો નીકળી જાય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Right Brushing = Upward + Downward movement.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "What is the function of 'Molars'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Molars and premolars are used for grinding the food. (મોલર અને પ્રીમોલરનો ઉપયોગ ખોરાકને ચાવવા અથવા ભરડવા માટે થાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Molar = Grinder (ઘંટી જેવું કામ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "How many deciduous teeth do children usually have?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Children usually have about 20 deciduous teeth. (બાળકોને સામાન્ય રીતે આશરે ૨૦ દૂધિયા દાંત હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Deciduous = 20, Permanent = 32.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "What happens when germs destroy the enamel layer?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> When germs destroy the enamel, it leads to a cavity in the tooth. (જ્યારે જંતુઓ એનેમલના પડને નષ્ટ કરે છે, ત્યારે તે દાંતમાં કેવિટી (પોલાણ) પેદા કરે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): No Enamel = Cavity Entry!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "Why should we clean our mouth after every meal?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> We should clean our mouth to ensure that no food particles stay stuck to the teeth, which prevents germ growth. (આપણે દરેક ભોજન પછી મોઢું સાફ કરવું જોઈએ જેથી ખોરાકના કણો દાંતમાં ન રહે અને જંતુઓ ન વધે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Clean mouth = No food for germs.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "What advice did Dr. Sharma give to Sonia about her tooth?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Dr. Sharma advised Sonia to take some medicine to reduce the pain and then come back for further treatment. (ડો. શર્માએ સોનિયાને દુખાવો ઓછો કરવા માટે દવા લેવા અને પછી આગળની સારવાર માટે પાછા આવવાની સલાહ આપી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Medicine first -> Treatment next.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "What did the doctor use to fill the cavity?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The doctor filled the cavity with a 'white substance' called Light Cured Composite Filling Material. (ડોક્ટરે કેવિટીને 'લાઇટ ક્યોર્ડ કમ્પોઝિટ ફિલિંગ મટિરિયલ' નામના સફેદ પદાર્થથી ભરી દીધી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Cavity Filler = Composite Material.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "Define 'Deciduous teeth'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Deciduous teeth, also known as milk teeth, are temporary teeth that fall out one by one after some years. (ડેસિડ્યુઅસ દાંત, જેને દૂધિયા દાંત પણ કહેવામાં આવે છે, તે કામચલાઉ દાંત છે જે થોડા વર્ષો પછી એક પછી એક ખરી જાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Deciduous = Falling/Temporary (દૂધિયા દાંત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "What is the reason behind Sonia's cavity?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Sonia's habit of eating sweets and not brushing her teeth properly twice a day was the reason for her cavity. (સોનિયાની મીઠાઈ ખાવાની ટેવ અને દિવસમાં બે વાર યોગ્ય રીતે બ્રશ ન કરવાની આદત તેની કેવિટીનું કારણ હતું.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Sweets + Poor Brushing = Cavity.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "Write the names of the three layers of a tooth.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The three layers of a tooth are: 1. Enamel (Upper), 2. Dentine (Middle), and 3. Dental Pulp (Inner). (દાંતના ત્રણ પડ છે: ૧. એનેમલ, ૨. ડેન્ટિન અને ૩. ડેન્ટલ પલ્પ.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): E-D-P (Enamel -> Dentine -> Pulp).</p></div>"
+    }
+  ]
+}
