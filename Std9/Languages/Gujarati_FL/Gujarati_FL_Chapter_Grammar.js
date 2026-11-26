@@ -3657,3 +3657,161 @@ var Std9_Gujarati_FL_Chapter_Grammar = {
     }
   ]
 }
+,
+"24": {
+  "chapterName": "પ્રકરણ 24",
+  "chapterTitle": "પ્રેરક પ્રસંગો (પૂરક વાચન)",
+  "contentType": "પ્રકરણ આધારિત વ્યાકરણ અને શબ્દભંડોળ",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પ્રકરણ 'પ્રેરક પ્રસંગો' નો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આ પ્રકરણનો સાહિત્ય પ્રકાર 'પ્રસંગ લેખ' (પ્રેરક પ્રસંગો) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'પ્રેરક' શબ્દ પોતે જ સૂચવે છે કે આ કોઈના જીવનમાંથી લેવાયેલા પ્રેરણાત્મક પ્રસંગો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સમાનાર્થી શબ્દ આપો: 'નિષ્ઠા'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શ્રદ્ધા, આસ્થા, અડગ વિશ્વાસ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) નિષ્ઠા એટલે જે 'નિશ્ચિત' રીતે જોડાયેલી હોય તેવી શ્રદ્ધા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિરોધી શબ્દ જણાવો: 'સ્વાશ્રય'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પરાશ્રય (બીજા પર આધાર રાખવો તે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'સ્વ' (પોતાના) નું વિરોધી 'પર' (બીજાનું) થાય, એટલે સ્વાશ્રયનું પરાશ્રય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સાચી જોડણી લખો: 'પરિસ્થિતિ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પરિસ્થિતિ (ચારેય ઇ-કાર હ્રસ્વ આવશે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'પ-રિ-સ્થિ-તિ' માં બધું જ 'નાનું' (હ્રસ્વ) રાખવાનું, તો જ સ્થિતિ સુધરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'જેની કોઈ શત્રુ નથી તે'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અજાતશત્રુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) અ + જાત (જન્મવું) + શત્રુ = જેનો શત્રુ હજુ જન્મ્યો જ નથી તે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'આકાશપાતાળ એક કરવા'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ખૂબ જ સખત પરિશ્રમ કરવો / ભારે મહેનત કરવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ઉપર (આકાશ) અને નીચે (પાતાળ) બંનેને જોડી દેવા એટલે અથાક મહેનત કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સમાનાર્થી શબ્દ આપો: 'અજાયબી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> આશ્ચર્ય, નવાઈ, વિસ્મય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) જે જોઈને મોઢામાંથી 'અજબ' શબ્દ નીકળે તે અજાયબી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સાચી જોડણી લખો: 'જિજ્ઞાસા'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જિજ્ઞાસા (જ હ્રસ્વ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) જાણવાની 'જિજ્ઞાસા' હંમેશા નાની (હ્રસ્વ) ઉંમરથી જ જાગે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિરોધી શબ્દ જણાવો: 'નિયમિત'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અનિયમિત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) નિયમની આગળ 'અ' પ્રત્યય લગાવવાથી તેનું વિરોધી બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'રાત અને દિવસ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અહોરાત્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'અહ' એટલે દિવસ અને 'રાત્ર' એટલે રાત. (સંસ્કૃત આધારિત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'આંખ ઉઘડવી'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> સાચી સમજ આવવી / ભૂલ સમજાઈ જવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) અંધારામાંથી પ્રકાશમાં આવવું એટલે આંખ ઉઘડવી (જાગૃત થવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સમાનાર્થી શબ્દ આપો: 'સંયમ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કાબૂ, નિયંત્રણ, દમન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) મન પર 'યમ' (નિયંત્રણ) રાખવું એટલે સંયમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સાચી જોડણી લખો: 'શારીરિક'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> શારીરિક (રી દીર્ઘ, રિ હ્રસ્વ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) મોટો 'રી' પછી નાનો 'રિ' - આ યાદ રાખવાથી શરીર સાજું રહેશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'જાણી જોઈને કરેલું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઈરાદાપૂર્વક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) જેના મૂળમાં 'ઈરાદો' હોય તે કાર્ય ઈરાદાપૂર્વક કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિરોધી શબ્દ આપો: 'ઉદાર'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કંજૂસ / સંકુચિત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) મોટું મન રાખનાર 'ઉદાર' અને મન નાનું રાખનાર 'સંકુચિત'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સમાનાર્થી શબ્દ આપો: 'પરિશ્રમ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મહેનત, પુરુષાર્થ, કષ્ટ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'શ્રમ' જે શબ્દમાં હોય તેનો અર્થ મહેનત જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'સંગ્રહ ન કરવો તે'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અપરિગ્રહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) પરિગ્રહ એટલે ભેગું કરવું અને 'અ' એટલે નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સાચી જોડણી લખો: 'કીર્તિ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> કીર્તિ (કી દીર્ઘ, ર્તિ માં ત હ્રસ્વ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) નામ 'કી' (દીર્ઘ) હોય તો જ કીર્તિ ફેલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'જીવ પરોવવો'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> એકચિત્ત થઈ જવું / તન્મય થઈ જવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) સોયમાં દોરો પરોવીએ તેમ કામમાં મન પરોવવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સમાનાર્થી શબ્દ આપો: 'ઉત્સાહ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ઉમંગ, હોંશ, ઉમળકો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) કામ કરવાની 'ઉ' થી શરૂ થતી ધગશ એટલે ઉત્સાહ/ઉમંગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિરોધી શબ્દ આપો: 'વિજય'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પરાજય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'વી' એટલે જીત અને 'પરા' એટલે હાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સાચી જોડણી લખો: 'જિજ્ઞાસુ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> જિજ્ઞાસુ (જિ હ્રસ્વ, સુ હ્રસ્વ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) જિજ્ઞાસા અને જિજ્ઞાસુ બંનેમાં બધું જ 'હ્રસ્વ' આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ આપો: 'સહનશીલતા રાખવી તે'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> તિતિક્ષા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) તિતિક્ષા એટલે સુખ-દુઃખમાં અડગ રહી સહન કરવાની શક્તિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સમાનાર્થી શબ્દ આપો: 'અભ્યાસ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> અધ્યયન, મહાવરો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) વારંવાર જે ક્રિયા કરીએ તેને અભ્યાસ કે મહાવરો કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "રૂઢિપ્રયોગનો અર્થ આપો: 'ભીંસમાં લેવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> મુશ્કેલીમાં મૂકવું / દબાણ કરવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) કોઈને સાંકડી જગ્યામાં (મુસીબતમાં) લાવી દેવું એટલે ભીંસમાં લેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પ્રકરણ મુજબ, વ્યક્તિના જીવન ઘડતરમાં શાનો મોટો ફાળો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પ્રેરક પ્રસંગો અને ઉમદા ચરિત્રોનો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) જેવા પ્રસંગો વાંચશો, તેવું જ તમારું વ્યક્તિત્વ ઘડાશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "સંધિ છોડો: 'પાવક'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પૌ + અક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) જ્યારે 'આવ' ઉચ્ચારાય ત્યારે 'ઔ' માત્રા લાગે (પાવક -> પૌ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિરોધી શબ્દ જણાવો: 'ગર્વ'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિરભિમાન / વિનમ્રતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) અભિમાનનું વિરોધી જેમ નિરભિમાન થાય, તેમ ગર્વનું પણ તે જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "સાચી જોડણી લખો: 'પરિશ્રમિક' (ખોટું), સાચું શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> પારિશ્રમિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'ઇક' પ્રત્યય લાગે ત્યારે પ્રથમ અક્ષર દીર્ઘ બને (પ નું પા થાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "નીચેનામાંથી કયો શબ્દ 'સ્વચ્છતા' નો સમાનાર્થી છે? (નિર્મળતા, ગંદકી, અસ્વચ્છતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> નિર્મળતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) નિઃ + મળ = જેમાં કોઈ મળ (ગંદકી) નથી તે એટલે નિર્મળ.</p></div>"
+    }
+  ]
+}
