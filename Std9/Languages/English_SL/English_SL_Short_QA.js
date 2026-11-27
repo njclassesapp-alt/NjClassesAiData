@@ -397,3 +397,136 @@ var Std9_English_SL_Short_QA = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "Call of the Hills",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "Question 1",
+      "question": "Who was Abbu Khan and where did he live?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Abbu Khan was a kind old man who lived alone in Almora. He was known for keeping goats as pets.</p><p><strong>ગુજરાતી સમજૂતી:</strong> અબુ ખાન અલમોડામાં રહેતા એક માયાળુ વૃદ્ધ હતા જે બકરીઓ પાળતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Abbu = Almora + Goat Lover યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "Question 2",
+      "question": "What was the name of Abbu Khan's favorite goat that left him first?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> The name of the goat was Kalua. She was black and very dear to Abbu Khan.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ક' પરથી કાળી (Black) અને 'ક' પરથી કલુઆ.</p></div>"
+    },
+    {
+      "questionNumber": "Question 3",
+      "question": "Why did Abbu Khan's goats leave him one by one?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> The goats loved their freedom. They wanted to go to the beautiful, green hills, even though they knew a dangerous wolf lived there.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Hills = Freedom = Danger (Wolf).</p></div>"
+    },
+    {
+      "questionNumber": "Question 4",
+      "question": "Describe the new goat 'Chandni'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Chandni was young, pretty, white as snow, had two little horns, and red eyes. She was very friendly.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Chandni = White (Snow) + Red eyes.</p></div>"
+    },
+    {
+      "questionNumber": "Question 5",
+      "question": "Why did Abbu Khan name the new goat 'Chandni'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> He named her Chandni because she was as white as moonlight. 'Chandni' means moonlight in Hindi/Gujarati.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Chandni (ચાંદની) = Moonlight (ચંદ્રનો પ્રકાશ).</p></div>"
+    },
+    {
+      "questionNumber": "Question 6",
+      "question": "How did Abbu Khan look after his goats?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> He gave them juicy grass, delicious grains, and talked to them as if they were his own children.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Grass + Grain + Gossip (Talk) = Abbu's care.</p></div>"
+    },
+    {
+      "questionNumber": "Question 7",
+      "question": "What did Chandni see when she looked at the hills?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> She saw beautiful green hills bathed in sunlight and felt a strong urge to run towards them.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Hills + Sunlight = Attraction.</p></div>"
+    },
+    {
+      "questionNumber": "Question 8",
+      "question": "What happened to Chandni's appetite after she saw the hills?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> She lost her appetite, stopped eating the green grass, grew thin, and stared at the hills all day.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): No appetite = Missing freedom.</p></div>"
+    },
+    {
+      "questionNumber": "Question 9",
+      "question": "What did Chandni say to Abbu Khan when she wanted to leave?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> She said, \"Abbu Khan, let me go to the hills, please. If I stay in your compound, I will die.\"</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Go to hills = Life | Stay in compound = Death.</p></div>"
+    },
+    {
+      "questionNumber": "Question 10",
+      "question": "How did Abbu Khan react when Chandni asked for freedom?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> He became very sad. He tried to warn her about the cruel wolf in the hills and eventually shut her in a small hut.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Reaction = Sadness + Warning + Captivity (Hut).</p></div>"
+    },
+    {
+      "questionNumber": "Question 11",
+      "question": "How did Chandni escape from the small hut?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Abbu Khan forgot to close the small window at the back. Chandni jumped out of that window to reach the hills.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Open window = Way to escape.</p></div>"
+    },
+    {
+      "questionNumber": "Question 12",
+      "question": "How did Chandni feel when she reached the hills?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> She felt extremely happy, like a child meeting her mother after years. She played, jumped, and ate fresh grass.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Happy like a child + Mother nature.</p></div>"
+    },
+    {
+      "questionNumber": "Question 13",
+      "question": "What change did Chandni see as the sun went behind the hills?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Darkness covered the hills, the wind stopped blowing, and there was a strange stillness and fear in the air.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Sunset = Darkness + Silence = Danger.</p></div>"
+    },
+    {
+      "questionNumber": "Question 14",
+      "question": "Describe the appearance of the wolf.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> The wolf was big and ferocious. It had greedy eyes that glowed like burning coals in the dark.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Wolf = Big + Ferocious + Burning eyes.</p></div>"
+    },
+    {
+      "questionNumber": "Question 15",
+      "question": "Why did Chandni not run back to Abbu Khan when she saw the wolf?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> She thought that death on the hills was far better than life in a small hut. She decided to fight for her freedom.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Freedom death > Captivity life.</p></div>"
+    },
+    {
+      "questionNumber": "Question 16",
+      "question": "What was Chandni's strategy during the fight?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> She stood firm on her legs, bent her head slightly, and aimed her sharp horns at the wolf like a brave soldier.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Firm legs + Sharp horns = Soldier goat.</p></div>"
+    },
+    {
+      "questionNumber": "Question 17",
+      "question": "How long did the fight between Chandni and the wolf last?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> The fight lasted all night long. Chandni fought bravely until the first rays of the sun appeared.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Night fight = Long struggle.</p></div>"
+    },
+    {
+      "questionNumber": "Question 18",
+      "question": "What happened to Chandni at the break of dawn?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Chandni fell to the ground, exhausted and covered in blood. The wolf finally killed and ate her.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Dawn = End of life, End of fight.</p></div>"
+    },
+    {
+      "questionNumber": "Question 19",
+      "question": "Who was watching the fight from the tree?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> A flock of birds sitting on the tree was watching the entire fight between Chandni and the wolf.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Birds = Observers / Judges.</p></div>"
+    },
+    {
+      "questionNumber": "Question 20",
+      "question": "What was the debate among the birds after the fight?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> The birds were debating who the winner was. Most of them thought the wolf won because he was alive.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Debate = Wolf (alive) vs Chandni (brave).</p></div>"
+    },
+    {
+      "questionNumber": "Question 21",
+      "question": "What did the wise old bird say about the winner?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> The wise old bird declared, \"Chandni is the winner!\" because she fought for her freedom and didn't give up.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Real Winner = One who fights for freedom.</p></div>"
+    },
+    {
+      "questionNumber": "Question 22",
+      "question": "Give the meaning of 'appetite' and 'ferocious'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> 'Appetite' means the desire for food (ભૂખ), and 'ferocious' means very wild and cruel (ક્રૂર/હિંસક).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Appetite = Hunger; Ferocious = Cruel.</p></div>"
+    },
+    {
+      "questionNumber": "Question 23",
+      "question": "Why is the chapter named 'Call of the Hills'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> It is named so because the goats felt an irresistible 'call' or attraction towards the freedom of the hills, leading them to leave their safety.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Call = Attraction; Hills = Freedom.</p></div>"
+    },
+    {
+      "questionNumber": "Question 24",
+      "question": "What message does this story convey?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> The story conveys that freedom is precious and worth fighting for, even if the struggle is difficult and leads to death.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Message: Freedom > Life.</p></div>"
+    },
+    {
+      "questionNumber": "Question 25",
+      "question": "Translate the following words: 'Stillness', 'Exhausted', 'Firm'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>Answer:</strong> Stillness = શાંતિ/સ્થિરતા, Exhausted = અત્યંત થાકેલું, Firm = મક્કમ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Firm (મક્કમ) પગે લડવું - Chandni's style.</p></div>"
+    }
+  ]
+}
