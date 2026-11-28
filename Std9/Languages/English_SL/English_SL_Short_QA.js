@@ -530,3 +530,136 @@ var Std9_English_SL_Short_QA = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "Rani Ki Vav",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Who constructed the 'Rani Ki Vav'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Queen Udayamati, the widow of King Bhimdev I, constructed the Rani Ki Vav.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘U’ for Udayamati and ‘B’ for Bhimdev. રાણી ઉદયમતીએ તેના પતિ ભીમદેવની યાદમાં વાવ બનાવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "Which title was awarded to Rani Ki Vav by UNESCO?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> UNESCO awarded Rani Ki Vav the title of 'World Heritage Site'.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): UNESCO = World Heritage. વિશ્વ સ્તરે માન્યતા એટલે વર્લ્ડ હેરિટેજ સાઈટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "Where is Rani Ki Vav situated?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Rani Ki Vav is situated at Patan in Gujarat.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાટણ એટલે રાણીની વાવનું ઘર (Home of the Vav).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "How many storeys (floors) does Rani Ki Vav have?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Rani Ki Vav is a seven-storeyed structure.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 7 Wonders જેવું 7 Storeys. સાત માળની ભવ્યતા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "Why did Queen Udayamati build this Vav?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> She built it to solve the problem of water scarcity faced by the people of Patan.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Problem = Water Scarcity (પાણીની અછત), Solution = Vav (વાવ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "What are the dimensions of the Vav (Length, Width, and Depth)?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The Vav is 64 metres long, 20 metres wide, and 27 metres deep.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 64 - 20 - 27. (L-W-D). આ આંકડા મોબાઈલ નંબરની જેમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "Which sculptures are most attractive in the Vav?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The sculptures of 'Apsaras' and 'Dashavatar' (ten incarnations of Lord Vishnu) are the most attractive.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Apsara + Vishnu = Beauty of Vav.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "How many sculptures of Apsaras are there in the Vav?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> There are nearly 800 sculptures of Apsaras in the Vav.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 800 Apsaras! (800 અપ્સરાઓ અને તેમના વિવિધ શૃંગાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "Which incarnations of Lord Vishnu are found in the Vav?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Sculptures of Varaha, Vaman, Narasimha, Ram, Kalki, and Buddha are found there.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દશાવતારના મુખ્ય નામો યાદ રાખો (રામ, બુદ્ધ, કલ્કિ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "Name any four goddesses whose sculptures are in the Vav.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Gauri, Varahi, Vaishnavi, and Chamunda are some of the goddesses found in the Vav.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શક્તિના રૂપો (G-V-V-C) ગૌરી, વારાહી, વૈષ્ણવી, ચામુંડા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "How many types of Gauri sculptures are found at one place in the Vav?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Twelve (12) types of Gauri sculptures are found at one place in the Vav.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 12 Months = 12 Gauris. બારે માસ ગૌરી પૂજા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "Name some of the twelve forms of Gauri found in the Vav.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Uma, Parvati, Gauri, Lalita, Shridevi, Krishna, Maheshwari, Rambha, Savitri, Trishanda, Totala and Tripura.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉમા, પાર્વતી, ગૌરી એ મુખ્ય ત્રણ યાદ રાખવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "Why was the Vav buried under the mud for centuries?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> It was buried due to floods in the river Saraswati and the vanishing of the river later.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): River Saraswati + Flood = Mud (કાદવમાં દટાઈ ગઈ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "Who preserved the structure of Rani Ki Vav recently?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The ASI (Archaeological Survey of India) took great care to preserve this structure.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ASI = Protection of Heritage (વારસાનું રક્ષણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "What does the Vav represent in terms of architecture?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> It represents the masterpiece of Solanki architecture and the artistic imagination of sculptors.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Solanki Era = Golden Age of Architecture.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "To which dynasty did King Bhimdev I belong?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> King Bhimdev I belonged to the Solanki dynasty of Anhilwad Patan.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Solanki Dynasty = King Bhimdev I.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "How many sculptures of Gods and Goddesses are there in the Vav?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> There are around 400 sculptures of various Gods and Goddesses in the Vav.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 400 Gods + 800 Apsaras. (દેવો કરતા અપ્સરા બમણી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "Which sculpture shows Lord Vishnu in a relaxed position?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The sculpture of Lord Vishnu reclining on the bed of the snake Sheshshaiya shows him in a relaxed position.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Vishnu + Sheshshaiya = Relaxing Pose.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "What kind of lifestyle do the Apsara sculptures show?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> They show the variety of lifestyles, moods, and expressions of that era.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Moods + Expressions = Artistic Apsaras.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "Is Rani Ki Vav only a stepwell for water?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> No, it is also an exceptional example of a submerged temple with beautiful carvings.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Vav = Stepwell + Temple (માત્ર કૂવો નહીં, મંદિર પણ છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "Which river is mentioned in the history of Rani Ki Vav?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The river Saraswati is mentioned in the history of Rani Ki Vav.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): S for Saraswati, S for Solanki. સરસ્વતી નદીના કિનારે પાટણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "When was Rani Ki Vav nominated for the World Heritage list?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> It was nominated by the ASI in recent years, and UNESCO approved it in February 2014.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 2014 - જ્યારે વાવને વિશ્વની ઓળખ મળી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "Give the meaning of 'scarcity' in Gujarati.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Scarcity means 'અછત' or 'તંગી' (Shortage).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Scarcity = Less supply. પાઠમાં પાણીની અછત સંદર્ભે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "Who was the son of King Bhimdev I?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Karndev Solanki was the son of King Bhimdev I and Queen Udayamati.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Bhimdev -> Karndev -> Siddhraj Jaisinh (સોલંકી વંશાવલી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "Why is Rani Ki Vav considered an 'unmatched' structure?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> It is considered unmatched because of its unique design, scale, and magnificent carvings.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Unmatched = અજોડ (જેની કોઈ જોડી ન હોય).</p></div>"
+    }
+  ]
+}
