@@ -663,3 +663,136 @@ var Std9_English_SL_Short_QA = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "The Night Train at Deoli",
+  "contentType": "હેતુલક્ષી અને ટૂંક જવાબી પ્રશ્નો (1 અને 2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Who is the author of the story 'The Night Train at Deoli'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The author of this story is Ruskin Bond.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘Bond’ એટલે જોડાણ – લેખકે આ વાર્તામાં છોકરી સાથેના હૃદયના જોડાણ (Bond) ની વાત કરી છે, તેથી Ruskin Bond યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "Where did the narrator spend his summer vacation?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The narrator spent his summer vacation at his grandmother's place in Dehra (Dehradun).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Summer = Grandmother's house in Dehra.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "At which station did the train stop regularly during the journey?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The train stopped at a small lonely station called Deoli.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠનું નામ જ 'The Night Train at Deoli' છે, એટલે સ્ટેશન 'Deoli' જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "What was the girl selling at Deoli station?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The girl was selling hand-woven cane baskets.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Baskets (ટોપલીઓ) - છોકરીના હાથમાં ટોપલીઓ હતી તે યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "Describe the appearance of the girl selling baskets.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> She had pale skin, shiny black hair, and dark, searching eyes.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘PSD’ સૂત્ર યાદ રાખો: P - Pale skin, S - Shiny hair, D - Dark eyes.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "Why did the narrator keep looking at the girl?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The narrator was attracted to her and her searching eyes captivated him.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘Searching eyes’ (શોધક આંખો) લેખકને આકર્ષતી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "What happened when the girl came near the narrator's window?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> She stood there for some time and they just looked at each other in silence.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Window + Silence = First meeting.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "How much did the narrator pay for a basket?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The narrator gave her a one-rupee note and took a basket.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તે જમાનામાં ‘1 Rupee’ ની ઘણી કિંમત હતી, તે યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "What signal did the guard give?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The guard blew his whistle for the train to leave.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Guard + Whistle = Train Departure (ટ્રેન ઉપડવી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "What did the narrator feel as the train left Deoli?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The narrator felt a sense of longing and could not forget the girl's face.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘Impression’ - છોકરીના ચહેરાની છાપ લેખકના મન પર પડી ગઈ હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "Did the narrator see the girl again on his return journey?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Yes, he saw her again when he was returning from Dehra.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Second meeting = Return journey.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "What did the girl and the narrator talk about during their second meeting?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> They hardly spoke any words; their eyes did all the talking.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Words are few, feelings are true. (બોલી ઓછું, સમજ્યા વધારે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "What promise did the narrator make to himself?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The narrator promised to himself that one day he would break his journey at Deoli and find the girl.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Break the journey' (મુસાફરી વચ્ચે રોકવી) એ મુખ્ય યાદ રાખવાનો શબ્દ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "What happened when the narrator looked for the girl the next time he passed Deoli?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> He did not see her on the platform and felt a deep sense of disappointment.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Missing girl = Disappointment (નિરાશા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "Whom did the narrator ask about the girl?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The narrator asked the station master about the girl selling baskets.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Station master is the head of the station, so ask him!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "What answer did the station master give regarding the girl?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> The station master said he didn't know anything about the girl and that many people came and went.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Station Master = No info (માહિતી નથી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "Why did the narrator not break his journey at Deoli finally?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> He was afraid of finding out something unpleasant or that she might not be there at all. He preferred to keep his dream alive.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘Dream vs Reality’ – વાસ્તવિકતા કરતાં સપનું વધારે મીઠું હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "How did the girl react when the narrator first refused to buy a basket?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> She was not offended; she just offered them again with a smile, showing her confidence.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Smile + Confidence = The girl's reaction.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "Explain the narrator's state of mind after leaving Deoli for the second time.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> He was anxious and excited. He kept awake for the rest of the journey, thinking about her.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Awake + Thinking = narrator's state of mind.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "What is the significance of the title 'The Night Train at Deoli'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> It highlights the setting of the story where a brief, romantic encounter happens during a night train stop at a quiet station.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Title = Place (Deoli) + Time (Night) + Event (Train stop).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "Why does the narrator call Deoli a 'lonely station'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> Because it was a small station in the middle of a jungle where very few people got off and nothing much happened.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Lonely = Small + Jungle + No crowd.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "Translate and explain: 'I was afraid of discovering the truth.'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> ગુજરાતી: 'મને સત્ય જાણતા ડર લાગતો હતો.' The narrator didn't want to know if the girl was married, dead, or gone, as it would break his beautiful memory.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Truth can be painful (સત્ય કડવું હોઈ શકે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "What did the girl do when she saw the narrator for the second time?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> She gave him a pleased smile and her eyes were lit up with recognition.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Recognition (ઓળખાણ) + Smile.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "Did the narrator ever find out what happened to the girl?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> No, the story ends with the girl remaining a mystery to the narrator.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Mystery = Unknown ending.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "Why does the narrator continue to travel by the same train?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉત્તર:</strong> He hopes that one day he might see the girl again standing on the platform of Deoli.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Hope (આશા) is the reason for his travels.</p></div>"
+    }
+  ]
+}
